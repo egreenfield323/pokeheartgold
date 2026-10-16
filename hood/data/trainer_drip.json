@@ -1,0 +1,85 @@
+{
+  "0": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 41,
+        "y": 31,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      45,
+      48
+    ],
+    "gun_scale_front": 1,
+    "gun": "ar15"
+  },
+  "1": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 35,
+        "x2": 43,
+        "y": 34,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      44
+    ]
+  },
+  "2": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 39,
+        "y": 42,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      48
+    ]
+  },
+  "3": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 36,
+        "x2": 44,
+        "y": 31,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      22
+    ],
+    "gun_scale_front": 0.3
+  },
+  "4": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 41,
+        "y": 47,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      37
+    ]
+  }
+}

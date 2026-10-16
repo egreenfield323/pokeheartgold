@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Intro edits: Professor Oak's portrait (wife beater, drawers, powder under the nose) and
 the intro Marill (durag + chain). Edits files/demo/intro/intro/*.NCGR/NCLR in place (same sizes).
-Originals are read from git HEAD. Run from the repo root:  python hood/make_intro.py [--preview out.png]
+Originals are read from the base commit 77565981b. Run from the repo root:  python hood/make_intro.py [--preview out.png]
 """
 import struct
 import subprocess
@@ -13,7 +13,7 @@ D = "files/demo/intro/intro/intro_%08d.%s"
 
 
 def head(rel):
-    return bytearray(subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout)
+    return bytearray(subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout)
 
 
 def block(b, magic):

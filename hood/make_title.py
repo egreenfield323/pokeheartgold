@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Drip for the 3D Ho-Oh on the title screen: sunglasses (its eye texture) and a gold grill
-(its mouth texture). Edits titledemo_00000025.NSBMD in place; originals come from git HEAD.
+(its mouth texture). Edits titledemo_00000025.NSBMD in place; originals come from the base commit 77565981b.
 
 The title-screen Lugia has no face texture (it is vertex-coloured), so it is left alone.
 """
@@ -23,7 +23,7 @@ def spare(rows, n):
 
 
 def main():
-    data = subprocess.run(["git", "show", f"HEAD:{HOOH}"], cwd=ROOT, capture_output=True, check=True).stdout
+    data = subprocess.run(["git", "show", f"77565981b:{HOOH}"], cwd=ROOT, capture_output=True, check=True).stdout
     b, texs, pals = nsbtx.parse(data)
     tex = {t["name"]: t for t in texs}
     pal = {p["name"]: p for p in pals}

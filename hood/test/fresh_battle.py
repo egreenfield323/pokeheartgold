@@ -11,7 +11,8 @@ res = subprocess.run(['tasklist', '/FI', 'IMAGENAME eq DeSmuME_0.9.13_x64.exe', 
 pid = int(res.split(',')[1].strip('"'))
 assert winmenu.fire_path(pid, ('File', 'Recent ROM', rom)), "ROM not in DeSmuME's recent list"
 time.sleep(3)
-# title -> continue menu -> continue -> overworld (the save was made with the menu open: B closes it)
-subprocess.run([sys.executable, '-I', str(here / 'lua_go.py'), "wait 240;mash A 4;wait 120;press A;wait 300", '90'], check=True)
+# title -> continue menu -> continue -> overworld (the save was made with the menu open: find_battle closes it)
+subprocess.run([sys.executable, '-I', str(here / 'lua_go.py'), "wait 240;mash A 4;wait 120;press A;wait 300", '90'],
+               check=True, capture_output=True)
 r = subprocess.run([sys.executable, '-I', str(here / 'find_battle.py'), '3', '40'], capture_output=True, text=True)
-print(r.stdout.strip())
+print(r.stdout.strip() or r.stderr[-500:])

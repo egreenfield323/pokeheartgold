@@ -1,0 +1,321 @@
+{
+  "BOY2": {
+    "down": [
+      {
+        "type": "gun",
+        "kind": "pistol",
+        "dx": -2,
+        "dy": 2
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "gun",
+        "kind": "pistol"
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "gun",
+        "kind": "pistol"
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "gun",
+        "kind": "pistol"
+      }
+    ],
+    "auto_right": false
+  },
+  "DOCTOR": {
+    "down": [
+      {
+        "type": "powder"
+      },
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "k"
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "k"
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "k"
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "k"
+      }
+    ],
+    "auto_right": false
+  },
+  "MAID": {
+    "down": [
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "snapback",
+        "color": "k",
+        "dx": 0,
+        "dy": -1
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "hat",
+        "style": "snapback",
+        "color": "k"
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "hat",
+        "style": "snapback",
+        "color": "k"
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "hat",
+        "style": "snapback",
+        "color": "k"
+      }
+    ],
+    "auto_right": false
+  },
+  "DELIVERY": {
+    "down": [
+      {
+        "type": "chain",
+        "heavy": false
+      },
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "k",
+        "dx": 0,
+        "dy": -3
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "k"
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "k"
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "k"
+      }
+    ],
+    "auto_right": false
+  },
+  "SUNGLASSES": {
+    "down": [
+      {
+        "type": "gun",
+        "kind": "mid",
+        "dx": -3,
+        "dy": 2
+      },
+      {
+        "type": "chain",
+        "heavy": false,
+        "dx": 3,
+        "dy": 1
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "W"
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "gun",
+        "kind": "mid",
+        "dx": 2,
+        "dy": 2
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "W"
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "gun",
+        "kind": "mid",
+        "dx": 3,
+        "dy": 3
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "W"
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "gun",
+        "kind": "mid"
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "color": "W"
+      }
+    ],
+    "auto_right": false
+  },
+  "HERO": {
+    "down": [
+      {
+        "type": "chain",
+        "heavy": true,
+        "dx": 0,
+        "dy": 6,
+        "scale": 0.5
+      },
+      {
+        "type": "bonnet",
+        "color": "r",
+        "dx": 0,
+        "dy": 1
+      },
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "r",
+        "scale": 1.3
+      }
+    ],
+    "auto_down": false,
+    "up": [
+      {
+        "type": "bonnet",
+        "color": "r"
+      },
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "r",
+        "scale": 1.3
+      }
+    ],
+    "auto_up": false,
+    "left": [
+      {
+        "type": "chain",
+        "heavy": true,
+        "dx": -4,
+        "dy": 5,
+        "scale": 0.5
+      },
+      {
+        "type": "bonnet",
+        "color": "r"
+      },
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "r",
+        "scale": 1.3
+      }
+    ],
+    "auto_left": false,
+    "right": [
+      {
+        "type": "chain",
+        "heavy": true,
+        "scale": 0.5,
+        "dx": 4,
+        "dy": 5
+      },
+      {
+        "type": "hat",
+        "style": "durag",
+        "color": "r",
+        "scale": 1.3,
+        "dx": 0,
+        "dy": 1
+      }
+    ],
+    "auto_right": false
+  },
+  "CYCLEHERO": {
+    "down": [
+      {
+        "type": "chain",
+        "heavy": true,
+        "dx": 0,
+        "dy": 5
+      }
+    ],
+    "auto_down": false,
+    "up": [],
+    "auto_up": false,
+    "left": [],
+    "auto_left": false,
+    "right": [],
+    "auto_right": false
+  }
+}

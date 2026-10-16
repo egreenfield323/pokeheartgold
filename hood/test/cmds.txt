@@ -1,6 +1,10 @@
 keepopen
-hold left 16
-hold right 16
-wait 4
-shot w
+wait 20
+press A
+wait 30
+press A
+wait 90
+press A
+wait 100
+burst f 170 3
 done

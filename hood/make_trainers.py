@@ -6,9 +6,10 @@ Per class the NARC holds 5 files: [0] tiled 80x80 char data drawn through cells 
 [1] palette, [2] cells, [3] animation, [4] 160x80 bitmap encrypted the DP way. The bitmap is
 decrypted, dressed with the battle-sprite tools, re-encrypted with its original key, and the
 tiled copy is regenerated from it through the cell layout. Every member keeps its exact size,
-so the NARC is rewritten in place. Originals are read from git HEAD.
+so the NARC is rewritten in place. Originals are read from the base commit 77565981b.
 Run from the repo root:  python hood/make_trainers.py [--preview out.png]
 """
+import json
 import random
 import struct
 import subprocess
@@ -156,101 +157,151 @@ def gun_for(name, rng):
 
 
 def class_names():
-    gmm = subprocess.run(["git", "show", "HEAD:files/msgdata/msg/msg_0730.gmm"], cwd=ms.ROOT,
+    gmm = subprocess.run(["git", "show", "77565981b:files/msgdata/msg/msg_0730.gmm"], cwd=ms.ROOT,
                          capture_output=True, check=True).stdout.decode("utf-8")
     import re
     return [ah.xml_unescape(m.group(3)) for m in ah.ROW_RE.finditer(gmm)]
 
 
+DRIP = ms.ROOT / "hood/data/trainer_drip.json"
+
+
+def load_drip():
+    """Hand-placed trainer drip (the drip editor), keyed by class number - same item format as drip.json's
+    "front" view: front / auto_front / hand_front / gun_scale_front / no_gun_front / gun."""
+    return json.loads(DRIP.read_text(encoding="utf-8")) if DRIP.exists() else {}
+
+
+def load():
+    data = bytearray(subprocess.run(["git", "show", f"77565981b:{NARC}"], cwd=ms.ROOT, capture_output=True,
+                                    check=True).stdout)
+    return data, ah.narc_files(data), class_names()
+
+
+def dress_class(data, files, names, c, spec=None, report=None):
+    """Dress trainer class c in `data` (the NARC bytes, changed in place). Returns (name, original, dressed,
+    palette, tiled copy rebuilt) or None for an empty slot. `report` (a dict) gets the drawn items/gun and
+    their boxes."""
+    spec = spec or {}
+    o_ncgr, ncgr = blob_at(data, files, 5 * c)
+    o_nclr, nclr = blob_at(data, files, 5 * c + 1)
+    _, ncer = blob_at(data, files, 5 * c + 2)
+    o_bmp, bmp = blob_at(data, files, 5 * c + 4)
+    dbo = block(bmp, b"RAHC") + 0x20
+    words = list(struct.unpack_from("<3200H", bmp, dbo))
+    key = words[-1]
+    dec = decrypt(words)
+    raw = struct.pack("<3200H", *dec)
+    pixels = [[(raw[(y * 160 + x) // 2] >> 4) if x & 1 else (raw[(y * 160 + x) // 2] & 15) for x in range(160)]
+              for y in range(80)]
+    po = block(nclr, b"TTLP") + 0x18
+    pal = [((v & 31) << 3, ((v >> 5) & 31) << 3, ((v >> 10) & 31) << 3)
+           for v in struct.unpack_from("<16H", nclr, po)]
+    im = Image.new("P", (160, 80))
+    im.putdata([v for r in pixels for v in r])
+    im.putpalette([v for col in pal for v in col])
+    if ms.bbox(im.load(), 0) is None:
+        return None
+    orig = im.copy()
+
+    # does the tiled copy rebuild exactly from the original bitmap? (find tile unit + frame use)
+    tdo = block(ncgr, b"RAHC") + 0x20
+    ntiles = (len(ncgr) - tdo) // 32
+    cells = cell_oams(ncer)
+    layout = None
+    for unit in (2, 1, 4):
+        for fmap in (lambda k: 0, lambda k: min(k, 1)):
+            if tiles_from_image(pixels, cells, ntiles, unit, fmap) == ncgr[tdo:tdo + ntiles * 32]:
+                layout = (unit, fmap)
+                break
+        if layout:
+            break
+
+    rng = random.Random(c * 104729)
+    name = names[c] if c < len(names) else ""
+    gun = gun_for(name, rng)
+    gun = spec.get("gun") or gun
+    manual = spec.get("front", [])
+    used = ms.used_indices([im])
+    out_idx = min(used, key=lambda i: sum(pal[i]))
+    S = {"out": out_idx}
+    acc = ms.accent_slots(pal, used - {out_idx})
+    S.update(ac_d=acc[0], ac=acc[1], ac_l=acc[2])
+    wanted = ["m", "d", "l", "g", "b", "W", "w"]
+    for item in manual:                                   # colours the hand-placed pieces need
+        for k in ms.item_colors(item):
+            if k not in wanted:
+                wanted.append(k)
+    need = []
+    for k in wanted:
+        near = min(used, key=lambda i: ms.dist(pal[i], ms.COLORS[k]))
+        if ms.dist(pal[near], ms.COLORS[k]) < ms.REUSE.get(k, 120):
+            S[k] = near
+        else:
+            need.append(k)
+    spal = list(pal)
+    got, imgs = ms.free_slots([im], pal, spal, len(need), protect={out_idx, *acc})
+    im = imgs[0]
+    for k, i in zip(need, got):
+        S[k] = i
+        pal[i] = ms.COLORS[k]
+    for k in wanted:                                      # out of free slots: the closest colour there is
+        S.setdefault(k, min(used, key=lambda i: ms.dist(pal[i], ms.COLORS[k])))
+
+    auto = ms.auto_drip(im, "front", rng, 2, False, {"head", "shoe"}, False, pal)
+    items = manual if spec.get("auto_front") is False else auto + manual
+    px = im.load()
+    info = None
+    if report is not None:
+        info = report["front"] = {"items": json.loads(json.dumps(items)), "boxes": [], "hand": None,
+                                  "scale": None, "gun_box": None}
+    for item in items:
+        before = im.crop((0, 0, 80, 80)).tobytes()
+        if item["type"] != "recolor":
+            ms.draw_item(im, 0, item, S, (0, 0), 0)
+        if info:
+            info["boxes"].append(ms._changed(before, im))
+    hand = spec.get("hand_front")
+    hand = tuple(hand) if hand else HAND.get(c) or ball_hand(im, pal) or ms.auto_hand(px, 0, "front")
+    if spec.get("no_gun_front"):
+        hand = None
+    bb = ms.bbox(px, 0)
+    if hand and bb:
+        size = max(bb[2] - bb[0], bb[3] - bb[1])
+        scale = spec.get("gun_scale_front") or min(1.0, max(.55, size / 80 * .85))
+        before = im.crop((0, 0, 80, 80)).tobytes()
+        ms.draw_gun(im, 0, hand, gun, scale, S, flash=False, mirror=True)
+        if info:
+            info.update(hand=list(hand), scale=round(scale, 3), gun_box=ms._changed(before, im))
+    im.putpalette([v for col in pal for v in col])
+    new = list(im.tobytes())
+    new_pixels = [new[y * 160:(y + 1) * 160] for y in range(80)]
+    if new_pixels[79][156:160] != [0, 0, 0, 0]:
+        new_pixels[79][156:160] = [0, 0, 0, 0]       # keep the key word intact
+    raw = bytes(new_pixels[y][x] | (new_pixels[y][x + 1] << 4) for y in range(80) for x in range(0, 160, 2))
+    enc = encrypt(list(struct.unpack("<3200H", raw)), key)
+    struct.pack_into("<3200H", data, o_bmp + dbo, *enc)
+    struct.pack_into("<16H", data, o_nclr + po, *[(r >> 3) | ((g >> 3) << 5) | ((b >> 3) << 10) for r, g, b in pal])
+    if layout:
+        tiles = tiles_from_image(new_pixels, cells, ntiles, *layout)
+        data[o_ncgr + tdo:o_ncgr + tdo + len(tiles)] = tiles
+    return name, orig, im, pal, bool(layout)
+
+
 def main():
-    data = bytearray(subprocess.run(["git", "show", f"HEAD:{NARC}"], cwd=ms.ROOT, capture_output=True, check=True).stdout)
-    files = ah.narc_files(data)
-    names = class_names()
+    data, files, names = load()
+    drip = load_drip()
     preview = sys.argv[sys.argv.index("--preview") + 1] if "--preview" in sys.argv else None
     shots, done, tiled = [], 0, 0
     for c in range(len(files) // 5):
-        o_ncgr, ncgr = blob_at(data, files, 5 * c)
-        o_nclr, nclr = blob_at(data, files, 5 * c + 1)
-        _, ncer = blob_at(data, files, 5 * c + 2)
-        o_bmp, bmp = blob_at(data, files, 5 * c + 4)
-        dbo = block(bmp, b"RAHC") + 0x20
-        words = list(struct.unpack_from("<3200H", bmp, dbo))
-        key = words[-1]
-        dec = decrypt(words)
-        raw = struct.pack("<3200H", *dec)
-        pixels = [[(raw[(y * 160 + x) // 2] >> 4) if x & 1 else (raw[(y * 160 + x) // 2] & 15) for x in range(160)]
-                  for y in range(80)]
-        po = block(nclr, b"TTLP") + 0x18
-        pal = [((v & 31) << 3, ((v >> 5) & 31) << 3, ((v >> 10) & 31) << 3)
-               for v in struct.unpack_from("<16H", nclr, po)]
-        im = Image.new("P", (160, 80))
-        im.putdata([v for r in pixels for v in r])
-        im.putpalette([v for col in pal for v in col])
-        if ms.bbox(im.load(), 0) is None:
+        res = dress_class(data, files, names, c, drip.get(str(c)))
+        if not res:
             continue
-
-        # does the tiled copy rebuild exactly from the original bitmap? (find tile unit + frame use)
-        tdo = block(ncgr, b"RAHC") + 0x20
-        ntiles = (len(ncgr) - tdo) // 32
-        cells = cell_oams(ncer)
-        layout = None
-        for unit in (2, 1, 4):
-            for fmap in (lambda k: 0, lambda k: min(k, 1)):
-                if tiles_from_image(pixels, cells, ntiles, unit, fmap) == ncgr[tdo:tdo + ntiles * 32]:
-                    layout = (unit, fmap)
-                    break
-            if layout:
-                break
-
-        rng = random.Random(c * 104729)
-        name = names[c] if c < len(names) else ""
-        gun = gun_for(name, rng)
-        used = ms.used_indices([im])
-        out_idx = min(used, key=lambda i: sum(pal[i]))
-        S = {"out": out_idx}
-        acc = ms.accent_slots(pal, used - {out_idx})
-        S.update(ac_d=acc[0], ac=acc[1], ac_l=acc[2])
-        wanted = ["m", "d", "l", "g", "b", "W", "w"]
-        need = []
-        for k in wanted:
-            near = min(used, key=lambda i: ms.dist(pal[i], ms.COLORS[k]))
-            if ms.dist(pal[near], ms.COLORS[k]) < ms.REUSE.get(k, 120):
-                S[k] = near
-            else:
-                need.append(k)
-        spal = list(pal)
-        got, imgs = ms.free_slots([im], pal, spal, len(need), protect={out_idx, *acc})
-        im = imgs[0]
-        for k, i in zip(need, got):
-            S[k] = i
-            pal[i] = ms.COLORS[k]
-
-        items = ms.auto_drip(im, "front", rng, 2, False, {"head", "shoe"}, False, pal)
-        px = im.load()
-        for item in items:
-            ms.draw_drip(im, 0, item, S, (0, 0), 0)
-        hand = HAND.get(c) or ball_hand(im, pal) or ms.auto_hand(px, 0, "front")
-        bb = ms.bbox(px, 0)
-        if hand and bb:
-            size = max(bb[2] - bb[0], bb[3] - bb[1])
-            ms.draw_gun(im, 0, hand, gun, min(1.0, max(.55, size / 80 * .85)), S, flash=False, mirror=True)
-        im.putpalette([v for col in pal for v in col])
-        new = list(im.tobytes())
-        new_pixels = [new[y * 160:(y + 1) * 160] for y in range(80)]
-        if new_pixels[79][156:160] != [0, 0, 0, 0]:
-            new_pixels[79][156:160] = [0, 0, 0, 0]       # keep the key word intact
-        raw = bytes(new_pixels[y][x] | (new_pixels[y][x + 1] << 4) for y in range(80) for x in range(0, 160, 2))
-        enc = encrypt(list(struct.unpack("<3200H", raw)), key)
-        struct.pack_into("<3200H", data, o_bmp + dbo, *enc)
-        struct.pack_into("<16H", data, o_nclr + po, *[(r >> 3) | ((g >> 3) << 5) | ((b >> 3) << 10) for r, g, b in pal])
-        if layout:
-            tiles = tiles_from_image(new_pixels, cells, ntiles, *layout)
-            data[o_ncgr + tdo:o_ncgr + tdo + len(tiles)] = tiles
-            tiled += 1
+        name, _, im, _, rebuilt = res
         done += 1
+        tiled += rebuilt
         if preview:
-            shot = im.copy()
-            shots.append((name, shot.convert("RGBA").crop((0, 0, 80, 80))))
+            shots.append((name, im.convert("RGBA").crop((0, 0, 80, 80))))
     if preview:
         from PIL import ImageDraw
         cols = 8

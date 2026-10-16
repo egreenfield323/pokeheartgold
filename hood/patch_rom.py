@@ -40,12 +40,17 @@ def run(*args):
 
 
 def head(rel):
-    return subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
+    return subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
+
+
+BASE = "77565981b"                 # the unmodded decomp: originals come from here, whatever is committed since
 
 
 def changed(prefix):
-    out = subprocess.run(["git", "status", "--porcelain", "--", prefix], cwd=ROOT, capture_output=True, text=True).stdout
-    return [line[3:].strip() for line in out.splitlines() if line[:2].strip() == "M"]
+    """Files under prefix that differ from the unmodded base (committed or not)."""
+    out = subprocess.run(["git", "diff", "--name-only", "--diff-filter=M", BASE, "--", prefix], cwd=ROOT,
+                         capture_output=True, text=True).stdout
+    return [line.strip() for line in out.splitlines() if line.strip()]
 
 
 class Narc:

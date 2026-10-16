@@ -12,7 +12,7 @@ grillz, shades, kicks, jeans, durags, cigs, ...) lives in hood/data/drip.json.
 
 Sprite format: 160x80 = two 80x80 frames, 16-colour palette, index 0 transparent.
 front.png's palette is the normal palette, back.png's palette is the shiny palette,
-and both share one index layout. Originals are always read from git HEAD.
+and both share one index layout. Originals are always read from the base commit (77565981b, the unmodded decomp).
 """
 import colorsys
 import hashlib
@@ -53,7 +53,7 @@ LEGENDARY = {144, 145, 146, 150, 151, 243, 244, 245, 249, 250, 251, 377, 378, 37
 
 
 def git_blob(rel):
-    return subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
+    return subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
 
 
 def git_png(path):
@@ -159,6 +159,8 @@ def free_slots(images, pal, spal, need, protect):
                     cost = (dist(pal[i], pal[j]) + dist(spal[i], spal[j])) * (counts[drop] + 15)
                     if best is None or cost < best[0]:
                         best = (cost, keep, drop)
+        if best is None:                     # nothing left to merge: the caller uses the closest colours there are
+            break
         _, keep, drop = best
         table = bytes(keep if v == drop else v for v in range(256))
         images = [remap(im, table) for im in images]
@@ -207,7 +209,14 @@ def put(px, x, y, c, x0):
 
 def draw_gun(im, x0, hand, gun, scale, S, flash, mirror, clip=False):
     px = im.load()
-    g, (gx, gy), (mx, my) = gunart.render(gun, scale)
+    while True:                              # some guns can't be drawn that small: the smallest that works
+        try:
+            g, (gx, gy), (mx, my) = gunart.render(gun, scale)
+            break
+        except ValueError:
+            if scale > 3:
+                raise
+            scale += .05
     gpx = g.load()
     k = gunart
     lut = {k.OUT: S["out"], k.SK_D: S["d"], k.SK: S["m"], k.SK_L: S["l"], k.AC_D: S["ac_d"], k.AC: S["ac"],
@@ -321,6 +330,17 @@ def draw_fitcap(item, S, P, opaque):
         P(kx + side * 3, band + 2, col)
 
 
+METALS = {"g": ("g", "l", "b"), "l": ("l", "W", "m"), "W": ("W", "l", "m"), "k": ("d", "m", "out"),
+          "d": ("d", "m", "out")}
+
+
+def metal(item, S):
+    """(main, highlight, shade) palette slots for a chain/grill: gold by default, or item["color"]."""
+    c = item.get("color", "g")
+    m = METALS.get(c, (c, "W", "out"))
+    return tuple(S.get(k, S["out"]) for k in m)
+
+
 def draw_drip(im, x0, item, S, off, frame):
     """Hand-placed accessories from drip.json, in frame-1 coordinates."""
     px = im.load()
@@ -337,32 +357,35 @@ def draw_drip(im, x0, item, S, off, frame):
     if t == "chain":
         x1, x2, y, sag = item["x1"], item["x2"], item["y"], item.get("sag", 4)
         mid, half = (x1 + x2) / 2, max(1, (x2 - x1) / 2)
+        g, l, b = metal(item, S)
         for x in range(x1, x2 + 1):
             yy = y + round(sag * (1 - ((x - mid) / half) ** 2))
             P(x, yy - 1, out)
-            P(x, yy, S["g"] if x % 3 else S["l"])
-            P(x, yy + 1, S["b"] if x % 2 else S["g"])
+            P(x, yy, g if x % 3 else l)
+            P(x, yy + 1, b if x % 2 else g)
             P(x, yy + 2, out)
         mx, my = round(mid), y + sag + 2
         for dx in range(-2, 3):
             for dy in range(4):
-                P(mx + dx, my + dy, S["g"] if abs(dx) < 2 else S["b"])
-        P(mx - 1, my, S["l"])
+                P(mx + dx, my + dy, g if abs(dx) < 2 else b)
+        P(mx - 1, my, l)
         for dx in range(-3, 4):
             P(mx + dx, my + 4, out)
         for dy in range(4):
             P(mx - 3, my + dy, out)
             P(mx + 3, my + dy, out)
     elif t == "chain_back":
+        g, l, b = metal(item, S)
         for x in range(item["x1"], item["x2"] + 1):
-            P(x, item["y"], S["g"] if x % 2 else S["b"])
+            P(x, item["y"], g if x % 2 else b)
             P(x, item["y"] + 1, out)
     elif t == "grill":
         x1, x2, y = item["x1"], item["x2"], item["y"]
+        g, l, b = metal(item, S)
         for x in range(x1, x2 + 1):
-            P(x, y, S["g"])
-            P(x, y + 1, S["g"] if x % 2 else S["b"])
-        P(x1 + 1, y, S["l"])
+            P(x, y, g)
+            P(x, y + 1, g if x % 2 else b)
+        P(x1 + 1, y, l)
     elif t == "shades":
         x1, x2, y, h = item["x1"], item["x2"], item["y"], item.get("h", 3)
         for x in range(x1, x2 + 1):
@@ -548,6 +571,35 @@ def draw_drip(im, x0, item, S, off, frame):
                         break
 
 
+def draw_item(im, x0, item, S, off, frame):
+    """draw_drip, plus an optional "scale" (the drip editor): the pixels the piece draws are recorded, then put
+    back scaled (nearest neighbour) about the centre of what it drew."""
+    global put
+    s = item.get("scale", 1)
+    if s == 1 or item["type"] in ("sparkles", "recolor"):
+        return draw_drip(im, x0, item, S, off, frame)
+    real, drawn = put, {}
+
+    def record(px, x, y, c, x0_):
+        if x0_ <= x < x0_ + 80 and 0 <= y < 80:
+            drawn[x, y] = c
+    put = record
+    try:
+        draw_drip(im, x0, item, S, off, frame)
+    finally:
+        put = real
+    if not drawn:
+        return
+    xs, ys = [p[0] for p in drawn], [p[1] for p in drawn]
+    cx, cy = (min(xs) + max(xs)) / 2, (min(ys) + max(ys)) / 2
+    px = im.load()
+    for Y in range(math.floor(cy + (min(ys) - cy - .5) * s), math.ceil(cy + (max(ys) - cy + .5) * s) + 1):
+        for X in range(math.floor(cx + (min(xs) - cx - .5) * s), math.ceil(cx + (max(xs) - cx + .5) * s) + 1):
+            src = (math.floor(cx + (X - cx) / s + .5), math.floor(cy + (Y - cy) / s + .5))
+            if src in drawn:
+                put(px, X, Y, drawn[src], x0)
+
+
 def find_pupils(px, pal, l, t, r, b):
     """Pupils = small isolated dark spots surrounded by lighter, opaque skin (outlines are long, so they fail)."""
     lum = [sum(c) for c in pal]
@@ -633,6 +685,7 @@ def find_highlights(px, pal, l, t, r, b):
 
 def track(px, x, y, r=7, search=8):
     """Where did the pixels around (x, y) in frame 1 move to in frame 2? Returns (dx, dy)."""
+    x, y = min(79, max(0, x)), min(79, max(0, y))
     import numpy as np
     a = np.array([[px[i, j] for i in range(160)] for j in range(80)], dtype=np.int16)
     f1 = np.pad(a[:, :80], search + r, constant_values=0)
@@ -728,7 +781,22 @@ def neck_chain(px, l, r, b, hx, hy, w, hand=None):
     return {"type": "chain", "x1": c - half, "x2": c + half, "y": y + 1, "sag": max(2, min(4, half // 2))}
 
 
-def auto_drip(im, view, rng, stage, iced, skip, has_red=False, pal=None, head=None, hat_w=None, hand=None):
+def pick_hat(front, pal, rng):
+    """(style, colour) for a species - decided once from the front sprite, so the back view matches."""
+    style = rng.choice(["durag", "beanie", "snapback", "snapback", "durag"])   # (a bandana reads as a stripe here)
+    color = rng.choices(["k", "W", "r", "g"], [45, 20, 20, 15])[0]
+    from collections import Counter
+    body = Counter(v for v in front.getdata() if v and pal[v] != (0, 0, 0)).most_common(1)
+    if body:                                                  # never the same colour as the body: it'd vanish
+        main = pal[body[0][0]]
+        options = [c for c in ("k", "W", "r", "g") if dist({"k": (24, 24, 28)}.get(c) or COLORS[c], main) > 9000]
+        if color not in options and options:
+            color = options[0]
+    return style, color
+
+
+def auto_drip(im, view, rng, stage, iced, skip, has_red=False, pal=None, head=None, hat_w=None, hand=None,
+              hat_choice=None):
     """Dress the Pokémon up around its head point: overlaid hat, chain, kicks, ice."""
     px = im.load()
     bb = bbox(px, 0)
@@ -738,16 +806,7 @@ def auto_drip(im, view, rng, stage, iced, skip, has_red=False, pal=None, head=No
     W, H = r - l + 1, b - t + 1
     items = []
     hp = head_point(px, pal, view, head)
-    style = rng.choice(["durag", "beanie", "snapback", "snapback", "durag"])   # (a bandana reads as a stripe here)
-    color = rng.choices(["k", "W", "r", "g"], [45, 20, 20, 15])[0]
-    if pal is not None:                                        # never the same colour as the body: it'd vanish
-        from collections import Counter
-        body = Counter(v for v in im.getdata() if v and pal[v] != (0, 0, 0)).most_common(1)
-        if body:
-            main = pal[body[0][0]]
-            options = [c for c in ("k", "W", "r", "g") if dist({"k": (24, 24, 28)}.get(c) or COLORS[c], main) > 9000]
-            if color not in options and options:
-                color = options[0]
+    style, color = hat_choice or ("durag", "k")             # chosen once per species: same hat front and back
     if hp:
         hx, hy = hp
         brow = max(t, hy - 3)
@@ -775,6 +834,18 @@ def auto_drip(im, view, rng, stage, iced, skip, has_red=False, pal=None, head=No
     return items
 
 
+def item_colors(item):
+    """COLORS keys a drip item draws with."""
+    cols = ITEM_COLORS.get(item["type"], "")
+    if item["type"] == "shoe" and item.get("style") == "jordan":
+        cols += "r"
+    if item["type"] in ("durag", "beanie", "cap", "bandana", "hat", "fitcap") and item.get("color", "r") in COLORS:
+        cols += item.get("color", "r")
+    if item["type"] in ("chain", "chain_back", "grill") and item.get("color", "g") in COLORS:
+        cols += "".join(k for k in METALS.get(item["color"], (item["color"], "W")) if k in COLORS) if "color" in item else ""
+    return cols
+
+
 def recolor(pal, spal, used, item, keep):
     """Re-tint every colour (e.g. Onix -> blue crystal) while keeping its lightness."""
     h_new, s_new, lift = item.get("hue", .53), item.get("sat", .7), item.get("lift", .1)
@@ -795,8 +866,20 @@ def frame_offset(px):
     return (b[0] - 80 - a[0], b[1] - a[1])
 
 
-def arm(n, gun, drip, paths=None):
-    """Dress species n. `paths` overrides the sprite files (used for alternate forms)."""
+def _changed(before, im):
+    """Bounding box (in frame 1) of the pixels that differ from `before` (frame 1's bytes)."""
+    after = im.crop((0, 0, 80, 80)).tobytes()
+    pts = [i for i in range(6400) if before[i] != after[i]]
+    if not pts:
+        return None
+    xs, ys = [i % 80 for i in pts], [i // 80 for i in pts]
+    return [min(xs), min(ys), max(xs), max(ys)]
+
+
+def arm(n, gun, drip, paths=None, report=None):
+    """Dress species n. `paths` overrides the sprite files (used for alternate forms). `report` (a dict) gets,
+    per view, the drip items actually drawn, the gun hand/scale and each one's box on frame 1 (the drip editor).
+    Per-view spec switches: auto_<view>: false (only the listed items), gun_scale_<view>, no_gun_<view>."""
     folder = SPRITES / f"{n:04d}"
     paths = paths or [folder / s / v for s in ("male", "female") for v in ("front.png", "back.png")]
     live = [(p, im) for p, im in ((p, git_png(p)) for p in paths) if im is not None]
@@ -813,12 +896,13 @@ def arm(n, gun, drip, paths=None):
     pal0 = [tuple(front_src.getpalette()[i * 3:i * 3 + 3]) for i in range(16)]
     used0 = used_indices([im for _, im in live])
     has_red = any(dist(pal0[i], COLORS["r"]) < 3500 for i in used0)
+    hat = pick_hat(front_src, pal0, random.Random(n * 104729))
     for path, im in live:
         view = "front" if path.name == "front.png" else "back"
         manual = spec.get(view, [])
         kinds = {i["type"] for i in manual}
         skip = set()
-        if kinds & {"durag", "beanie", "cap", "bandana", "hat", "fitcap"}:
+        if kinds & {"durag", "beanie", "cap", "bandana", "hat", "fitcap"} or spec.get("no_hat_" + view):
             skip.add("head")
         if kinds & {"chain", "chain_back"}:
             skip.add("chain")
@@ -826,9 +910,9 @@ def arm(n, gun, drip, paths=None):
             skip.add("shoe")
         hand0 = spec.get("hand_" + view)
         hand0 = tuple(hand0) if hand0 else auto_hand(im.load(), 0, view)
-        auto = [] if spec.get("auto") is False else auto_drip(
+        auto = [] if spec.get("auto") is False or spec.get("auto_" + view) is False else auto_drip(
             im, view, random.Random(n * 7919), stage, iced and "sparkles" not in kinds, skip, has_red, pal0,
-            spec.get("head_" + view), spec.get("hat_w"), hand0)
+            spec.get("head_" + view), spec.get("hat_w"), hand0, hat)
         per_view[path] = auto + manual
     items = [i for v in per_view.values() for i in v]
 
@@ -847,12 +931,7 @@ def arm(n, gun, drip, paths=None):
     if gun_slots & {k.WD, k.WD_D, k.GOLD_D}:
         wanted += ["w", "b"]
     for item in items:
-        cols = ITEM_COLORS.get(item["type"], "")
-        if item["type"] == "shoe" and item.get("style") == "jordan":
-            cols += "r"
-        if item["type"] in ("durag", "beanie", "cap", "bandana", "hat", "fitcap") and item.get("color", "r") in COLORS:
-            cols += item.get("color", "r")
-        for c in cols:
+        for c in item_colors(item):
             if c not in wanted:
                 wanted.append(c)
     S = {"out": out_idx, "ac_d": acc[0], "ac": acc[1], "ac_l": acc[2]}
@@ -868,6 +947,8 @@ def arm(n, gun, drip, paths=None):
         S[k] = i
         pal[i] = COLORS[k]
         spal[i] = SHINY.get(k, COLORS[k])
+    for k in need[len(got):]:                # palette full: the closest colour the sprite already has
+        S[k] = min(used_indices(images), key=lambda i: dist(pal[i], COLORS[k]))
     for key in ("w", "b"):
         S.setdefault(key, S["d"])
 
@@ -885,17 +966,26 @@ def arm(n, gun, drip, paths=None):
         hand1 = spec.get("hand_" + view)
         hand1 = tuple(hand1) if hand1 else auto_hand(src, 0, view)
         hand_move = track(src, *hand1) if hand1 else (0, 0)
+        if spec.get("no_gun_" + view):
+            hand1 = None
+        info = None
+        if report is not None and view not in report:
+            info = report[view] = {"items": json.loads(json.dumps(per_view[path])), "hand": list(hand1) if hand1
+                                   else None, "scale": None, "boxes": [], "gun_box": None, "file": path.parent.name}
         for f, x0 in enumerate((0, 80)):
             bb = bbox(px, x0)
             if bb is None:              # blank frame (e.g. Unown has no 2nd frame): leave it blank
                 continue
             for k2, item in enumerate(per_view[path]):
+                before = im.crop((0, 0, 80, 80)).tobytes() if info and f == 0 else None
                 if item["type"] != "recolor":
-                    draw_drip(im, x0, item, S, moves[k2] if f else (0, 0), f)
+                    draw_item(im, x0, item, S, moves[k2] if f else (0, 0), f)
+                if before is not None:
+                    info["boxes"].append(_changed(before, im))
             hand = (hand1[0] + x0 + (hand_move[0] if f else 0), hand1[1] + (hand_move[1] if f else 0)) if hand1 else None
             if hand and bb:
                 size = max(bb[2] - bb[0], bb[3] - bb[1])
-                scale = spec.get("gun_scale") or (min(1.0, max(.42, size / 80 * .85)) if view == "front"
+                scale = spec.get("gun_scale_" + view) or spec.get("gun_scale") or (min(1.0, max(.42, size / 80 * .85)) if view == "front"
                                                   else min(1.2, max(.85, size / 80 * 1.25)))
                 if view == "back":  # sprites are a fixed 80x80: shrink a little if the muzzle runs way off
                     while scale > .7:
@@ -904,8 +994,11 @@ def arm(n, gun, drip, paths=None):
                         if hand[0] + (gw - gx) <= x0 + 79:
                             break
                         scale -= .05
+                before = im.crop((0, 0, 80, 80)).tobytes() if info and f == 0 else None
                 draw_gun(im, x0, hand, gun, scale, S, flash=(f == 1 and view == "front"),
                          mirror=(view == "front"))
+                if before is not None:
+                    info["scale"], info["gun_box"] = round(scale, 3), _changed(before, im)
         im.putpalette([v for c in (pal if view == "front" else spal) for v in c])
         im.info["transparency"] = 0
         out[path] = im

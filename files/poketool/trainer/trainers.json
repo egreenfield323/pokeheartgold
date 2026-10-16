@@ -28385,7 +28385,7 @@
     {
       "type": "TRTYPE_MON",
       "class": "TRAINERCLASS_TEACHER",
-      "name": "{TRNAME}Hillary",
+      "name": "{TRNAME}Hillary Clinton",
       "items": [],
       "ai_flags": 7,
       "double": 0,

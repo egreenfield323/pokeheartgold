@@ -3,7 +3,7 @@
 and the 32x24 route icons (files/a/2/4/8). Each member is LZ10-compressed 2bpp data, two frames.
 
 Every Pokémon gets a hat, a mini gun and (if there's room) a chain, drawn in the LCD's shades.
-Members change size after recompression, so each NARC is rebuilt. Originals come from git HEAD.
+Members change size after recompression, so each NARC is rebuilt. Originals come from the base commit 77565981b.
 Run from the repo root:  python hood/make_walker.py [--preview out.png]
 """
 import random
@@ -170,7 +170,7 @@ def main():
     preview = sys.argv[sys.argv.index("--preview") + 1] if "--preview" in sys.argv else None
     shots = []
     for rel, w, h in TARGETS:
-        orig = subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
+        orig = subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
         files = ah.narc_files(orig)
         members = []
         for k, (o, s) in enumerate(files):

@@ -1,0 +1,948 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Drip Editor</title>
+<style>
+  :root {
+    --bg: #15171c; --panel: #1d2027; --panel2: #252932; --line: #333845; --text: #e6e8ee; --dim: #8b92a3;
+    --accent: #f5c542; --accent2: #3fb7ff; --bad: #ff5d5d; --good: #4cd986;
+    --field: #b8e0a0;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 13px/1.4 system-ui, Segoe UI, sans-serif;
+         display: grid; grid-template-columns: 220px 1fr 330px; height: 100vh; overflow: hidden; }
+  aside, main, section { overflow: auto; }
+  aside { background: var(--panel); border-right: 1px solid var(--line); display: flex; flex-direction: column; }
+  .tabs { display: flex; gap: 4px; padding: 10px 10px 0; }
+  .tabs button { flex: 1; padding: 6px 4px; font-size: 12px; }
+  .tabs button.on { background: var(--accent); color: #1a1500; border-color: var(--accent); font-weight: 600; }
+  aside input { margin: 10px; padding: 7px 9px; background: var(--panel2); border: 1px solid var(--line);
+                color: var(--text); border-radius: 6px; }
+  #list { overflow: auto; flex: 1; }
+  #list div { padding: 4px 12px; cursor: pointer; display: flex; gap: 8px; }
+  #list div:hover { background: var(--panel2); }
+  #list div.on { background: #3a3220; color: var(--accent); }
+  #list .num { color: var(--dim); width: 30px; text-align: right; flex: none; }
+  #list .dot { margin-left: auto; color: var(--accent); }
+  main { padding: 14px 18px; }
+  header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  header h1 { font-size: 18px; margin: 0 8px 0 0; }
+  #status { color: var(--dim); }
+  #status.bad { color: var(--bad); } #status.good { color: var(--good); }
+  button, select { background: var(--panel2); color: var(--text); border: 1px solid var(--line); border-radius: 6px;
+                   padding: 5px 10px; font: inherit; cursor: pointer; }
+  button:hover { border-color: var(--dim); }
+  button.primary { background: var(--accent); color: #1a1500; border-color: var(--accent); font-weight: 600; }
+  button.danger { color: var(--bad); }
+  .views { display: flex; gap: 18px; flex-wrap: wrap; }
+  .view { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px; }
+  .view.active { border-color: var(--accent2); }
+  .view h2 { font-size: 13px; margin: 0 0 8px; display: flex; gap: 8px; align-items: center; text-transform: uppercase;
+             letter-spacing: .05em; color: var(--dim); }
+  .view h2 .tag { font-size: 11px; padding: 1px 6px; border-radius: 4px; background: var(--panel2); text-transform: none;
+                  letter-spacing: 0; }
+  .view h2 .tag.man { color: var(--accent); }
+  canvas.edit { display: block; cursor: crosshair; image-rendering: pixelated; border-radius: 6px; }
+  .minis { display: flex; gap: 10px; margin-top: 8px; align-items: end; color: var(--dim); font-size: 11px; }
+  .minis canvas { image-rendering: pixelated; background: var(--field); border-radius: 4px; display: block; }
+  .help { color: var(--dim); margin-top: 14px; font-size: 12px; }
+  .help kbd { background: var(--panel2); border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; font-size: 11px; }
+  section { background: var(--panel); border-left: 1px solid var(--line); padding: 12px; }
+  section h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--dim); margin: 14px 0 6px; }
+  section h3:first-child { margin-top: 0; }
+  .items div.it { padding: 5px 8px; border-radius: 6px; cursor: pointer; display: flex; align-items: center; gap: 6px; }
+  .items div.it:hover { background: var(--panel2); }
+  .items div.it.on { background: #3a3220; color: var(--accent); }
+  .items .it .x { margin-left: auto; color: var(--dim); padding: 0 4px; }
+  .items .it .x:hover { color: var(--bad); }
+  .items .vh { color: var(--dim); font-size: 11px; margin: 6px 0 2px; }
+  .row { display: flex; gap: 6px; align-items: center; margin: 5px 0; }
+  .row label { width: 72px; color: var(--dim); }
+  .row input[type=number], .row input[type=text] { width: 90px; background: var(--panel2); border: 1px solid var(--line);
+         color: var(--text); border-radius: 5px; padding: 4px 6px; font: inherit; }
+  .row select { padding: 3px 6px; }
+  .swatches { display: flex; gap: 4px; flex-wrap: wrap; }
+  .sw { width: 20px; height: 20px; border-radius: 4px; border: 2px solid transparent; cursor: pointer; }
+  .sw.on { border-color: var(--accent2); }
+  .muted { color: var(--dim); }
+  #textmain { max-width: 980px; }
+  .trow { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; margin: 0 0 10px; }
+  .trow.dirty { border-color: var(--accent); } .trow.bad { border-color: var(--bad); } .trow.hit { box-shadow: 0 0 0 2px var(--accent2); }
+  .thead { display: flex; gap: 8px; align-items: center; margin-bottom: 6px; font-size: 12px; }
+  .thead .num { color: var(--dim); font-variant-numeric: tabular-nums; }
+  .thead .tag { padding: 1px 6px; border-radius: 4px; background: var(--panel2); color: var(--dim); }
+  .thead .tag.ed { color: var(--accent); }
+  .thead button { padding: 2px 8px; font-size: 12px; margin-left: 0; }
+  .thead .sp { flex: 1; }
+  .trow textarea { width: 100%; box-sizing: border-box; background: var(--panel2); color: var(--text); border: 1px solid var(--line);
+                   border-radius: 6px; padding: 8px 10px; font: 14px/1.5 ui-monospace, Consolas, monospace; resize: vertical; }
+  .trow textarea:disabled { opacity: .6; }
+  .tprev { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+  .tprev canvas { image-rendering: pixelated; border-radius: 4px; }
+  .terr { color: var(--bad); font-size: 12px; margin-top: 6px; }
+  .terr div::before { content: "✕ "; }
+  .tmeta { color: var(--dim); font-size: 11px; margin-top: 4px; }
+  .torig { color: var(--dim); font-size: 12px; margin-top: 6px; white-space: pre-wrap; font-family: ui-monospace, Consolas, monospace; }
+  .bankhead { display: flex; gap: 10px; align-items: baseline; margin-bottom: 10px; flex-wrap: wrap; }
+  .bankhead .muted { font-size: 12px; }
+  #list .hitrow { display: block; padding: 6px 12px; border-bottom: 1px solid var(--line); }
+  #list .hitrow small { color: var(--dim); display: block; }
+  #toast { position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%); background: var(--panel2);
+           border: 1px solid var(--line); padding: 8px 14px; border-radius: 8px; opacity: 0; transition: opacity .2s;
+           pointer-events: none; }
+  #toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<aside>
+  <div class="tabs"><button data-k="pokemon">Pokémon</button><button data-k="trainer">Trainers</button><button data-k="npc">People</button><button data-k="text">Text</button></div>
+  <input id="search" placeholder="Search name or #" autocomplete="off">
+  <input id="tsearch" placeholder="Search ALL game text… (Enter)" autocomplete="off" hidden>
+  <div id="list"></div>
+</aside>
+<main>
+  <header>
+    <h1 id="title">Drip Editor</h1>
+    <button id="undo" title="Ctrl+Z">Undo</button>
+    <button id="redo" title="Ctrl+Y">Redo</button>
+    <button id="revert" title="Throw away unsaved changes">Revert</button>
+    <button id="save" class="primary" title="Ctrl+S">Save</button>
+    <span id="status"></span>
+  </header>
+  <div class="views" id="views"></div>
+  <div class="help">
+    Click a piece to select it, drag to move it. <kbd>←↑→↓</kbd> nudge (<kbd>Shift</kbd> ×5) ·
+    <kbd>[</kbd> <kbd>]</kbd> narrower / wider · <kbd>-</kbd> <kbd>=</kbd> smaller / bigger ·
+    <kbd>Del</kbd> delete · <kbd>Ctrl+D</kbd> duplicate · <kbd>Ctrl+Z</kbd>/<kbd>Ctrl+Y</kbd> undo/redo ·
+    <kbd>Ctrl+S</kbd> save · <kbd>Tab</kbd> next piece.
+    Animation frames follow the body automatically. <span id="savenote"></span>
+  </div>
+  <div id="textmain" hidden></div>
+</main>
+<section id="side"></section>
+<div id="toast"></div>
+
+<script>
+const CHOICES = {
+  style: {fitcap: ["durag", "beanie", "snapback", "bandana"], hat: ["snapback", "beanie", "durag", "none"],
+          shoe: ["white", "jordan", "concord"]},
+  dir: [-1, 1], side: [-1, 0, 1], brim: ["right", "left", "none"], knot: ["right", "left"],
+};
+const SWATCH = {k: "#18181c", d: "#2c2c34", m: "#60626c", l: "#b0b4be", g: "#f6ce40", b: "#b07824", w: "#8c5428",
+  W: "#f8f8f8", r: "#d6242c", e: "#4ea83a", E: "#24641e", o: "#ff8c28", s: "#d6d6e0", t: "#c8a462", j: "#4268aa",
+  J: "#284070", u: "#2850c8", p: "#ec78b0"};
+const NEW = {                                   // new battle-sprite pieces, placed from the body box
+  fitcap: B => ({style: "snapback", cx: B.cx, band: B.t + 6, w: 14, color: "k", side: 1}),
+  chain: B => ({x1: B.cx - 7, x2: B.cx + 7, y: B.t + Math.round((B.b - B.t) * .35), sag: 3}),
+  chain_back: B => ({x1: B.cx - 6, x2: B.cx + 6, y: B.t + Math.round((B.b - B.t) * .3)}),
+  grill: B => ({x1: B.cx - 3, x2: B.cx + 3, y: B.t + Math.round((B.b - B.t) * .25)}),
+  shades: B => ({x1: B.cx - 6, x2: B.cx + 6, y: B.t + Math.round((B.b - B.t) * .18), h: 3}),
+  shoe: B => ({x: B.cx - 4, y: B.b - 3, w: 8, style: "jordan"}),
+  jeans: B => ({x1: B.cx - 8, x2: B.cx + 8, y1: B.t + Math.round((B.b - B.t) * .6), y2: B.b - 4}),
+  cig: B => ({x: B.cx - 4, y: B.t + Math.round((B.b - B.t) * .28), dir: -1}),
+  pipe: B => ({x: B.cx - 4, y: B.t + Math.round((B.b - B.t) * .28), dir: -1}),
+  brick: B => ({x: B.l - 4, y: B.cy, w: 11, h: 7}),
+  weed: B => ({x: B.l - 2, y: B.cy, size: 8, tilt: -20}),
+  sparkles: B => ({n: 10, seed: Math.floor(Math.random() * 999)}),
+  recolor: B => ({hue: .53, sat: .7, lift: .1}),
+};
+const XK = ["x", "x1", "x2", "cx", "tail_x", "dx"], YK = ["y", "y1", "y2", "band", "by", "dy"];
+const SAVENOTE = {
+  pokemon: "Save writes <code>hood/data/drip.json</code> and regenerates this Pokémon's battle sprites and party icon.",
+  trainer: "Save writes <code>hood/data/trainer_drip.json</code> and regenerates the trainer sprite archive.",
+  npc: "Overworld people: one view per facing direction. Moving or deleting a piece only changes that direction " +
+       "(e.g. drop the chain from UP); style, colour and size apply to all four, and + add fills in the directions missing it. Save writes <code>hood/data/npc_drip.json</code> and regenerates the model.",
+};
+
+let S = {kind: "pokemon", list: [], id: null, info: null, spec: null, saved: "", R: null, views: [], sel: null,
+         undo: [], redo: [], drag: null, seq: 0, tick: 0};
+const $ = id => document.getElementById(id);
+const clone = o => JSON.parse(JSON.stringify(o));
+const zoom = v => { const V = S.R.views[v]; return Math.max(2, Math.floor(400 / Math.max(V.fw, V.fh))); };
+
+async function api(path, body) {
+  const r = await fetch(path, body ? {method: "POST", body: JSON.stringify(body)} : {});
+  const j = await r.json();
+  if (!r.ok || (j && j.error)) throw new Error((j && j.error) || r.statusText);
+  return j;
+}
+function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toast.h); toast.h = setTimeout(() => t.classList.remove("show"), 2600); }
+function status(msg, cls = "") { const s = $("status"); s.textContent = msg; s.className = cls; }
+const dirty = () => S.spec && JSON.stringify(S.spec) !== S.saved;
+
+// ------------------------------------------------------------------ lists
+async function init() {
+  for (const b of document.querySelectorAll(".tabs button")) b.onclick = () => switchKind(b.dataset.k);
+  $("search").oninput = drawList;
+  const [k, id, row] = location.hash.slice(1).split("/");
+  if (k === "text") return switchKind("text", id || null, row !== undefined ? +row : null);
+  await switchKind(["pokemon", "trainer", "npc"].includes(k) ? k : "pokemon", id !== undefined ? +id : null);
+}
+async function switchKind(k, id = null, row = null) {
+  if (S.kind !== "text" && dirty() && !confirm("You have unsaved changes. Throw them away?")) return;
+  if (S.kind === "text" && textDirty() && !confirm("You have unsaved text changes. Throw them away?")) return;
+  const isText = k === "text";
+  for (const el of [$("views"), document.querySelector(".help"), $("undo"), $("redo"), $("revert")]) el.hidden = isText;
+  $("textmain").hidden = !isText; $("tsearch").hidden = !isText;
+  $("search").placeholder = isText ? "Filter banks (place, #, words)" : "Search name or #";
+  if (isText) {
+    S.spec = null; S.R = null; S.kind = k;
+    for (const b of document.querySelectorAll(".tabs button")) b.classList.toggle("on", b.dataset.k === k);
+    return enterText(id, row);
+  }
+  S.spec = null; S.R = null;
+  S.kind = k;
+  for (const b of document.querySelectorAll(".tabs button")) b.classList.toggle("on", b.dataset.k === k);
+  $("savenote").innerHTML = SAVENOTE[k];
+  $("list").innerHTML = '<div class="muted">loading…</div>';
+  status("loading…");
+  S.list = await api("/api/list?kind=" + k);
+  drawList();
+  pick(id !== null && S.list.some(e => e.id === id) ? id : (k === "pokemon" ? 155 : S.list[0].id));
+}
+function drawList() {
+  if (S.kind === "text") return drawBankList();
+  const q = $("search").value.trim().toLowerCase();
+  $("list").innerHTML = "";
+  for (const s of S.list) {
+    if (q && !s.name.toLowerCase().includes(q) && String(s.id) !== q) continue;
+    const d = document.createElement("div");
+    d.className = s.id === S.id ? "on" : "";
+    d.innerHTML = `<span class="num">${s.id}</span><span>${s.name}</span>${s.edited ? '<span class="dot">●</span>' : ""}`;
+    d.onclick = () => pick(s.id);
+    $("list").appendChild(d);
+  }
+}
+async function pick(id) {
+  if (dirty() && !confirm("You have unsaved changes. Throw them away?")) return;
+  status("loading…");
+  S.info = await api(`/api/load?kind=${S.kind}&id=${id}`);
+  S.id = id; S.spec = clone(S.info.spec); S.saved = JSON.stringify(S.spec);
+  S.sel = null; S.undo = []; S.redo = []; S.R = null; S.views = [];
+  location.hash = S.kind + "/" + id;
+  $("title").textContent = `#${id} ${S.info.name}`;
+  drawList();
+  $("views").innerHTML = "";
+  await rerender();
+}
+
+// ------------------------------------------------------------------ rendering
+async function rerender() {
+  const seq = ++S.seq;
+  status("rendering…");
+  try {
+    const R = await api("/api/render", {kind: S.kind, id: S.id, spec: S.spec});
+    if (seq !== S.seq) return;
+    for (const v of R.order) {
+      const V = R.views[v];
+      V.img = await loadImg(V.png); V.origImg = await loadImg(V.orig);
+    }
+    if (seq !== S.seq) return;
+    S.R = R;
+    if (R.order.join() !== S.views.join()) { S.views = R.order; buildViews(); }
+    if (S.sel && !itemOf(S.sel)) S.sel = null;
+    status(dirty() ? "unsaved changes" : "saved", dirty() ? "" : "good");
+    draw(); side();
+  } catch (e) {
+    if (seq !== S.seq) return;
+    if (S.undo.length && S.R) {                // that change can't be drawn: take it back, say why
+      S.spec = JSON.parse(S.undo.pop());
+      toast("Couldn't draw that, so it was undone: " + e.message);
+      return rerender();
+    }
+    status(e.message, "bad");
+  }
+}
+const loadImg = src => new Promise(ok => { const i = new Image(); i.onload = () => ok(i); i.src = src; });
+
+function buildViews() {
+  $("views").innerHTML = "";
+  for (const v of S.views) {
+    const V = S.R.views[v], z = zoom(v), mz = Math.max(2, Math.floor(160 / Math.max(V.fw, V.fh)));
+    const box = document.createElement("div");
+    box.className = "view"; box.id = "v_" + v;
+    box.innerHTML = `<h2>${v} <span class="tag" id="tag_${v}"></span></h2>
+      <canvas class="edit" id="c_${v}" width="${V.fw * z}" height="${V.fh * z}"></canvas>
+      <div class="minis"><div><canvas id="a_${v}" width="${V.fw * mz}" height="${V.fh * mz}"></canvas>in game${V.frames > 1 ? " (animated)" : ""}</div>
+      <div><canvas id="o_${v}" width="${V.fw * mz}" height="${V.fh * mz}"></canvas>original</div></div>`;
+    $("views").appendChild(box);
+    box.querySelector("canvas.edit").onmousedown = e => down(v, e);
+  }
+}
+function body(v) { const b = S.R.views[v].body || [20, 20, 60, 60];
+  return {l: b[0], t: b[1], r: b[2], b: b[3], cx: Math.round((b[0] + b[2]) / 2), cy: Math.round((b[1] + b[3]) / 2)}; }
+
+function draw() {
+  if (!S.R) return;
+  for (const v of S.views) {
+    const V = S.R.views[v], z = zoom(v);
+    const c = $("c_" + v); if (!c) continue;
+    const g = c.getContext("2d");
+    g.imageSmoothingEnabled = false;
+    g.fillStyle = getComputedStyle(document.body).getPropertyValue("--field");
+    g.fillRect(0, 0, c.width, c.height);
+    g.strokeStyle = "rgba(0,0,0,.06)"; g.lineWidth = 1;          // pixel grid
+    for (let i = 0; i <= V.fw; i++) { g.beginPath(); g.moveTo(i * z + .5, 0); g.lineTo(i * z + .5, c.height); g.stroke(); }
+    for (let i = 0; i <= V.fh; i++) { g.beginPath(); g.moveTo(0, i * z + .5); g.lineTo(c.width, i * z + .5); g.stroke(); }
+    g.drawImage(V.img, 0, 0, V.fw, V.fh, 0, 0, V.fw * z, V.fh * z);
+    const D = S.drag && S.drag.view === v && S.drag.moved ? S.drag : null;
+    if (D && D.box) {                                            // live: lift the piece's pixels and move them
+      const [x1, y1, x2, y2] = D.box, w = x2 - x1 + 1, h = y2 - y1 + 1;
+      g.fillStyle = "rgba(184,224,160,.85)"; g.fillRect(x1 * z, y1 * z, w * z, h * z);
+      g.drawImage(V.origImg, x1, y1, w, h, x1 * z, y1 * z, w * z, h * z);
+      g.globalAlpha = .9;
+      g.drawImage(V.img, x1, y1, w, h, (x1 + D.dx) * z, (y1 + D.dy) * z, w * z, h * z);
+      g.globalAlpha = 1;
+    }
+    for (const [key, box] of boxes(v)) {
+      const on = S.sel && S.sel.view === v && S.sel.key === key;
+      if (!on && S.sel && S.sel.view === v) continue;
+      const dx = on && D ? D.dx : 0, dy = on && D ? D.dy : 0;
+      g.setLineDash(on ? [] : [4, 4]);
+      g.strokeStyle = on ? "#f5c542" : (key === "gun" ? "rgba(63,183,255,.55)" : "rgba(0,0,0,.35)");
+      g.lineWidth = on ? 2 : 1;
+      g.strokeRect((box[0] + dx) * z - 1, (box[1] + dy) * z - 1, (box[2] - box[0] + 1) * z + 2, (box[3] - box[1] + 1) * z + 2);
+    }
+    g.setLineDash([]);
+    const tag = $("tag_" + v), man = S.spec["auto_" + v] === false;
+    tag.textContent = man ? "hand-placed" : "automatic"; tag.className = "tag" + (man ? " man" : "");
+    $("v_" + v).classList.toggle("active", !!(S.sel && S.sel.view === v));
+    const f = S.tick % V.frames;
+    for (const [id, im] of [["a_" + v, V.img], ["o_" + v, V.origImg]]) {
+      const m = $(id), mg = m.getContext("2d"); mg.imageSmoothingEnabled = false;
+      mg.clearRect(0, 0, m.width, m.height); mg.drawImage(im, f * V.fw, 0, V.fw, V.fh, 0, 0, m.width, m.height);
+    }
+  }
+}
+setInterval(() => { S.tick++; if (!S.drag) draw(); }, 300);
+
+function boxes(v) {                            // [key, box]: key = item index or "gun"
+  const V = S.R.views[v], out = [];
+  V.boxes.forEach((b, i) => b && out.push([i, b]));
+  if (V.gun_box) out.push(["gun", V.gun_box]);
+  return out;
+}
+function itemOf(sel) {
+  if (!S.R || !S.R.views[sel.view]) return null;
+  if (sel.key === "gun") return S.R.views[sel.view].hand ? {type: "gun"} : null;
+  return S.R.views[sel.view].items[sel.key] || null;
+}
+
+// ------------------------------------------------------------------ editing
+function commit(fn) {                         // every change: snapshot for undo, change the spec, re-render
+  S.undo.push(JSON.stringify(S.spec)); S.redo = [];
+  fn(); rerender(); side();
+}
+function own(v) {                              // hand-placed from now on: store everything that's drawn now
+  for (const w of S.info.linked ? S.views : [v]) {
+    if (S.spec["auto_" + w] === false) continue;
+    const V = S.R.views[w];
+    S.spec[w] = clone(V.items);
+    S.spec["auto_" + w] = false;
+    if (V.hand && !S.spec["hand_" + w]) S.spec["hand_" + w] = V.hand.slice();
+  }
+}
+// people: the same piece in the other directions (by type, in order)
+function twins(sel) {
+  if (!S.info.linked || sel.key === "gun") return [sel];
+  const list = v => S.spec[v] || (S.R && S.R.views[v] ? S.R.views[v].items : []);   // before or after own()
+  const it = list(sel.view)[sel.key];
+  if (!it) return [sel];
+  const nth = list(sel.view).slice(0, sel.key).filter(i => i.type === it.type).length;
+  return S.views.map(v => { const same = list(v).map((x, i) => [x, i]).filter(([x]) => x.type === it.type);
+    return same[nth] ? {view: v, key: same[nth][1]} : null; }).filter(Boolean);
+}
+function move(sel, dx, dy) {
+  if (!dx && !dy) return;
+  commit(() => {
+    own(sel.view);
+    if (sel.key === "gun") { const h = S.spec["hand_" + sel.view]; h[0] += dx; h[1] += dy; return; }
+    const it = S.spec[sel.view][sel.key];
+    if (S.info.linked) { it.dx = (it.dx || 0) + dx; it.dy = (it.dy || 0) + dy; return; }
+    for (const k of XK) if (k in it) it[k] += dx;
+    for (const k of YK) if (k in it) it[k] += dy;
+  });
+}
+function widen(sel, d) {
+  commit(() => {
+    own(sel.view);
+    if (sel.key === "gun") return gunScale(sel.view, d * .05, true);
+    const it = S.spec[sel.view][sel.key];
+    if ("w" in it) it.w = Math.max(2, it.w + d * 2);
+    else if ("x1" in it) { it.x1 -= d; it.x2 += d; if (it.x2 < it.x1) it.x2 = it.x1; }
+    else if ("size" in it) it.size = Math.max(2, it.size + d);
+    else if ("n" in it) it.n = Math.max(1, it.n + d * 2);
+  });
+}
+function gunScale(v, d, inCommit) {
+  if (!S.R.views[v].hand) return;
+  const f = () => { own(v); const cur = S.spec["gun_scale_" + v] || S.R.views[v].scale || .6;
+    S.spec["gun_scale_" + v] = Math.round(Math.min(1.6, Math.max(.3, cur + d)) * 100) / 100; };
+  inCommit ? f() : commit(f);
+}
+const SCALABLE = it => it && !["sparkles", "recolor", "gun"].includes(it.type);
+function resize(sel, d, to) {                  // a piece's own size (1 = as drawn), applied to its twins too
+  const cur = itemOf(sel);
+  if (!SCALABLE(cur)) return;
+  const v = Math.round(Math.min(3, Math.max(.5, to !== undefined ? to : (cur.scale || 1) + d)) * 10) / 10;
+  commit(() => { own(sel.view); for (const t of twins(sel)) {
+    const it = S.spec[t.view][t.key]; if (v === 1) delete it.scale; else it.scale = v; } });
+}
+function remove(sel, everywhere = false) {   // people: just this direction unless asked
+  commit(() => {
+    own(sel.view);
+    if (sel.key === "gun") { S.spec["no_gun_" + sel.view] = true; }
+    else {
+      const all = everywhere ? twins(sel) : [sel];
+      for (const t of all.sort((a, b) => b.key - a.key)) S.spec[t.view].splice(t.key, 1);
+    }
+    S.sel = null;
+  });
+}
+function duplicate(sel) {
+  if (sel.key === "gun" || S.info.linked) return;
+  commit(() => {
+    own(sel.view);
+    const it = clone(S.spec[sel.view][sel.key]);
+    for (const k of XK) if (k in it) it[k] += 4;
+    S.spec[sel.view].push(it);
+    S.sel = {view: sel.view, key: S.spec[sel.view].length - 1};
+  });
+}
+function add(v, type) {
+  commit(() => {
+    own(v);
+    // people: into the directions that don't have one yet (so a chain deleted from UP can come back), looking
+    // like the ones already there; if every direction has one, a new one everywhere
+    let targets = [v];
+    let like = null;
+    if (S.info.linked) {
+      const missing = S.views.filter(w => !(S.spec[w] || []).some(x => x.type === type));
+      targets = missing.length ? missing : S.views;
+      for (const w of S.views) like = like || (S.spec[w] || []).find(x => x.type === type) || null;
+      if (!missing.length) like = null;
+    }
+    for (const w of targets) {
+      const it = like ? Object.assign(clone(like), {dx: 0, dy: 0})
+                      : Object.assign({type}, S.info.add ? clone(S.info.add[type]) : NEW[type](body(w)));
+      delete it.dx; delete it.dy;
+      if (type === "fitcap") it.side = w === "front" ? 1 : 0;
+      if (S.info.linked && type === "hat") {            // a hat goes after everything else (it's on top)
+        S.spec[w].push(it);
+      } else if (S.info.linked) {                       // gun/chain under the hat
+        const hat = S.spec[w].findIndex(x => x.type === "hat" || x.type === "bonnet");
+        S.spec[w].splice(hat < 0 ? S.spec[w].length : hat, 0, it);
+      } else S.spec[w].push(it);
+    }
+    const sv = targets.includes(v) ? v : targets[0];
+    S.sel = {view: sv, key: S.info.linked ? S.spec[sv].map(x => x.type).lastIndexOf(type) : S.spec[sv].length - 1};
+  });
+}
+function setProp(sel, k, val) {
+  commit(() => { own(sel.view); for (const t of twins(sel)) S.spec[t.view][t.key][k] = val; });
+}
+function resetView(v) {
+  commit(() => {
+    for (const w of S.info.linked ? S.views : [v])
+      for (const k of [w, "auto_" + w, "hand_" + w, "gun_scale_" + w, "no_gun_" + w, "no_hat_" + w]) delete S.spec[k];
+    S.sel = null;
+  });
+}
+function history(from, to) {
+  if (!from.length) return;
+  to.push(JSON.stringify(S.spec)); S.spec = JSON.parse(from.pop()); S.sel = null; rerender();
+}
+
+// ------------------------------------------------------------------ mouse
+function pt(v, e) { const r = $("c_" + v).getBoundingClientRect(), z = zoom(v);
+  return [Math.floor((e.clientX - r.left) / z), Math.floor((e.clientY - r.top) / z)]; }
+function hit(v, x, y) {                        // the smallest box under the cursor (so small pieces win)
+  let best = null;
+  for (const [key, b] of boxes(v)) {
+    if (x < b[0] - 1 || x > b[2] + 1 || y < b[1] - 1 || y > b[3] + 1) continue;
+    const a = (b[2] - b[0] + 1) * (b[3] - b[1] + 1);
+    if (!best || a < best[1]) best = [key, a];
+  }
+  return best ? best[0] : null;
+}
+function down(v, e) {
+  if (!S.R || !S.R.views[v]) return;
+  const [x, y] = pt(v, e), key = hit(v, x, y);
+  if (key === null) { S.sel = null; draw(); side(); return; }
+  S.sel = {view: v, key};
+  const box = key === "gun" ? S.R.views[v].gun_box : S.R.views[v].boxes[key];
+  S.drag = {view: v, x, y, dx: 0, dy: 0, box, moved: false};
+  draw(); side();
+  e.preventDefault();
+}
+addEventListener("mousemove", e => {
+  const D = S.drag; if (!D) return;
+  const [x, y] = pt(D.view, e);
+  D.dx = x - D.x; D.dy = y - D.y; D.moved = D.moved || D.dx || D.dy;
+  draw();
+});
+addEventListener("mouseup", () => {
+  const D = S.drag; if (!D) return;
+  S.drag = null;
+  if (D.moved) move(S.sel, D.dx, D.dy); else draw();
+});
+
+// ------------------------------------------------------------------ keys
+addEventListener("keydown", e => {
+  const k = e.key, ctrl = e.ctrlKey || e.metaKey;
+  if (ctrl && k.toLowerCase() === "s") { e.preventDefault(); S.kind === "text" ? textSave() : save(); return; }
+  if (S.kind === "text") return;
+  if (["INPUT", "SELECT", "TEXTAREA"].includes(document.activeElement.tagName)) {
+    if (e.key === "Enter" && document.activeElement.tagName !== "TEXTAREA") document.activeElement.blur();
+    return;
+  }
+  if (ctrl && k.toLowerCase() === "z") { e.preventDefault(); history(S.undo, S.redo); return; }
+  if (ctrl && k.toLowerCase() === "y") { e.preventDefault(); history(S.redo, S.undo); return; }
+  if (k === "Tab" && S.R) {
+    e.preventDefault();
+    const all = S.views.flatMap(v => [...S.R.views[v].items.map((_, i) => ({view: v, key: i})),
+      ...(S.R.views[v].hand ? [{view: v, key: "gun"}] : [])]);
+    if (!all.length) return;
+    const i = S.sel ? all.findIndex(s => s.view === S.sel.view && s.key === S.sel.key) : -1;
+    S.sel = all[(i + (e.shiftKey ? -1 : 1) + all.length) % all.length]; draw(); side(); return;
+  }
+  if (!S.sel) return;
+  const step = e.shiftKey ? 5 : 1;
+  const arrows = {ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step]};
+  if (arrows[k]) { e.preventDefault(); move(S.sel, ...arrows[k]); }
+  else if (k === "Delete" || k === "Backspace") { e.preventDefault(); remove(S.sel); }
+  else if (ctrl && k.toLowerCase() === "d") { e.preventDefault(); duplicate(S.sel); }
+  else if ((k === "[" || k === "]") && !S.info.linked) widen(S.sel, k === "]" ? 1 : -1);
+  else if (k === "-" || k === "=" || k === "+") {
+    if (S.sel.key === "gun") gunScale(S.sel.view, k === "-" ? -.05 : .05);
+    else resize(S.sel, k === "-" ? -.1 : .1);
+  }
+  else if (k === "Escape") { S.sel = null; draw(); side(); }
+});
+
+// ------------------------------------------------------------------ side panel
+function label(it) {
+  if (!it) return "";
+  const bits = [it.type];
+  for (const k of ["style", "kind", "color"]) if (it[k] !== undefined) bits.push(it[k]);
+  if (it.heavy) bits.push("heavy");
+  if (it.dx || it.dy) bits.push(`moved ${it.dx || 0},${it.dy || 0}`);
+  if (it.scale && it.scale !== 1) bits.push(it.scale + "×");
+  return bits.join(" · ");
+}
+function control(r, k, val, it, set) {
+  const opts = k === "style" ? ((S.info.choices && S.info.choices.style[it.type]) || CHOICES.style[it.type])
+                             : ((S.info.choices && S.info.choices[k]) || CHOICES[k]);
+  if (k === "color") {
+    const sw = document.createElement("div"); sw.className = "swatches";
+    for (const c of S.info.colors) {
+      const s = document.createElement("div"); s.className = "sw" + (c === val ? " on" : "");
+      s.style.background = SWATCH[c] || "#888"; s.title = c;
+      s.onclick = () => set(c); sw.appendChild(s);
+    }
+    r.appendChild(sw);
+  } else if (typeof val === "boolean") {
+    const cb = document.createElement("input"); cb.type = "checkbox"; cb.checked = val;
+    cb.onchange = () => set(cb.checked); r.appendChild(cb);
+  } else if (opts) {
+    const s = document.createElement("select");
+    s.innerHTML = opts.map(o => `<option ${o === val ? "selected" : ""}>${o}</option>`).join("");
+    s.onchange = () => set(typeof val === "number" ? +s.value : s.value);
+    r.appendChild(s);
+  } else {
+    const inp = document.createElement("input");
+    inp.type = typeof val === "number" ? "number" : "text";
+    if (typeof val === "number" && !Number.isInteger(val)) inp.step = .01;
+    inp.value = val;
+    inp.onchange = () => set(typeof val === "number" ? +inp.value : inp.value);
+    r.appendChild(inp);
+  }
+}
+function side() {
+  const el = $("side"); el.innerHTML = "";
+  if (!S.R) return;
+  const h = (tag, html, cls, parent = el) => { const d = document.createElement(tag); if (cls) d.className = cls;
+    if (html !== undefined) d.innerHTML = html; parent.appendChild(d); return d; };
+  const types = S.info.add ? Object.keys(S.info.add) : Object.keys(NEW);
+
+  h("h3", "Pieces");
+  const items = h("div", undefined, "items");
+  for (const v of S.views) {
+    const V = S.R.views[v];
+    h("div", v.toUpperCase(), "vh", items);
+    const rows = V.items.map((it, i) => [i, it]);
+    if (V.hand) rows.push(["gun", {type: "gun"}]);
+    if (!rows.length) h("div", "nothing", "it muted", items);
+    for (const [key, it] of rows) {
+      const on = S.sel && S.sel.view === v && S.sel.key === key;
+      const d = h("div", `<span>${label(it)}</span>${key !== "gun" && !V.boxes[key] ? `<span class="muted">${["recolor", "sparkles"].includes(it.type) ? "(whole sprite)" : "(off the sprite / covered)"}</span>` : ""}<span class="x" title="Delete">✕</span>`,
+                  "it" + (on ? " on" : ""), items);
+      d.onclick = ev => { if (ev.target.classList.contains("x")) { remove({view: v, key}); return; }
+        S.sel = {view: v, key}; draw(); side(); };
+    }
+    if (S.info.guns && !V.hand) {
+      const d = h("div", "+ give the gun back", "it muted", items);
+      d.onclick = () => commit(() => { own(v); delete S.spec["no_gun_" + v]; });
+    }
+    if (!S.info.linked || v === S.views[S.views.length - 1]) {
+      const addRow = h("div", undefined, "row", items);
+      const sel = document.createElement("select");
+      sel.innerHTML = `<option value="">+ add${S.info.linked ? " (where missing)" : " to " + v}…</option>` + types.map(t => `<option>${t}</option>`).join("");
+      sel.onchange = () => { if (sel.value) add(v, sel.value); };
+      const rs = document.createElement("button"); rs.textContent = S.info.linked ? "Reset all" : "Reset view";
+      rs.title = "Back to automatic placement"; rs.onclick = () => resetView(v);
+      addRow.append(sel, rs);
+    }
+  }
+
+  const it = S.sel && itemOf(S.sel);
+  if (it) {
+    h("h3", `${S.sel.view} · ${label(it)}`);
+    if (it.type === "gun" && S.sel.key === "gun") {
+      const V = S.R.views[S.sel.view];
+      const r1 = h("div", "<label>scale</label>", "row");
+      control(r1, "scale", +(S.spec["gun_scale_" + S.sel.view] || V.scale), it, val =>
+        commit(() => { own(S.sel.view); S.spec["gun_scale_" + S.sel.view] = val; }));
+      h("div", `grip at ${V.hand.join(", ")} — drag the gun to move it`, "muted");
+    } else {
+      if (SCALABLE(it)) {
+        const r = h("div", "<label>size</label>", "row");
+        const sl = document.createElement("input"); sl.type = "range"; sl.min = .5; sl.max = 3; sl.step = .1;
+        sl.value = it.scale || 1; sl.style.width = "120px";
+        const out = document.createElement("span"); out.textContent = (it.scale || 1).toFixed(1) + "×";
+        sl.oninput = () => { out.textContent = (+sl.value).toFixed(1) + "×"; };
+        sl.onchange = () => resize(S.sel, 0, +sl.value);
+        const minus = document.createElement("button"); minus.textContent = "−"; minus.onclick = () => resize(S.sel, -.1);
+        const plus = document.createElement("button"); plus.textContent = "+"; plus.onclick = () => resize(S.sel, .1);
+        r.append(minus, sl, plus, out);
+      }
+      if (["chain", "chain_back", "grill"].includes(it.type) && !("color" in it))   // gold until you pick one
+        control(h("div", "<label>color</label>", "row"), "color", "g", it, v2 => setProp(S.sel, "color", v2));
+      for (const [k, val] of Object.entries(it)) {
+        if (k === "type" || k === "dx" || k === "dy" || k === "scale") continue;
+        control(h("div", `<label>${k}</label>`, "row"), k, val, it, v2 => setProp(S.sel, k, v2));
+      }
+      if (S.info.linked) {
+        h("div", `shift here: ${it.dx || 0}, ${it.dy || 0} (drag or arrow keys)`, "muted");
+        if (it.dx || it.dy) {
+          const b = h("button", "Undo shift"); b.onclick = () => commit(() => { own(S.sel.view);
+            delete S.spec[S.sel.view][S.sel.key].dx; delete S.spec[S.sel.view][S.sel.key].dy; });
+        }
+      }
+      const r = h("div", undefined, "row");
+      if (!S.info.linked) {
+        const dup = document.createElement("button"); dup.textContent = "Duplicate"; dup.onclick = () => duplicate(S.sel);
+        r.appendChild(dup);
+      }
+      const del = document.createElement("button"); del.className = "danger";
+      del.textContent = S.info.linked ? `Delete from ${S.sel.view}` : "Delete";
+      del.onclick = () => remove(S.sel);
+      r.appendChild(del);
+      if (S.info.linked && twins(S.sel).length > 1) {
+        const all = document.createElement("button"); all.className = "danger"; all.textContent = "Delete from all directions";
+        all.onclick = () => remove(S.sel, true);
+        r.appendChild(all);
+      }
+    }
+  } else {
+    h("div", "Click a piece on the sprite (or in the list) to edit it.", "muted");
+  }
+
+  if (S.info.guns) {
+    h("h3", "Gun");
+    const gr = h("div", "<label>model</label>", "row");
+    const gs = document.createElement("select");
+    gs.innerHTML = `<option value="">default (${S.info.default_gun})</option>` +
+      S.info.guns.map(g => `<option ${g === S.spec.gun ? "selected" : ""}>${g}</option>`).join("");
+    gs.onchange = () => commit(() => { if (gs.value) S.spec.gun = gs.value; else delete S.spec.gun; });
+    gr.appendChild(gs);
+  }
+}
+
+// ------------------------------------------------------------------ save
+async function save() {
+  if (S.id === null) return;
+  status("saving…");
+  try {
+    const r = await api("/api/save", {kind: S.kind, id: S.id, spec: S.spec});
+    S.saved = JSON.stringify(S.spec);
+    const s = S.list.find(s => s.id === S.id);
+    if (s) s.edited = Object.keys(S.spec).some(k => !k.startsWith("_"));
+    drawList();
+    status("saved", "good");
+    toast("Saved — regenerated " + r.wrote);
+  } catch (e) { status("save failed: " + e.message, "bad"); }
+}
+$("save").onclick = () => S.kind === "text" ? textSave() : save();
+$("undo").onclick = () => history(S.undo, S.redo);
+$("redo").onclick = () => history(S.redo, S.undo);
+$("revert").onclick = () => { if (!dirty() || confirm("Throw away unsaved changes?")) {
+  S.undo.push(JSON.stringify(S.spec)); S.spec = JSON.parse(S.saved); S.sel = null; rerender(); } };
+addEventListener("beforeunload", e => { if (dirty() || textDirty()) { e.preventDefault(); e.returnValue = ""; } });
+// ================================================================== Text tab: every line of in-game text
+// Rows show the text the way you'd type it: a new line is a new line, ⏎ starts a new text box (the player
+// presses A), ⤓ scrolls the box up a line. {STRVAR…} and friends are filled in by the game: keep them.
+const T = {banks: null, bank: null, rows: {}, font: null, atlas: null, shown: 80, hits: null, timers: {}, focusRow: null};
+const BOX = "⏎", SCROLL = "⤓";
+const PART = /\\[nrf]|\{[^{}]*\}|\\|[\s\S]/g;
+
+const ending = raw => (raw.match(/(?:\\[nrf])+$/) || [""])[0];
+const bodyOf = raw => raw.slice(0, raw.length - ending(raw).length);
+const toDisplay = raw => bodyOf(raw).replace(/\\r/g, BOX + "\n").replace(/\\f/g, SCROLL + "\n").replace(/\\n/g, "\n");
+const toRaw = d => d.replace(/\r/g, "").replace(new RegExp(BOX + "\\n?", "g"), "\\r")
+                    .replace(new RegExp(SCROLL + "\\n?", "g"), "\\f").replace(/\n/g, "\\n");
+const textDirty = () => Object.values(T.rows).some(r => r.dirty);
+
+async function enterText(id, row) {
+  status("loading text…");
+  $("list").innerHTML = '<div class="muted" style="padding:10px">loading all game text…</div>';
+  if (!T.font) {
+    T.font = await api("/api/text/font");
+    T.atlas = await loadImg(T.font.atlas);
+  }
+  T.banks = await api("/api/text/banks");
+  T.hits = null;
+  $("tsearch").value = "";
+  $("tsearch").onkeydown = e => { if (e.key === "Enter") searchAll(); if (e.key === "Escape") { $("tsearch").value = ""; T.hits = null; drawBankList(); } };
+  drawBankList();
+  sideRules();
+  await openBank(id || "msg_0543_T20R0101", row);
+}
+function drawBankList() {
+  const L = $("list"); L.innerHTML = "";
+  if (T.hits) {
+    const head = document.createElement("div"); head.className = "muted"; head.style.padding = "6px 12px";
+    head.innerHTML = `${T.hits.length >= 400 ? "400+" : T.hits.length} matches · <a href="#" id="clearhits">back to banks</a>`;
+    L.appendChild(head);
+    $("clearhits").onclick = e => { e.preventDefault(); T.hits = null; $("tsearch").value = ""; drawBankList(); };
+    for (const h of T.hits) {
+      const d = document.createElement("div"); d.className = "hitrow" + (T.bank && h.bank === T.bank.id && h.row === T.focusRow ? " on" : "");
+      d.innerHTML = `<small>${h.bank.slice(4, 8)} · ${esc(h.label)} · #${h.row}</small>${esc(h.text)}`;
+      d.onclick = () => openBank(h.bank, h.row);
+      L.appendChild(d);
+    }
+    return;
+  }
+  const q = $("search").value.trim().toLowerCase();
+  for (const b of T.banks) {
+    if (q && !b.name.toLowerCase().includes(q) && !b.id.toLowerCase().includes(q)) continue;
+    const d = document.createElement("div");
+    d.className = T.bank && b.id === T.bank.id ? "on" : "";
+    d.innerHTML = `<span>${esc(b.name)}</span>${b.edited ? '<span class="dot">●</span>' : ""}`;
+    d.title = `${b.id} · ${b.rows} lines`;
+    d.onclick = () => openBank(b.id);
+    L.appendChild(d);
+  }
+}
+async function searchAll() {
+  const q = $("tsearch").value.trim();
+  if (q.length < 2) return toast("Type at least 2 letters");
+  status("searching…");
+  T.hits = await api("/api/text/search?q=" + encodeURIComponent(q));
+  status(""); drawBankList();
+}
+const esc = s => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+async function openBank(id, row = null) {
+  if (T.bank && T.bank.id !== id && textDirty() && !confirm("You have unsaved text changes in this bank. Throw them away?")) return;
+  status("loading…");
+  const B = await api("/api/text/bank?id=" + encodeURIComponent(id));
+  T.bank = B; T.rows = {}; T.focusRow = row;
+  for (const r of B.rows) T.rows[r.i] = {...r, draft: r.text, dirty: false, errors: [], measure: null, limit: null};
+  T.shown = row !== null ? Math.max(80, row + 20) : 80;
+  location.hash = "text/" + id + (row !== null ? "/" + row : "");
+  $("title").textContent = `${id.slice(4, 8)} · ${B.label}`;
+  drawBankList(); renderBank(); sideRules();
+  status(B.readonly ? "read-only" : "", B.readonly ? "bad" : "");
+  if (row !== null) {
+    const el = $("tr_" + row);
+    if (el) { el.scrollIntoView({block: "center"}); el.classList.add("hit"); el.querySelector("textarea").focus(); }
+  }
+}
+function renderBank() {
+  const M = $("textmain"); M.innerHTML = "";
+  const B = T.bank, L = B.limits;
+  const head = document.createElement("div"); head.className = "bankhead";
+  head.innerHTML = `<span class="muted">${B.rows.length} lines · ${B.id} · box ${L.px}px wide, ${L.lines} line${L.lines > 1 ? "s" : ""} per box, up to ${L.units} long</span>`;
+  M.appendChild(head);
+  if (B.readonly) { const r = document.createElement("div"); r.className = "terr"; r.textContent = "Read-only: " + B.readonly; M.appendChild(r); }
+  const rows = B.rows.slice(0, T.shown);
+  for (const r of rows) M.appendChild(rowCard(T.rows[r.i]));
+  if (B.rows.length > T.shown) {
+    const more = document.createElement("button"); more.textContent = `Show ${Math.min(80, B.rows.length - T.shown)} more (${B.rows.length - T.shown} left)`;
+    more.onclick = () => { T.shown += 80; renderBank(); };
+    M.appendChild(more);
+  }
+}
+function rowCard(R) {
+  const card = document.createElement("div"); card.className = "trow"; card.id = "tr_" + R.i;
+  const changedFromOrig = R.text !== R.base;
+  card.innerHTML = `<div class="thead"><span class="num">#${R.i}</span>
+    ${R.edited ? '<span class="tag ed">edited</span>' : changedFromOrig ? '<span class="tag">hood</span>' : '<span class="tag">original</span>'}
+    <span class="sp"></span><button data-a="undo" hidden>Undo changes</button><button data-a="orig" ${changedFromOrig ? "" : "hidden"}>Use original</button></div>
+    <textarea spellcheck="true"></textarea><div class="tprev"></div><div class="terr"></div><div class="tmeta"></div>
+    ${changedFromOrig ? `<div class="torig">original: ${esc(toDisplay(R.base))}</div>` : ""}`;
+  const ta = card.querySelector("textarea");
+  ta.value = toDisplay(R.draft);
+  ta.disabled = !!T.bank.readonly;
+  const fit = () => { ta.style.height = "auto"; ta.style.height = (ta.scrollHeight + 2) + "px"; };
+  ta.oninput = () => { fit(); edited(R, toRaw(ta.value)); };
+  ta.onkeydown = e => {
+    if (e.key === "Enter" && (e.shiftKey || e.altKey)) {          // Shift+Enter: new box · Alt+Enter: scroll
+      e.preventDefault();
+      const ins = (e.shiftKey ? BOX : SCROLL) + "\n";
+      ta.setRangeText(ins, ta.selectionStart, ta.selectionEnd, "end");
+      ta.oninput();
+    }
+  };
+  card.querySelector('[data-a="undo"]').onclick = () => { ta.value = toDisplay(R.text); ta.oninput(); };
+  card.querySelector('[data-a="orig"]').onclick = () => { ta.value = toDisplay(R.base); ta.oninput(); };
+  requestAnimationFrame(fit);
+  R.card = card;
+  paintRow(R);
+  return card;
+}
+function edited(R, raw) {
+  R.draft = raw + ending(R.text);
+  R.dirty = R.draft !== R.text;
+  clearTimeout(T.timers[R.i]);
+  T.timers[R.i] = setTimeout(() => checkRow(R), 200);
+  paintRow(R);
+  status(textDirty() ? "unsaved changes" : "", "");
+}
+async function checkRow(R) {
+  const id = T.bank.id, sent = R.draft;
+  const res = (await api("/api/text/check", {id, rows: {[R.i]: sent}}))[R.i];
+  if (!T.bank || T.bank.id !== id || R.draft !== sent) return;
+  R.errors = res.errors; R.measure = res.measure; R.limit = res.limit; R.normalized = res.text;
+  R.dirty = res.text !== R.text;
+  paintRow(R);
+}
+function paintRow(R) {
+  const c = R.card; if (!c) return;
+  c.classList.toggle("dirty", R.dirty);
+  c.classList.toggle("bad", R.dirty && R.errors.length > 0);
+  c.querySelector('[data-a="undo"]').hidden = !R.dirty;
+  c.querySelector(".terr").innerHTML = R.dirty ? R.errors.map(e => `<div>${esc(e)}</div>`).join("") : "";
+  const m = R.measure, l = R.limit;
+  c.querySelector(".tmeta").textContent = m && l ? `widest line ${m.px}/${l.px}px · ${m.lines}/${l.lines} lines per box · length ${m.units}/${l.units}` : "";
+  drawPreview(c.querySelector(".tprev"), R.normalized || R.draft, l ? l.px : T.bank.limits.px);
+}
+
+// a pixel preview with the game's own font: one box per \r / \f, the box as wide as the bank's widest line
+function boxesOf(raw) {
+  const out = [[[]]];
+  for (const p of bodyOf(raw).match(PART) || []) {
+    const box = out[out.length - 1];
+    if (p === "\\n") box.push([]);
+    else if (p === "\\r" || p === "\\f") out.push([[]]);
+    else box[box.length - 1].push(p);
+  }
+  return out;
+}
+function glyphW(ch) {
+  const code = T.font.chars[ch];
+  if (code === undefined) return 6;
+  const g = code - 1;
+  return T.font.widths[g < T.font.widths.length ? g : 427];
+}
+function drawPreview(el, raw, limit) {
+  el.innerHTML = "";
+  const Z = 2, pad = 6;
+  for (const box of boxesOf(raw)) {
+    const widths = box.map(line => line.reduce((w, p) => w + (p.startsWith("{") ? (/^\{STRVAR/.test(p) ? T.font.token_px : 0) : glyphW(p)), 0));
+    const W = Math.max(limit, ...widths) + pad * 2, H = Math.max(1, box.length) * 16 + pad;
+    const cv = document.createElement("canvas"); cv.width = W * Z; cv.height = H * Z;
+    const g = cv.getContext("2d"); g.imageSmoothingEnabled = false; g.scale(Z, Z);
+    g.fillStyle = "#f8f8f8"; g.fillRect(0, 0, W, H);
+    g.strokeStyle = "#7890a8"; g.lineWidth = 1; g.strokeRect(.5, .5, limit + pad * 2 - 1, H - 1);
+    box.forEach((line, li) => {
+      let x = pad;
+      const y = pad / 2 + li * 16;
+      for (const p of line) {
+        if (p.startsWith("{")) {
+          if (/^\{STRVAR/.test(p)) {
+            g.fillStyle = "#cfe3ff"; g.fillRect(x, y + 2, T.font.token_px - 1, 12);
+            g.fillStyle = "#5878a8"; g.font = "8px sans-serif"; g.fillText("name", x + 4, y + 11);
+            x += T.font.token_px;
+          }
+          continue;
+        }
+        const code = T.font.chars[p];
+        if (code !== undefined) {
+          const gi = code - 1;
+          g.drawImage(T.atlas, (gi % 32) * 16, Math.floor(gi / 32) * 16, 16, 16, x, y, 16, 16);
+        } else {
+          g.fillStyle = "#ff5d5d"; g.fillRect(x, y + 2, 5, 12);
+        }
+        x += glyphW(p);
+      }
+      if (x - pad > limit) {                                         // past the edge of the box
+        g.fillStyle = "rgba(255,60,60,.25)"; g.fillRect(limit + pad, y, x - pad - limit, 16);
+      }
+    });
+    if (box.length > (T.bank.limits.lines || 2)) {
+      g.fillStyle = "rgba(255,60,60,.25)"; g.fillRect(0, (T.bank.limits.lines) * 16 + pad / 2, W, H);
+    }
+    el.appendChild(cv);
+  }
+}
+
+async function textSave() {
+  const dirtyRows = Object.values(T.rows).filter(r => r.dirty);
+  if (!dirtyRows.length) return toast("Nothing to save");
+  if (T.bank.readonly) return toast("This bank is read-only");
+  status("checking…");
+  const res = await api("/api/text/check", {id: T.bank.id, rows: Object.fromEntries(dirtyRows.map(r => [r.i, r.draft]))});
+  let bad = 0;
+  for (const r of dirtyRows) {
+    const x = res[r.i]; r.errors = x.errors; r.measure = x.measure; r.limit = x.limit; r.normalized = x.text;
+    if (x.errors.length) bad++;
+    paintRow(r);
+  }
+  if (bad) {
+    status(`${bad} line${bad > 1 ? "s" : ""} would break the game: fix the red ones first`, "bad");
+    const first = dirtyRows.find(r => r.errors.length);
+    if (first && first.card) first.card.scrollIntoView({block: "center"});
+    return;
+  }
+  status("saving…");
+  try {
+    const r = await fetch("/api/text/save", {method: "POST", body: JSON.stringify({id: T.bank.id,
+      rows: Object.fromEntries(dirtyRows.map(r => [r.i, r.normalized || r.draft]))})});
+    const j = await r.json();
+    if (!r.ok) { status("not saved: " + (j.error || r.statusText), "bad"); return; }
+    for (const row of dirtyRows) { row.text = row.normalized || row.draft; row.draft = row.text; row.dirty = false; row.edited = true; }
+    const b = T.banks.find(b => b.id === T.bank.id); if (b) b.edited = true;
+    status("saved", "good");
+    toast(`Saved ${j.saved} line${j.saved > 1 ? "s" : ""} — in the game on the next ROM build`);
+    renderBank(); drawBankList();
+  } catch (e) { status("save failed: " + e.message, "bad"); }
+}
+
+function sideRules() {
+  const el = $("side");
+  el.innerHTML = `<h3>Typing</h3>
+    <div class="muted" style="line-height:1.6">
+    <b>Enter</b> new line in the box<br><b>Shift+Enter</b> ${BOX} next box (player presses A)<br>
+    <b>Alt+Enter</b> ${SCROLL} scroll the box up a line<br><b>Ctrl+S</b> save this bank</div>
+    <h3>Kept safe for the game</h3>
+    <div class="muted" style="line-height:1.55">
+    • Only characters the game's font has (' and " become curly quotes)<br>
+    • <code>{STRVAR…}</code>, <code>{YESNO}</code>, <code>{WAIT}</code>… are filled in by the game — they all have to stay (any order)<br>
+    • Lines can't be wider than the box (real pixel widths: the preview is the game's font)<br>
+    • No more lines per box than this bank uses<br>
+    • Not longer than the game's text buffers for this bank<br>
+    • Each line keeps its ending; lines can't be added or removed<br>
+    Red lines can't be saved. Saved text goes in <code>hood/data/text_edits.json</code> and the bank's .gmm,
+    and wins over the hood scripts if they're re-run.</div>
+    <h3>Find text</h3><div class="muted">Use <b>Search ALL game text</b> on the left (Enter) — it looks through all ${T.banks ? T.banks.reduce((n, b) => n + b.rows, 0).toLocaleString() : ""} lines.</div>`;
+}
+
+init();
+</script>
+</body>
+</html>

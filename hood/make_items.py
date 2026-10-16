@@ -16,7 +16,7 @@ OUT, CAP, CAP_L, GL_D, GL, GL_L, LABEL, LABEL_T, LIQ = 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 
 def head(rel):
-    return bytearray(subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout)
+    return bytearray(subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout)
 
 
 def block(b, magic):

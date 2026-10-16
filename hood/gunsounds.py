@@ -77,7 +77,54 @@ def shots(rate=RATE):
     out["smash"] = smash(rate)
     out["bonk"] = bonk(rate)
     out["splat"] = splat(rate)
+    out["spray"] = spray(rate)
+    out["zap"] = zap(rate)
+    out["alarm"] = alarm(rate)
+    out["bass"] = bass(rate)
+    out["crack"] = crack(rate)
     return out
+
+
+def spray(rate=RATE, length=.7):
+    """Hydrant blasting: a hard rush of water that holds, then tails off."""
+    t = _t(length, rate)
+    n = _rng.uniform(-1, 1, len(t))
+    env = np.minimum(1, t / .04) * np.minimum(1, (length - t) / .2)
+    return _finish(_highpass(_lowpass(n, 5000, rate), 700, rate) * env, 1.4)
+
+
+def zap(rate=RATE, length=.6):
+    """Taser: a crackling 60 Hz buzz with snaps."""
+    t = _t(length, rate)
+    buzz = np.sign(np.sin(2 * np.pi * 60 * t)) * .5 + np.sign(np.sin(2 * np.pi * 180 * t + 1)) * .3
+    n = _rng.uniform(-1, 1, len(t))
+    snaps = _highpass(n, 3000, rate) * (np.sin(2 * np.pi * 23 * t) > .7)
+    return _finish((buzz + snaps) * np.minimum(1, t / .01) * np.minimum(1, (length - t) / .05), 1.5)
+
+
+def alarm(rate=RATE, length=.9):
+    """Car alarm: wee-woo-wee-woo."""
+    t = _t(length, rate)
+    f = np.where((t * 4) % 1 < .5, 1500, 1050)
+    tone = np.sign(np.sin(2 * np.pi * np.cumsum(f) / rate)) * .6
+    return _finish(_lowpass(tone, 4000, rate), 1.2)
+
+
+def bass(rate=RATE, length=.5):
+    """A sub-bass hit from the trunk."""
+    t = _t(length, rate)
+    f = 55 * (1 + 1.5 * np.exp(-t / .03))
+    thump = np.sin(2 * np.pi * np.cumsum(f) / rate) * np.exp(-t / .25)
+    return _finish(thump, 2.2)
+
+
+def crack(rate=RATE, length=.3):
+    """Wooden bat on a skull: a sharp crack with a hollow knock."""
+    t = _t(length, rate)
+    n = _rng.uniform(-1, 1, len(t))
+    snap = _highpass(n, 2500, rate) * np.exp(-t / .008) * 1.4
+    knock = np.sin(2 * np.pi * 880 * t) * np.exp(-t / .04) + np.sin(2 * np.pi * 230 * t) * np.exp(-t / .06)
+    return _finish(snap + knock, 1.8)
 
 
 def whoosh(rate=RATE, length=.35):

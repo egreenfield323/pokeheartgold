@@ -3,8 +3,10 @@
 every human gets a hat + chain, gang-ish ones get a gun, the player gets a durag + chain + pistol
 in every state, Lyra/Ethan rep a red bandana, and the professors look like they've been up for days:
 Oak in a wife beater with bare legs, Elm in a stained coat, both with powder under the nose.
-Originals are read from git HEAD. Run from the repo root:  python hood/make_npcs.py [--preview out.png]
+Originals are read from the base commit 77565981b. Run from the repo root:  python hood/make_npcs.py [--preview out.png]
 """
+import json
+import math
 import random
 import re
 import subprocess
@@ -41,12 +43,14 @@ def models():
 
 
 def frame_dirs(texs):
-    """Frames sorted by number; the sheet is 4 equal blocks: away, toward, left, right."""
+    """Frames sorted by number come in blocks per direction: away, toward, left, right. Walking sheets use blocks
+    of 4, repeating for the player's running / biking sets (24 or 32 frames); shorter sheets (surfing, ladder,
+    ...) have a single block per direction."""
     order = sorted(range(len(texs)), key=lambda i: int(re.sub(r"\D", "", texs[i]["name"].rsplit(".", 1)[-1]) or 0))
-    per = max(1, len(texs) // 4)
+    per = 4 if len(texs) >= 16 else max(1, len(texs) // 4)
     dirs = [None] * len(texs)
     for rank, i in enumerate(order):
-        dirs[i] = ["up", "down", "left", "right"][min(3, rank // per)]
+        dirs[i] = ["up", "down", "left", "right"][(rank // per) % 4 if len(texs) >= 16 else min(3, rank // per)]
     return dirs
 
 
@@ -65,15 +69,62 @@ def powder(rows, skin):
     return cx, bottom - 1
 
 
-def dress(num, name, preview=False):
+DRIP = ROOT / "hood/data/npc_drip.json"
+PIECE_COLORS = {"r": (214, 36, 44), "u": (40, 80, 200), "p": (236, 120, 176), "o": (255, 140, 40),
+                "e": (78, 168, 58), "pl": (255, 196, 224)}   # k, W, g are always there (outline, white, gold)
+FACING = ("down", "up", "left", "right")
+
+
+def load_drip():
+    """Hand-placed overworld drip (the drip editor), keyed by model name: per facing direction ("down", "up",
+    "left", "right") a list of pieces - gun {kind}, chain {heavy}, hat {style, color}, bonnet {color},
+    powder - each with an optional dx/dy shift; "auto_<dir>": false means the list replaces the automatic one."""
+    return json.loads(DRIP.read_text(encoding="utf-8")) if DRIP.exists() else {}
+
+
+def layer(rows, new, dx, dy, scale=1):
+    """Composite what a piece changed (rows -> new) onto rows, scaled about its centre (nearest neighbour) and
+    shifted by (dx, dy). Returns (rows, box)."""
+    h, w = len(rows), len(rows[0])
+    pts = [(x, y) for y in range(h) for x in range(w) if new[y][x] != rows[y][x]]
+    if not pts:
+        return rows, None
+    if scale != 1:
+        got = {(x, y): new[y][x] for x, y in pts}
+        xs, ys = [x for x, _ in pts], [y for _, y in pts]
+        cx, cy = (min(xs) + max(xs)) / 2, (min(ys) + max(ys)) / 2
+        scaled = {}
+        for Y in range(math.floor(cy + (min(ys) - cy - .5) * scale), math.ceil(cy + (max(ys) - cy + .5) * scale) + 1):
+            for X in range(math.floor(cx + (min(xs) - cx - .5) * scale), math.ceil(cx + (max(xs) - cx + .5) * scale) + 1):
+                src = (math.floor(cx + (X - cx) / scale + .5), math.floor(cy + (Y - cy) / scale + .5))
+                if src in got:
+                    scaled[X, Y] = got[src]
+        pts, new = list(scaled), None
+    else:
+        scaled = {(x, y): new[y][x] for x, y in pts}
+    if dx or dy or new is None:
+        out = [r[:] for r in rows]
+        for (x, y), c in scaled.items():
+            if 0 <= x + dx < w and 0 <= y + dy < h:
+                out[y + dy][x + dx] = c
+        new = out
+    xs, ys = [x + dx for x, _ in pts], [y + dy for _, y in pts]
+    return new, [max(0, min(xs)), max(0, min(ys)), min(w - 1, max(xs)), min(h - 1, max(ys))]
+
+
+def dress(num, name, preview=False, spec=None, report=None):
+    """Dress overworld model num. spec: its npc_drip.json entry (read from the file when None). report (a dict)
+    gets, per facing direction, the pieces drawn, their boxes on that direction's first frame and its frames."""
     for ext in ("NSBTX", "NSBMD"):
         rel = f"files/data/mmodel/mmodel/mmodel_{num:08d}.{ext}"
-        r = subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True)
+        r = subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True)
         if r.returncode == 0:
             blob = r.stdout
             break
     else:
         return None
+    if spec is None:
+        spec = load_drip().get(name, {})
     b, texs, pals = nsbtx.parse(blob)
     texs = [t for t in texs if t["fmt"] == 3]
     if not texs or not pals:
@@ -83,6 +134,7 @@ def dress(num, name, preview=False):
     used = {v for f in frames for r in f for v in r} - {0}
     if len(used) < 4:
         return None
+    orig_pal = list(pal)
     rng = random.Random(num * 31337)
     S = {"out": min(used, key=lambda i: sum(pal[i]))}
     for k, col in (("m", (120, 120, 128)), ("l", (200, 200, 210)), ("W", (248, 248, 248)),
@@ -97,6 +149,7 @@ def dress(num, name, preview=False):
     if ms.dist(pal[S["g"]], (246, 206, 64)) > 1500 or (PLAYER.search(name) and not FRIEND.search(name)):
         claim("g", (255, 224, 72))
     S["ac"] = S["out"]
+    S["k"] = S["out"]
 
     style, color, gun = rng.choice(["beanie", "snapback", "durag", "bandana"]), "k", None
     if PLAYER.search(name) and not FRIEND.search(name):
@@ -116,45 +169,91 @@ def dress(num, name, preview=False):
         gun = rng.choice(["pistol", "mid", "long"])
     if style == "bandana" and not FRIEND.search(name):      # a black band disappears into dark hair: rep a colour
         want = rng.choice([(214, 36, 44), (40, 80, 200)])
-        claim("r", want)
-        if "r" not in S:
-            S["r"] = nearest(pal, used - {S["out"]}, want)
-        color = "r"
+        key = "r" if want == (214, 36, 44) else "u"
+        claim(key, want)
+        if key not in S:
+            S[key] = nearest(pal, used - {S["out"]}, want)
+        color = key
     if name in (OAK, ELM):
         style = None
     if style in ("snapback", "beanie") and rng.random() < .5 and S["W"] != S["out"]:
         color = "W"
+    for d in FACING:                              # colours the hand-placed pieces need
+        for item in spec.get(d, []):
+            c = item.get("color")
+            if c and c not in S and c in PIECE_COLORS:
+                claim(c, PIECE_COLORS[c])
+                if c not in S:
+                    S[c] = nearest(pal, used - {S["out"]}, PIECE_COLORS[c])
 
+    skin = nearest(pal, used, SKIN)
     if name == OAK:      # lab coat -> bare skin, purple shirt -> wife beater, slacks -> bare legs
-        skin = nearest(pal, used, (248, 208, 184))
         for i, col in ((9, (248, 208, 184)), (12, (216, 160, 120)), (10, (184, 128, 100)), (11, (120, 80, 64)),
                        (13, (232, 232, 248)), (14, (200, 200, 216))):
             pal[i] = col
     if name == ELM:      # coat that hasn't been washed since the experiments started
-        skin = nearest(pal, used, (248, 208, 184))
         pal[9], pal[10] = (222, 214, 160), (176, 168, 120)
 
     dirs = frame_dirs(texs)
     face = face_metrics(frames, dirs, pal, used, S)
-    out_rows = []
-    for t, rows, d in zip(texs, frames, dirs):
+
+    def auto(d):
+        items = []
         if gun:
-            rows = mo.dress_frame(rows, d, S, "none", color, gun, big=False, chain=False)
+            items.append({"type": "gun", "kind": gun})
         if style and face and d == "down":                      # before the hat: a pom-pom moves the top
-            rows = collar_chain(rows, S, face, heavy=bool(PLAYER.search(name) and not FRIEND.search(name)))
+            items.append({"type": "chain", "heavy": bool(PLAYER.search(name) and not FRIEND.search(name))})
         if style == "bonnet" and face:
-            rows = bonnet(rows, S, face)
+            items.append({"type": "bonnet", "color": color})
         elif style and style != "none" and face:
-            rows = fitted_hat(rows, d, S, style, color, face)
+            items.append({"type": "hat", "style": style, "color": color})
         if name in (OAK, ELM) and d == "down":
+            items.append({"type": "powder"})
+        return items
+    pieces = {d: spec[d] if spec.get("auto_" + d) is False else auto(d) for d in FACING}
+
+    def draw(rows, d, item):
+        t, c = item["type"], item.get("color", "k")
+        if t == "gun":
+            return mo.dress_frame(rows, d, S, "none", color, item.get("kind", "pistol"), big=False, chain=False)
+        if t == "chain" and face:
+            return collar_chain(rows, S, face, heavy=bool(item.get("heavy")), color=item.get("color", "g"))
+        if t == "bonnet" and face:
+            return bonnet(rows, dict(S, p=S.get(c, S["out"]), pl=S["pl"] if c == "p" and "pl" in S else S["W"]),
+                          face)
+        if t == "hat" and face:
+            return fitted_hat(rows, d, S, item.get("style", "beanie"), c if c in S else "k", face)
+        if t == "powder":
             p = powder(rows, skin)
+            out = [r[:] for r in rows]
             if p:
                 for dx in (0, 1):
-                    if 0 <= p[0] + dx < t["w"]:
-                        rows[p[1]][p[0] + dx] = S["W"]
+                    if 0 <= p[0] + dx < len(rows[0]):
+                        out[p[1]][p[0] + dx] = S["W"]
+            return out
+        return rows
+
+    order = sorted(range(len(texs)), key=lambda i: int(re.sub(r"\D", "", texs[i]["name"].rsplit(".", 1)[-1]) or 0))
+    first = {}
+    for i in order:
+        first.setdefault(dirs[i], i)
+    out_rows = []
+    for i, (t, rows, d) in enumerate(zip(texs, frames, dirs)):
+        boxes = []
+        for item in pieces[d]:
+            rows, box = layer(rows, draw(rows, d, item), item.get("dx", 0), item.get("dy", 0), item.get("scale", 1))
+            boxes.append(box)
+        if report is not None and first.get(d) == i:
+            report[d] = {"items": json.loads(json.dumps(pieces[d])), "boxes": boxes, "hand": None, "scale": None,
+                         "gun_box": None}
         nsbtx.set_pixels(b, t, rows)
         out_rows.append(rows)
     nsbtx.set_palette(b, pals[0], pal)
+    if report is not None:
+        for d in report:
+            idx = [i for i in order if dirs[i] == d]
+            report[d].update(frames=[out_rows[i] for i in idx], orig=[frames[i] for i in idx])
+        report["_pal"], report["_orig_pal"] = pal, orig_pal
     if preview:
         return out_rows, pal, dirs
     (ROOT / rel).write_bytes(bytes(b))
@@ -270,7 +369,7 @@ def fitted_hat(rows, d, S, style, color, face):
     return out
 
 
-def collar_chain(rows, S, face, heavy=False):
+def collar_chain(rows, S, face, heavy=False, color="g"):
     """A gold chain hanging on the collar, just under the chin, with a pendant. heavy: a thick 2-row Cuban
     link with a 2x2 piece (the player's - it has to read at 32px over a busy jacket)."""
     bb = mo.bbox(rows)
@@ -289,6 +388,9 @@ def collar_chain(rows, S, face, heavy=False):
     def put(x, y, c):
         if 0 <= y < len(rows) and 0 <= x < len(rows[0]) and rows[y][x]:
             out[y][x] = c
+    if color != "g":                                            # silver / iced / coloured: (main, shade)
+        main, shade = {"l": ("l", "m"), "W": ("W", "l"), "k": ("m", "out")}.get(color, (color, "out"))
+        S = dict(S, g=S.get(main, S["g"]), b=S.get(shade, S["b"]))
     if heavy:
         for dx, dy in zip(range(-4, 5), (0, 1, 1, 2, 2, 2, 1, 1, 0)):
             put(cx + dx, y0 + dy, S["g"])
@@ -365,7 +467,8 @@ def main():
         sheet.resize((sheet.width * 3, sheet.height * 3), Image.NEAREST).save(preview)
         print("preview:", preview)
         return
-    n = sum(1 for k, nm in todo.items() if dress(k, nm))
+    drip = load_drip()
+    n = sum(1 for k, nm in todo.items() if dress(k, nm, spec=drip.get(nm, {})))
     print(f"dressed {n} overworld people")
 
 

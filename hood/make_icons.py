@@ -4,7 +4,7 @@
 Icons are 32x64 (two 32x32 frames) drawn with one of three SHARED 16-colour palettes, so no new
 colours can be added: drip uses entries every palette already has (greys, black, white) plus each
 palette's own yellow as gold. Each icon gets the hat its species wears in battle, a mini gun of
-its gun class, and a chain. Originals are read from git HEAD.
+its gun class, and a chain. Originals are read from the base commit 77565981b.
 Run from the repo root:  python hood/make_icons.py [--preview out.png]
 """
 import json
@@ -66,27 +66,31 @@ def main():
     pals = shared_palettes()
     preview = sys.argv[sys.argv.index("--preview") + 1] if "--preview" in sys.argv else None
     tiles, count = [], 0
+    only = {int(x) for x in sys.argv[sys.argv.index("--only") + 1].split(",")} if "--only" in sys.argv else None
     for path in sorted(ICONS.glob("poke_icon_*.png")):
         k = int(path.stem.split("_")[-1])
         sp = icon_species(k)
-        if sp is None:
+        if sp is None or (only and sp not in only):
             continue
         im = ms.git_png(path)
         pn = palno[k - 7] if k - 7 < len(palno) else 0
         pal = pals[pn]
         gun = drip.get(str(sp), {}).get("gun", plan[sp])
-        rng = random.Random(sp * 7919)
-        style = rng.choice(["durag", "beanie", "snapback", "snapback", "bandana", "durag"])
-        color = rng.choices(["k", "ac", "W", "g"], [40, 30, 15, 15])[0]
+        # the same hat the species wears in battle (make_sprites.pick_hat decides it once per species)
+        front = next((ms.git_png(ms.SPRITES / f"{sp:04d}" / g / "front.png") for g in ("male", "female")), None)
+        if front is not None and front.getbbox():
+            fpal = [tuple(front.getpalette()[i * 3:i * 3 + 3]) for i in range(16)]
+            style, color = ms.pick_hat(front, fpal, random.Random(sp * 104729))
+        else:
+            style, color = "durag", "k"
         for item in drip.get(str(sp), {}).get("front", []):
-            if item["type"] == "hat":
+            if item["type"] in ("hat", "fitcap"):          # (fitcap: placed in the drip editor)
                 style, color = item["style"], item.get("color", color)
-        if color not in ("k", "ac", "W", "g"):
-            color = "k"
         data = im.tobytes()
         used = {v for v in data if v}
         ac = ms.accent_slots(pal, used - {15, 14, 1, 2, 3}) if used - {15, 14, 1, 2, 3} else (15, 15, 15)
-        S = {"out": 15, "m": 1, "l": 2, "W": 3, "g": GOLD[pn][0], "b": GOLD[pn][1], "ac": ac[1]}
+        S = {"out": 15, "m": 1, "l": 2, "W": 3, "g": GOLD[pn][0], "b": GOLD[pn][1], "ac": ac[1],
+             "r": min(range(1, 16), key=lambda i: ms.dist(pal[i], ms.COLORS["r"]))}
         frames = []
         for f in range(2):
             rows = [list(data[(f * 32 + y) * 32:(f * 32 + y + 1) * 32]) for y in range(32)]

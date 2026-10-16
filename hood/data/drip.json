@@ -3,14 +3,30 @@
   "155": {
     "_name": "Cyndaquil: Beretta, saggy jeans, Jordans",
     "hand_front": [
-      31,
-      52
+      26,
+      51
     ],
     "front": [
       {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 29,
+        "band": 37,
+        "w": 14,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 19,
+        "x2": 41,
+        "y": 46,
+        "sag": 4
+      },
+      {
         "type": "shoe",
-        "x": 26,
-        "y": 56,
+        "x": 25,
+        "y": 57,
         "w": 8,
         "style": "jordan"
       },
@@ -30,7 +46,26 @@
       28,
       41
     ],
-    "hat_w": 14
+    "hat_w": 14,
+    "auto_front": false,
+    "gun_scale_front": 0.1,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 66,
+        "band": 35,
+        "w": 14,
+        "color": "k",
+        "side": 0,
+        "scale": 1.5
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      68
+    ]
   },
   "16": {
     "_name": "Pidgey: gold chain",
@@ -52,11 +87,38 @@
     ],
     "front": [
       {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 42,
+        "band": 35,
+        "w": 18,
+        "color": "k",
+        "side": 1
+      },
+      {
         "type": "grill",
-        "x1": 37,
-        "x2": 44,
-        "y": 48
+        "x1": 36,
+        "x2": 43,
+        "y": 49
       }
+    ],
+    "auto_front": false,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 47,
+        "band": 34,
+        "w": 21,
+        "color": "k",
+        "side": 0,
+        "scale": 1.3
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      46
     ]
   },
   "25": {
@@ -67,12 +129,52 @@
     ],
     "front": [
       {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 29,
+        "band": 32,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 42,
+        "y": 45,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 24,
+        "y": 62,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
         "type": "shades",
         "x1": 20,
         "x2": 36,
         "y": 30,
         "h": 3
       }
+    ],
+    "auto_front": false,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 53,
+        "band": 27,
+        "w": 22,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      95,
+      54
     ]
   },
   "19": {
@@ -94,20 +196,93 @@
     "_name": "Meowth: shades",
     "front": [
       {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 37,
+        "band": 28,
+        "w": 21,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 43,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 45,
+        "y": 60,
+        "w": 6,
+        "style": "white"
+      },
+      {
         "type": "shades",
-        "x1": 28,
-        "x2": 48,
+        "x1": 27,
+        "x2": 47,
         "y": 31,
         "h": 4
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      44
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 44,
+        "band": 23,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      58
     ]
   },
   "161": {
     "_name": "Sentret: chain",
-    "front": [],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 22,
+        "w": 17,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 46,
+        "y": 32,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 41,
+        "y": 68,
+        "w": 9,
+        "style": "white"
+      }
+    ],
     "head_back": [
       40,
       26
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      48
     ]
   },
   "66": {
@@ -137,28 +312,89 @@
     "_name": "Machoke: Jordans + chain",
     "front": [
       {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 16,
+        "w": 18,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 52,
+        "y": 26,
+        "sag": 4
+      },
+      {
         "type": "shoe",
         "x": 20,
         "y": 65,
         "w": 12,
-        "style": "jordan"
+        "style": "jordan",
+        "scale": 1.4
       },
       {
         "type": "shoe",
-        "x": 46,
-        "y": 60,
+        "x": 45,
+        "y": 62,
         "w": 12,
-        "style": "jordan"
+        "style": "jordan",
+        "scale": 1.4
       }
     ],
     "head_front": [
       41,
       19
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      40
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 15,
+        "w": 23,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      54,
+      52
     ]
   },
   "68": {
     "_name": "Machamp: Jordans, chain, grill",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 41,
+        "band": 26,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 32,
+        "x2": 54,
+        "y": 42,
+        "sag": 4,
+        "scale": 1.5
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 809
+      },
       {
         "type": "grill",
         "x1": 37,
@@ -179,11 +415,53 @@
         "w": 12,
         "style": "jordan"
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      1,
+      47
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 26,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 809
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      47
     ]
   },
   "106": {
     "_name": "Hitmonlee: Jordans",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 43,
+        "band": 19,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 35,
+        "x2": 49,
+        "y": 41,
+        "sag": 3
+      },
       {
         "type": "shoe",
         "x": 40,
@@ -194,15 +472,52 @@
       {
         "type": "shoe",
         "x": 23,
-        "y": 47,
+        "y": 48,
         "w": 9,
         "style": "jordan"
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      39
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 21,
+        "band": 23,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      44,
+      53
     ]
   },
   "95": {
     "_name": "Onix: made of blue crystal",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 16,
+        "band": 31,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 45,
+        "x2": 67,
+        "y": 33,
+        "sag": 4
+      },
       {
         "type": "recolor",
         "hue": 0.53,
@@ -217,6 +532,15 @@
     ],
     "back": [
       {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 54,
+        "band": 29,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      },
+      {
         "type": "sparkles",
         "n": 10,
         "seed": 96
@@ -229,6 +553,16 @@
     "head_back": [
       52,
       26
+    ],
+    "auto_front": false,
+    "hand_front": [
+      54,
+      53
+    ],
+    "auto_back": false,
+    "hand_back": [
+      41,
+      70
     ]
   },
   "69": {
@@ -252,22 +586,50 @@
     "hand_front": [
       30,
       52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 41,
+        "band": 18,
+        "w": 21,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      54,
+      54
     ]
   },
   "80": {
     "_name": "Slowbro: beanie + glass pipe",
     "front": [
       {
+        "type": "chain",
+        "x1": 18,
+        "x2": 38,
+        "y": 35,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 861
+      },
+      {
         "type": "pipe",
         "x": 22,
-        "y": 33,
+        "y": 30,
         "dir": -1
       },
       {
         "type": "hat",
         "style": "beanie",
-        "cx": 29,
-        "by": 16,
+        "cx": 26,
+        "by": 17,
         "w": 22,
         "color": "r",
         "side": 1
@@ -277,12 +639,63 @@
       24,
       54
     ],
-    "gun_scale": 0.6
+    "gun_scale": 0.6,
+    "auto_front": false,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 56,
+        "band": 18,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 861
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      79,
+      58
+    ],
+    "no_gun_back": true
   },
   "110": {
     "_name": "Weezing: chain-smoker (one per head)",
     "gun": "mac10",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 33,
+        "band": 32,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 49,
+        "y": 52,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 26,
+        "y": 72,
+        "w": 5,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 480
+      },
       {
         "type": "cig",
         "x": 25,
@@ -300,7 +713,29 @@
       22,
       58
     ],
-    "gun_scale": 0.55
+    "gun_scale": 0.55,
+    "auto_front": false,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 51,
+        "band": 56,
+        "w": 21,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 480
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      47
+    ]
   },
   "225": {
     "_name": "Delibird: brick in the sack",
@@ -349,10 +784,19 @@
     "_name": "Squirtle: shades, chain, kicks",
     "front": [
       {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 31,
+        "band": 28,
+        "w": 20,
+        "color": "r",
+        "side": 1
+      },
+      {
         "type": "shades",
-        "x1": 27,
-        "x2": 40,
-        "y": 28,
+        "x1": 25,
+        "x2": 38,
+        "y": 27,
         "h": 3
       },
       {
@@ -367,11 +811,32 @@
         "y": 55,
         "w": 9
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      27,
+      44
     ]
   },
   "158": {
     "_name": "Totodile: chain + kicks",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 24,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 44,
+        "y": 42,
+        "sag": 4
+      },
       {
         "type": "shoe",
         "x": 30,
@@ -384,11 +849,41 @@
         "y": 53,
         "w": 9
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 42,
+        "band": 16,
+        "w": 22,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      55
     ]
   },
   "152": {
     "_name": "Chikorita: chain + kicks",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 29,
+        "band": 35,
+        "w": 19,
+        "color": "k",
+        "side": 1
+      },
       {
         "type": "shoe",
         "x": 21,
@@ -401,11 +896,32 @@
         "y": 57,
         "w": 7
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      48
     ]
   },
   "133": {
     "_name": "Eevee: shades + chain",
     "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 45,
+        "band": 34,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 35,
+        "x2": 49,
+        "y": 44,
+        "sag": 3
+      },
       {
         "type": "shades",
         "x1": 28,
@@ -421,49 +937,205 @@
     "head_back": [
       43,
       31
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 43,
+        "band": 28,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      58,
+      54
     ]
   },
   "143": {
     "_name": "Snorlax: grill + big chain",
     "hand_front": [
-      15,
-      58
+      21,
+      56
     ],
     "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 39,
+        "band": 26,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 50,
+        "y": 37,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 54,
+        "y": 69,
+        "w": 8,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 93
+      },
       {
         "type": "grill",
         "x1": 33,
         "x2": 44,
         "y": 35
       }
+    ],
+    "auto_front": false,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 46,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 93
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      56
     ]
   },
   "94": {
     "_name": "Gengar: gold grill",
     "front": [
       {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 42,
+        "band": 38,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 24,
+        "y": 62,
+        "w": 7,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 102
+      },
+      {
         "type": "grill",
-        "x1": 34,
-        "x2": 46,
+        "x1": 38,
+        "x2": 50,
         "y": 47
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      51
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 51,
+        "band": 28,
+        "w": 22,
+        "color": "k",
+        "side": 0,
+        "scale": 1.7
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 102
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      74,
+      58
     ]
   },
   "54": {
     "_name": "Psyduck: chain + kicks",
     "front": [
       {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 25,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 50,
+        "y": 43,
+        "sag": 4
+      },
+      {
         "type": "shoe",
-        "x": 29,
+        "x": 25,
         "y": 57,
         "w": 9
       },
       {
         "type": "shoe",
-        "x": 43,
-        "y": 59,
+        "x": 39,
+        "y": 58,
         "w": 9
       }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      62,
+      54
     ]
   },
   "3": {
@@ -476,6 +1148,52 @@
     "head_front": [
       40,
       28
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 46,
+        "band": 27,
+        "w": 23,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 37,
+        "x2": 53,
+        "y": 38,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 30,
+        "y": 63,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      20,
+      46
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 48,
+        "band": 23,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      51
     ]
   },
   "20": {
@@ -498,12 +1216,94 @@
     "head_back": [
       62,
       40
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 27,
+        "band": 48,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      31,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 59,
+        "band": 47,
+        "w": 17,
+        "color": "k",
+        "side": 0,
+        "scale": 1.2
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      76,
+      66
     ]
   },
   "55": {
     "head_front": [
       40,
       17
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 14,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 42,
+        "y": 34,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 246
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      46
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 18,
+        "w": 20,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 246
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      53
     ]
   },
   "65": {
@@ -514,25 +1314,233 @@
     "head_back": [
       35,
       34
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 19,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 49,
+        "y": 36,
+        "sag": 4,
+        "scale": 1.7
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 319
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      20,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 35,
+        "band": 31,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 319
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      58
     ]
   },
   "73": {
     "head_front": [
       38,
       16
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 21,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 572
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      15,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 25,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 572
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      79,
+      60
     ]
   },
   "76": {
     "head_front": [
       35,
       33
-    ]
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 35,
+        "band": 30,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 45,
+        "sag": 4,
+        "scale": 1.5
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 383
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 19,
+        "w": 19,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 383
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      46
+    ],
+    "no_gun_back": true
   },
   "97": {
     "head_front": [
       40,
       25
-    ]
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 36,
+        "band": 22,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 45,
+        "y": 39,
+        "sag": 4,
+        "scale": 1.6
+      },
+      {
+        "type": "shoe",
+        "x": 18,
+        "y": 69,
+        "w": 10,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 610
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 610
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      48
+    ],
+    "no_gun_back": true
   },
   "98": {
     "head_front": [
@@ -542,12 +1550,91 @@
     "head_back": [
       40,
       47
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 34,
+        "band": 44,
+        "w": 10,
+        "color": "W",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      13,
+      31
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 48,
+        "w": 10,
+        "color": "W",
+        "side": 0,
+        "scale": 1.7
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      21,
+      38
     ]
   },
   "105": {
     "head_front": [
       34,
       37
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 34,
+        "w": 23,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 51,
+        "y": 54,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 56,
+        "y": 64,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      41,
+      65
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 18,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      60,
+      60
     ]
   },
   "111": {
@@ -558,12 +1645,86 @@
     "head_back": [
       62,
       36
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 26,
+        "band": 39,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 39,
+        "y": 59,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 62,
+        "band": 33,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      55
     ]
   },
   "125": {
     "head_front": [
       32,
       32
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 33,
+        "band": 29,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 40,
+        "y": 41,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 53,
+        "y": 69,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 368
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      55
     ]
   },
   "145": {
@@ -574,30 +1735,260 @@
     "head_back": [
       36,
       30
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 36,
+        "band": 27,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 45,
+        "y": 41,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 597
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      54
     ]
   },
   "150": {
     "head_front": [
       39,
       18
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 42,
+        "band": 15,
+        "w": 18,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 41,
+        "x2": 51,
+        "y": 35,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 24,
+        "y": 68,
+        "w": 5,
+        "style": "white"
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 68,
+        "w": 5,
+        "style": "white"
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 623
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      31,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 10,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 623
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      81,
+      57
     ]
   },
   "151": {
     "head_front": [
       52,
       34
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 56,
+        "band": 31,
+        "w": 19,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 47,
+        "x2": 61,
+        "y": 44,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 52,
+        "y": 60,
+        "w": 5,
+        "style": "white"
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 806
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      37,
+      47
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 48,
+        "band": 28,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 806
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      57
     ]
   },
   "163": {
     "head_front": [
       40,
       28
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 43,
+        "band": 25,
+        "w": 15,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 49,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 34,
+        "y": 58,
+        "w": 5,
+        "style": "white"
+      },
+      {
+        "type": "shoe",
+        "x": 41,
+        "y": 58,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      44
     ]
   },
   "184": {
     "head_front": [
       35,
       33
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 36,
+        "band": 30,
+        "w": 19,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 42,
+        "y": 65,
+        "w": 6,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      8,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 31,
+        "band": 39,
+        "w": 16,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      63,
+      61
     ]
   },
   "187": {
@@ -608,13 +1999,70 @@
     "head_back": [
       35,
       48
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 65,
+        "w": 22,
+        "color": "k",
+        "side": 1,
+        "scale": 0.6
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      57
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 32,
+        "band": 56,
+        "w": 15,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      44,
+      64
     ]
   },
   "189": {
     "head_front": [
       41,
       47
-    ]
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 78,
+        "w": 24,
+        "color": "r",
+        "side": 1,
+        "scale": 0.8
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      19,
+      57
+    ],
+    "back": [],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      66
+    ],
+    "no_gun_back": true
   },
   "196": {
     "head_front": [
@@ -782,6 +2230,22 @@
     "head_back": [
       63,
       46
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 38,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      42
     ]
   },
   "15": {
@@ -794,54 +2258,382 @@
     "head_back": [
       36,
       52
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 61,
+        "w": 17,
+        "color": "k",
+        "side": 1,
+        "scale": 0.8
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 44,
+        "y": 47,
+        "sag": 4,
+        "scale": 0.7
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 31,
+        "band": 80,
+        "w": 21,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      54,
+      65
     ]
   },
   "48": {
     "head_back": [
       45,
       42
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 37,
+        "band": 29,
+        "w": 12,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 23,
+        "x2": 45,
+        "y": 50,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 45,
+        "y": 64,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      45
     ]
   },
   "64": {
     "head_back": [
       40,
       30
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 34,
+        "band": 25,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 22,
+        "x2": 44,
+        "y": 38,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      -2,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 27,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      48
     ]
   },
   "99": {
     "head_back": [
       28,
       50
-    ]
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 54,
+        "w": 17,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      13,
+      65
+    ],
+    "back": [],
+    "auto_back": false,
+    "hand_back": [
+      44,
+      48
+    ],
+    "no_gun_back": true
   },
   "109": {
     "head_back": [
       40,
       32
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 28,
+        "w": 18,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 21,
+        "y": 60,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      44
     ]
   },
   "153": {
     "head_back": [
       55,
       25
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 33,
+        "band": 27,
+        "w": 22,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 40,
+        "y": 39,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 37,
+        "y": 66,
+        "w": 7,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 58,
+        "band": 32,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      61,
+      59
     ]
   },
   "156": {
     "head_back": [
       62,
       42
+    ],
+    "no_hat_back": true,
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 27,
+        "band": 41,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 60,
+        "w": 6,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      34,
+      59
+    ],
+    "gun_scale_front": 0.2,
+    "back": [],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      68
     ]
   },
   "157": {
     "head_back": [
-      60,
-      27
+      58,
+      24
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 20,
+        "band": 25,
+        "w": 21,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 35,
+        "y": 32,
+        "sag": 2
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 897
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      35,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 58,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 897
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      61
     ]
   },
   "170": {
     "head_back": [
       32,
       38
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 50,
+        "w": 13,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 37,
+        "y": 50,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      43
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 29,
+        "band": 68,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      45
     ]
   },
   "193": {
@@ -878,6 +2670,39 @@
     "head_back": [
       35,
       45
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 43,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      44,
+      67
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 41,
+        "band": 51,
+        "w": 10,
+        "color": "k",
+        "side": 0,
+        "scale": 1.9
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      74,
+      72
     ]
   },
   "292": {
@@ -986,6 +2811,5106 @@
     "head_back": [
       45,
       33
+    ],
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 25,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 51,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 32,
+        "y": 53,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 45,
+        "y": 53,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      42
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 49,
+        "band": 36,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      76,
+      52
+    ]
+  },
+  "9": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 14,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 52,
+        "y": 29,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 54,
+        "y": 68,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 775
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      13,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 56,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 775
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      60
+    ]
+  },
+  "10": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 34,
+        "band": 31,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 45,
+        "y": 40,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 41,
+        "y": 53,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      27,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 47,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      53,
+      45
+    ]
+  },
+  "11": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 31,
+        "band": 32,
+        "w": 22,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 44,
+        "y": 43,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 43,
+        "y": 53,
+        "w": 9,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      43
+    ]
+  },
+  "21": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 32,
+        "band": 27,
+        "w": 19,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 22,
+        "x2": 44,
+        "y": 37,
+        "sag": 4,
+        "scale": 0.7
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      27,
+      48
+    ],
+    "gun_scale_front": 0.16,
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 55,
+        "band": 21,
+        "w": 19,
+        "color": "W",
+        "side": 0,
+        "scale": 1.5
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      52
+    ]
+  },
+  "6": {
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 64,
+        "band": 7,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 876
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      52
+    ],
+    "no_gun_back": true,
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 33,
+        "band": 12,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 38,
+        "x2": 46,
+        "y": 29,
+        "sag": 2
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 876
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      11,
+      56
+    ]
+  },
+  "5": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 26,
+        "band": 24,
+        "w": 19,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 29,
+        "y": 38,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 48,
+        "y": 61,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 47,
+        "band": 24,
+        "w": 23,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      79,
+      52
+    ]
+  },
+  "1": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 35,
+        "band": 49,
+        "w": 17,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 51,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 47,
+        "y": 53,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 50,
+        "band": 23,
+        "w": 24,
+        "color": "W",
+        "side": 0,
+        "scale": 1.4
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      66,
+      45
+    ]
+  },
+  "12": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 56,
+        "band": 28,
+        "w": 21,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 19,
+        "x2": 41,
+        "y": 45,
+        "sag": 4,
+        "scale": 0.7
+      },
+      {
+        "type": "shoe",
+        "x": 39,
+        "y": 62,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 33,
+        "band": 12,
+        "w": 19,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      66
+    ]
+  },
+  "13": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 34,
+        "band": 27,
+        "w": 15,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 38,
+        "y": 41,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      42
+    ]
+  },
+  "14": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 36,
+        "band": 30,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 34,
+        "y": 54,
+        "w": 6,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 18,
+        "w": 20,
+        "color": "k",
+        "side": 0,
+        "scale": 1.4
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      53,
+      46
+    ]
+  },
+  "18": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 20,
+        "band": 28,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 13,
+        "x2": 29,
+        "y": 39,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 30,
+        "y": 72,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      56
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 60,
+        "band": 18,
+        "w": 24,
+        "color": "k",
+        "side": 0,
+        "scale": 1.2
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      57
+    ]
+  },
+  "23": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 33,
+        "band": 20,
+        "w": 21,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 41,
+        "y": 39,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 48,
+        "band": 17,
+        "w": 23,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      49
+    ]
+  },
+  "24": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 31,
+        "band": 15,
+        "w": 23,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 43,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 48,
+        "band": 7,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      50
+    ],
+    "no_gun_back": true
+  },
+  "26": {
+    "front": [
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 36,
+        "y": 35,
+        "sag": 4,
+        "scale": 1.3
+      },
+      {
+        "type": "shoe",
+        "x": 10,
+        "y": 64,
+        "w": 9,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 39,
+        "y": 68,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      17,
+      45
+    ],
+    "back": [],
+    "auto_back": false,
+    "hand_back": [
+      74,
+      56
+    ]
+  },
+  "27": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 34,
+        "band": 26,
+        "w": 21,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 22,
+        "x2": 44,
+        "y": 37,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      44
+    ]
+  },
+  "28": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 31,
+        "band": 43,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 41,
+        "band": 18,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      51
+    ]
+  },
+  "30": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 23,
+        "band": 23,
+        "w": 13,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 40,
+        "y": 44,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 51,
+        "y": 60,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 55,
+        "band": 25,
+        "w": 14,
+        "color": "k",
+        "side": 0,
+        "scale": 1.4
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      68,
+      64
+    ]
+  },
+  "31": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 32,
+        "band": 20,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 35,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 423
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      4,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 54,
+        "band": 22,
+        "w": 21,
+        "color": "k",
+        "side": 0,
+        "scale": 1.5
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 423
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      81,
+      64
+    ]
+  },
+  "32": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 34,
+        "band": 42,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 45,
+        "y": 49,
+        "sag": 4,
+        "scale": 0.8
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      32,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 49,
+        "band": 64,
+        "w": 18,
+        "color": "k",
+        "side": 0,
+        "scale": 1.2
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      68,
+      61
+    ]
+  },
+  "34": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 28,
+        "band": 19,
+        "w": 20,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 13,
+        "x2": 35,
+        "y": 40,
+        "sag": 4,
+        "scale": 0.9
+      },
+      {
+        "type": "shoe",
+        "x": 48,
+        "y": 70,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 325
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      3,
+      57
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "bandana",
+        "cx": 63,
+        "band": 35,
+        "w": 17,
+        "color": "k",
+        "side": 0,
+        "scale": 0.8
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 325
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      76,
+      68
+    ]
+  },
+  "36": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 36,
+        "band": 26,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 40,
+        "y": 59,
+        "w": 6,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      32,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 36,
+        "band": 24,
+        "w": 20,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      81,
+      58
+    ]
+  },
+  "37": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 26,
+        "band": 32,
+        "w": 23,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 37,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 58,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 58,
+        "band": 26,
+        "w": 21,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      59
+    ]
+  },
+  "38": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 21,
+        "band": 19,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 9,
+        "x2": 31,
+        "y": 35,
+        "sag": 4,
+        "scale": 0.6
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 446
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      -1,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 67,
+        "band": 27,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 446
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      61
+    ]
+  },
+  "39": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 30,
+        "w": 10,
+        "color": "r",
+        "side": 1,
+        "scale": 1.4
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 46,
+        "y": 48,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 45,
+        "y": 54,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      43
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 33,
+        "band": 41,
+        "w": 16,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      64
+    ]
+  },
+  "40": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 34,
+        "band": 41,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 40,
+        "y": 65,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 36,
+        "band": 28,
+        "w": 16,
+        "color": "r",
+        "side": 0,
+        "scale": 1.5
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      68
+    ],
+    "no_gun_back": true
+  },
+  "41": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 32,
+        "band": 29,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 46,
+        "y": 39,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      15,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 42,
+        "band": 22,
+        "w": 17,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      54,
+      53
+    ]
+  },
+  "42": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 30,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 40,
+        "y": 61,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      18,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 21,
+        "band": 25,
+        "w": 16,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      43,
+      45
+    ]
+  },
+  "44": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 38,
+        "band": 41,
+        "w": 21,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 49,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 46,
+        "y": 56,
+        "w": 6,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 41,
+        "band": 19,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      80,
+      60
+    ],
+    "no_gun_back": true
+  },
+  "45": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 33,
+        "band": 31,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 52,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 260
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      59
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 11,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 260
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      67
+    ]
+  },
+  "46": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 33,
+        "w": 13,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 46,
+        "y": 43,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 44,
+        "y": 53,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      19,
+      42
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 62,
+        "band": 36,
+        "w": 22,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      62,
+      50
+    ],
+    "gun_scale_back": 0.87
+  },
+  "49": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 24,
+        "band": 38,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 40,
+        "y": 55,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      64
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 59,
+        "band": 36,
+        "w": 16,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      74,
+      52
+    ]
+  },
+  "51": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 20,
+        "w": 12,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 42,
+        "x2": 56,
+        "y": 45,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 37,
+        "y": 57,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "chain",
+        "x1": 32,
+        "x2": 46,
+        "y": 33,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      32,
+      52
+    ]
+  },
+  "53": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 20,
+        "band": 20,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 15,
+        "x2": 31,
+        "y": 33,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 30,
+        "y": 64,
+        "w": 5,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      20,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 63,
+        "band": 15,
+        "w": 18,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      64,
+      60
+    ]
+  },
+  "57": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 29,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 44,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 47,
+        "y": 64,
+        "w": 7,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      5,
+      44
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 26,
+        "w": 20,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      54
+    ]
+  },
+  "58": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 29,
+        "band": 28,
+        "w": 16,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 38,
+        "y": 40,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 34,
+        "y": 61,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 55,
+        "band": 29,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      69,
+      58
+    ]
+  },
+  "59": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 18,
+        "band": 12,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 10,
+        "x2": 32,
+        "y": 37,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 7,
+        "y": 71,
+        "w": 8,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 743
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      4,
+      57
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 56,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 743
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      48
+    ],
+    "no_gun_back": true
+  },
+  "60": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 29,
+        "band": 28,
+        "w": 20,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 40,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 20,
+        "y": 52,
+        "w": 5,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 32,
+        "y": 52,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      20,
+      42
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 39,
+        "band": 27,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      44
+    ]
+  },
+  "61": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 39,
+        "band": 21,
+        "w": 23,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 46,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 46,
+        "y": 57,
+        "w": 6,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      38
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 32,
+        "band": 27,
+        "w": 23,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      47
+    ]
+  },
+  "62": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 18,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 47,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 52,
+        "y": 63,
+        "w": 7,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 400
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      46
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 400
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      78,
+      54
+    ]
+  },
+  "63": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 41,
+        "band": 29,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 34,
+        "x2": 48,
+        "y": 39,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 37,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      69,
+      45
+    ]
+  },
+  "70": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 33,
+        "band": 28,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 42,
+        "y": 54,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 25,
+        "y": 58,
+        "w": 7,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      50
+    ]
+  },
+  "71": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 51,
+        "w": 20,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 18,
+        "y": 65,
+        "w": 10,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 146
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      5,
+      57
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 53,
+        "band": 30,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 146
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      60
+    ]
+  },
+  "72": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 45,
+        "band": 44,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      48
+    ]
+  },
+  "75": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 36,
+        "band": 27,
+        "w": 24,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 49,
+        "y": 47,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      9,
+      44
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 53,
+        "band": 41,
+        "w": 19,
+        "color": "g",
+        "side": 0,
+        "scale": 1.8
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      51
+    ],
+    "no_gun_back": true
+  },
+  "77": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 26,
+        "band": 24,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 31,
+        "y": 40,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 27,
+        "y": 62,
+        "w": 7,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 23,
+        "band": 12,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      32,
+      49
+    ],
+    "no_gun_back": true
+  },
+  "78": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 19,
+        "band": 17,
+        "w": 18,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 14,
+        "x2": 30,
+        "y": 33,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 23,
+        "y": 73,
+        "w": 8,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 527
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      11,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 62,
+        "band": 25,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 527
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      49
+    ],
+    "no_gun_back": true
+  },
+  "79": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 33,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      47
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 54,
+        "band": 22,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      55
+    ]
+  },
+  "81": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 35,
+        "w": 14,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 53,
+        "y": 49,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      39
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 44,
+        "w": 14,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      53,
+      61
+    ]
+  },
+  "82": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 40,
+        "band": 23,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 32,
+        "x2": 48,
+        "y": 36,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      51
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 46,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      72,
+      50
+    ]
+  },
+  "83": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 36,
+        "band": 28,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 40,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 31,
+        "band": 31,
+        "w": 21,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      46
+    ],
+    "no_gun_back": true
+  },
+  "84": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 58,
+        "band": 18,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 45,
+        "x2": 53,
+        "y": 38,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      49,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 55,
+        "band": 34,
+        "w": 21,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      44,
+      63
+    ],
+    "gun_scale_back": 0.6
+  },
+  "85": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 41,
+        "band": 10,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 37,
+        "x2": 45,
+        "y": 42,
+        "sag": 2,
+        "scale": 1.8
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 38,
+        "band": 18,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      68,
+      63
+    ]
+  },
+  "86": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 32,
+        "band": 48,
+        "w": 13,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 39,
+        "y": 62,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      59
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 57,
+        "band": 29,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      55
+    ]
+  },
+  "87": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 22,
+        "band": 36,
+        "w": 19,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 35,
+        "y": 48,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      17,
+      62
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 56,
+        "band": 15,
+        "w": 22,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      62
+    ]
+  },
+  "88": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 34,
+        "band": 25,
+        "w": 18,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 44,
+        "y": 39,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      51
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 38,
+        "band": 20,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      57,
+      54
+    ]
+  },
+  "89": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 22,
+        "band": 31,
+        "w": 20,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 10,
+        "x2": 32,
+        "y": 57,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 840
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      65,
+      22
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 61,
+        "band": 74,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 840
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      98,
+      25
+    ]
+  },
+  "90": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 32,
+        "w": 13,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 24,
+        "x2": 46,
+        "y": 49,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      45
+    ]
+  },
+  "91": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 41,
+        "w": 24,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 524
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      15,
+      58
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 56,
+        "band": 25,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 524
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      57
+    ]
+  },
+  "92": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 33,
+        "band": 31,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 43,
+        "y": 52,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 58,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      19,
+      43
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 35,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      51
+    ]
+  },
+  "93": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 30,
+        "band": 38,
+        "w": 16,
+        "color": "W",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      -7,
+      61
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 45,
+        "band": 23,
+        "w": 17,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      68,
+      60
+    ]
+  },
+  "96": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 35,
+        "band": 19,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 35,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 53,
+        "y": 63,
+        "w": 7,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 49,
+        "band": 19,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      57,
+      46
+    ]
+  },
+  "100": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 41,
+        "band": 36,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      42
+    ]
+  },
+  "101": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 34,
+        "band": 28,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 56,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 506
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      20,
+      44
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 19,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 506
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      45
+    ],
+    "no_gun_back": true
+  },
+  "102": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 29,
+        "w": 13,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 40,
+        "sag": 4,
+        "scale": 0.8
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      18,
+      43
+    ]
+  },
+  "103": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 36,
+        "band": 44,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 47,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 48,
+        "y": 73,
+        "w": 6,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 999
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      44,
+      59
+    ],
+    "back": [
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 999
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      78,
+      52
+    ]
+  },
+  "104": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 46,
+        "band": 30,
+        "w": 19,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 34,
+        "x2": 50,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 37,
+        "y": 55,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      31,
+      49
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 35,
+        "band": 19,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      61
+    ]
+  },
+  "107": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 42,
+        "band": 17,
+        "w": 16,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 36,
+        "x2": 48,
+        "y": 34,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 25,
+        "y": 64,
+        "w": 7,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 48,
+        "y": 64,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      38
+    ]
+  },
+  "108": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 29,
+        "band": 21,
+        "w": 14,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 42,
+        "y": 38,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 51,
+        "y": 62,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      45
+    ]
+  },
+  "112": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 31,
+        "band": 15,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 21,
+        "x2": 43,
+        "y": 37,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 400
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      51
+    ]
+  },
+  "113": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 23,
+        "w": 21,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 47,
+        "y": 34,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 50,
+        "y": 58,
+        "w": 5,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      44
+    ]
+  },
+  "114": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 42,
+        "band": 29,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 48,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 45,
+        "y": 56,
+        "w": 7,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      44
+    ]
+  },
+  "115": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 35,
+        "band": 15,
+        "w": 24,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 49,
+        "y": 30,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 55,
+        "y": 70,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      54
+    ]
+  },
+  "116": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 30,
+        "w": 17,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 32,
+        "x2": 44,
+        "y": 40,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 54,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 34,
+        "band": 23,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      53,
+      51
+    ]
+  },
+  "117": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 32,
+        "band": 25,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 42,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 28,
+        "y": 62,
+        "w": 7,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      47
+    ]
+  },
+  "118": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 28,
+        "band": 39,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 40,
+        "y": 51,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 44,
+        "y": 56,
+        "w": 7,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      10,
+      55
+    ]
+  },
+  "119": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 57,
+        "band": 26,
+        "w": 16,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 19,
+        "x2": 41,
+        "y": 49,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 53,
+        "y": 63,
+        "w": 7,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      12,
+      51
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 57,
+        "band": 30,
+        "w": 19,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      61
+    ]
+  },
+  "120": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 32,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 26,
+        "x2": 48,
+        "y": 48,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 23,
+        "w": 16,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      72,
+      57
+    ]
+  },
+  "121": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 29,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 50,
+        "y": 47,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 338
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      19,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 20,
+        "w": 21,
+        "color": "r",
+        "side": 0,
+        "scale": 1.6
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 338
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      74,
+      58
+    ]
+  },
+  "122": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 24,
+        "w": 24,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 30,
+        "x2": 52,
+        "y": 36,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 21,
+        "y": 64,
+        "w": 6,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      16,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 57,
+        "band": 17,
+        "w": 22,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      76,
+      53
+    ]
+  },
+  "123": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 34,
+        "w": 13,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 47,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 23,
+        "y": 68,
+        "w": 5,
+        "style": "white"
+      },
+      {
+        "type": "shoe",
+        "x": 69,
+        "y": 68,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      7,
+      46
+    ]
+  },
+  "126": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 45,
+        "band": 27,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 35,
+        "x2": 57,
+        "y": 37,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 375
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      39
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 57,
+        "band": 28,
+        "w": 23,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 375
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      61
+    ]
+  },
+  "127": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 37,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 53,
+        "y": 68,
+        "w": 6,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      12,
+      61
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 49,
+        "band": 31,
+        "w": 19,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      73,
+      61
+    ]
+  },
+  "128": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 19,
+        "band": 42,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 32,
+        "y": 66,
+        "w": 7,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      13,
+      61
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 57,
+        "band": 24,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      58
+    ]
+  },
+  "129": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 28,
+        "w": 18,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 20,
+        "x2": 42,
+        "y": 48,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      46
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 49,
+        "band": 32,
+        "w": 18,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      47
+    ]
+  },
+  "130": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 20,
+        "band": 27,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 47,
+        "x2": 59,
+        "y": 34,
+        "sag": 3,
+        "scale": 1.3
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 719
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      12,
+      61
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 46,
+        "band": 25,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 719
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      75,
+      61
+    ]
+  },
+  "131": {
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 32,
+        "band": 8,
+        "w": 17,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      49,
+      57
+    ]
+  },
+  "132": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 27,
+        "w": 15,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 50,
+        "y": 38,
+        "sag": 4,
+        "scale": 1.2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      42
+    ]
+  },
+  "134": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 14,
+        "band": 28,
+        "w": 11,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 6,
+        "x2": 28,
+        "y": 41,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 12,
+        "y": 58,
+        "w": 6,
+        "style": "concord"
+      },
+      {
+        "type": "shoe",
+        "x": 38,
+        "y": 58,
+        "w": 6,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 349
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      9,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 27,
+        "w": 20,
+        "color": "g",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 349
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      58,
+      64
+    ]
+  },
+  "135": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 29,
+        "band": 33,
+        "w": 22,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 40,
+        "y": 43,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 272
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      32,
+      58
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 48,
+        "band": 26,
+        "w": 18,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 272
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      69,
+      47
+    ]
+  },
+  "136": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 27,
+        "band": 35,
+        "w": 18,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 18,
+        "x2": 36,
+        "y": 50,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 28,
+        "y": 62,
+        "w": 7,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 706
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      59
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 69,
+        "band": 21,
+        "w": 17,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 706
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      77,
+      59
+    ]
+  },
+  "137": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 36,
+        "band": 27,
+        "w": 17,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 41,
+        "y": 40,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 43,
+        "y": 53,
+        "w": 9,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      27,
+      47
+    ]
+  },
+  "138": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 35,
+        "band": 39,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      50
+    ]
+  },
+  "139": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 47,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 24,
+        "y": 61,
+        "w": 5,
+        "style": "concord"
+      },
+      {
+        "type": "shoe",
+        "x": 46,
+        "y": 61,
+        "w": 5,
+        "style": "concord"
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 547
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      5,
+      59
+    ]
+  },
+  "140": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 34,
+        "band": 36,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      48
+    ]
+  },
+  "141": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 34,
+        "band": 33,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 47,
+        "y": 42,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 228
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      61
+    ]
+  },
+  "142": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 24,
+        "band": 41,
+        "w": 13,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 25,
+        "x2": 35,
+        "y": 51,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      13,
+      67
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 47,
+        "band": 23,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      60,
+      57
+    ]
+  },
+  "144": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 42,
+        "band": 26,
+        "w": 17,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 37,
+        "x2": 49,
+        "y": 39,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 136
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      8,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 26,
+        "w": 21,
+        "color": "r",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 136
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      46,
+      60
+    ]
+  },
+  "146": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 19,
+        "band": 31,
+        "w": 12,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 40,
+        "y": 40,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 793
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      64
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 55,
+        "band": 28,
+        "w": 22,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 8,
+        "seed": 793
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      67
+    ]
+  },
+  "147": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 27,
+        "band": 27,
+        "w": 10,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 19,
+        "x2": 31,
+        "y": 41,
+        "sag": 3
+      },
+      {
+        "type": "shoe",
+        "x": 29,
+        "y": 59,
+        "w": 9,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      56
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 52,
+        "band": 22,
+        "w": 21,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      58,
+      60
+    ]
+  },
+  "149": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 31,
+        "band": 9,
+        "w": 11,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 23,
+        "x2": 37,
+        "y": 29,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 324
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      47
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 19,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 324
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      69,
+      49
+    ],
+    "no_gun_back": true
+  },
+  "154": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 10,
+        "w": 19,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 38,
+        "x2": 50,
+        "y": 33,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 616
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 58,
+        "band": 8,
+        "w": 11,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 616
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      58,
+      57
+    ]
+  },
+  "159": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 37,
+        "band": 24,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 29,
+        "x2": 51,
+        "y": 44,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 27,
+        "y": 65,
+        "w": 7,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      46
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 47,
+        "band": 27,
+        "w": 13,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      64,
+      62
+    ]
+  },
+  "160": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 27,
+        "band": 21,
+        "w": 16,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 22,
+        "x2": 44,
+        "y": 35,
+        "sag": 4
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 374
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      7,
+      52
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 49,
+        "band": 21,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 374
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      71,
+      63
+    ]
+  },
+  "166": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 37,
+        "band": 33,
+        "w": 21,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 28,
+        "x2": 48,
+        "y": 39,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 31,
+        "y": 65,
+        "w": 6,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      45
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 20,
+        "w": 24,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      69,
+      58
+    ]
+  },
+  "167": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 38,
+        "band": 32,
+        "w": 17,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 23,
+        "x2": 45,
+        "y": 48,
+        "sag": 4
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      23,
+      43
+    ]
+  },
+  "168": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 42,
+        "band": 41,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      14,
+      38
+    ]
+  },
+  "169": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 33,
+        "band": 38,
+        "w": 15,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 265
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 31,
+        "band": 54,
+        "w": 17,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 265
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      70,
+      67
+    ]
+  },
+  "171": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 37,
+        "band": 46,
+        "w": 24,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 41,
+        "y": 60,
+        "w": 7,
+        "style": "concord"
+      },
+      {
+        "type": "chain",
+        "x1": 23,
+        "x2": 37,
+        "y": 53,
+        "sag": 3
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      24,
+      60
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 65,
+        "band": 17,
+        "w": 18,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      65,
+      67
+    ]
+  },
+  "172": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 33,
+        "band": 39,
+        "w": 22,
+        "color": "k",
+        "side": 1,
+        "scale": 0.6
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 43,
+        "band": 38,
+        "w": 14,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      59,
+      62
+    ]
+  },
+  "178": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 21,
+        "w": 15,
+        "color": "g",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 41,
+        "y": 37,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 47,
+        "y": 64,
+        "w": 5,
+        "style": "jordan"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      32,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 50,
+        "band": 11,
+        "w": 24,
+        "color": "g",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      61,
+      63
+    ]
+  },
+  "179": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 32,
+        "band": 35,
+        "w": 24,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "shoe",
+        "x": 33,
+        "y": 57,
+        "w": 5,
+        "style": "white"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      54
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 48,
+        "band": 33,
+        "w": 22,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      66
+    ]
+  },
+  "180": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 33,
+        "band": 25,
+        "w": 23,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 22,
+        "x2": 42,
+        "y": 36,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 39,
+        "y": 57,
+        "w": 5,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      26,
+      42
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 43,
+        "band": 11,
+        "w": 23,
+        "color": "k",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      66,
+      55
+    ]
+  },
+  "181": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 43,
+        "band": 11,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 38,
+        "x2": 52,
+        "y": 29,
+        "sag": 3
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 368
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      48
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 42,
+        "band": 9,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 368
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      52,
+      64
+    ]
+  },
+  "182": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 30,
+        "w": 23,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 43,
+        "y": 41,
+        "sag": 2
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 229
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      29,
+      50
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 39,
+        "band": 25,
+        "w": 13,
+        "color": "W",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 229
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      58,
+      58
+    ]
+  },
+  "185": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 40,
+        "band": 28,
+        "w": 13,
+        "color": "W",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 33,
+        "x2": 43,
+        "y": 38,
+        "sag": 2
+      },
+      {
+        "type": "shoe",
+        "x": 42,
+        "y": 61,
+        "w": 6,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      28,
+      53
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 52,
+        "band": 11,
+        "w": 16,
+        "color": "W",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      55,
+      57
+    ]
+  },
+  "186": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 40,
+        "band": 24,
+        "w": 10,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 31,
+        "x2": 51,
+        "y": 43,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 39,
+        "y": 64,
+        "w": 6,
+        "style": "jordan"
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 152
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      21,
+      56
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "snapback",
+        "cx": 39,
+        "band": 26,
+        "w": 24,
+        "color": "k",
+        "side": 0
+      },
+      {
+        "type": "sparkles",
+        "n": 12,
+        "seed": 152
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      67,
+      63
+    ]
+  },
+  "188": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 38,
+        "band": 34,
+        "w": 15,
+        "color": "r",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 23,
+        "x2": 45,
+        "y": 44,
+        "sag": 4
+      },
+      {
+        "type": "shoe",
+        "x": 37,
+        "y": 52,
+        "w": 5,
+        "style": "concord"
+      },
+      {
+        "type": "shoe",
+        "x": 46,
+        "y": 52,
+        "w": 5,
+        "style": "concord"
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      25,
+      51
+    ],
+    "back": [
+      {
+        "type": "fitcap",
+        "style": "durag",
+        "cx": 45,
+        "band": 34,
+        "w": 24,
+        "color": "r",
+        "side": 0
+      }
+    ],
+    "auto_back": false,
+    "hand_back": [
+      72,
+      64
+    ]
+  },
+  "190": {
+    "front": [
+      {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 37,
+        "band": 22,
+        "w": 24,
+        "color": "k",
+        "side": 1
+      },
+      {
+        "type": "chain",
+        "x1": 34,
+        "x2": 42,
+        "y": 33,
+        "sag": 2
+      }
+    ],
+    "auto_front": false,
+    "hand_front": [
+      30,
+      40
     ]
   }
 }

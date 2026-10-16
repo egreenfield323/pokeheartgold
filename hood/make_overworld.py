@@ -10,7 +10,7 @@ Run from the repo root:
 Each NSBTX holds 8 frames (away x2, toward x2, left x2, right x2), 32x32 or 64x64,
 16 colours, with a normal and a shiny palette. Every frame gets the same hat the
 Pokémon wears in battle, a mini version of its battle gun, and (facing the camera)
-a chain. Originals are read from git HEAD, so re-running is safe.
+a chain. Originals are read from the base commit 77565981b, so re-running is safe.
 """
 import json
 import random
@@ -227,7 +227,7 @@ def dress_frame(rows, d, S, hat_style, hat_color, mini, big, eyes=None, chain=Tr
 
 def dress_model(num, species, gun, spec, rel=None):
     rel = rel or f"files/data/mmodel/mmodel/mmodel_{num:08d}.NSBTX"
-    blob = subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
+    blob = subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout
     b, texs, pals = nsbtx.parse(blob)
     texs = [t for t in texs if t["fmt"] == 3 and (rel.endswith(".NSBTX") or t["name"].startswith("tsure_"))]
     pals = [p for p in pals if rel.endswith(".NSBTX") or p["name"].startswith("tsure_")]

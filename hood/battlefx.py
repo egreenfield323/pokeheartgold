@@ -29,16 +29,21 @@ BATTLE = 751                                                  # BANK_SE_BATTLE /
 
 # effect sound key -> (synth name, sample rate)
 SOUNDS = {"pop": ("pop", 11025), "boom": ("deagle", 11025), "boom2": ("street_echo", 11025),
-          "skrrt": ("skrrt", 9000), "bling": ("bling", 11025), "chaching": ("chaching", 9000),
-          "fwoosh": ("fwoosh", 9000), "whoosh": ("whoosh", 8000), "smash": ("smash", 11025),
-          "bonk": ("bonk", 8000), "splat": ("splat", 8000)}
-# (rates kept low on purpose: these all join the battle wave archive, which lives in the sound heap for the
-#  whole battle - it grew 85K -> 124K at 16 kHz and the game froze on the next turn)
+          "skrrt": ("skrrt", 8000), "bling": ("bling", 11025), "chaching": ("chaching", 8000),
+          "fwoosh": ("fwoosh", 8000), "smash": ("smash", 8000)}
+# New samples live in the battle wave archive, which stays in the sound heap for the whole battle: every KB
+# here is a KB less for the music and fanfares (too much and the game hangs loading the level-up fanfare).
+# So only the sounds nothing in the game can do are new; the rest borrow the game's own battle effects:
+BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 1968, "alarm": 1824,
+           "bass": 1973, "crack": 2005, "ember": 1937, "leer": 1930, "sand": 1923, "gust": 2043}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock, Screech,
+#                                            Earthquake, Bone Club
+
 
 # original move name (msg_0750) -> gunfx variant
 #   1 sniper, 2 shotgun, 3 spray & pray, 4 point blank, 5 gangsta tilt (the everyday gun moves),
 #   6 drive-by, 7 chain swing, 8 chain dangle, 9 make it rain, 10 full auto, 11 RPG (legendaries),
-#   12 Molotov, 13 brick toss, 14 egg ya house
+#   12 Molotov, 13 brick toss, 14 egg ya house, 15 hose down, 16 bat swing, 17 taser, 18 car alarm,
+#   19 bass drop, 20 hot shot, 21 stare down, 22 talk trash, 23 pocket sand, 24 fan blast
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
@@ -54,11 +59,14 @@ MOVES = {
     "Flamethrower": 12, "Fire Blast": 12,
     "Rock Throw": 13, "Rock Slide": 13,
     "Egg Bomb": 14,
+    "Water Gun": 15, "Bone Club": 16, "ThunderShock": 17, "Screech": 18, "Earthquake": 19,
+    "Hypnosis": 8, "Sky Attack": 11, "Giga Impact": 10,
+    "Ember": 20, "Leer": 21, "Growl": 22, "Sand-Attack": 23, "Gust": 24,
 }
 
 
 def move_ids():
-    gmm = subprocess.run(["git", "show", "HEAD:files/msgdata/msg/msg_0750.gmm"], cwd=ROOT,
+    gmm = subprocess.run(["git", "show", "77565981b:files/msgdata/msg/msg_0750.gmm"], cwd=ROOT,
                          capture_output=True, check=True).stdout.decode("utf-8")
     return {m.group(2): int(m.group(1)) for m in re.finditer(r'index="(\d+)".*?English">(.*?)</language>', gmm, re.S)}
 
@@ -100,7 +108,7 @@ def add_sounds(rom):
         sdat.sequences.append((f"SEQ_SE_HOOD_{key.upper()}", seq))
         seqs[key] = len(sdat.sequences) - 1
     rom.setFileByName(SDAT, sdat.save())
-    return seqs
+    return {**seqs, **BUILTIN}
 
 
 def add_particles(rom):
@@ -126,7 +134,15 @@ def patch(rom):
     print(f"battle effects: {len(MOVES)} moves, {len(gunfx.DONOR)} particle kits, {len(seqs)} sounds")
 
 
-def showcase(rom_path, out_path, order=None, pad_to=None):
+# the showcase pads these archives (with a trailing filler member nothing loads) to fixed sizes
+SDAT_SIZE = 9_200_000
+FIXED_SIZE = {"a/0/1/0": 600_000, "a/0/2/9": 2_700_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
+              "a/0/8/1": 5_832_704,
+              # everything else the build touches (text, learnsets, trainers, icons, title, intro, item icons)
+              "a/0/2/7": 5_111_808, "a/0/0/2": 65_536, "a/0/3/3": 65_536, "a/0/5/8": 1_835_008, "a/2/5/6": 655_360, "a/2/4/8": 196_608, "a/0/2/0": 655_360, "a/0/4/6": 917_504, "a/1/7/4": 589_824, "a/0/1/8": 524_288, "a/1/2/0": 196_608}
+
+
+def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     """Test copy of a built ROM where FMJ (Tackle) plays every effect back to back (or just `order`).
     pad_to pads the script to a fixed size so the ROM layout - and so savestates - stay the same."""
     import struct
@@ -135,7 +151,7 @@ def showcase(rom_path, out_path, order=None, pad_to=None):
     rom = ndspy.rom.NintendoDSRom.fromFile(rom_path)
     sdat = ndspy.soundArchive.SDAT(rom.getFileByName(SDAT))
     names = [n for n, _ in sdat.sequences]
-    seqs = {k: names.index(f"SEQ_SE_HOOD_{k.upper()}") for k in SOUNDS}
+    seqs = {**{k: names.index(f"SEQ_SE_HOOD_{k.upper()}") for k in SOUNDS}, **BUILTIN}
     narc = ndspy.narc.NARC(rom.getFileByName("a/0/2/9"))
     first = len(narc.files) - len(gunfx.DONOR)
     for i, ps in enumerate(gunfx.DONOR):
@@ -156,12 +172,28 @@ def showcase(rom_path, out_path, order=None, pad_to=None):
         subs += w
         off += len(w)
     words = head + subs
+    if pad_in_script:                  # same size as an earlier showcase (savestates) - zeros after End never run
+        words += [0] * (pad_in_script - len(words))
     anims = ndspy.narc.NARC(rom.getFileByName("a/0/1/0"))
     anims.files[move_ids()["Tackle"]] = struct.pack(f"<{len(words)}I", *words)
     if pad_to:     # keep the archive's size fixed (savestates) - padding goes after move 400's script (not used in the test battle),
         assert len(words) <= pad_to, (len(words), pad_to)   # not in the script (big scripts overflow the heap)
         anims.files[400] = anims.files[400] + bytes(4 * (pad_to - len(words)))
     rom.setFileByName("a/0/1/0", anims.save())
+    for path, target in FIXED_SIZE.items():    # fixed archive sizes: tweaks never move the ROM layout (savestates)
+        narc = ndspy.narc.NARC(rom.getFileByName(path))
+        if target is None:                     # sprite archives: today's size plus a quarter of headroom, rounded
+            target = (len(rom.getFileByName(path)) * 5 // 4 + 0xFFFF) & ~0xFFFF
+            FIXED_SIZE[path] = target
+        narc.files.append(b"")
+        room = target - len(narc.save())
+        assert room >= 0, f"{path} outgrew its fixed showcase size; raise FIXED_SIZE"
+        narc.files[-1] = bytes(room)
+        assert len(narc.save()) == target
+        rom.setFileByName(path, narc.save())
+    sdat = rom.getFileByName(SDAT)           # the sound archive is read by its internal offsets: pad the tail
+    assert len(sdat) <= SDAT_SIZE, "sound archive outgrew its fixed showcase size; raise SDAT_SIZE"
+    rom.setFileByName(SDAT, sdat + bytes(SDAT_SIZE - len(sdat)))
     rom.saveToFile(out_path)
     print("showcase:", order, len(words), "words ->", out_path)
 

@@ -298,7 +298,7 @@ def reflow(text, limit):
 def head_rows(bank):
     import subprocess
     rel = Bank.get(bank).path.relative_to(ROOT).as_posix()
-    src = subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout.decode("utf-8")
+    src = subprocess.run(["git", "show", f"77565981b:{rel}"], cwd=ROOT, capture_output=True, check=True).stdout.decode("utf-8")
     return {int(m.group(2)): xml_unescape(m.group(3)) for m in ROW_RE.finditer(src)}
 
 
@@ -465,6 +465,8 @@ def main():
     if ERRORS:
         print("\n".join(ERRORS))
         sys.exit("Errors after writing trainers/stats; check git diff.")
+    import text_edits                          # hand edits from the drip editor's Text tab win over everything
+    text_edits.apply(Bank)
     Bank.save_all()
     print(f"Hood mod applied: {len(Bank.cache)} message banks, trainers, stats, learnsets.")
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Gun-named moves borrow existing projectile animations (move animation scripts, files/a/0/1/0,
 one member per move id). Each script loads its own particles and sounds, so copying a whole
-member is self-contained. Originals come from git HEAD.
+member is self-contained. Originals come from the base commit 77565981b.
 Run from the repo root:  python hood/make_anims.py
 """
 import re
@@ -26,14 +26,14 @@ REMAP = {
 
 
 def move_ids():
-    gmm = subprocess.run(["git", "show", "HEAD:files/msgdata/msg/msg_0750.gmm"], cwd=ROOT,
+    gmm = subprocess.run(["git", "show", "77565981b:files/msgdata/msg/msg_0750.gmm"], cwd=ROOT,
                          capture_output=True, check=True).stdout.decode("utf-8")
     return {m.group(2): int(m.group(1)) for m in re.finditer(r'index="(\d+)".*?English">(.*?)</language>', gmm, re.S)}
 
 
 def main():
     ids = move_ids()
-    narc = ndspy.narc.NARC(subprocess.run(["git", "show", f"HEAD:{ARCHIVE}"], cwd=ROOT,
+    narc = ndspy.narc.NARC(subprocess.run(["git", "show", f"77565981b:{ARCHIVE}"], cwd=ROOT,
                                           capture_output=True, check=True).stdout)
     for dst, src in REMAP.items():
         narc.files[ids[dst]] = narc.files[ids[src]]
