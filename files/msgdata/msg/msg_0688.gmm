@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0688_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re definitely going to regret it...</language>
+		<language name="English">You’re definitely finna regret it...</language>
 	</row>
 	<row id="msg_0688_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -39,7 +39,7 @@
 	</row>
 	<row id="msg_0688_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, I saw a rare Pokémon about\nan hour ago.\rIt was my first sighting. But I\ndidn’t have any Poké Balls...\rWould Bill laugh at my mistakes?\rSo that’s it then.</language>
+		<language name="English">Oh yeah, I saw a rare Pokémon about\nan hour ago.\rIt was my first sighting. But I\ndidn’t have any Hood Balls...\rWould Bill laugh at my mistakes?\rSo that’s it then.</language>
 	</row>
 	<row id="msg_0688_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -47,7 +47,7 @@
 	</row>
 	<row id="msg_0688_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\nApparently Bill’s grandpa isn’t a\fPoké Maniac.\rSo that’s it then.</language>
+		<language name="English">Did you know...?\nApparently Bill’s grandpa ain’t a\fPoké Maniac.\rSo that’s it then.</language>
 	</row>
 	<row id="msg_0688_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0688_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\nEvidently, Bill isn’t very good at\fbattling.\rSo that’s it then.</language>
+		<language name="English">Did you know...?\nEvidently, Bill ain’t very good at\fbattling.\rSo that’s it then.</language>
 	</row>
 	<row id="msg_0688_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

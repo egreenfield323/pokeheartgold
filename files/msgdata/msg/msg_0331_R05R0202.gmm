@@ -34,10 +34,10 @@
 	</row>
 	<row id="msg_0331_R05R0202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you going to eat it all\nby yourself?!</language>
+		<language name="English">Are you finna eat it all\nby yourself?!</language>
 	</row>
 	<row id="msg_0331_R05R0202_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aha! Thank you!\r...But your Bag is full...\nMake some room, and come back later...</language>
+		<language name="English">Aha! Good looks!\r...But your Bag is full...\nMake some room, and come back later...</language>
 	</row>
 </body>

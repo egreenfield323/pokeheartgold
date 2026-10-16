@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0107_D32R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Hustler.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0107_D32R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Hustlers.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0107_D32R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge using rental\fPokémon.\rBoth partners will be provided with two\nrental Pokémon each.\rOnce entered, you and your partner\nconduct Multi Battles until you lose.\rAfter each win, you or your partner\nmay trade a single rented Pokémon.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rThe Level 50 option starts with rental\nPokémon that only know weak moves.\rThe Open Level option lets you rent\nLv. 100 Pokémon with powerful moves\ffrom the start.\rPlease note: a Battle Factory Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">You may team up with a homie for a\nMulti Battle challenge using rental\fPokémon.\rBoth partners will be provided with two\nrental Pokémon each.\rOnce entered, you and your partner\nconduct Multi Battles until you lose.\rAfter each win, you or your partner\nmay trade a single rented Pokémon.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rThe Level 50 option starts with rental\nPokémon that only know weak moves.\rThe Open Level option lets you rent\nLv. 100 Pokémon with powerful moves\ffrom the start.\rPlease note: a Battle Factory Multi\nBattle challenge can’t be interrupted.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0107_D32R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.” {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0107_D32R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They tell you about the next Trainer\nyou’ll face? That’s really nice.\rYou know, you can prepare for it\nonce you know what kind of Trainer\fthe next one is!</language>
+		<language name="English">They tell you about the next Hustler\nyou’ll face? That’s really nice.\rYou know, you can prepare for it\nonce you know what kind of Hustler\fthe next one is!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’ll help you choose a Pokémon when\nyou remember what kind of Pokémon\fthe other Trainer had and what moves\fthey used.</language>
+		<language name="English">It’ll help you choose a Pokémon when\nyou remember what kind of Pokémon\fthe other Hustler had and what moves\fthey used.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -134,6 +134,6 @@
 	</row>
 	<row id="msg_0107_D32R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Trainers gathered at the\nBattle Frontier are nice,\fpleasant people!\rI’m patrolling here on duty, but\notherwise I would love to change\fmy uniform to participate!</language>
+		<language name="English">All the Hustlers gathered at the\nBattle Frontier are nice,\fpleasant people!\rI’m patrolling here on duty, but\notherwise I would love to change\fmy uniform to participate!</language>
 	</row>
 </body>

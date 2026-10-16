@@ -192,7 +192,7 @@
 	</row>
 	<row id="msg_0426_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon will be switched with the\nother Trainer’s for this match.</language>
+		<language name="English">Your Pokémon will be switched with the\nother Hustler’s for this match.</language>
 	</row>
 	<row id="msg_0426_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="msg_0426_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations, Trainer!\rIn recognition of your outstanding\nskill, our Frontier Brain is demanding\fa match with you.\rSo, your next match is against the\nArcade Star; no ifs or buts!\rAre you ready?\r</language>
+		<language name="English">Congratulations, Hustler!\rIn recognition of your outstanding\nskill, our Frontier Brain is demanding\fa match with you.\rSo, your next match is against the\nArcade Star; no ifs or buts!\rAre you ready?\r</language>
 	</row>
 	<row id="msg_0426_00077" index="77">
 		<attribute name="window_context_name">used</attribute>

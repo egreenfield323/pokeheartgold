@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0705_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’re tough. I haven’t battled\nthat seriously in a long time.\rCould I get your phone number?\rI’d like to battle again after I\nheal my Pokémon. {YESNO 0}</language>
+		<language name="English">Sheesh, you’re tough. I haven’t\nbattled that seriously in a long time.\rCould I get your phone number?\rI’d like to battle again after I heal\nmy Pokémon. {YESNO 0}</language>
 	</row>
 	<row id="msg_0705_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -27,7 +27,7 @@
 	</row>
 	<row id="msg_0705_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? This voice...\nYou’re nearby, aren’t you?\fLet’s talk in person.</language>
+		<language name="English">Huh? This voice...\nYou’re nearby, ain’t you?\fLet’s talk in person.</language>
 	</row>
 	<row id="msg_0705_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -47,11 +47,11 @@
 	</row>
 	<row id="msg_0705_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, why aren’t you here?\rI’ll take you down on\n{STRVAR_1 4, 3, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, why ain’t you here?\rI’ll take you down on\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0705_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, why aren’t you here?\rI’ll take you down on\n{STRVAR_1 4, 3, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, why ain’t you here?\rI’ll take you down on\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0705_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

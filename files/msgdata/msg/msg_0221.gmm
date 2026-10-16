@@ -6,135 +6,135 @@
 	</row>
 	<row id="msg_0221_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The best Ball with the ultimate level of\nperformance. It will catch any wild\nPokémon without fail.</language>
+		<language name="English">The OG of all Balls. Nobody says no\nto the OG. Recruits any homie\noff the street, guaranteed.</language>
 	</row>
 	<row id="msg_0221_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An ultra-performance Ball that\nprovides a higher Pokémon catch rate\nthan a Great Ball.</language>
+		<language name="English">The Plug Ball. Better pitch than a\nBando Ball. Homies hear “plug”\nand they come runnin’.</language>
 	</row>
 	<row id="msg_0221_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A good, high-performance Ball that\nprovides a higher Pokémon catch rate\nthan a standard Poké Ball.</language>
+		<language name="English">A Bando Ball. Better odds than a\nregular Hood Ball. Smells like the\ntrap but it works.</language>
 	</row>
 	<row id="msg_0221_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A device for catching wild Pokémon.\nIt is thrown like a ball at the target.\nIt is designed as a capsule system.</language>
+		<language name="English">The Hood Ball. Toss it at a homie\nthat ain’t claimed and make your\npitch. Welcome to the gang.</language>
 	</row>
 	<row id="msg_0221_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Poké Ball that is used only in\nthe Great Marsh. It is decorated in a\ncamouflage pattern.</language>
+		<language name="English">A Zoo Ball, only used in the\nGreat Marsh. Camo print so the\nopps don’t see it comin’.</language>
 	</row>
 	<row id="msg_0221_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nworks especially well on Water- and\nBug-type Pokémon.</language>
+		<language name="English">A Trap Ball. Real good on Water-\nand Bug-type homies. They walk\nright into it every time.</language>
 	</row>
 	<row id="msg_0221_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nworks especially well on Pokémon that\nlive in the sea.</language>
+		<language name="English">A Pool Ball. Works best on homies\nthat live in the ocean.\nSmells like chlorine.</language>
 	</row>
 	<row id="msg_0221_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nworks especially well on weaker\nPokémon in the wild.</language>
+		<language name="English">A Crib Ball. Works best on weaker\nhomies. Offer ’em a couch and\nthey yours.</language>
 	</row>
 	<row id="msg_0221_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nworks especially well on Pokémon\nspecies that were previously caught.</language>
+		<language name="English">A Re-Up Ball. Works best on\nhomies you already got.\nLoyalty program.</language>
 	</row>
 	<row id="msg_0221_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Ball that\nbecomes progressively better the\nmore turns there are in a battle.</language>
+		<language name="English">A Late Ball. Gets better the\nlonger the fight go.\nAlways on CP time.</language>
 	</row>
 	<row id="msg_0221_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A comfortable Poké Ball that makes a\ncaught wild Pokémon quickly grow\nfriendly.</language>
+		<language name="English">A Drip Ball. Homies recruited\nwith this ride for you faster.\nIt’s the leather interior.</language>
 	</row>
 	<row id="msg_0221_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat rare Poké Ball that has\nbeen specially made to commemorate\nan event of some sort.</language>
+		<language name="English">A VIP Ball. Real rare. Made for\nsome event nobody remembers.\nStill fly though.</language>
 	</row>
 	<row id="msg_0221_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nmakes it easier to catch wild Pokémon\nat night or in dark places like caves.</language>
+		<language name="English">A Night Ball. Works best at night\nor in dark spots like caves.\nThe best deals happen at night.</language>
 	</row>
 	<row id="msg_0221_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A remedial Poké Ball that restores the\ncaught Pokémon’s HP and eliminates\nany status problem.</language>
+		<language name="English">A Henny Ball. Homies recruited\nwith it come out patched up\nand feelin’ good.</language>
 	</row>
 	<row id="msg_0221_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat different Poké Ball that\nprovides a better catch rate if it is\nused at the start of a wild encounter.</language>
+		<language name="English">A Dash Ball. Works best if you\nthrow it before they even\nknow what’s goin’ on.</language>
 	</row>
 	<row id="msg_0221_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A quite rare Poké Ball that has been\nspecially crafted to commemorate\nan occasion of some sort.</language>
+		<language name="English">A Day1 Ball. Real rare.\nFor the ones that been\nthere since the beginning.</language>
 	</row>
 	<row id="msg_0221_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\njust 20 points.</language>
+		<language name="English">A bottle of Hennessy.\nTakes the edge off. Restores 20\nHP of one homie.</language>
 	</row>
 	<row id="msg_0221_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt lifts the effect of poison from one\nPokémon.</language>
+		<language name="English">Pepto. For when your homie\nate at the gas station.\nCures food poisoning.</language>
 	</row>
 	<row id="msg_0221_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt heals a single Pokémon that is\nsuffering from a burn.</language>
+		<language name="English">Aloe Vera. Straight from Grandma’s\nwindowsill. Heals a homie that\ngot burnt.</language>
 	</row>
 	<row id="msg_0221_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt defrosts a Pokémon that has been\nfrozen solid.</language>
+		<language name="English">A bag of Hot Cheetos. So hot it\nwarms up a homie that’s\niced out.</language>
 	</row>
 	<row id="msg_0221_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt awakens a Pokémon from the\nclutches of sleep.</language>
+		<language name="English">A can of Red Bull. Wakes up a\nhomie that passed out.\nGives ’em wings, allegedly.</language>
 	</row>
 	<row id="msg_0221_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt eliminates paralysis from a single\nPokémon.</language>
+		<language name="English">Icy Hot. Cold then hot, then cold.\nGets the taser outta a homie’s\nsystem.</language>
 	</row>
 	<row id="msg_0221_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A medicine that fully restores the HP\nand heals any status problems of a\nsingle Pokémon.</language>
+		<language name="English">A bottle of Grey Goose. Fully\nrestores HP and fixes every\nproblem a homie got.</language>
 	</row>
 	<row id="msg_0221_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine for wounds.\nIt completely restores the HP of a\nsingle Pokémon.</language>
+		<language name="English">Ace o Spades. The gold bottle.\nFully restores the HP of one\nhomie. Pop it for the haters.</language>
 	</row>
 	<row id="msg_0221_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\n200 points.</language>
+		<language name="English">A bottle of Patrón.\nRestores 200 HP of one homie.\nGoes down smooth.</language>
 	</row>
 	<row id="msg_0221_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\n50 points.</language>
+		<language name="English">Henny XO. The good stuff.\nRestores 50 HP of one homie.\nSip it, don’t chug it.</language>
 	</row>
 	<row id="msg_0221_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spray-type medicine.\nIt heals all the status problems of a\nsingle Pokémon.</language>
+		<language name="English">Grandma’s soup. Cures every\nstatus problem a homie got.\nShe been makin’ it since ’72.</language>
 	</row>
 	<row id="msg_0221_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A medicine that revives a fainted\nPokémon. It restores half the\nPokémon’s maximum HP.</language>
+		<language name="English">Smelling salts. Brings a homie\nback from gettin’ dropped with\nhalf their HP.</language>
 	</row>
 	<row id="msg_0221_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A medicine that revives a fainted\nPokémon. It fully restores the\nPokémon’s HP.</language>
+		<language name="English">Narcan. Brings a homie all the\nway back from gettin’ dropped\nwith full HP.</language>
 	</row>
 	<row id="msg_0221_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water with a high mineral content.\nIt restores the HP of one Pokémon by\n50 points.</language>
+		<language name="English">Tap water. Free in most places.\nRestores 50 HP of one homie.\nDon’t ask about the pipes.</language>
 	</row>
 	<row id="msg_0221_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A fizzy soda drink.\nIt restores the HP of one Pokémon by\n60 points.</language>
+		<language name="English">A red pop. The red kind.\nRestores 60 HP of one homie.\nGoes good with chicken.</language>
 	</row>
 	<row id="msg_0221_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very sweet drink.\nIt restores the HP of one Pokémon by\n80 points.</language>
+		<language name="English">An Arizona Tea. Still 99 cents.\nRestores 80 HP of one homie.\nA legend.</language>
 	</row>
 	<row id="msg_0221_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Milk with a very high nutrition content.\nIt restores the HP of one Pokémon by\n100 points.</language>
+		<language name="English">Chocolate milk. Nostalgic.\nRestores 100 HP of one homie.\nTastes like recess.</language>
 	</row>
 	<row id="msg_0221_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -154,19 +154,19 @@
 	</row>
 	<row id="msg_0221_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It restores the PP of a Pokémon’s\nselected move by a maximum of\n10 points.</language>
+		<language name="English">An Ammo Box. Restores 10 PP of\none move. Load up.</language>
 	</row>
 	<row id="msg_0221_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It fully restores the PP of a single\nselected move that has been learned\nby the target Pokémon.</language>
+		<language name="English">A Big Ammo Box. Fully restores\nthe PP of one move.</language>
 	</row>
 	<row id="msg_0221_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It restores the PP of all the\nmoves learned by the targeted Pokémon\nby 10 points each.</language>
+		<language name="English">An Ammo Crate. Restores 10 PP of\nevery move one homie got.</language>
 	</row>
 	<row id="msg_0221_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It fully restores the PP of all the\nmoves learned by the targeted\nPokémon.</language>
+		<language name="English">An Armory. Fully restores the PP\nof every move one homie got.</language>
 	</row>
 	<row id="msg_0221_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -182,39 +182,39 @@
 	</row>
 	<row id="msg_0221_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base HP of a single\nPokémon.</language>
+		<language name="English">A Protein Bar. Raises the base\nHP of one homie. Gains.</language>
 	</row>
 	<row id="msg_0221_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base Attack stat of a\nsingle Pokémon.</language>
+		<language name="English">Pre-Workout. Raises the base\nAttack of one homie.\nHeart racing. Normal.</language>
 	</row>
 	<row id="msg_0221_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base Defense stat of a\nsingle Pokémon.</language>
+		<language name="English">A Kevlar Vest. Raises the base\nDefense of one homie.</language>
 	</row>
 	<row id="msg_0221_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base Speed stat of a\nsingle Pokémon.</language>
+		<language name="English">Air Jordans. Raises the base\nSpeed of one homie.\nDon’t crease ’em.</language>
 	</row>
 	<row id="msg_0221_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base Sp. Atk (Special\nAttack) stat of a single Pokémon.</language>
+		<language name="English">A Scope. Raises the base Sp. Atk\n(Special Attack) of one homie.</language>
 	</row>
 	<row id="msg_0221_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A candy that is packed with energy.\nIt raises the level of a single Pokémon\nby one.</language>
+		<language name="English">Clout. Pure clout. Raises the\nlevel of one homie by one.\nThey famous now.</language>
 	</row>
 	<row id="msg_0221_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It slightly raises the maximum PP of\na selected move that has been learned\nby the target Pokémon.</language>
+		<language name="English">An Extended Mag. Raises the max\nPP of one move a homie knows.</language>
 	</row>
 	<row id="msg_0221_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutritious drink for Pokémon.\nIt raises the base Sp. Def (Special\nDefense) stat of a single Pokémon.</language>
+		<language name="English">A Steel Plate. Raises the base\nSp. Def (Special Defense) of one\nhomie.</language>
 	</row>
 	<row id="msg_0221_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It maximally raises the top PP of a\nselected move that has been learned\nby the target Pokémon.</language>
+		<language name="English">A Drum Mag. Maxes out the PP\nof one move a homie knows.</language>
 	</row>
 	<row id="msg_0221_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="msg_0221_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents stat reduction\namong the Trainer’s party Pokémon\nfor five turns after use.</language>
+		<language name="English">An item that prevents stat reduction\namong the Hustler’s party Pokémon\nfor five turns after use.</language>
 	</row>
 	<row id="msg_0221_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -592,7 +592,7 @@
 	</row>
 	<row id="msg_0221_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of cool\nmechanical designs.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featuring a print of hard\nmechanical designs.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
@@ -916,7 +916,7 @@
 	</row>
 	<row id="msg_0221_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize money if\nthe holding Pokémon joins in.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holding Pokémon joins in.</language>
 	</row>
 	<row id="msg_0221_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -1300,7 +1300,7 @@
 	</row>
 	<row id="msg_0221_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize money if\nthe holding Pokémon joins in.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holding Pokémon joins in.</language>
 	</row>
 	<row id="msg_0221_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
@@ -1584,7 +1584,7 @@
 	</row>
 	<row id="msg_0221_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It prevents the foe from using its\nheld item. Its Trainer is also\nprevented from using items on it.</language>
+		<language name="English">It prevents the foe from using its\nheld item. Its Hustler is also\nprevented from using items on it.</language>
 	</row>
 	<row id="msg_0221_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
@@ -1761,7 +1761,7 @@
 	</row>
 	<row id="msg_0221_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A case for storing Seals that can be\napplied to the Capsule cases of\nPoké Balls.</language>
+		<language name="English">A case for storing Seals that can be\napplied to the Capsule cases of\nHood Balls.</language>
 	</row>
 	<row id="msg_0221_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
@@ -1769,11 +1769,11 @@
 	</row>
 	<row id="msg_0221_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tiny bag that can hold ten Seals for\ndecorating Poké Balls.</language>
+		<language name="English">A tiny bag that can hold ten Seals for\ndecorating Hood Balls.</language>
 	</row>
 	<row id="msg_0221_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A convenient notepad that is used for\nregistering your friends, Friend Codes,\nand keeping a record of game play.</language>
+		<language name="English">A convenient notepad that is used for\nregistering your homies, Homie Codes,\nand keeping a record of game play.</language>
 	</row>
 	<row id="msg_0221_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
@@ -1797,7 +1797,7 @@
 	</row>
 	<row id="msg_0221_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A device that indicates Trainers who\nwant to battle. Its battery charges\nwhile you walk.</language>
+		<language name="English">A device that indicates Hustlers who\nwant to battle. Its battery charges\nwhile you walk.</language>
 	</row>
 	<row id="msg_0221_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
@@ -1861,7 +1861,7 @@
 	</row>
 	<row id="msg_0221_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A parcel entrusted in your care.\nYou are supposed to deliver it to your\nchildhood friend who left Twinleaf Town.</language>
+		<language name="English">A parcel entrusted in your care.\nYou are supposed to deliver it to your\nchildhood homie who left Twinleaf Town.</language>
 	</row>
 	<row id="msg_0221_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
@@ -1885,7 +1885,7 @@
 	</row>
 	<row id="msg_0221_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An amazing device that can record a\nbattle either between friends or at a\nspecial battle facility.</language>
+		<language name="English">An amazing device that can record a\nbattle either between homies or at a\nspecial battle facility.</language>
 	</row>
 	<row id="msg_0221_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
@@ -1993,39 +1993,39 @@
 	</row>
 	<row id="msg_0221_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball that makes it easier to\ncatch fast Pokémon.</language>
+		<language name="English">A Hood Ball that makes it easier to\ncatch fast Pokémon.</language>
 	</row>
 	<row id="msg_0221_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball for catching Pokémon that\nare a lower level than your own.</language>
+		<language name="English">A Hood Ball for catching Pokémon that\nare a lower level than your own.</language>
 	</row>
 	<row id="msg_0221_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball for catching Pokémon hooked\nby a Rod when fishing.</language>
+		<language name="English">A Hood Ball for catching Pokémon hooked\nby a Rod when fishing.</language>
 	</row>
 	<row id="msg_0221_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball for catching very heavy\nPokémon.</language>
+		<language name="English">A Hood Ball for catching very heavy\nPokémon.</language>
 	</row>
 	<row id="msg_0221_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball for catching Pokémon that are\nthe opposite gender of your Pokémon.</language>
+		<language name="English">Hood Ball for catching Pokémon that are\nthe opposite gender of your Pokémon.</language>
 	</row>
 	<row id="msg_0221_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball that makes caught Pokémon\nmore friendly.</language>
+		<language name="English">A Hood Ball that makes caught Pokémon\nmore friendly.</language>
 	</row>
 	<row id="msg_0221_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball for catching Pokémon that\nevolve using the Moon Stone.</language>
+		<language name="English">A Hood Ball for catching Pokémon that\nevolve using the Moon Stone.</language>
 	</row>
 	<row id="msg_0221_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Poké Ball for the\nBug-Catching Contest.</language>
+		<language name="English">A special Hood Ball for the\nBug-Catching Contest.</language>
 	</row>
 	<row id="msg_0221_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Poké Ball for the Pal Park.</language>
+		<language name="English">A special Hood Ball for the Pal Park.</language>
 	</row>
 	<row id="msg_0221_00501" index="501">
 		<attribute name="window_context_name">used</attribute>

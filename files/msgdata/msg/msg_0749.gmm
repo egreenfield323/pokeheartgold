@@ -1494,7 +1494,7 @@
 	</row>
 	<row id="msg_0749_00373" index="373">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.</language>
+		<language name="English">It prevents the foe\nfrom using its held\nitem. Its Hustler is\nalso prevented from\nusing items on it.</language>
 	</row>
 	<row id="msg_0749_00374" index="374">
 		<attribute name="window_context_name">used</attribute>

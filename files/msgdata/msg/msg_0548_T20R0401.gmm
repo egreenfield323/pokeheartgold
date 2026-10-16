@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0548_T20R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is upstairs.\rShe’s playing games with her Pokémon\nas usual.\rYou didn’t bring your...Pokémon?\n...Oh, I should’ve known.\rYou don’t have your own Pokémon yet.\rWell, I hope I didn’t hurt your\nfeelings, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin’ 2K with her\nPokémon. As usual.\rYou ain’t got no...Pokémon?\n...Oh. My bad.\rYou ain’t got a homie yet.\rI ain’t mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is upstairs.\rHe’s having fun with his Pokémon\nas usual.\rYou didn’t bring your...Pokémon?\n...Oh, I should’ve known.\rYou don’t have your own Pokémon yet.\rWell, I hope I didn’t hurt your\nfeelings, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nEthan upstairs.\rHe up there playin’ 2K with his\nPokémon. As usual.\rYou ain’t got no...Pokémon?\n...Oh. My bad.\rYou ain’t got a homie yet.\rI ain’t mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is not here.\rShe’s been keeping herself busy\nhelping the professor.\fShe’s busier than I am!</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nLyra ain’t here.\rShe been runnin’ errands for\nthat professor.\fI don’t ask questions no more.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is not here.\rHe’s been keeping himself busy\nhelping the professor.\fHe’s busier than I am!</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nEthan ain’t here.\rHe been runnin’ errands for\nthat professor.\fI don’t ask questions no more.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is upstairs.\rShe’s playing games with her Pokémon\nas usual.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin’ 2K with her\nPokémon. As usual.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is upstairs.\rHe’s having fun with his Pokémon\nas usual.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nEthan upstairs.\rHe up there playin’ 2K with his\nPokémon. As usual.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>

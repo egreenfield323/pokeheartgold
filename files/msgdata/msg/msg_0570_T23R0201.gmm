@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0570_T23R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You chased off Team Rocket and went to\nIlex Forest alone?\rThat takes guts!\nI like that. Come train with us.</language>
+		<language name="English">You chased off The Feds and went to\nIlex Forest alone?\rThat takes guts!\nI like that. Come train with us.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0570_T23R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry--I forgot to thank you.\nThis is Charcoal that I made.\rFire-type moves will become\nmore powerful when a Pokémon\fholds that.</language>
+		<language name="English">I’m sorry--I forgot to good looks.\nThis is Charcoal that I made.\rFire-type moves will become\nmore powerful when a Pokémon\fholds that.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

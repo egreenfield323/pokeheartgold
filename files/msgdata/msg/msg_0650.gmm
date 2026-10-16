@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0650_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We both know there’s much stronger\nGym Leaders than me around, right?\fYou’d better be ready to work hard.</language>
+		<language name="English">We both know there’s much stronger\nBlock Bosses than me around, right?\fYou’d better be ready to work hard.</language>
 	</row>
 	<row id="msg_0650_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0650_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting at the Fighting Dojo in\nSaffron City.\fIf you stand me up, I’m going to be sad.</language>
+		<language name="English">I’m waiting at the Fighting Dojo in\nSaffron City.\fIf you stand me up, I’m finna be sad.</language>
 	</row>
 	<row id="msg_0650_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0650_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...\nThat strange person who came to visit\fmy Gym recently...\rThat was you who defeated him and\nsent him off, wasn’t it?\rI forgot to thank you for that!\rEveryone in my Gym is really\nappreciative. Thanks so much!</language>
+		<language name="English">That reminds me...\nThat strange person who came to visit\fmy Block recently...\rThat was you who defeated him and\nsent him off, wasn’t it?\rI forgot to good looks for that!\rEveryone in my Block is really\nappreciative. Good looks so much!</language>
 	</row>
 	<row id="msg_0650_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

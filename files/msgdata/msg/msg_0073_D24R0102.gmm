@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I managed to unravel quite a lot of the\nmystery of UNOWN with your help!\rThank you, thank you.\nThank you, again!</language>
+		<language name="English">I managed to unravel quite a lot of the\nmystery of UNOWN with your help!\rThank you, good looks.\nThank you, again!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, did you catch an UNOWN?\nThat’s wonderful!\rCome to think of it... How come we’ve\nsuddenly started to see UNOWN?</language>
+		<language name="English">Sheesh, did you catch an UNOWN?\nThat’s wonderful!\rCome to think of it... How come we’ve\nsuddenly started to see UNOWN?</language>
 	</row>
 	<row id="msg_0073_D24R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.</language>
+		<language name="English">Good looks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0460_T03_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited Pewter Gym?\rThe Gym Leader uses\nRock-type Pokémon.</language>
+		<language name="English">Have you visited Pewter Block?\rThe Block Boss uses\nRock-type Pokémon.</language>
 	</row>
 	<row id="msg_0460_T03_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -24,7 +24,7 @@
 	</row>
 	<row id="msg_0460_T03_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Going to new, unknown places and\nseeing new people...\fThose are the joys of travel.</language>
+		<language name="English">Finna new, unknown places and\nseeing new people...\fThose are the joys of travel.</language>
 	</row>
 	<row id="msg_0460_T03_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -64,7 +64,7 @@
 	</row>
 	<row id="msg_0460_T03_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been away from the Hoenn\nPokémon League for too long.\rI’ll have to excuse myself.\r..................\rOh, I never got your name.\f...But I won’t ask for it this time.\rOur fun will have to wait for the\nright time.\r</language>
+		<language name="English">I’ve been away from the Hoenn\nBig League for too long.\rI’ll have to excuse myself.\r..................\rOh, I never got your name.\f...But I won’t ask for it this time.\rOur fun will have to wait for the\nright time.\r</language>
 	</row>
 	<row id="msg_0460_T03_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -88,7 +88,7 @@
 	</row>
 	<row id="msg_0460_T03_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City Pokémon Gym\nLeader: Brock\fThe Rock-Solid Pokémon Trainer</language>
+		<language name="English">Pewter City block\nLeader: Brock\fThe Rock-Solid Pokémon Hustler</language>
 	</row>
 	<row id="msg_0460_T03_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

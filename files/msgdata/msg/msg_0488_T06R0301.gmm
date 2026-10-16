@@ -19,11 +19,11 @@
 	</row>
 	<row id="msg_0488_T06R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -55,7 +55,7 @@
 	</row>
 	<row id="msg_0488_T06R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You watch. I’m going to get a\nreal CLEFAIRY as my friend.</language>
+		<language name="English">You watch. I’m finna get a\nreal CLEFAIRY as my homie.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0488_T06R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s all listen politely to\nother Trainers.</language>
+		<language name="English">Let’s all listen politely to\nother Hustlers.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

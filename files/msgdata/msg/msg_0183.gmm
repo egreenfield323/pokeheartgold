@@ -119,11 +119,11 @@
 	</row>
 	<row id="msg_0183_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for your friend to finish...</language>
+		<language name="English">Waiting for your homie to finish...</language>
 	</row>
 	<row id="msg_0183_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your friend apparently wants to\ntrade a Pokémon with you.</language>
+		<language name="English">Your homie apparently wants to\ntrade a Pokémon with you.</language>
 	</row>
 	<row id="msg_0183_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -160,7 +160,7 @@
 	</row>
 	<row id="msg_0183_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a Pokémon that cannot be\ntraded in the other Trainer’s party.</language>
+		<language name="English">There is a Pokémon that cannot be\ntraded in the other Hustler’s party.</language>
 	</row>
 	<row id="msg_0183_00039" index="39">
 		<attribute name="window_context_name">used</attribute>

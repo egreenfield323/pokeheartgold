@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0669_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! You like CLEFAIRY, too?\nThey’re so very cute, aren’t they?\rI think we can be good friends!\nI want to know your phone number!\rLet’s talk about CLEFAIRY! {YESNO 0}</language>
+		<language name="English">Ayo! You like CLEFAIRY, too?\nThey’re so very cute, ain’t they?\rI think we can be good homies!\nI want to know your phone number!\rLet’s talk about CLEFAIRY! {YESNO 0}</language>
 	</row>
 	<row id="msg_0669_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

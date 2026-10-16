@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0529_T11_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I went to the Gym, raring for battles\nagainst Trainers...\rIt turns out, I stumbled into the\nunused Gym next door.\fBoy, I was pretty embarrassed.</language>
+		<language name="English">I went to the Block, raring for\nbattles against Hustlers...\rIt turns out, I stumbled into the\nunused Block next door.\fBoy, I was pretty embarrassed.</language>
 	</row>
 	<row id="msg_0529_T11_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0529_T11_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Silph Co., famous for\nPokémon merchandise.\rIn the past, Team Rocket wanted the\ncompany because of that.</language>
+		<language name="English">This is Silph Co., famous for\nPokémon merchandise.\rIn the past, The Feds wanted the\ncompany because of that.</language>
 	</row>
 	<row id="msg_0529_T11_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a place called Trainer House\nin Viridian where Trainers gather from\fall over the place.</language>
+		<language name="English">There’s a place called Hustler House\nin Viridian where Hustlers gather from\fall over the place.</language>
 	</row>
 	<row id="msg_0529_T11_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0529_T11_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City Pokémon Gym\nLeader: Sabrina\fThe Mistress of Psychic-Type Pokémon!</language>
+		<language name="English">Saffron City block\nLeader: Sabrina\fThe Mistress of Psychic-Type Pokémon!</language>
 	</row>
 	<row id="msg_0529_T11_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

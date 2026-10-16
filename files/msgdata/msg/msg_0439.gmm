@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0439_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Day-Care Man.\rWe look after the precious Pokémon\nof other Trainers.\rIf you’d like us to raise your\nPokémon, have a word with my wife.</language>
+		<language name="English">I’m the Day-Care Man.\rWe look after the precious Pokémon\nof other Hustlers.\rIf you’d like us to raise your\nPokémon, have a word with my wife.</language>
 	</row>
 	<row id="msg_0439_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -112,7 +112,7 @@
 	</row>
 	<row id="msg_0439_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money...</language>
+		<language name="English">You don’t have enough bread...</language>
 	</row>
 	<row id="msg_0439_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

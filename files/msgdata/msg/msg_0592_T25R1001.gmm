@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0592_T25R1001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of business would a\nTeam Rocket member have here?\rWe aren’t selling sanity here.</language>
+		<language name="English">What kind of business would a\nThe Feds member have here?\rWe ain’t selling sanity here.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0592_T25R1001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be it Team Rocket, “Team Pocket,” or\nwhatever...leave me alone!\rI’m busy shopping and have no time\nto waste!</language>
+		<language name="English">Be it The Feds, “Team Pocket,” or\nwhatever...leave me alone!\rI’m busy shopping and have no time\nto waste!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="msg_0592_T25R1001_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1F Service Counter\n2F Trainer’s Market\f3F Battle Collection\f4F Medicine Box\f5F TM Corner\f6F Rooftop Atrium</language>
+		<language name="English">1F Service Counter\n2F Hustler’s Market\f3F Battle Collection\f4F Medicine Box\f5F TM Corner\f6F Rooftop Atrium</language>
 	</row>
 </body>

@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0686_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\rYou got yet another zero on a test!\nYou don’t pay attention to anything\fI’m saying in class, do you?\fDo you honestly think you can beat a\fGym Leader with that kind of...\rHuh?\rYou’re not Travis...\rOh my goodness! I’m so sorry!</language>
+		<language name="English">Hey!\rYou got yet another zero on a test!\nYou don’t pay attention to anything\fI’m saying in class, do you?\fDo you honestly think you can beat a\fBlock Boss with that kind of...\rHuh?\rYou’re not Travis...\rOh my goodness! I’m so sorry!</language>
 	</row>
 	<row id="msg_0686_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0686_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...\nThis is just between us, right?\rThe other day, I was trying to catch a\n{STRVAR_1 0, 11, 0}.\rI made a mistake and accidentally\nthrew out the wrong Poké Ball, and the\fPokémon got away.\rIt’s a good thing none of my students\nwere watching. But still, I was really\fembarrassed.</language>
+		<language name="English">You know...\nThis is just between us, right?\rThe other day, I was trying to catch a\n{STRVAR_1 0, 11, 0}.\rI made a mistake and accidentally\nthrew out the wrong Hood Ball, and the\fPokémon got away.\rIt’s a good thing none of my students\nwere watching. But still, I was really\fembarrassed.</language>
 	</row>
 	<row id="msg_0686_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0686_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Do you remember you made plans\nwith me?\rWe said we were going to meet on\n{STRVAR_1 4, 3, 0} and have a Pokémon\fbattle, right? Don’t forget!</language>
+		<language name="English">Hey! Do you remember you made plans\nwith me?\rWe said we were finna meet on\n{STRVAR_1 4, 3, 0} and have a Pokémon\fbattle, right? Don’t forget!</language>
 	</row>
 	<row id="msg_0686_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

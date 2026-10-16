@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0262_P01R0306_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, was it?\nI heard you entertained my\fgranddaughter.\rI want to thank you for that.\nTake this.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, was it?\nI heard you entertained my\fgranddaughter.\rI want to good looks for that.\nTake this.\r</language>
 	</row>
 	<row id="msg_0262_P01R0306_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, was it?\nI heard you entertained my\fgranddaughter.\rI want to thank you for that.\nTake this.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, was it?\nI heard you entertained my\fgranddaughter.\rI want to good looks for that.\nTake this.\r</language>
 	</row>
 	<row id="msg_0262_P01R0306_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

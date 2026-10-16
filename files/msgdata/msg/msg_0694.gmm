@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0694_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I picked up a cool little thing at the\nwater’s edge. As promised, it’s yours.\fI’ll be waiting on {STRVAR_1 4, 3, 0}.</language>
+		<language name="English">I picked up a hard little thing at the\nwater’s edge. As promised, it’s yours.\fI’ll be waiting on {STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0694_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

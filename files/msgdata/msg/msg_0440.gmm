@@ -762,7 +762,7 @@
 	</row>
 	<row id="msg_0440_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Special Thanks{COLOR 0}</language>
+		<language name="English">{COLOR 2}Special Good looks{COLOR 0}</language>
 	</row>
 	<row id="msg_0440_00191" index="191">
 		<attribute name="window_context_name">used</attribute>

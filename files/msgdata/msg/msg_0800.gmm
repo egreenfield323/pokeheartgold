@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0800_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No response.\nEither the player has been\ndisconnected, or you have\nbeen removed from the\nplayer’s friend roster.\nError code: {STRVAR_1 54, 0, 0}\n\n</language>
+		<language name="English">No response.\nEither the player has been\ndisconnected, or you have\nbeen removed from the\nplayer’s homie roster.\nError code: {STRVAR_1 54, 0, 0}\n\n</language>
 	</row>
 	<row id="msg_0800_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -91,7 +91,7 @@
 	</row>
 	<row id="msg_0800_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Connect to Nintendo Wi-Fi\nConnection to update\nNintendo Wi-Fi Connection\nUser Information?\n\nWarning:\nAll of the friends registered in\nyour Pal Pad will be deleted.</language>
+		<language name="English">Connect to Nintendo Wi-Fi\nConnection to update\nNintendo Wi-Fi Connection\nUser Information?\n\nWarning:\nAll of the homies registered in\nyour Pal Pad will be deleted.</language>
 	</row>
 	<row id="msg_0800_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

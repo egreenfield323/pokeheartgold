@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0759_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Losing to a friend</language>
+		<language name="English">Losing to a homie</language>
 	</row>
 	<row id="msg_0759_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -174,7 +174,7 @@
 	</row>
 	<row id="msg_0759_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center</language>
+		<language name="English">Trap House</language>
 	</row>
 	<row id="msg_0759_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

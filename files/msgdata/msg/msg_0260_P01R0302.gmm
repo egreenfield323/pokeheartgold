@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0260_P01R0302_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Sheesh, you are finna play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Sheesh, you are finna play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Sheesh, you are finna play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0260_P01R0302_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing with her.\rYou may think being a Captain\nis a somewhat easy job, but\fit’s actually quite demanding.\rThat little passenger has gone out\nof the room.\rShe can’t get off the ship, so she\nmust be hiding somewhere\faround here.</language>
+		<language name="English">Good looks for playing with her.\rYou may think being a Captain\nis a somewhat easy job, but\fit’s actually quite demanding.\rThat little passenger has gone out\nof the room.\rShe can’t get off the ship, so she\nmust be hiding somewhere\faround here.</language>
 	</row>
 	<row id="msg_0260_P01R0302_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

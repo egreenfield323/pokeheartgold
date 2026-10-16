@@ -6,23 +6,23 @@
 	</row>
 	<row id="msg_0380_R32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Corner Store.</language>
 	</row>
 	<row id="msg_0380_R32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Corner Store.\r</language>
 	</row>
 	<row id="msg_0380_R32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!</language>
+		<language name="English">Have you gone to the block?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Hustlers!</language>
 	</row>
 	<row id="msg_0380_R32_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!\r</language>
+		<language name="English">Have you gone to the block?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Hustlers!\r</language>
 	</row>
 	<row id="msg_0380_R32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have some good Pokémon there.\rIt must be from the training you gave\nthem around Violet City.\rThe training at the Gym must have\nbeen especially helpful.\rAs a souvenir of Violet City, take this.\rIt increases the power of\nGrass-type moves.\r</language>
+		<language name="English">You have some good Pokémon there.\rIt must be from the training you gave\nthem around Violet City.\rThe training at the Block must have\nbeen especially helpful.\rAs a souvenir of Violet City, take this.\rIt increases the power of\nGrass-type moves.\r</language>
 	</row>
 	<row id="msg_0380_R32_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>

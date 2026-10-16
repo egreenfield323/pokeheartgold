@@ -11971,12 +11971,12 @@
     },
     {
       "species": "CHIKORITA",
-      "hp": 45,
-      "atk": 49,
-      "def": 65,
-      "speed": 45,
-      "spatk": 49,
-      "spdef": 65,
+      "hp": 54,
+      "atk": 59,
+      "def": 78,
+      "speed": 54,
+      "spatk": 59,
+      "spdef": 78,
       "types": [
         "TYPE_GRASS",
         "TYPE_GRASS"
@@ -12044,12 +12044,12 @@
     },
     {
       "species": "BAYLEEF",
-      "hp": 60,
-      "atk": 62,
-      "def": 80,
-      "speed": 60,
-      "spatk": 63,
-      "spdef": 80,
+      "hp": 72,
+      "atk": 74,
+      "def": 96,
+      "speed": 72,
+      "spatk": 76,
+      "spdef": 96,
       "types": [
         "TYPE_GRASS",
         "TYPE_GRASS"
@@ -12119,12 +12119,12 @@
     },
     {
       "species": "MEGANIUM",
-      "hp": 80,
-      "atk": 82,
-      "def": 100,
-      "speed": 80,
-      "spatk": 83,
-      "spdef": 100,
+      "hp": 96,
+      "atk": 98,
+      "def": 120,
+      "speed": 96,
+      "spatk": 100,
+      "spdef": 120,
       "types": [
         "TYPE_GRASS",
         "TYPE_GRASS"
@@ -12198,12 +12198,12 @@
     },
     {
       "species": "CYNDAQUIL",
-      "hp": 39,
-      "atk": 52,
-      "def": 43,
-      "speed": 65,
-      "spatk": 60,
-      "spdef": 50,
+      "hp": 47,
+      "atk": 62,
+      "def": 52,
+      "speed": 78,
+      "spatk": 72,
+      "spdef": 60,
       "types": [
         "TYPE_FIRE",
         "TYPE_FIRE"
@@ -12266,12 +12266,12 @@
     },
     {
       "species": "QUILAVA",
-      "hp": 58,
-      "atk": 64,
-      "def": 58,
-      "speed": 80,
-      "spatk": 80,
-      "spdef": 65,
+      "hp": 70,
+      "atk": 77,
+      "def": 70,
+      "speed": 96,
+      "spatk": 96,
+      "spdef": 78,
       "types": [
         "TYPE_FIRE",
         "TYPE_FIRE"
@@ -12339,12 +12339,12 @@
     },
     {
       "species": "TYPHLOSION",
-      "hp": 78,
-      "atk": 84,
-      "def": 78,
-      "speed": 100,
-      "spatk": 109,
-      "spdef": 85,
+      "hp": 94,
+      "atk": 101,
+      "def": 94,
+      "speed": 120,
+      "spatk": 131,
+      "spdef": 102,
       "types": [
         "TYPE_FIRE",
         "TYPE_FIRE"
@@ -12423,12 +12423,12 @@
     },
     {
       "species": "TOTODILE",
-      "hp": 50,
-      "atk": 65,
-      "def": 64,
-      "speed": 43,
-      "spatk": 44,
-      "spdef": 48,
+      "hp": 60,
+      "atk": 78,
+      "def": 77,
+      "speed": 52,
+      "spatk": 53,
+      "spdef": 58,
       "types": [
         "TYPE_WATER",
         "TYPE_WATER"
@@ -12502,12 +12502,12 @@
     },
     {
       "species": "CROCONAW",
-      "hp": 65,
-      "atk": 80,
-      "def": 80,
-      "speed": 58,
-      "spatk": 59,
-      "spdef": 63,
+      "hp": 78,
+      "atk": 96,
+      "def": 96,
+      "speed": 70,
+      "spatk": 71,
+      "spdef": 76,
       "types": [
         "TYPE_WATER",
         "TYPE_WATER"
@@ -12584,12 +12584,12 @@
     },
     {
       "species": "FERALIGATR",
-      "hp": 85,
-      "atk": 105,
-      "def": 100,
-      "speed": 78,
-      "spatk": 79,
-      "spdef": 83,
+      "hp": 102,
+      "atk": 126,
+      "def": 120,
+      "speed": 94,
+      "spatk": 95,
+      "spdef": 100,
       "types": [
         "TYPE_WATER",
         "TYPE_WATER"
@@ -19317,8 +19317,8 @@
       "spatk": 45,
       "spdef": 50,
       "types": [
-        "TYPE_ROCK",
-        "TYPE_GROUND"
+        "TYPE_STEEL",
+        "TYPE_DARK"
       ],
       "catchRate": 45,
       "expYield": 67,
@@ -19394,8 +19394,8 @@
       "spatk": 65,
       "spdef": 70,
       "types": [
-        "TYPE_ROCK",
-        "TYPE_GROUND"
+        "TYPE_STEEL",
+        "TYPE_DARK"
       ],
       "catchRate": 45,
       "expYield": 144,
@@ -19471,7 +19471,7 @@
       "spatk": 95,
       "spdef": 100,
       "types": [
-        "TYPE_ROCK",
+        "TYPE_STEEL",
         "TYPE_DARK"
       ],
       "catchRate": 45,

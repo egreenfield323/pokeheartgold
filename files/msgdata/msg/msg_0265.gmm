@@ -1206,7 +1206,7 @@
 	</row>
 	<row id="msg_0265_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is staring straight at the\nPokémon League.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is staring straight at the\nBig League.</language>
 	</row>
 	<row id="msg_0265_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
@@ -2050,7 +2050,7 @@
 	</row>
 	<row id="msg_0265_00512" index="512">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon isn’t moving.</language>
+		<language name="English">Your Pokémon ain’t moving.</language>
 	</row>
 	<row id="msg_0265_00513" index="513">
 		<attribute name="window_context_name">used</attribute>

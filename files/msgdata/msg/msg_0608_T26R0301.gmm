@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0608_T26R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I’m looking for this Pokémon.\rIf you have a KRABBY, would you\ntrade it for my VOLTORB? {YESNO 0}</language>
+		<language name="English">Ayo, I’m looking for this Pokémon.\rIf you have a KRABBY, would you\ntrade it for my VOLTORB? {YESNO 0}</language>
 	</row>
 	<row id="msg_0608_T26R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great! Thank you!\rI finally got a KRABBY!</language>
+		<language name="English">Great! Good looks!\rI finally got a KRABBY!</language>
 	</row>
 	<row id="msg_0608_T26R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,6 +18,6 @@
 	</row>
 	<row id="msg_0608_T26R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! The KRABBY you traded me is\ndoing great!</language>
+		<language name="English">Ayo! The KRABBY you traded me is\ndoing great!</language>
 	</row>
 </body>

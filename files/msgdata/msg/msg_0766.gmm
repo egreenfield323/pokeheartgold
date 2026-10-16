@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0766_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\r</language>
+		<language name="English">Wassup!\r</language>
 	</row>
 	<row id="msg_0766_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -150,15 +150,15 @@
 	</row>
 	<row id="msg_0766_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Wow, it’s that time there?\rAre you going to go out somewhere\nafter this?\r</language>
+		<language name="English">...Sheesh, it’s that time there?\rAre you finna go out somewhere\nafter this?\r</language>
 	</row>
 	<row id="msg_0766_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Wow, it’s that time there?\rAre you getting sleepy, maybe?\r</language>
+		<language name="English">...Sheesh, it’s that time there?\rAre you getting sleepy, maybe?\r</language>
 	</row>
 	<row id="msg_0766_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Wow, it’s that time there?\rAre you maybe still feeling drowsy?\r</language>
+		<language name="English">...Sheesh, it’s that time there?\rAre you maybe still feeling drowsy?\r</language>
 	</row>
 	<row id="msg_0766_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -170,7 +170,7 @@
 	</row>
 	<row id="msg_0766_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...This Trainer seems to be busy.\r</language>
+		<language name="English">...This Hustler seems to be busy.\r</language>
 	</row>
 	<row id="msg_0766_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -291,7 +291,7 @@
 	</row>
 	<row id="msg_0766_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nWhat do you do with friends?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nWhat do you do with homies?\r</language>
 	</row>
 	<row id="msg_0766_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
@@ -579,11 +579,11 @@
 	</row>
 	<row id="msg_0766_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Money</language>
+		<language name="English">Bread</language>
 	</row>
 	<row id="msg_0766_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends</language>
+		<language name="English">Homies</language>
 	</row>
 	<row id="msg_0766_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
@@ -667,7 +667,7 @@
 	</row>
 	<row id="msg_0766_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Making friends</language>
+		<language name="English">Making homies</language>
 	</row>
 	<row id="msg_0766_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
@@ -755,7 +755,7 @@
 	</row>
 	<row id="msg_0766_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends</language>
+		<language name="English">Homies</language>
 	</row>
 	<row id="msg_0766_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
@@ -811,7 +811,7 @@
 	</row>
 	<row id="msg_0766_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends</language>
+		<language name="English">Homies</language>
 	</row>
 	<row id="msg_0766_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
@@ -1039,7 +1039,7 @@
 	</row>
 	<row id="msg_0766_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d like to go where there aren’t any\fpeople.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d like to go where there ain’t any\fpeople.\r</language>
 	</row>
 	<row id="msg_0766_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
@@ -1063,11 +1063,11 @@
 	</row>
 	<row id="msg_0766_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say money.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say bread.\r</language>
 	</row>
 	<row id="msg_0766_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say friends.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say homies.\r</language>
 	</row>
 	<row id="msg_0766_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
@@ -1151,7 +1151,7 @@
 	</row>
 	<row id="msg_0766_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nMaking friends, I’d say.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nMaking homies, I’d say.\r</language>
 	</row>
 	<row id="msg_0766_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
@@ -1239,7 +1239,7 @@
 	</row>
 	<row id="msg_0766_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say friends.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say homies.\r</language>
 	</row>
 	<row id="msg_0766_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
@@ -1295,7 +1295,7 @@
 	</row>
 	<row id="msg_0766_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say my friends.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI’d have to say my homies.\r</language>
 	</row>
 	<row id="msg_0766_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
@@ -1375,7 +1375,7 @@
 	</row>
 	<row id="msg_0766_00343" index="343">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nIt’s a cool place.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nIt’s a hard place.\r</language>
 	</row>
 	<row id="msg_0766_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
@@ -1499,7 +1499,7 @@
 	</row>
 	<row id="msg_0766_00374" index="374">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nOh, you’re going to be busy.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nOh, you’re finna be busy.\r</language>
 	</row>
 	<row id="msg_0766_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
@@ -1635,7 +1635,7 @@
 	</row>
 	<row id="msg_0766_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re good at making friends?\fThat’s a good thing.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re good at making homies?\fThat’s a good thing.\r</language>
 	</row>
 	<row id="msg_0766_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
@@ -1675,7 +1675,7 @@
 	</row>
 	<row id="msg_0766_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re going to play with Footprint\fStamp. That’s neat.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re finna play with Footprint\fStamp. That’s neat.\r</language>
 	</row>
 	<row id="msg_0766_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
@@ -1683,7 +1683,7 @@
 	</row>
 	<row id="msg_0766_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re going to check out the Plaza\fNews? It’s informative.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYou’re finna check out the Plaza\fNews? It’s informative.\r</language>
 	</row>
 	<row id="msg_0766_00421" index="421">
 		<attribute name="window_context_name">used</attribute>
@@ -1695,7 +1695,7 @@
 	</row>
 	<row id="msg_0766_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYou live near a big factory? Wow.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYou live near a big factory? Sheesh.\r</language>
 	</row>
 	<row id="msg_0766_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
@@ -1707,7 +1707,7 @@
 	</row>
 	<row id="msg_0766_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nCool. You play games with your friends.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nCool. You play games with your homies.\r</language>
 	</row>
 	<row id="msg_0766_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
@@ -1715,7 +1715,7 @@
 	</row>
 	<row id="msg_0766_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nOh, so you shop with your friends for\ffun.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nOh, so you shop with your homies for\ffun.\r</language>
 	</row>
 	<row id="msg_0766_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
@@ -1723,7 +1723,7 @@
 	</row>
 	<row id="msg_0766_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYour friends are important to you...\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYour homies are important to you...\r</language>
 	</row>
 	<row id="msg_0766_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
@@ -1779,7 +1779,7 @@
 	</row>
 	<row id="msg_0766_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nYour friends worry you? Ouch.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nYour homies worry you? Ouch.\r</language>
 	</row>
 	<row id="msg_0766_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
@@ -1831,11 +1831,11 @@
 	</row>
 	<row id="msg_0766_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nA very convenient place?\fThat must be cool.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nA very convenient place?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nA place with lots of nature?\fThat must be cool.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nA place with lots of nature?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
@@ -1843,7 +1843,7 @@
 	</row>
 	<row id="msg_0766_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nA place with rare things and events?\fThat must be cool.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nA place with rare things and events?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
@@ -1859,7 +1859,7 @@
 	</row>
 	<row id="msg_0766_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}:\nI see. You’re in a cool place.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}:\nI see. You’re in a hard place.\r</language>
 	</row>
 	<row id="msg_0766_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
@@ -2147,7 +2147,7 @@
 	</row>
 	<row id="msg_0766_00536" index="536">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you do with friends?</language>
+		<language name="English">What do you do with homies?</language>
 	</row>
 	<row id="msg_0766_00537" index="537">
 		<attribute name="window_context_name">used</attribute>
@@ -2427,7 +2427,7 @@
 	</row>
 	<row id="msg_0766_00606" index="606">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d like to go where there aren’t any\fpeople.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d like to go where there ain’t any\fpeople.\r</language>
 	</row>
 	<row id="msg_0766_00607" index="607">
 		<attribute name="window_context_name">used</attribute>
@@ -2451,11 +2451,11 @@
 	</row>
 	<row id="msg_0766_00612" index="612">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say money.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say bread.\r</language>
 	</row>
 	<row id="msg_0766_00613" index="613">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say friends.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say homies.\r</language>
 	</row>
 	<row id="msg_0766_00614" index="614">
 		<attribute name="window_context_name">used</attribute>
@@ -2567,7 +2567,7 @@
 	</row>
 	<row id="msg_0766_00641" index="641">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nOh, you’re going to be busy.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nOh, you’re finna be busy.\r</language>
 	</row>
 	<row id="msg_0766_00642" index="642">
 		<attribute name="window_context_name">used</attribute>
@@ -2787,7 +2787,7 @@
 	</row>
 	<row id="msg_0766_00696" index="696">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nWhat do you do with friends?\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nWhat do you do with homies?\r</language>
 	</row>
 	<row id="msg_0766_00697" index="697">
 		<attribute name="window_context_name">used</attribute>
@@ -2963,7 +2963,7 @@
 	</row>
 	<row id="msg_0766_00740" index="740">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMaking friends, I’d say.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nMaking homies, I’d say.\r</language>
 	</row>
 	<row id="msg_0766_00741" index="741">
 		<attribute name="window_context_name">used</attribute>
@@ -3051,7 +3051,7 @@
 	</row>
 	<row id="msg_0766_00762" index="762">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say friends.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say homies.\r</language>
 	</row>
 	<row id="msg_0766_00763" index="763">
 		<attribute name="window_context_name">used</attribute>
@@ -3107,7 +3107,7 @@
 	</row>
 	<row id="msg_0766_00776" index="776">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say my friends.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI’d have to say my homies.\r</language>
 	</row>
 	<row id="msg_0766_00777" index="777">
 		<attribute name="window_context_name">used</attribute>
@@ -3187,7 +3187,7 @@
 	</row>
 	<row id="msg_0766_00796" index="796">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIt’s a cool place.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nIt’s a hard place.\r</language>
 	</row>
 	<row id="msg_0766_00797" index="797">
 		<attribute name="window_context_name">used</attribute>
@@ -3283,7 +3283,7 @@
 	</row>
 	<row id="msg_0766_00820" index="820">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re good at making friends?\fThat’s a good thing.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re good at making homies?\fThat’s a good thing.\r</language>
 	</row>
 	<row id="msg_0766_00821" index="821">
 		<attribute name="window_context_name">used</attribute>
@@ -3323,7 +3323,7 @@
 	</row>
 	<row id="msg_0766_00830" index="830">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re going to play with the Footprint\fStamp. That’s neat.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re finna play with the Footprint\fStamp. That’s neat.\r</language>
 	</row>
 	<row id="msg_0766_00831" index="831">
 		<attribute name="window_context_name">used</attribute>
@@ -3331,7 +3331,7 @@
 	</row>
 	<row id="msg_0766_00832" index="832">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re going to check out the Plaza\fNews? It’s informative.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou’re finna check out the Plaza\fNews? It’s informative.\r</language>
 	</row>
 	<row id="msg_0766_00833" index="833">
 		<attribute name="window_context_name">used</attribute>
@@ -3343,7 +3343,7 @@
 	</row>
 	<row id="msg_0766_00835" index="835">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou live near a big factory? Wow.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYou live near a big factory? Sheesh.\r</language>
 	</row>
 	<row id="msg_0766_00836" index="836">
 		<attribute name="window_context_name">used</attribute>
@@ -3355,7 +3355,7 @@
 	</row>
 	<row id="msg_0766_00838" index="838">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCool. You play games with your friends.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nCool. You play games with your homies.\r</language>
 	</row>
 	<row id="msg_0766_00839" index="839">
 		<attribute name="window_context_name">used</attribute>
@@ -3371,7 +3371,7 @@
 	</row>
 	<row id="msg_0766_00842" index="842">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYour friends are important to you...\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYour homies are important to you...\r</language>
 	</row>
 	<row id="msg_0766_00843" index="843">
 		<attribute name="window_context_name">used</attribute>
@@ -3427,7 +3427,7 @@
 	</row>
 	<row id="msg_0766_00856" index="856">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYour friends worry you? Ouch.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nYour homies worry you? Ouch.\r</language>
 	</row>
 	<row id="msg_0766_00857" index="857">
 		<attribute name="window_context_name">used</attribute>
@@ -3479,11 +3479,11 @@
 	</row>
 	<row id="msg_0766_00869" index="869">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA very convenient place?\fThat must be cool.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA very convenient place?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00870" index="870">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA place with lots of nature?\fThat must be cool.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA place with lots of nature?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00871" index="871">
 		<attribute name="window_context_name">used</attribute>
@@ -3491,7 +3491,7 @@
 	</row>
 	<row id="msg_0766_00872" index="872">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA place with rare things and events?\fThat must be cool.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nA place with rare things and events?\fThat must be hard.\r</language>
 	</row>
 	<row id="msg_0766_00873" index="873">
 		<attribute name="window_context_name">used</attribute>
@@ -3507,7 +3507,7 @@
 	</row>
 	<row id="msg_0766_00876" index="876">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI see. You’re in a cool place.\r</language>
+		<language name="English">{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}:\nI see. You’re in a hard place.\r</language>
 	</row>
 	<row id="msg_0766_00877" index="877">
 		<attribute name="window_context_name">used</attribute>

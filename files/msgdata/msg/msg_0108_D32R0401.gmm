@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0108_D32R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Hustler.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Hustlers.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge using the\fsame kind of Pokémon that are at\fleast Lv. 30 each.\rWhen you enter the Hall, you will be\nasked to choose the type and rank of\fthe Pokémon you want to battle.\rIf you manage to win ten matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Hall Multi Battle\nchallenge can’t be interrupted.\r</language>
+		<language name="English">You may team up with a homie for a\nMulti Battle challenge using the\fsame kind of Pokémon that are at\fleast Lv. 30 each.\rWhen you enter the Hall, you will be\nasked to choose the type and rank of\fthe Pokémon you want to battle.\rIf you manage to win ten matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Hall Multi Battle\nchallenge can’t be interrupted.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -98,15 +98,15 @@
 	</row>
 	<row id="msg_0108_D32R0401_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to raise strong Pokémon\nbut have no clue which one to pick...?\rFor those Trainers who feel this way,\nthe Battle Factory is truly a place\fworth visiting!</language>
+		<language name="English">Want to raise strong Pokémon\nbut have no clue which one to pick...?\rFor those Hustlers who feel this way,\nthe Battle Factory is truly a place\fworth visiting!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite right.\rThey say life is an endless series of\nlearning opportunities.\rThis place is the best for learning\nabout Pokémon battles and about\fother Trainers...</language>
+		<language name="English">You are quite right.\rThey say life is an endless series of\nlearning opportunities.\rThis place is the best for learning\nabout Pokémon battles and about\fother Hustlers...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aaaaand--bam!\nAaaaaaaaaand--bam!\rI don’t have Pokémon yet, so I’m\npracticing throwing Poké Balls!</language>
+		<language name="English">Aaaaand--bam!\nAaaaaaaaaand--bam!\rI don’t have Pokémon yet, so I’m\npracticing throwing Hood Balls!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, thank you, my dear...\rYou’re so cute and strong and nice...\nI’m lucky to have a grandchild like you.</language>
+		<language name="English">Oh, good looks, my dear...\rYou’re so cute and strong and nice...\nI’m lucky to have a grandchild like you.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.”{YESNO 0}</language>
+		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.”{YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -230,7 +230,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall Multi Battle challenge\nrequires both partners to enter the\fsame kind of Pokémon.\rPlease confer with your friend and\nchoose the same kind of Pokémon.\r</language>
+		<language name="English">The Battle Hall Multi Battle challenge\nrequires both partners to enter the\fsame kind of Pokémon.\rPlease confer with your homie and\nchoose the same kind of Pokémon.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -270,7 +270,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall lets you keep the\nwinning-streak records.\fThat’s neat, huh?\r...Wait a sec!\rMy friend and I can start challenges\nwith identical conditions and see who\fcan stretch their win streak\fthe longest.\fThat’s even more fun!</language>
+		<language name="English">The Battle Hall lets you keep the\nwinning-streak records.\fThat’s neat, huh?\r...Wait a sec!\rMy homie and I can start challenges\nwith identical conditions and see who\fcan stretch their win streak\fthe longest.\fThat’s even more fun!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -310,7 +310,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: ...\n...Oh, sorry for staring!\rI saw you on stage the last time.\nYou’ve got some star quality.\rI think I’m going to keep an eye on you.\nThere’s real charisma there.</language>
+		<language name="English">Winston: ...\n...Oh, sorry for staring!\rI saw you on stage the last time.\nYou’ve got some star quality.\rI think I’m finna keep an eye on you.\nThere’s real charisma there.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -318,7 +318,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Hey, there!\nWhat are you going to do this time?\rWhich Pokémon are you going for a\nrecord with next?\rWhen I get to thinking about that,\nI get too wound up to sleep at night.\rThat’s why I’ve been sleeping in lately!</language>
+		<language name="English">Winston: Hey, there!\nWhat are you finna do this time?\rWhich Pokémon are you going for a\nrecord with next?\rWhen I get to thinking about that,\nI get too wound up to sleep at night.\rThat’s why I’ve been sleeping in lately!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -326,7 +326,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first of a kind for me as\nTrainers go.\rYou know, I brag about you to everyone\nwho’s willing to listen.\rI was saying that you’re going to be a\nstar before you even got a record!</language>
+		<language name="English">Winston: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first of a kind for me as\nTrainers go.\rYou know, I brag about you to everyone\nwho’s willing to listen.\rI was saying that you’re finna be a\nstar before you even got a record!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -346,7 +346,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rIf you don’t mind me asking, are you\ngetting into the Battle Hall?\rIt’s fun in an engrossing way, isn’t it?\nDid you know?\rThe more you win, the more kinds of\nPokémon appear.</language>
+		<language name="English">Serena: Um... Excuse me?\rIf you don’t mind me asking, are you\ngetting into the Battle Hall?\rIt’s fun in an engrossing way, ain’t it?\nDid you know?\rThe more you win, the more kinds of\nPokémon appear.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -366,7 +366,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first Trainer ever who’s\ndone that.\rI... I brag about you to all my friends.\nI hope you don’t mind.\rI tell them I wish I could be as\nwonderful a Trainer as you!</language>
+		<language name="English">Serena: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first Hustler ever who’s\ndone that.\rI... I brag about you to all my homies.\nI hope you don’t mind.\rI tell them I wish I could be as\nwonderful a Hustler as you!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -382,11 +382,11 @@
 	</row>
 	<row id="msg_0108_D32R0401_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}.\nI love watching you battle here.\rCause...\nyou have fun whether you win\for lose!</language>
+		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}.\nI love watching you battle here.\rCause...\nyou have fun whether you win\for lose!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: The Battle Hall is great for\nPokémon fans like me!\rI get to see so many new kinds of\nPokémon I’ve never seen.\rIt’s so cool!</language>
+		<language name="English">Ethan: The Battle Hall is great for\nPokémon fans like me!\rI get to see so many new kinds of\nPokémon I’ve never seen.\rIt’s so hard!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
@@ -394,7 +394,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You keep amazing me\nover and over again.\rWhat a Trainer you turned out to be!\rIt’s not enough that you caught\nPokémon in numbers beyond belief.\rThat alone is fantastic enough.\nBut you’ve bonded and battled with\fthem as well.\rI am so proud to know you!</language>
+		<language name="English">Professor Oak: You keep amazing me\nover and over again.\rWhat a Hustler you turned out to be!\rIt’s not enough that you caught\nPokémon in numbers beyond belief.\rThat alone is fantastic enough.\nBut you’ve bonded and battled with\fthem as well.\rI am so proud to know you!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00099" index="99">
 		<attribute name="window_context_name">used</attribute>

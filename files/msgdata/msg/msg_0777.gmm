@@ -123,7 +123,7 @@
 	</row>
 	<row id="msg_0777_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When your visiting time is up, Parade\nFloats appear from the right rear\fof the Wi-Fi Plaza.\rThese Floats are vehicles modeled\nafter Pokémon.\rYou may get on a Float and return to\nthe Pokémon Center yourself, or send\foff friends.\rPlease be aware that once you get on a\nFloat, you cannot get off till it exits\fthe Wi-Fi Plaza, at which point you will\fbe disconnected from Nintendo WFC.\r</language>
+		<language name="English">When your visiting time is up, Parade\nFloats appear from the right rear\fof the Wi-Fi Plaza.\rThese Floats are vehicles modeled\nafter Pokémon.\rYou may get on a Float and return to\nthe Trap House yourself, or send\foff homies.\rPlease be aware that once you get on a\nFloat, you cannot get off till it exits\fthe Wi-Fi Plaza, at which point you will\fbe disconnected from Nintendo WFC.\r</language>
 	</row>
 	<row id="msg_0777_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -272,7 +272,7 @@
 	</row>
 	<row id="msg_0777_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exit the Wi-Fi Plaza and return to\nthe Pokémon Center?\r</language>
+		<language name="English">Exit the Wi-Fi Plaza and return to\nthe Trap House?\r</language>
 	</row>
 	<row id="msg_0777_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -305,15 +305,15 @@
 	</row>
 	<row id="msg_0777_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s {STRVAR_3 0, 0, 0}!\rIf you do well at a Plaza Game, you can\nget your Tap Toy upgraded.\rIf you’ve never played a Plaza Game,\ngo on, take the challenge!\r</language>
+		<language name="English">Ayo, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s {STRVAR_3 0, 0, 0}!\rIf you do well at a Plaza Game, you can\nget your Tap Toy upgraded.\rIf you’ve never played a Plaza Game,\ngo on, take the challenge!\r</language>
 	</row>
 	<row id="msg_0777_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s the Footprint Stamp!\rSee what happens after a few seconds\nof putting down a stamp!\rIf you’ve never tried it, go on,\nthere are two separate panels!\r</language>
+		<language name="English">Ayo, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s the Footprint Stamp!\rSee what happens after a few seconds\nof putting down a stamp!\rIf you’ve never tried it, go on,\nthere are two separate panels!\r</language>
 	</row>
 	<row id="msg_0777_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nChatting with friends!\rIt might seem a little intimidating,\nbut don’t be scared!\rYou can not only chat, you can also\ntrade Tap Toys, too.\rDon’t be shy!\nIt’s a lot of fun!\r</language>
+		<language name="English">Ayo, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nChatting with homies!\rIt might seem a little intimidating,\nbut don’t be scared!\rYou can not only chat, you can also\ntrade Tap Toys, too.\rDon’t be shy!\nIt’s a lot of fun!\r</language>
 	</row>
 	<row id="msg_0777_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -321,7 +321,7 @@
 	</row>
 	<row id="msg_0777_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s the {STRVAR_3 0, 0, 0}!\rYou can learn about events in the Wi-Fi\nPlaza and about your friends, too.\rIt’s really convenient!\r</language>
+		<language name="English">Ayo, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nIt’s the {STRVAR_3 0, 0, 0}!\rYou can learn about events in the Wi-Fi\nPlaza and about your homies, too.\rIt’s really convenient!\r</language>
 	</row>
 	<row id="msg_0777_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -329,7 +329,7 @@
 	</row>
 	<row id="msg_0777_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nA Plaza Survey!\rIt’s an opportunity to get to know\nabout the visitors to the Wi-Fi Plaza.\rYou can have your say in a survey until\nthe spotlights are turned on.\rDon’t forget to get your voice heard in\nthe Trainer community!\r</language>
+		<language name="English">Ayo, welcome to the Wi-Fi Plaza!\rDo you want to know what I recommend?\nA Plaza Survey!\rIt’s an opportunity to get to know\nabout the visitors to the Wi-Fi Plaza.\rYou can have your say in a survey until\nthe spotlights are turned on.\rDon’t forget to get your voice heard in\nthe Hustler community!\r</language>
 	</row>
 	<row id="msg_0777_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
@@ -338,7 +338,7 @@
 	</row>
 	<row id="msg_0777_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, I handle the Plaza Surveys.\rThis is where you can take part in\na Plaza Survey.\rYou can cast your vote on the monitor\nnext to me.\rOr, would you like to know more?\r</language>
+		<language name="English">Wassup, I handle the Plaza Surveys.\rThis is where you can take part in\na Plaza Survey.\rYou can cast your vote on the monitor\nnext to me.\rOr, would you like to know more?\r</language>
 	</row>
 	<row id="msg_0777_00082" index="82">
 		<attribute name="window_context_name">garbage</attribute>
@@ -366,7 +366,7 @@
 	</row>
 	<row id="msg_0777_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for participating in our Plaza\nSurvey.\rThe results will be available when the\nspotlights are turned on in the Plaza.\rAfterward, the results can be viewed\nuntil the end of the Pokémon Parade.\rBe sure to come back and see the\nresults!\r</language>
+		<language name="English">Good looks for participating in our\nPlaza Survey.\rThe results will be available when the\nspotlights are turned on in the Plaza.\rAfterward, the results can be viewed\nuntil the end of the Pokémon Parade.\rBe sure to come back and see the\nresults!\r</language>
 	</row>
 	<row id="msg_0777_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -416,7 +416,7 @@
 	</row>
 	<row id="msg_0777_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for participating in our\nSpecial Plaza Survey.\rThe results will be available when the\nspotlights are turned on in the Plaza.\rAfterward, the results can be viewed\nuntil the end of the Pokémon Parade.\rBe sure to come back and see the\nresults!\r</language>
+		<language name="English">Good looks for participating in our\nSpecial Plaza Survey.\rThe results will be available when the\nspotlights are turned on in the Plaza.\rAfterward, the results can be viewed\nuntil the end of the Pokémon Parade.\rBe sure to come back and see the\nresults!\r</language>
 	</row>
 	<row id="msg_0777_00100" index="100">
 		<attribute name="window_context_name">garbage</attribute>

@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I consider myself a bad guy,\nbut I never liked hanging around\fother bad ones like Team Rocket.</language>
+		<language name="English">I consider myself a bad guy,\nbut I never liked hanging around\fother bad ones like The Feds.</language>
 	</row>
 	<row id="msg_0595_T25R1004_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\nWhat are you doing here?</language>
+		<language name="English">The Feds...\nWhat are you doing here?</language>
 	</row>
 	<row id="msg_0595_T25R1004_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Even Team Rocket wouldn’t steal their\nown members’ Pokémon, would they?</language>
+		<language name="English">Even The Feds wouldn’t steal their\nown members’ Pokémon, would they?</language>
 	</row>
 	<row id="msg_0595_T25R1004_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

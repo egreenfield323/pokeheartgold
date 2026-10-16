@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oops!\nI have an important mission.\rIf they find out I was wasting time\nhere, they’ll make me start over\fas the lowest Team Rocket Grunt!\rI better leave now!\r</language>
+		<language name="English">Oops!\nI have an important mission.\rIf they find out I was wasting time\nhere, they’ll make me start over\fas the lowest Fed Agent!\rI better leave now!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will test you to see if you are a good\nPokémon Trainer.\rAre you ready? {YESNO 0}</language>
+		<language name="English">I will test you to see if you are a good\nPokémon Hustler.\rAre you ready? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,11 +62,11 @@
 	</row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite strong.\rYou helped me in the Ilex Forest.\rMy name is Naoko. I’m the one that’s\nnot so good at directions.\rMy eyes witnessed you defeating\nTeam Rocket when Kurt was in trouble\fat the SLOWPOKE Well.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">You are quite strong.\rYou helped me in the Ilex Forest.\rMy name is Naoko. I’m the one that’s\nnot so good at directions.\rMy eyes witnessed you defeating\nThe Feds when Kurt was in trouble\fat the SLOWPOKE Well.\rAllow me to challenge you and your\nPokémon!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite the Trainer.\rI remember you chasing off\nthat Team Rocket Grunt\ffrom right here.\rI must thank you for that.\rAlthough, I am actually a Trainer\nmyself.\rShe who knows the most speaks\nthe least!\fI am Miki--the Kimono Girl!\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">You are quite the Hustler.\rI remember you chasing off\nthat Fed Agent\ffrom right here.\rI must good looks for that.\rAlthough, I am actually a Hustler\nmyself.\rShe who knows the most speaks\nthe least!\fI am Miki--the Kimono Girl!\rAllow me to challenge you and your\nPokémon!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the last one.\rYou were so dependable at the\nGoldenrod Tunnel. I am the one who\ftwirls even underground.\rI am Kuni--the Kimono Girl!\rI looked at you in wonder when you\nthwarted Team Rocket’s mission\fto take over the Radio Tower.\fYou must show your strength to me now.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">I am the last one.\rYou were so dependable at the\nGoldenrod Tunnel. I am the one who\ftwirls even underground.\rI am Kuni--the Kimono Girl!\rI looked at you in wonder when you\nthwarted The Feds’ mission\fto take over the Radio Tower.\fYou must show your strength to me now.\rAllow me to challenge you and your\nPokémon!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the deal with that Team Rocket\nGrunt, messing with my Kimono Girl?\rYou are a Trainer, aren’t you?\fPlease help her!</language>
+		<language name="English">What’s the deal with that The Feds\nGrunt, messing with my Kimono Girl?\rYou are a Hustler, ain’t you?\fPlease help her!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -155,7 +155,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quite the Trainer for your age indeed!</language>
+		<language name="English">Quite the Hustler for your age indeed!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -171,7 +171,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.\rYou have beautifully proven that the\nbond between people can be extended to\fthe bond between people and Pokémon...\rWe all appreciate that you have lived up\nto our expectations, {STRVAR_1 3, 0, 0}!\rIf you feel that this experience has\ntaught you anything, the people you\fshould thank are not us, but\fMr. Pokémon and Professor Elm...</language>
+		<language name="English">Good looks for your help the other day.\rYou have beautifully proven that the\nbond between people can be extended to\fthe bond between people and Pokémon...\rWe all appreciate that you have lived up\nto our expectations, {STRVAR_1 3, 0, 0}!\rIf you feel that this experience has\ntaught you anything, the people you\fshould thank are not us, but\fMr. Pokémon and Professor Elm...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>

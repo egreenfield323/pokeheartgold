@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0685_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Is that thing a Pokédex? Have you\nmet Professor Oak?\rHuh? You have?\nThat’s way cool!\rI have a dream of becoming a Pokémon\nresearcher like Professor Oak.\rMay I please have your phone number?\rWe should chat about Professor Oak.\rI’m sure it will be loads of fun! {YESNO 0}</language>
+		<language name="English">Huh? Is that thing a Pokédex? Have you\nmet Professor Oak?\rHuh? You have?\nThat’s way hard!\rI have a dream of becoming a Pokémon\nresearcher like Professor Oak.\rMay I please have your phone number?\rWe should chat about Professor Oak.\rI’m sure it will be loads of fun! {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0685_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, aren’t you nearby?\fDo you like the phone that much?</language>
+		<language name="English">Huh?\nWait, ain’t you nearby?\fDo you like the phone that much?</language>
 	</row>
 	<row id="msg_0685_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0685_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Blue?\rHe’s Professor Oak’s grandson and a\nformer Pokémon League Champion!\fHe’s one super Pokémon Trainer!\rSee you later!</language>
+		<language name="English">Do you know Blue?\rHe’s Professor Oak’s grandson and a\nformer Big League Kingpin!\fHe’s one super Pokémon Hustler!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0685_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone’s talking about\nProfessor Elm.\rHe used to be an assistant to the great\nProfessor Oak!\rThat is so cool! I envy him!\rSee you later!</language>
+		<language name="English">Everyone’s talking about\nProfessor Elm.\rHe used to be an assistant to the great\nProfessor Oak!\rThat is so hard! I envy him!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,19 +54,19 @@
 	</row>
 	<row id="msg_0685_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Kurt, the Poké Ball\ncreator?\rHe and Professor Oak go back a long\nway. I guess great people attract\fone another!\rSee you later!</language>
+		<language name="English">Do you know Kurt, the Hood Ball\ncreator?\rHe and Professor Oak go back a long\nway. I guess great people attract\fone another!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon League is the great\ngathering place for all Trainers who\fwish to become the Champion.\rProfessor Oak acts as an advisor to\nthe Pokémon League’s headquarters.\rHe really is a great man.\rSee you later!</language>
+		<language name="English">The Big League is the great\ngathering place for all Hustlers who\fwish to become the Kingpin.\rProfessor Oak acts as an advisor to\nthe Big League’s headquarters.\rHe really is a great man.\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s Pokémon Talk is a\npopular radio show, right?\rDid you know that he was going to turn\ndown the show at first?\rBut Mary’s energy and persistence wore\nhim down.\fSo we have Mary to thank for it!\rSee you later!</language>
+		<language name="English">Professor Oak’s Pokémon Talk is a\npopular radio show, right?\rDid you know that he was finna turn\ndown the show at first?\rBut Mary’s energy and persistence wore\nhim down.\fSo we have Mary to thank for it!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak used to be a Trainer a\nlong time ago.\rBut rather than battling, he found\nPokémon themselves to be interesting.\rSo he abandoned his training to focus\non becoming a researcher.\rSee you later!</language>
+		<language name="English">Professor Oak used to be a Hustler a\nlong time ago.\rBut rather than battling, he found\nPokémon themselves to be interesting.\rSo he abandoned his training to focus\non becoming a researcher.\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -90,6 +90,6 @@
 	</row>
 	<row id="msg_0685_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to study all about Pokémon so\nthat Professor Oak will make me his\fassistant!</language>
+		<language name="English">I’m finna study all about Pokémon so\nthat Professor Oak will make me his\fassistant!</language>
 	</row>
 </body>

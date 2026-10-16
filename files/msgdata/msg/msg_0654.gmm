@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0654_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? I can’t hear you very well...\nWe must have a bad connection...\rTry calling me again from a different\nlocation, please.</language>
+		<language name="English">Wassup? I can’t hear you very well...\nWe must have a bad connection...\rTry calling me again from a different\nlocation, please.</language>
 	</row>
 	<row id="msg_0654_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello... How are you?\nI’m doing well, thanks.\r</language>
+		<language name="English">Wassup... How are you?\nI’m doing well, thanks.\r</language>
 	</row>
 	<row id="msg_0654_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many other Trainers out\nthere who are much stronger than me...\fYou should challenge them and see.</language>
+		<language name="English">There are so many other Hustlers out\nthere who are much stronger than me...\fYou should challenge them and see.</language>
 	</row>
 	<row id="msg_0654_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0654_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba at the Safari Zone...\nHe came over to my Gym once to\fintroduce himself...\rHe talks a little differently, doesn’t\nhe? I heard it’s called anastrophe...</language>
+		<language name="English">Warden Baoba at the Safari Zone...\nHe came over to my Block once to\fintroduce himself...\rHe talks a little differently, doesn’t\nhe? I heard it’s called anastrophe...</language>
 	</row>
 </body>

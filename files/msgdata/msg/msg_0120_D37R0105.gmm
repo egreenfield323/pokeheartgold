@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0120_D37R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Director: Who? What? You came to\nrescue me? Thank you!\rThe Radio Tower!\nWhat’s happening there?\rTaken over by Team Rocket?\nHere. Take this Card Key.\r</language>
+		<language name="English">Director: Who? What? You came to\nrescue me? Good looks!\rThe Radio Tower!\nWhat’s happening there?\rTaken over by The Feds?\nHere. Take this Card Key.\r</language>
 	</row>
 	<row id="msg_0120_D37R0105_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>

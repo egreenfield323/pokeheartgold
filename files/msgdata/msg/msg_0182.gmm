@@ -35,31 +35,31 @@
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_SingleBattle" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Single Battle!\nAwaiting contact from your friend.</language>
+		<language name="English">Single Battle!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_DoubleBattle" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Double Battle!\nAwaiting contact from your friend.</language>
+		<language name="English">Double Battle!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_MultiBattle" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi Battle!\nAwaiting contact from your friends.</language>
+		<language name="English">Multi Battle!\nAwaiting contact from your homies.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_MixBattle" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mix Battle!\nAwaiting contact from your friend.</language>
+		<language name="English">Mix Battle!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_FlatBattle" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flat Battle!\nAwaiting contact from your friend.</language>
+		<language name="English">Flat Battle!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_SafariZoneLink" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Zone Link!\nAwaiting contact from your friend.</language>
+		<language name="English">Safari Zone Link!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_Pokeathlon" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon!\nAwaiting contact from your friend.</language>
+		<language name="English">Pokéathlon!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_ProceedWhenReady" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -76,27 +76,27 @@
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleTower" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Tower!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleFactory_Lv50" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory--Level 50!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Factory--Level 50!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleFactory_Open" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory--Open Level!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Factory--Open Level!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleHall" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Hall!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Hall!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleCastle" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Castle!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Castle!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_AwaitingContact_BattleArcade" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Arcade!\nAwaiting contact from your friend.</language>
+		<language name="English">Battle Arcade!\nAwaiting contact from your homie.</language>
 	</row>
 	<row id="CommunicationClub_Text_00024_Dummy" index="24">
 		<attribute name="window_context_name">garbage</attribute>
@@ -251,27 +251,27 @@
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleTower" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend you want to take\nto the Battle Tower. {YESNO 0}</language>
+		<language name="English">Choose the homie you want to take\nto the Battle Tower. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleFactory_Lv50" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend to play with at\nthe Battle Factory--Level 50. {YESNO 0}</language>
+		<language name="English">Choose the homie to play with at\nthe Battle Factory--Level 50. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleFactory_Open" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend to play with at\nthe Battle Factory--Open Level. {YESNO 0}</language>
+		<language name="English">Choose the homie to play with at\nthe Battle Factory--Open Level. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleHall" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend to play\nwith at the Battle Hall. {YESNO 0}</language>
+		<language name="English">Choose the homie to play\nwith at the Battle Hall. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleCastle" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend to play\nwith at the Battle Castle. {YESNO 0}</language>
+		<language name="English">Choose the homie to play\nwith at the Battle Castle. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_ChooseFriend_BattleArcade" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the friend to play\nwith at the Battle Arcade. {YESNO 0}</language>
+		<language name="English">Choose the homie to play\nwith at the Battle Arcade. {YESNO 0}</language>
 	</row>
 	<row id="CommunicationClub_Text_GroupCancelled" index="65">
 		<attribute name="window_context_name">used</attribute>

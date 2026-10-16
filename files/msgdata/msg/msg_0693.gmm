@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0693_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, let’s be friends!\nI figure nobody who likes Pokémon\fcould be a bad person.\rLet’s chat about PIKACHU and SLOWPOKE\nand TENTACRUEL and all kinds of\fother Pokémon. It’ll be fun!\fWhat do you think?\rCan I get your phone number?{YESNO 0}</language>
+		<language name="English">Hey, let’s be homies!\nI figure nobody who likes Pokémon\fcould be a bad person.\rLet’s chat about PIKACHU and SLOWPOKE\nand TENTACRUEL and all kinds of\fother Pokémon. It’ll be fun!\fWhat do you think?\rCan I get your phone number?{YESNO 0}</language>
 	</row>
 	<row id="msg_0693_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0693_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s that?\nWait, you’re near me, aren’t you?\rI can tell.\rHow? Because you give off this aura of\naffection for Pokémon!\rIf you’re nearby, come on and talk to\nme in person about Pokémon stuff!</language>
+		<language name="English">What’s that?\nWait, you’re near me, ain’t you?\rI can tell.\rHow? Because you give off this aura of\naffection for Pokémon!\rIf you’re nearby, come on and talk to\nme in person about Pokémon stuff!</language>
 	</row>
 	<row id="msg_0693_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, listen to this.\nMy {STRVAR_1 0, 10, 0} totally grins when\fI pinch its cheek.\rBut it never grins like that for\nanyone else. I must be special.\rOh, and just now, my PIKACHU beat a\nwild {STRVAR_1 0, 11, 0}!\fA wild {STRVAR_1 0, 11, 0}, I’m sayin’!\rYeah, amazing, isn’t it?\rMy PIKACHU is awesome!\rMy PIKACHU is the greatest!\nTalk to you later.</language>
+		<language name="English">Hey, listen to this.\nMy {STRVAR_1 0, 10, 0} totally grins when\fI pinch its cheek.\rBut it never grins like that for\nanyone else. I must be special.\rOh, and just now, my PIKACHU beat a\nwild {STRVAR_1 0, 11, 0}!\fA wild {STRVAR_1 0, 11, 0}, I’m sayin’!\rYeah, amazing, ain’t it?\rMy PIKACHU is awesome!\rMy PIKACHU is the greatest!\nTalk to you later.</language>
 	</row>
 	<row id="msg_0693_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0693_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you remember?\nThe Bug-Catching Contest is today.\rYou’re going to go, aren’t you?\rI think I’ll participate with PIKACHU to\nshow off its cuteness.</language>
+		<language name="English">Did you remember?\nThe Bug-Catching Contest is today.\rYou’re finna go, ain’t you?\rI think I’ll participate with PIKACHU to\nshow off its cuteness.</language>
 	</row>
 	<row id="msg_0693_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

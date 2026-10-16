@@ -68,7 +68,7 @@
 	</row>
 	<row id="msg_0775_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trade Pokémon with this Trainer?</language>
+		<language name="English">Trade Pokémon with this Hustler?</language>
 	</row>
 	<row id="msg_0775_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -645,7 +645,7 @@
 	</row>
 	<row id="msg_0775_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unfortunately, it was traded to\nanother Trainer.\r</language>
+		<language name="English">Unfortunately, it was traded to\nanother Hustler.\r</language>
 	</row>
 	<row id="msg_0775_00148" index="148">
 		<attribute name="window_context_name">used</attribute>

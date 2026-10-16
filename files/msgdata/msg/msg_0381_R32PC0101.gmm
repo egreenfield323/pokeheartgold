@@ -44,7 +44,7 @@
 	</row>
 	<row id="msg_0381_R32PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lure Ball!\nThis Poké Ball makes it easy to catch\fthe Pokémon that appear when you\fgo fishing!\rActually, this is made from Apricorns.\nConsider those two as small gifts\ffrom me.\rIf you want more, go to Azalea Town.\nA man called Kurt can make special\fPoké Balls out of Apricorns.\rApricorns rule!</language>
+		<language name="English">Lure Ball!\nThis Hood Ball makes it easy to catch\fthe Pokémon that appear when you\fgo fishing!\rActually, this is made from Apricorns.\nConsider those two as small gifts\ffrom me.\rIf you want more, go to Azalea Town.\nA man called Kurt can make special\fHood Balls out of Apricorns.\rApricorns rule!</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

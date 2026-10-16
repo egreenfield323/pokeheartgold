@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0384_R34_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: You and us... We might as well\nbecome friends!</language>
+		<language name="English">Jenn: You and us... We might as well\nbecome homies!</language>
 	</row>
 	<row id="msg_0384_R34_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -160,7 +160,7 @@
 	</row>
 	<row id="msg_0384_R34_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rNorth to Goldenrod City\nThe Radio Tower at Goldenrod is giving\faway Radio Cards.\rAnswer their questions and receive a\nRadio Card!</language>
+		<language name="English">Hustler Tips\rNorth to Goldenrod City\nThe Radio Tower at Goldenrod is giving\faway Radio Cards.\rAnswer their questions and receive a\nRadio Card!</language>
 	</row>
 	<row id="msg_0384_R34_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -176,11 +176,11 @@
 	</row>
 	<row id="msg_0384_R34_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. He’s a Trainer.\rHe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. He’s a Hustler.\rHe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
 	</row>
 	<row id="msg_0384_R34_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -200,7 +200,7 @@
 	</row>
 	<row id="msg_0384_R34_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. She’s a Trainer.\rShe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. She’s a Hustler.\rShe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
 	</row>
 	<row id="msg_0384_R34_00045" index="45">
 		<attribute name="window_context_name">used</attribute>

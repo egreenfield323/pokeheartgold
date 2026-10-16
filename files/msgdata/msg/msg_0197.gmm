@@ -15,7 +15,7 @@
 	</row>
 	<row id="msg_0197_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} grew to\nLv. {STRVAR_1 52, 1, 0}!{WAIT 5}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} leveled up! Lv.\n{STRVAR_1 52, 1, 0}, on foenem grave!{WAIT 5}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0197_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -123,15 +123,15 @@
 	</row>
 	<row id="msg_0197_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} fainted!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} got dropped!\r</language>
 	</row>
 	<row id="msg_0197_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} fainted!\r</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} got dropped!\r</language>
 	</row>
 	<row id="msg_0197_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} fainted!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got dropped!\r</language>
 	</row>
 	<row id="msg_0197_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -151,7 +151,7 @@
 	</row>
 	<row id="msg_0197_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} blacked out!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got jumped!\r</language>
 	</row>
 	<row id="msg_0197_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -191,55 +191,55 @@
 	</row>
 	<row id="msg_0197_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nfell asleep!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}\npassed out!</language>
 	</row>
 	<row id="msg_0197_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}\nfell asleep!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}\npassed out!</language>
 	</row>
 	<row id="msg_0197_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nfell asleep!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\npassed out!</language>
 	</row>
 	<row id="msg_0197_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\n{STRVAR_1 1, 2, 0} fall asleep!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\n{STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\nthe wild {STRVAR_1 1, 2, 0} fall asleep!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\nthe wild {STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\nthe foe’s {STRVAR_1 1, 2, 0} fall asleep!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} made\nthe foe’s {STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\ffall asleep!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\fpass out!</language>
 	</row>
 	<row id="msg_0197_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the wild\f{STRVAR_1 1, 2, 0} fall asleep!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the wild\f{STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\ffall asleep!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\fpass out!</language>
 	</row>
 	<row id="msg_0197_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the foe’s\f{STRVAR_1 1, 2, 0} fall asleep!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the foe’s\f{STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nalready asleep!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\nalready passed out!</language>
 	</row>
 	<row id="msg_0197_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready asleep!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready passed out!</language>
 	</row>
 	<row id="msg_0197_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready asleep!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready passed out!</language>
 	</row>
 	<row id="msg_0197_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -255,15 +255,15 @@
 	</row>
 	<row id="msg_0197_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nwas poisoned!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}\nwas food poisoned!</language>
 	</row>
 	<row id="msg_0197_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}\nwas poisoned!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}\nwas food poisoned!</language>
 	</row>
 	<row id="msg_0197_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwas poisoned!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwas food poisoned!</language>
 	</row>
 	<row id="msg_0197_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -279,31 +279,31 @@
 	</row>
 	<row id="msg_0197_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} poisoned\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} poisoned\fthe wild {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\fthe wild {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} poisoned\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} poisoned\fthe foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\fthe foe’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is hurt\nby poison!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is hurt\nby bad tacos!</language>
 	</row>
 	<row id="msg_0197_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is hurt\nby poison!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is hurt\nby bad tacos!</language>
 	</row>
 	<row id="msg_0197_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby poison!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby bad tacos!</language>
 	</row>
 	<row id="msg_0197_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -319,15 +319,15 @@
 	</row>
 	<row id="msg_0197_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was badly\npoisoned!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was real\nfood food poisoned!</language>
 	</row>
 	<row id="msg_0197_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was badly\npoisoned!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was real\nfood food poisoned!</language>
 	</row>
 	<row id="msg_0197_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was badly\npoisoned!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned!</language>
 	</row>
 	<row id="msg_0197_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -347,11 +347,11 @@
 	</row>
 	<row id="msg_0197_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}\nwas burned!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}\ngot burnt!</language>
 	</row>
 	<row id="msg_0197_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwas burned!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ngot burnt!</language>
 	</row>
 	<row id="msg_0197_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -407,15 +407,15 @@
 	</row>
 	<row id="msg_0197_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was\nfrozen solid!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was\niced out!</language>
 	</row>
 	<row id="msg_0197_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was\nfrozen solid!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was\niced out!</language>
 	</row>
 	<row id="msg_0197_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\nfrozen solid!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\niced out!</language>
 	</row>
 	<row id="msg_0197_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -447,27 +447,27 @@
 	</row>
 	<row id="msg_0197_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nfrozen solid!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\niced out!</language>
 	</row>
 	<row id="msg_0197_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nfrozen solid!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is\niced out!</language>
 	</row>
 	<row id="msg_0197_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nfrozen solid!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\niced out!</language>
 	</row>
 	<row id="msg_0197_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} thawed out!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} warmed up!</language>
 	</row>
 	<row id="msg_0197_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} thawed out!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} warmed up!</language>
 	</row>
 	<row id="msg_0197_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} thawed out!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} warmed up!</language>
 	</row>
 	<row id="msg_0197_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -483,15 +483,15 @@
 	</row>
 	<row id="msg_0197_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is paralyzed!\nIt may be unable to move!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is tased!\nIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is paralyzed!\nIt may be unable to move!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is tased!\nIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is paralyzed!\nIt may be unable to move!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is tased!\nIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
@@ -511,51 +511,51 @@
 	</row>
 	<row id="msg_0197_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} paralyzed the wild\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased the wild\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} paralyzed\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} paralyzed the foe’s\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased the foe’s\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is paralyzed!\nIt can’t move!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is tased!\nIt can’t move!</language>
 	</row>
 	<row id="msg_0197_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is paralyzed!\nIt can’t move!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is tased!\nIt can’t move!</language>
 	</row>
 	<row id="msg_0197_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is paralyzed!\nIt can’t move!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is tased!\nIt can’t move!</language>
 	</row>
 	<row id="msg_0197_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nalready paralyzed!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\nalready tased!</language>
 	</row>
 	<row id="msg_0197_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready paralyzed!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready tased!</language>
 	</row>
 	<row id="msg_0197_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready paralyzed!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready tased!</language>
 	</row>
 	<row id="msg_0197_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was\nhealed of paralysis!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was\nhealed of the taser!</language>
 	</row>
 	<row id="msg_0197_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was\nhealed of paralysis!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was\nhealed of the taser!</language>
 	</row>
 	<row id="msg_0197_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\nhealed of paralysis!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\nhealed of the taser!</language>
 	</row>
 	<row id="msg_0197_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -627,27 +627,27 @@
 	</row>
 	<row id="msg_0197_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} became\nconfused!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} got\nfaded!</language>
 	</row>
 	<row id="msg_0197_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} became\nconfused!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} got\nfaded!</language>
 	</row>
 	<row id="msg_0197_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became\nconfused!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got\nfaded!</language>
 	</row>
 	<row id="msg_0197_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nalready confused!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\nalready faded!</language>
 	</row>
 	<row id="msg_0197_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready confused!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nalready faded!</language>
 	</row>
 	<row id="msg_0197_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready confused!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready faded!</language>
 	</row>
 	<row id="msg_0197_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -1199,15 +1199,15 @@
 	</row>
 	<row id="msg_0197_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is fast\nasleep.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is knocked\nout cold.</language>
 	</row>
 	<row id="msg_0197_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is fast\nasleep.</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is knocked\nout cold.</language>
 	</row>
 	<row id="msg_0197_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is fast\nasleep.</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is knocked\nout cold.</language>
 	</row>
 	<row id="msg_0197_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
@@ -1215,11 +1215,11 @@
 	</row>
 	<row id="msg_0197_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}\nwoke up!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}\ncame to!</language>
 	</row>
 	<row id="msg_0197_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwoke up!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ncame to!</language>
 	</row>
 	<row id="msg_0197_00305" index="305">
 		<attribute name="window_context_name">used</attribute>
@@ -1355,15 +1355,15 @@
 	</row>
 	<row id="msg_0197_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} became\nconfused due to fatigue!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} got\nfaded from bein’ tired!</language>
 	</row>
 	<row id="msg_0197_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} became\nconfused due to fatigue!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} got\nfaded from bein’ tired!</language>
 	</row>
 	<row id="msg_0197_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became\nconfused due to fatigue!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got\nfaded from bein’ tired!</language>
 	</row>
 	<row id="msg_0197_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
@@ -2579,15 +2579,15 @@
 	</row>
 	<row id="msg_0197_00644" index="644">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents paralysis!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents the taser!</language>
 	</row>
 	<row id="msg_0197_00645" index="645">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents paralysis!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents the taser!</language>
 	</row>
 	<row id="msg_0197_00646" index="646">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents paralysis!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents the taser!</language>
 	</row>
 	<row id="msg_0197_00647" index="647">
 		<attribute name="window_context_name">used</attribute>
@@ -2603,27 +2603,27 @@
 	</row>
 	<row id="msg_0197_00650" index="650">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents poisoning!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nhas a iron stomach!</language>
 	</row>
 	<row id="msg_0197_00651" index="651">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents poisoning!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} has a iron stomach!</language>
 	</row>
 	<row id="msg_0197_00652" index="652">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents poisoning!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} has a iron stomach!</language>
 	</row>
 	<row id="msg_0197_00653" index="653">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents confusion!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nkeeps it sober!</language>
 	</row>
 	<row id="msg_0197_00654" index="654">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents confusion!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} keeps it sober!</language>
 	</row>
 	<row id="msg_0197_00655" index="655">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents confusion!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} keeps it sober!</language>
 	</row>
 	<row id="msg_0197_00656" index="656">
 		<attribute name="window_context_name">used</attribute>
@@ -3099,7 +3099,7 @@
 	</row>
 	<row id="msg_0197_00774" index="774">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A critical hit!</language>
+		<language name="English">HEADSHOT!</language>
 	</row>
 	<row id="msg_0197_00775" index="775">
 		<attribute name="window_context_name">used</attribute>
@@ -3120,15 +3120,15 @@
 	</row>
 	<row id="msg_0197_00779" index="779">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not very effective...</language>
+		<language name="English">That shot was weak...</language>
 	</row>
 	<row id="msg_0197_00780" index="780">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s super effective!</language>
+		<language name="English">That one HIT!</language>
 	</row>
 	<row id="msg_0197_00781" index="781">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got away safely!\r</language>
+		<language name="English">Skrrt! Got outta there!\r</language>
 	</row>
 	<row id="msg_0197_00782" index="782">
 		<attribute name="window_context_name">used</attribute>
@@ -3144,7 +3144,7 @@
 	</row>
 	<row id="msg_0197_00785" index="785">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Player defeated\n{STRVAR_1 3, 0, 0}!</language>
+		<language name="English">You ran\n{STRVAR_1 3, 0, 0} off the block!</language>
 	</row>
 	<row id="msg_0197_00786" index="786">
 		<attribute name="window_context_name">used</attribute>
@@ -3176,7 +3176,7 @@
 	</row>
 	<row id="msg_0197_00793" index="793">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No! There’s no running\nfrom a Trainer battle!\r</language>
+		<language name="English">No! There’s no running\nfrom a Hustler battle!\r</language>
 	</row>
 	<row id="msg_0197_00794" index="794">
 		<attribute name="window_context_name">used</attribute>
@@ -3192,7 +3192,7 @@
 	</row>
 	<row id="msg_0197_00797" index="797">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It hurt itself in its\nconfusion!</language>
+		<language name="English">It tripped over its\nown feet! Too faded!</language>
 	</row>
 	<row id="msg_0197_00798" index="798">
 		<attribute name="window_context_name">used</attribute>
@@ -3443,7 +3443,7 @@
 	</row>
 	<row id="msg_0197_00859" index="859">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Trainer blocked the Ball!</language>
+		<language name="English">The Hustler blocked the Ball!</language>
 	</row>
 	<row id="msg_0197_00860" index="860">
 		<attribute name="window_context_name">used</attribute>
@@ -3459,11 +3459,11 @@
 	</row>
 	<row id="msg_0197_00863" index="863">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no!\nThe Pokémon broke free!</language>
+		<language name="English">Nah!\nThey ain’t joinin’ your gang!</language>
 	</row>
 	<row id="msg_0197_00864" index="864">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww!\nIt appeared to be caught!</language>
+		<language name="English">Aww!\nThought they was down!</language>
 	</row>
 	<row id="msg_0197_00865" index="865">
 		<attribute name="window_context_name">used</attribute>
@@ -3471,11 +3471,11 @@
 	</row>
 	<row id="msg_0197_00866" index="866">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shoot!\nIt was so close, too!</language>
+		<language name="English">Dang!\nThey almost picked up!</language>
 	</row>
 	<row id="msg_0197_00867" index="867">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{WAIT 3}Gotcha!\n{STRVAR_1 1, 0, 0} was caught!{WAIT 2}\r</language>
+		<language name="English">{WAIT 3}Gotcha!\n{STRVAR_1 1, 0, 0} joined the gang!{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0197_00868" index="868">
 		<attribute name="window_context_name">used</attribute>
@@ -3507,27 +3507,27 @@
 	</row>
 	<row id="msg_0197_00875" index="875">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\ncured its paralysis!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\ncured its the taser!</language>
 	</row>
 	<row id="msg_0197_00876" index="876">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its paralysis!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its the taser!</language>
 	</row>
 	<row id="msg_0197_00877" index="877">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its paralysis!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its the taser!</language>
 	</row>
 	<row id="msg_0197_00878" index="878">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\ncured its poison!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\nfixed its stomach!</language>
 	</row>
 	<row id="msg_0197_00879" index="879">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its poison!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} fixed its stomach!</language>
 	</row>
 	<row id="msg_0197_00880" index="880">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its poison!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} fixed its stomach!</language>
 	</row>
 	<row id="msg_0197_00881" index="881">
 		<attribute name="window_context_name">used</attribute>
@@ -3571,11 +3571,11 @@
 	</row>
 	<row id="msg_0197_00891" index="891">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} snapped it out of\fconfusion!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} sobered it\fup!</language>
 	</row>
 	<row id="msg_0197_00892" index="892">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} snapped it out of\fconfusion!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} sobered it\fup!</language>
 	</row>
 	<row id="msg_0197_00893" index="893">
 		<attribute name="window_context_name">used</attribute>
@@ -3667,7 +3667,7 @@
 	</row>
 	<row id="msg_0197_00915" index="915">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\n{STRVAR_1 1, 0, 0} is evolving!</language>
+		<language name="English">Yo?!\n{STRVAR_1 1, 0, 0} is glowin’ up!</language>
 	</row>
 	<row id="msg_0197_00916" index="916">
 		<attribute name="window_context_name">used</attribute>
@@ -3675,15 +3675,15 @@
 	</row>
 	<row id="msg_0197_00917" index="917">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is evolving!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is glowin’ up!</language>
 	</row>
 	<row id="msg_0197_00918" index="918">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{WAIT 3}Congratulations! Your {STRVAR_1 1, 0, 0}\nevolved into {STRVAR_1 1, 1, 0}!{WAIT 2}\r</language>
+		<language name="English">{WAIT 3}AYY! Your {STRVAR_1 1, 0, 0}\nglowed up into {STRVAR_1 1, 1, 0}!{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0197_00919" index="919">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? {STRVAR_1 1, 0, 0}\nstopped evolving!\r</language>
+		<language name="English">Huh? {STRVAR_1 1, 0, 0}\ndecided to stay humble.\r</language>
 	</row>
 	<row id="msg_0197_00920" index="920">
 		<attribute name="window_context_name">used</attribute>
@@ -3874,15 +3874,15 @@
 	</row>
 	<row id="msg_0197_00965" index="965">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wild {STRVAR_1 1, 0, 0} appeared!\r</language>
+		<language name="English">An opp {STRVAR_1 1, 0, 0} pulled up!\r</language>
 	</row>
 	<row id="msg_0197_00966" index="966">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wild {STRVAR_1 1, 0, 0} appeared!\r</language>
+		<language name="English">An opp {STRVAR_1 1, 0, 0} pulled up!\r</language>
 	</row>
 	<row id="msg_0197_00967" index="967">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wild {STRVAR_1 1, 0, 0} and\n{STRVAR_1 1, 1, 0} appeared!\r</language>
+		<language name="English">Opps {STRVAR_1 1, 0, 0} and\n{STRVAR_1 1, 1, 0} pulled up!\r</language>
 	</row>
 	<row id="msg_0197_00968" index="968">
 		<attribute name="window_context_name">used</attribute>
@@ -3890,11 +3890,11 @@
 	</row>
 	<row id="msg_0197_00969" index="969">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are challenged by\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!\r</language>
+		<language name="English">{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\nwants smoke!\r</language>
 	</row>
 	<row id="msg_0197_00970" index="970">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are challenged by\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}\nwants smoke!\r</language>
 	</row>
 	<row id="msg_0197_00971" index="971">
 		<attribute name="window_context_name">used</attribute>
@@ -3910,7 +3910,7 @@
 	</row>
 	<row id="msg_0197_00974" index="974">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} sent out\n{STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} called up\n{STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00975" index="975">
 		<attribute name="window_context_name">used</attribute>
@@ -3930,11 +3930,11 @@
 	</row>
 	<row id="msg_0197_00979" index="979">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go! {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Pull up, {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00980" index="980">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re in charge, {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Handle it, {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00981" index="981">
 		<attribute name="window_context_name">used</attribute>
@@ -3950,7 +3950,7 @@
 	</row>
 	<row id="msg_0197_00984" index="984">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}, switch out!\nCome back!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}, tap out!\nFall back!</language>
 	</row>
 	<row id="msg_0197_00985" index="985">
 		<attribute name="window_context_name">used</attribute>
@@ -3966,7 +3966,7 @@
 	</row>
 	<row id="msg_0197_00988" index="988">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}, good!\nCome back!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}, good looks!\nFall back!</language>
 	</row>
 	<row id="msg_0197_00989" index="989">
 		<attribute name="window_context_name">used</attribute>
@@ -4686,15 +4686,15 @@
 	</row>
 	<row id="msg_0197_01168" index="1168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was badly\npoisoned by the {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was real\nfood food poisoned by the {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01169" index="1169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was badly\npoisoned by the {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was real\nfood food poisoned by the {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01170" index="1170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was badly\npoisoned by the {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned by the {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01171" index="1171">
 		<attribute name="window_context_name">used</attribute>
@@ -4858,7 +4858,7 @@
 	</row>
 	<row id="msg_0197_01211" index="1211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was thawed out.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was warmed up.</language>
 	</row>
 	<row id="msg_0197_01212" index="1212">
 		<attribute name="window_context_name">used</attribute>
@@ -4890,7 +4890,7 @@
 	</row>
 	<row id="msg_0197_01219" index="1219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! {STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}\nis drawing close!\r</language>
+		<language name="English">Sheesh! {STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}\nis drawing close!\r</language>
 	</row>
 	<row id="msg_0197_01220" index="1220">
 		<attribute name="window_context_name">used</attribute>
@@ -4918,15 +4918,15 @@
 	</row>
 	<row id="msg_0197_01226" index="1226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! I got its HP down!\nTime to throw a Poké Ball!{YESNO 0}</language>
+		<language name="English">All right! I got its HP down!\nTime to throw a Hood Ball!{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01227" index="1227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Its HP is down!\nIt’s ready for a Poké Ball!{YESNO 0}</language>
+		<language name="English">OK! Its HP is down!\nIt’s ready for a Hood Ball!{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01228" index="1228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used\na Poké Ball!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} used\na Hood Ball!</language>
 	</row>
 	<row id="msg_0197_01229" index="1229">
 		<attribute name="window_context_name">used</attribute>
@@ -4998,7 +4998,7 @@
 	</row>
 	<row id="msg_0197_01246" index="1246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wild {STRVAR_1 1, 0, 0} appeared!</language>
+		<language name="English">An opp {STRVAR_1 1, 0, 0} pulled up!</language>
 	</row>
 	<row id="msg_0197_01247" index="1247">
 		<attribute name="window_context_name">used</attribute>

@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0068_D23R0104_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ben: Team Rocket... There is something\nthey lack. It is music!\rMusic enriches people’s heart and soul.\rMusic lovers would never do such\nhorrible things at a place like the\fRadio Tower!</language>
+		<language name="English">Ben: The Feds... There is something\nthey lack. It is music!\rMusic enriches people’s heart and soul.\rMusic lovers would never do such\nhorrible things at a place like the\fRadio Tower!</language>
 	</row>
 	<row id="msg_0068_D23R0104_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,14 +50,14 @@
 	</row>
 	<row id="msg_0068_D23R0104_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton, the leader of this Radio Tower\nmission... He is so cool.\r</language>
+		<language name="English">Proton, the leader of this Radio Tower\nmission... He is so hard.\r</language>
 	</row>
 	<row id="msg_0068_D23R0104_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\rIf you are in the way of Proton...\nI mean Team Rocket. I won’t allow that!\r</language>
+		<language name="English">Who are you?\rIf you are in the way of Proton...\nI mean The Feds. I won’t allow that!\r</language>
 	</row>
 	<row id="msg_0068_D23R0104_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket and Proton are all I need!\rWho cares about Pokémon?</language>
+		<language name="English">The Feds and Proton are all I need!\rWho cares about Pokémon?</language>
 	</row>
 </body>

@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0156_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym jump</language>
+		<language name="English">Block jump</language>
 	</row>
 	<row id="msg_0156_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="msg_0156_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump to Pastoria Gym</language>
+		<language name="English">Jump to Pastoria Block</language>
 	</row>
 	<row id="msg_0156_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -418,7 +418,7 @@
 	</row>
 	<row id="msg_0156_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set Trainer ID</language>
+		<language name="English">Set Hustler ID</language>
 	</row>
 	<row id="msg_0156_00105" index="105">
 		<attribute name="window_context_name">used</attribute>

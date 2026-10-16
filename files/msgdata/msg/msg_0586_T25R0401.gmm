@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0586_T25R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill: Hi, {STRVAR_1 3, 0, 0}! Would you do\nsomething for me and take this EEVEE?\rIt came over when I was adjusting\nNintendo Wi-Fi Connection.\rSomeone has to take care of it,\nbut I don’t like being outside.\rCan I count on you to play with it,\n{STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">Bill: Ayo, {STRVAR_1 3, 0, 0}! Would you do\nsomething for me and take this EEVEE?\rIt came over when I was adjusting\nNintendo Wi-Fi Connection.\rSomeone has to take care of it,\nbut I don’t like being outside.\rCan I count on you to play with it,\n{STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0586_T25R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0586_T25R0401_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you a Trainer?\rI’ve got a useful phone number\nfor you. {YESNO 0}</language>
+		<language name="English">Are you a Hustler?\rI’ve got a useful phone number\nfor you. {YESNO 0}</language>
 	</row>
 	<row id="msg_0586_T25R0401_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -59,7 +59,7 @@
 	</row>
 	<row id="msg_0586_T25R0401_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My brother made the\nPokémon Storage System.\rI was going to give you Bill’s number...</language>
+		<language name="English">My brother made the\nPokémon Storage System.\rI was finna give you Bill’s number...</language>
 	</row>
 	<row id="msg_0586_T25R0401_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

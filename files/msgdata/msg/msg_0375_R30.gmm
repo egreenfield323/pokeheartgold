@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0375_R30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go, RATTATA!\rTackle!\r</language>
+		<language name="English">Pull up, RATTATA!\rRun up on ’em!\r</language>
 	</row>
 	<row id="msg_0375_R30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? This is a big battle!\fLeave me alone!\r</language>
+		<language name="English">Bro! This a BIG fight!\fGet outta here!\r</language>
 	</row>
 	<row id="msg_0375_R30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Your homie can keep swingin’\nas long as it got PP.\rWhen a move run outta PP, your\nhomie can’t use it no more.\rThen take your homies to\nthe Trap House.</language>
 	</row>
 	<row id="msg_0375_R30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Your homie can keep swingin’\nas long as it got PP.\rWhen a move run outta PP, your\nhomie can’t use it no more.\rThen take your homies to\nthe Trap House.</language>
 	</row>
 	<row id="msg_0375_R30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m not a Trainer.\rBut if you look one in the eyes,\nprepare to battle.</language>
+		<language name="English">I ain’t in no gang.\rBut if you look one in the eyes,\nbetter be ready to throw hands.</language>
 	</row>
 	<row id="msg_0375_R30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kiddo!\rHow in the world can you be so\noblivious to my eye-catching house?\fHold it right there!\r</language>
+		<language name="English">Ayo, lil bro!\rHow you walk right past my crib?\nIt’s the nicest crib on the block!\fHold up right there!\r</language>
 	</row>
 	<row id="msg_0375_R30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you follow that path up north,\nyou will see Mr. Pokémon’s house.\rBut before you go, let me finish what\nI have to say.\rDo you...have any Apricorns?\fApricorn trees bear fruit once a day.\fI have one of those trees, too!\rApricorns are really something.\nYou can make Poké Balls and\fother things.\rThey are quite useful.\rI have a feeling this is meant to be,\nbecause I have something for you!\r</language>
+		<language name="English">Up north that way is\nMr. Pokémon’s spot.\rBut before you go, lemme\nfinish talkin’.\rYou got any...Apricorns?\fThe trees drop ’em once a day.\fI got one of them trees too!\rApricorns hard, ngl.\nYou can make Hood Balls and\fall kinda stuff.\rThey mad useful.\rI feel like this meant to be,\n’cause I got somethin’ for you!\r</language>
 	</row>
 	<row id="msg_0375_R30_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0375_R30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Apricorn Box, you can carry\nso many Apricorns.\rYou’ll be a decent Apricorn collector!\r</language>
+		<language name="English">With that Apricorn Box, you can carry\na whole lotta Apricorns.\rYou gon’ be a real Apricorn plug!\r</language>
 	</row>
 	<row id="msg_0375_R30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -43,18 +43,18 @@
 	</row>
 	<row id="msg_0375_R30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House\nStraight Ahead!</language>
+		<language name="English">Mr. Pokémon’s Spot\nStraight Ahead!</language>
 	</row>
 	<row id="msg_0375_R30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House</language>
+		<language name="English">Mr. Pokémon’s Spot</language>
 	</row>
 	<row id="msg_0375_R30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rNo stealing other people’s Pokémon!\rPoké Balls are to be thrown only at\nwild Pokémon!</language>
+		<language name="English">Street Rules\rDon’t steal nobody else’s homies!\rHood Balls only get thrown at\nhomies that ain’t claimed!</language>
 	</row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’re wearing the Running Shoes.\rThey make you feel like you are flying,\ndon’t they?\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
+		<language name="English">Oh! You got the Runnin’ Shoes on.\rFeel like you flyin’,\nright?\rBut watch out for opps\nin the grass!\rWhen you run, the noise\nbring ’em out.</language>
 	</row>
 </body>

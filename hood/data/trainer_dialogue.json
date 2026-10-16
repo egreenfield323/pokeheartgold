@@ -1,0 +1,282 @@
+{
+  "_comment": "Trainer battle lines. '|' starts a new text box paragraph; lines are word-wrapped automatically. Straight apostrophes are converted to the game's ’ glyph. Each trainer gets lines from the pools, picked deterministically from its index.",
+  "pools": {
+    "TRMSG_INTRO": [
+      "Aye! You lookin' at me? Nah, you was DEFINITELY lookin' at me.",
+      "This my block. You ain't from around here, huh?",
+      "Run your pockets! ...Or we can battle, I guess.",
+      "My homies been waitin' all day for somebody to pull up.",
+      "You walked down the wrong street, lil bro.",
+      "I seen you on the block earlier. You lost or somethin'?",
+      "Ayo, the whole squad outside today. Pull up!",
+      "Who let YOU out the house?",
+      "My crew is undefeated! ...This week.",
+      "Hold up, hold up. You think you hard? Prove it.",
+      "Square up! My homies ready, I'm ready, my grandma's ready.",
+      "You stepped on my J's! Now we gotta battle.",
+      "I ain't even mad. I'm just finna take your lunch money.",
+      "Ain't no Wi-Fi out here. Only smoke.",
+      "Nah, nah. You gotta pay the toll to walk past me.",
+      "Mama said be home by the streetlights. That gives me 5 minutes to whoop you.",
+      "Bro thinks he's the main character. Let's fix that.",
+      "Tell your gang I said wassup... after I beat 'em.",
+      "My homie said you was talkin' crazy about me in the group chat.",
+      "Yo, is that a BURNER? That's cute. Let's go.",
+      "You got that new-in-town energy. I can smell it.",
+      "Ayo, you got a lighter? No? Then you got a problem.",
+      "I'm on the clock, so make this quick.",
+      "Stop right there! This a no-loitering zone. Except for me.",
+      "I been training my crew in the parking lot all summer!",
+      "It's always the quiet ones... Let's get it!",
+      "My landlord got a “Love Is Love” sign AND raised my rent 40%. Battle me!",
+      "Ayo, you vote? Me neither. Let's fight about it anyway!",
+      "My cousin say the government put chips in the Hood Balls. Prove him wrong!",
+      "I'm a socialist. Your homies belong to ME now!",
+      "Bro, I listen to political podcasts. I'm basically a genius. Square up!",
+      "This block is a safe space. For ME. Not you."
+    ],
+    "TRMSG_LOSE": [
+      "Bruh... that's crazy.",
+      "Okay, okay. I was lettin' you win.",
+      "Nah, my controller was off.",
+      "My homies is cooked...",
+      "I'm tellin' my cousin about you.",
+      "Aight, you got that. ONE time.",
+      "Man, I'm finna move to the suburbs.",
+      "Ain't no way. AIN'T NO WAY.",
+      "Respect. ...Don't tell nobody.",
+      "I gotta go home and rethink my life.",
+      "Bro really came in here and did that.",
+      "That's cap! ...No, that was real.",
+      "My whole crew just got sent to the shadow realm.",
+      "This why I don't leave the porch.",
+      "Lag! That was lag!",
+      "Not in front of the whole block, man...",
+      "I'll be back. My uncle know people.",
+      "You fight like my grandma. That's a compliment.",
+      "Yeah, yeah, take your little win and go."
+    ],
+    "TRMSG_AFTER": [
+      "Don't come back around here. ...Unless you got snacks.",
+      "You alright, I guess. For a nobody.",
+      "Word on the street is the Block Boss up ahead don't play.",
+      "I'm just out here tryna get my bread up, man.",
+      "Next time I'm bringin' my cousin. He got a CHOPPA.",
+      "You keep a Burner on you? Smart. Real smart.",
+      "If your homies is hurt, hit up the Trap House. They patch you up free.",
+      "I ain't mad. I'm just disappointed in my crew.",
+      "Don't tell my mama I lost.",
+      "Real recognize real. Go 'head and pass.",
+      "Ayo, you ever been to Goldenrod? That's where the real ones at.",
+      "My homie said Hot Chips heal you better than Band-Aids.",
+      "You got hands, I'll give you that.",
+      "Stay dangerous out here, lil bro.",
+      "I'm still the king of this corner. Spiritually.",
+      "Keep it movin'. I got a reputation to rebuild.",
+      "I swear my crew is better on Tuesdays.",
+      "Politicians been promisin' this block a park since '04. Still waitin'.",
+      "My uncle voted for both parties in the same election. Respect.",
+      "The mayor came through once. For a photo. Then he dipped.",
+      "My liberal arts degree said I'd be a winner. Lies.",
+      "Taxes took half my bread and the pothole still there."
+    ],
+    "TRMSG_PHONE_REMATCH_INTRO": [
+      "You thought I forgot? I been waitin' by the phone!",
+      "Round two, let's get it!",
+      "I been practicing! Me and the homies hit the gym!"
+    ],
+    "TRMSG_WIN": [
+      "Haha! Go home and tell your mama!",
+      "That's what I thought. Stay off my block!",
+      "Too easy. Too easy!"
+    ],
+    "TRMSG_LAST_POKE": [
+      "It's just me and my last homie now. We ride together!",
+      "Last one standing. Don't count us out!"
+    ],
+    "TRMSG_LAST_POKE_HALF": [
+      "Stay up, homie! Stay up!",
+      "Nah, you good! Walk it off!"
+    ],
+    "TRMSG_DBL_INTRO_1": [
+      "Me and my twin run this block!"
+    ],
+    "TRMSG_DBL_INTRO_2": [
+      "Yeah! Two-on-one! Wait, it's two-on-two."
+    ],
+    "TRMSG_DBL_LOSE_1": [
+      "Twin... we cooked."
+    ],
+    "TRMSG_DBL_LOSE_2": [
+      "Bro, it's your fault."
+    ],
+    "TRMSG_DBL_AFTER_1": [
+      "We still run this block. Just... not today."
+    ],
+    "TRMSG_DBL_AFTER_2": [
+      "Don't tell Mama."
+    ],
+    "TRMSG_DBL_1POKE_1": [
+      "You need at least two homies to fight us!"
+    ],
+    "TRMSG_DBL_1POKE_2": [
+      "Come back with backup!"
+    ],
+    "TRMSG_PHONE_REMATCH_DBL_INTRO_1": [
+      "Twin ambush! Round two!"
+    ],
+    "TRMSG_PHONE_REMATCH_DBL_INTRO_2": [
+      "We practiced! Kinda!"
+    ]
+  },
+  "class_intros": {
+    "TRAINERCLASS_BUG_CATCHER": [
+      "I'm the lookout! I see EVERYTHING! ...I didn't see you though.",
+      "I'm watchin' the block for the big homies. Five-oh or YOU, same thing."
+    ],
+    "TRAINERCLASS_YOUNGSTER": [
+      "This corner is MINE. I been standin' here since 3rd grade!",
+      "My shorts are the coolest shorts on this block! Battle me!"
+    ],
+    "TRAINERCLASS_HIKER": [
+      "Back in MY day, we battled uphill both ways!",
+      "Youngblood! Let the Old Head teach you somethin'."
+    ],
+    "TRAINERCLASS_FISHERMAN": [
+      "Shh! You're scarin' the fish. Now you gotta battle.",
+      "I been on this pier since '87. Respect the pier!"
+    ],
+    "TRAINERCLASS_BIKER": [
+      "VROOM VROOM! That's my mouth, the bike's in the shop.",
+      "Biker Gang don't stop for NOBODY!"
+    ],
+    "TRAINERCLASS_TEAM_ROCKET": [
+      "FBI! Open up! ...Wait, we're outside. FBI! Stand still!",
+      "You have the right to remain silent. Your homies do NOT.",
+      "We been tappin' your Burner for WEEKS. We heard everything.",
+      "This is a federal investigation. Hand over your homies!",
+      "I'm undercover. Act natural. ...I said ACT NATURAL!",
+      "We know about the group chat. ALL of it."
+    ],
+    "TRAINERCLASS_TEAM_ROCKET_F": [
+      "Federal agent! Your crew is under arrest!",
+      "I've been undercover as a mail lady for six months. Battle me!"
+    ],
+    "TRAINERCLASS_SCIENTIST_GS": [
+      "I'm cookin' up somethin' special in the lab. Battle me!"
+    ],
+    "TRAINERCLASS_POLICEMAN": [
+      "Mall Cop! Freeze! ...Please freeze. I don't get paid enough to chase you."
+    ],
+    "TRAINERCLASS_FIREBREATHER": [
+      "I like fire. A LOT. Don't ask me questions."
+    ],
+    "TRAINERCLASS_SUPER_NERD": [
+      "I hacked the mainframe. Now I'ma hack YOUR crew."
+    ],
+    "TRAINERCLASS_GENTLEMAN": [
+      "Your rent is LATE. We settle this the old-fashioned way."
+    ],
+    "TRAINERCLASS_BEAUTY": [
+      "Ugh, you're blocking my lighting. Battle me."
+    ],
+    "TRAINERCLASS_SAGE": [
+      "Wise Guy say: man who walk into tower get WRECKED."
+    ],
+    "TRAINERCLASS_SCHOOL_KID_M": [
+      "I'm skippin' school today! Don't snitch!"
+    ],
+    "TRAINERCLASS_SCHOOL_KID_F": [
+      "Skippin' school is a vibe! Battle me!"
+    ]
+  },
+  "named": {
+    "_comment": "Exact trainer name (as in trainers.json, without {TRNAME}) -> message type -> text. Applies to every trainer with that name.",
+    "Silver": {
+      "TRMSG_INTRO": "You got a crew from Elm's lab too? Too bad mine's better.",
+      "TRMSG_LOSE": "Tch... You only won 'cause your homies is soft.",
+      "TRMSG_WIN": "Hmph. Just like I thought. You're nobody.",
+      "TRMSG_LAST_POKE": "I don't need a whole gang. I can do this by myself!",
+      "TRMSG_LAST_POKE_HALF": "Get up! I didn't steal you from a lab to lose!",
+      "TRMSG_AFTER": "I'ma be the biggest kingpin in the world. Watch."
+    },
+    "Falkner": {
+      "TRMSG_LAST_POKE": "The pigeons stay with me till the end!",
+      "TRMSG_LAST_POKE_HALF": "Don't fold, birds! Don't fold!",
+      "TRMSG_LOSE": "My pops ran this block with pigeons... and I lost it."
+    },
+    "Bugsy": {
+      "TRMSG_LAST_POKE": "One lookout left! He sees EVERYTHING!",
+      "TRMSG_LAST_POKE_HALF": "Hang in there, lil homie!",
+      "TRMSG_LOSE": "Man... I'm too young for this."
+    },
+    "Whitney": {
+      "TRMSG_LAST_POKE": "My MILTANK is undefeated! Don't you DARE!",
+      "TRMSG_LAST_POKE_HALF": "Stay UP! I'll cry, I swear!",
+      "TRMSG_LOSE": "Waaaah! You BULLY! I'm tellin' EVERYBODY!"
+    },
+    "Morty": {
+      "TRMSG_LAST_POKE": "You can't fight what you can't see...",
+      "TRMSG_LAST_POKE_HALF": "Stay ghost, homie.",
+      "TRMSG_LOSE": "I've been ghosted... by YOU."
+    },
+    "Chuck": {
+      "TRMSG_LAST_POKE": "WAHAHAHA! One more! I can do push-ups between rounds!",
+      "TRMSG_LAST_POKE_HALF": "PAIN IS JUST WEAKNESS LEAVING THE BODY!",
+      "TRMSG_LOSE": "...My wife is gonna clown me so hard."
+    },
+    "Jasmine": {
+      "TRMSG_LAST_POKE": "Um... my last homie is made of steel. Sorry.",
+      "TRMSG_LAST_POKE_HALF": "P-please be okay...",
+      "TRMSG_LOSE": "You're... really good. Um. Bye."
+    },
+    "Pryce": {
+      "TRMSG_LAST_POKE": "I've been ice cold since before your parents was born.",
+      "TRMSG_LAST_POKE_HALF": "Hold firm. Like winter.",
+      "TRMSG_LOSE": "Hmph. The young blood got heat."
+    },
+    "Clair": {
+      "TRMSG_LAST_POKE": "I'm the Drama Queen! I NEVER lose!",
+      "TRMSG_LAST_POKE_HALF": "Don't you dare embarrass me!",
+      "TRMSG_LOSE": "This is NOT happening right now!"
+    },
+    "Lance": {
+      "TRMSG_LAST_POKE": "My DRAGONITE has never been beaten. Never.",
+      "TRMSG_LAST_POKE_HALF": "Is this... fear? Nah. Couldn't be.",
+      "TRMSG_LOSE": "...It's over. You're the new Kingpin of Johto."
+    },
+    "Red": {
+      "TRMSG_LOSE": "......",
+      "TRMSG_LAST_POKE": "......!",
+      "TRMSG_LAST_POKE_HALF": "..."
+    }
+  },
+  "class_always": [
+    "TRAINERCLASS_TEAM_ROCKET",
+    "TRAINERCLASS_TEAM_ROCKET_F"
+  ],
+  "class_lose": {
+    "TRAINERCLASS_TEAM_ROCKET": [
+      "Agent down! Agent down!",
+      "I'm callin' for backup...",
+      "This is goin' in my report."
+    ],
+    "TRAINERCLASS_TEAM_ROCKET_F": [
+      "My supervisor is gonna kill me.",
+      "You'll be hearing from our lawyers."
+    ]
+  },
+  "class_after": {
+    "TRAINERCLASS_TEAM_ROCKET": [
+      "The Feds always win in the end. Usually. Sometimes.",
+      "Just so you know, we got a van parked outside your mama's house.",
+      "Don't look at the white van. There is no white van."
+    ],
+    "TRAINERCLASS_TEAM_ROCKET_F": [
+      "We'll be watching you. Literally. Through your phone."
+    ]
+  },
+  "rename_trainers": {
+    "Grunt": "Agent"
+  }
+}

@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0692_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You betcha. Thanks!\nI’ll call you sometime!</language>
+		<language name="English">You betcha. Good looks!\nI’ll call you sometime!</language>
 	</row>
 	<row id="msg_0692_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0692_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, earlier by the roadside, this\n{STRVAR_1 0, 11, 0} jumped out at me!\rI really love Pokémon, but...bam!\nIt sure startled me!\rI mean, if you’re going to jump out at a\nperson, you should at least have the\fdecency to introduce yourself first!</language>
+		<language name="English">You know, earlier by the roadside, this\n{STRVAR_1 0, 11, 0} jumped out at me!\rI really love Pokémon, but...bam!\nIt sure startled me!\rI mean, if you’re finna jump out at a\nperson, you should at least have the\fdecency to introduce yourself first!</language>
 	</row>
 	<row id="msg_0692_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

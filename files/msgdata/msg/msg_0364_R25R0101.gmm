@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0364_R25R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill told me about a Pokémon that is\nvery loyal to its Trainer.\fIt’s a Fire-type Pokémon that’s\fsupposed to Roar well.\r</language>
+		<language name="English">Bill told me about a Pokémon that is\nvery loyal to its Hustler.\fIt’s a Fire-type Pokémon that’s\fsupposed to Roar well.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0364_R25R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThat Pokémon is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful Pokémon!\nAs a token of my appreciation,\fI would like to give this to you!\r</language>
+		<language name="English">Sheesh!\nThat Pokémon is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful Pokémon!\nAs a token of my appreciation,\fI would like to give this to you!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0364_R25R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for showing me so many\ncute Pokémon.\fI really enjoyed myself.\rI’m glad I’ve lived such a long life.</language>
+		<language name="English">Good looks for showing me so many\ncute Pokémon.\fI really enjoyed myself.\rI’m glad I’ve lived such a long life.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

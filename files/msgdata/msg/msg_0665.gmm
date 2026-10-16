@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0665_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, is this {STRVAR_1 3, 0, 0}?\rThat reminds me... Telephones, they\nchange your voice into electricity to\fcarry it over a long distance,\fdon’t they?\rSo, if you consider that technology,\nyou could change Pokémon into\felectricity and send them over large\fdistances as well, no?\rSo, based on that theory, I was able to\ncome up with and create the Pokémon\fStorage system!\rWell, it’s not quite as simple as a\ntelephone, but you get the idea, right?</language>
+		<language name="English">Wassup, is this {STRVAR_1 3, 0, 0}?\rThat reminds me... Telephones, they\nchange your voice into electricity to\fcarry it over a long distance,\fdon’t they?\rSo, if you consider that technology,\nyou could change Pokémon into\felectricity and send them over large\fdistances as well, no?\rSo, based on that theory, I was able to\ncome up with and create the Pokémon\fStorage system!\rWell, it’s not quite as simple as a\ntelephone, but you get the idea, right?</language>
 	</row>
 	<row id="msg_0665_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, is this {STRVAR_1 3, 0, 0}?\rThat reminds me... Telephones, they\nchange your voice into electricity to\fcarry it over a long distance,\fdon’t they?\rSo, if you consider that technology,\nyou could change Pokémon into\felectricity and send them over large\fdistances as well, no?\rSo, based on that theory, I was able to\ncome up with and create the Pokémon\fStorage system!\rWell, it’s not quite as simple as a\ntelephone, but you get the idea, right?</language>
+		<language name="English">Wassup, is this {STRVAR_1 3, 0, 0}?\rThat reminds me... Telephones, they\nchange your voice into electricity to\fcarry it over a long distance,\fdon’t they?\rSo, if you consider that technology,\nyou could change Pokémon into\felectricity and send them over large\fdistances as well, no?\rSo, based on that theory, I was able to\ncome up with and create the Pokémon\fStorage system!\rWell, it’s not quite as simple as a\ntelephone, but you get the idea, right?</language>
 	</row>
 	<row id="msg_0665_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

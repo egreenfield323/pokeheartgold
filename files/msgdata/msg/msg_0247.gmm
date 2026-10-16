@@ -34,11 +34,11 @@
 	</row>
 	<row id="msg_0247_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Corner Store.</language>
 	</row>
 	<row id="msg_0247_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?</language>
+		<language name="English">This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your homies.\rWill you accept this gift?</language>
 	</row>
 	<row id="msg_0247_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
@@ -91,7 +91,7 @@
 	</row>
 	<row id="msg_0247_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.</language>
+		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Corner Store and\npick up some of your gifts.</language>
 	</row>
 	<row id="msg_0247_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -160,7 +160,7 @@
 	</row>
 	<row id="msg_0247_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">Please pick up your gift from the\ndeliveryman in any Corner Store.</language>
 	</row>
 	<row id="msg_0247_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -217,7 +217,7 @@
 	</row>
 	<row id="msg_0247_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This gift can be shared with as\nmany friends as you like.</language>
+		<language name="English">This gift can be shared with as\nmany homies as you like.</language>
 	</row>
 	<row id="msg_0247_00053" index="53">
 		<attribute name="window_context_name">used</attribute>

@@ -14,27 +14,27 @@
 	</row>
 	<row id="msg_0641_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Ayo, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
 	</row>
 	<row id="msg_0641_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Ayo, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
 	</row>
 	<row id="msg_0641_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Hi, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Ayo, this is Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
 	</row>
 	<row id="msg_0641_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Hi, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Ayo, this is Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
 	</row>
 	<row id="msg_0641_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\nOh! Hi, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Ayo, this is Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
 	</row>
 	<row id="msg_0641_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\nOh! Hi, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Ayo, this is Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
 	</row>
 	<row id="msg_0641_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0641_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m thinking of going to the Game Corner\ntomorrow. It’s been a while.\rYou know, I have this great strategy\nfor playing...\fI always do great!\rHuh? Nuh-uh, it’s my secret!\nYou’ll have to figure it out yourself!\rCatch you later!</language>
+		<language name="English">I’m thinking of finna the Game Corner\ntomorrow. It’s been a while.\rYou know, I have this great strategy\nfor playing...\fI always do great!\rHuh? Nuh-uh, it’s my secret!\nYou’ll have to figure it out yourself!\rCatch you later!</language>
 	</row>
 	<row id="msg_0641_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,39 +54,39 @@
 	</row>
 	<row id="msg_0641_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Hi, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This isn’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This ain’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
 	</row>
 	<row id="msg_0641_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Hi, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This isn’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This ain’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
 	</row>
 	<row id="msg_0641_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I decided to call!\r</language>
 	</row>
 	<row id="msg_0641_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I decided to call!\r</language>
 	</row>
 	<row id="msg_0641_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed someone to chat with!\r</language>
 	</row>
 	<row id="msg_0641_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed someone to chat with!\r</language>
 	</row>
 	<row id="msg_0641_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
 	</row>
 	<row id="msg_0641_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
 	</row>
 	<row id="msg_0641_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other day, I went out to eat with\nDJ Ben! Isn’t that great?\rNot only that, he said the music on my\nshow is cool!\rOh, wow! Like, what should I do?\r...Oops, I have to get ready for my\nshow! I’ll catch you later!</language>
+		<language name="English">The other day, I went out to eat with\nDJ Ben! Isn’t that great?\rNot only that, he said the music on my\nshow is hard!\rOh, wow! Like, what should I do?\r...Oops, I have to get ready for my\nshow! I’ll catch you later!</language>
 	</row>
 	<row id="msg_0641_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0641_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you won the Pokémon Lottery\nheld on the first floor at the Radio\fTower?\rYou get more chances as you trade\nPokémon with different friends.</language>
+		<language name="English">Have you won the Pokémon Lottery\nheld on the first floor at the Radio\fTower?\rYou get more chances as you trade\nPokémon with different homies.</language>
 	</row>
 	<row id="msg_0641_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -146,6 +146,6 @@
 	</row>
 	<row id="msg_0641_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, aren’t you visiting all kinds of\nplaces, helping out Professor Elm?\rThat’s so cool. Seriously, I’m jealous.\rIf I ever got a vacation, I know I’d\njust go traveling all over the place as\fI pleased.\rOh no! Gotta get back to work!\nTalk to you later!</language>
+		<language name="English">Hey, ain’t you visiting all kinds of\nplaces, helping out Professor Elm?\rThat’s so hard. Seriously, I’m jealous.\rIf I ever got a vacation, I know I’d\njust go traveling all over the place as\fI pleased.\rOh no! Gotta get back to work!\nTalk to you later!</language>
 	</row>
 </body>

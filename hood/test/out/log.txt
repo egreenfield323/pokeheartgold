@@ -1,0 +1,6 @@
+keepopen
+hold left 16
+hold right 16
+wait 4
+shot w
+DONE

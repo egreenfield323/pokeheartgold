@@ -201,7 +201,7 @@
 	</row>
 	<row id="msg_0246_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don: Got it? I’m going to win! Don’t\nbother me.</language>
+		<language name="English">Don: Got it? I’m finna win! Don’t\nbother me.</language>
 	</row>
 	<row id="msg_0246_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -261,7 +261,7 @@
 	</row>
 	<row id="msg_0246_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Barry: You should weaken bug Pokémon\nfirst, then throw a Poké Ball.</language>
+		<language name="English">Barry: You should weaken bug Pokémon\nfirst, then throw a Hood Ball.</language>
 	</row>
 	<row id="msg_0246_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -285,7 +285,7 @@
 	</row>
 	<row id="msg_0246_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Josh: I’ve been collecting bug Pokémon\nsince I was just a baby.\rThere’s no way I’m going to lose!</language>
+		<language name="English">Josh: I’ve been collecting bug Pokémon\nsince I was just a baby.\rThere’s no way I’m finna lose!</language>
 	</row>
 	<row id="msg_0246_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -309,7 +309,7 @@
 	</row>
 	<row id="msg_0246_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kipp: I’ve studied bug Pokémon a lot.\nI’m going to win for sure.</language>
+		<language name="English">Kipp: I’ve studied bug Pokémon a lot.\nI’m finna win for sure.</language>
 	</row>
 	<row id="msg_0246_00076" index="76">
 		<attribute name="window_context_name">used</attribute>

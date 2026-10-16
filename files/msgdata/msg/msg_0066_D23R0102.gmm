@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0066_D23R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hi! I’m Buena!\rDo you know about the radio show\ncalled Buena’s Password?\rIf you can tell me the password from\nthe program, you will earn points.\rSave up those points and trade them\nwith that sweet young lady over there\ffor some choice prizes!\rHere you go!\nIt’s your very own point card!\r</language>
+		<language name="English">Buena: Ayo! I’m Buena!\rDo you know about the radio show\ncalled Buena’s Password?\rIf you can tell me the password from\nthe program, you will earn points.\rSave up those points and trade them\nwith that sweet young lady over there\ffor some choice prizes!\rHere you go!\nIt’s your very own point card!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thank you for listening in\nevery day!\r</language>
+		<language name="English">Buena: Good looks for listening in\nevery day!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -62,19 +62,19 @@
 	</row>
 	<row id="msg_0066_D23R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh, wow! Thank you!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
+		<language name="English">Buena: Oh, wow! Good looks!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh, wow! Thank you!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
+		<language name="English">Buena: Oh, wow! Good looks!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thanks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
+		<language name="English">Buena: Good looks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thanks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
+		<language name="English">Buena: Good looks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -159,7 +159,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somebody needs to put a beating on this\nmean Team Rocket!\fLike three years ago even!</language>
+		<language name="English">Somebody needs to put a beating on this\nmean The Feds!\fLike three years ago even!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -187,7 +187,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball</language>
+		<language name="English">Hood Ball</language>
 	</row>
 	<row id="msg_0066_D23R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>

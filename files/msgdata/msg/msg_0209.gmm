@@ -110,15 +110,15 @@
 	</row>
 	<row id="msg_0209_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good morning.\n{STRVAR_1 3, 0, 0}, isn’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
+		<language name="English">Good morning.\n{STRVAR_1 3, 0, 0}, ain’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
 	</row>
 	<row id="msg_0209_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good day.\n{STRVAR_1 3, 0, 0}, isn’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
+		<language name="English">Good day.\n{STRVAR_1 3, 0, 0}, ain’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
 	</row>
 	<row id="msg_0209_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good evening.\n{STRVAR_1 3, 0, 0}, isn’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
+		<language name="English">Good evening.\n{STRVAR_1 3, 0, 0}, ain’t it?\rI have a package for you from your\nmom. Here you go!\r</language>
 	</row>
 	<row id="msg_0209_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

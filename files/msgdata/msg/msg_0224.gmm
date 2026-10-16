@@ -6,135 +6,135 @@
 	</row>
 	<row id="msg_0224_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master Balls</language>
+		<language name="English">OG Balls</language>
 	</row>
 	<row id="msg_0224_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ultra Balls</language>
+		<language name="English">Plug Balls</language>
 	</row>
 	<row id="msg_0224_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great Balls</language>
+		<language name="English">Bando Balls</language>
 	</row>
 	<row id="msg_0224_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Balls</language>
+		<language name="English">Hood Balls</language>
 	</row>
 	<row id="msg_0224_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Balls</language>
+		<language name="English">Zoo Balls</language>
 	</row>
 	<row id="msg_0224_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Net Balls</language>
+		<language name="English">Trap Balls</language>
 	</row>
 	<row id="msg_0224_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dive Balls</language>
+		<language name="English">Pool Balls</language>
 	</row>
 	<row id="msg_0224_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nest Balls</language>
+		<language name="English">Crib Balls</language>
 	</row>
 	<row id="msg_0224_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Repeat Balls</language>
+		<language name="English">Re-Up Balls</language>
 	</row>
 	<row id="msg_0224_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Timer Balls</language>
+		<language name="English">Late Balls</language>
 	</row>
 	<row id="msg_0224_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Luxury Balls</language>
+		<language name="English">Drip Balls</language>
 	</row>
 	<row id="msg_0224_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Premier Balls</language>
+		<language name="English">VIP Balls</language>
 	</row>
 	<row id="msg_0224_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dusk Balls</language>
+		<language name="English">Night Balls</language>
 	</row>
 	<row id="msg_0224_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heal Balls</language>
+		<language name="English">Henny Balls</language>
 	</row>
 	<row id="msg_0224_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Balls</language>
+		<language name="English">Dash Balls</language>
 	</row>
 	<row id="msg_0224_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherish Balls</language>
+		<language name="English">Day1 Balls</language>
 	</row>
 	<row id="msg_0224_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Potions</language>
+		<language name="English">Hennessys</language>
 	</row>
 	<row id="msg_0224_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Antidotes</language>
+		<language name="English">Peptos</language>
 	</row>
 	<row id="msg_0224_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Burn Heals</language>
+		<language name="English">Aloe Veras</language>
 	</row>
 	<row id="msg_0224_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ice Heals</language>
+		<language name="English">Hot Cheetos</language>
 	</row>
 	<row id="msg_0224_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awakenings</language>
+		<language name="English">Red Bulls</language>
 	</row>
 	<row id="msg_0224_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Parlyz Heals</language>
+		<language name="English">Icy Hots</language>
 	</row>
 	<row id="msg_0224_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Full Restores</language>
+		<language name="English">Grey Gooses</language>
 	</row>
 	<row id="msg_0224_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max Potions</language>
+		<language name="English">Ace o Spades</language>
 	</row>
 	<row id="msg_0224_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hyper Potions</language>
+		<language name="English">Patróns</language>
 	</row>
 	<row id="msg_0224_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Super Potions</language>
+		<language name="English">Henny XOs</language>
 	</row>
 	<row id="msg_0224_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Full Heals</language>
+		<language name="English">Grandma Soups</language>
 	</row>
 	<row id="msg_0224_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Revives</language>
+		<language name="English">Smelling Slts</language>
 	</row>
 	<row id="msg_0224_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max Revives</language>
+		<language name="English">Narcans</language>
 	</row>
 	<row id="msg_0224_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fresh Waters</language>
+		<language name="English">Tap Waters</language>
 	</row>
 	<row id="msg_0224_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Soda Pops</language>
+		<language name="English">Red Pops</language>
 	</row>
 	<row id="msg_0224_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemonades</language>
+		<language name="English">Arizona Teas</language>
 	</row>
 	<row id="msg_0224_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moomoo Milks</language>
+		<language name="English">Chocolate Mks</language>
 	</row>
 	<row id="msg_0224_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -154,19 +154,19 @@
 	</row>
 	<row id="msg_0224_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethers</language>
+		<language name="English">Ammo Boxes</language>
 	</row>
 	<row id="msg_0224_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max Ethers</language>
+		<language name="English">Big Ammo Boxes</language>
 	</row>
 	<row id="msg_0224_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elixirs</language>
+		<language name="English">Ammo Crates</language>
 	</row>
 	<row id="msg_0224_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max Elixirs</language>
+		<language name="English">Armories</language>
 	</row>
 	<row id="msg_0224_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -182,39 +182,39 @@
 	</row>
 	<row id="msg_0224_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HP Ups</language>
+		<language name="English">Protein Bars</language>
 	</row>
 	<row id="msg_0224_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proteins</language>
+		<language name="English">Pre-Workouts</language>
 	</row>
 	<row id="msg_0224_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irons</language>
+		<language name="English">Kevlar Vests</language>
 	</row>
 	<row id="msg_0224_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Carbos</language>
+		<language name="English">Air Jordans</language>
 	</row>
 	<row id="msg_0224_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calciums</language>
+		<language name="English">Scopes</language>
 	</row>
 	<row id="msg_0224_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rare Candies</language>
+		<language name="English">Clouts</language>
 	</row>
 	<row id="msg_0224_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Ups</language>
+		<language name="English">Extended Mags</language>
 	</row>
 	<row id="msg_0224_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zincs</language>
+		<language name="English">Steel Plates</language>
 	</row>
 	<row id="msg_0224_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Maxes</language>
+		<language name="English">Drum Mags</language>
 	</row>
 	<row id="msg_0224_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -230,19 +230,19 @@
 	</row>
 	<row id="msg_0224_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Attacks</language>
+		<language name="English">X Hollowpts</language>
 	</row>
 	<row id="msg_0224_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Defends</language>
+		<language name="English">X Vests</language>
 	</row>
 	<row id="msg_0224_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Speeds</language>
+		<language name="English">X Sneakers</language>
 	</row>
 	<row id="msg_0224_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Accuracies</language>
+		<language name="English">X Red Dots</language>
 	</row>
 	<row id="msg_0224_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -306,71 +306,71 @@
 	</row>
 	<row id="msg_0224_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Super Repels</language>
+		<language name="English">Super OppSprs</language>
 	</row>
 	<row id="msg_0224_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max Repels</language>
+		<language name="English">Max OppSprays</language>
 	</row>
 	<row id="msg_0224_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Escape Ropes</language>
+		<language name="English">Uber Codes</language>
 	</row>
 	<row id="msg_0224_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Repels</language>
+		<language name="English">Opp Sprays</language>
 	</row>
 	<row id="msg_0224_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sun Stones</language>
+		<language name="English">Sunglasses</language>
 	</row>
 	<row id="msg_0224_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moon Stones</language>
+		<language name="English">Moon Rocks</language>
 	</row>
 	<row id="msg_0224_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire Stones</language>
+		<language name="English">Lighters</language>
 	</row>
 	<row id="msg_0224_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thunderstones</language>
+		<language name="English">Car Batteries</language>
 	</row>
 	<row id="msg_0224_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water Stones</language>
+		<language name="English">H2O Balloons</language>
 	</row>
 	<row id="msg_0224_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leaf Stones</language>
+		<language name="English">Lawn Mowers</language>
 	</row>
 	<row id="msg_0224_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TinyMushrooms</language>
+		<language name="English">Lil Stacks</language>
 	</row>
 	<row id="msg_0224_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big Mushrooms</language>
+		<language name="English">Big Stacks</language>
 	</row>
 	<row id="msg_0224_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearls</language>
+		<language name="English">Stud Earrings</language>
 	</row>
 	<row id="msg_0224_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big Pearls</language>
+		<language name="English">Big Diamonds</language>
 	</row>
 	<row id="msg_0224_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stardusts</language>
+		<language name="English">Pocket Lint</language>
 	</row>
 	<row id="msg_0224_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Star Pieces</language>
+		<language name="English">Iced Watches</language>
 	</row>
 	<row id="msg_0224_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nuggets</language>
+		<language name="English">Gold Grills</language>
 	</row>
 	<row id="msg_0224_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -622,7 +622,7 @@
 	</row>
 	<row id="msg_0224_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oran Berries</language>
+		<language name="English">Takis</language>
 	</row>
 	<row id="msg_0224_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -630,11 +630,11 @@
 	</row>
 	<row id="msg_0224_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lum Berries</language>
+		<language name="English">Pickles</language>
 	</row>
 	<row id="msg_0224_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sitrus Berries</language>
+		<language name="English">Flamin’ Hots</language>
 	</row>
 	<row id="msg_0224_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -938,7 +938,7 @@
 	</row>
 	<row id="msg_0224_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leftovers</language>
+		<language name="English">Takeout Boxes</language>
 	</row>
 	<row id="msg_0224_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
@@ -1802,7 +1802,7 @@
 	</row>
 	<row id="msg_0224_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bicycles</language>
+		<language name="English">Stolen Bikes</language>
 	</row>
 	<row id="msg_0224_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
@@ -1990,7 +1990,7 @@
 	</row>
 	<row id="msg_0224_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friend Balls</language>
+		<language name="English">Homie Balls</language>
 	</row>
 	<row id="msg_0224_00498" index="498">
 		<attribute name="window_context_name">used</attribute>

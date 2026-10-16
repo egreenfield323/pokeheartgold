@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0424_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Champion Ribbon</language>
+		<language name="English">Kingpin Ribbon</language>
 	</row>
 	<row id="msg_0424_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -322,7 +322,7 @@
 	</row>
 	<row id="msg_0424_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ribbon for clearing the Pokémon League and\nentering the Hall of Fame in another region.</language>
+		<language name="English">Ribbon for clearing the Big League and\nentering the Hall of Fame in another region.</language>
 	</row>
 	<row id="msg_0424_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -714,19 +714,19 @@
 	</row>
 	<row id="msg_0424_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League\nChampion Ribbon</language>
+		<language name="English">Big League\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League\nRunner-up Ribbon</language>
+		<language name="English">Big League\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League\nSemifinalist Ribbon</language>
+		<language name="English">Big League\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League\nParticipation Ribbon</language>
+		<language name="English">Big League\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -790,15 +790,15 @@
 	</row>
 	<row id="msg_0424_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Tokyo\nCommemorative Ribbon</language>
+		<language name="English">Trap House Tokyo\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Osaka\nCommemorative Ribbon</language>
+		<language name="English">Trap House Osaka\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Nagoya\nCommemorative Ribbon</language>
+		<language name="English">Trap House Nagoya\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
@@ -830,7 +830,7 @@
 	</row>
 	<row id="msg_0424_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lots of Friends Ribbon</language>
+		<language name="English">Lots of Homies Ribbon</language>
 	</row>
 	<row id="msg_0424_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
@@ -846,15 +846,15 @@
 	</row>
 	<row id="msg_0424_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Sapporo\nCommemorative Ribbon</language>
+		<language name="English">Trap House Sapporo\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Yokohama\nCommemorative Ribbon</language>
+		<language name="English">Trap House Yokohama\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Fukuoka\nCommemorative Ribbon</language>
+		<language name="English">Trap House Fukuoka\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
@@ -878,7 +878,7 @@
 	</row>
 	<row id="msg_0424_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center Opening\nCommemorative Ribbon</language>
+		<language name="English">Trap House Opening\nCommemorative Ribbon</language>
 	</row>
 	<row id="msg_0424_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
@@ -894,83 +894,83 @@
 	</row>
 	<row id="msg_0424_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2006\nChampion Ribbon</language>
+		<language name="English">Big League 2006\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2006\nRunner-up Ribbon</language>
+		<language name="English">Big League 2006\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2006\nSemifinalist Ribbon</language>
+		<language name="English">Big League 2006\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2006\nParticipation Ribbon</language>
+		<language name="English">Big League 2006\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2007\nChampion Ribbon</language>
+		<language name="English">Big League 2007\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2007\nRunner-up Ribbon</language>
+		<language name="English">Big League 2007\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2007\nSemifinalist Ribbon</language>
+		<language name="English">Big League 2007\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2007\nParticipation Ribbon</language>
+		<language name="English">Big League 2007\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2008\nChampion Ribbon</language>
+		<language name="English">Big League 2008\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2008\nRunner-up Ribbon</language>
+		<language name="English">Big League 2008\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2008\nSemifinalist Ribbon</language>
+		<language name="English">Big League 2008\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2008\nParticipation Ribbon</language>
+		<language name="English">Big League 2008\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2009\nChampion Ribbon</language>
+		<language name="English">Big League 2009\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2009\nRunner-up Ribbon</language>
+		<language name="English">Big League 2009\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2009\nSemifinalist Ribbon</language>
+		<language name="English">Big League 2009\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2009\nParticipation Ribbon</language>
+		<language name="English">Big League 2009\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2010\nChampion Ribbon</language>
+		<language name="English">Big League 2010\nChampion Ribbon</language>
 	</row>
 	<row id="msg_0424_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2010\nRunner-up Ribbon</language>
+		<language name="English">Big League 2010\nRunner-up Ribbon</language>
 	</row>
 	<row id="msg_0424_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2010\nSemifinalist Ribbon</language>
+		<language name="English">Big League 2010\nSemifinalist Ribbon</language>
 	</row>
 	<row id="msg_0424_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League 2010\nParticipation Ribbon</language>
+		<language name="English">Big League 2010\nParticipation Ribbon</language>
 	</row>
 	<row id="msg_0424_00243" index="243">
 		<attribute name="window_context_name">used</attribute>

@@ -2,75 +2,75 @@
 <body language="English">
 	<row id="msg_0377_R30R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}.\rIt was I who sent an email\nto Professor Elm earlier.\r</language>
+		<language name="English">You gotta be {STRVAR_1 3, 0, 0}.\rI’m the one who emailed\nElm at 4 AM.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}.\rIt was I who sent an email\nto Professor Elm earlier.\r</language>
+		<language name="English">You gotta be {STRVAR_1 3, 0, 0}.\rI’m the one who emailed\nElm at 4 AM.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is what I want Professor Elm\nto examine.\r</language>
+		<language name="English">This what I need Elm\nto look at. Don’t shake it.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A friend of mine from Ecruteak gave\nit to me.\rI bet you can’t find this kind of\nEgg in Johto.\rI thought Professor Elm might be able\nto tell what this is.\r“He’s the best when it comes to the\nresearch of Pokémon evolution.”\rThat’s a quote from the famous\nProfessor Oak.\r</language>
+		<language name="English">My guy from Ecruteak gave\nit to me. Didn’t ask questions.\rI bet you can’t find this kinda\nEgg nowhere in Johto.\rI figured Elm could tell\nwhat it is. If he awake.\r“Elm the best when it come to\nPokémon evolution research.”\rThat’s a quote from the famous\nProfessor Oak. He was high.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are returning to Professor Elm?\rHere. Your Pokémon should have\nsome rest.\r</language>
+		<language name="English">You goin’ back to Elm?\rHere. Let your homies\nrest up first.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to trouble you, having you go\nback and forth.\rBut please make sure to hand it to\nProfessor Elm!</language>
+		<language name="English">My bad for havin’ you run back\nand forth like a lookout.\rBut make sure you give it to\nElm! Don’t sell it!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Life is delightful!\nAlways, new discoveries to be made!</language>
+		<language name="English">Life is beautiful!\nAlways somethin’ new to find!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls? What’re you talking\nabout? I don’t know such people.\fHee hee...\r</language>
+		<language name="English">Kimono Girls? What you\ntalkin’ ’bout? I don’t know ’em.\fHee hee...\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: And with that...\rI’m Professor Oak, a Pokémon\nresearcher!\rSo you’re {STRVAR_1 3, 0, 0}!\rI was just visiting my friend\nMr. Pokémon.\rI heard you were running an errand\nfor Professor Elm, so I waited here.\r</language>
+		<language name="English">Professor Oak: *sniff* Aight then...\rI’m Professor Oak, a Pokémon\nresearcher! Don’t look at my drawers.\rSo you {STRVAR_1 3, 0, 0}!\rI was just visitin’ my homie\nMr. Pokémon. He got the good stuff.\rI heard you was runnin’ an errand\nfor Elm, so I waited. *SNIFF*\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: And with that...\rI’m Professor Oak, a Pokémon\nresearcher!\rSo you’re {STRVAR_1 3, 0, 0}!\rI was just visiting my friend\nMr. Pokémon.\rI heard you were running an errand\nfor Professor Elm, so I waited here.\r</language>
+		<language name="English">Professor Oak: *sniff* Aight then...\rI’m Professor Oak, a Pokémon\nresearcher! Don’t look at my drawers.\rSo you {STRVAR_1 3, 0, 0}!\rI was just visitin’ my homie\nMr. Pokémon. He got the good stuff.\rI heard you was runnin’ an errand\nfor Elm, so I waited. *SNIFF*\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Oh! What’s this?\nA rare Pokémon!\rI see!\nYou must be helping Professor Elm’s\fresearch! I think I understand why\fProfessor Elm gave you that Pokémon.\rYou will treat your Pokémon with love\nand care, it seems.\r</language>
+		<language name="English">Professor Oak: Oh! What’s this?\nA rare homie!\rI see!\nYou helpin’ with Elm’s\fresearch! Now I know why\fElm gave you that homie.\rYou gon’ treat your homies with\nlove. I can tell. *sniff*\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: ...Ah!\rYou seem to be dependable.\nHow would you like to help me out?\rSee? This is the latest version of\nthe Pokédex.\rIt automatically records data on\nPokémon you’ve seen or caught.\rIt’s a high-tech encyclopedia!\nI’d like you to have it.\r</language>
+		<language name="English">Professor Oak: ...Ah!\rYou seem solid.\nHow ’bout you help me out?\rSee? This the newest\nPokédex. Fell off a truck.\rIt keep track of every\nhomie you seen or recruited.\rIt’s high-tech! Like me!\nI want you to have it.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the Pokédex\nfrom Professor Oak!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got the Pokédex\nfrom Professor Oak! It’s sticky.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go meet many kinds of Pokémon and\ncomplete that Pokédex!\fBut I’ve stayed too long.\rI have to get to Goldenrod for my\nusual radio show.\r{STRVAR_1 3, 0, 0}, I have a feeling that\nthis is not the last time we’ll meet...\rLet’s exchange numbers\njust to be on the safe side.\r</language>
+		<language name="English">Go meet all kinda homies and\nfill up that Pokédex!\fBut I been here too long.\rI gotta get to Goldenrod for my\nradio show. Live. Like this.\r{STRVAR_1 3, 0, 0}, I got a feelin’\nwe gon’ see each other again...\rLet’s swap numbers.\nJust in case. *sniff*\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go meet many kinds of Pokémon and\ncomplete that Pokédex!\fBut I’ve stayed too long.\rI have to get to Goldenrod for my\nusual radio show.\r{STRVAR_1 3, 0, 0}, I have a feeling that\nthis is not the last time we’ll meet...\rLet’s exchange numbers\njust to be on the safe side.\r</language>
+		<language name="English">Go meet all kinda homies and\nfill up that Pokédex!\fBut I been here too long.\rI gotta get to Goldenrod for my\nradio show. Live. Like this.\r{STRVAR_1 3, 0, 0}, I got a feelin’\nwe gon’ see each other again...\rLet’s swap numbers.\nJust in case. *sniff*\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Professor Oak\nin the Pokégear!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Professor Oak\nin the Pokégear as “Oak (No Pants)”!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I want it...\r{STRVAR_1 3, 0, 0}, would you\ncare to trade it?\rI can offer this Exp. Share I got\nfrom Professor Oak. {YESNO 0}</language>
+		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I NEED it...\r{STRVAR_1 3, 0, 0}, you\ntryna trade?\rI got this Exp. Share I got\nfrom Oak. Don’t ask. {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I want it...\r{STRVAR_1 3, 0, 0}, would you\ncare to trade it?\rI can offer this Exp. Share I got\nfrom Professor Oak. {YESNO 0}</language>
+		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I NEED it...\r{STRVAR_1 3, 0, 0}, you\ntryna trade?\rI got this Exp. Share I got\nfrom Oak. Don’t ask. {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -79,50 +79,50 @@
 	</row>
 	<row id="msg_0377_R30R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh, I reckon yer Bag’s full.</language>
+		<language name="English">Your Bag full, youngblood.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s disappointing.\nThat happens to be very rare.</language>
+		<language name="English">That’s a shame.\nThat thing real rare.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rI have something I want you to have\nand was just about to send an email\fto Professor Oak.\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\rI got somethin’ for you.\nWas just ’bout to email\fOak. He up anyway.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rI have something I want you to have\nand was just about to send an email\fto Professor Oak.\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\rI got somethin’ for you.\nWas just ’bout to email\fOak. He up anyway.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The thing is...\nA friend of mine from Hoenn\fcame over to give this to me.\r</language>
+		<language name="English">Thing is...\nMy guy from Hoenn\fcame through with this.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Blue Orb!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Blue Orb!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Red Orb!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Red Orb!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Orb has something to do with\nthe ancient ruins located past\fCianwood City, called the\fEmbedded Tower.\rBut only a handful of Trainers can\nreach there...\rThat’s where you come in.\rProfessor Oak thinks highly of you,\nand you are the proud Champion\fafter all.\rI’m sure you can solve the mystery\nof the Orb and the secret of the ruins.</language>
+		<language name="English">That Orb got somethin’ to do with\nthe old ruins past\fCianwood City, called the\fEmbedded Tower.\rBut only a few hustlers can\nmake it out there...\rThat’s where you come in.\rOak think real high of you.\nHe think high of everything.\fBut you the Kingpin now.\rYou can figure out the Orb\nand what’s in them ruins.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Embedded Tower is past Cianwood,\nsomewhere in the Cliff Cave.\rOr so I heard.\rOr so I remember.\rOr so I believe!</language>
+		<language name="English">The Embedded Tower past Cianwood,\nsomewhere in Cliff Cave.\rOr so I heard.\rOr so I remember.\rOr so I hallucinated!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s packed with foreign magazines.\rCan’t even read their titles...</language>
+		<language name="English">It’s full of foreign magazines.\rCan’t even read the covers...</language>
 	</row>
 	<row id="msg_0377_R30R0201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a big computer.\nHmm. It’s broken.</language>
+		<language name="English">A big computer.\nHmm. Somebody took the hard drive.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A whole pile of strange coins!\fMaybe they’re from another country...</language>
+		<language name="English">A whole pile of weird coins!\fProbably from a laundromat...</language>
 	</row>
 </body>

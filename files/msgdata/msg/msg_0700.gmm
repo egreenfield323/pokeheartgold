@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0700_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! Are you here for your gift?\rThis should really make your day!\r</language>
+		<language name="English">Ayo! Are you here for your gift?\rThis should really make your day!\r</language>
 	</row>
 	<row id="msg_0700_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, tell me, don’t you think that the\nsight of a girl on the phone is charming?\rIt’s not?\rHa ha ha, you’re nearby, aren’t you?\nWhy not come over here and talk in\fperson?</language>
+		<language name="English">Hey, tell me, don’t you think that the\nsight of a girl on the phone is charming?\rIt’s not?\rHa ha ha, you’re nearby, ain’t you?\nWhy not come over here and talk in\fperson?</language>
 	</row>
 	<row id="msg_0700_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0700_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! You haven’t forgotten about your\npromise to battle me, have you?\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Ayo! You haven’t forgotten about your\npromise to battle me, have you?\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0700_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,6 +54,6 @@
 	</row>
 	<row id="msg_0700_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rIf you don’t come and get your present\nsoon, I’ll give it to someone else.\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Wassup?\rIf you don’t come and get your present\nsoon, I’ll give it to someone else.\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

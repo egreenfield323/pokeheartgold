@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0646_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hiya, what’s up?\fThings are sweet over here!\r</language>
+		<language name="English">Wassup...\nOh, hiya, what’s up?\fThings are sweet over here!\r</language>
 	</row>
 	<row id="msg_0646_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a lot of Gym Leaders who are\nway stronger than me.\fWe’ve both got to work harder!</language>
+		<language name="English">There’s a lot of Block Bosses who are\nway stronger than me.\fWe’ve both got to work harder!</language>
 	</row>
 	<row id="msg_0646_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0646_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you do on your days off?\rI like to tend to the plants in my Gym,\ntransplanting them and dusting\foff the flowers and leaves with a brush.\fIt keeps me pretty busy...</language>
+		<language name="English">What do you do on your days off?\rI like to tend to the plants in my\nBlock, transplanting them and dusting\foff the flowers and leaves with a brush.\fIt keeps me pretty busy...</language>
 	</row>
 </body>

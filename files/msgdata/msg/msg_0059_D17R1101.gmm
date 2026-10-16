@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0059_D17R1101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Hi, it’s you!\rHow about taking a picture\nhere with me as a memento? {YESNO 0}</language>
+		<language name="English">Morty: Ayo, it’s you!\rHow about taking a picture\nhere with me as a memento? {YESNO 0}</language>
 	</row>
 	<row id="msg_0059_D17R1101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

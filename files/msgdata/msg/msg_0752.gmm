@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0752_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Oh no! Today isn’t Monday.\nSee you another time!</language>
+		<language name="English">Monica: Oh no! Today ain’t Monday.\nSee you another time!</language>
 	</row>
 	<row id="msg_0752_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0752_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Hi! I’m Sunny of Sunday, meaning\nit’s Sunday today!\rI was told to give you this if I saw you!\r</language>
+		<language name="English">Sunny: Ayo! I’m Sunny of Sunday, meaning\nit’s Sunday today!\rI was told to give you this if I saw you!\r</language>
 	</row>
 	<row id="msg_0752_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0752_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Alert Ribbon!\r</language>
+		<language name="English">Monica: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Alert Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0752_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Shock Ribbon!\r</language>
+		<language name="English">Tuscany: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Shock Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0752_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Downcast Ribbon!\r</language>
+		<language name="English">Wesley: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Downcast Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0752_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Hey, you found all of my\nsiblings, didn’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Careless Ribbon!\r</language>
+		<language name="English">Arthur: Hey, you found all of my\nsiblings, didn’t you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Careless Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0752_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Hey, you’re the one who found\nall of my siblings, aren’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Relax Ribbon!\r</language>
+		<language name="English">Frieda: Hey, you’re the one who found\nall of my siblings, ain’t you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Relax Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -194,7 +194,7 @@
 	</row>
 	<row id="msg_0752_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\nYou found all of my siblings...\rWe’re pretty good friends...\n...Right?\rHere... Have this Snooze Ribbon...\r</language>
+		<language name="English">Santos: ...\nYou found all of my siblings...\rWe’re pretty good homies...\n...Right?\rHere... Have this Snooze Ribbon...\r</language>
 	</row>
 	<row id="msg_0752_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -210,7 +210,7 @@
 	</row>
 	<row id="msg_0752_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Hey, you found all of my siblings!\rWe’re pretty good friends now, right?\rSince we’re such good friends, I’ll give\nyou this Smile Ribbon!\r</language>
+		<language name="English">Sunny: Hey, you found all of my siblings!\rWe’re pretty good homies now, right?\rSince we’re such good homies, I’ll give\nyou this Smile Ribbon!\r</language>
 	</row>
 	<row id="msg_0752_00053" index="53">
 		<attribute name="window_context_name">used</attribute>

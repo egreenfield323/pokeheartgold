@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0512_T08_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One of the Elite Four used to be\nthe Leader of Fuchsia’s Gym.</language>
+		<language name="English">One of the Elite Four used to be\nthe Leader of Fuchsia’s Block.</language>
 	</row>
 	<row id="msg_0512_T08_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Koga’s daughter succeeded him as\nthe Gym Leader after he joined\fthe Elite Four.</language>
+		<language name="English">Koga’s daughter succeeded him as\nthe Block Boss after he joined\fthe Elite Four.</language>
 	</row>
 	<row id="msg_0512_T08_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0512_T08_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City Pokémon Gym\nLeader: Janine\fThe Poisonous Ninja Master</language>
+		<language name="English">Fuchsia City block\nLeader: Janine\fThe Poisonous Ninja Master</language>
 	</row>
 	<row id="msg_0512_T08_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

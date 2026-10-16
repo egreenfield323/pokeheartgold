@@ -210,7 +210,7 @@
 	</row>
 	<row id="msg_0280_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center</language>
+		<language name="English">Trap House</language>
 	</row>
 	<row id="msg_0280_00053" index="53">
 		<attribute name="window_context_name">used</attribute>

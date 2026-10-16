@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0451_T01R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Trainers\nout here?\fPretty tough, huh?\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Hustlers\nout here?\fPretty tough, huh?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Trainers\nout here?\fPretty tough, huh?\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Hustlers\nout here?\fPretty tough, huh?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -27,23 +27,23 @@
 	</row>
 	<row id="msg_0451_T01R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Those Badges are...\rWow! You have not only become the\nJohto Champion, but you’ve collected\fall the Kanto Badges! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Pokémon League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
+		<language name="English">Professor Oak: Those Chains are...\rWow! You have not only become the\nJohto Kingpin, but you’ve collected\fall the Kanto Chains! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Those Badges are...\rWow! You have not only become the\nJohto Champion, but you’ve collected\fall the Kanto Badges! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Pokémon League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
+		<language name="English">Professor Oak: Those Chains are...\rWow! You have not only become the\nJohto Kingpin, but you’ve collected\fall the Kanto Chains! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hmm? You’re not\ncollecting Kanto Gym Badges?\rThe Gym Leaders in Kanto are as tough\nas any you battled in Johto.\fI recommend that you challenge them.\r</language>
+		<language name="English">Professor Oak: Hmm? You’re not\ncollecting Kanto Block Chains?\rThe Block Bosses in Kanto are as tough\nas any you battled in Johto.\fI recommend that you challenge them.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Gym Badges.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Block Chains.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Gym Badges.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Block Chains.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -99,11 +99,11 @@
 	</row>
 	<row id="msg_0451_T01R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -136,7 +136,7 @@
 	</row>
 	<row id="msg_0451_T01R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Professor’s Pokémon Talk\nradio show is aired here and\fin Johto as well.\rProfessor Oak is so...cool!</language>
+		<language name="English">The Professor’s Pokémon Talk\nradio show is aired here and\fin Johto as well.\rProfessor Oak is so...hard!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -160,11 +160,11 @@
 	</row>
 	<row id="msg_0451_T01R0301_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00041" index="41">
 		<attribute name="window_context_name">used</attribute>

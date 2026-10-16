@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0180_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">League Champion! Congratulations!</language>
+		<language name="English">League Kingpin! Congratulations!</language>
 	</row>
 	<row id="msg_0180_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

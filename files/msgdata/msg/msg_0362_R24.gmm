@@ -11,11 +11,11 @@
 	</row>
 	<row id="msg_0362_R24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. Tell you mine secret will I.\rMachine Part steal by me. Hide it\nI did in Gym of the Cerulean.\rNear inflatable tube put it I did.\nLook for Gym at.\rBut you forget me not!\nBeat you for sure will Team Rocket.\rCome from Johto will they, mine\nallies, yes. Will revenge they are.\r</language>
+		<language name="English">OK. Tell you mine secret will I.\rMachine Part steal by me. Hide it\nI did in Block of the Cerulean.\rNear inflatable tube put it I did.\nLook for Block at.\rBut you forget me not!\nBeat you for sure will The Feds.\rCome from Johto will they, mine\nallies, yes. Will revenge they are.\r</language>
 	</row>
 	<row id="msg_0362_R24_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou say what? Team Rocket bye-bye\na go-go? Broken up it is says you?\rOh, no! Should I do what now on\nfrom, me?\r...OK.\rI my country go home.\rMake Team Rocket I will.\nGood-bye! So long!\r</language>
+		<language name="English">...\rYou say what? The Feds bye-bye\na go-go? Broken up it is says you?\rOh, no! Should I do what now on\nfrom, me?\r...OK.\rI my country go home.\rMake The Feds I will.\nGood-bye! So long!\r</language>
 	</row>
 	<row id="msg_0362_R24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -39,6 +39,6 @@
 	</row>
 	<row id="msg_0362_R24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just keep on going. Thank you.\nNo need to spoil this chemistry.</language>
+		<language name="English">Just keep on going. Good looks.\nNo need to spoil this chemistry.</language>
 	</row>
 </body>

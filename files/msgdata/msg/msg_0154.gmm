@@ -258,11 +258,11 @@
 	</row>
 	<row id="msg_0154_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1 vs 1 Trainer</language>
+		<language name="English">1 vs 1 Hustler</language>
 	</row>
 	<row id="msg_0154_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2 vs 2 Trainer</language>
+		<language name="English">2 vs 2 Hustler</language>
 	</row>
 	<row id="msg_0154_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -470,7 +470,7 @@
 	</row>
 	<row id="msg_0154_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Champion</language>
+		<language name="English">Kingpin</language>
 	</row>
 	<row id="msg_0154_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -570,7 +570,7 @@
 	</row>
 	<row id="msg_0154_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Champion</language>
+		<language name="English">Kingpin</language>
 	</row>
 	<row id="msg_0154_00143" index="143">
 		<attribute name="window_context_name">used</attribute>

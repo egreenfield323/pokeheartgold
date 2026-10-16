@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0644_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nUm, hey, what’s up?\fI’m doing great over here...totally!\r</language>
+		<language name="English">Wassup...\nUm, hey, what’s up?\fI’m doing great over here...totally!\r</language>
 	</row>
 	<row id="msg_0644_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many Gym Leaders that are\nstronger than me... Um, I really need\fto work harder and improve!</language>
+		<language name="English">There are so many Block Bosss that are\nstronger than me... Um, I really need\fto work harder and improve!</language>
 	</row>
 	<row id="msg_0644_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

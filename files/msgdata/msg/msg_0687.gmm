@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0687_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Thanks!</language>
+		<language name="English">Hey! Good looks!</language>
 	</row>
 	<row id="msg_0687_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0687_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? We made plans to meet on\n{STRVAR_1 4, 3, 0} for a battle, right?\fHey! Hurry up and get here.</language>
+		<language name="English">Wassup? We made plans to meet on\n{STRVAR_1 4, 3, 0} for a battle, right?\fHey! Hurry up and get here.</language>
 	</row>
 	<row id="msg_0687_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

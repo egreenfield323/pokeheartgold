@@ -587,7 +587,7 @@
 	</row>
 	<row id="msg_0274_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re aiming to be Champion,\nyou’ll want to walk this Route!\nYou’ll meet strong Pokémon!</language>
+		<language name="English">If you’re aiming to be Kingpin,\nyou’ll want to walk this Route!\nYou’ll meet strong Pokémon!</language>
 	</row>
 	<row id="msg_0274_00145" index="145">
 		<attribute name="window_context_name">used</attribute>

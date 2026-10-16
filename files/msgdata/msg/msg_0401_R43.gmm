@@ -96,7 +96,7 @@
 	</row>
 	<row id="msg_0401_R43_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rAll Pokémon have pros and cons\ndepending on their types.\rIf their types differ, even a higher-\nlevel Pokémon may lose in battle.\rLearn which types are strong or\nweak against your Pokémon’s type.</language>
+		<language name="English">Hustler Tips\rAll Pokémon have pros and cons\ndepending on their types.\rIf their types differ, even a higher-\nlevel Pokémon may lose in battle.\rLearn which types are strong or\nweak against your Pokémon’s type.</language>
 	</row>
 	<row id="msg_0401_R43_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

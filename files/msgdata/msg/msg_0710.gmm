@@ -50,6 +50,6 @@
 	</row>
 	<row id="msg_0710_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that today’s the\nBug-Catching Competition?\rI’m not that into Bug-type Pokémon,\nbut the National Park isn’t that far\ffrom Route 35...\fI thought I might go check it out.</language>
+		<language name="English">Did you know that today’s the\nBug-Catching Competition?\rI’m not that into Bug-type Pokémon,\nbut the National Park ain’t that far\ffrom Route 35...\fI thought I might go check it out.</language>
 	</row>
 </body>

@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0355_R16R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello. Would you like to hear\na trendy saying? {YESNO 0}</language>
+		<language name="English">Wassup, hello. Would you like to hear\na trendy saying? {YESNO 0}</language>
 	</row>
 	<row id="msg_0355_R16R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,6 +22,6 @@
 	</row>
 	<row id="msg_0355_R16R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello. Are you using\ntrendy sayings?</language>
+		<language name="English">Wassup, hello. Are you using\ntrendy sayings?</language>
 	</row>
 </body>

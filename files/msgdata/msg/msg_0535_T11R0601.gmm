@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks to someone who got the\nPower Plant up and running,\fthe Magnet Train is available again!\rPassengers need to go through the\ngate for the automatic ticket check...\r</language>
+		<language name="English">Good looks to someone who got the\nPower Plant up and running,\fthe Magnet Train is available again!\rPassengers need to go through the\ngate for the automatic ticket check...\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Magnet Train is a super-modern\nrail liner that uses electricity and\fmagnets to attain incredible speeds.\rHowever, there isn’t any electricity.\nIt’s just an iron box.</language>
+		<language name="English">The Magnet Train is a super-modern\nrail liner that uses electricity and\fmagnets to attain incredible speeds.\rHowever, there ain’t any electricity.\nIt’s just an iron box.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Wow! Electrifying!\nLet’s trade ’em now!\r</language>
+		<language name="English">Lt. Surge: Sheesh! Electrifying!\nLet’s trade ’em now!\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -74,6 +74,6 @@
 	</row>
 	<row id="msg_0535_T11R0601_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We request that you make sure your\nPokémon are well behaved or put away\fin their Poké Balls so they won’t lick\fother passengers’ faces.\fThank you.</language>
+		<language name="English">We request that you make sure your\nPokémon are well behaved or put away\fin their Hood Balls so they won’t lick\fother passengers’ faces.\fThank you.</language>
 	</row>
 </body>

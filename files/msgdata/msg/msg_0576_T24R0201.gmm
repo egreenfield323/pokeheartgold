@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0576_T24R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, thank you!\nTake good care of it, please!\r</language>
+		<language name="English">Oh, good looks!\nTake good care of it, please!\r</language>
 	</row>
 	<row id="msg_0576_T24R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0576_T24R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! How’s my Pokémon?\rI think I’m safe now, so may I have\nit back? {YESNO 0}</language>
+		<language name="English">Ayo! How’s my Pokémon?\rI think I’m safe now, so may I have\nit back? {YESNO 0}</language>
 	</row>
 	<row id="msg_0576_T24R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! How’s my Pokémon?</language>
+		<language name="English">Ayo! How’s my Pokémon?</language>
 	</row>
 	<row id="msg_0576_T24R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!</language>
+		<language name="English">Good looks!</language>
 	</row>
 	<row id="msg_0576_T24R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0576_T24R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIts Poké Ball has a Ball Capsule on it!\fPlease remove it.</language>
+		<language name="English">Huh?\nIts Hood Ball has a Ball Capsule on it!\fPlease remove it.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

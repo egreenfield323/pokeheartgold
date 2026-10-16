@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0407_R47_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A masked guy who looks great in front\nof a huge torrential waterfall...\fThat’s me, Crasher Wake!\rWho dares to talk to me so freely?\rOh!\nYou are that mask-fanatic Trainer\fI saw at the Celadon Dept. Store!\r</language>
+		<language name="English">A masked guy who looks great in front\nof a huge torrential waterfall...\fThat’s me, Crasher Wake!\rWho dares to talk to me so freely?\rOh!\nYou are that mask-fanatic Hustler\fI saw at the Celadon Dept. Store!\r</language>
 	</row>
 	<row id="msg_0407_R47_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0407_R47_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: You must be a Trainer from this\nregion, right?\rI hope you’ll become a Trainer\nwith the qualities of water--\fstrong, tough to beat, yet\frefreshing.\rGood luck, mask-fanatic {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wake: You must be a Hustler from this\nregion, right?\rI hope you’ll become a Hustler\nwith the qualities of water--\fstrong, tough to beat, yet\frefreshing.\rGood luck, mask-fanatic {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0407_R47_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

@@ -6,23 +6,23 @@
 	</row>
 	<row id="msg_0683_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m researching Gym Leaders for a\nproject at school!\rYou can get the Gym Leaders’ phone\nnumbers, so you can talk to them\foutside of the Gym!\rHey, we should trade phone\nnumbers! {YESNO 0}</language>
+		<language name="English">I’m researching Block Bosses for a\nproject at school!\rYou can get the Block Bosses’ phone\nnumbers, so you can talk to them\foutside of the Block!\rHey, we should trade phone\nnumbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0683_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leaders’ locations and times\nchange, so I’ll let you know by phone!</language>
+		<language name="English">The Block Bosses’ locations and times\nchange, so I’ll let you know by phone!</language>
 	</row>
 	<row id="msg_0683_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Don’t you want to know anything\nabout Gym Leaders?</language>
+		<language name="English">Huh? Don’t you want to know anything\nabout Block Bosses?</language>
 	</row>
 	<row id="msg_0683_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it. I knew you’d want to\nknow about the Gym Leaders! {YESNO 0}</language>
+		<language name="English">I knew it. I knew you’d want to\nknow about the Block Bosses! {YESNO 0}</language>
 	</row>
 	<row id="msg_0683_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you’re nearby, aren’t you?\nSo we should talk face-to-face!</language>
+		<language name="English">Hey, you’re nearby, ain’t you?\nSo we should talk face-to-face!</language>
 	</row>
 	<row id="msg_0683_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0683_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine delivers dinner to her father\nevery evening. You can always find her\fat the Pokémon League Reception Gate\fin the late afternoon!</language>
+		<language name="English">Janine delivers dinner to her father\nevery evening. You can always find her\fat the Big League Reception Gate\fin the late afternoon!</language>
 	</row>
 	<row id="msg_0683_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0683_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Gym’s leader Blaine really\nthinks a lot about the town of\fCinnabar, you know?\rEvery Tuesday morning he sits on the\nsite where the Cinnabar Gym once was\fand contemplates.</language>
+		<language name="English">Cinnabar Block’s leader Blaine really\nthinks a lot about the town of\fCinnabar, you know?\rEvery Tuesday morning he sits on the\nsite where the Cinnabar Block once was\fand contemplates.</language>
 	</row>
 	<row id="msg_0683_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter Gym’s Leader Brock really loves\nrocks!\rHe goes into DIGLETT’s Cave every day\npast noon.</language>
+		<language name="English">Pewter Block’s Leader Brock really\nloves rocks!\rHe goes into DIGLETT’s Cave every day\npast noon.</language>
 	</row>
 	<row id="msg_0683_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0683_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty’s always looking at the\nBell Tower, isn’t he?\rHe’s just been engrossed by that one\nthing. To the point that he became a\fGym Leader.</language>
+		<language name="English">Morty’s always looking at the\nBell Tower, ain’t he?\rHe’s just been engrossed by that one\nthing. To the point that he became a\fBlock Boss.</language>
 	</row>
 	<row id="msg_0683_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,10 +74,10 @@
 	</row>
 	<row id="msg_0683_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that all right?\nWe’re going to battle again on\f{STRVAR_1 4, 3, 0}! Hurry up already!</language>
+		<language name="English">Is that all right?\nWe’re finna battle again on\f{STRVAR_1 4, 3, 0}! Hurry up already!</language>
 	</row>
 	<row id="msg_0683_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If anything about the Gym Leaders\nchanges, I’ll be sure to call you!</language>
+		<language name="English">If anything about the Block Bosses\nchanges, I’ll be sure to call you!</language>
 	</row>
 </body>

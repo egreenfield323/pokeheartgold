@@ -150,35 +150,35 @@
 	</row>
 	<row id="msg_0165_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM ハヤト</language>
+		<language name="English">BLOCK ハヤト</language>
 	</row>
 	<row id="msg_0165_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM ツクシ</language>
+		<language name="English">BLOCK ツクシ</language>
 	</row>
 	<row id="msg_0165_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM アカネ</language>
+		<language name="English">BLOCK アカネ</language>
 	</row>
 	<row id="msg_0165_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM マツバ</language>
+		<language name="English">BLOCK マツバ</language>
 	</row>
 	<row id="msg_0165_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM ミカン</language>
+		<language name="English">BLOCK ミカン</language>
 	</row>
 	<row id="msg_0165_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM シジマ</language>
+		<language name="English">BLOCK シジマ</language>
 	</row>
 	<row id="msg_0165_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM ヤナギ</language>
+		<language name="English">BLOCK ヤナギ</language>
 	</row>
 	<row id="msg_0165_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM イブキ</language>
+		<language name="English">BLOCK イブキ</language>
 	</row>
 	<row id="msg_0165_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -238,35 +238,35 @@
 	</row>
 	<row id="msg_0165_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM タケシ</language>
+		<language name="English">BLOCK タケシ</language>
 	</row>
 	<row id="msg_0165_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM カスミ</language>
+		<language name="English">BLOCK カスミ</language>
 	</row>
 	<row id="msg_0165_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM マチス</language>
+		<language name="English">BLOCK マチス</language>
 	</row>
 	<row id="msg_0165_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM エリカ</language>
+		<language name="English">BLOCK エリカ</language>
 	</row>
 	<row id="msg_0165_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM アンズ</language>
+		<language name="English">BLOCK アンズ</language>
 	</row>
 	<row id="msg_0165_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM ナツメ</language>
+		<language name="English">BLOCK ナツメ</language>
 	</row>
 	<row id="msg_0165_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM カツラ</language>
+		<language name="English">BLOCK カツラ</language>
 	</row>
 	<row id="msg_0165_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GYM グリ－ン</language>
+		<language name="English">BLOCK グリ－ン</language>
 	</row>
 	<row id="msg_0165_00067" index="67">
 		<attribute name="window_context_name">used</attribute>

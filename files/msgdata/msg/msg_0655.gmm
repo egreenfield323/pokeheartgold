@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0655_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nAnything new going on with you?\fI’m the same as usual.\r</language>
+		<language name="English">Wassup...\nAnything new going on with you?\fI’m the same as usual.\r</language>
 	</row>
 	<row id="msg_0655_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are stronger Gym Leaders\nthan me, you know. That’s no good!</language>
+		<language name="English">There are stronger Block Bosses\nthan me, you know. That’s no good!</language>
 	</row>
 	<row id="msg_0655_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -50,14 +50,14 @@
 	</row>
 	<row id="msg_0655_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you a little about a Psychic’s\ntraining.\rPsychic ability is the power to influence\npeople.\rYou close your eyes and clear your mind\nof excessive thoughts...then you look\fhard at your sleeping self.\rThat’s it.\rTrue Psychics aren’t the kind who can\nmove things around with their minds.\rIt’s about controlling your own mind.</language>
+		<language name="English">I’ll tell you a little about a Psychic’s\ntraining.\rPsychic ability is the power to influence\npeople.\rYou close your eyes and clear your mind\nof excessive thoughts...then you look\fhard at your sleeping self.\rThat’s it.\rTrue Psychics ain’t the kind who can\nmove things around with their minds.\rIt’s about controlling your own mind.</language>
 	</row>
 	<row id="msg_0655_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You... You’ll become even stronger\nthan you are now, I know it...\rYou will defeat every Trainer you face\nand eventually reach the\fglowing glory...\rI just wanted to tell you that.\nTalk to you later!</language>
+		<language name="English">You... You’ll become even stronger\nthan you are now, I know it...\rYou will defeat every Hustler you face\nand eventually reach the\fglowing glory...\rI just wanted to tell you that.\nTalk to you later!</language>
 	</row>
 	<row id="msg_0655_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are a great Trainer, with a good\nbalance between intellect, power, and\fyour heart.\rBut above all, the power of your heart\nis what is special.\rWhat do you think of honestly trying to\nstudy how to be a Psychic once to see?\rI bet you could become a better Psychic\nthan me if you tried...</language>
+		<language name="English">You are a great Hustler, with a good\nbalance between intellect, power, and\fyour heart.\rBut above all, the power of your heart\nis what is special.\rWhat do you think of honestly trying to\nstudy how to be a Psychic once to see?\rI bet you could become a better Psychic\nthan me if you tried...</language>
 	</row>
 </body>

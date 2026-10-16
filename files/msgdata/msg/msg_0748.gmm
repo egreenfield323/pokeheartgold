@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0748_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} learned how to use\n{STRVAR_1 6, 1, 0}. Wow!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} learned how to use\n{STRVAR_1 6, 1, 0}. Sheesh!\r</language>
 	</row>
 	<row id="msg_0748_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

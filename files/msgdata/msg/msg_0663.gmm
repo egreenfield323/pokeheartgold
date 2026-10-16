@@ -30,19 +30,19 @@
 	</row>
 	<row id="msg_0663_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nGood morning!\r</language>
+		<language name="English">Wassup? This is Lyra...\nGood morning!\r</language>
 	</row>
 	<row id="msg_0663_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nHow are you?\r</language>
+		<language name="English">Wassup? This is Lyra...\nHow are you?\r</language>
 	</row>
 	<row id="msg_0663_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nGood evening!\r</language>
+		<language name="English">Wassup? This is Lyra...\nGood evening!\r</language>
 	</row>
 	<row id="msg_0663_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my dad thinks you’ll become\nan incredible Trainer someday,\f{STRVAR_1 3, 0, 0}!\fWhat am I saying?\rI’m starting to sound like the\nprofessor!\rWell, do your best! I’ll call you again\nsometime!</language>
+		<language name="English">You know, my dad thinks you’ll become\nan incredible Hustler someday,\f{STRVAR_1 3, 0, 0}!\fWhat am I saying?\rI’m starting to sound like the\nprofessor!\rWell, do your best! I’ll call you again\nsometime!</language>
 	</row>
 	<row id="msg_0663_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0663_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re around Route 14 right now,\naren’t you?\rThere’s a huge windmill over in that\narea, so it’s very beautiful, isn’t it?</language>
+		<language name="English">So, you’re around Route 14 right now,\naren’t you?\rThere’s a huge windmill over in that\narea, so it’s very beautiful, ain’t it?</language>
 	</row>
 	<row id="msg_0663_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0663_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re at Route 16 right now?\nSo, you’re pretty close to Cycling Road\fthen, aren’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
+		<language name="English">You’re at Route 16 right now?\nSo, you’re pretty close to Cycling Road\fthen, ain’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
 	</row>
 	<row id="msg_0663_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="msg_0663_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re at Route 18 right now?\nSo, you’re pretty close to Cycling Road\fthen, aren’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
+		<language name="English">You’re at Route 18 right now?\nSo, you’re pretty close to Cycling Road\fthen, ain’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
 	</row>
 	<row id="msg_0663_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="msg_0663_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 22 is the road to the\nPokémon League, so I bet it makes your\fPokémon feel pretty nervous, huh?</language>
+		<language name="English">You know, Route 22 is the road to the\nBig League, so I bet it makes your\fPokémon feel pretty nervous, huh?</language>
 	</row>
 	<row id="msg_0663_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -150,7 +150,7 @@
 	</row>
 	<row id="msg_0663_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 is so full of natural\nbeauty, I bet it’s a really wonderful\fplace for Pokémon.\rBut it’s also a road leading to the\nPokémon League, so it probably makes\fthem anxious, too.</language>
+		<language name="English">You know, Route 26 is so full of natural\nbeauty, I bet it’s a really wonderful\fplace for Pokémon.\rBut it’s also a road leading to the\nBig League, so it probably makes\fthem anxious, too.</language>
 	</row>
 	<row id="msg_0663_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -158,7 +158,7 @@
 	</row>
 	<row id="msg_0663_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one going to\nMt. Silver, isn’t it?\rI’m sure that must make your Pokémon\nworry a little bit, too.</language>
+		<language name="English">Route 28, that’s the one finna\nMt. Silver, ain’t it?\rI’m sure that must make your Pokémon\nworry a little bit, too.</language>
 	</row>
 	<row id="msg_0663_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="msg_0663_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, you should take a MILTANK\nwith you over to Route 39.\rIt will find so many friends over there,\nit’ll be great fun!</language>
+		<language name="English">You know, you should take a MILTANK\nwith you over to Route 39.\rIt will find so many homies over there,\nit’ll be great fun!</language>
 	</row>
 	<row id="msg_0663_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="msg_0663_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now? Viridian City? That’s\nwhere the Trainer House is, right?\rWhen Pokémon go over there, they get\nreally fired up, you know?</language>
+		<language name="English">Where are you now? Viridian City? That’s\nwhere the Hustler House is, right?\rWhen Pokémon go over there, they get\nreally fired up, you know?</language>
 	</row>
 	<row id="msg_0663_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -254,11 +254,11 @@
 	</row>
 	<row id="msg_0663_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nCerulean City, you say?\rSo...did you meet the Cerulean Gym\nLeader, Misty...?\rOh, it’s nothing! I’m just wondering!</language>
+		<language name="English">So, where are you now?\nCerulean City, you say?\rSo...did you meet the Cerulean Block\nLeader, Misty...?\rOh, it’s nothing! I’m just wondering!</language>
 	</row>
 	<row id="msg_0663_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nLavender Town?\fYou’ve gone pretty far, huh?\rIn that town, there’s a place called\nthe House of Memories where they have\fPokémon graves, you know.\rAs a Trainer, you should visit at least\nonce out of respect.</language>
+		<language name="English">Where are you now?\nLavender Town?\fYou’ve gone pretty far, huh?\rIn that town, there’s a place called\nthe House of Memories where they have\fPokémon graves, you know.\rAs a Hustler, you should visit at least\nonce out of respect.</language>
 	</row>
 	<row id="msg_0663_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0663_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, when a friend of mine went to\nthe Indigo Plateau, the Pokémon with\fmy friend got so excited that they\fwere making loud snorting noises!</language>
+		<language name="English">You know, when a homie of mine went to\nthe Indigo Plateau, the Pokémon with\fmy homie got so excited that they\fwere making loud snorting noises!</language>
 	</row>
 	<row id="msg_0663_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -298,7 +298,7 @@
 	</row>
 	<row id="msg_0663_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, whereabouts are you now?\rYou’re in...Cianwood!\rNo? You’re in Azalea Town?\rAzalea’s Gym is really awesome,\nisn’t it?\fDid you try riding on the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Gym?\rI think that would be interesting!</language>
+		<language name="English">So, whereabouts are you now?\rYou’re in...Cianwood!\rNo? You’re in Azalea Town?\rAzalea’s Block is really awesome,\nisn’t it?\fDid you try riding on the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Block?\rI think that would be interesting!</language>
 	</row>
 	<row id="msg_0663_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -394,7 +394,7 @@
 	</row>
 	<row id="msg_0663_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, Route 13 is the one that’s a bit\nof a maze, isn’t it?\rThat may be why the Pokémon in that\narea always seem a bit perplexed.</language>
+		<language name="English">Hey, Route 13 is the one that’s a bit\nof a maze, ain’t it?\rThat may be why the Pokémon in that\narea always seem a bit perplexed.</language>
 	</row>
 	<row id="msg_0663_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
@@ -426,11 +426,11 @@
 	</row>
 	<row id="msg_0663_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re headed to Route 21,\nI’ve got a suggestion for you.\rYou could sit with your Pokémon,\nwatching the sunset over the beach...\rWhat do you think...? It’s more of a\nromantic couple’s thing isn’t it!</language>
+		<language name="English">You know, if you’re headed to Route 21,\nI’ve got a suggestion for you.\rYou could sit with your Pokémon,\nwatching the sunset over the beach...\rWhat do you think...? It’s more of a\nromantic couple’s thing ain’t it!</language>
 	</row>
 	<row id="msg_0663_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 22 is the road to the Pokémon\nLeague, isn’t it?\rI bet it makes your Pokémon feel pretty\nnervous, huh?</language>
+		<language name="English">Route 22 is the road to the Pokémon\nLeague, ain’t it?\rI bet it makes your Pokémon feel pretty\nnervous, huh?</language>
 	</row>
 	<row id="msg_0663_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
@@ -442,7 +442,7 @@
 	</row>
 	<row id="msg_0663_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 is so full of natural\nbeauty. I bet that it’s a really\fwonderful place for Pokémon.\rBut it’s also a road leading to the\nPokémon League, so it probably makes\fthem nervous, too.</language>
+		<language name="English">You know, Route 26 is so full of natural\nbeauty. I bet that it’s a really\fwonderful place for Pokémon.\rBut it’s also a road leading to the\nBig League, so it probably makes\fthem nervous, too.</language>
 	</row>
 	<row id="msg_0663_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -450,7 +450,7 @@
 	</row>
 	<row id="msg_0663_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one going to\nMt. Silver, right?\rYour Pokémon probably put on a good\nshow of being brave, but I bet they\fworry a little bit, too...</language>
+		<language name="English">Route 28, that’s the one finna\nMt. Silver, right?\rYour Pokémon probably put on a good\nshow of being brave, but I bet they\fworry a little bit, too...</language>
 	</row>
 	<row id="msg_0663_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -494,7 +494,7 @@
 	</row>
 	<row id="msg_0663_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re going over to\nRoute 39, you should take a MILTANK\falong with you.\rIt will find so many friends over there,\nit’ll be great fun!</language>
+		<language name="English">You know, if you’re going over to\nRoute 39, you should take a MILTANK\falong with you.\rIt will find so many homies over there,\nit’ll be great fun!</language>
 	</row>
 	<row id="msg_0663_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
@@ -538,7 +538,7 @@
 	</row>
 	<row id="msg_0663_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a Trainer House in Viridian City.\nDid you know?\rWhen Pokémon go over there, they get\nreally fired up, you know!</language>
+		<language name="English">There’s a Hustler House in Viridian City.\nDid you know?\rWhen Pokémon go over there, they get\nreally fired up, you know!</language>
 	</row>
 	<row id="msg_0663_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
@@ -546,11 +546,11 @@
 	</row>
 	<row id="msg_0663_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So...did you meet the Cerulean City Gym\nLeader, Misty...?\rOh, it’s nothing! I was just wondering!</language>
+		<language name="English">So...did you meet the Cerulean City\nBlock Leader, Misty...?\rOh, it’s nothing! I was just wondering!</language>
 	</row>
 	<row id="msg_0663_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Lavender Town, there’s a place\ncalled the House of Memories where\fthey have Pokémon graves, you know.\rAs a Trainer, you should visit at least\nonce out of respect.</language>
+		<language name="English">In Lavender Town, there’s a place\ncalled the House of Memories where\fthey have Pokémon graves, you know.\rAs a Hustler, you should visit at least\nonce out of respect.</language>
 	</row>
 	<row id="msg_0663_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
@@ -558,7 +558,7 @@
 	</row>
 	<row id="msg_0663_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I once took a TANGELA with me\nto Celadon City Gym. It was so happy,\fand something happened!\rYou should try it, too, and see what\nhappens!\n</language>
+		<language name="English">You know, I once took a TANGELA with me\nto Celadon City Block. It was so happy,\fand something happened!\rYou should try it, too, and see what\nhappens!\n</language>
 	</row>
 	<row id="msg_0663_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
@@ -570,7 +570,7 @@
 	</row>
 	<row id="msg_0663_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, the Indigo Plateau is pretty\nclose to the Pokémon League. Your\fPokémon will likely yell out to psych\fthemselves up!</language>
+		<language name="English">You know, the Indigo Plateau is pretty\nclose to the Big League. Your\fPokémon will likely yell out to psych\fthemselves up!</language>
 	</row>
 	<row id="msg_0663_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
@@ -590,11 +590,11 @@
 	</row>
 	<row id="msg_0663_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town’s Gym is really awesome,\ndon’t you think?\rDid you try riding the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Gym?\rI think it’d be interesting!</language>
+		<language name="English">Azalea Town’s Block is really awesome,\ndon’t you think?\rDid you try riding the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Block?\rI think it’d be interesting!</language>
 	</row>
 	<row id="msg_0663_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re going to Cianwood, you should\ntry taking a KRABBY with you.\rWhat’s it like? Well, you should try it\nand see for yourself!</language>
+		<language name="English">If you’re finna Cianwood, you should\ntry taking a KRABBY with you.\rWhat’s it like? Well, you should try it\nand see for yourself!</language>
 	</row>
 	<row id="msg_0663_00149" index="149">
 		<attribute name="window_context_name">used</attribute>

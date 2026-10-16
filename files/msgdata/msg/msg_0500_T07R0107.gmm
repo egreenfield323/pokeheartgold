@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0500_T07R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello.\rTo which floor may I take you? {YESNO 0}</language>
+		<language name="English">Wassup.\rTo which floor may I take you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0500_T07R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0500_T07R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Second floor has the Trainer’s Market\nwhere you can buy everything you need.</language>
+		<language name="English">Second floor has the Hustler’s Market\nwhere you can buy everything you need.</language>
 	</row>
 	<row id="msg_0500_T07R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

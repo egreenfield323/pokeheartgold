@@ -17,7 +17,7 @@
 	</row>
 	<row id="msg_0203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} scurried to\na Pokémon Center, protecting\nthe exhausted and fainted\nPokémon from further harm...</language>
+		<language name="English">{STRVAR_1 3, 0, 0} scurried to\na Trap House, protecting\nthe exhausted and fainted\nPokémon from further harm...</language>
 	</row>
 	<row id="msg_0203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

@@ -419,7 +419,7 @@
 	</row>
 	<row id="msg_0778_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your friend ended the communication\nbattle.</language>
+		<language name="English">Your homie ended the communication\nbattle.</language>
 	</row>
 	<row id="msg_0778_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
@@ -447,7 +447,7 @@
 	</row>
 	<row id="msg_0778_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone wishes to join.\nAccept this Trainer as a member?</language>
+		<language name="English">Someone wishes to join.\nAccept this Hustler as a member?</language>
 	</row>
 	<row id="msg_0778_00109" index="109">
 		<attribute name="window_context_name">garbage</attribute>
@@ -496,7 +496,7 @@
 	</row>
 	<row id="msg_0778_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren’t enough members.\r</language>
+		<language name="English">There ain’t enough members.\r</language>
 	</row>
 	<row id="msg_0778_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
@@ -557,11 +557,11 @@
 	</row>
 	<row id="msg_0778_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Voice chat will be turned ON while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?</language>
+		<language name="English">Voice chat will be turned ON while\nyou play with this homie.\rWould you like to respond to this\nfriend’s invitation?</language>
 	</row>
 	<row id="msg_0778_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Voice chat will be turned OFF while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?</language>
+		<language name="English">Voice chat will be turned OFF while\nyou play with this homie.\rWould you like to respond to this\nfriend’s invitation?</language>
 	</row>
 	<row id="msg_0778_00136" index="136">
 		<attribute name="window_context_name">garbage</attribute>

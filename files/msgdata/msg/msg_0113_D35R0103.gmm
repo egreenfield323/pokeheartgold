@@ -18,19 +18,19 @@
 	</row>
 	<row id="msg_0113_D35R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: We can’t let a brat like you\ndo as you please forever.\rIt’ll hurt Team Rocket’s pride over and\nover again. Making it lessen, you see.\r...So, it’s time to finish you. However\nstrong you may be, if the two of us\ffight at the same time, you’ll have no\fchance of winning. Don’t you agree?\rHee hee hee! Sorry, baby. Now, get\nready to be thrashed.\r</language>
+		<language name="English">Ariana: We can’t let a brat like you\ndo as you please forever.\rIt’ll hurt The Feds’ pride over and\nover again. Making it lessen, you see.\r...So, it’s time to finish you. However\nstrong you may be, if the two of us\ffight at the same time, you’ll have no\fchance of winning. Don’t you agree?\rHee hee hee! Sorry, baby. Now, get\nready to be thrashed.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hold it!\rA two-on-one battle?\nThat is so unfair!\rTypical of Team Rocket to be so sneaky.\nAllow me to join the battle!\r</language>
+		<language name="English">Lance: Hold it!\rA two-on-one battle?\nThat is so unfair!\rTypical of The Feds to be so sneaky.\nAllow me to join the battle!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: What? You had an accomplice?\nWhere is your sense of dignity?\rAs interim boss in place of Giovanni,\nI’ll show you how wrong it is to meddle\fwith Team Rocket!\r</language>
+		<language name="English">Ariana: What? You had an accomplice?\nWhere is your sense of dignity?\rAs interim boss in place of Giovanni,\nI’ll show you how wrong it is to meddle\fwith The Feds!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch, you really are strong.\nIt’s too bad.\rIf you were to join Team Rocket, you\ncould become an Executive.\r</language>
+		<language name="English">Tch, you really are strong.\nIt’s too bad.\rIf you were to join The Feds, you\ncould become an Executive.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0113_D35R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That did it. We defeated all the\nmembers of Team Rocket here.\rBut I’m concerned about the young guy\nwith red hair I battled in the\fprocess...\r</language>
+		<language name="English">Lance: That did it. We defeated all the\nmembers of The Feds here.\rBut I’m concerned about the young guy\nwith red hair I battled in the\fprocess...\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0113_D35R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That odd signal has finally\nstopped. The lake should be back to\fnormal. You’re the best!\rLet me thank you on behalf of all the\nPokémon. Oh, yes. You should take this.\rI found it here, but I don’t have any\nneed for it.\r</language>
+		<language name="English">Lance: That odd signal has finally\nstopped. The lake should be back to\fnormal. You’re the best!\rLet me good looks on behalf of all the\nPokémon. Oh, yes. You should take this.\rI found it here, but I don’t have any\nneed for it.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0113_D35R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That’s Whirlpool.\rTeach it to a Pokémon to get across wild\nwater. But keep this in mind.\rYou can use that out of battle only with\nthe Badge from Mahogany Gym.\r</language>
+		<language name="English">Lance: That’s Whirlpool.\rTeach it to a Pokémon to get across wild\nwater. But keep this in mind.\rYou can use that out of battle only with\nthe Chain from Mahogany Block.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

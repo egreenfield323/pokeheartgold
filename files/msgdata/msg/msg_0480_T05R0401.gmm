@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0480_T05R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, there!\nI am the official Name Rater!\rWant me to rate the nicknames\nof your Pokémon? {YESNO 0}</language>
+		<language name="English">Wassup, there!\nI am the official Name Rater!\rWant me to rate the nicknames\nof your Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0480_T05R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon nickname should\nI critique, kid?</language>
+		<language name="English">Which Pokémon nickname should\nI critique, youngblood?</language>
 	</row>
 	<row id="msg_0480_T05R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

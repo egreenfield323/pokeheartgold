@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, there!\rI have extracted a Pokémon from\nyour Fossil!\rIt is called {STRVAR_1 0, 0, 0}.\nTake good care of it!\r</language>
+		<language name="English">Ayo, there!\rI have extracted a Pokémon from\nyour Fossil!\rIt is called {STRVAR_1 0, 0, 0}.\nTake good care of it!\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThe thing you have...\r</language>
+		<language name="English">Sheesh!\nThe thing you have...\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your patience!\nIt took me a little while,\fbut I have confirmed it!\rThis is an Orb that contains\nwhat is called {COLOR 2}Soul Dew{COLOR 0}.\r</language>
+		<language name="English">Good looks for your patience!\nIt took me a little while,\fbut I have confirmed it!\rThis is an Orb that contains\nwhat is called {COLOR 2}Soul Dew{COLOR 0}.\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are thick and well-read books!\r“The Principles of Fossil Extraction”\f“Archaeology Manual”\f“Lost Pokémon”\f“Pokémon Ancestors”\f“Friendships of Trainers and Pokémon”\f“Caring at the Loamy Layer of Kanto”</language>
+		<language name="English">There are thick and well-read books!\r“The Principles of Fossil Extraction”\f“Archaeology Manual”\f“Lost Pokémon”\f“Pokémon Ancestors”\f“Friendships of Hustlers and Pokémon”\f“Caring at the Loamy Layer of Kanto”</language>
 	</row>
 	<row id="msg_0464_T03R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>

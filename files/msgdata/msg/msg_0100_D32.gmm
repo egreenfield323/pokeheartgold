@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0100_D32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the places in the Battle Frontier\nlet you team up with a friend!\fThat’s so cool, don’t you think?\fI wish I had a friend to team up with...</language>
+		<language name="English">All the places in the Battle Frontier\nlet you team up with a homie!\fThat’s so hard, don’t you think?\fI wish I had a homie to team up with...</language>
 	</row>
 	<row id="msg_0100_D32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0100_D32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What makes me the most happy being\na Trainer?\rThe fact that Pokémon will always bring\nme lots of friends!</language>
+		<language name="English">What makes me the most happy being\na Hustler?\rThe fact that Pokémon will always bring\nme lots of homies!</language>
 	</row>
 	<row id="msg_0100_D32_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -50,15 +50,15 @@
 	</row>
 	<row id="msg_0100_D32_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainers care about Pokémon\nas the battle progresses.\rIn return, Pokémon repay that trust\nby using moves the best they can.\rWhat you see in a battle is the trust\nbetween people and Pokémon.\rThis may seem obvious, but it’s actually\nincredibly amazing!</language>
+		<language name="English">Hustlers care about Pokémon\nas the battle progresses.\rIn return, Pokémon repay that trust\nby using moves the best they can.\rWhat you see in a battle is the trust\nbetween people and Pokémon.\rThis may seem obvious, but it’s actually\nincredibly amazing!</language>
 	</row>
 	<row id="msg_0100_D32_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You cannot try anything if you are\nafraid of losing battles.\rBut!\rGetting into a battle knowing you have\nno chance of winning will only make your\fPokémon suffer.\rThat’s not courage!\nTruly good Trainers know the balance\fbetween courage and cautiousness.</language>
+		<language name="English">You cannot try anything if you are\nafraid of losing battles.\rBut!\rGetting into a battle knowing you have\nno chance of winning will only make your\fPokémon suffer.\rThat’s not courage!\nTruly good Hustlers know the balance\fbetween courage and cautiousness.</language>
 	</row>
 	<row id="msg_0100_D32_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to graduate from being\na so-so Trainer, mark my words!\rThe Pokémon’s type!\rThe moves to be learned!\rThe items to be held!\rYou can’t overlook a single detail.</language>
+		<language name="English">If you want to graduate from being\na so-so Hustler, mark my words!\rThe Pokémon’s type!\rThe moves to be learned!\rThe items to be held!\rYou can’t overlook a single detail.</language>
 	</row>
 	<row id="msg_0100_D32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0100_D32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Allowing us to enjoy battles,\nhelping us work,\ftaking us to places far away,\for just being good friends...\rPokémon are so deep.\nI wanna be like Pokémon.</language>
+		<language name="English">Allowing us to enjoy battles,\nhelping us work,\ftaking us to places far away,\for just being good homies...\rPokémon are so deep.\nI wanna be like Pokémon.</language>
 	</row>
 	<row id="msg_0100_D32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0100_D32_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Trainer who just caught a Pokémon.\nThat’s what this statue represents.</language>
+		<language name="English">A Hustler who just caught a Pokémon.\nThat’s what this statue represents.</language>
 	</row>
 	<row id="msg_0100_D32_00040" index="40">
 		<attribute name="window_context_name">used</attribute>

@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0640_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rGood morning, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rGood morning, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rGood morning, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rGood morning, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rHow’s it going, {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rHow’s it going, {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0640_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rHow’s it going, {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rHow’s it going, {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0640_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rGood evening, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rGood evening, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. This is {STRVAR_1 3, 1, 0}...\rGood evening, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup. This is {STRVAR_1 3, 1, 0}...\rGood evening, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -50,27 +50,27 @@
 	</row>
 	<row id="msg_0640_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh. Hi, {STRVAR_1 3, 0, 0}! Good morning!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh. Ayo, {STRVAR_1 3, 0, 0}! Good morning!\r</language>
 	</row>
 	<row id="msg_0640_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh. Hi, {STRVAR_1 3, 0, 0}! Good morning!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh. Ayo, {STRVAR_1 3, 0, 0}! Good morning!\r</language>
 	</row>
 	<row id="msg_0640_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0640_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}! Good evening!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}! Good evening!\r</language>
 	</row>
 	<row id="msg_0640_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}! Good evening!\r</language>
+		<language name="English">Wassup? This is {STRVAR_1 3, 1, 0} speaking.\rOh, hi, {STRVAR_1 3, 0, 0}! Good evening!\r</language>
 	</row>
 	<row id="msg_0640_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -154,11 +154,11 @@
 	</row>
 	<row id="msg_0640_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes? This is {STRVAR_1 3, 1, 0}.\rOh, {STRVAR_1 3, 0, 0}. Hello.\r</language>
+		<language name="English">Yes? This is {STRVAR_1 3, 1, 0}.\rOh, {STRVAR_1 3, 0, 0}. Wassup.\r</language>
 	</row>
 	<row id="msg_0640_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes? This is {STRVAR_1 3, 1, 0}.\rOh, {STRVAR_1 3, 0, 0}. Hello.\r</language>
+		<language name="English">Yes? This is {STRVAR_1 3, 1, 0}.\rOh, {STRVAR_1 3, 0, 0}. Wassup.\r</language>
 	</row>
 	<row id="msg_0640_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -170,27 +170,27 @@
 	</row>
 	<row id="msg_0640_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}. Good morning.\rThis is {STRVAR_1 3, 1, 0}. Were you asleep?\r</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}. Good morning.\rThis is {STRVAR_1 3, 1, 0}. Were you asleep?\r</language>
 	</row>
 	<row id="msg_0640_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}. Good morning.\rThis is {STRVAR_1 3, 1, 0}. Were you asleep?\r</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}. Good morning.\rThis is {STRVAR_1 3, 1, 0}. Were you asleep?\r</language>
 	</row>
 	<row id="msg_0640_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. How are you doing?\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. How are you doing?\r</language>
 	</row>
 	<row id="msg_0640_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. How are you doing?\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. How are you doing?\r</language>
 	</row>
 	<row id="msg_0640_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. Were you awake?\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. Were you awake?\r</language>
 	</row>
 	<row id="msg_0640_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. Were you awake?\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}.\rThis is {STRVAR_1 3, 1, 0}. Were you awake?\r</language>
 	</row>
 	<row id="msg_0640_00048" index="48">
 		<attribute name="window_context_name">used</attribute>

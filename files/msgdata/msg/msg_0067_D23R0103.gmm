@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Trainers, Pokémon are their\nbeloved partners.\rIt’s terrible how Team Rocket is trying\nto control Pokémon.</language>
+		<language name="English">To Hustlers, Pokémon are their\nbeloved partners.\rIt’s terrible how The Feds is trying\nto control Pokémon.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Team Rocket boss has locked\nhimself in.\rBut the Director can open it.\rHe’s up on the fifth floor.\nPlease save him!</language>
+		<language name="English">The The Feds boss has locked\nhimself in.\rBut the Director can open it.\rHe’s up on the fifth floor.\nPlease save him!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you, kiddo! You’re the best!\nThis is a token of my appreciation.\r</language>
+		<language name="English">Good looks, kiddo! You’re the best!\nThis is a token of my appreciation.\r</language>
 	</row>
 	<row id="msg_0067_D23R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

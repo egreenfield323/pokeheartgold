@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0309_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One point isn’t useless! It’s the\nshortcut to success!\r</language>
+		<language name="English">One point ain’t useless! It’s the\nshortcut to success!\r</language>
 	</row>
 	<row id="msg_0309_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -338,7 +338,7 @@
 	</row>
 	<row id="msg_0309_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strength isn’t everything! Strategy is\nanother important factor to success!\r</language>
+		<language name="English">Strength ain’t everything! Strategy is\nanother important factor to success!\r</language>
 	</row>
 	<row id="msg_0309_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
@@ -366,7 +366,7 @@
 	</row>
 	<row id="msg_0309_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Within you are many friends, and\nmany Pokémon!\r</language>
+		<language name="English">Within you are many homies, and\nmany Pokémon!\r</language>
 	</row>
 	<row id="msg_0309_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -566,7 +566,7 @@
 	</row>
 	<row id="msg_0309_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smile even when you miss! The\nPokéathlon isn’t just about winning!\r</language>
+		<language name="English">Smile even when you miss! The\nPokéathlon ain’t just about winning!\r</language>
 	</row>
 	<row id="msg_0309_00142" index="142">
 		<attribute name="window_context_name">used</attribute>

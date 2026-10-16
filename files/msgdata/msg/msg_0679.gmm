@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0679_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, aren’t you nearby?\rDo you just really like talking on the\nphone or something? What an odd hobby.</language>
+		<language name="English">Huh?\nWait, ain’t you nearby?\rDo you just really like talking on the\nphone or something? What an odd hobby.</language>
 	</row>
 	<row id="msg_0679_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

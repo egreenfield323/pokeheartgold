@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0030_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, just when you least expect it!\nI am Cameron the Photographer.\rYou look so photogenic!\nWhy not have a picture taken? {YESNO 0}</language>
+		<language name="English">Wassup, just when you least expect it!\nI am Cameron the Photographer.\rYou look so photogenic!\nWhy not have a picture taken? {YESNO 0}</language>
 	</row>
 	<row id="msg_0030_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

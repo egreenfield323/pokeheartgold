@@ -11,23 +11,23 @@
 	</row>
 	<row id="msg_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Always where you need it!\nYour local Pokémon Center!</language>
+		<language name="English">Commercial: Always where you need it!\nYour local Trap House!</language>
 	</row>
 	<row id="msg_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Full of smiling faces!\nYour cheerful Poké Mart!</language>
+		<language name="English">Commercial: Full of smiling faces!\nYour cheerful Corner Store!</language>
 	</row>
 	<row id="msg_0412_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Your friend for adventure,\nyour Pokégear...Pokégear...Pokégear!\nYour Pokégear from Silph Co. Take our\nlatest model on your next adventure!</language>
+		<language name="English">Commercial: Your homie for adventure,\nyour Pokégear...Pokégear...Pokégear!\nYour Pokégear from Silph Co. Take our\nlatest model on your next adventure!</language>
 	</row>
 	<row id="msg_0412_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Catch that Trainer’s eye for\nan intense battle! But don’t pick fights\nwith those who aren’t Trainers. This has\nbeen a message from the Pokémon League.</language>
+		<language name="English">Commercial: Catch that Hustler’s eye for\nan intense battle! But don’t pick fights\nwith those who ain’t Hustlers. This has\nbeen a message from the Big League.</language>
 	</row>
 	<row id="msg_0412_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Whenever you turn your head,\nthere it is. Your constant companion in\nlife’s journey. Your Pokémon is always\nthere to help. This has been a message\nfrom the Pokémon League.</language>
+		<language name="English">Commercial: Whenever you turn your head,\nthere it is. Your constant companion in\nlife’s journey. Your Pokémon is always\nthere to help. This has been a message\nfrom the Big League.</language>
 	</row>
 	<row id="msg_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -55,11 +55,11 @@
 	</row>
 	<row id="msg_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
+		<language name="English">Commercial: A fateful encounter that\nbegins in the Trap House...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
 	</row>
 	<row id="msg_0412_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
+		<language name="English">Commercial: A fateful encounter that\nbegins in the Trap House...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
 	</row>
 	<row id="msg_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -95,7 +95,7 @@
 	</row>
 	<row id="msg_0412_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Pa pa pa pa da dum pa pa pa pa\nda dum Pokémon! Catch as many Pokémon\nas you like until the Poké Balls run out\nat Warden Baoba’s Safari Zone...zone...</language>
+		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Pa pa pa pa da dum pa pa pa pa\nda dum Pokémon! Catch as many Pokémon\nas you like until the Hood Balls run out\nat Warden Baoba’s Safari Zone...zone...</language>
 	</row>
 	<row id="msg_0412_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -107,11 +107,11 @@
 	</row>
 	<row id="msg_0412_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Do you know the true face of\nthe Battle Tower? Opening every door on\nthe planet; every Trainer awaits you!\nHow far will you be able to go?</language>
+		<language name="English">Commercial: Do you know the true face of\nthe Battle Tower? Opening every door on\nthe planet; every Hustler awaits you!\nHow far will you be able to go?</language>
 	</row>
 	<row id="msg_0412_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A place where your beloved\nPokémon can become number one.\nThe battle of a lifetime in the\nBattle Hall! \nMake your Pokémon shine bright here;\nyou’re the only Trainer who can!</language>
+		<language name="English">Commercial: A place where your beloved\nPokémon can become number one.\nThe battle of a lifetime in the\nBattle Hall! \nMake your Pokémon shine bright here;\nyou’re the only Hustler who can!</language>
 	</row>
 	<row id="msg_0412_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -135,7 +135,7 @@
 	</row>
 	<row id="msg_0412_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The Pokémon League is\nwaiting for you, when you’re ready\nto challenge us. If you’re coming from\nKanto, we’re right at the end of\nRoute 22.\nThis message brought to you by the\nPokémon League.</language>
+		<language name="English">Commercial: The Big League is\nwaiting for you, when you’re ready\nto challenge us. If you’re coming from\nKanto, we’re right at the end of\nRoute 22.\nThis message brought to you by the\nBig League.</language>
 	</row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>

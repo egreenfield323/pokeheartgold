@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0516_T08R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Trainers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Trainer!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
+		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Hustlers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Hustler!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Trainers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Trainer!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
+		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Hustlers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Hustler!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0516_T08R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park is a place where you are\ntimed on the catching of six Pokémon.\rYou are provided with six special\nPoké Balls for the challenge.\rParticipating Trainers are required to\nsupply the six Pokémon that are to\fbe caught.\rIf you do not supply the stock of six\nPokémon, you may not participate in\fthe Catching Show.\r...Would you like to know\nanything else? {YESNO 0}</language>
+		<language name="English">Pal Park is a place where you are\ntimed on the catching of six Pokémon.\rYou are provided with six special\nHood Balls for the challenge.\rParticipating Hustlers are required to\nsupply the six Pokémon that are to\fbe caught.\rIf you do not supply the stock of six\nPokémon, you may not participate in\fthe Catching Show.\r...Would you like to know\nanything else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0516_T08R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! That’s an outstanding record!\nKudos to you!\r</language>
+		<language name="English">Sheesh! That’s an outstanding record!\nKudos to you!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -134,7 +134,7 @@
 	</row>
 	<row id="msg_0516_T08R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve heard Trainers complain that\nrare Pokémon take longer to appear.\rIs it easier to start with common\nPokémon?</language>
+		<language name="English">I’ve heard Hustlers complain that\nrare Pokémon take longer to appear.\rIs it easier to start with common\nPokémon?</language>
 	</row>
 	<row id="msg_0516_T08R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -170,7 +170,7 @@
 	</row>
 	<row id="msg_0516_T08R0201_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nYour Catching Show was awesome!\fI’ll become a Trainer like you!</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nYour Catching Show was awesome!\fI’ll become a Hustler like you!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00043" index="43">
 		<attribute name="window_context_name">used</attribute>

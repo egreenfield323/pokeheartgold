@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0060_D18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou must be here to catch the\nlegendary Pokémon to make yourself\flook strong.\rThat is only a dream.\rYou see, the legendary Pokémon suits a\nTrainer like me who has sworn to become\fthe strongest Trainer.\rA battle with Team Rocket Grunts\nis just right for you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou must be here to catch the\nlegendary Pokémon to make yourself\flook strong.\rThat is only a dream.\rYou see, the legendary Pokémon suits a\nTrainer like me who has sworn to become\fthe strongest Hustler.\rA battle with Fed Agents\nis just right for you!\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,6 +18,6 @@
 	</row>
 	<row id="msg_0060_D18R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: My name is Morty.\nI am Ecruteak’s Gym Leader.\rBecause my old friend Eusine is here\non the trail of SUICUNE, I decided to\finvestigate the Burned Tower.\rEcruteak has a legend about these\nlegendary Pokémon:\fSUICUNE, ENTEI, and RAIKOU.\rAs the Gym Leader of Ecruteak, I must\nhave a proper understanding of it.</language>
+		<language name="English">Morty: My name is Morty.\nI am Ecruteak’s Block Boss.\rBecause my old homie Eusine is here\non the trail of SUICUNE, I decided to\finvestigate the Burned Tower.\rEcruteak has a legend about these\nlegendary Pokémon:\fSUICUNE, ENTEI, and RAIKOU.\rAs the Block Boss of Ecruteak, I must\nhave a proper understanding of it.</language>
 	</row>
 </body>

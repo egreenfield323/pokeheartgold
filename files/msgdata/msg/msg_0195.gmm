@@ -144,7 +144,7 @@
 	</row>
 	<row id="msg_0195_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations to you, Trainer!\rIn recognition of your outstanding\nwinning streak, our Frontier Brain is\fdemanding a match with you.\rSo, your next match is against the\nFactory Head with no right of refusal!\rAre you prepared?\r</language>
+		<language name="English">Congratulations to you, Hustler!\rIn recognition of your outstanding\nwinning streak, our Frontier Brain is\fdemanding a match with you.\rSo, your next match is against the\nFactory Head with no right of refusal!\rAre you prepared?\r</language>
 	</row>
 	<row id="msg_0195_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

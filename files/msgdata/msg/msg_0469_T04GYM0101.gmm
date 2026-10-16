@@ -18,31 +18,31 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, I’ll be out for a while.\nMisty, Gym Leader</language>
+		<language name="English">Sorry, I’ll be out for a while.\nMisty, Block Boss</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since Misty’s out, we’ll be away, too.\nGym Trainers</language>
+		<language name="English">Since Misty’s out, we’ll be away, too.\nGym Hustlers</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City Pokémon Gym</language>
+		<language name="English">Cerulean City block</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City Pokémon Gym\rLeader: Misty\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Cerulean City block\rLeader: Misty\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: I was expecting you,\nyou pest!\rYou may have a lot of Johto Gym Badges,\nbut you’d better not take me\ftoo lightly.\rMy Water-type Pokémon are tough!\r</language>
+		<language name="English">Misty: I was expecting you, you pest!\rYou may have a lot of Johto Block\nChains, but you’d better not take me\ftoo lightly.\rMy Water-type Pokémon are tough!\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: You really are good...\rI’ll admit that you are skilled...\rHere you go.\nIt’s the Cascade Badge.\r</language>
+		<language name="English">Misty: You really are good...\rI’ll admit that you are skilled...\rHere you go.\nIt’s the Cascade Chain.\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Cascade Badge from Misty!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Cascade Chain from Misty!</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: It contains the move\nWater Pulse.\rIt can sometimes confuse your foe.\rYou’ve managed to defeat Trainers\nall the way from Johto.\fI’m sure you have a good use for it.</language>
+		<language name="English">Misty: It contains the move\nWater Pulse.\rIt can sometimes confuse your foe.\rYou’ve managed to defeat Hustlers\nall the way from Johto.\fI’m sure you have a good use for it.</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Does Johto have a lot of\npowerful Trainers?\rI will someday go on my journey\nto battle with powerful Trainers!</language>
+		<language name="English">Misty: Does Johto have a lot of\npowerful Hustlers?\rI will someday go on my journey\nto battle with powerful Hustlers!</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

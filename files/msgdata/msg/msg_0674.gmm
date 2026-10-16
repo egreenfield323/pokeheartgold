@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0674_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Man! You’re as tough as ever!\rI’ve battled you over and over, but\n{STRVAR_1 3, 0, 0}, I haven’t won once.\rI bought tons of items to toughen up my\nPokémon, but to no avail...\rItems alone aren’t the answer.\nThat must be what it is...\rHere, take this, {STRVAR_1 3, 0, 0}.\nI won’t be needing it anymore...\r</language>
+		<language name="English">Man! You’re as tough as ever!\rI’ve battled you over and over, but\n{STRVAR_1 3, 0, 0}, I haven’t won once.\rI bought tons of items to toughen up my\nPokémon, but to no avail...\rItems alone ain’t the answer.\nThat must be what it is...\rHere, take this, {STRVAR_1 3, 0, 0}.\nI won’t be needing it anymore...\r</language>
 	</row>
 	<row id="msg_0674_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, when you call from inside the\nLighthouse, your voice just kind of\fechoes. It’s kind of cool!</language>
+		<language name="English">Sheesh, when you call from inside the\nLighthouse, your voice just kind of\fechoes. It’s kind of hard!</language>
 	</row>
 	<row id="msg_0674_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are your Pokémon doing?\nMy Pokémon are a bit too energetic.\r{STRVAR_1 0, 10, 0}, especially.\rEvery time it spots a Trainer, it just\ncharges ahead into battle!\rIt gets to be a bit much for me!\nLater!</language>
+		<language name="English">How are your Pokémon doing?\nMy Pokémon are a bit too energetic.\r{STRVAR_1 0, 10, 0}, especially.\rEvery time it spots a Hustler, it just\ncharges ahead into battle!\rIt gets to be a bit much for me!\nLater!</language>
 	</row>
 	<row id="msg_0674_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0674_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We have to battle again sometime.\nYou can bet I’m going to keep\fchallenging you till I win.</language>
+		<language name="English">We have to battle again sometime.\nYou can bet I’m finna keep\fchallenging you till I win.</language>
 	</row>
 </body>

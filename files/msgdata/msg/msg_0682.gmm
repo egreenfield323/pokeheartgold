@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0682_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks! Let’s have another battle\nagain sometime!\rJust give me a call when you’re ready.</language>
+		<language name="English">Good looks! Let’s have another battle\nagain sometime!\rJust give me a call when you’re ready.</language>
 	</row>
 	<row id="msg_0682_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0682_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? There’s something odd about your\nvoice... Don’t tell me... You’re\fstanding nearby, aren’t you?\rIf you’ve already gotten this close,\nwhy not come talk in person?</language>
+		<language name="English">Huh? There’s something odd about your\nvoice... Don’t tell me... You’re\fstanding nearby, ain’t you?\rIf you’ve already gotten this close,\nwhy not come talk in person?</language>
 	</row>
 	<row id="msg_0682_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0682_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Earlier, I was contemplating something\nwhile walking...\rSuddenly this {STRVAR_1 0, 11, 0} jumped out!\rI was pretty surprised, and then it\nran away!\rI was thinking about it, and I had made\nplans to trade with a friend, so I was\flooking for a {STRVAR_1 0, 11, 0}...\rIt’s too bad...</language>
+		<language name="English">Earlier, I was contemplating something\nwhile walking...\rSuddenly this {STRVAR_1 0, 11, 0} jumped out!\rI was pretty surprised, and then it\nran away!\rI was thinking about it, and I had made\nplans to trade with a homie, so I was\flooking for a {STRVAR_1 0, 11, 0}...\rIt’s too bad...</language>
 	</row>
 	<row id="msg_0682_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

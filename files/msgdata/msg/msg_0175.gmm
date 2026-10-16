@@ -646,35 +646,35 @@
 	</row>
 	<row id="msg_0175_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Oreburgh</language>
+		<language name="English">Block Oreburgh</language>
 	</row>
 	<row id="msg_0175_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Eterna</language>
+		<language name="English">Block Eterna</language>
 	</row>
 	<row id="msg_0175_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Pastoria</language>
+		<language name="English">Block Pastoria</language>
 	</row>
 	<row id="msg_0175_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Veilstone</language>
+		<language name="English">Block Veilstone</language>
 	</row>
 	<row id="msg_0175_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Hearthome</language>
+		<language name="English">Block Hearthome</language>
 	</row>
 	<row id="msg_0175_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Snowpoint</language>
+		<language name="English">Block Snowpoint</language>
 	</row>
 	<row id="msg_0175_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Canalave</language>
+		<language name="English">Block Canalave</language>
 	</row>
 	<row id="msg_0175_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Sunyshore</language>
+		<language name="English">Block Sunyshore</language>
 	</row>
 	<row id="msg_0175_00169" index="169">
 		<attribute name="window_context_name">used</attribute>

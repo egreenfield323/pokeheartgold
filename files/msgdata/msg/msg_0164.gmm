@@ -70,11 +70,11 @@
 	</row>
 	<row id="msg_0164_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Create Friend code</language>
+		<language name="English">Create Homie code</language>
 	</row>
 	<row id="msg_0164_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter Friend code</language>
+		<language name="English">Enter Homie code</language>
 	</row>
 	<row id="msg_0164_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

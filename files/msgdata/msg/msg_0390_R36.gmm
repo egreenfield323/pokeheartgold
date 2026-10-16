@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0390_R36_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you the one who took care of the\nodd tree in the way?\rYou’re quite the Trainer!\nTake this!\r</language>
+		<language name="English">Are you the one who took care of the\nodd tree in the way?\rYou’re quite the Hustler!\nTake this!\r</language>
 	</row>
 	<row id="msg_0390_R36_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It contains make-’em-faint Rock Smash.\rYou can even use it to smash boulders\nonce you’ve earned the Violet City\fGym Badge!\rBut beware!\nHidden moves like this are hard for\fyour Pokémon to forget once they’ve\flearned them.\rYou should think carefully which\nPokémon should learn it.</language>
+		<language name="English">It contains make-’em-faint Rock Smash.\rYou can even use it to smash boulders\nonce you’ve earned the Violet City\fGym Chain!\rBut beware!\nHidden moves like this are hard for\fyour Pokémon to forget once they’ve\flearned them.\rYou should think carefully which\nPokémon should learn it.</language>
 	</row>
 	<row id="msg_0390_R36_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -46,11 +46,11 @@
 	</row>
 	<row id="msg_0390_R36_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe same kind of Pokémon may look the\nsame, but they can grow differently.\rTheir strengths may look the same\nin the beginning, but those strengths\fcan change as they grow.</language>
+		<language name="English">Hustler Tips\rThe same kind of Pokémon may look the\nsame, but they can grow differently.\rTheir strengths may look the same\nin the beginning, but those strengths\fcan change as they grow.</language>
 	</row>
 	<row id="msg_0390_R36_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
+		<language name="English">Hustler Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
 	</row>
 	<row id="msg_0390_R36_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

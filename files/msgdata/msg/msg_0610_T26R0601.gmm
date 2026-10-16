@@ -15,7 +15,7 @@
 	</row>
 	<row id="msg_0610_T26R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water-type Pokémon aren’t found\nin the sea alone.\fThey go wherever there is water.</language>
+		<language name="English">Water-type Pokémon ain’t found\nin the sea alone.\fThey go wherever there is water.</language>
 	</row>
 	<row id="msg_0610_T26R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

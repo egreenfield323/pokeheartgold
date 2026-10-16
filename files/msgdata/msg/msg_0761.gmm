@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0761_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What type of Trainer would you like\nto be?</language>
+		<language name="English">What type of Hustler would you like\nto be?</language>
 	</row>
 	<row id="msg_0761_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0761_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you play with a friend, what do\nyou do?</language>
+		<language name="English">When you play with a homie, what do\nyou do?</language>
 	</row>
 	<row id="msg_0761_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0761_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Gym Leader do you like\nbest?</language>
+		<language name="English">What kind of Block Boss do you like\nbest?</language>
 	</row>
 	<row id="msg_0761_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -150,7 +150,7 @@
 	</row>
 	<row id="msg_0761_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you save your money?</language>
+		<language name="English">Do you save your bread?</language>
 	</row>
 	<row id="msg_0761_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0761_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Were there any Trainers with the same\nname as you?</language>
+		<language name="English">Were there any Hustlers with the same\nname as you?</language>
 	</row>
 	<row id="msg_0761_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0761_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know anyone that looks like\na Gym Leader?</language>
+		<language name="English">Do you know anyone that looks like\na Block Boss?</language>
 	</row>
 	<row id="msg_0761_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="msg_0761_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What intrigues you about the Trainers\nvisiting the Plaza?</language>
+		<language name="English">What intrigues you about the Hustlers\nvisiting the Plaza?</language>
 	</row>
 	<row id="msg_0761_00048" index="48">
 		<attribute name="window_context_name">used</attribute>

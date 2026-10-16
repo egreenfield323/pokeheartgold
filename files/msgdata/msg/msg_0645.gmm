@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0645_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello, hello...\nOh, hello, what are you up to?\fI’m just fine, thanks!\r</language>
+		<language name="English">Wassup, hello, hello...\nOh, hello, what are you up to?\fI’m just fine, thanks!\r</language>
 	</row>
 	<row id="msg_0645_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many of the Gym Leaders are much\nstronger than I am. We’ve just got to\fwork harder!</language>
+		<language name="English">Many of the Block Bosses are much\nstronger than I am. We’ve just got to\fwork harder!</language>
 	</row>
 	<row id="msg_0645_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0645_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See, I’ve been training with my dad\nsince I was little--to be a Gym Leader.\rI haven’t even considered taking any\nother path, really.\rIt’s my dream to someday become a\nbetter Gym Leader than Dad!</language>
+		<language name="English">See, I’ve been training with my dad\nsince I was little--to be a Block Boss.\rI haven’t even considered taking any\nother path, really.\rIt’s my dream to someday become a\nbetter Block Boss than Dad!</language>
 	</row>
 	<row id="msg_0645_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

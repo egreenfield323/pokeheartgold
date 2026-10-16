@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are correct.\nThe third question!\rKurt, the Poké Ball creator, uses\napricots as ingredients? {YESNO 0}</language>
+		<language name="English">You are correct.\nThe third question!\rKurt, the Hood Ball creator, uses\napricots as ingredients? {YESNO 0}</language>
 	</row>
 	<row id="msg_0065_D23R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nI have only one more question to go.\rIn Professor Oak’s popular show,\nPokémon Talk, is he on with Marie? {YESNO 0}</language>
+		<language name="English">Sheesh!\nI have only one more question to go.\rIn Professor Oak’s popular show,\nPokémon Talk, is he on with Marie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0065_D23R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0065_D23R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Hi!\nMy name is Whitney!\rI heard about the Quiz to win a Radio\nCard, so I came here to get one...\rBut this Quiz is so hard!\r</language>
+		<language name="English">Whitney: Ayo!\nMy name is Whitney!\rI heard about the Quiz to win a Radio\nCard, so I came here to get one...\rBut this Quiz is so hard!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Wow, you did it!\nI thought the answer to the third\fquestion was surely apricots!\rOops!\nIt’s time to go back to the Gym!\r</language>
+		<language name="English">Whitney: Sheesh, you did it!\nI thought the answer to the third\fquestion was surely apricots!\rOops!\nIt’s time to go back to the Block!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -74,11 +74,11 @@
 	</row>
 	<row id="msg_0065_D23R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\nWe have some business going on.\rI was told not to let anyone pass but\nTeam Rocket!\rDo you understand?\rYou are only allowed to come through\nwhen you are wearing the cool black\funiform for Team Rocket!</language>
+		<language name="English">Who are you?\nWe have some business going on.\rI was told not to let anyone pass but\nThe Feds!\rDo you understand?\rYou are only allowed to come through\nwhen you are wearing the hard black\funiform for The Feds!</language>
 	</row>
 	<row id="msg_0065_D23R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha! You must be new!\nYou look pretty good in the Team Rocket\funiform!\rGo on ahead!\r</language>
+		<language name="English">Ha! You must be new!\nYou look pretty good in the The Feds\funiform!\rGo on ahead!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Hey, Team Rocket!\rStop going around in groups and\ntroubling people. You cowards!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Hey, The Feds!\rStop going around in groups and\ntroubling people. You cowards!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

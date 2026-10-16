@@ -403,7 +403,7 @@
 	</row>
 	<row id="msg_0809_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Parece una Poké Ball. Es muy\npeligroso, ya que puede lanzar\ndescargas o explotar si se toca.</language>
+		<language name="English">Parece una Hood Ball. Es muy\npeligroso, ya que puede lanzar\ndescargas o explotar si se toca.</language>
 	</row>
 	<row id="msg_0809_00101" index="101">
 		<attribute name="window_context_name">used</attribute>

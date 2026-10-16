@@ -63,19 +63,19 @@
 	</row>
 	<row id="msg_0097_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nMy name’s Palmer.\rI heard a lot about you.\nYou are {STRVAR_1 3, 0, 0} from\fNew Bark Town, right?\rYou are much younger than I thought.\nSo, I’d like you to show me.\rShow me the bond you’ve built with\nyour Pokémon.\rShow me what you’ve learned\nthrough battles with Trainers!\r</language>
+		<language name="English">Ayo!\nMy name’s Palmer.\rI heard a lot about you.\nYou are {STRVAR_1 3, 0, 0} from\fNew Bark Town, right?\rYou are much younger than I thought.\nSo, I’d like you to show me.\rShow me the bond you’ve built with\nyour Pokémon.\rShow me what you’ve learned\nthrough battles with Hustlers!\r</language>
 	</row>
 	<row id="msg_0097_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Palmer: So, you’ve come this far!\rAs the Tower Tycoon, I’ll have to\ngive you my best effort.\rThat’s how the best Trainers show\nrespect to each other.\rBy battling all out as dedicated\nstudents of Pokémon!\r</language>
+		<language name="English">Palmer: So, you’ve come this far!\rAs the Tower Tycoon, I’ll have to\ngive you my best effort.\rThat’s how the best Hustlers show\nrespect to each other.\rBy battling all out as dedicated\nstudents of Pokémon!\r</language>
 	</row>
 	<row id="msg_0097_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\rI imagine many great Trainers will come\nto challenge me as you have just done.\rThat’s something I look forward\nto a great deal.\rYou will become even more skilled.\nKeep battling Trainers from around\fthe world and keep growing greater\fin stature!\r</language>
+		<language name="English">Bravo!\rI imagine many great Hustlers will come\nto challenge me as you have just done.\rThat’s something I look forward\nto a great deal.\rYou will become even more skilled.\nKeep battling Hustlers from around\fthe world and keep growing greater\fin stature!\r</language>
 	</row>
 	<row id="msg_0097_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\nI feel inspired in my heart!\rMy young friend, the world and your\nfuture hold infinite promise.\rThe spirits of people and Pokémon\ncall for each other in resonance.\rThe resulting bond is infinitely strong!\nGo on, you can be all that you desire!\rThere is no limit to where you can go!\r</language>
+		<language name="English">Bravo!\nI feel inspired in my heart!\rMy young homie, the world and your\nfuture hold infinite promise.\rThe spirits of people and Pokémon\ncall for each other in resonance.\rThe resulting bond is infinitely strong!\nGo on, you can be all that you desire!\rThere is no limit to where you can go!\r</language>
 	</row>
 	<row id="msg_0097_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

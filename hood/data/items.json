@@ -1,0 +1,291 @@
+{
+  "_comment": "Original item name (as in msg_0222) -> [hood name, plural]. Max 12 chars. Article bank (msg_0223) is regenerated.",
+  "Master Ball": [
+    "OG Ball",
+    "OG Balls"
+  ],
+  "Ultra Ball": [
+    "Plug Ball",
+    "Plug Balls"
+  ],
+  "Great Ball": [
+    "Bando Ball",
+    "Bando Balls"
+  ],
+  "Poké Ball": [
+    "Hood Ball",
+    "Hood Balls"
+  ],
+  "Safari Ball": [
+    "Zoo Ball",
+    "Zoo Balls"
+  ],
+  "Net Ball": [
+    "Trap Ball",
+    "Trap Balls"
+  ],
+  "Dive Ball": [
+    "Pool Ball",
+    "Pool Balls"
+  ],
+  "Nest Ball": [
+    "Crib Ball",
+    "Crib Balls"
+  ],
+  "Repeat Ball": [
+    "Re-Up Ball",
+    "Re-Up Balls"
+  ],
+  "Timer Ball": [
+    "Late Ball",
+    "Late Balls"
+  ],
+  "Luxury Ball": [
+    "Drip Ball",
+    "Drip Balls"
+  ],
+  "Premier Ball": [
+    "VIP Ball",
+    "VIP Balls"
+  ],
+  "Dusk Ball": [
+    "Night Ball",
+    "Night Balls"
+  ],
+  "Heal Ball": [
+    "Henny Ball",
+    "Henny Balls"
+  ],
+  "Quick Ball": [
+    "Dash Ball",
+    "Dash Balls"
+  ],
+  "Cherish Ball": [
+    "Day1 Ball",
+    "Day1 Balls"
+  ],
+  "Potion": [
+    "Hennessy",
+    "Hennessys"
+  ],
+  "Super Potion": [
+    "Henny XO",
+    "Henny XOs"
+  ],
+  "Hyper Potion": [
+    "Patrón",
+    "Patróns"
+  ],
+  "Max Potion": [
+    "Ace o Spades",
+    "Ace o Spades"
+  ],
+  "Full Restore": [
+    "Grey Goose",
+    "Grey Gooses"
+  ],
+  "Antidote": [
+    "Pepto",
+    "Peptos"
+  ],
+  "Burn Heal": [
+    "Aloe Vera",
+    "Aloe Veras"
+  ],
+  "Ice Heal": [
+    "Hot Cheetos",
+    "Hot Cheetos"
+  ],
+  "Awakening": [
+    "Red Bull",
+    "Red Bulls"
+  ],
+  "Parlyz Heal": [
+    "Icy Hot",
+    "Icy Hots"
+  ],
+  "Full Heal": [
+    "Grandma Soup",
+    "Grandma Soups"
+  ],
+  "Revive": [
+    "Smelling Slt",
+    "Smelling Slts"
+  ],
+  "Max Revive": [
+    "Narcan",
+    "Narcans"
+  ],
+  "Fresh Water": [
+    "Tap Water",
+    "Tap Waters"
+  ],
+  "Soda Pop": [
+    "Red Pop",
+    "Red Pops"
+  ],
+  "Lemonade": [
+    "Arizona Tea",
+    "Arizona Teas"
+  ],
+  "Moomoo Milk": [
+    "Chocolate Mk",
+    "Chocolate Mks"
+  ],
+  "Ether": [
+    "Ammo Box",
+    "Ammo Boxes"
+  ],
+  "Max Ether": [
+    "Big Ammo Box",
+    "Big Ammo Boxes"
+  ],
+  "Elixir": [
+    "Ammo Crate",
+    "Ammo Crates"
+  ],
+  "Max Elixir": [
+    "Armory",
+    "Armories"
+  ],
+  "Rare Candy": [
+    "Clout",
+    "Clouts"
+  ],
+  "HP Up": [
+    "Protein Bar",
+    "Protein Bars"
+  ],
+  "Protein": [
+    "Pre-Workout",
+    "Pre-Workouts"
+  ],
+  "Iron": [
+    "Kevlar Vest",
+    "Kevlar Vests"
+  ],
+  "Carbos": [
+    "Air Jordans",
+    "Air Jordans"
+  ],
+  "Calcium": [
+    "Scope",
+    "Scopes"
+  ],
+  "Zinc": [
+    "Steel Plate",
+    "Steel Plates"
+  ],
+  "PP Up": [
+    "Extended Mag",
+    "Extended Mags"
+  ],
+  "PP Max": [
+    "Drum Mag",
+    "Drum Mags"
+  ],
+  "X Attack": [
+    "X Hollowpt",
+    "X Hollowpts"
+  ],
+  "X Defend": [
+    "X Vest",
+    "X Vests"
+  ],
+  "X Speed": [
+    "X Sneakers",
+    "X Sneakers"
+  ],
+  "X Accuracy": [
+    "X Red Dot",
+    "X Red Dots"
+  ],
+  "Escape Rope": [
+    "Uber Code",
+    "Uber Codes"
+  ],
+  "Repel": [
+    "Opp Spray",
+    "Opp Sprays"
+  ],
+  "Super Repel": [
+    "Super OppSpr",
+    "Super OppSprs"
+  ],
+  "Max Repel": [
+    "Max OppSpray",
+    "Max OppSprays"
+  ],
+  "Nugget": [
+    "Gold Grill",
+    "Gold Grills"
+  ],
+  "Big Mushroom": [
+    "Big Stack",
+    "Big Stacks"
+  ],
+  "TinyMushroom": [
+    "Lil Stack",
+    "Lil Stacks"
+  ],
+  "Pearl": [
+    "Stud Earring",
+    "Stud Earrings"
+  ],
+  "Big Pearl": [
+    "Big Diamond",
+    "Big Diamonds"
+  ],
+  "Stardust": [
+    "Pocket Lint",
+    "Pocket Lint"
+  ],
+  "Star Piece": [
+    "Iced Watch",
+    "Iced Watches"
+  ],
+  "Fire Stone": [
+    "Lighter",
+    "Lighters"
+  ],
+  "Water Stone": [
+    "H2O Balloon",
+    "H2O Balloons"
+  ],
+  "Thunderstone": [
+    "Car Battery",
+    "Car Batteries"
+  ],
+  "Leaf Stone": [
+    "Lawn Mower",
+    "Lawn Mowers"
+  ],
+  "Moon Stone": [
+    "Moon Rock",
+    "Moon Rocks"
+  ],
+  "Sun Stone": [
+    "Sunglasses",
+    "Sunglasses"
+  ],
+  "Oran Berry": [
+    "Takis",
+    "Takis"
+  ],
+  "Sitrus Berry": [
+    "Flamin’ Hots",
+    "Flamin’ Hots"
+  ],
+  "Lum Berry": [
+    "Pickle",
+    "Pickles"
+  ],
+  "Leftovers": [
+    "Takeout Box",
+    "Takeout Boxes"
+  ],
+  "Bicycle": [
+    "Stolen Bike",
+    "Stolen Bikes"
+  ]
+}

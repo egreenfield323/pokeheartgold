@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0345_R10R0202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Gym...\r</language>
+		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Block...\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Gym...</language>
+		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Block...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0345_R10R0202_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, how’s my old MAGNETON doing?</language>
+		<language name="English">Ayo, how’s my old MAGNETON doing?</language>
 	</row>
 	<row id="msg_0345_R10R0202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: I-I-I’m ready to blast\nsomething!\rWho would dare steal a part from the\ngenerator?\rI spent so much time fixing it!\nIf I catch him, he’s going to see\fwhat I can do with my Charge Beam!</language>
+		<language name="English">Manager: I-I-I’m ready to blast\nsomething!\rWho would dare steal a part from the\ngenerator?\rI spent so much time fixing it!\nIf I catch him, he’s finna see\fwhat I can do with my Charge Beam!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0345_R10R0202_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: Wahah! Thanks!\rHere! Go ahead and take this TM\nas a reward!\r</language>
+		<language name="English">Manager: Wahah! Good looks!\rHere! Go ahead and take this TM\nas a reward!\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

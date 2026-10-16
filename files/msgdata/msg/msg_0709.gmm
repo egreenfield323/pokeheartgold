@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0709_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nYou’ve got a Pokémon with you, right?\rThat’s...\nThat’s pretty sweet, isn’t it?\rIf you were blazing up and down the\nroad as fast as you could, like me, you\fwouldn’t be able to have your Pokémon\falongside you.\rMakes me a bit jealous of you, to tell\nthe truth.</language>
+		<language name="English">You...\nYou’ve got a Pokémon with you, right?\rThat’s...\nThat’s pretty sweet, ain’t it?\rIf you were blazing up and down the\nroad as fast as you could, like me, you\fwouldn’t be able to have your Pokémon\falongside you.\rMakes me a bit jealous of you, to tell\nthe truth.</language>
 	</row>
 	<row id="msg_0709_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

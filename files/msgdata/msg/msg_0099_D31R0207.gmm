@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0099_D31R0207_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please find a partner from the Trainers\nthat are gathered here.\r</language>
+		<language name="English">Please find a partner from the Hustlers\nthat are gathered here.\r</language>
 	</row>
 	<row id="msg_0099_D31R0207_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0099_D31R0207_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for choosing a partner.\rI will now show you to your\nMulti Battle Room.\r</language>
+		<language name="English">Good looks for choosing a partner.\rI will now show you to your\nMulti Battle Room.\r</language>
 	</row>
 	<row id="msg_0099_D31R0207_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0099_D31R0207_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mira: Hi, hi!\nI’m with my {STRVAR_1 0, 0, 0}!\fIt’s really good with {STRVAR_1 6, 1, 0}!\rThe other one is my {STRVAR_1 0, 2, 0}.\nIts {STRVAR_1 6, 3, 0} is awesome!\rDo you want to join with me? {YESNO 0}</language>
+		<language name="English">Mira: Ayo, hi!\nI’m with my {STRVAR_1 0, 0, 0}!\fIt’s really good with {STRVAR_1 6, 1, 0}!\rThe other one is my {STRVAR_1 0, 2, 0}.\nIts {STRVAR_1 6, 3, 0} is awesome!\rDo you want to join with me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0099_D31R0207_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

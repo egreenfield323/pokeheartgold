@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0696_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Bird Keeper friend isn’t a bad thing to\nhave, I’d say...\rWon’t you reconsider?</language>
+		<language name="English">A Bird Keeper homie ain’t a bad thing to\nhave, I’d say...\rWon’t you reconsider?</language>
 	</row>
 	<row id="msg_0696_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to battle tough Trainers as\noften as I can!\rCould I get your number?\nLet’s meet up for more battles!{YESNO 0}</language>
+		<language name="English">I want to battle tough Hustlers as\noften as I can!\rCould I get your number?\nLet’s meet up for more battles!{YESNO 0}</language>
 	</row>
 	<row id="msg_0696_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0696_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re nearby, aren’t you?\rWhy not come and talk in person?</language>
+		<language name="English">You’re nearby, ain’t you?\rWhy not come and talk in person?</language>
 	</row>
 	<row id="msg_0696_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

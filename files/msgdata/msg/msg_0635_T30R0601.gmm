@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry...\rThere isn’t any move I can make\nthat Pokémon remember.</language>
+		<language name="English">Sorry...\rThere ain’t any move I can make\nthat Pokémon remember.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

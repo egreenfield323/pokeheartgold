@@ -169,7 +169,7 @@
 	</row>
 	<row id="msg_0738_UNION_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">... ...\nThe Trainer appears to be busy...</language>
+		<language name="English">... ...\nThe Hustler appears to be busy...</language>
 	</row>
 	<row id="msg_0738_UNION_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0738_UNION_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s get drawing!</language>
+		<language name="English">Good looks for waiting!\nLet’s get drawing!</language>
 	</row>
 	<row id="msg_0738_UNION_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -231,7 +231,7 @@
 	</row>
 	<row id="msg_0738_UNION_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’re good!\nI’ll try to imitate you!</language>
+		<language name="English">Sheesh, you’re good!\nI’ll try to imitate you!</language>
 	</row>
 	<row id="msg_0738_UNION_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -243,7 +243,7 @@
 	</row>
 	<row id="msg_0738_UNION_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s get our battle started!</language>
+		<language name="English">Good looks for waiting!\nLet’s get our battle started!</language>
 	</row>
 	<row id="msg_0738_UNION_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -303,7 +303,7 @@
 	</row>
 	<row id="msg_0738_UNION_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s mix our records, then.</language>
+		<language name="English">Good looks for waiting!\nLet’s mix our records, then.</language>
 	</row>
 	<row id="msg_0738_UNION_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -311,7 +311,7 @@
 	</row>
 	<row id="msg_0738_UNION_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: We’re going to mix our\nrecords now.\rI know! {STRVAR_1 3, 1, 0}, do you want\nto mix your records with us, too? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: We’re finna mix our\nrecords now.\rI know! {STRVAR_1 3, 1, 0}, do you want\nto mix your records with us, too? {YESNO 0}</language>
 	</row>
 	<row id="msg_0738_UNION_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -332,7 +332,7 @@
 	</row>
 	<row id="msg_0738_UNION_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to mix records with\neveryone!</language>
+		<language name="English">I’m finna mix records with\neveryone!</language>
 	</row>
 	<row id="msg_0738_UNION_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -361,7 +361,7 @@
 	</row>
 	<row id="msg_0738_UNION_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: We’re going to do a Spin\nTrade now.\rHey, {STRVAR_1 3, 1, 0}! Do you want to join\nus for a Spin Trade, too?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: We’re finna do a Spin\nTrade now.\rHey, {STRVAR_1 3, 1, 0}! Do you want to join\nus for a Spin Trade, too?</language>
 	</row>
 	<row id="msg_0738_UNION_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -415,7 +415,7 @@
 	</row>
 	<row id="msg_0738_UNION_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">... ...\nThe Trainer appears to be busy...</language>
+		<language name="English">... ...\nThe Hustler appears to be busy...</language>
 	</row>
 	<row id="msg_0738_UNION_00101" index="101">
 		<attribute name="window_context_name">garbage</attribute>
@@ -460,7 +460,7 @@
 	</row>
 	<row id="msg_0738_UNION_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Thanks for waiting!\nLet’s get drawing!</language>
+		<language name="English">OK! Good looks for waiting!\nLet’s get drawing!</language>
 	</row>
 	<row id="msg_0738_UNION_00112" index="112">
 		<attribute name="window_context_name">garbage</attribute>
@@ -469,7 +469,7 @@
 	</row>
 	<row id="msg_0738_UNION_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nYou’re really good!</language>
+		<language name="English">Sheesh!\nYou’re really good!</language>
 	</row>
 	<row id="msg_0738_UNION_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -565,7 +565,7 @@
 	</row>
 	<row id="msg_0738_UNION_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s mix some records!</language>
+		<language name="English">Good looks for waiting!\nLet’s mix some records!</language>
 	</row>
 	<row id="msg_0738_UNION_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
@@ -577,7 +577,7 @@
 	</row>
 	<row id="msg_0738_UNION_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to keep mixing!</language>
+		<language name="English">I’m finna keep mixing!</language>
 	</row>
 	<row id="msg_0738_UNION_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -585,7 +585,7 @@
 	</row>
 	<row id="msg_0738_UNION_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wonder what’s going to happen?</language>
+		<language name="English">I wonder what’s finna happen?</language>
 	</row>
 	<row id="msg_0738_UNION_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
@@ -668,19 +668,19 @@
 	</row>
 	<row id="msg_0738_UNION_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may communicate with other\nplayers and mix your records.\rWhat will happen if you mix records,\nyou ask?\rWe recommend that you try it and\nsee!\rUp to five players can take part,\nso try it with your friends!\r</language>
+		<language name="English">You may communicate with other\nplayers and mix your records.\rWhat will happen if you mix records,\nyou ask?\rWe recommend that you try it and\nsee!\rUp to five players can take part,\nso try it with your homies!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a Spin Trade, participants each bring\nan Egg for trading with others.\rWhich Egg will you end up with?\nWhat kind of Pokémon is in that Egg?\fIt’s quite exciting and fun!\rUp to five players can take part, so\ntry it with your friends!\r</language>
+		<language name="English">In a Spin Trade, participants each bring\nan Egg for trading with others.\rWhich Egg will you end up with?\nWhat kind of Pokémon is in that Egg?\fIt’s quite exciting and fun!\rUp to five players can take part, so\ntry it with your homies!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may get together with others\nand draw.\rYou all get to work on one sheet\nof paper at the same time.\rI’m sure a drawing made by friends\nwill be a memorable masterpiece!\rUp to five players can take part,\nso try it with your friends!\r</language>
+		<language name="English">You may get together with others\nand draw.\rYou all get to work on one sheet\nof paper at the same time.\rI’m sure a drawing made by homies\nwill be a memorable masterpiece!\rUp to five players can take part,\nso try it with your homies!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can chat with other people\nby selecting “CHAT” in the menu.\rGo out and meet other players in\nthe Union Room!\rLet people know what you’re like\nand what you’d like to do.\rMingle, chat, and add to your\ncircle of friends!\r</language>
+		<language name="English">You can chat with other people\nby selecting “CHAT” in the menu.\rGo out and meet other players in\nthe Union Room!\rLet people know what you’re like\nand what you’d like to do.\rMingle, chat, and add to your\ncircle of homies!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
@@ -697,7 +697,7 @@
 	</row>
 	<row id="msg_0738_UNION_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\rThat’s right!\nIt’s important to say a greeting!\rIf someone arrives, let’s try to\nbe friendly!\r</language>
+		<language name="English">Wassup!\rThat’s right!\nIt’s important to say a greeting!\rIf someone arrives, let’s try to\nbe friendly!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
@@ -705,7 +705,7 @@
 	</row>
 	<row id="msg_0738_UNION_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0, 0} Trainer?\nThat’s what you are?\fIsn’t that something!\rBut I’m sorry to say, I don’t have\nany Pokémon...\rI would rather watch than battle,\nyou see.\r</language>
+		<language name="English">{STRVAR_1 28, 0, 0} Hustler?\nThat’s what you are?\fIsn’t that something!\rBut I’m sorry to say, I don’t have\nany Pokémon...\rI would rather watch than battle,\nyou see.\r</language>
 	</row>
 	<row id="msg_0738_UNION_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
@@ -717,7 +717,7 @@
 	</row>
 	<row id="msg_0738_UNION_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Union Room!\rI’m the only one here now, but\nplease do bring your friends for\fsome fun and excitement!\rIf you have time on your hands,\nI’m also here to chat.\rYou see, I have a lot of time on\nmy hands...\r</language>
+		<language name="English">Welcome to the Union Room!\rI’m the only one here now, but\nplease do bring your homies for\fsome fun and excitement!\rIf you have time on your hands,\nI’m also here to chat.\rYou see, I have a lot of time on\nmy hands...\r</language>
 	</row>
 	<row id="msg_0738_UNION_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -729,7 +729,7 @@
 	</row>
 	<row id="msg_0738_UNION_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong?\nAre you feeling down about something?\rIf you’re feeling blue, it’s much\nbetter to have fun with friends\fthan to be alone.\r</language>
+		<language name="English">What’s wrong?\nAre you feeling down about something?\rIf you’re feeling blue, it’s much\nbetter to have fun with homies\fthan to be alone.\r</language>
 	</row>
 	<row id="msg_0738_UNION_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
@@ -737,7 +737,7 @@
 	</row>
 	<row id="msg_0738_UNION_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0, 0}?\nMe, too, please!\rBut I need to stay here and attend\nto our visitors...\rPlease enjoy it with your friends!\r</language>
+		<language name="English">{STRVAR_1 28, 0, 0}?\nMe, too, please!\rBut I need to stay here and attend\nto our visitors...\rPlease enjoy it with your homies!\r</language>
 	</row>
 	<row id="msg_0738_UNION_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
@@ -753,7 +753,7 @@
 	</row>
 	<row id="msg_0738_UNION_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone has at least one thing\nthey aren’t good at.\rYou should never try to make someone\ndo what they don’t want to do.\rIncidentally, {STRVAR_1 28, 0, 0} is\nsomething that I would like to do.\r</language>
+		<language name="English">Everyone has at least one thing\nthey ain’t good at.\rYou should never try to make someone\ndo what they don’t want to do.\rIncidentally, {STRVAR_1 28, 0, 0} is\nsomething that I would like to do.\r</language>
 	</row>
 	<row id="msg_0738_UNION_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
@@ -761,7 +761,7 @@
 	</row>
 	<row id="msg_0738_UNION_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want to chat?\rWell, you shouldn’t be wasting your\ntime chatting with me.\rYou need to be more active and talk\nto other players.\rAfter all, you can’t make friends\nif you don’t talk to people.\r</language>
+		<language name="English">You want to chat?\rWell, you shouldn’t be wasting your\ntime chatting with me.\rYou need to be more active and talk\nto other players.\rAfter all, you can’t make homies\nif you don’t talk to people.\r</language>
 	</row>
 	<row id="msg_0738_UNION_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
@@ -861,15 +861,15 @@
 	</row>
 	<row id="msg_0738_UNION_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s friend</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s homie</language>
 	</row>
 	<row id="msg_0738_UNION_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}’s friend</language>
+		<language name="English">{STRVAR_1 3, 1, 0}’s homie</language>
 	</row>
 	<row id="msg_0738_UNION_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 2, 0}’s friend</language>
+		<language name="English">{STRVAR_1 3, 2, 0}’s homie</language>
 	</row>
 	<row id="msg_0738_UNION_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
@@ -877,7 +877,7 @@
 	</row>
 	<row id="msg_0738_UNION_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!</language>
+		<language name="English">Wassup!</language>
 	</row>
 	<row id="msg_0738_UNION_00213" index="213">
 		<attribute name="window_context_name">used</attribute>

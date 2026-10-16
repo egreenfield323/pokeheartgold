@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0467_T04_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nMisty, the Gym Leader, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
+		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nMisty, the Block Boss, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
 	</row>
 	<row id="msg_0467_T04_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0467_T04_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shady character sneaked into\nthe Gym! What business does\fhe have with Misty?</language>
+		<language name="English">A shady character sneaked into\nthe Block! What business does\fhe have with Misty?</language>
 	</row>
 	<row id="msg_0467_T04_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0467_T04_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is...\nThe notorious Cerulean Cave!\rHorribly powerful Pokémon live here.\nOnly those who have defeated all eight\fKanto Gym Leaders are allowed to\fchallenge it.</language>
+		<language name="English">This is...\nThe notorious Cerulean Cave!\rHorribly powerful Pokémon live here.\nOnly those who have defeated all eight\fKanto Block Bosses are allowed to\fchallenge it.</language>
 	</row>
 	<row id="msg_0467_T04_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City Pokémon Gym\nLeader: Misty\fThe Tomboyish Mermaid</language>
+		<language name="English">Cerulean City block\nLeader: Misty\fThe Tomboyish Mermaid</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

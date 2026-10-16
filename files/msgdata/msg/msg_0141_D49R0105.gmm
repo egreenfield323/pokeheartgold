@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0141_D49R0105_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a cool flag!\nAnd it’s yours!</language>
+		<language name="English">It’s a hard flag!\nAnd it’s yours!</language>
 	</row>
 	<row id="msg_0141_D49R0105_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

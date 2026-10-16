@@ -133,7 +133,7 @@
 	</row>
 	<row id="msg_0026_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Trainer battles excluding\nUnion Room and Frontier</language>
+		<language name="English">No. of Hustler battles excluding\nUnion Room and Frontier</language>
 	</row>
 	<row id="msg_0026_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="msg_0026_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The total money spent shopping</language>
+		<language name="English">The total bread spent shopping</language>
 	</row>
 	<row id="msg_0026_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -218,7 +218,7 @@
 	</row>
 	<row id="msg_0026_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times Pokémon were traded\nwith friends at the Wi-Fi Club</language>
+		<language name="English">No. of times Pokémon were traded\nwith homies at the Wi-Fi Club</language>
 	</row>
 	<row id="msg_0026_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -270,7 +270,7 @@
 	</row>
 	<row id="msg_0026_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Poffins cooked with friends</language>
+		<language name="English">No. of Poffins cooked with homies</language>
 	</row>
 	<row id="msg_0026_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -286,7 +286,7 @@
 	</row>
 	<row id="msg_0026_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of matches against your rival &amp;\nGym Leaders at the Battleground</language>
+		<language name="English">No. of matches against your rival &amp;\nBlock Bosses at the Battleground</language>
 	</row>
 	<row id="msg_0026_00066" index="66">
 		<attribute name="window_context_name">used</attribute>

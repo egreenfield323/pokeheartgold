@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0678_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have got some nerve!\nThat’s awesome!\fJust what I look for in a friend!\rWhadda ya say we trade phone\nnumbers and be best friends? {YESNO 0}</language>
+		<language name="English">You have got some nerve!\nThat’s awesome!\fJust what I look for in a homie!\rWhadda ya say we trade phone\nnumbers and be best homies? {YESNO 0}</language>
 	</row>
 	<row id="msg_0678_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nCall me anytime!\rAbout studying,\nor about Pokémon,\for about a puzzle,\for about a Gym trick.\fEven if you don’t run into anything\fdifficult, you can still give me a call!\rI probably won’t know the answer, but\nI’ll at least be able to listen!\r’Cause we’re friends, you know?</language>
+		<language name="English">All right!\nCall me anytime!\rAbout studying,\nor about Pokémon,\for about a puzzle,\for about a Block trick.\fEven if you don’t run into anything\fdifficult, you can still give me a call!\rI probably won’t know the answer, but\nI’ll at least be able to listen!\r’Cause we’re homies, you know?</language>
 	</row>
 	<row id="msg_0678_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

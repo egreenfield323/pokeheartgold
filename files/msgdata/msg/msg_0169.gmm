@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0169_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends Max</language>
+		<language name="English">Homies Max</language>
 	</row>
 	<row id="msg_0169_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -210,7 +210,7 @@
 	</row>
 	<row id="msg_0169_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Register friends</language>
+		<language name="English">Register homies</language>
 	</row>
 	<row id="msg_0169_00053" index="53">
 		<attribute name="window_context_name">used</attribute>

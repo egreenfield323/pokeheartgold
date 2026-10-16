@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0493_T07PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokégear you have--\nit’s way too cool!\rIs that the...latest model?</language>
+		<language name="English">That Pokégear you have--\nit’s way too hard!\rIs that the...latest model?</language>
 	</row>
 	<row id="msg_0493_T07PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,6 +10,6 @@
 	</row>
 	<row id="msg_0493_T07PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Game Corner in this city used\nto be run by Team Rocket...\rBut when Team Rocket was removed,\nthis rich, game-loving man renovated\fthe Game Corner for the fun of it.</language>
+		<language name="English">The Game Corner in this city used\nto be run by The Feds...\rBut when The Feds was removed,\nthis rich, game-loving man renovated\fthe Game Corner for the fun of it.</language>
 	</row>
 </body>

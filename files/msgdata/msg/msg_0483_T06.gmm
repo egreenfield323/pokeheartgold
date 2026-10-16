@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0483_T06_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon is preparing the land\nfor construction.\rBut I have no money to start\nthe project.</language>
+		<language name="English">My Pokémon is preparing the land\nfor construction.\rBut I have no bread to start\nthe project.</language>
 	</row>
 	<row id="msg_0483_T06_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,23 +14,23 @@
 	</row>
 	<row id="msg_0483_T06_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are eight Gyms in Kanto.\rThat big building is Vermilion’s\nPokémon Gym.</language>
+		<language name="English">There are eight Blocks in Kanto.\rThat big building is Vermilion’s\nblock.</language>
 	</row>
 	<row id="msg_0483_T06_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skilled Trainers gather in Kanto.\nGym Leaders are especially strong.\rThey won’t be easy to defeat.</language>
+		<language name="English">Skilled Hustlers gather in Kanto.\nBlock Bosses are especially strong.\rThey won’t be easy to defeat.</language>
 	</row>
 	<row id="msg_0483_T06_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve started to collect Kanto\nGym Badges?\rDon’t you agree that the Trainers\nhere are tough?</language>
+		<language name="English">You’ve started to collect Kanto\nGym Chains?\rDon’t you agree that the Hustlers\nhere are tough?</language>
 	</row>
 	<row id="msg_0483_T06_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I guess you’ll be finished with your\nconquest of Kanto Gyms soon.\rLet me know if you get all\neight Badges.</language>
+		<language name="English">I guess you’ll be finished with your\nconquest of Kanto Blocks soon.\rLet me know if you get all\neight Chains.</language>
 	</row>
 	<row id="msg_0483_T06_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou got all the Kanto Gym Badges.\rI’ve got a reward for your efforts.\r</language>
+		<language name="English">Congratulations!\nYou got all the Kanto Block Chains.\rI’ve got a reward for your efforts.\r</language>
 	</row>
 	<row id="msg_0483_T06_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0483_T06_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City Pokémon Gym\nLeader: Lt. Surge\fThe Lightning American</language>
+		<language name="English">Vermilion City block\nLeader: Lt. Surge\fThe Lightning American</language>
 	</row>
 	<row id="msg_0483_T06_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0483_T06_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nMy name is Steven.\fThe Champion from the Hoenn region.\rHave we met...before?\rThat’s not possible.\nAll the Trainers I have battled\fseem to have the same look, anyway.\rEspecially the ones who gave me\ntough battles...\r</language>
+		<language name="English">Ayo!\nMy name is Steven.\fThe Kingpin from the Hoenn region.\rHave we met...before?\rThat’s not possible.\nAll the Hustlers I have battled\fseem to have the same look, anyway.\rEspecially the ones who gave me\ntough battles...\r</language>
 	</row>
 	<row id="msg_0483_T06_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -86,11 +86,11 @@
 	</row>
 	<row id="msg_0483_T06_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Trainer will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIAS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Hustler will be drawn to it,\nwon’t they?\r</language>
 	</row>
 	<row id="msg_0483_T06_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Trainer will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIOS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Hustler will be drawn to it,\nwon’t they?\r</language>
 	</row>
 	<row id="msg_0483_T06_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

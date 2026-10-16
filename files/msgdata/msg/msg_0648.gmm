@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0648_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOK, now I can hear you.\fYeah, I’m in top form.\r</language>
+		<language name="English">Wassup...\nOK, now I can hear you.\fYeah, I’m in top form.\r</language>
 	</row>
 	<row id="msg_0648_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are there any Gym Leaders you haven’t\nbattled yet?\fStep up! Get on it!</language>
+		<language name="English">Are there any Block Bosses you haven’t\nbattled yet?\fStep up! Get on it!</language>
 	</row>
 	<row id="msg_0648_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -46,15 +46,15 @@
 	</row>
 	<row id="msg_0648_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know our plans to meet at the\nFighting Dojo in Saffron City?\fThat’s still on your mind, isn’t it?</language>
+		<language name="English">You know our plans to meet at the\nFighting Dojo in Saffron City?\fThat’s still on your mind, ain’t it?</language>
 	</row>
 	<row id="msg_0648_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dad told me something when I was\na kid.\rHe said “Falkner, bird Pokémon don’t\njust fly with their wings, they soar\fthrough the sky because that’s what\fthey want to do with all their heart.”\rThat’s just like my dad.</language>
+		<language name="English">My dad told me something when I was\na youngblood.\rHe said “Falkner, bird Pokémon don’t\njust fly with their wings, they soar\fthrough the sky because that’s what\fthey want to do with all their heart.”\rThat’s just like my dad.</language>
 	</row>
 	<row id="msg_0648_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The scaffolding in my Gym was in bad\nshape when you came to battle, eh?\rEvery year, we give the place a\nthorough scrubbing. It’s a challenge.\rBut the bird Pokémon help us out,\nso we’re able to manage.</language>
+		<language name="English">The scaffolding in my Block was in bad\nshape when you came to battle, eh?\rEvery year, we give the place a\nthorough scrubbing. It’s a challenge.\rBut the bird Pokémon help us out,\nso we’re able to manage.</language>
 	</row>
 	<row id="msg_0648_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

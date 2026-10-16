@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0013_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer’s quote</language>
+		<language name="English">Hustler’s quote</language>
 	</row>
 	<row id="msg_0013_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -353,7 +353,7 @@
 	</row>
 	<row id="msg_0013_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team: Trainer type</language>
+		<language name="English">Team: Hustler type</language>
 	</row>
 	<row id="msg_0013_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -1331,7 +1331,7 @@
 	</row>
 	<row id="msg_0013_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ace Trainer♂</language>
+		<language name="English">Ace Hustler♂</language>
 	</row>
 	<row id="msg_0013_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
@@ -1367,7 +1367,7 @@
 	</row>
 	<row id="msg_0013_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ace Trainer♀</language>
+		<language name="English">Ace Hustler♀</language>
 	</row>
 	<row id="msg_0013_00328" index="328">
 		<attribute name="window_context_name">used</attribute>

@@ -227,7 +227,7 @@
 	</row>
 	<row id="msg_0804_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s unsafe to approach if it gets\nviolently enraged for no reason and\ncan’t distinguish friends from foes.</language>
+		<language name="English">It’s unsafe to approach if it gets\nviolently enraged for no reason and\ncan’t distinguish homies from foes.</language>
 	</row>
 	<row id="msg_0804_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -235,7 +235,7 @@
 	</row>
 	<row id="msg_0804_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Extremely loyal, it will fearlessly\nbark at any opponent to protect\nits own Trainer from harm.</language>
+		<language name="English">Extremely loyal, it will fearlessly\nbark at any opponent to protect\nits own Hustler from harm.</language>
 	</row>
 	<row id="msg_0804_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -403,7 +403,7 @@
 	</row>
 	<row id="msg_0804_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was discovered when Poké Balls\nwere introduced. It is said that\nthere is some connection.</language>
+		<language name="English">It was discovered when Hood Balls\nwere introduced. It is said that\nthere is some connection.</language>
 	</row>
 	<row id="msg_0804_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -455,7 +455,7 @@
 	</row>
 	<row id="msg_0804_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Being few in number and difficult to\ncapture, it is said to bring happiness\nto the Trainer who catches it.</language>
+		<language name="English">Being few in number and difficult to\ncapture, it is said to bring happiness\nto the Hustler who catches it.</language>
 	</row>
 	<row id="msg_0804_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -547,7 +547,7 @@
 	</row>
 	<row id="msg_0804_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It fluffs out its fur collar to cool down\nits body temperature, which can reach\n1,650 degrees Fahrenheit.</language>
+		<language name="English">It fluffs out its fur collar to hard down\nits body temperature, which can reach\n1,650 degrees Fahrenheit.</language>
 	</row>
 	<row id="msg_0804_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
@@ -1575,7 +1575,7 @@
 	</row>
 	<row id="msg_0804_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Trainer.</language>
+		<language name="English">It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Hustler.</language>
 	</row>
 	<row id="msg_0804_00394" index="394">
 		<attribute name="window_context_name">used</attribute>

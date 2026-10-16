@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0522_T10R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Pokémon League, you’ll get\ntested by the Elite Four.\fYou have to beat them all.\rIf you lose, you have to start\nall over!</language>
+		<language name="English">At the Big League, you’ll get\ntested by the Elite Four.\fYou have to beat them all.\rIf you lose, you have to start\nall over!</language>
 	</row>
 	<row id="msg_0522_T10R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Trainers suddenly feel\ndiscouraged and leave.\rMy ABRA can take you home.\nBut...\rTrainers just Fly home lately...\nI feel left out.\fI am sure my ABRA feels the same way.</language>
+		<language name="English">Some Hustlers suddenly feel\ndiscouraged and leave.\rMy ABRA can take you home.\nBut...\rTrainers just Fly home lately...\nI feel left out.\fI am sure my ABRA feels the same way.</language>
 	</row>
 	<row id="msg_0522_T10R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0522_T10R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hold it.\rYou’re going to take the Pokémon\nLeague challenge now?\rYou’ll have to give up on that.\rMy well-trained-beyond-recognition\nPokémon are going to pound you.\rRight now, right here!\nI challenge you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Hold it.\rYou’re finna take the Pokémon\nLeague challenge now?\rYou’ll have to give up on that.\rMy well-trained-beyond-recognition\nPokémon are finna pound you.\rRight now, right here!\nI challenge you!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Oh, no... I still can’t\nwin after all that training...\rI...I have to believe more in my\nPokémon...\r...No big deal.\nSorry to have got in the way.\rDon’t forget to rest your Pokémon\nbefore you challenge the Champion!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Oh, no... I still can’t\nwin after all that training...\rI...I have to believe more in my\nPokémon...\r...No big deal.\nSorry to have got in the way.\rDon’t forget to rest your Pokémon\nbefore you challenge the Kingpin!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

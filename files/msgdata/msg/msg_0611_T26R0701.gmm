@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Hi!\n...!\rThese empty dishes in front of me\nare not all mine...\rEr...\rActually, the person who sat here\nahead of me ate a lot...\rAnyway, do you want to exchange\nphone numbers? {YESNO 0}</language>
+		<language name="English">Jasmine: Ayo!\n...!\rThese empty dishes in front of me\nare not all mine...\rEr...\rActually, the person who sat here\nahead of me ate a lot...\rAnyway, do you want to exchange\nphone numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

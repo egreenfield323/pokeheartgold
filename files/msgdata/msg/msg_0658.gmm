@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0658_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? How are you?\nI’m doing great as usual!\r</language>
+		<language name="English">Wassup? How are you?\nI’m doing great as usual!\r</language>
 	</row>
 	<row id="msg_0658_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many stronger Gym\nLeaders than me out there.\rYou’re trying to visit every Gym around\nthe region, aren’t you?\fThat’s great! Keep up the good work!</language>
+		<language name="English">There are so many stronger Block\nLeaders than me out there.\rYou’re trying to visit every Block\naround the region, ain’t you?\fThat’s great! Keep up the good work!</language>
 	</row>
 	<row id="msg_0658_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0658_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Gym has such a different trick to it,\ndoesn’t it?\rIt may seem like it was really difficult\nto get a trick like that set up...\fBut the truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the\nGym, then all the Pokémon helped us\ffinish everything else up!</language>
+		<language name="English">My Block has such a different trick to\nit, doesn’t it?\rIt may seem like it was really difficult\nto get a trick like that set up...\fBut the truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the Gym,\nthen all the Pokémon helped us\ffinish everything else up!</language>
 	</row>
 	<row id="msg_0658_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

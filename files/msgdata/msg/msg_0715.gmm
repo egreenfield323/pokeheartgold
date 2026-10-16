@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0715_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nYou think I’m cool right?\rSo how about we exchange phone\nnumbers? {YESNO 0}</language>
+		<language name="English">You...\nYou think I’m hard right?\rSo how about we exchange phone\nnumbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0715_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it! I knew you’d think I\nwas cool!\rSo, shall we trade phone\nnumbers now? {YESNO 0}</language>
+		<language name="English">I knew it! I knew you’d think I\nwas hard!\rSo, shall we trade phone\nnumbers now? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0715_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you keep all the Pokémon you\ncapture in PC Boxes?\rMe, I usually just let them go...\rThat reminds me, I recently let this\n{STRVAR_1 0, 11, 0} go...\rThat’s kind of a waste, isn’t it?</language>
+		<language name="English">Do you keep all the Pokémon you\ncapture in PC Boxes?\rMe, I usually just let them go...\rThat reminds me, I recently let this\n{STRVAR_1 0, 11, 0} go...\rThat’s kind of a waste, ain’t it?</language>
 	</row>
 	<row id="msg_0715_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0715_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\nDo you remember your promise?\rWe have to battle soon!\nI’ll be at the {STRVAR_1 4, 3, 0}.</language>
+		<language name="English">Wassup?\nDo you remember your promise?\rWe have to battle soon!\nI’ll be at the {STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0715_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

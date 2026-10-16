@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0396_R39_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rUse Headbutt on trees to shake\nPokémon out.\rDifferent kinds of Pokémon drop out\nof trees.\rUse Headbutt on any tree you see!</language>
+		<language name="English">Hustler Tips\rUse Headbutt on trees to shake\nPokémon out.\rDifferent kinds of Pokémon drop out\nof trees.\rUse Headbutt on any tree you see!</language>
 	</row>
 	<row id="msg_0396_R39_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0396_R39_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Wow!\nThis turned out to be a really\fgood one!\rWe root for Route 39!</language>
+		<language name="English">Lt. Surge: Sheesh!\nThis turned out to be a really\fgood one!\rWe root for Route 39!</language>
 	</row>
 	<row id="msg_0396_R39_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

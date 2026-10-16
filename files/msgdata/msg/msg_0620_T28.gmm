@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0620_T28_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya, kid!\rI see you’re new in Mahogany Town.\nSince you’re new, you should try a\fyummy RageCandyBar!\rRight now, it can be yours for just\n$300! Want one? {YESNO 0}</language>
+		<language name="English">Hiya, youngblood!\rI see you’re new in Mahogany Town.\nSince you’re new, you should try a\fyummy RageCandyBar!\rRight now, it can be yours for just\n$300! Want one? {YESNO 0}</language>
 	</row>
 	<row id="msg_0620_T28_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0620_T28_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.</language>
+		<language name="English">You don’t have enough bread.</language>
 	</row>
 	<row id="msg_0620_T28_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.\r</language>
+		<language name="English">You don’t have enough bread.\r</language>
 	</row>
 	<row id="msg_0620_T28_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -80,6 +80,6 @@
 	</row>
 	<row id="msg_0620_T28_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town Pokémon Gym\nLeader: Pryce\fThe Teacher of Winter’s Harshness</language>
+		<language name="English">Mahogany Town block\nLeader: Pryce\fThe Teacher of Winter’s Harshness</language>
 	</row>
 </body>

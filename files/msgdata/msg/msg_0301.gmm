@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren’t six Pokémon in\nthe PC Boxes.</language>
+		<language name="English">There ain’t six Pokémon in\nthe PC Boxes.</language>
 	</row>
 	<row id="msg_0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

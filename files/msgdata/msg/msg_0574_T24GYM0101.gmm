@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0574_T24GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Hmm... I lost?\rHow about that!\nAll right. You’re worthy of\fthe Storm Badge!\r</language>
+		<language name="English">Chuck: Hmm... I lost?\rHow about that!\nAll right. You’re worthy of\fthe Storm Chain!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Storm Badge from Chuck!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Storm Chain from Chuck!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: The Storm Badge lets your\nPokémon Fly to any city or town you’ve\falready been to!\rHere, take this, too!\r</language>
+		<language name="English">Chuck: The Storm Chain lets your\nPokémon Fly to any city or town you’ve\falready been to!\rHere, take this, too!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0574_T24GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Wahahah!\nI enjoyed battling you!\rBut a loss is a loss!\rFrom now on, I’m going to train\n24 hours a day!</language>
+		<language name="English">Chuck: Wahahah!\nI enjoyed battling you!\rBut a loss is a loss!\rFrom now on, I’m finna train\n24 hours a day!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0574_T24GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym</language>
+		<language name="English">Cianwood City block</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym\rLeader: Chuck\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Cianwood City block\rLeader: Chuck\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

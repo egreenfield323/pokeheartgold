@@ -1,0 +1,20 @@
+{
+  "_comment": "Route 29 (Lyra's recruiting tutorial).",
+  "0": "Lyra: Aye pimp! {STRVAR_1 3, 0, 0}!\\nYou can recruit homies off the street\\fwith Hood Balls.\\rWatch how I do it! Follow me!\\r",
+  "1": "Ethan: Ayo! {STRVAR_1 3, 0, 0}!\\nYou can recruit homies off the street\\fwith Hood Balls.\\rWatch how I do it! Follow me!\\r",
+  "2": "...Just like that!\\r...\\nHuh? Too fast for you?\\rAight, one more time. This way!\\r",
+  "3": "See? Easy!\\rIt's better to rough 'em up\\nfirst, then hit 'em with the pitch,\\for knock 'em out cold or somethin'.\\rTry all kinda stuff and\\nsee what works. Be creative.\\rHere, take these. Stay dangerous!\\r",
+  "4": "See? Easy!\\rIt's better to rough 'em up\\nfirst, then hit 'em with the pitch,\\for knock 'em out cold or somethin'.\\rTry all kinda stuff and\\nsee what works. Be creative.\\rHere, take these. Stay dangerous!\\r",
+  "7": "Lyra: Bet! I'm out!\\r",
+  "8": "Ethan: Bet! I'm out!\\r",
+  "9": "Ayo, how your homies doin'?\\rIf they weak and ain't ready to\\nscrap, stay outta the tall grass.",
+  "10": "You see them ledges?\\nScary to jump off, ngl.\\rBut you can get back to New Bark\\nwithout goin' through the grass.",
+  "11": "I needed a break, so I\\nsaved my progress. Self care.",
+  "12": "I'm waitin' on homies that\\nonly come out in the day.",
+  "13": "I'm waitin' on homies that\\nonly come out at night. Like me.",
+  "14": "I'm waitin' on homies that\\nonly come out in the mornin'.",
+  "15": "Rt. 29\\nWest to Cherrygrove City",
+  "16": "Rt. 29\\nEast to New Bark Town",
+  "17": "Lyra: Aye pimp, there you go!\\r",
+  "18": "Ethan: Ayo, there you go!\\r"
+}

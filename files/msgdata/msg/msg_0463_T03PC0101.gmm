@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0463_T03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Yeah, and the Gym in Cinnabar’s\ngone. I was really amazed.\r...Yes? I’m on the phone.\nGo away!</language>
+		<language name="English">...Yeah, and the Block in Cinnabar’s\ngone. I was really amazed.\r...Yes? I’m on the phone.\nGo away!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="msg_0463_T03PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like the cool XATU\nI traded you?\rIt’s so cool, because it used to be\nwith cool me!</language>
+		<language name="English">How do you like the hard XATU\nI traded you?\rIt’s so hard, because it used to be\nwith hard me!</language>
 	</row>
 </body>

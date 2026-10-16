@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0656_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?!\nOh, hey, sorry for shouting!\rI’m doing great!\r</language>
+		<language name="English">Wassup?!\nOh, hey, sorry for shouting!\rI’m doing great!\r</language>
 	</row>
 	<row id="msg_0656_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’re some stronger\nGym Leaders around.\fDon’t lose heart! Keep going!</language>
+		<language name="English">You know there’re some stronger\nBlock Bosses around.\fDon’t lose heart! Keep going!</language>
 	</row>
 	<row id="msg_0656_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0656_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’m just going to say this\nonce, but I...\rI really like sweets. They’re the best.\rAfter training every day, the thing\nthat I absolutely look forward to more\fthan anything is sneaking behind my\fwife’s back to eat something sweet.\rFortunately, I haven’t been packing on\ntoo many pounds...\rOh! Don’t tell my wife! Please!</language>
+		<language name="English">You know, I’m just finna say this\nonce, but I...\rI really like sweets. They’re the best.\rAfter training every day, the thing\nthat I absolutely look forward to more\fthan anything is sneaking behind my\fwife’s back to eat something sweet.\rFortunately, I haven’t been packing on\ntoo many pounds...\rOh! Don’t tell my wife! Please!</language>
 	</row>
 	<row id="msg_0656_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately my Gym’s waterfall device has\nbeen malfunction... Aaaaahh!\rBoomwhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh...!\r...Haa haaa haaaaa. Sorry.\nWhile I was on the phone with you, the\fdevice broke and I just got doused\fwith water.\rI’ll call you back once things have\ncalmed down a bit here!</language>
+		<language name="English">Lately my Block’s waterfall device has\nbeen malfunction... Aaaaahh!\rBoomwhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh...!\r...Haa haaa haaaaa. Sorry.\nWhile I was on the phone with you, the\fdevice broke and I just got doused\fwith water.\rI’ll call you back once things have\ncalmed down a bit here!</language>
 	</row>
 </body>

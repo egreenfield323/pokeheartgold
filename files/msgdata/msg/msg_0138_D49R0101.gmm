@@ -242,7 +242,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. Oh, you must be new here.\nWelcome to the Athlete Shop!\rHave you and your Pokémon\nbeen exercising?\rFlying sweat!\nBreathing in unison!\fNewborn friendship!\rWe support your Pokéathlete lifestyle.\nThe Athlete Points you have earned\fcan be used here for prizes.\rLet me say this again.\nWelcome to the Athlete Shop! {YESNO 0}</language>
+		<language name="English">Wassup. Oh, you must be new here.\nWelcome to the Athlete Shop!\rHave you and your Pokémon\nbeen exercising?\rFlying sweat!\nBreathing in unison!\fNewborn friendship!\rWe support your Pokéathlete lifestyle.\nThe Athlete Points you have earned\fcan be used here for prizes.\rLet me say this again.\nWelcome to the Athlete Shop! {YESNO 0}</language>
 	</row>
 	<row id="msg_0138_D49R0101_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -254,7 +254,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you, please come again.</language>
+		<language name="English">Good looks, please come again.</language>
 	</row>
 	<row id="msg_0138_D49R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rThis is the place we keep the Pokéathlon\ndatabase.\rUsing the Data Card at the monitor\nnext to me will allow you to check your\frecords.\rSome are cool, and some are...\nembarrassing!\rPlease make good use of it.\rWould you like to buy a Data Card\nthat contains Pokéathlon\frecords? {YESNO 0}</language>
+		<language name="English">Welcome!\rThis is the place we keep the Pokéathlon\ndatabase.\rUsing the Data Card at the monitor\nnext to me will allow you to check your\frecords.\rSome are hard, and some are...\nembarrassing!\rPlease make good use of it.\rWould you like to buy a Data Card\nthat contains Pokéathlon\frecords? {YESNO 0}</language>
 	</row>
 	<row id="msg_0138_D49R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -286,11 +286,11 @@
 	</row>
 	<row id="msg_0138_D49R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you. Please come again!</language>
+		<language name="English">Good looks. Please come again!</language>
 	</row>
 	<row id="msg_0138_D49R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, Pokéathlete {STRVAR_1 3, 0, 0}!\rAre you working on breaking your own\nrecords? You can check your records\fat the monitor next to me.\rCheck it out from time to time!</language>
+		<language name="English">Wassup, Pokéathlete {STRVAR_1 3, 0, 0}!\rAre you working on breaking your own\nrecords? You can check your records\fat the monitor next to me.\rCheck it out from time to time!</language>
 	</row>
 	<row id="msg_0138_D49R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -370,11 +370,11 @@
 	</row>
 	<row id="msg_0138_D49R0101_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Hi, {STRVAR_1 3, 0, 0}! Are you here\nfor the Pokéathlon? Me, too!\rI have been so excited since its\nconstruction. It is close to Goldenrod\fCity, you know?\r</language>
+		<language name="English">Whitney: Ayo, {STRVAR_1 3, 0, 0}! Are you here\nfor the Pokéathlon? Me, too!\rI have been so excited since its\nconstruction. It is close to Goldenrod\fCity, you know?\r</language>
 	</row>
 	<row id="msg_0138_D49R0101_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\rWere you going to participate in\nthe Pokéathlon looking like that?\rYou’re not prepared at all, are you?\rSo...\nAre you a medium or a small?\fYou look more like a medium...\rOK!\nI’ll get you a jersey that suits you!\rYou want to look your best if you’re\ngoing to participate in the Pokéathlon,\fdon’t you?\rWait right there!\r</language>
+		<language name="English">Huh?\rWere you finna participate in\nthe Pokéathlon looking like that?\rYou’re not prepared at all, are you?\rSo...\nAre you a medium or a small?\fYou look more like a medium...\rOK!\nI’ll get you a jersey that suits you!\rYou want to look your best if you’re\ngoing to participate in the Pokéathlon,\fdon’t you?\rWait right there!\r</language>
 	</row>
 	<row id="msg_0138_D49R0101_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -406,7 +406,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not enough money...</language>
+		<language name="English">Not enough bread...</language>
 	</row>
 	<row id="msg_0138_D49R0101_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -454,7 +454,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for accessing!</language>
+		<language name="English">Good looks for accessing!</language>
 	</row>
 	<row id="msg_0138_D49R0101_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
@@ -462,7 +462,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you have such good eyes! Can\nI tell you about my last dream? {YESNO 0}</language>
+		<language name="English">Sheesh, you have such good eyes! Can\nI tell you about my last dream? {YESNO 0}</language>
 	</row>
 	<row id="msg_0138_D49R0101_00104" index="104">
 		<attribute name="window_context_name">used</attribute>

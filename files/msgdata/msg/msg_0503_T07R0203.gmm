@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0503_T07R0203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you did it!\nYou have filled up the\fJohto Pokédex!\rImpressive! I’m amazed!\nI will reward you for that!\fSeriously!\r</language>
+		<language name="English">Sheesh, you did it!\nYou have filled up the\fJohto Pokédex!\rImpressive! I’m amazed!\nI will reward you for that!\fSeriously!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! Excellent!\nYou completed your Pokédex!\fCongratulations!\rYou must be the genius of the century!\nSeriously!\rGame Freak will give you an award\nand prove that it’s the truth!\r</language>
+		<language name="English">Sheesh! Excellent!\nYou completed your Pokédex!\fCongratulations!\rYou must be the genius of the century!\nSeriously!\rGame Freak will give you an award\nand prove that it’s the truth!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0503_T07R0203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Sound Designer!\nI compose music.\rI’ll give you something cool if you\nmanage to collect all eight\fKanto Badges and show them to me.</language>
+		<language name="English">I am the Sound Designer!\nI compose music.\rI’ll give you something hard if you\nmanage to collect all eight\fKanto Chains and show them to me.</language>
 	</row>
 	<row id="msg_0503_T07R0203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Sound Designer!\nI compose music.\rWow, you have collected\nall the Kanto Badges already!\fThat’s great!\rI’ll give you something cool\nfor that.\r</language>
+		<language name="English">I am the Sound Designer!\nI compose music.\rWow, you have collected\nall the Kanto Chains already!\fThat’s great!\rI’ll give you something hard\nfor that.\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0503_T07R0203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -59,11 +59,11 @@
 	</row>
 	<row id="msg_0503_T07R0203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Guess what?\rThat Sound Designer over there\nshowed me something cool.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Badges.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
+		<language name="English">Lyra: Guess what?\rThat Sound Designer over there\nshowed me something hard.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Chains.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Guess what?\rThat Sound Designer over there\nshowed me something cool.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Badges.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
+		<language name="English">Ethan: Guess what?\rThat Sound Designer over there\nshowed me something hard.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Chains.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

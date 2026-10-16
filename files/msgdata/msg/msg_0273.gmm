@@ -79,7 +79,7 @@
 	</row>
 	<row id="msg_0273_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fate of many Trainers aiming for\nthe top rests here.</language>
+		<language name="English">The fate of many Hustlers aiming for\nthe top rests here.</language>
 	</row>
 	<row id="msg_0273_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -241,7 +241,7 @@
 	</row>
 	<row id="msg_0273_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that tests Trainers\naiming at the Pokémon League.</language>
+		<language name="English">A road that tests Hustlers\naiming at the Big League.</language>
 	</row>
 	<row id="msg_0273_00060" index="60">
 		<attribute name="window_context_name">garbage</attribute>
@@ -405,7 +405,7 @@
 	</row>
 	<row id="msg_0273_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A grassy path where you can battle\nother young Trainers.</language>
+		<language name="English">A grassy path where you can battle\nother young Hustlers.</language>
 	</row>
 	<row id="msg_0273_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
@@ -433,7 +433,7 @@
 	</row>
 	<row id="msg_0273_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A popular route for Trainers, marked\nby three Apricorn trees.</language>
+		<language name="English">A popular route for Hustlers, marked\nby three Apricorn trees.</language>
 	</row>
 	<row id="msg_0273_00107" index="107">
 		<attribute name="window_context_name">used</attribute>

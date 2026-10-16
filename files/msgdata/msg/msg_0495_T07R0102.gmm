@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0495_T07R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just recently became a Trainer.\fMy son encouraged me to do it.\rI’m impressed by the selection of\nconvenient items.</language>
+		<language name="English">I just recently became a Hustler.\fMy son encouraged me to do it.\rI’m impressed by the selection of\nconvenient items.</language>
 	</row>
 	<row id="msg_0495_T07R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0495_T07R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Top Grade Items for Trainers!\n2F: Trainer’s Market</language>
+		<language name="English">Top Grade Items for Hustlers!\n2F: Hustler’s Market</language>
 	</row>
 	<row id="msg_0495_T07R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0226_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♎{COLOR 0}POKé BALLS</language>
+		<language name="English">{COLOR 2}♎{COLOR 0}HOOD BALLS</language>
 	</row>
 	<row id="msg_0226_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

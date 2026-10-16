@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0691_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! Gee, thanks!\rNow I can call you anytime, whether\nanything’s up or not.\rYou know, just to chat!</language>
+		<language name="English">Sheesh! Gee, thanks!\rNow I can call you anytime, whether\nanything’s up or not.\rYou know, just to chat!</language>
 	</row>
 	<row id="msg_0691_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,31 +22,31 @@
 	</row>
 	<row id="msg_0691_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Wait, aren’t you nearby?</language>
+		<language name="English">Huh? Wait, ain’t you nearby?</language>
 	</row>
 	<row id="msg_0691_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by The Feds!\r...Um... What’s The Feds?</language>
 	</row>
 	<row id="msg_0691_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by The Feds!\r...Um... What’s The Feds?</language>
 	</row>
 	<row id="msg_0691_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your homie!\nCall you later!</language>
 	</row>
 	<row id="msg_0691_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your homie!\nCall you later!</language>
 	</row>
 	<row id="msg_0691_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
+		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Block!\nTh-that’s just incredible!\rI actually went to the Block’s\nentrance to cheer you on.\rDid you know that? But everyone had\nthese candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
+		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Block!\nTh-that’s just incredible!\rI actually went to the Block’s\nentrance to cheer you on.\rDid you know that? But everyone had\nthese candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0691_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
+		<language name="English">I heard, I heard, I heard!\rYou smashed The Feds’ hideout!\nYou’re like a movie hero, even!\rBut, um... What was The Feds?\rI’m totally out of the loop, ain’t I?</language>
 	</row>
 	<row id="msg_0691_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
+		<language name="English">I heard, I heard, I heard!\rYou smashed The Feds’ hideout!\nYou’re like a movie hero, even!\rBut, um... What was The Feds?\rI’m totally out of the loop, ain’t I?</language>
 	</row>
 	<row id="msg_0691_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -162,6 +162,6 @@
 	</row>
 	<row id="msg_0691_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are you?\rWhat are you doing?\rWhere are you?\rHow many Badges do you have now?\rHow much money have you saved?\rHow’s your mom?\rHave you got lots of Pokémon?\rIs it going to be sunny tomorrow?\rArrgh, there’s so much I want to\nchat about! This is going nowhere!</language>
+		<language name="English">How are you?\rWhat are you doing?\rWhere are you?\rHow many Chains do you have now?\rHow much bread have you saved?\rHow’s your mom?\rHave you got lots of Pokémon?\rIs it finna be sunny tomorrow?\rArrgh, there’s so much I want to\nchat about! This is going nowhere!</language>
 	</row>
 </body>

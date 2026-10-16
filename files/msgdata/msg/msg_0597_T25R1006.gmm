@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Even Team Rocket would understand\nhow refreshing it is to listen to the\fRadio on the rooftop, right?</language>
+		<language name="English">Even The Feds would understand\nhow refreshing it is to listen to the\fRadio on the rooftop, right?</language>
 	</row>
 	<row id="msg_0597_T25R1006_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\rYou should have a drink from the\nvending machine and take a break.\rIt’s about time you started thinking\nof how you want to live your life.</language>
+		<language name="English">The Feds...\rYou should have a drink from the\nvending machine and take a break.\rIt’s about time you started thinking\nof how you want to live your life.</language>
 	</row>
 	<row id="msg_0597_T25R1006_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not enough money...</language>
+		<language name="English">Not enough bread...</language>
 	</row>
 	<row id="msg_0597_T25R1006_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nYou’ve got yourself the no. {STRVAR_1 50, 0, 0} prize!\rPlease take it.\r</language>
+		<language name="English">Sheesh!\nYou’ve got yourself the no. {STRVAR_1 50, 0, 0} prize!\rPlease take it.\r</language>
 	</row>
 	<row id="msg_0597_T25R1006_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
@@ -63,11 +63,11 @@
 	</row>
 	<row id="msg_0597_T25R1006_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my...\nYour Bag is full.\rThen we’ll refund you the money.\r</language>
+		<language name="English">Oh my...\nYour Bag is full.\rThen we’ll refund you the bread.\r</language>
 	</row>
 	<row id="msg_0597_T25R1006_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my...\nYou’re short of money.\rPlease come again.</language>
+		<language name="English">Oh my...\nYou’re short of bread.\rPlease come again.</language>
 	</row>
 	<row id="msg_0597_T25R1006_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

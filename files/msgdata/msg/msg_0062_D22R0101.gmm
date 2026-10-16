@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0062_D22R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I may not look like it, but I have\nmany Pokéwalkers on me!\fThey make loud noises as I walk.\rMaybe taking a Stroll isn’t as easy as\nI thought...</language>
+		<language name="English">I may not look like it, but I have\nmany Pokéwalkers on me!\fThey make loud noises as I walk.\rMaybe taking a Stroll ain’t as easy as\nI thought...</language>
 	</row>
 	<row id="msg_0062_D22R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pay attention, please!\r...Oops, I have to quit thinking like\na teacher all the time.\rYou must be a Pokémon Trainer.\rSince you’re working so hard,\nI want you to have this.\r</language>
+		<language name="English">Pay attention, please!\r...Oops, I have to quit thinking like\na teacher all the time.\rYou must be a Pokémon Hustler.\rSince you’re working so hard,\nI want you to have this.\r</language>
 	</row>
 	<row id="msg_0062_D22R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0062_D22R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s fun having a Pokémon out of its\nPoké Ball to walk with it,\fbut the Pokéwalker is a whole\fnew dimension.</language>
+		<language name="English">It’s fun having a Pokémon out of its\nHood Ball to walk with it,\fbut the Pokéwalker is a whole\fnew dimension.</language>
 	</row>
 	<row id="msg_0062_D22R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -111,7 +111,7 @@
 	</row>
 	<row id="msg_0062_D22R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is this notice?\rNo ball playing allowed\nother than Poké Balls.\r           National Park\n           Warden’s Office</language>
+		<language name="English">What is this notice?\rNo ball playing allowed\nother than Hood Balls.\r           National Park\n           Warden’s Office</language>
 	</row>
 	<row id="msg_0062_D22R0101_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -399,11 +399,11 @@
 	</row>
 	<row id="msg_0062_D22R0101_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Hi, {STRVAR_1 3, 0, 0}!\nWe have a Bug-Catching Contest\ftomorrow!\rI have won the Contest many\ntimes, so I won’t participate.\rBut you should try it.\fI’m sure you can win!</language>
+		<language name="English">Bugsy: Ayo, {STRVAR_1 3, 0, 0}!\nWe have a Bug-Catching Contest\ftomorrow!\rI have won the Contest many\ntimes, so I won’t participate.\rBut you should try it.\fI’m sure you can win!</language>
 	</row>
 	<row id="msg_0062_D22R0101_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Hi, {STRVAR_1 3, 0, 0}!\nWe have a Bug-Catching Contest\ftomorrow!\rI have won the Contest many\ntimes, so I won’t participate.\rBut you should try it.\nI’m sure you can win!\rBy the way, will you take a\npicture with me? {YESNO 0}</language>
+		<language name="English">Bugsy: Ayo, {STRVAR_1 3, 0, 0}!\nWe have a Bug-Catching Contest\ftomorrow!\rI have won the Contest many\ntimes, so I won’t participate.\rBut you should try it.\nI’m sure you can win!\rBy the way, will you take a\npicture with me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0062_D22R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>

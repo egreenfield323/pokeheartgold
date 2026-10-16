@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0653_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nWhat’s going on?\fI’m doing great.\r</language>
+		<language name="English">Wassup...\nWhat’s going on?\fI’m doing great.\r</language>
 	</row>
 	<row id="msg_0653_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are stronger Gym Leaders than\nme out there. They’re all waiting to\fcheer you on!</language>
+		<language name="English">There are stronger Block Bosses than\nme out there. They’re all waiting to\fcheer you on!</language>
 	</row>
 	<row id="msg_0653_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0653_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How have you been?\nAnything interesting happening?\rI’m doing the same as usual, just my\nregular Gym Leader duties.\rThere haven’t been any really strong\nTrainers here since you came through.\rSeems like you’re one of those genius\nTrainers you seldom meet.\rHa ha ha! I don’t mean to flatter you!</language>
+		<language name="English">How have you been?\nAnything interesting happening?\rI’m doing the same as usual, just my\nregular Block Boss duties.\rThere haven’t been any really strong\nTrainers here since you came through.\rSeems like you’re one of those genius\nTrainers you seldom meet.\rHa ha ha! I don’t mean to flatter you!</language>
 	</row>
 </body>

@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you are a Team Rocket member...</language>
+		<language name="English">Oh, you are a The Feds member...</language>
 	</row>
 	<row id="msg_0583_T25PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...!</language>
+		<language name="English">The Feds...!</language>
 	</row>
 	<row id="msg_0583_T25PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,6 +26,6 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, I don’t mind restoring a Pokémon’s\nhealth, even when they belong to\fTeam Rocket...\rBut stay away from other places, OK?</language>
+		<language name="English">Hey, I don’t mind restoring a Pokémon’s\nhealth, even when they belong to\fThe Feds...\rBut stay away from other places, OK?</language>
 	</row>
 </body>

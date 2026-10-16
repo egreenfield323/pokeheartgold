@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0607_T26PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, are you a Trainer?\rYou came at just the right time!\nI just finished putting my Ball Capsule\fon my Poké Ball.\rDo you want to battle and be\namazed by my decoration? {YESNO 0}</language>
+		<language name="English">Oh, are you a Hustler?\rYou came at just the right time!\nI just finished putting my Ball Capsule\fon my Hood Ball.\rDo you want to battle and be\namazed by my decoration? {YESNO 0}</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0607_T26PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can turn your Poké Balls into your\nown special creations by adding Seals.\rHow cool is it to have a Poké Ball that\nonly you have in the entire world?\fGive it a whirl!\rOh, remember to put the Ball Capsule\non a Poké Ball once it’s ready!</language>
+		<language name="English">You can turn your Hood Balls into your\nown special creations by adding Seals.\rHow hard is it to have a Hood Ball that\nonly you have in the entire world?\fGive it a whirl!\rOh, remember to put the Ball Capsule\non a Hood Ball once it’s ready!</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

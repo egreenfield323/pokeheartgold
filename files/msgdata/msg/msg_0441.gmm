@@ -144,15 +144,15 @@
 	</row>
 	<row id="msg_0441_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: My Battle Hall allows Trainers\nto mount challenges with their one\fpreferred Pokémon.\rI imagine there were tense moments\ngetting here with your chosen one.\rBut understand that one shines the\nbrightest when a challenge is overcome.\rI am Argenta, and I am your final and\nmost daunting challenge.\rI dare you to overcome my challenge.\r</language>
+		<language name="English">Argenta: My Battle Hall allows Hustlers\nto mount challenges with their one\fpreferred Pokémon.\rI imagine there were tense moments\ngetting here with your chosen one.\rBut understand that one shines the\nbrightest when a challenge is overcome.\rI am Argenta, and I am your final and\nmost daunting challenge.\rI dare you to overcome my challenge.\r</language>
 	</row>
 	<row id="msg_0441_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: Well!\nMy goodness, your Pokémon...\fIt’s got star power beyond belief.\rEven from inside its Poké Ball, I can\nfeel its charismatic brilliance.\rBut I’m the Hall Matron.\nI’ll be the judge of that.\rI must battle it for myself and see if\nthat brilliance is genuine.\rThat is why we must battle now.\r</language>
+		<language name="English">Argenta: Well!\nMy goodness, your Pokémon...\fIt’s got star power beyond belief.\rEven from inside its Hood Ball, I can\nfeel its charismatic brilliance.\rBut I’m the Hall Matron.\nI’ll be the judge of that.\rI must battle it for myself and see if\nthat brilliance is genuine.\rThat is why we must battle now.\r</language>
 	</row>
 	<row id="msg_0441_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: A good Trainer doesn’t force\ntheir preferred Pokémon on anyone.\rA good one keeps with their favorite\nwithout drama or fanfare.\rThat is how I see it, at least.\rAnd, by the way I see it, you’re an\nexcellent Trainer!\rBe sure to visit the Battle Hall again\nwith a favorite Pokémon.\rUntil then, bye-bye!\r</language>
+		<language name="English">Argenta: A good Hustler doesn’t force\ntheir preferred Pokémon on anyone.\rA good one keeps with their favorite\nwithout drama or fanfare.\rThat is how I see it, at least.\rAnd, by the way I see it, you’re an\nexcellent Hustler!\rBe sure to visit the Battle Hall again\nwith a favorite Pokémon.\rUntil then, bye-bye!\r</language>
 	</row>
 	<row id="msg_0441_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

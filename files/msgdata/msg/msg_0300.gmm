@@ -360,7 +360,7 @@
 	</row>
 	<row id="msg_0300_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} isn’t holding\nanything.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ain’t holding\nanything.\r</language>
 	</row>
 	<row id="msg_0300_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -775,7 +775,7 @@
 	</row>
 	<row id="msg_0300_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This isn’t the place for that!\r</language>
+		<language name="English">This ain’t the place for that!\r</language>
 	</row>
 	<row id="msg_0300_00182" index="182">
 		<attribute name="window_context_name">used</attribute>

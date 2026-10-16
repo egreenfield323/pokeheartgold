@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0695_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I see a strong Trainer,\nI want to be their cheerleader.\rWhen I’m out on a walk,\nI sometimes pick up items.\rIf I find anything, you can have it!\rWant to give me your number?\nI’ll call whenever I get anything.{YESNO 0}</language>
+		<language name="English">Whenever I see a strong Hustler,\nI want to be their cheerleader.\rWhen I’m out on a walk,\nI sometimes pick up items.\rIf I find anything, you can have it!\rWant to give me your number?\nI’ll call whenever I get anything.{YESNO 0}</language>
 	</row>
 	<row id="msg_0695_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -62,6 +62,6 @@
 	</row>
 	<row id="msg_0695_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard about Team Rocket?\rThey’ve taken over the Radio Tower in\nGoldenrod.\rAre the people inside safe?</language>
+		<language name="English">Have you heard about The Feds?\rThey’ve taken over the Radio Tower in\nGoldenrod.\rAre the people inside safe?</language>
 	</row>
 </body>

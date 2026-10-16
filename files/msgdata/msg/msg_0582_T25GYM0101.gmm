@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0582_T25GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Hi! I’m Whitney!\r...You!\nI saw you at the Radio Tower just now.\rEveryone was into Pokémon, so I got\ninto it, too!\rPokémon are super cute!\rYou want to battle?\fI’m warning you--I’m good!\r</language>
+		<language name="English">Whitney: Ayo! I’m Whitney!\r...You!\nI saw you at the Radio Tower just now.\rEveryone was into Pokémon, so I got\ninto it, too!\rPokémon are super cute!\rYou want to battle?\fI’m warning you--I’m good!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sniff...\rWhat? What do you want? A Badge?\rOh, right. I forgot.\nHere’s the Plain Badge.\r</language>
+		<language name="English">Whitney: Sniff...\rWhat? What do you want? A Chain?\rOh, right. I forgot.\nHere’s the Plain Chain.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Plain Badge from Whitney.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Plain Chain from Whitney.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: The Plain Badge lets your\nPokémon use Strength outside\fof battle.\rOh, you can have this, too!\r</language>
+		<language name="English">Whitney: The Plain Chain lets your\nPokémon use Strength outside\fof battle.\rOh, you can have this, too!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -43,18 +43,18 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\rThis Gym is home to Normal-type\nPokémon Trainers.\rI recommend you use Fighting-type\nPokémon.</language>
+		<language name="English">Yo! Champ in the making!\rThis Block is home to Normal-type\nPokémon Hustlers.\rI recommend you use Fighting-type\nPokémon.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You won? Great! I was busy admiring\nthe powerful Trainers here.</language>
+		<language name="English">You won? Great! I was busy admiring\nthe powerful Hustlers here.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Pokémon Gym</language>
+		<language name="English">Goldenrod City block</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Pokémon Gym\rLeader: Whitney\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Goldenrod City block\rLeader: Whitney\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

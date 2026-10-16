@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0602_T25R1203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me attempt the alphabet rap using\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land is not where you’ll find\nthe Goldenrod Tunnel.\rL... Looking like criminals in their black\npajamas is Team Rocket.\rD... Um... D... is...\nYeah, I know, lame-o.\fYou give it a try!</language>
+		<language name="English">Let me attempt the alphabet rap using\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land is not where you’ll find\nthe Goldenrod Tunnel.\rL... Looking like criminals in their black\npajamas is The Feds.\rD... Um... D... is...\nYeah, I know, lame-o.\fYou give it a try!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0602_T25R1203_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warps to the GTS and the Trainer\nRankings on 1F.</language>
+		<language name="English">Warps to the GTS and the Hustler\nRankings on 1F.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0602_T25R1203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may post a Battle Video of\nyour Pokémon.\rYou may also view Battle Videos posted\nby other Trainers.\rThe Battle Videos may be sorted by\nPokémon, battle facility, and so on.\rThe Battle Video you post will be\nassigned a 12-digit number.\rYour friends may view your Battle Video\nby entering this 12-digit code here.\r</language>
+		<language name="English">Here, you may post a Battle Video of\nyour Pokémon.\rYou may also view Battle Videos posted\nby other Hustlers.\rThe Battle Videos may be sorted by\nPokémon, battle facility, and so on.\rThe Battle Video you post will be\nassigned a 12-digit number.\rYour homies may view your Battle Video\nby entering this 12-digit code here.\r</language>
 	</row>
 	<row id="msg_0602_T25R1203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

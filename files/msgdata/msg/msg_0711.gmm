@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0711_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re nearby, and yet you’re going to\ncall me on the phone?\rAm I that “dazzling” that you need to\nkeep your distance?</language>
+		<language name="English">You’re nearby, and yet you’re finna\ncall me on the phone?\rAm I that “dazzling” that you need to\nkeep your distance?</language>
 	</row>
 	<row id="msg_0711_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0711_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello! You haven’t forgotten about our\nbattle, have you?\r{STRVAR_1 4, 3, 0}! I’m waiting!</language>
+		<language name="English">Wassup! You haven’t forgotten about\nour battle, have you?\r{STRVAR_1 4, 3, 0}! I’m waiting!</language>
 	</row>
 	<row id="msg_0711_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

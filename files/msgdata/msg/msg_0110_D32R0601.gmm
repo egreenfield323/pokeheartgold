@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0110_D32R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Hustler.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Hustlers.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge.\rHere, a game board is activated\nbefore every match.\rDepending on what comes up on the\ngame board, an event takes place.\rThe events may have great impact on\nthe match’s outcome, good or bad.\rThe objective is to keep a winning\nstreak alive as long as possible.\rDuring your challenge, any items held by\nyour Pokémon will be kept in storage.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Arcade Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">You may team up with a homie for a\nMulti Battle challenge.\rHere, a game board is activated\nbefore every match.\rDepending on what comes up on the\ngame board, an event takes place.\rThe events may have great impact on\nthe match’s outcome, good or bad.\rThe objective is to keep a winning\nstreak alive as long as possible.\rDuring your challenge, any items held by\nyour Pokémon will be kept in storage.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Arcade Multi\nBattle challenge can’t be interrupted.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -118,11 +118,11 @@
 	</row>
 	<row id="msg_0110_D32R0601_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -174,7 +174,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.”{YESNO 0}</language>
+		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.”{YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

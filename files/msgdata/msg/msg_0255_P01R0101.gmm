@@ -38,11 +38,11 @@
 	</row>
 	<row id="msg_0255_P01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello!\nYou are starting to have the\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Professor Oak: Wassup!\nYou are starting to have the\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello!\nYou are starting to have the...\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Professor Oak: Wassup!\nYou are starting to have the...\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

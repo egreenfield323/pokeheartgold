@@ -327,7 +327,7 @@
 	</row>
 	<row id="msg_0803_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is attracted by electromagnetic\nwaves. It may approach Trainers\nif they are using their Pokégear.</language>
+		<language name="English">It is attracted by electromagnetic\nwaves. It may approach Hustlers\nif they are using their Pokégear.</language>
 	</row>
 	<row id="msg_0803_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -635,7 +635,7 @@
 	</row>
 	<row id="msg_0803_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its powerful, well-developed jaws\nare capable of crushing anything.\nEven its Trainer must be careful.</language>
+		<language name="English">Its powerful, well-developed jaws\nare capable of crushing anything.\nEven its Hustler must be careful.</language>
 	</row>
 	<row id="msg_0803_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -711,7 +711,7 @@
 	</row>
 	<row id="msg_0803_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because its wings aren’t yet fully\ngrown, it has to hop to get around.\nIt is always staring at something.</language>
+		<language name="English">Because its wings ain’t yet fully\ngrown, it has to hop to get around.\nIt is always staring at something.</language>
 	</row>
 	<row id="msg_0803_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
@@ -875,7 +875,7 @@
 	</row>
 	<row id="msg_0803_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It never sleeps. It has to keep\nmoving because if it stopped, its\nmagma body would cool and harden.</language>
+		<language name="English">It never sleeps. It has to keep\nmoving because if it stopped, its\nmagma body would hard and harden.</language>
 	</row>
 	<row id="msg_0803_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
@@ -1575,7 +1575,7 @@
 	</row>
 	<row id="msg_0803_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Trainer.</language>
+		<language name="English">It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Hustler.</language>
 	</row>
 	<row id="msg_0803_00394" index="394">
 		<attribute name="window_context_name">used</attribute>

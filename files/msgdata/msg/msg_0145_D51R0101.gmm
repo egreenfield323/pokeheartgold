@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0145_D51R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, hello!\rIt’s so freezing, isn’t it?\rFor a youngster like you to be\ninterested in the Sinjoh Ruins is\fnot something we see every day.\rTake a look at them.\rFrom the design of the pillars at the\nSinjoh Ruins, you can see that the\fcultures of Sinnoh and Johto\fhave blended.\r</language>
+		<language name="English">Well, hello!\rIt’s so freezing, ain’t it?\rFor a youngster like you to be\ninterested in the Sinjoh Ruins is\fnot something we see every day.\rTake a look at them.\rFrom the design of the pillars at the\nSinjoh Ruins, you can see that the\fcultures of Sinnoh and Johto\fhave blended.\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0145_D51R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, we happen to have a person\nat the cabin.\rAny Trainer should know who she is.\nThe famous Trainer from Sinnoh!\rShe is traveling around to study\nmyths and ancient ruins.\fIsn’t that something?\r</language>
+		<language name="English">By the way, we happen to have a person\nat the cabin.\rAny Hustler should know who she is.\nThe famous Hustler from Sinnoh!\rShe is traveling around to study\nmyths and ancient ruins.\fIsn’t that something?\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>

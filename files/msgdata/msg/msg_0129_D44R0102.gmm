@@ -19,7 +19,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You don’t have any room for this.\rI’m going back to the Gym, so make\nroom, then come see me there.\r</language>
+		<language name="English">Oh? You don’t have any room for this.\rI’m going back to the Block, so make\nroom, then come see me there.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...\nWhat? {STRVAR_1 3, 0, 0}?\rYeah, I am training my Pokémon here.\nYou can laugh at me now...\rBut it needs to be done.\nMy Pokémon aren’t ready to beat you.\fI can’t push them too hard now.\rI have to be disciplined to become\nthe greatest Pokémon Trainer...</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...\nWhat? {STRVAR_1 3, 0, 0}?\rYeah, I am training my Pokémon here.\nYou can laugh at me now...\rBut it needs to be done.\nMy Pokémon ain’t ready to beat you.\fI can’t push them too hard now.\rI have to be disciplined to become\nthe greatest Pokémon Hustler...</language>
 	</row>
 	<row id="msg_0129_D44R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -63,11 +63,11 @@
 	</row>
 	<row id="msg_0129_D44R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hi, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Team Rocket hideout.\r</language>
+		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the The Feds hideout.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hi, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Team Rocket hideout.\r</language>
+		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the The Feds hideout.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -127,7 +127,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Excellent one of me!\nAnother cool picture.</language>
+		<language name="English">Clair: Excellent one of me!\nAnother hard picture.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>

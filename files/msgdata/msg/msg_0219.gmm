@@ -7,31 +7,31 @@
 	</row>
 	<row id="msg_0219_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaaaawn...\n...\rHuh? It’s already become so\nbright outside!\r</language>
+		<language name="English">...\n...\r*SNIIIFF*...\n...\rHuh? It’s mornin’ already?\nI been up since Tuesday!\r</language>
 	</row>
 	<row id="msg_0219_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaawn...\n...\rHuh? What?! Is it already that late?!\nOh no! I overslept!\r</language>
+		<language name="English">...\n...\r*sniff sniff*...\n...\rHuh? WHAT?! It’s that late?!\nWhere my pants? Forget it.\r</language>
 	</row>
 	<row id="msg_0219_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rHmm. Looks like the sun is descending\nin the sky...\r...So this would be what is called\n“twilight,” wouldn’t it?\r</language>
+		<language name="English">...\n...\rHmm. The sun goin’ down...\n*sniff*\r...So this what they call\n“twilight,” right? Feels like noon.\r</language>
 	</row>
 	<row id="msg_0219_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rHmm... Interesting...\n...\rHuh? Oh! Excuse me, sorry!\nI was just reading this book here.\r</language>
+		<language name="English">...\n...\rHmm... Interestin’... *sniff*\n...\rHuh? Oh! My bad, my bad!\nI was just... readin’. A book. Yeah.\r</language>
 	</row>
 	<row id="msg_0219_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaaaawn...\n...\rHuh? A guest?\nAt this hour?\r</language>
+		<language name="English">...\n...\r*SNIIIIIFF*...\n...\rHuh? Company?\nAt this hour? I ain’t dressed!\r</language>
 	</row>
 	<row id="msg_0219_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to keep you waiting!\rWelcome to the world of Pokémon!\rMy name is Professor Oak.\rBut everyone calls me the\nPokémon Professor.\rBefore we go any further, I’d like to\ntell you a few things you should\fknow about this world!\r</language>
+		<language name="English">*sniff* Sorry to keep you waitin’!\rWelcome to the world of Pokémon!\rMy name is Professor Oak.\rBut everybody call me the\nPokémon Professor. *sniff*\rBefore we go any further, I gotta\ntell you a few things about\fthis world! Ignore my drawers.\r</language>
 	</row>
 	<row id="msg_0219_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will first tell you important\nthings about this game.\n\nPlease touch any topic you’d like\nto know more about on the\nlower screen.</language>
+		<language name="English">First I’ma tell you the\nimportant stuff about this game.\n\nTap whatever topic you\nwanna know more about on the\nbottom screen. *sniff*</language>
 	</row>
 	<row id="msg_0219_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
@@ -40,39 +40,39 @@
 	</row>
 	<row id="msg_0219_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain this game’s controls.\n\nYou can control this game by\ntouching the lower screen, also\ncalled the Touch Screen.\n\nPlease touch the panel in the\nbottom right of the Touch Screen.</language>
+		<language name="English">I’ma explain the controls.\n\nYou control this game by\ntouchin’ the bottom screen, also\ncalled the Touch Screen.\n\nTap the panel in the\nbottom right of the Touch Screen.</language>
 	</row>
 	<row id="msg_0219_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By touching the Touch Screen\nlike this, you can confirm\nselections and advance\nconversations.</language>
+		<language name="English">Tap the Touch Screen\nlike that to pick stuff\nand keep the convo\ngoin’. *sniff*</language>
 	</row>
 	<row id="msg_0219_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can also advance by pressing\nthe A Button when you see the\nA Button icon on the Touch Screen.</language>
+		<language name="English">You can also keep goin’ by pressin’\nthe A Button when you see the\nA Button icon on the Touch Screen.</language>
 	</row>
 	<row id="msg_0219_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Different touch buttons will appear\non the Touch Screen depending on\nthe situation.</language>
+		<language name="English">Different buttons gon’ pop up\non the Touch Screen dependin’ on\nwhat’s goin’ on.</language>
 	</row>
 	<row id="msg_0219_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next, I’ll explain the button\noperations.\n\nYou can move the main character\naround on the screen using the\n+Control Pad.</language>
+		<language name="English">Next, I’ma explain the buttons.\n\nYou move your character\naround the screen with the\n+Control Pad.</language>
 	</row>
 	<row id="msg_0219_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next, I’ll explain about buttons.\n\nUse the +Control Pad to move\nthe main character.\n\nYou can also use the +Control\nPad to select entries.</language>
+		<language name="English">Next, I’ma explain the buttons.\n\nUse the +Control Pad to move\nyour character.\n\nYou can use the +Control\nPad to pick stuff, too.</language>
 	</row>
 	<row id="msg_0219_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can operate the screens using\nbuttons instead of touching the\nTouch Screen.</language>
+		<language name="English">You can use the buttons\ninstead of touchin’ the\nTouch Screen.</language>
 	</row>
 	<row id="msg_0219_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Used to confirm a choice, check\nthings, chat, and scroll text.\n\nUsed to exit, cancel a choice,\nand cancel a mode.</language>
+		<language name="English">Confirm, check stuff,\ntalk, scroll text.\n\nBack out, cancel,\nnever mind.</language>
 	</row>
 	<row id="msg_0219_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use this to move within menus.\n\nPress to use a Key Item, such\nas a Bicycle, that has been\nregistered in advance.</language>
+		<language name="English">Move around the menus.\n\nPress to use a Key Item, like\na stolen Bicycle you\nregistered ahead of time.</language>
 	</row>
 	<row id="msg_0219_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -101,7 +101,7 @@
 	</row>
 	<row id="msg_0219_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If this mark is shown in the\nmessage window, there are active\nbuttons you can touch on the\nTouch Screen below.</language>
+		<language name="English">If this mark show up in the\ntext box, there’s buttons\nyou can tap on the\nTouch Screen below.</language>
 	</row>
 	<row id="msg_0219_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0219_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you understand everything\nso far? {YESNO 0}</language>
+		<language name="English">You followin’ me so far?\n*sniff* {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
@@ -123,79 +123,79 @@
 	</row>
 	<row id="msg_0219_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.</language>
+		<language name="English">You ’bout to step into a world\nwhere you gon’ go on a big\nadventure all your own.</language>
 	</row>
 	<row id="msg_0219_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speak to people and check things\nwherever you go, be it in towns,\nroads, or caves.\nGather information and hints from\nevery possible source.</language>
+		<language name="English">Talk to people and check stuff\neverywhere you go, the blocks,\nthe roads, the alleys.\nGet the word on the street\nfrom everybody you can.</language>
 	</row>
 	<row id="msg_0219_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New paths will open to you when\nyou help people in need, overcome\nchallenges, and solve mysteries.</language>
+		<language name="English">New paths open up when you\nhelp people out, handle\nyour business, and solve problems.</language>
 	</row>
 	<row id="msg_0219_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At times, you will be challenged\nby others to a battle.\nAt other times, wild creatures\nmay stand in your way.\n\nBy overcoming such hurdles,\nyou will gain great power.</language>
+		<language name="English">Sometimes people gon’ run up\non you for a fight.\nOther times, opps gon’\njump out the grass at you.\n\nGet past all that and\nyou gon’ get real powerful.</language>
 	</row>
 	<row id="msg_0219_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">However, your adventure is not\nsolely about becoming powerful.</language>
+		<language name="English">But your come-up ain’t\njust about bein’ powerful.</language>
 	</row>
 	<row id="msg_0219_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On your travels, we hope that\nyou will meet countless people\nand, through them, achieve\npersonal growth.\n\nThis is the most important\nobjective of this adventure.</language>
+		<language name="English">Out there, we hope you\nmeet a whole lot of people\nand, through them,\ngrow as a person.\n\nThat’s the most important part\nof this whole thing. *sniff*</language>
 	</row>
 	<row id="msg_0219_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This world is widely inhabited by\ncreatures known as Pokémon.\r</language>
+		<language name="English">This world is full of\ncreatures called Pokémon. *sniff*\r</language>
 	</row>
 	<row id="msg_0219_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We humans live alongside Pokémon\nas friends.\rAt times we play together, and at\nother times we work together.\rSome people use their Pokémon to\nbattle and develop closer bonds\fwith them.\r</language>
+		<language name="English">We humans roll with Pokémon\nlike homies.\rSometimes we kick it together,\nsometimes we hustle together.\rSome people throw hands with their\nPokémon and get real close\fwith ’em. Ride or die.\r</language>
 	</row>
 	<row id="msg_0219_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, why don’t you tell me a little bit\nabout yourself?\r</language>
+		<language name="English">Now, tell me a lil somethin’\nabout yourself. *sniff sniff*\r</language>
 	</row>
 	<row id="msg_0219_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you a boy?\nOr are you a girl?\fWon’t you please tell me? {YESNO 0}</language>
+		<language name="English">You a boy?\nOr a girl?\fI can’t see too good right now. {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a boy then? {YESNO 0}</language>
+		<language name="English">So you a boy, then? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a girl then? {YESNO 0}</language>
+		<language name="English">So you a girl, then? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please tell me your name.</language>
+		<language name="English">What’s your name, youngblood?</language>
 	</row>
 	<row id="msg_0219_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your name is {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">Your name {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your name is {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">Your name {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nAre you ready?\rYour very own tale of grand adventure\nis about to unfold.\rFun experiences, difficult experiences,\nthere’s so much waiting for you!\rDreams! Adventure!\nLet’s go to the world of Pokémon!\rI’ll see you later!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\nYou ready?\rYour come-up story is\nabout to start.\rGood times, bad times,\nthere’s so much waitin’ on you!\rDreams! Hustle! *SNIFF*\nLet’s go run the world of Pokémon!\rI’ll see you later! Don’t tell your\nmama what I was wearin’!\r</language>
 	</row>
 	<row id="msg_0219_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTROL INFO</language>
+		<language name="English">CONTROLS</language>
 	</row>
 	<row id="msg_0219_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ADVENTURE INFO</language>
+		<language name="English">STREET INFO</language>
 	</row>
 	<row id="msg_0219_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO INFO NEEDED</language>
+		<language name="English">I’M GOOD</language>
 	</row>
 	<row id="msg_0219_00047" index="47">
 		<attribute name="window_context_name">used</attribute>

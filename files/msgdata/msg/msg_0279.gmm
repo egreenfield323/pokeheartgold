@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0279_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League</language>
+		<language name="English">Big League</language>
 	</row>
 	<row id="msg_0279_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -374,7 +374,7 @@
 	</row>
 	<row id="msg_0279_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainers’ School</language>
+		<language name="English">Hustlers’ School</language>
 	</row>
 	<row id="msg_0279_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
@@ -854,7 +854,7 @@
 	</row>
 	<row id="msg_0279_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket HQ</language>
+		<language name="English">The Feds HQ</language>
 	</row>
 	<row id="msg_0279_00214" index="214">
 		<attribute name="window_context_name">used</attribute>

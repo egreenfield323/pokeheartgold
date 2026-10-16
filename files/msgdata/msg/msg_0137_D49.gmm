@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0137_D49_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon is a sports festival for\nTrainers and Pokémon!\rInside the Dome are various challenges\nawaiting Trainers and Pokémon to test\ftheir friendship.\fWhy don’t you try it?\r</language>
+		<language name="English">Pokéathlon is a sports festival for\nTrainers and Pokémon!\rInside the Dome are various challenges\nawaiting Hustlers and Pokémon to test\ftheir friendship.\fWhy don’t you try it?\r</language>
 	</row>
 	<row id="msg_0137_D49_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="msg_0137_D49_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nWhich Pokémon do you want to give it to?\r</language>
+		<language name="English">Good looks!\nWhich Pokémon do you want to give it to?\r</language>
 	</row>
 	<row id="msg_0137_D49_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -150,7 +150,7 @@
 	</row>
 	<row id="msg_0137_D49_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you don’t have enough money!\r</language>
+		<language name="English">Oh, you don’t have enough bread!\r</language>
 	</row>
 	<row id="msg_0137_D49_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -158,7 +158,7 @@
 	</row>
 	<row id="msg_0137_D49_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! What can I do for you?\r</language>
+		<language name="English">Ayo! What can I do for you?\r</language>
 	</row>
 	<row id="msg_0137_D49_00040" index="40">
 		<attribute name="window_context_name">used</attribute>

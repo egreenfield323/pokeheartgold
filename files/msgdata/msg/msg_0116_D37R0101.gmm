@@ -6,27 +6,27 @@
 	</row>
 	<row id="msg_0116_D37R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You look like an earnest youth.\nHow come you ended up in\fTeam Rocket...?</language>
+		<language name="English">You look like an earnest youth.\nHow come you ended up in\fThe Feds...?</language>
 	</row>
 	<row id="msg_0116_D37R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket never stops bothering\npeople, do they?</language>
+		<language name="English">The Feds never stops bothering\npeople, do they?</language>
 	</row>
 	<row id="msg_0116_D37R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are some shops downstairs...\rBut there are also Trainers.\nI’m scared to go down there.</language>
+		<language name="English">There are some shops downstairs...\rBut there are also Hustlers.\nI’m scared to go down there.</language>
 	</row>
 	<row id="msg_0116_D37R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes...\nTeam Rocket can use the tunnel, too.</language>
+		<language name="English">Yes...\nThe Feds can use the tunnel, too.</language>
 	</row>
 	<row id="msg_0116_D37R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the people working at the tunnel\nleft. No one wants Team Rocket to\fgive them a hard time.</language>
+		<language name="English">All the people working at the tunnel\nleft. No one wants The Feds to\fgive them a hard time.</language>
 	</row>
 	<row id="msg_0116_D37R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}.\nYou are just in time!\r</language>
+		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}.\nYou are just in time!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0116_D37R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}.\nYou are just in time!\r</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}.\nYou are just in time!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

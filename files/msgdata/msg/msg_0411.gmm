@@ -18,10 +18,10 @@
 	</row>
 	<row id="msg_0411_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hello, everyone! It’s Buena!\nTime for today’s password!\nToday’s password is...\n{STRVAR_34 18, 0, 0}!\nDon’t forget it!\nI’m looking forward to your visiting\nme at the Goldenrod City Radio Tower!</language>
+		<language name="English">Buena: Wassup, everyone! It’s Buena!\nTime for today’s password!\nToday’s password is...\n{STRVAR_34 18, 0, 0}!\nDon’t forget it!\nI’m looking forward to your visiting\nme at the Goldenrod City Radio Tower!</language>
 	</row>
 	<row id="msg_0411_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hello, everyone! It’s Buena!\nAll my listeners out there, have you gone\nto the Goldenrod City Radio Tower to get\nyour Blue Card yet? Remember the\npassword we announce on the show, and\ngo to the Goldenrod City Radio Tower.\nIf you come visit me on the second floor\nand tell me the password, you’ll get\npoints on your card! Collect enough\npoints, and you can turn them in for\nsome great prizes! Try your best to\ngather points, everyone!</language>
+		<language name="English">Buena: Wassup, everyone! It’s Buena!\nAll my listeners out there, have you gone\nto the Goldenrod City Radio Tower to get\nyour Blue Card yet? Remember the\npassword we announce on the show, and\ngo to the Goldenrod City Radio Tower.\nIf you come visit me on the second floor\nand tell me the password, you’ll get\npoints on your card! Collect enough\npoints, and you can turn them in for\nsome great prizes! Try your best to\ngather points, everyone!</language>
 	</row>
 </body>

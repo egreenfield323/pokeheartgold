@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0533_T11R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\rKarate King, the Fighting Dojo’s\nmaster, is in a cave in Johto for\ffurther training.</language>
+		<language name="English">Wassup!\rKarate King, the Fighting Dojo’s\nmaster, is in a cave in Johto for\ffurther training.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\rWe are letting the Gym Leaders use the\nDojo while the Karate King is away.\rYou can give them a call when you\nregister their numbers.\rThey say they are happy to accept\nyour challenge as long as they are\fnot busy.</language>
+		<language name="English">Wassup!\rWe are letting the Block Bosss use the\nDojo while the Karate King is away.\rYou can give them a call when you\nregister their numbers.\rThey say they are happy to accept\nyour challenge as long as they are\fnot busy.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0533_T11R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Mmm...\nIt’s still a long way to become\fthe best Trainer...</language>
+		<language name="English">Falkner: Mmm...\nIt’s still a long way to become\fthe best Hustler...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -110,7 +110,7 @@
 	</row>
 	<row id="msg_0533_T11R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Wow!\nYou are getting stronger by\fthe battle!</language>
+		<language name="English">Misty: Sheesh!\nYou are getting stronger by\fthe battle!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0533_T11R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I’ve lost again...\nYou aren’t adventuring around\ffor nothing!</language>
+		<language name="English">Brock: I’ve lost again...\nYou ain’t adventuring around\ffor nothing!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -134,7 +134,7 @@
 	</row>
 	<row id="msg_0533_T11R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Waaah!\rIf I had known this Dojo was going to be\navailable, I wouldn’t have needed to\frebuild my Gym.\rWait! I still did, didn’t I?</language>
+		<language name="English">Blaine: Waaah!\rIf I had known this Dojo was finna be\navailable, I wouldn’t have needed to\frebuild my Block.\rWait! I still did, didn’t I?</language>
 	</row>
 	<row id="msg_0533_T11R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>

@@ -216,11 +216,11 @@
 	</row>
 	<row id="msg_0779_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By exchanging Friend Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo Wi-Fi Connection.</language>
+		<language name="English">By exchanging Homie Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo Wi-Fi Connection.</language>
 	</row>
 	<row id="msg_0779_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To obtain your Friend Code,\nplease log on to Nintendo WFC.</language>
+		<language name="English">To obtain your Homie Code,\nplease log on to Nintendo WFC.</language>
 	</row>
 	<row id="msg_0779_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
@@ -228,7 +228,7 @@
 	</row>
 	<row id="msg_0779_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Friend Code is wrong.\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
+		<language name="English">The Homie Code is wrong.\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
 	</row>
 	<row id="msg_0779_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -236,15 +236,15 @@
 	</row>
 	<row id="msg_0779_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Friend Roster is full!</language>
+		<language name="English">Your Homie Roster is full!</language>
 	</row>
 	<row id="msg_0779_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Friend Code has already been\nregistered before.</language>
+		<language name="English">That Homie Code has already been\nregistered before.</language>
 	</row>
 	<row id="msg_0779_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Friend Code:\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s Homie Code:\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
 	</row>
 	<row id="msg_0779_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -256,7 +256,7 @@
 	</row>
 	<row id="msg_0779_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Friend Roster is full.\nWill you delete someone?</language>
+		<language name="English">Your Homie Roster is full.\nWill you delete someone?</language>
 	</row>
 	<row id="msg_0779_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -264,7 +264,7 @@
 	</row>
 	<row id="msg_0779_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete {STRVAR_1 3, 0, 0}’s data from\nyour Friend Roster?</language>
+		<language name="English">Delete {STRVAR_1 3, 0, 0}’s data from\nyour Homie Roster?</language>
 	</row>
 	<row id="msg_0779_00066" index="66">
 		<attribute name="window_context_name">used</attribute>

@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0519_T09_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\rMy name’s Blue.\nI was once the Kanto Champion.\rAlthough it was short-lived thanks\nto Red...\fAnyway, take a good look around you...\r</language>
+		<language name="English">Who are you?\rMy name’s Blue.\nI was once the Kanto Kingpin.\rAlthough it was short-lived thanks\nto Red...\fAnyway, take a good look around you...\r</language>
 	</row>
 	<row id="msg_0519_T09_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: A volcano erupts, and just\nlike that, a whole town disappears.\rWe can go on winning and losing in\nPokémon, but if nature so much as\ftwitches, we can be overwhelmed\fin a second...\rThat’s the way it is...\nBut, anyway, I’m still a Trainer.\rIf I see a strong opponent, it makes me\nwant to battle.\r</language>
+		<language name="English">Blue: A volcano erupts, and just\nlike that, a whole town disappears.\rWe can go on winning and losing in\nPokémon, but if nature so much as\ftwitches, we can be overwhelmed\fin a second...\rThat’s the way it is...\nBut, anyway, I’m still a Hustler.\rIf I see a strong opponent, it makes me\nwant to battle.\r</language>
 	</row>
 	<row id="msg_0519_T09_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\ncome to the Viridian Gym.\r</language>
+		<language name="English">If you want to battle me...for real,\ncome to the Viridian Block.\r</language>
 	</row>
 	<row id="msg_0519_T09_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0519_T09_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\nshow me how many Kanto Badges\fyou’ve got.\r...\n{STRVAR_1 50, 0, 0}...\rYou’re not ready to battle me...</language>
+		<language name="English">If you want to battle me...for real,\nshow me how many Kanto Chains\fyou’ve got.\r...\n{STRVAR_1 50, 0, 0}...\rYou’re not ready to battle me...</language>
 	</row>
 	<row id="msg_0519_T09_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0519_T09_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Thanks for the nice picture!</language>
+		<language name="English">Blue: Good looks for the nice picture!</language>
 	</row>
 	<row id="msg_0519_T09_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0519_T09_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Gym!\rWhy not exchange numbers! {YESNO 0}</language>
+		<language name="English">Blaine: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Block!\rWhy not exchange numbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0519_T09_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a notice here...\rThe Cinnabar Gym has relocated\nto Seafoam Islands.\f           Blaine</language>
+		<language name="English">There is a notice here...\rThe Cinnabar Block has relocated\nto Seafoam Islands.\f           Blaine</language>
 	</row>
 	<row id="msg_0519_T09_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

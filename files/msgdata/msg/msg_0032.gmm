@@ -99,11 +99,11 @@
 	</row>
 	<row id="msg_0032_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle against a Trainer.</language>
+		<language name="English">Battle against a Hustler.</language>
 	</row>
 	<row id="msg_0032_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may take a pass and avoid battling\na Trainer.</language>
+		<language name="English">You may take a pass and avoid battling\na Hustler.</language>
 	</row>
 	<row id="msg_0032_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -125,11 +125,11 @@
 	</row>
 	<row id="msg_0032_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">From here on, you may choose “Pass”\nand avoid battling a Trainer.\rIf you don’t wish to battle a certain\nTrainer, choose “Pass.”\r</language>
+		<language name="English">From here on, you may choose “Pass”\nand avoid battling a Hustler.\rIf you don’t wish to battle a certain\nTrainer, choose “Pass.”\r</language>
 	</row>
 	<row id="msg_0032_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caitlin: ...\nDarach! CP for this Trainer at once!</language>
+		<language name="English">Caitlin: ...\nDarach! CP for this Hustler at once!</language>
 	</row>
 	<row id="msg_0032_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -229,7 +229,7 @@
 	</row>
 	<row id="msg_0032_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: Your mastery of Pokémon is as\nbreathtaking as ever.\r{STRVAR_1 3, 0, 0}, you certainly are to be\ncommended.\r...However, if I may say so, I noticed\nsomething about the way you battle.\rAfter all, I have had the opportunity\nto watch you closely firsthand.\rSo, what is it that I noticed?\rAs a Trainer myself, it is but proper\netiquette to show you in a battle.\rLet us begin!\nEn garde!\r</language>
+		<language name="English">Darach: Your mastery of Pokémon is as\nbreathtaking as ever.\r{STRVAR_1 3, 0, 0}, you certainly are to be\ncommended.\r...However, if I may say so, I noticed\nsomething about the way you battle.\rAfter all, I have had the opportunity\nto watch you closely firsthand.\rSo, what is it that I noticed?\rAs a Hustler myself, it is but proper\netiquette to show you in a battle.\rLet us begin!\nEn garde!\r</language>
 	</row>
 	<row id="msg_0032_00056" index="56">
 		<attribute name="window_context_name">used</attribute>

@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0311_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finally here! The amazingly persistent\nGym Leader! How much true power?\r</language>
+		<language name="English">Finally here! The amazingly persistent\nBlock Boss! How much true power?\r</language>
 	</row>
 	<row id="msg_0311_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0311_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! The cute and energetic Gym\nLeader from the Sinnoh region!\r</language>
+		<language name="English">All right! The cute and energetic\nBlock Leader from the Sinnoh region!\r</language>
 	</row>
 	<row id="msg_0311_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0311_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Leader of steel is participating!\nI’ll show you steely determination!\r</language>
+		<language name="English">Block Boss of steel is participating!\nI’ll show you steely determination!\r</language>
 	</row>
 	<row id="msg_0311_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="msg_0311_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader of flight appears!\nMy dad’s Pokémon really soar!\r</language>
+		<language name="English">The Block Boss of flight appears!\nMy dad’s Pokémon really soar!\r</language>
 	</row>
 	<row id="msg_0311_00048" index="48">
 		<attribute name="window_context_name">used</attribute>

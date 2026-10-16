@@ -27,27 +27,27 @@
 	</row>
 	<row id="msg_0435_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is there anything else I may do\nfor you? {YESNO 0}</language>
+		<language name="English">You need anything else, fam? {YESNO 0}</language>
 	</row>
 	<row id="msg_0435_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you need anything else? {YESNO 0}</language>
+		<language name="English">Anything else, boss? {YESNO 0}</language>
 	</row>
 	<row id="msg_0435_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you need anything else?\nAnything at all? {YESNO 0}</language>
+		<language name="English">Anything else? For real,\nanything? {YESNO 0}</language>
 	</row>
 	<row id="msg_0435_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you need anything else?\nHee hee! {YESNO 0}</language>
+		<language name="English">Anything else? Hehe, I got\nthe good stuff in the back. {YESNO 0}</language>
 	</row>
 	<row id="msg_0435_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want anything else? {YESNO 0}</language>
+		<language name="English">You want somethin’ else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0435_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.</language>
+		<language name="English">You don’t have enough bread.</language>
 	</row>
 	<row id="msg_0435_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -129,7 +129,7 @@
 	</row>
 	<row id="msg_0435_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Money</language>
+		<language name="English">Bread</language>
 	</row>
 	<row id="msg_0435_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

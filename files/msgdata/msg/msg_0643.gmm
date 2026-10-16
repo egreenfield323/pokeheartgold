@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0643_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, I turned all the Apricorns you\ngave me into Poké Balls.\rCome pick up the {STRVAR_1 51, 11, 0} {STRVAR_1 8, 10, 0}(s)\nwhenever you’ve got time!</language>
+		<language name="English">Hey, I turned all the Apricorns you\ngave me into Hood Balls.\rCome pick up the {STRVAR_1 51, 11, 0} {STRVAR_1 8, 10, 0}(s)\nwhenever you’ve got time!</language>
 	</row>
 	<row id="msg_0643_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0643_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you bring me some Apricorns, I can\nmake you some Poké Balls.\fCome over whenever you’ve got time!</language>
+		<language name="English">If you bring me some Apricorns, I can\nmake you some Hood Balls.\fCome over whenever you’ve got time!</language>
 	</row>
 	<row id="msg_0643_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0135_D47R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\nYou don’t have enough money.\rI hope you will drop by again.</language>
+		<language name="English">I am sorry.\nYou don’t have enough bread.\rI hope you will drop by again.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\nYou don’t have enough money.\rI hope you drop by again.</language>
+		<language name="English">Owner!\nYou don’t have enough bread.\rI hope you drop by again.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! Is it your first time here at\nthe Safari Zone? {YESNO 0}</language>
+		<language name="English">Ayo! Is it your first time here at\nthe Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I have been waiting for you!\nWhat do you think?\rThis is a brand-new Safari Zone.\nBy the way...\rI just had an idea.\nWould you like to take the Owner\fAptitude Test? {YESNO 0}</language>
+		<language name="English">Ayo, I have been waiting for you!\nWhat do you think?\rThis is a brand-new Safari Zone.\nBy the way...\rI just had an idea.\nWould you like to take the Owner\fAptitude Test? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, I never thought anyone\nwould decline!\rYou can become the Safari Zone Owner,\ndon’t you see?\rOwner...\nIt’s got a nice ring to it, doesn’t it?\rYou should try the test! {YESNO 0}</language>
+		<language name="English">Sheesh, I never thought anyone\nwould decline!\rYou can become the Safari Zone Owner,\ndon’t you see?\rOwner...\nIt’s got a nice ring to it, doesn’t it?\rYou should try the test! {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -174,7 +174,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I have been waiting for you!\rI had an epiphany!\nA new attraction!\rI’ve decided to call it...\nObject Arrangement!\rThis is going to be fun!\nYou can place objects on the field as\fyou play at the Safari Zone!\r</language>
+		<language name="English">Ayo, I have been waiting for you!\rI had an epiphany!\nA new attraction!\rI’ve decided to call it...\nObject Arrangement!\rThis is finna be fun!\nYou can place objects on the field as\fyou play at the Safari Zone!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -242,7 +242,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have your friend’s\nSafari Zone.\fSorry, but you cannot enter here.\rPlease talk to the attendant next\nto me.</language>
+		<language name="English">You don’t have your homie’s\nSafari Zone.\fSorry, but you cannot enter here.\rPlease talk to the attendant next\nto me.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -258,7 +258,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\nYou don’t have enough money.\rI hope you drop by again.</language>
+		<language name="English">I am sorry.\nYou don’t have enough bread.\rI hope you drop by again.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting contact from your friend.</language>
+		<language name="English">Awaiting contact from your homie.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -371,7 +371,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the reception for the\nSafari Zone Link.\r...Or should I say...is going to be.\rWe’re still not ready.\nPlease come back later.</language>
+		<language name="English">This is the reception for the\nSafari Zone Link.\r...Or should I say...is finna be.\rWe’re still not ready.\nPlease come back later.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -383,7 +383,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can exchange Safari Zones with your\nfriends using the Safari Zone Link.\rYou will be able to play in their\nSafari Zone!\rAreas and Pokémon will be different.\nBeware!\rThe Safari Zone you receive will \ndisappear after 24 hours or if you\freceive another Safari Zone.\rTo your right is the reception for the\nSafari Zone Link.\rTo your left is the reception to play in\nyour friend’s Safari Zone.\rEnjoy the Safari Zone Link!</language>
+		<language name="English">You can exchange Safari Zones with your\nfriends using the Safari Zone Link.\rYou will be able to play in their\nSafari Zone!\rAreas and Pokémon will be different.\nBeware!\rThe Safari Zone you receive will \ndisappear after 24 hours or if you\freceive another Safari Zone.\rTo your right is the reception for the\nSafari Zone Link.\rTo your left is the reception to play in\nyour homie’s Safari Zone.\rEnjoy the Safari Zone Link!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00096" index="96">
 		<attribute name="window_context_name">used</attribute>

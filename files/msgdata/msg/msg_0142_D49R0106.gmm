@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0142_D49R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a cool Pokégear to commemorate\nyour 100th victory in the Pokéathlon.\rThat is your model!\nIt is a special Pokégear with\fthe Pokéathlon logo in the back.</language>
+		<language name="English">It is a hard Pokégear to commemorate\nyour 100th victory in the Pokéathlon.\rThat is your model!\nIt is a special Pokégear with\fthe Pokéathlon logo in the back.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an awesome Poké Ball to\ncommemorate your 50th victory\fin every Pokéathlon event.\rIt’s your model Poké Ball!\nThe engraving reads, “Stay on Top.”</language>
+		<language name="English">It’s an awesome Hood Ball to\ncommemorate your 50th victory\fin every Pokéathlon event.\rIt’s your model Hood Ball!\nThe engraving reads, “Stay on Top.”</language>
 	</row>
 	<row id="msg_0142_D49R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

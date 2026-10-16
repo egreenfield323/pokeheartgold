@@ -6,19 +6,19 @@
 	</row>
 	<row id="msg_0131_D45R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have a certain look...\rIt reminds me of the kid who stood in\nfront of me three years ago...\fYou have the same eyes...\r...\rI’m on my way to Goldenrod City to\nanswer the call and join my team.\fAre you going to get in my way?\r</language>
+		<language name="English">You have a certain look...\rIt reminds me of the kid who stood in\nfront of me three years ago...\fYou have the same eyes...\r...\rI’m on my way to Goldenrod City to\nanswer the call and join my team.\fAre you finna get in my way?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\nThis is the Radio Tower.\fThis is the Radio Tower.\fWe are pleased to declare\fTeam Rocket’s revival.\f...Giovanni?\f...Can you hear us?\fWe have finally made it!\f...\r</language>
+		<language name="English">...\nThis is the Radio Tower.\fThis is the Radio Tower.\fWe are pleased to declare\fThe Feds’ revival.\f...Giovanni?\f...Can you hear us?\fWe have finally made it!\f...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My old associates need me...\rWe will not repeat the failure of three\nyears ago!\r{COLOR 1}Team Rocket{COLOR 0} will be born again, and I\nwill rule the world!\r</language>
+		<language name="English">My old associates need me...\rWe will not repeat the failure of three\nyears ago!\r{COLOR 1}The Feds{COLOR 0} will be born again, and I\nwill rule the world!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giovanni: How is this possible...?\rThe past three years have been\na waste...?\rHow can a kid like you manage to\ndestroy my dream once again?\rThe precious dream of Team Rocket has\nbecome little more than an illusion...\r</language>
+		<language name="English">Giovanni: How is this possible...?\rThe past three years have been a\nwaste...?\rHow can a youngblood like you manage\nto destroy my dream once again?\rThe precious dream of The Feds has\nbecome little more than an illusion...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -54,19 +54,19 @@
 	</row>
 	<row id="msg_0131_D45R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
+		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rThe Feds has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
+		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rThe Feds has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
+		<language name="English">Ethan: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat The Feds...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
+		<language name="English">Lyra: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat The Feds...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

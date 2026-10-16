@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0593_T25R1002_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ladies at this department store\nnever change their attitude.\rBe it in front of a regular customer\nor a Team Rocket member.\rThat’s what I call professional!</language>
+		<language name="English">The ladies at this department store\nnever change their attitude.\rBe it in front of a regular customer\nor a The Feds member.\rThat’s what I call professional!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0593_T25R1002_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You better listen to me.\rQuit being a Team Rocket member\nalready!</language>
+		<language name="English">You better listen to me.\rQuit being a The Feds member\nalready!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,10 +22,10 @@
 	</row>
 	<row id="msg_0593_T25R1002_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, Team Rocket!\nPlease don’t take my ABRA away!</language>
+		<language name="English">Oh, The Feds!\nPlease don’t take my ABRA away!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Travel Companion\n2F Trainer’s Market</language>
+		<language name="English">Your Travel Companion\n2F Hustler’s Market</language>
 	</row>
 </body>

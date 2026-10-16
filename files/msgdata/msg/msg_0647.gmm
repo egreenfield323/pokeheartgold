@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0647_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nWhatever... Don’t worry about me.\fI’m doing peachy over here!\r</language>
+		<language name="English">Wassup...\nWhatever... Don’t worry about me.\fI’m doing peachy over here!\r</language>
 	</row>
 	<row id="msg_0647_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are there any Gym Leaders you haven’t\nbattled yet?\fMake your move! Show some initiative!</language>
+		<language name="English">Are there any Block Bosses you haven’t\nbattled yet?\fMake your move! Show some initiative!</language>
 	</row>
 	<row id="msg_0647_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0647_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anyway, you’re really something.\rTraveling all by yourself, visiting all\nthese different Gyms you find and\fbeating them all...\rWell, you’re not really alone...\nYou’ve got Pokémon with you!</language>
+		<language name="English">Anyway, you’re really something.\rTraveling all by yourself, visiting all\nthese different Blocks you find and\fbeating them all...\rWell, you’re not really alone...\nYou’ve got Pokémon with you!</language>
 	</row>
 	<row id="msg_0647_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

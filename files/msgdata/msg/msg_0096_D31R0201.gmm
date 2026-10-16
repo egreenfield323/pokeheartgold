@@ -53,7 +53,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou’ve beaten all seven Trainers!\r</language>
+		<language name="English">Congratulations!\nYou’ve beaten all seven Hustlers!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -100,7 +100,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s Multi Battle Rooms\nare for Multi Battles with a partner.\rTo enter, join another Trainer and\ncompete with two Pokémon each.\rInside the tower is a room named the\nBattle Salon where you can meet\fother Trainers.\rThere, you can find a Trainer to act\nas your partner in the Multi Battles.\rYou can also partner up with a friend\nover wireless communications.\rOnce you have partnered up, you will\nbe shown to a Multi Battle Room.\rIn the Multi Battle Room, seven\ntag teams await your challenge.\rIf you manage to defeat all seven\nteams, you will earn Battle Points.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rAlso, if you are on a tag team with\na friend, you may not interrupt\fyour challenge.\r</language>
+		<language name="English">The Battle Tower’s Multi Battle Rooms\nare for Multi Battles with a partner.\rTo enter, join another Hustler and\ncompete with two Pokémon each.\rInside the tower is a room named the\nBattle Salon where you can meet\fother Hustlers.\rThere, you can find a Hustler to act\nas your partner in the Multi Battles.\rYou can also partner up with a homie\nover wireless communications.\rOnce you have partnered up, you will\nbe shown to a Multi Battle Room.\rIn the Multi Battle Room, seven\ntag teams await your challenge.\rIf you manage to defeat all seven\nteams, you will earn Battle Points.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rAlso, if you are on a tag team with\na homie, you may not interrupt\fyour challenge.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0096_D31R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to communicate with\na friend and form a tag team? {YESNO 0}</language>
+		<language name="English">Would you like to communicate with\na homie and form a tag team? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.” {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -146,11 +146,11 @@
 	</row>
 	<row id="msg_0096_D31R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -166,7 +166,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s Wi-Fi Battle Rooms\nare places to conduct battles over\fNintendo Wi-Fi Connection.\rAs a result, you will be battling\nTrainers from around the world.\rInside the Battle Tower, there are\nmany Battle Rooms.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points.\rDepending on how you do, you may\neven become the room’s leader!\rAlso, the Wi-Fi Battle Rooms are\noperated on a ranking system.\rTrainers will go up in rank if they\nkeep winning Wi-Fi Battles.\rContrarily, their rankings could go\ndown if they lose consistently.\rTo raise your rank, keep winning,\nespecially against tougher Trainers.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\r</language>
+		<language name="English">The Battle Tower’s Wi-Fi Battle Rooms\nare places to conduct battles over\fNintendo Wi-Fi Connection.\rAs a result, you will be battling\nTrainers from around the world.\rInside the Battle Tower, there are\nmany Battle Rooms.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points.\rDepending on how you do, you may\neven become the room’s leader!\rAlso, the Wi-Fi Battle Rooms are\noperated on a ranking system.\rTrainers will go up in rank if they\nkeep winning Wi-Fi Battles.\rContrarily, their rankings could go\ndown if they lose consistently.\rTo raise your rank, keep winning,\nespecially against tougher Hustlers.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -236,11 +236,11 @@
 	</row>
 	<row id="msg_0096_D31R0201_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing!\r</language>
+		<language name="English">Good looks for playing!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou’ve beaten all seven Trainers!\r</language>
+		<language name="English">Congratulations!\nYou’ve beaten all seven Hustlers!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
@@ -333,7 +333,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing!\rYour Pokémon will be restored to\nfull...\fOh my!\rI’m not on duty today.\nI’m just here to enjoy myself.</language>
+		<language name="English">Good looks for playing!\rYour Pokémon will be restored to\nfull...\fOh my!\rI’m not on duty today.\nI’m just here to enjoy myself.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -341,7 +341,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I trained my little guy till we\ncouldn’t take any more.\rHe’s going to do a 50-win streak\nfor sure...\rRight, PIKACHU?</language>
+		<language name="English">I trained my little guy till we\ncouldn’t take any more.\rHe’s finna do a 50-win streak\nfor sure...\rRight, PIKACHU?</language>
 	</row>
 	<row id="msg_0096_D31R0201_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -353,7 +353,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tee hee!\nAll the Trainers around us look\fso pathetic!\r...Actually, that’s the kind of mind-set\nthat makes you lose with one hit!\rDon’t let your guard down, PIKACHU!</language>
+		<language name="English">Tee hee!\nAll the Hustlers around us look\fso pathetic!\r...Actually, that’s the kind of mind-set\nthat makes you lose with one hit!\rDon’t let your guard down, PIKACHU!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -393,7 +393,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.</language>
+		<language name="English">Both Hustlers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
@@ -473,7 +473,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you so much for participating!\nPlease come again!</language>
+		<language name="English">Good looks so much for participating!\nPlease come again!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00111" index="111">
 		<attribute name="window_context_name">used</attribute>

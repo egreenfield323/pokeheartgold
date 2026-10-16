@@ -274,7 +274,7 @@
 	</row>
 	<row id="msg_0437_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GS-GYM</language>
+		<language name="English">GS-BLOCK</language>
 	</row>
 	<row id="msg_0437_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -770,7 +770,7 @@
 	</row>
 	<row id="msg_0437_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ME-BADGE</language>
+		<language name="English">ME-CHAIN</language>
 	</row>
 	<row id="msg_0437_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
@@ -1122,7 +1122,7 @@
 	</row>
 	<row id="msg_0437_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GS-P-GYM</language>
+		<language name="English">GS-P-BLOCK</language>
 	</row>
 	<row id="msg_0437_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
@@ -2706,7 +2706,7 @@
 	</row>
 	<row id="msg_0437_00676" index="676">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DP-BADGE-C</language>
+		<language name="English">DP-CHAIN-C</language>
 	</row>
 	<row id="msg_0437_00677" index="677">
 		<attribute name="window_context_name">used</attribute>

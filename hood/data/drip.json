@@ -1,0 +1,991 @@
+{
+  "_comment": "Hand-placed drip, in frame-1 pixel coordinates of each 80x80 front/back sprite. hand_front/hand_back = where the gun's grip goes; gun_scale overrides gun size. Types: chain {x1,x2,y,sag} | chain_back {x1,x2,y} | grill {x1,x2,y} | shades {x1,x2,y,h} | jeans {x1,x2,y1,y2} | shoe {x,y,w,style:white|jordan} | cig/pipe {x,y,dir} | brick {x,y,w,h} | weed {x,y,size,tilt} | durag/beanie {x1,x2,y,h,tail_x,tail} (paints over the head) | recolor {hue,sat,lift} | sparkles {n,seed}. head_front / head_back = hand-set eye-level point of the head; the hat sits just above it and the chain below it.",
+  "155": {
+    "_name": "Cyndaquil: Beretta, saggy jeans, Jordans",
+    "hand_front": [
+      31,
+      52
+    ],
+    "front": [
+      {
+        "type": "shoe",
+        "x": 26,
+        "y": 56,
+        "w": 8,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 38,
+        "y": 57,
+        "w": 8,
+        "style": "jordan"
+      }
+    ],
+    "head_back": [
+      65,
+      37
+    ],
+    "head_front": [
+      28,
+      41
+    ],
+    "hat_w": 14
+  },
+  "16": {
+    "_name": "Pidgey: gold chain",
+    "front": [
+      {
+        "type": "chain",
+        "x1": 27,
+        "x2": 41,
+        "y": 36,
+        "sag": 3
+      }
+    ]
+  },
+  "74": {
+    "_name": "Geodude: gold grillz, gun in its fist",
+    "hand_front": [
+      18,
+      42
+    ],
+    "front": [
+      {
+        "type": "grill",
+        "x1": 37,
+        "x2": 44,
+        "y": 48
+      }
+    ]
+  },
+  "25": {
+    "_name": "Pikachu: chain + shades",
+    "hand_front": [
+      19,
+      46
+    ],
+    "front": [
+      {
+        "type": "shades",
+        "x1": 20,
+        "x2": 36,
+        "y": 30,
+        "h": 3
+      }
+    ]
+  },
+  "19": {
+    "_name": "Rattata: gold fangs",
+    "front": [
+      {
+        "type": "grill",
+        "x1": 26,
+        "x2": 31,
+        "y": 47
+      }
+    ],
+    "head_front": [
+      30,
+      40
+    ]
+  },
+  "52": {
+    "_name": "Meowth: shades",
+    "front": [
+      {
+        "type": "shades",
+        "x1": 28,
+        "x2": 48,
+        "y": 31,
+        "h": 4
+      }
+    ]
+  },
+  "161": {
+    "_name": "Sentret: chain",
+    "front": [],
+    "head_back": [
+      40,
+      26
+    ]
+  },
+  "66": {
+    "_name": "Machop: Jordans",
+    "hand_front": [
+      30,
+      42
+    ],
+    "front": [
+      {
+        "type": "shoe",
+        "x": 25,
+        "y": 60,
+        "w": 11,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 41,
+        "y": 61,
+        "w": 10,
+        "style": "jordan"
+      }
+    ]
+  },
+  "67": {
+    "_name": "Machoke: Jordans + chain",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 20,
+        "y": 65,
+        "w": 12,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 46,
+        "y": 60,
+        "w": 12,
+        "style": "jordan"
+      }
+    ],
+    "head_front": [
+      41,
+      19
+    ]
+  },
+  "68": {
+    "_name": "Machamp: Jordans, chain, grill",
+    "front": [
+      {
+        "type": "grill",
+        "x1": 37,
+        "x2": 45,
+        "y": 35
+      },
+      {
+        "type": "shoe",
+        "x": 26,
+        "y": 69,
+        "w": 12,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 54,
+        "y": 69,
+        "w": 12,
+        "style": "jordan"
+      }
+    ]
+  },
+  "106": {
+    "_name": "Hitmonlee: Jordans",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 40,
+        "y": 61,
+        "w": 12,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 23,
+        "y": 47,
+        "w": 9,
+        "style": "jordan"
+      }
+    ]
+  },
+  "95": {
+    "_name": "Onix: made of blue crystal",
+    "front": [
+      {
+        "type": "recolor",
+        "hue": 0.53,
+        "sat": 0.75,
+        "lift": 0.12
+      },
+      {
+        "type": "sparkles",
+        "n": 14,
+        "seed": 95
+      }
+    ],
+    "back": [
+      {
+        "type": "sparkles",
+        "n": 10,
+        "seed": 96
+      }
+    ],
+    "head_front": [
+      16,
+      34
+    ],
+    "head_back": [
+      52,
+      26
+    ]
+  },
+  "69": {
+    "_name": "Bellsprout: weed plant",
+    "front": [
+      {
+        "type": "weed",
+        "x": 47,
+        "y": 40,
+        "size": 9,
+        "tilt": 55
+      },
+      {
+        "type": "weed",
+        "x": 31,
+        "y": 39,
+        "size": 7,
+        "tilt": -60
+      }
+    ],
+    "hand_front": [
+      30,
+      52
+    ]
+  },
+  "80": {
+    "_name": "Slowbro: beanie + glass pipe",
+    "front": [
+      {
+        "type": "pipe",
+        "x": 22,
+        "y": 33,
+        "dir": -1
+      },
+      {
+        "type": "hat",
+        "style": "beanie",
+        "cx": 29,
+        "by": 16,
+        "w": 22,
+        "color": "r",
+        "side": 1
+      }
+    ],
+    "hand_front": [
+      24,
+      54
+    ],
+    "gun_scale": 0.6
+  },
+  "110": {
+    "_name": "Weezing: chain-smoker (one per head)",
+    "gun": "mac10",
+    "front": [
+      {
+        "type": "cig",
+        "x": 25,
+        "y": 46,
+        "dir": -1
+      },
+      {
+        "type": "cig",
+        "x": 52,
+        "y": 38,
+        "dir": -1
+      }
+    ],
+    "hand_front": [
+      22,
+      58
+    ],
+    "gun_scale": 0.55
+  },
+  "225": {
+    "_name": "Delibird: brick in the sack",
+    "front": [
+      {
+        "type": "brick",
+        "x": 18,
+        "y": 49,
+        "w": 11,
+        "h": 7
+      }
+    ]
+  },
+  "393": {
+    "_name": "Piplup: durag",
+    "front": [
+      {
+        "type": "hat",
+        "style": "durag",
+        "cx": 40,
+        "by": 27,
+        "w": 22,
+        "color": "r",
+        "side": 1
+      }
+    ]
+  },
+  "4": {
+    "_name": "Charmander: kicks + chain",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 23,
+        "y": 56,
+        "w": 8
+      },
+      {
+        "type": "shoe",
+        "x": 38,
+        "y": 58,
+        "w": 8
+      }
+    ]
+  },
+  "7": {
+    "_name": "Squirtle: shades, chain, kicks",
+    "front": [
+      {
+        "type": "shades",
+        "x1": 27,
+        "x2": 40,
+        "y": 28,
+        "h": 3
+      },
+      {
+        "type": "shoe",
+        "x": 26,
+        "y": 55,
+        "w": 9
+      },
+      {
+        "type": "shoe",
+        "x": 40,
+        "y": 55,
+        "w": 9
+      }
+    ]
+  },
+  "158": {
+    "_name": "Totodile: chain + kicks",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 30,
+        "y": 53,
+        "w": 9
+      },
+      {
+        "type": "shoe",
+        "x": 43,
+        "y": 53,
+        "w": 9
+      }
+    ]
+  },
+  "152": {
+    "_name": "Chikorita: chain + kicks",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 21,
+        "y": 56,
+        "w": 7
+      },
+      {
+        "type": "shoe",
+        "x": 30,
+        "y": 57,
+        "w": 7
+      }
+    ]
+  },
+  "133": {
+    "_name": "Eevee: shades + chain",
+    "front": [
+      {
+        "type": "shades",
+        "x1": 28,
+        "x2": 41,
+        "y": 32,
+        "h": 3
+      }
+    ],
+    "head_front": [
+      43,
+      37
+    ],
+    "head_back": [
+      43,
+      31
+    ]
+  },
+  "143": {
+    "_name": "Snorlax: grill + big chain",
+    "hand_front": [
+      15,
+      58
+    ],
+    "front": [
+      {
+        "type": "grill",
+        "x1": 33,
+        "x2": 44,
+        "y": 35
+      }
+    ]
+  },
+  "94": {
+    "_name": "Gengar: gold grill",
+    "front": [
+      {
+        "type": "grill",
+        "x1": 34,
+        "x2": 46,
+        "y": 47
+      }
+    ]
+  },
+  "54": {
+    "_name": "Psyduck: chain + kicks",
+    "front": [
+      {
+        "type": "shoe",
+        "x": 29,
+        "y": 57,
+        "w": 9
+      },
+      {
+        "type": "shoe",
+        "x": 43,
+        "y": 59,
+        "w": 9
+      }
+    ]
+  },
+  "3": {
+    "head_front": [
+      28,
+      47
+    ]
+  },
+  "8": {
+    "head_front": [
+      40,
+      28
+    ]
+  },
+  "20": {
+    "head_front": [
+      27,
+      38
+    ]
+  },
+  "22": {
+    "head_front": [
+      16,
+      20
+    ]
+  },
+  "33": {
+    "head_front": [
+      25,
+      46
+    ],
+    "head_back": [
+      62,
+      40
+    ]
+  },
+  "55": {
+    "head_front": [
+      40,
+      17
+    ]
+  },
+  "65": {
+    "head_front": [
+      38,
+      22
+    ],
+    "head_back": [
+      35,
+      34
+    ]
+  },
+  "73": {
+    "head_front": [
+      38,
+      16
+    ]
+  },
+  "76": {
+    "head_front": [
+      35,
+      33
+    ]
+  },
+  "97": {
+    "head_front": [
+      40,
+      25
+    ]
+  },
+  "98": {
+    "head_front": [
+      36,
+      44
+    ],
+    "head_back": [
+      40,
+      47
+    ]
+  },
+  "105": {
+    "head_front": [
+      34,
+      37
+    ]
+  },
+  "111": {
+    "head_front": [
+      25,
+      42
+    ],
+    "head_back": [
+      62,
+      36
+    ]
+  },
+  "125": {
+    "head_front": [
+      32,
+      32
+    ]
+  },
+  "145": {
+    "head_front": [
+      36,
+      30
+    ],
+    "head_back": [
+      36,
+      30
+    ]
+  },
+  "150": {
+    "head_front": [
+      39,
+      18
+    ]
+  },
+  "151": {
+    "head_front": [
+      52,
+      34
+    ]
+  },
+  "163": {
+    "head_front": [
+      40,
+      28
+    ]
+  },
+  "184": {
+    "head_front": [
+      35,
+      33
+    ]
+  },
+  "187": {
+    "head_front": [
+      37,
+      45
+    ],
+    "head_back": [
+      35,
+      48
+    ]
+  },
+  "189": {
+    "head_front": [
+      41,
+      47
+    ]
+  },
+  "196": {
+    "head_front": [
+      30,
+      34
+    ]
+  },
+  "214": {
+    "head_front": [
+      33,
+      35
+    ]
+  },
+  "228": {
+    "head_front": [
+      38,
+      24
+    ]
+  },
+  "232": {
+    "head_front": [
+      30,
+      38
+    ]
+  },
+  "234": {
+    "head_front": [
+      30,
+      30
+    ],
+    "head_back": [
+      40,
+      38
+    ]
+  },
+  "245": {
+    "head_front": [
+      56,
+      30
+    ]
+  },
+  "258": {
+    "head_front": [
+      38,
+      42
+    ]
+  },
+  "277": {
+    "head_front": [
+      15,
+      21
+    ]
+  },
+  "288": {
+    "head_front": [
+      33,
+      31
+    ],
+    "head_back": [
+      42,
+      30
+    ]
+  },
+  "289": {
+    "head_front": [
+      56,
+      22
+    ]
+  },
+  "291": {
+    "head_front": [
+      28,
+      37
+    ]
+  },
+  "306": {
+    "head_front": [
+      24,
+      24
+    ]
+  },
+  "308": {
+    "head_front": [
+      38,
+      26
+    ],
+    "head_back": [
+      33,
+      28
+    ]
+  },
+  "332": {
+    "head_front": [
+      40,
+      25
+    ],
+    "head_back": [
+      35,
+      38
+    ]
+  },
+  "335": {
+    "head_front": [
+      35,
+      27
+    ]
+  },
+  "357": {
+    "head_front": [
+      18,
+      15
+    ]
+  },
+  "359": {
+    "head_front": [
+      40,
+      27
+    ]
+  },
+  "391": {
+    "head_front": [
+      35,
+      28
+    ]
+  },
+  "409": {
+    "head_front": [
+      32,
+      18
+    ]
+  },
+  "435": {
+    "head_front": [
+      20,
+      40
+    ],
+    "head_back": [
+      62,
+      35
+    ]
+  },
+  "464": {
+    "head_front": [
+      35,
+      15
+    ]
+  },
+  "472": {
+    "head_front": [
+      35,
+      18
+    ]
+  },
+  "487": {
+    "head_front": [
+      35,
+      17
+    ],
+    "head_back": [
+      50,
+      30
+    ]
+  },
+  "2": {
+    "head_back": [
+      63,
+      46
+    ]
+  },
+  "15": {
+    "head_back": [
+      35,
+      26
+    ]
+  },
+  "43": {
+    "head_back": [
+      36,
+      52
+    ]
+  },
+  "48": {
+    "head_back": [
+      45,
+      42
+    ]
+  },
+  "64": {
+    "head_back": [
+      40,
+      30
+    ]
+  },
+  "99": {
+    "head_back": [
+      28,
+      50
+    ]
+  },
+  "109": {
+    "head_back": [
+      40,
+      32
+    ]
+  },
+  "153": {
+    "head_back": [
+      55,
+      25
+    ]
+  },
+  "156": {
+    "head_back": [
+      62,
+      42
+    ]
+  },
+  "157": {
+    "head_back": [
+      60,
+      27
+    ]
+  },
+  "170": {
+    "head_back": [
+      32,
+      38
+    ]
+  },
+  "193": {
+    "head_back": [
+      58,
+      38
+    ]
+  },
+  "207": {
+    "head_back": [
+      40,
+      33
+    ]
+  },
+  "235": {
+    "head_back": [
+      33,
+      29
+    ]
+  },
+  "239": {
+    "head_back": [
+      33,
+      35
+    ]
+  },
+  "256": {
+    "head_back": [
+      38,
+      30
+    ]
+  },
+  "284": {
+    "head_back": [
+      35,
+      45
+    ]
+  },
+  "292": {
+    "head_back": [
+      42,
+      36
+    ]
+  },
+  "296": {
+    "head_back": [
+      38,
+      32
+    ]
+  },
+  "311": {
+    "head_back": [
+      50,
+      35
+    ]
+  },
+  "312": {
+    "head_back": [
+      45,
+      35
+    ]
+  },
+  "325": {
+    "head_back": [
+      35,
+      41
+    ]
+  },
+  "331": {
+    "head_back": [
+      40,
+      31
+    ]
+  },
+  "341": {
+    "head_back": [
+      62,
+      35
+    ]
+  },
+  "349": {
+    "head_back": [
+      52,
+      32
+    ]
+  },
+  "388": {
+    "head_back": [
+      38,
+      38
+    ]
+  },
+  "389": {
+    "head_back": [
+      50,
+      48
+    ]
+  },
+  "424": {
+    "head_back": [
+      52,
+      30
+    ]
+  },
+  "427": {
+    "head_back": [
+      28,
+      33
+    ]
+  },
+  "431": {
+    "head_back": [
+      52,
+      30
+    ]
+  },
+  "434": {
+    "head_back": [
+      55,
+      35
+    ]
+  },
+  "451": {
+    "head_back": [
+      15,
+      30
+    ]
+  },
+  "470": {
+    "head_back": [
+      45,
+      40
+    ]
+  },
+  "17": {
+    "head_front": [
+      27,
+      29
+    ]
+  },
+  "35": {
+    "head_back": [
+      45,
+      33
+    ]
+  }
+}

@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0414_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">you’ll be able to make a great friend!</language>
+		<language name="English">you’ll be able to make a great homie!</language>
 	</row>
 	<row id="msg_0414_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0414_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">you’ll be so cool.</language>
+		<language name="English">you’ll be so hard.</language>
 	</row>
 	<row id="msg_0414_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -130,6 +130,6 @@
 	</row>
 	<row id="msg_0414_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: This is breaking news!\nA bunch of {STRVAR_1 0, 1, 0} have decided to\nmake an appearance at\n{STRVAR_1 4, 0, 0}! If you’re a Trainer\nwho’s really wanted to find {STRVAR_1 0, 1, 0},\nhurry over to {STRVAR_1 4, 0, 0}! That’s\nthe end of the breaking news!</language>
+		<language name="English">Mary: This is breaking news!\nA bunch of {STRVAR_1 0, 1, 0} have decided to\nmake an appearance at\n{STRVAR_1 4, 0, 0}! If you’re a Hustler\nwho’s really wanted to find {STRVAR_1 0, 1, 0},\nhurry over to {STRVAR_1 4, 0, 0}! That’s\nthe end of the breaking news!</language>
 	</row>
 </body>

@@ -10,15 +10,15 @@
 	</row>
 	<row id="msg_0659_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hi, how are you?\fI’m doing fine, thanks.\r</language>
+		<language name="English">Wassup...\nOh, hi, how are you?\fI’m doing fine, thanks.\r</language>
 	</row>
 	<row id="msg_0659_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there are Gym Leaders out\nthere who are stronger than me.\fYou should try battling them.\fI don’t think you’d lose.</language>
+		<language name="English">You know, there are Block Bosses out\nthere who are stronger than me.\fYou should try battling them.\fI don’t think you’d lose.</language>
 	</row>
 	<row id="msg_0659_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I usually get up pretty early...\nIf we’re going to battle, I’m at my best\fin the morning... How about you give me\fa call on Monday morning!</language>
+		<language name="English">I usually get up pretty early...\nIf we’re finna battle, I’m at my best\fin the morning... How about you give me\fa call on Monday morning!</language>
 	</row>
 	<row id="msg_0659_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0659_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like one of my children...\rNo.\rYou’re more like one of my\ngrandchildren...\rThere’s such an age difference between\nmyself and the Trainers who defeat me\fnowadays...\rBut you know, the strange thing is that\nwhen I lose, I don’t feel disappointed.\rI just feel happy.\rJust happy that such talented Trainers\nhave come to see me.\r...I just wanted to talk to someone\nabout that, so I called you.\rThat’s all.</language>
+		<language name="English">Just like one of my children...\rNo.\rYou’re more like one of my\ngrandchildren...\rThere’s such an age difference between\nmyself and the Hustlers who defeat me\fnowadays...\rBut you know, the strange thing is that\nwhen I lose, I don’t feel disappointed.\rI just feel happy.\rJust happy that such talented Hustlers\nhave come to see me.\r...I just wanted to talk to someone\nabout that, so I called you.\rThat’s all.</language>
 	</row>
 	<row id="msg_0659_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0659_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me, you kept Team\nRocket’s treachery in check, right?\rHumph...\nThat’s a praiseworthy deed and an\fappropriate responsibility for a Trainer\fwho could defeat me.\rI think there’s still several things I\ncould stand to learn from you.\rI’m looking forward to it.</language>
+		<language name="English">That reminds me, you kept Team\nRocket’s treachery in check, right?\rHumph...\nThat’s a praiseworthy deed and an\fappropriate responsibility for a Hustler\fwho could defeat me.\rI think there’s still several things I\ncould stand to learn from you.\rI’m looking forward to it.</language>
 	</row>
 </body>

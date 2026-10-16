@@ -46,11 +46,11 @@
 	</row>
 	<row id="msg_0047_D01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hi, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from\nan Egg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
+		<language name="English">Brock: Ayo, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from\nan Egg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hi, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from an\nEgg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
+		<language name="English">Brock: Ayo, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from an\nEgg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0047_D01R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Thank you!\nI have been looking for BONSLY!\rThe RHYHORN I gave you knows the move\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!</language>
+		<language name="English">Brock: Good looks!\nI have been looking for BONSLY!\rThe RHYHORN I gave you knows the move\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

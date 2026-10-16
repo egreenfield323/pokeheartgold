@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0698_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t believe it! You’re going to\nregret this!</language>
+		<language name="English">I don’t believe it! You’re finna\nregret this!</language>
 	</row>
 	<row id="msg_0698_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give me your phone number!\rYou are going to be my practice\npartner!{YESNO 0}</language>
+		<language name="English">Give me your phone number!\rYou are finna be my practice\npartner!{YESNO 0}</language>
 	</row>
 	<row id="msg_0698_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
@@ -43,7 +43,7 @@
 	</row>
 	<row id="msg_0698_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are going to battle!\rThe place shall be {STRVAR_1 4, 3, 0}!\nDon’t keep me waiting! Got it?</language>
+		<language name="English">We are finna battle!\rThe place shall be {STRVAR_1 4, 3, 0}!\nDon’t keep me waiting! Got it?</language>
 	</row>
 	<row id="msg_0698_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

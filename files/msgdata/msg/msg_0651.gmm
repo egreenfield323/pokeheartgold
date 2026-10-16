@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0651_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hey, what’s wrong?\fYou don’t have to worry about me.\fHow are you doing?\r</language>
+		<language name="English">Wassup...\nOh, hey, what’s wrong?\fYou don’t have to worry about me.\fHow are you doing?\r</language>
 	</row>
 	<row id="msg_0651_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited every Gym yet?\nThere are Gym Leaders you haven’t\fbattled yet, aren’t there?</language>
+		<language name="English">Have you visited every Block yet?\nThere are Block Bosses you haven’t\fbattled yet, ain’t there?</language>
 	</row>
 	<row id="msg_0651_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -50,14 +50,14 @@
 	</row>
 	<row id="msg_0651_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, even if you lose your Gym, if\nyou take rocks and stones and pile\fthem up one by one every day, sooner\for later you’ll have built a really nice\freplacement Gym!\rI’ve made it my life’s mission to build\nanother Gym.</language>
+		<language name="English">You know, even if you lose your Block,\nif you take rocks and stones and pile\fthem up one by one every day, sooner\for later you’ll have built a really nice\freplacement Block!\rI’ve made it my life’s mission to build\nanother Block.</language>
 	</row>
 	<row id="msg_0651_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am grateful that Trainers flock\nto a homemade Gym like mine...\rI thank you too for coming all the\nway just to battle me!</language>
+		<language name="English">I am grateful that Hustlers flock\nto a homemade Block like mine...\rI good looks too for coming all the\nway just to battle me!</language>
 	</row>
 	<row id="msg_0651_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I kind of like the Seafoam Islands\na lot lately.\fThe problem with that is if you\fdecide to go shopping,\fthere aren’t any stores there...</language>
+		<language name="English">I kind of like the Seafoam Islands\na lot lately.\fThe problem with that is if you\fdecide to go shopping,\fthere ain’t any stores there...</language>
 	</row>
 </body>

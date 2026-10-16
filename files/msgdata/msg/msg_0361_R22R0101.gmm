@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0361_R22R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only Trainers who have proven\nthemselves may pass.\rOh! The eight Badges of Johto!\nPlease, go right on through!</language>
+		<language name="English">Only Hustlers who have proven\nthemselves may pass.\rOh! The eight Chains of Johto!\nPlease, go right on through!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0361_R22R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West to Mt. Silver.\nEast to the Kanto region.\rGo north for the Elite Four!\nBut you should know that already,\fsince you defeated the Champion!</language>
+		<language name="English">West to Mt. Silver.\nEast to the Kanto region.\rGo north for the Elite Four!\nBut you should know that already,\fsince you defeated the Kingpin!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0361_R22R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You don’t look like you’re\nscared, but you are, aren’t you?</language>
+		<language name="English">Janine: You don’t look like you’re\nscared, but you are, ain’t you?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0361_R22R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Can you look as cool as me\nfor the picture?\r</language>
+		<language name="English">Janine: Can you look as hard as me\nfor the picture?\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

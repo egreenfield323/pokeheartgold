@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0023_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was going to\nhappen, except there’s no Apricorn\fBox yet!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">...Well, that’s what was finna\nhappen, except there’s no Apricorn\fBox yet!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
 	</row>
 	<row id="msg_0023_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was going to\nhappen, except...\fThe Apricorn Box is full!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">...Well, that’s what was finna\nhappen, except...\fThe Apricorn Box is full!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
 	</row>
 	<row id="msg_0023_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

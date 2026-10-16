@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0699_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s strange...\nI can hear your voice so clearly...\rWait, you’re nearby, aren’t you!\nLet’s talk in person!</language>
+		<language name="English">That’s strange...\nI can hear your voice so clearly...\rWait, you’re nearby, ain’t you!\nLet’s talk in person!</language>
 	</row>
 	<row id="msg_0699_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

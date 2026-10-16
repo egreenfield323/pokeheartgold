@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0600_T25R1201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\nWelcome to the GTS!\rWould you like to do a global Pokémon\ntrade over Nintendo Wi-Fi\fConnection? {YESNO 0}</language>
+		<language name="English">Wassup!\nWelcome to the GTS!\rWould you like to do a global Pokémon\ntrade over Nintendo Wi-Fi\fConnection? {YESNO 0}</language>
 	</row>
 	<row id="msg_0600_T25R1201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0600_T25R1201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may search among the Pokémon\nthat are offered by other Trainers.\rThey will all identify what Pokémon\ntheir Trainers want back in return.\rIf you find one that you want, you\nmust provide us with the kind of\fPokémon wanted in return.\rShould I explain anything else? {YESNO 0}</language>
+		<language name="English">You may search among the Pokémon\nthat are offered by other Hustlers.\rThey will all identify what Pokémon\ntheir Hustlers want back in return.\rIf you find one that you want, you\nmust provide us with the kind of\fPokémon wanted in return.\rShould I explain anything else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0600_T25R1201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0600_T25R1201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Oh? Your favorite really is\n{STRVAR_1 0, 0, 0}, isn’t it?</language>
+		<language name="English">...Oh? Your favorite really is\n{STRVAR_1 0, 0, 0}, ain’t it?</language>
 	</row>
 	<row id="msg_0600_T25R1201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -114,15 +114,15 @@
 	</row>
 	<row id="msg_0600_T25R1201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Global Terminal!\rHere, you may join the huge community\nof Trainers worldwide.\rYou may view the records of Trainers\nlike yourself from around the world.\rYou may also trade Pokémon with the\nworld’s Trainers.</language>
+		<language name="English">Welcome to the Global Terminal!\rHere, you may join the huge community\nof Hustlers worldwide.\rYou may view the records of Hustlers\nlike yourself from around the world.\rYou may also trade Pokémon with the\nworld’s Hustlers.</language>
 	</row>
 	<row id="msg_0600_T25R1201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Connect to Nintendo Wi-Fi\nConnection for Trainer Rankings? {YESNO 0}</language>
+		<language name="English">Connect to Nintendo Wi-Fi\nConnection for Hustler Rankings? {YESNO 0}</language>
 	</row>
 	<row id="msg_0600_T25R1201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Rankings is a team-based\nranking system for Trainers around\fthe world.\rThe Trainers will be divided into several\ngroups and ranked in many categories.\rIf you join, your Trainer achievements\nare automatically sent to your team.\rIn other words, what you do as a\nTrainer can help your team’s standings.\rBeware!\rIf you enter a ranking category more\nthan once, only the points earned from\fyour previous report will be tallied.\r</language>
+		<language name="English">Hustler Rankings is a team-based\nranking system for Hustlers around\fthe world.\rThe Hustlers will be divided into several\ngroups and ranked in many categories.\rIf you join, your Hustler achievements\nare automatically sent to your team.\rIn other words, what you do as a\nTrainer can help your team’s standings.\rBeware!\rIf you enter a ranking category more\nthan once, only the points earned from\fyour previous report will be tallied.\r</language>
 	</row>
 	<row id="msg_0600_T25R1201_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0600_T25R1201_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Video Rankings is a gallery of\npopular Battle Videos.\rStudy many classic battles and sharpen\nyour own Trainer skills.\r</language>
+		<language name="English">Battle Video Rankings is a gallery of\npopular Battle Videos.\rStudy many classic battles and sharpen\nyour own Hustler skills.\r</language>
 	</row>
 	<row id="msg_0600_T25R1201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0420_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Profiles</language>
+		<language name="English">Hustler Profiles</language>
 	</row>
 	<row id="msg_0420_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0420_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re always watching you!\nIt’s time for Trainer Profiles!</language>
+		<language name="English">We’re always watching you!\nIt’s time for Hustler Profiles!</language>
 	</row>
 	<row id="msg_0420_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0420_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The day has come to an end, but it’s still\nbright. That’s strange, you’d think.\nThere’s an intense fire burning, and it\nlooks like it’s going to burn them.\nHe doesn’t need a candle. He’s a human\nablaze, carelessly playing with fire.\nThe Firebreather!</language>
+		<language name="English">The day has come to an end, but it’s still\nbright. That’s strange, you’d think.\nThere’s an intense fire burning, and it\nlooks like it’s finna burn them.\nHe doesn’t need a candle. He’s a human\nablaze, carelessly playing with fire.\nThe Firebreather!</language>
 	</row>
 	<row id="msg_0420_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is so cool isn’t it, this Pokémon?\nThe tail is such a great shape.\nWant to trade figurines? Want to come\nover and see my collection?\nOh hey! This mark is in the wrong place.\nLooks like I fell for a counterfeit...\nBut it’s art anyway!\nThat’s a Poké Maniac!</language>
+		<language name="English">This is so hard ain’t it, this Pokémon?\nThe tail is such a great shape.\nWant to trade figurines? Want to come\nover and see my collection?\nOh hey! This mark is in the wrong place.\nLooks like I fell for a counterfeit...\nBut it’s art anyway!\nThat’s a Poké Maniac!</language>
 	</row>
 	<row id="msg_0420_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0420_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Had plenty of success. Learning through\nconstant repetition. Recklessly carrying\naround notebooks. Attending classes\nfor gifted kids.\nA wonderful Pokémon Trainer, that\nSchool Kid!</language>
+		<language name="English">Had plenty of success. Learning through\nconstant repetition. Recklessly carrying\naround notebooks. Attending classes\nfor gifted kids.\nA wonderful Pokémon Hustler, that\nSchool Kid!</language>
 	</row>
 	<row id="msg_0420_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

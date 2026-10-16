@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0398_R39R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nMoomoo is totally healthy again!\rI’ll give you these Seals for\nyour trouble.\r</language>
+		<language name="English">Good looks!\nMoomoo is totally healthy again!\rI’ll give you these Seals for\nyour trouble.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0398_R39R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nMoomoo is totally healthy again!\rI’ll give you this Seal Case for\nyour trouble.\r</language>
+		<language name="English">Good looks!\nMoomoo is totally healthy again!\rI’ll give you this Seal Case for\nyour trouble.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can customize your Poké Balls.\rSelect “BALL CAPSULES” from\nyour PC, and stick your Seals any way\fyou like on a Capsule, then put the\fCapsule on any of your Poké Balls.\rTry different things, and you’ll see.\nMy sister can give you Seals!\r</language>
+		<language name="English">You can customize your Hood Balls.\rSelect “BALL CAPSULES” from\nyour PC, and stick your Seals any way\fyou like on a Capsule, then put the\fCapsule on any of your Hood Balls.\rTry different things, and you’ll see.\nMy sister can give you Seals!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

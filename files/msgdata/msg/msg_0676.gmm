@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0676_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! Here it is!\rCome on!\nI caught a Poké Ball!\rIt’s kind of covered with algae and\nseaweed. I can’t really tell what kind\fof Poké Ball it is, but I bet you know!\r</language>
+		<language name="English">Ah! Here it is!\rCome on!\nI caught a Hood Ball!\rIt’s kind of covered with algae and\nseaweed. I can’t really tell what kind\fof Hood Ball it is, but I bet you know!\r</language>
 	</row>
 	<row id="msg_0676_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

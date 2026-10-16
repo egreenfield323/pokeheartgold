@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0419_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The forest was dark and gloomy. We could\nhear the crunching of fallen leaves under\nour feet.\n“Leader, this is a dead end!”\n“Don’t worry, let’s retrace our steps.”\n“Where’s the exit?”\n“Come on, we can do it!”\n“Let’s just go back already...”\n“You’re a guy, aren’t you? Quit whining!”\n“Leader, your back...”\n“What?!”\n“On your back, a Bug-type Pokémon...”\n“Eeeeek!”\nTune in next time for the exciting\nconclusion in the special program,\n“Great Strategy in Ilex Forest!”</language>
+		<language name="English">The forest was dark and gloomy. We could\nhear the crunching of fallen leaves under\nour feet.\n“Leader, this is a dead end!”\n“Don’t worry, let’s retrace our steps.”\n“Where’s the exit?”\n“Come on, we can do it!”\n“Let’s just go back already...”\n“You’re a guy, ain’t you? Quit whining!”\n“Leader, your back...”\n“What?!”\n“On your back, a Bug-type Pokémon...”\n“Eeeeek!”\nTune in next time for the exciting\nconclusion in the special program,\n“Great Strategy in Ilex Forest!”</language>
 	</row>
 	<row id="msg_0419_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0419_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The forest was brighter than they\nthought it would be.\nAnd they saw so many Trainers there.\n“Hey, a Bug Catcher!”\n“What?”\n“He’s challenged us to a battle!”\n“Then accept his challenge!”\n“But we don’t have any Pokémon...”\n“Simpleton!”\nTune in next time for the exciting\nconclusion in the special program,\n“The Viridian Forest Search Party!”</language>
+		<language name="English">The forest was brighter than they\nthought it would be.\nAnd they saw so many Hustlers there.\n“Hey, a Bug Catcher!”\n“What?”\n“He’s challenged us to a battle!”\n“Then accept his challenge!”\n“But we don’t have any Pokémon...”\n“Simpleton!”\nTune in next time for the exciting\nconclusion in the special program,\n“The Viridian Forest Search Party!”</language>
 	</row>
 	<row id="msg_0419_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

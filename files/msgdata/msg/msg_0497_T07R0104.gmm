@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0497_T07R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Out of all the Trainers\nout there, the best Trainer would\fhave to be my dad.\r</language>
+		<language name="English">Falkner: Out of all the Hustlers\nout there, the best Hustler would\fhave to be my dad.\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Ha!\nYou don’t know a thing!\rThe best Trainer in the world is Koga,\none of the Elite Four!\fNamely--my dad!\r</language>
+		<language name="English">Janine: Ha!\nYou don’t know a thing!\rThe best Hustler in the world is Koga,\none of the Elite Four!\fNamely--my dad!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0497_T07R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Please stop this!\nWhy don’t you just admit that my dad\fis the true Trainer!\r</language>
+		<language name="English">Janine: Please stop this!\nWhy don’t you just admit that my dad\fis the true Hustler!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

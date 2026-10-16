@@ -403,7 +403,7 @@
 	</row>
 	<row id="msg_0806_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Il ressemble à une Poké Ball. Ce Pokémon\ndangereux peut exploser ou lancer des\ndécharges électriques si on le touche.</language>
+		<language name="English">Il ressemble à une Hood Ball. Ce Pokémon\ndangereux peut exploser ou lancer des\ndécharges électriques si on le touche.</language>
 	</row>
 	<row id="msg_0806_00101" index="101">
 		<attribute name="window_context_name">used</attribute>

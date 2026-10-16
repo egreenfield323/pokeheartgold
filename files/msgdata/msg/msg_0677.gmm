@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0677_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re very good at battling.\nWe should battle again sometime.\rBy challenging a tough Trainer like you,\nI think I can get better, too.\rSo how about it?\nWould you give me your\fphone number? {YESNO 0}</language>
+		<language name="English">You’re very good at battling.\nWe should battle again sometime.\rBy challenging a tough Hustler like you,\nI think I can get better, too.\rSo how about it?\nWould you give me your\fphone number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0677_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0677_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By challenging a tough Trainer like you,\nI think I can get better, too.\rSo how about it? Would you give me\nyour phone number? {YESNO 0}</language>
+		<language name="English">By challenging a tough Hustler like you,\nI think I can get better, too.\rSo how about it? Would you give me\nyour phone number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0677_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
@@ -39,11 +39,11 @@
 	</row>
 	<row id="msg_0677_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I just saw a wild {STRVAR_1 0, 11, 0}.\nI was trying to catch it when I\fnoticed that I was all out of\fPoké Balls.\rIf you don’t check your items, you\nmay run out at the worst time.\fI hope you learn from my mistake.\rBye-bye!</language>
+		<language name="English">Oh, I just saw a wild {STRVAR_1 0, 11, 0}.\nI was trying to catch it when I\fnoticed that I was all out of\fHood Balls.\rIf you don’t check your items, you\nmay run out at the worst time.\fI hope you learn from my mistake.\rBye-bye!</language>
 	</row>
 	<row id="msg_0677_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to battle? I’m going to win\nthis time!\rI’ll be waiting for you around\n{STRVAR_1 4, 3, 0}. Look for me, OK?</language>
+		<language name="English">Do you want to battle? I’m finna win\nthis time!\rI’ll be waiting for you around\n{STRVAR_1 4, 3, 0}. Look for me, OK?</language>
 	</row>
 	<row id="msg_0677_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

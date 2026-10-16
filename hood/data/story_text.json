@@ -1,0 +1,655 @@
+{
+  "_comment": "Hand-placed story/battle text. 'rows' replace a row by index; 'replace' swaps an exact original string. Text is raw game markup: \\n = next line, \\r = wait then scroll, \\f = wait then new box. Straight apostrophes become ’.",
+  "rows": [
+    {
+      "bank": "msg_0219",
+      "index": 6,
+      "text": "Sorry to keep you waiting!\\rWelcome to the BLOCK, youngblood!\\rMy name is Professor Oak.\\rBut everybody round here calls me\\nthe OG.\\rBefore you step outside, I gotta\\ntell you how things work\\fon these streets!\\r"
+    },
+    {
+      "bank": "msg_0219",
+      "index": 34,
+      "text": "This world is full of crews...\\nand every crew is packin'.\\r"
+    },
+    {
+      "bank": "msg_0219",
+      "index": 35,
+      "text": "We roll with our homies, and our\\nhomies roll with heat.\\rSometimes we kick it together.\\nSometimes we beef with other blocks.\\rSome folks roll up on other crews\\njust to see who got the\\fbiggest strap.\\r"
+    },
+    {
+      "bank": "msg_0219",
+      "index": 36,
+      "text": "Now, who exactly is you?\\r"
+    },
+    {
+      "bank": "msg_0219",
+      "index": 43,
+      "text": "{STRVAR_1 3, 0, 0}!\\nYou ready?\\rYour come-up story is\\nabout to start.\\rCorner boys, opps, Block Bosses...\\nthey all waitin' on you!\\rGet your bread! Build your gang!\\nGo run Johto!\\rStay outta trouble. ...Or don't.\\r"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 0,
+      "text": "Professor Elm: Ayy, {STRVAR_1 3, 0, 0}!\\nI been waitin' on you!\\rYou know what I do in this lab?\\rAs you know, everybody keeps their\\nhomies on speed dial in a Burner.\\rBut back in the day, people just\\nwalked around WITH their crew.\\fJust like your friend Lyra does!\\rBurners are great 'cause you can\\ncarry a whole gang in your pocket.\\rBut rollin' deep on foot gotta\\nhave some advantages.\\rStreet cred. Intimidation.\\nThe vibes, man.\\rSo I'm finna put you on with\\nyour first homie!\\rWalk the block with 'em. Let the\\nneighborhood see y'all. Maybe you\\fand your homie get closer\\fthan anybody thought.\\rThem Burners over there got some\\nhomies to roll with. They all\\fcome strapped, too...\\r"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 1,
+      "text": "Professor Elm: Ayy, {STRVAR_1 3, 0, 0}!\\nI been waitin' on you!\\rYou know what I do in this lab?\\rAs you know, everybody keeps their\\nhomies on speed dial in a Burner.\\rBut back in the day, people just\\nwalked around WITH their crew.\\fJust like your friend Ethan does!\\rBurners are great 'cause you can\\ncarry a whole gang in your pocket.\\rBut rollin' deep on foot gotta\\nhave some advantages.\\rStreet cred. Intimidation.\\nThe vibes, man.\\rSo I'm finna put you on with\\nyour first homie!\\rWalk the block with 'em. Let the\\nneighborhood see y'all. Maybe you\\fand your homie get closer\\fthan anybody thought.\\rThem Burners over there got some\\nhomies to roll with. They all\\fcome strapped, too...\\r"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 5,
+      "text": "Professor Elm: If some opp pulls\\nup on you, let your crew handle it!"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 6,
+      "text": "Professor Elm: Whoa, where you goin'?\\nYou ain't even picked a homie yet!\\r"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 15,
+      "text": "There's two homies left on the shelf!\\n...But they're Professor Elm's."
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 21,
+      "text": "Your crew is weak at first.\\rDon't be shy with the Band-Aids if\\nthings get hot out there.\\r"
+    },
+    {
+      "bank": "msg_0543_T20R0101",
+      "index": 22,
+      "text": "Your crew is weak at first.\\rDon't be shy with the Band-Aids if\\nthings get hot out there."
+    },
+    {
+      "bank": "msg_0040",
+      "index": 0,
+      "text": "Wassup, welcome to the Trap House.\\rWe patch your homies up, no\\nquestions asked.\\rWant us to fix up your crew? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 84,
+      "text": "Wassup, welcome to the Trap House.\\rWe patch your homies up, no\\nquestions asked.\\rWant us to fix up your crew? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 83,
+      "text": "Good mornin'! Welcome to the\\nTrap House.\\rWe patch your homies up, no\\nquestions asked.\\rWant us to fix up your crew? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 4,
+      "text": "Wassup, welcome to the Trap House.\\rWe patch your homies up, no\\nquestions asked.\\rWant us to...\\r"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 9,
+      "text": "Stay safe out there, baby."
+    },
+    {
+      "bank": "msg_0040",
+      "index": 38,
+      "text": "Wassup!\\nWhatchu need?"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 33,
+      "text": "{STRVAR_1 3, 0, 0} logged into\\nthe plug's PC.\\r"
+    },
+    {
+      "bank": "msg_0040",
+      "index": 44,
+      "text": "First, let's get your homies\\npatched up."
+    },
+    {
+      "bank": "msg_0197",
+      "index": 3,
+      "text": "{STRVAR_1 1, 0, 0} leveled up! Lv.\\n{STRVAR_1 52, 1, 0}, on foenem grave!{WAIT 5}{WAIT 2}\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "index": 915,
+      "text": "Yo?!\\n{STRVAR_1 1, 0, 0} is glowin' up!"
+    },
+    {
+      "bank": "msg_0197",
+      "index": 917,
+      "text": "{STRVAR_1 1, 0, 0} is glowin' up!"
+    },
+    {
+      "bank": "msg_0197",
+      "index": 918,
+      "text": "{WAIT 3}AYY! Your {STRVAR_1 1, 0, 0}\\nglowed up into {STRVAR_1 1, 1, 0}!{WAIT 2}\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "index": 919,
+      "text": "Huh? {STRVAR_1 1, 0, 0}\\ndecided to stay humble.\\r"
+    },
+    {
+      "bank": "msg_0435",
+      "index": 6,
+      "text": "You need anything else, fam? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0435",
+      "index": 7,
+      "text": "Anything else, boss? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0435",
+      "index": 8,
+      "text": "Anything else? For real,\\nanything? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0435",
+      "index": 9,
+      "text": "Anything else? Hehe, I got\\nthe good stuff in the back. {YESNO 0}"
+    },
+    {
+      "bank": "msg_0435",
+      "index": 10,
+      "text": "You want somethin' else? {YESNO 0}"
+    },
+    {
+      "bank": "msg_0190",
+      "index": 0,
+      "text": "Professor Elm: Tap a Hood Ball to see\\nwho you rollin' with! Quick!"
+    },
+    {
+      "bank": "msg_0190",
+      "index": 1,
+      "text": "Professor Elm: {COLOR 3}CHIKORITA{COLOR 0}? She keep\\na .22 in her leaf. Small, but real."
+    },
+    {
+      "bank": "msg_0190",
+      "index": 2,
+      "text": "Professor Elm: {COLOR 1}CYNDAQUIL{COLOR 0}? He rock\\na Beretta. Runs HOT, no cap."
+    },
+    {
+      "bank": "msg_0190",
+      "index": 3,
+      "text": "Professor Elm: {COLOR 2}TOTODILE{COLOR 0}? Lil man\\nkeep a Glock on him. Certified."
+    },
+    {
+      "bank": "msg_0190",
+      "index": 4,
+      "text": "{COLOR 3}CHIKORITA{COLOR 0}, strapped with a .22,\\nis in this Hood Ball!"
+    },
+    {
+      "bank": "msg_0190",
+      "index": 5,
+      "text": "{COLOR 1}CYNDAQUIL{COLOR 0}, strapped with a 9,\\nis in this Hood Ball!"
+    },
+    {
+      "bank": "msg_0190",
+      "index": 6,
+      "text": "{COLOR 2}TOTODILE{COLOR 0}, strapped with a Glock,\\nis in this Hood Ball!"
+    },
+    {
+      "bank": "msg_0190",
+      "index": 7,
+      "text": "Pick your day one, then tap it!"
+    }
+  ],
+  "replace": [
+    {
+      "bank": "msg_0197",
+      "find": "{STRVAR_1 1, 0, 0} fainted!\\r",
+      "text": "{STRVAR_1 1, 0, 0} got dropped!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "The wild {STRVAR_1 1, 0, 0} fainted!\\r",
+      "text": "The opp {STRVAR_1 1, 0, 0} got dropped!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "The foe's {STRVAR_1 1, 0, 0} fainted!\\r",
+      "text": "The opp's {STRVAR_1 1, 0, 0} got dropped!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "{STRVAR_1 3, 0, 0} blacked out!\\r",
+      "text": "{STRVAR_1 3, 0, 0} got jumped!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Got away safely!\\r",
+      "text": "Skrrt! Got outta there!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "A critical hit!",
+      "text": "HEADSHOT!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "It's not very effective...",
+      "text": "That shot was weak..."
+    },
+    {
+      "bank": "msg_0197",
+      "find": "It's super effective!",
+      "text": "That one HIT!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Oh, no!\\nThe Pokémon broke free!",
+      "text": "Nah!\\nThey ain't joinin' your gang!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Shoot!\\nIt was so close, too!",
+      "text": "Dang!\\nThey almost picked up!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Aww!\\nIt appeared to be caught!",
+      "text": "Aww!\\nThought they was down!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "{WAIT 3}Gotcha!\\n{STRVAR_1 1, 0, 0} was caught!{WAIT 2}\\r",
+      "text": "{WAIT 3}Gotcha!\\n{STRVAR_1 1, 0, 0} joined the gang!{WAIT 2}\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "A wild {STRVAR_1 1, 0, 0} appeared!\\r",
+      "text": "An opp {STRVAR_1 1, 0, 0} pulled up!\\r",
+      "all": true
+    },
+    {
+      "bank": "msg_0197",
+      "find": "A wild {STRVAR_1 1, 0, 0} appeared!",
+      "text": "An opp {STRVAR_1 1, 0, 0} pulled up!",
+      "all": true
+    },
+    {
+      "bank": "msg_0197",
+      "find": "A wild {STRVAR_1 1, 0, 0} and\\n{STRVAR_1 1, 1, 0} appeared!\\r",
+      "text": "Opps {STRVAR_1 1, 0, 0} and\\n{STRVAR_1 1, 1, 0} pulled up!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "You are challenged by\\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!\\r",
+      "text": "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\\nwants smoke!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "You are challenged by\\n{STRVAR_1 3, 0, 0}!\\r",
+      "text": "{STRVAR_1 3, 0, 0}\\nwants smoke!\\r"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "{STRVAR_1 3, 0, 0} sent out\\n{STRVAR_1 1, 1, 0}!",
+      "text": "{STRVAR_1 3, 0, 0} called up\\n{STRVAR_1 1, 1, 0}!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Go! {STRVAR_1 1, 0, 0}!",
+      "text": "Pull up, {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "You're in charge, {STRVAR_1 1, 0, 0}!",
+      "text": "Handle it, {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "{STRVAR_1 1, 0, 0}, switch out!\\nCome back!",
+      "text": "{STRVAR_1 1, 0, 0}, tap out!\\nFall back!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "{STRVAR_1 1, 0, 0}, good!\\nCome back!",
+      "text": "{STRVAR_1 1, 0, 0}, good looks!\\nFall back!"
+    },
+    {
+      "bank": "msg_0197",
+      "find": "Player defeated\\n{STRVAR_1 3, 0, 0}!",
+      "text": "You ran\\n{STRVAR_1 3, 0, 0} off the block!"
+    }
+  ],
+  "global_replace": [
+    {
+      "_comment": "Regex replacements applied to every message bank, in order."
+    },
+    {
+      "find": "TEAM ROCKET",
+      "text": "THE FEDS"
+    },
+    {
+      "find": "TEAM ROCKET GRUNT",
+      "text": "FED AGENT"
+    },
+    {
+      "find": "Team Rocket Grunt",
+      "text": "Fed Agent"
+    },
+    {
+      "find": "Team Rocket’s",
+      "text": "The Feds’"
+    },
+    {
+      "find": "Team Rocket",
+      "text": "The Feds"
+    },
+    {
+      "find": "\\bRocket’s\\b",
+      "text": "Fed’s"
+    },
+    {
+      "find": "\\bRocket\\b",
+      "text": "Fed"
+    },
+    {
+      "find": "POKéMON CENTER",
+      "text": "TRAP HOUSE"
+    },
+    {
+      "find": "Pokémon Center",
+      "text": "Trap House"
+    },
+    {
+      "find": "POKé MART",
+      "text": "CORNER STORE"
+    },
+    {
+      "find": "Poké Mart",
+      "text": "Corner Store"
+    },
+    {
+      "find": "Pokémon Mart",
+      "text": "Corner Store"
+    },
+    {
+      "find": "Gym Leaders",
+      "text": "Block Bosses"
+    },
+    {
+      "find": "Gym Leader",
+      "text": "Block Boss"
+    },
+    {
+      "find": "GYM LEADER",
+      "text": "BLOCK BOSS"
+    },
+    {
+      "find": "POKé BALLS",
+      "text": "HOOD BALLS"
+    },
+    {
+      "find": "POKé BALL",
+      "text": "HOOD BALL"
+    },
+    {
+      "find": "Poké Balls",
+      "text": "Hood Balls"
+    },
+    {
+      "find": "Poké Ball",
+      "text": "Hood Ball"
+    },
+    {
+      "find": "Pokémon Gym",
+      "text": "block"
+    },
+    {
+      "find": "\\bGym Badges\\b",
+      "text": "Block Chains"
+    },
+    {
+      "find": "\\bGym Badge\\b",
+      "text": "Block Chain"
+    },
+    {
+      "find": "\\bGYMS\\b",
+      "text": "BLOCKS"
+    },
+    {
+      "find": "\\bGYM\\b",
+      "text": "BLOCK"
+    },
+    {
+      "find": "\\bGyms\\b",
+      "text": "Blocks"
+    },
+    {
+      "find": "\\bGym\\b",
+      "text": "Block"
+    },
+    {
+      "find": "\\bgyms\\b",
+      "text": "blocks"
+    },
+    {
+      "find": "\\bgym\\b",
+      "text": "block"
+    },
+    {
+      "find": "\\bBadges\\b",
+      "text": "Chains"
+    },
+    {
+      "find": "\\bBadge\\b",
+      "text": "Chain"
+    },
+    {
+      "find": "\\bBADGES\\b",
+      "text": "CHAINS"
+    },
+    {
+      "find": "\\bBADGE\\b",
+      "text": "CHAIN"
+    },
+    {
+      "find": "\\bbadges\\b",
+      "text": "chains"
+    },
+    {
+      "find": "\\bbadge\\b",
+      "text": "chain"
+    },
+    {
+      "find": "Pokémon League",
+      "text": "Big League"
+    },
+    {
+      "find": "POKéMON LEAGUE",
+      "text": "BIG LEAGUE"
+    },
+    {
+      "find": "\\bChampion\\b",
+      "text": "Kingpin"
+    },
+    {
+      "find": "\\bCHAMPION\\b",
+      "text": "KINGPIN"
+    },
+    {
+      "find": "\\bfriends\\b",
+      "text": "homies"
+    },
+    {
+      "find": "\\bfriend\\b",
+      "text": "homie"
+    },
+    {
+      "find": "\\bFriends\\b",
+      "text": "Homies"
+    },
+    {
+      "find": "\\bFriend\\b",
+      "text": "Homie"
+    },
+    {
+      "find": "\\bmoney\\b",
+      "text": "bread"
+    },
+    {
+      "find": "\\bMoney\\b",
+      "text": "Bread"
+    },
+    {
+      "find": "\\bThank you\\b",
+      "text": "Good looks"
+    },
+    {
+      "find": "\\bthank you\\b",
+      "text": "good looks"
+    },
+    {
+      "find": "\\bThanks\\b",
+      "text": "Good looks"
+    },
+    {
+      "find": "\\bHello\\b",
+      "text": "Wassup"
+    },
+    {
+      "find": "\\bHi!",
+      "text": "Ayo!"
+    },
+    {
+      "find": "\\bHi,",
+      "text": "Ayo,"
+    },
+    {
+      "find": "\\bWow\\b",
+      "text": "Sheesh"
+    },
+    {
+      "find": "\\bisn’t\\b",
+      "text": "ain’t"
+    },
+    {
+      "find": "\\baren’t\\b",
+      "text": "ain’t"
+    },
+    {
+      "find": "\\bgoing to\\b",
+      "text": "finna"
+    },
+    {
+      "find": "\\bGoing to\\b",
+      "text": "Finna"
+    },
+    {
+      "find": "\\bkid\\b",
+      "text": "youngblood"
+    },
+    {
+      "find": "\\bcool\\b",
+      "text": "hard"
+    },
+    {
+      "find": "\\bTrainers\\b",
+      "text": "Hustlers"
+    },
+    {
+      "find": "\\bTrainer\\b(?! Card)",
+      "text": "Hustler"
+    },
+    {
+      "find": "\\btrainers\\b",
+      "text": "hustlers"
+    },
+    {
+      "find": "\\btrainer\\b",
+      "text": "hustler"
+    }
+  ],
+  "bank_replace": {
+    "msg_0197": [
+      {
+        "find": "It hurt itself in its\\nconfusion!",
+        "text": "It tripped over its\\nown feet! Too faded!"
+      },
+      {
+        "find": "snapped out of confusion",
+        "text": "sobered up"
+      },
+      {
+        "find": "snapped it out of\\fconfusion",
+        "text": "sobered it\\fup"
+      },
+      {
+        "find": "became\\nconfused due to fatigue",
+        "text": "got\\nfaded from bein’ tired"
+      },
+      {
+        "find": "became\\nconfused",
+        "text": "got\\nfaded"
+      },
+      {
+        "find": "\\bconfused\\b",
+        "text": "faded"
+      },
+      {
+        "find": "prevents confusion",
+        "text": "keeps it sober"
+      },
+      {
+        "find": "\\bparalyzed\\b",
+        "text": "tased"
+      },
+      {
+        "find": "\\bparalysis\\b",
+        "text": "the taser"
+      },
+      {
+        "find": "badly\\npoisoned",
+        "text": "real\\nfood poisoned"
+      },
+      {
+        "find": "\\bpoisoned\\b",
+        "text": "food poisoned"
+      },
+      {
+        "find": "hurt\\nby poison",
+        "text": "hurt\\nby bad tacos"
+      },
+      {
+        "find": "cured its poison",
+        "text": "fixed its stomach"
+      },
+      {
+        "find": "prevents poisoning",
+        "text": "has a iron stomach"
+      },
+      {
+        "find": "\\nwas burned!",
+        "text": "\\ngot burnt!"
+      },
+      {
+        "find": "\\nfell asleep",
+        "text": "\\npassed out"
+      },
+      {
+        "find": "fall asleep",
+        "text": "pass out"
+      },
+      {
+        "find": "fast\\nasleep",
+        "text": "knocked\\nout cold"
+      },
+      {
+        "find": "already asleep",
+        "text": "already passed out"
+      },
+      {
+        "find": "\\nwoke up!",
+        "text": "\\ncame to!"
+      },
+      {
+        "find": "frozen solid",
+        "text": "iced out"
+      },
+      {
+        "find": "thawed out",
+        "text": "warmed up"
+      }
+    ]
+  }
+}

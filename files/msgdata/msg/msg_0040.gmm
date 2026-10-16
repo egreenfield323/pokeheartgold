@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0040_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon?{YESNO 0}</language>
+		<language name="English">Wassup, welcome to the Trap House.\rWe patch your homies up, no\nquestions asked.\rWant us to fix up your crew? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0040_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r</language>
+		<language name="English">Good looks for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r</language>
 	</row>
 	<row id="msg_0040_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0040_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to...\r</language>
+		<language name="English">Wassup, welcome to the Trap House.\rWe patch your homies up, no\nquestions asked.\rWant us to...\r</language>
 	</row>
 	<row id="msg_0040_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Th-that Trainer Card!\rThat wonderful shade!\nAnd all those stars!\rI’ve seen several Trainers with\nViolet Trainer Cards up to now...\rBut you’re the first to top them\nwith that impressive Trainer Card.\rPlease, {STRVAR_1 3, 0, 0}, may I please\nheal your Pokémon? {YESNO 0}</language>
+		<language name="English">Th-that Trainer Card!\rThat wonderful shade!\nAnd all those stars!\rI’ve seen several Hustlers with\nViolet Trainer Cards up to now...\rBut you’re the first to top them\nwith that impressive Trainer Card.\rPlease, {STRVAR_1 3, 0, 0}, may I please\nheal your Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,11 +34,11 @@
 	</row>
 	<row id="msg_0040_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for waiting.</language>
+		<language name="English">Good looks for waiting.</language>
 	</row>
 	<row id="msg_0040_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Stay safe out there, baby.</language>
 	</row>
 	<row id="msg_0040_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -141,7 +141,7 @@
 	</row>
 	<row id="msg_0040_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} booted up the PC.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} logged into\nthe plug’s PC.\r</language>
 	</row>
 	<row id="msg_0040_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -161,7 +161,7 @@
 	</row>
 	<row id="msg_0040_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\nWhat do you need?</language>
+		<language name="English">Wassup!\nWhatchu need?</language>
 	</row>
 	<row id="msg_0040_00039" index="39">
 		<attribute name="window_context_name">garbage</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0040_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokémon Center.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!</language>
+		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fTrap House.\rIf you’re finna travel far away,\nthe smart Hustler stocks up on\fPotions at the Corner Store.\rMake me proud, honey!\nTake care!</language>
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -186,7 +186,7 @@
 	</row>
 	<row id="msg_0040_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, let’s restore your Pokémon\nto full health.</language>
+		<language name="English">First, let’s get your homies\npatched up.</language>
 	</row>
 	<row id="msg_0040_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -194,7 +194,7 @@
 	</row>
 	<row id="msg_0040_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please visit a Pokémon Center when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Pokémon Mart.\rGood luck, Trainer!</language>
+		<language name="English">Please visit a Trap House when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Corner Store.\rGood luck, Hustler!</language>
 	</row>
 	<row id="msg_0040_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -349,11 +349,11 @@
 	</row>
 	<row id="msg_0040_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good morning!\nWelcome to the Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Good mornin’! Welcome to the\nTrap House.\rWe patch your homies up, no\nquestions asked.\rWant us to fix up your crew? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Wassup, welcome to the Trap House.\rWe patch your homies up, no\nquestions asked.\rWant us to fix up your crew? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
@@ -456,15 +456,15 @@
 	</row>
 	<row id="msg_0040_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you! Will you tell me about\nanything else? {YESNO 0}</language>
+		<language name="English">Good looks! Will you tell me about\nanything else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it! Thanks!</language>
+		<language name="English">Got it! Good looks!</language>
 	</row>
 	<row id="msg_0040_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it! Thanks!\n{STRVAR_1 28, 0, 0}, huh...</language>
+		<language name="English">Got it! Good looks!\n{STRVAR_1 28, 0, 0}, huh...</language>
 	</row>
 	<row id="msg_0040_00112" index="112">
 		<attribute name="window_context_name">used</attribute>

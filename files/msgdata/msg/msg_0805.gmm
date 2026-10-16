@@ -235,7 +235,7 @@
 	</row>
 	<row id="msg_0805_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer.</language>
+		<language name="English">A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Hustler.</language>
 	</row>
 	<row id="msg_0805_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -403,7 +403,7 @@
 	</row>
 	<row id="msg_0805_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It looks just like a Poké Ball.\nIt is dangerous because it may\nelectrocute or explode on touch.</language>
+		<language name="English">It looks just like a Hood Ball.\nIt is dangerous because it may\nelectrocute or explode on touch.</language>
 	</row>
 	<row id="msg_0805_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -675,7 +675,7 @@
 	</row>
 	<row id="msg_0805_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends.</language>
+		<language name="English">It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its homies.</language>
 	</row>
 	<row id="msg_0805_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
@@ -875,7 +875,7 @@
 	</row>
 	<row id="msg_0805_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden.</language>
+		<language name="English">Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will hard and harden.</language>
 	</row>
 	<row id="msg_0805_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
@@ -1051,7 +1051,7 @@
 	</row>
 	<row id="msg_0805_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It chases down prey in a pack.\nIt will never disobey the commands\nof a skilled Trainer.</language>
+		<language name="English">It chases down prey in a pack.\nIt will never disobey the commands\nof a skilled Hustler.</language>
 	</row>
 	<row id="msg_0805_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
@@ -1247,11 +1247,11 @@
 	</row>
 	<row id="msg_0805_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It cheers on friends with pom-poms\nmade of sparks. It drains power\nfrom telephone poles.</language>
+		<language name="English">It cheers on homies with pom-poms\nmade of sparks. It drains power\nfrom telephone poles.</language>
 	</row>
 	<row id="msg_0805_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It cheers on friends. If its\nfriends are losing, its body lets\noff more and more sparks.</language>
+		<language name="English">It cheers on homies. If its\nfriends are losing, its body lets\noff more and more sparks.</language>
 	</row>
 	<row id="msg_0805_00313" index="313">
 		<attribute name="window_context_name">used</attribute>

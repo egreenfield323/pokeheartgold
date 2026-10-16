@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0549_T20R0402_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}!\rProfessor Elm was looking for you.\nDid you go to his lab?</language>
+		<language name="English">Lyra: Aye pimp! {STRVAR_1 3, 0, 0}!\rElm was lookin’ for you.\nYou slide to the lab yet?</language>
 	</row>
 	<row id="msg_0549_T20R0402_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}!\rProfessor Elm was looking for you.\nDid you go to his lab?</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\rElm was lookin’ for you.\nYou slide to the lab yet?</language>
 	</row>
 	<row id="msg_0549_T20R0402_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: My MARILL is super cute...\nBut your {STRVAR_1 0, 1, 0} looks pretty\fgood, too, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Lyra: My MARILL hard as hell...\nBut your {STRVAR_1 0, 1, 0} lookin’\fsolid too, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: My MARILL is super cool...\nBut your {STRVAR_1 0, 1, 0} looks pretty\fgood, too, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Ethan: My MARILL hard as hell...\nBut your {STRVAR_1 0, 1, 0} lookin’\fsolid too, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MARILL: Qurururoon.</language>
+		<language name="English">MARILL: Qurururoon. (Wassup, pimp.)</language>
 	</row>
 	<row id="msg_0549_T20R0402_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Isn’t it strange that when we are\nwith Pokémon, going out is just so much\fmore fun!\r{STRVAR_1 3, 0, 0}!\nTry going to different places and talk\fto your Pokémon!\rI bet you’ll find out so many things\nabout them!</language>
+		<language name="English">Lyra: Ain’t it crazy how rollin’\nwith homies make the block\fhit different?\r{STRVAR_1 3, 0, 0}!\nSlide through different spots and\ftalk to your homies!\rYou gon’ learn so much about\n’em. Real recognize real!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Isn’t it strange that when we\nare with Pokémon, going out is just so\fmuch more fun!\r{STRVAR_1 3, 0, 0}!\nTry going to different places and talk\fto your Pokémon!\rI bet you’ll find so many things\nabout them!</language>
+		<language name="English">Ethan: Ain’t it crazy how rollin’\nwith homies make the block\fhit different?\r{STRVAR_1 3, 0, 0}!\nSlide through different spots and\ftalk to your homies!\rYou gon’ learn so much about\n’em. Real recognize real!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\nHow are your Pokémon?\fDon’t forget to talk to...\rWhat’s that?\nYour Pokémon is holding a leaf...\rCould that be a Shiny Leaf?\nLegend has it that only Pokémon\fthat have formed a close bond with\fpeople can find such leaves...\rPeople used to turn the leaves into a\nbeautiful crown when they managed\fto collect five of them.\rWow!\nI knew you could obtain one,\f{STRVAR_1 3, 0, 0}!\fLet me see it when you find another!</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat really ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}!\nHow are your Pokémon?\fDon’t forget to talk to...\rWhat’s that?\nYour Pokémon is holding a leaf...\rCould that be a Shiny Leaf?\nLegend has it that only Pokémon\fthat have formed a close bond with\fpeople can find such leaves...\rPeople used to turn the leaves into a\nbeautiful crown when they managed\fto collect five of them.\rWow!\nI knew you could obtain one,\f{STRVAR_1 3, 0, 0}!\fLet me see it when you find another!</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat really ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon you’re\fwalking with?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\nOh!\rYou found a Shiny Leaf!\nLet me see!\rHa! You’ve collected...\r{STRVAR_1 50, 1, 0}!\rWay to go!\nKeep it up and collect {STRVAR_1 50, 2, 0} more!</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s what’s up!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon you’re\fwalking with?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\nOh!\rYou found a Shiny Leaf!\nLet me see!\rHa! You’ve collected...\r{STRVAR_1 50, 1, 0}!\rWay to go!\nKeep it up and collect {STRVAR_1 50, 2, 0} more!</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s what’s up!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon you’re\fwalking with?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\rHa! You have already collected five\fShiny Leaves!\rLet me turn them into a crown!\nAnd what’s more...\fI will give you this, too!\r</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\rHa! You already got all five\fShiny Leaves!\rLemme make you a crown!\nAnd on top of that...\fTake this too!\r</language>
 	</row>
 	<row id="msg_0549_T20R0402_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon you’re\fwalking with?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\rHa! You have already collected five\fShiny Leaves!\rLet me turn them into a crown!\nAnd what’s more...\fI will give you this, too!\r</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\rHa! You already got all five\fShiny Leaves!\rLemme make you a crown!\nAnd on top of that...\fTake this too!\r</language>
 	</row>
 	<row id="msg_0549_T20R0402_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Cherish your friendship with\nPokémon for years to come!</language>
+		<language name="English">Lyra: Keep it solid with your\nhomies for life, pimp!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Cherish your friendship with\nPokémon for years to come!</language>
+		<language name="English">Ethan: Keep it solid with your\nhomies for life!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\rOh, I get it.\nAre you here to check on the award\fwith {STRVAR_1 1, 1, 0}?\r</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow your homies?\rTalk to ’em while y’all walk\nsometimes. Build that loyalty!\r...\rOh, I get it.\nYou here about the award\fwith {STRVAR_1 1, 1, 0}?\r</language>
 	</row>
 	<row id="msg_0549_T20R0402_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}!\nHow is your Pokémon?\rYou can talk to it as you walk from time\nto time to nurture your friendship!\r...\rOh, I get it.\nAre you here to check on the award\fwith {STRVAR_1 1, 1, 0}?\r</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow your homies?\rTalk to ’em while y’all walk\nsometimes. Build that loyalty!\r...\rOh, I get it.\nYou here about the award\fwith {STRVAR_1 1, 1, 0}?\r</language>
 	</row>
 	<row id="msg_0549_T20R0402_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Wii!\rWii is huge in Johto, too!</language>
+		<language name="English">It’s a Wii!\rLyra got her set’s colors\non the controller.</language>
 	</row>
 	<row id="msg_0549_T20R0402_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You shouldn’t mess with someone\nelse’s PC!</language>
+		<language name="English">Don’t touch nobody else’s PC.\nThat’s how you get jumped.</language>
 	</row>
 </body>

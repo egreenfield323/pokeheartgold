@@ -316,7 +316,7 @@
 	</row>
 	<row id="msg_0421_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Pokémon caught using Poké Balls.</language>
+		<language name="English">{ALN_CENTER}Pokémon caught using Hood Balls.</language>
 	</row>
 	<row id="msg_0421_00069" index="69">
 		<attribute name="window_context_name">used</attribute>

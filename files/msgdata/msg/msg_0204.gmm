@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0204_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nHow’s it going?\rYou’re in the {STRVAR_34 3, 1, 0} group with\n{STRVAR_1 3, 0, 0} as leader, right?\rWould you like to leave that group\nand join another one? {YESNO 0}</language>
+		<language name="English">Ayo!\nHow’s it going?\rYou’re in the {STRVAR_34 3, 1, 0} group with\n{STRVAR_1 3, 0, 0} as leader, right?\rWould you like to leave that group\nand join another one? {YESNO 0}</language>
 	</row>
 	<row id="msg_0204_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nHow’s it going?\rYou’re in the {STRVAR_34 3, 1, 0} group with\n{STRVAR_1 3, 0, 0} as leader, right?\rWould you like to leave that group\nand make a new one? {YESNO 0}</language>
+		<language name="English">Ayo!\nHow’s it going?\rYou’re in the {STRVAR_34 3, 1, 0} group with\n{STRVAR_1 3, 0, 0} as leader, right?\rWould you like to leave that group\nand make a new one? {YESNO 0}</language>
 	</row>
 	<row id="msg_0204_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0204_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you form or join a new group,\nbe sure to visit any Union Room.\rMix your records with group members,\nand you’ll become integrated.\rWhen you’re in the same group,\nevents can happen simultaneously.\rIt makes things a lot more fun\nplaying in a group!\rAnyone can make a new group, and\nanyone can join.\rI hope you recruit lots of friends\nso everyone can have fun! {YESNO 0}</language>
+		<language name="English">When you form or join a new group,\nbe sure to visit any Union Room.\rMix your records with group members,\nand you’ll become integrated.\rWhen you’re in the same group,\nevents can happen simultaneously.\rIt makes things a lot more fun\nplaying in a group!\rAnyone can make a new group, and\nanyone can join.\rI hope you recruit lots of homies\nso everyone can have fun! {YESNO 0}</language>
 	</row>
 	<row id="msg_0204_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

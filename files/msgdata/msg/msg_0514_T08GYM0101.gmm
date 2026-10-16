@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0514_T08GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufufu...\nI’m sorry to disappoint you...\rI’m only joking! I’m the real deal!\rJanine of Fuchsia Gym, that’s me!\r</language>
+		<language name="English">Fufufufu...\nI’m sorry to disappoint you...\rI’m only joking! I’m the real deal!\rJanine of Fuchsia Block, that’s me!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I see... You have defeated\nKoga, my father and a member of the\fElite Four, to come here.\rNo wonder you are strong!\rYou’ve definitely won...\nHere’s the Soul Badge. Take it.\r</language>
+		<language name="English">Janine: I see... You have defeated\nKoga, my father and a member of the\fElite Four, to come here.\rNo wonder you are strong!\rYou’ve definitely won...\nHere’s the Soul Chain. Take it.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Soul Badge from Janine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Soul Chain from Janine!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m going to really apply\nmyself and improve my skills.\rI want to become much better than\nboth my father and you!</language>
+		<language name="English">Janine: I’m finna really apply\nmyself and improve my skills.\rI want to become much better than\nboth my father and you!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\nWhoops! Take a good look around you.\rThe Trainers all look like the\nGym Leader, Janine.\rWhich of them is the real Janine?</language>
+		<language name="English">Yo, legend in the making!\nWhoops! Take a good look around you.\rThe Hustlers all look like the\nBlock Boss, Janine.\rWhich of them is the real Janine?</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufu!\rI’m Janine, the Gym Leader!\fWait, no I’m not! Gotcha!\r</language>
+		<language name="English">Fufufu!\rI’m Janine, the Block Boss!\fWait, no I’m not! Gotcha!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -70,10 +70,10 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City Pokémon Gym</language>
+		<language name="English">Fuchsia City block</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City Pokémon Gym\rLeader: Janine\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Fuchsia City block\rLeader: Janine\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

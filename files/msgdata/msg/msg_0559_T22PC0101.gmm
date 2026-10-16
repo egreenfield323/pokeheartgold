@@ -51,15 +51,15 @@
 	</row>
 	<row id="msg_0559_T22PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was about three years ago.\nThis group of thugs called Team Rocket\fwas involved in wrongdoing. They were\fabusing Pokémon.\rBut!\nBad things never last!\rA boy did a wonderful job and\nTeam Rocket was disbanded!\n\n</language>
+		<language name="English">It was about three years ago.\nThis group of thugs called The Feds\fwas involved in wrongdoing. They were\fabusing Pokémon.\rBut!\nBad things never last!\rA boy did a wonderful job and\nThe Feds was disbanded!\n\n</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon are really smart.\nTraded Pokémon might not listen to you\fright away. For example, high-level\fPokémon sometimes refuse to obey\fwhen you don’t have enough Gym Badges.</language>
+		<language name="English">Pokémon are really smart.\nTraded Pokémon might not listen to you\fright away. For example, high-level\fPokémon sometimes refuse to obey\fwhen you don’t have enough Gym Chains.</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: Hello!\nI should be a familiar face to every\fPokémon fan. I’m from the TV show,\f“The Show Me Show!”\rI am Primo, the big brother!\rToday, would you, one of my fans,\ntell me what you think of me? {YESNO 0}</language>
+		<language name="English">Primo: Wassup!\nI should be a familiar face to every\fPokémon fan. I’m from the TV show,\f“The Show Me Show!”\rI am Primo, the big brother!\rToday, would you, one of my fans,\ntell me what you think of me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -75,15 +75,15 @@
 	</row>
 	<row id="msg_0559_T22PC0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou’re a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal to get you\na new wallpaper for your PC Boxes.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
+		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou’re a Hustler, right?\nI’ll pull some strings for you.\rI think I can swing a deal to get you\na new wallpaper for your PC Boxes.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal so you\ncan receive a Mystery Gift.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
+		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Hustler, right?\nI’ll pull some strings for you.\rI think I can swing a deal so you\ncan receive a Mystery Gift.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r</language>
+		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Hustler, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -91,30 +91,30 @@
 	</row>
 	<row id="msg_0559_T22PC0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r...\rYour party is full, and I can’t\ngive it to you!</language>
+		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Hustler, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r...\rYour party is full, and I can’t\ngive it to you!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\rCan you tell me what kind of Trainer\nyou like best?\r</language>
+		<language name="English">Hmm...\rCan you tell me what kind of Hustler\nyou like best?\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which kind of Trainer would you like\nto be? {YESNO 0}</language>
+		<language name="English">Which kind of Hustler would you like\nto be? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 0, 0} is the kind of Trainer\nyou want to be? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 14, 0, 0} is the kind of Hustler\nyou want to be? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see! So {STRVAR_1 14, 0, 0} is the kind\nof Trainer you like.\rIf that’s the case, others may\ncome to see you in the same way.\r</language>
+		<language name="English">I see! So {STRVAR_1 14, 0, 0} is the kind\nof Hustler you like.\rIf that’s the case, others may\ncome to see you in the same way.\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talk to me again if you want to\nlet me know what kind of Trainer\fyou like best.</language>
+		<language name="English">Talk to me again if you want to\nlet me know what kind of Hustler\fyou like best.</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello! You’ve been mistaken for\n{STRVAR_1 14, 0, 0}, haven’t you?\rBut I think you can also pass for\na different kind of Trainer.\rSo, how about telling me what kind of\nTrainer you like?\r</language>
+		<language name="English">Wassup! You’ve been mistaken for\n{STRVAR_1 14, 0, 0}, haven’t you?\rBut I think you can also pass for\na different kind of Hustler.\rSo, how about telling me what kind of\nTrainer you like?\r</language>
 	</row>
 </body>

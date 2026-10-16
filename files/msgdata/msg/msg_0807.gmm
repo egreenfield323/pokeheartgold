@@ -235,7 +235,7 @@
 	</row>
 	<row id="msg_0807_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ein loyales Pokémon. Es wird erst\ndann aktiv, wenn sein Trainer ihm\nAnweisungen gegeben hat.</language>
+		<language name="English">Ein loyales Pokémon. Es wird erst\ndann aktiv, wenn sein Hustler ihm\nAnweisungen gegeben hat.</language>
 	</row>
 	<row id="msg_0807_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -635,7 +635,7 @@
 	</row>
 	<row id="msg_0807_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es hat die Angewohnheit, nach allem\nzu schnappen, was es sieht. Selbst\nseine Trainer müssen aufpassen.</language>
+		<language name="English">Es hat die Angewohnheit, nach allem\nzu schnappen, was es sieht. Selbst\nseine Hustler müssen aufpassen.</language>
 	</row>
 	<row id="msg_0807_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -1051,7 +1051,7 @@
 	</row>
 	<row id="msg_0807_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es jagt seine Beute im Rudel. Den\nBefehlen eines erfahrenen Trainers\nwird es stets folgen.</language>
+		<language name="English">Es jagt seine Beute im Rudel. Den\nBefehlen eines erfahrenen Hustlers\nwird es stets folgen.</language>
 	</row>
 	<row id="msg_0807_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
@@ -1127,11 +1127,11 @@
 	</row>
 	<row id="msg_0807_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es nimmt die Gefühle seines Trainers\ndeutlich wahr. Wenn es glücklich\nist, tanzt es.</language>
+		<language name="English">Es nimmt die Gefühle seines Hustlers\ndeutlich wahr. Wenn es glücklich\nist, tanzt es.</language>
 	</row>
 	<row id="msg_0807_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es wird seinen Trainer mit dem Leben\nbeschützen, wenn es ihm vertraut.\nEs kann in die Zukunft blicken.</language>
+		<language name="English">Es wird seinen Hustler mit dem Leben\nbeschützen, wenn es ihm vertraut.\nEs kann in die Zukunft blicken.</language>
 	</row>
 	<row id="msg_0807_00283" index="283">
 		<attribute name="window_context_name">used</attribute>

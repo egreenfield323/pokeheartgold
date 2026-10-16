@@ -2,102 +2,102 @@
 <body language="English">
 	<row id="msg_0550_T21_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re a rookie Trainer, aren’t you?\nI can tell!\rThat’s OK! Everyone is a rookie\nat some point!\rIf you’d like, I can teach you a\nfew things.\fOK, then! Follow me!\r</language>
+		<language name="English">Ayyyy... yoooou a rookie, ain’t’cha?\nI can... I can tell. *hic*\rS’all good! Errbody... errbody\nwas a rookie. Even me. In ’82.\rIf you want... I’ll show you\naround. *burp* Ya feel me?\fAight! Follow... follow the OG!\r</language>
 	</row>
 	<row id="msg_0550_T21_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ohh... I’m sorry.\nI forgot that you weren’t wearing the\fRunning Shoes!\rI’ll try to go as slow as possible, so\ntry keeping up!\r</language>
+		<language name="English">Ohhh... my bad, my bad...\nI forgot you... you ain’t got\fno Runnin’ Shoes. *hic*\rI’ma go reeeal slow... I can’t\ngo fast anyway. Keep up!\r</language>
 	</row>
 	<row id="msg_0550_T21_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a Pokémon Center. They heal\nyour Pokémon in no time at all.\rYou’ll be relying on them a lot, so\nyou better learn about them.\r</language>
+		<language name="English">Thiiis... this the Trap House.\nThey fix your homies up quick.\rI come here for... reasons.\nYou gon’ be here a lot. Like me.\r</language>
 	</row>
 	<row id="msg_0550_T21_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a Pokémon Mart.\nThey sell Poké Balls for catching wild\fPokémon and other useful items.\r</language>
+		<language name="English">This the Corner Store.\nThey sell Hood Balls for recruitin’\fhomies and... and loosies.\r</language>
 	</row>
 	<row id="msg_0550_T21_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 30 is out this way.\rTrainers will be battling their\nPokémon there.\rIf you go a little farther,\nyou’ll see Mr. Pokémon’s House.\r</language>
+		<language name="English">Route 30... it’s... that way.\nOr that way. One of them ways.\rPeople be out there\nscrappin’ with they homies.\rKeep goin’ an’ you’ll see\nMr. Pokémon’s spot. He cool.\r</language>
 	</row>
 	<row id="msg_0550_T21_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the sea, as you can see.\rSome Pokémon are found only in water.\r</language>
+		<language name="English">Thas... thas the ocean.\nIt’s... it’s real big, bro. Real big.\rSome homies... only live in water.\nLike fish. Fish are... fish.\r</language>
 	</row>
 	<row id="msg_0550_T21_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here...\nIt’s my house!\rFor your effort keeping up with me,\nI’ll give you my Running Shoes!\fThey’re still warm!\r...\n...\rGot you, didn’t I?\nDon’t worry, these are brand new!\r</language>
+		<language name="English">Heeeere...\nThis... this my crib!\rFor... for keepin’ up with me,\nI’ma give you my Runnin’ Shoes!\fThey still warm! *hic*\r...\n...\rGotcha! Hahaha...*cough cough*\nNah, they brand new. I stole ’em.\r</language>
 	</row>
 	<row id="msg_0550_T21_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Running Shoes from the Guide Gent!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got the Runnin’ Shoes\nfrom the Guide Gent! They smell weird.</language>
 	</row>
 	<row id="msg_0550_T21_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The instructions read,\n“Touch the Sprint Button on the\fTouch Screen to sprint.”\rIt also says,\n“Hold the B Button down to sprint.”\r</language>
+		<language name="English">The tag say,\n“Tap the Sprint Button on the\fTouch Screen to sprint.”\rIt also say,\n“Hold the B Button down to sprint.”\r</language>
 	</row>
 	<row id="msg_0550_T21_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hffp... Hffp...\nI made it...\rI forgot about one thing.\nThis is another token from me!\rTake it.\r</language>
+		<language name="English">...Hhhff... hhhff...\nI made it... I’m dyin’...\rI forgot one thing.\nHere. Another... another gift.\rTake it. Before I lose it.\r</language>
 	</row>
 	<row id="msg_0550_T21_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Guide Gent loaded the Map Card\non {STRVAR_1 3, 0, 0}’s Pokégear!</language>
+		<language name="English">The Guide Gent loaded the Map Card\non {STRVAR_1 3, 0, 0}’s Pokégear! Barely.</language>
 	</row>
 	<row id="msg_0550_T21_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokégear\ncan now show the Town Map!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s Pokégear\ncan show the Town Map now!\r</language>
 	</row>
 	<row id="msg_0550_T21_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select the Pokégear on the\nTouch Screen and then select\fthe Town Map icon.\rYou’ll see the map of the region\nyou’re currently in!\rThe Pokégear becomes more useful as\nyou add Cards.\rI wish you luck on your journey!\r</language>
+		<language name="English">Tap the Pokégear on the\nTouch Screen an’ then tap\fthe lil map thing.\rYou’ll see... the whole region.\nWhere you at. Where I’m at. Where?\rThe Pokégear get better when\nyou put more Cards in it.\rGood luck out there, youngblood!\nI’ma go lay down on the sidewalk.\r</language>
 	</row>
 	<row id="msg_0550_T21_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou got a Pokémon at the Lab.\nWhat a waste.\rThat’s a Pokémon that’s too good for\na wimp like you.\r...\nDon’t you get what I’m saying?\rWell, I too have a good Pokémon.\nI’ll show you what I mean!\r</language>
+		<language name="English">...\rYou got a homie from the lab.\nWhat a waste.\rThat homie too good for\na lame like you.\r...\nYou ain’t get what I’m sayin’?\rI got a hard homie too.\nLemme show you!\r</language>
 	</row>
 	<row id="msg_0550_T21_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rDo you want to know who I am?\n...\rI’m going to be the world’s greatest\nPokémon Trainer.\r</language>
+		<language name="English">...\rYou wanna know who I am?\n...\rI’ma be the hardest\nhustler in the whole world.\r</language>
 	</row>
 	<row id="msg_0550_T21_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give it back!\nThat’s my Trainer Card!\rOh no!\nYou saw my name...\r</language>
+		<language name="English">Give it back!\nThat’s my ID!\rDamn!\nYou seen my name...\r</language>
 	</row>
 	<row id="msg_0550_T21_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you talk to the old man by the\nPokémon Center?\rHe’ll put a Map of Johto on your\nPokégear.</language>
+		<language name="English">You talk to the OG by the\nTrap House? He... rough today.\rHe’ll put a Map of Johto on your\nPokégear. If he awake.</language>
 	</row>
 	<row id="msg_0550_T21_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you’re with Pokémon,\ngoing anywhere is fun.</language>
+		<language name="English">When you rollin’ with homies,\nevery block feel like home.</language>
 	</row>
 	<row id="msg_0550_T21_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s house is still farther\nup ahead.\rYou could use the Running Shoes if\nyou had a pair.\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
+		<language name="English">Mr. Pokémon’s spot is still\nup ahead.\rYou could use some Runnin’ Shoes if\nyou had some.\rBut watch out for opps\nin the grass!\rWhen you run, the noise\nbring ’em out.</language>
 	</row>
 	<row id="msg_0550_T21_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I battled the Trainers on the road.\nMy Pokémon lost.\rThey’re a mess! I must take them to\na Pokémon Center.</language>
+		<language name="English">I ran up on the people on the road.\nMy homies got smoked.\rThey messed up! I gotta take ’em\nto the Trap House.</language>
 	</row>
 	<row id="msg_0550_T21_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon I caught had an item.\nI think it’s Mystic Water.\rI don’t need it, so do you want it?\r</language>
+		<language name="English">A homie I recruited had this on him.\nI think it’s Mystic Water.\rI don’t need it. You want it?\r</language>
 	</row>
 	<row id="msg_0550_T21_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Back to fishing for me, then.</language>
+		<language name="English">Back to fishin’, then.</language>
 	</row>
 	<row id="msg_0550_T21_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have room for this.</language>
+		<language name="English">You ain’t got room for this.</language>
 	</row>
 	<row id="msg_0550_T21_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherrygrove City\nThe City of Fragrant Flowers</language>
+		<language name="English">Cherrygrove City\nThe City of Fragrant Corner Stores</language>
 	</row>
 	<row id="msg_0550_T21_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guide Gent’s House\nFull-of-Energy, High-Speed Old Man</language>
+		<language name="English">Guide Gent’s Crib\nKnock Loud. He Sleep Hard.</language>
 	</row>
 </body>

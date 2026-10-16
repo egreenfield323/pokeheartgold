@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0629_T30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\rClair, our Gym Leader, entered\nthe Dragon’s Den behind the Gym.\rI have no idea when our Leader\nwill return.</language>
+		<language name="English">I am sorry.\rClair, our Block Boss, entered\nthe Dragon’s Den behind the Block.\rI have no idea when our Leader\nwill return.</language>
 	</row>
 	<row id="msg_0629_T30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair, our Gym Leader, is waiting\nfor you.\rHowever, it would be impossible for\na run-of-the-mill Trainer to win.</language>
+		<language name="English">Clair, our Block Boss, is waiting\nfor you.\rHowever, it would be impossible for\na run-of-the-mill Hustler to win.</language>
 	</row>
 	<row id="msg_0629_T30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0629_T30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. Only chosen Trainers may train\nhere. Please leave.</language>
+		<language name="English">No. Only chosen Hustlers may train\nhere. Please leave.</language>
 	</row>
 	<row id="msg_0629_T30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0629_T30_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you going to make your Pokémon\nforget some moves?</language>
+		<language name="English">Are you finna make your Pokémon\nforget some moves?</language>
 	</row>
 	<row id="msg_0629_T30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those Trainers called Dragon Tamers\nare all from Blackthorn City.</language>
+		<language name="English">Those Hustlers called Dragon Tamers\nare all from Blackthorn City.</language>
 	</row>
 	<row id="msg_0629_T30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you came through the Ice Path?\rYou must be a real hotshot Trainer!</language>
+		<language name="English">Sheesh, you came through the Ice Path?\rYou must be a real hotshot Hustler!</language>
 	</row>
 	<row id="msg_0629_T30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City Pokémon Gym\nLeader: Clair\fThe Blessed User of Dragon Pokémon</language>
+		<language name="English">Blackthorn City block\nLeader: Clair\fThe Blessed User of Dragon Pokémon</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0629_T30_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rWild Pokémon will appear regularly\nif you don’t run, but walk quietly in the\ftall grass.\rIf your party Pokémon are\ntired, it is better to avoid running,\fand go straight to a Pokémon Center.</language>
+		<language name="English">Hustler Tips\rWild Pokémon will appear regularly\nif you don’t run, but walk quietly in the\ftall grass.\rIf your party Pokémon are\ntired, it is better to avoid running,\fand go straight to a Trap House.</language>
 	</row>
 </body>

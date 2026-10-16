@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0103_D32R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Frontier has five facilities\ndedicated to battling.\rAt the Battle Tower, the objective is\nto beat seven Trainers in a row.\rAt the Battle Hall, you may keep battle\nrecords of individual Pokémon.\rAt the Battle Factory, you must win\nconsecutive battles with rentals.\rThe Battle Castle forces Trainers to\nmanage Castle Points to advance.\rAnd finally, the Battle Arcade is where\nrandom luck triggers events.\rYou can try any of these facilities!\r</language>
+		<language name="English">The Battle Frontier has five facilities\ndedicated to battling.\rAt the Battle Tower, the objective is\nto beat seven Hustlers in a row.\rAt the Battle Hall, you may keep battle\nrecords of individual Pokémon.\rAt the Battle Factory, you must win\nconsecutive battles with rentals.\rThe Battle Castle forces Hustlers to\nmanage Castle Points to advance.\rAnd finally, the Battle Arcade is where\nrandom luck triggers events.\rYou can try any of these facilities!\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0103_D32R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Performance Monitor shows Trainer\ndata, such as the previous record and\fthe best record to date.\rYou will find one near the reception\ncounter in each facility.\r</language>
+		<language name="English">The Performance Monitor shows Hustler\ndata, such as the previous record and\fthe best record to date.\rYou will find one near the reception\ncounter in each facility.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -136,7 +136,7 @@
 	</row>
 	<row id="msg_0103_D32R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Frontier is up ahead!\nI have explored places all over the\fworld, but nothing compares to the\fexcitement I feel right now!\rWhat kinds of Trainers will I see?\nWhat battles will I experience?\rIt’s a whole new adventure for me!</language>
+		<language name="English">The Battle Frontier is up ahead!\nI have explored places all over the\fworld, but nothing compares to the\fexcitement I feel right now!\rWhat kinds of Hustlers will I see?\nWhat battles will I experience?\rIt’s a whole new adventure for me!</language>
 	</row>
 	<row id="msg_0103_D32R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>

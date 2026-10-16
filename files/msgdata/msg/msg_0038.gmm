@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0038_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the Friend Code.</language>
+		<language name="English">Please enter the Homie Code.</language>
 	</row>
 	<row id="msg_0038_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

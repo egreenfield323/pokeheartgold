@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0649_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? Hello? Hello? Hello?\n...I think we have a bad connection.\rCould you try again from another spot?</language>
+		<language name="English">Wassup? Wassup? Wassup? Wassup?\n...I think we have a bad connection.\rCould you try again from another spot?</language>
 	</row>
 	<row id="msg_0649_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0649_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are a lot more stronger\nGym Leaders than me...\fSo get tough or go home!</language>
+		<language name="English">There are a lot more stronger\nBlock Bosses than me...\fSo get tough or go home!</language>
 	</row>
 	<row id="msg_0649_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0649_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately there seems to be some gossip\nrunning through town that I am the\flatest name in fashion.\rWell, if I’m that cool that people can’t\nstop talking about me, I can totally\funderstand that sentiment.</language>
+		<language name="English">Lately there seems to be some gossip\nrunning through town that I am the\flatest name in fashion.\rWell, if I’m that hard that people can’t\nstop talking about me, I can totally\funderstand that sentiment.</language>
 	</row>
 	<row id="msg_0649_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you seem like you’re a pretty busy\nperson, aren’t you? Even more than\fI am, if that could possibly be.\rI mean, I’ve got my Gym work, and I’ve\ngot to go see the Elder at the\fDragon Tamer’s shrine, too.\rWhat do you think?\nYou’ve got talent--you could become\fa Dragon Tamer, too. Think so?</language>
+		<language name="English">Sheesh, you seem like you’re a pretty\nbusy person, ain’t you? Even more than\fI am, if that could possibly be.\rI mean, I’ve got my Block work, and\nI’ve got to go see the Elder at the\fDragon Tamer’s shrine, too.\rWhat do you think? You’ve got\ntalent--you could become\fa Dragon Tamer, too. Think so?</language>
 	</row>
 </body>

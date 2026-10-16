@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0594_T25R1003_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my...\nTeam Rocket has reached here already!</language>
+		<language name="English">Oh my...\nThe Feds has reached here already!</language>
 	</row>
 	<row id="msg_0594_T25R1003_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0594_T25R1003_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I never thought about it, but\nTeam Rocket does go shopping...</language>
+		<language name="English">I never thought about it, but\nThe Feds does go shopping...</language>
 	</row>
 	<row id="msg_0594_T25R1003_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

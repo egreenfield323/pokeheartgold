@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0477_T05PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the Power Plant isn’t running, the\nMagnet Train won’t run either...\rIt also means the Radio Station\ncan’t broadcast...</language>
+		<language name="English">If the Power Plant ain’t running, the\nMagnet Train won’t run either...\rIt also means the Radio Station\ncan’t broadcast...</language>
 	</row>
 	<row id="msg_0477_T05PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

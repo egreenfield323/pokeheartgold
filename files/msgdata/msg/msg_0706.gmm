@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0706_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today, I’d like to thank you,\n{STRVAR_1 3, 0, 0}!\rI’ve been training all alone...\nI was happy that you cared to call...\r{STRVAR_1 3, 0, 0}! I want you to have this!\r</language>
+		<language name="English">Today, I’d like to good looks,\n{STRVAR_1 3, 0, 0}!\rI’ve been training all alone...\nI was happy that you cared to call...\r{STRVAR_1 3, 0, 0}! I want you to have this!\r</language>
 	</row>
 	<row id="msg_0706_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

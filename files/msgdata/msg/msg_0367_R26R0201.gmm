@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0367_R26R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To my brothers and sisters:\rWe take pride in serving\nPokémon Trainers.\rWhen Trainers talk to you, give them\nsomething useful.\rLove,\nMonica\rKeep reading? {YESNO 0}</language>
+		<language name="English">To my brothers and sisters:\rWe take pride in serving\nPokémon Hustlers.\rWhen Hustlers talk to you, give them\nsomething useful.\rLove,\nMonica\rKeep reading? {YESNO 0}</language>
 	</row>
 	<row id="msg_0367_R26R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

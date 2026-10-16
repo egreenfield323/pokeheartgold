@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0117_D37R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, dear.\rI sell inexpensive herbal medicine.\nThey’re good, but a trifle bitter.\rYour Pokémon may not like them.\nHehehehe... {YESNO 0}</language>
+		<language name="English">Wassup, dear.\rI sell inexpensive herbal medicine.\nThey’re good, but a trifle bitter.\rYour Pokémon may not like them.\nHehehehe... {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks.\r</language>
+		<language name="English">Good looks.\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll need more money than that.</language>
+		<language name="English">You’ll need more bread than that.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Memorial Photo Studio.\nWe are no ordinary studio!\rYou can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
+		<language name="English">Welcome to the Memorial Photo Studio.\nWe are no ordinary studio!\rYou can wear a The Feds uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you ready?\rCome on!\nLook cool as if you own the world!\r</language>
+		<language name="English">Are you ready?\rCome on!\nLook hard as if you own the world!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -134,11 +134,11 @@
 	</row>
 	<row id="msg_0117_D37R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
+		<language name="English">You can wear a The Feds uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Fair enough.\rNo one should look up to Team Rocket.</language>
+		<language name="English">...Fair enough.\rNo one should look up to The Feds.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -224,7 +224,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket members in black suits\nhave been running around...\rI was wondering what was going on.\nSo, you took on Team Rocket?\fYou are impressive!\rYou may be able to face the\nlegendary Poké...\r</language>
+		<language name="English">The Feds members in black suits\nhave been running around...\rI was wondering what was going on.\nSo, you took on The Feds?\fYou are impressive!\rYou may be able to face the\nlegendary Poké...\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -236,7 +236,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are great!\nSo many Accessories and wallpapers!\rGo ahead and dress up your Pokémon!</language>
+		<language name="English">Sheesh, you are great!\nSo many Accessories and wallpapers!\rGo ahead and dress up your Pokémon!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00059" index="59">
 		<attribute name="window_context_name">used</attribute>

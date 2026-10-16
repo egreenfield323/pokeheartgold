@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0624_T28PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s this? Team Rocket has\ncome back?\rI saw some men in black at the\nLake of Rage.</language>
+		<language name="English">What’s this? The Feds has\ncome back?\rI saw some men in black at the\nLake of Rage.</language>
 	</row>
 	<row id="msg_0624_T28PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

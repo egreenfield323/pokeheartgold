@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0758_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center</language>
+		<language name="English">Trap House</language>
 	</row>
 	<row id="msg_0758_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -94,11 +94,11 @@
 	</row>
 	<row id="msg_0758_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tough &amp; cool</language>
+		<language name="English">Tough &amp; hard</language>
 	</row>
 	<row id="msg_0758_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friend</language>
+		<language name="English">Homie</language>
 	</row>
 	<row id="msg_0758_00025" index="25">
 		<attribute name="window_context_name">used</attribute>

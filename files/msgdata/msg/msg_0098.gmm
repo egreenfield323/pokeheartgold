@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0098_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you so much for participating!\rPlease wait while I save the game.\nDon’t turn off the power.</language>
+		<language name="English">Good looks so much for participating!\rPlease wait while I save the game.\nDon’t turn off the power.</language>
 	</row>
 	<row id="msg_0098_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0098_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting response from a friend...</language>
+		<language name="English">Awaiting response from a homie...</language>
 	</row>
 	<row id="msg_0098_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

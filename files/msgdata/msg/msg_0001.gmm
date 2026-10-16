@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0001_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren’t just 26 different\nkinds of UNOWN. Two more have\nbeen discovered! But that begs\nthe question of where those\nother two kinds are hiding...</language>
+		<language name="English">There ain’t just 26 different\nkinds of UNOWN. Two more have\nbeen discovered! But that begs\nthe question of where those\nother two kinds are hiding...</language>
 	</row>
 	<row id="msg_0001_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

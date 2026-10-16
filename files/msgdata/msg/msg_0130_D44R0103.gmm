@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Trainer do you\nwish to battle? {YESNO 0}</language>
+		<language name="English">What kind of Hustler do you\nwish to battle? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... I see...\nYou care deeply for Pokémon.\rVery commendable.\fThat conviction is what is important!\r{STRVAR_1 3, 0, 0}, don’t lose that belief.\rIt will see you through at the\nPokémon League.\r</language>
+		<language name="English">Hm... I see...\nYou care deeply for Pokémon.\rVery commendable.\fThat conviction is what is important!\r{STRVAR_1 3, 0, 0}, don’t lose that belief.\rIt will see you through at the\nBig League.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair!\rThis child is impeccable,\nin skill and spirit!\rAdmit defeat and confer the\nRising Badge!\r...Or must I inform Lance of this?\r</language>
+		<language name="English">Clair!\rThis child is impeccable,\nin skill and spirit!\rAdmit defeat and confer the\nRising Chain!\r...Or must I inform Lance of this?\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,15 +62,15 @@
 	</row>
 	<row id="msg_0130_D44R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, this is the Rising Badge...\nHurry up! Take it!\r</language>
+		<language name="English">Here, this is the Rising Chain...\nHurry up! Take it!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rising Badge from Clair!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rising Chain from Clair!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Rising Badge will enable your\nPokémon to use the move for\fclimbing waterfalls.\rAlso, all Pokémon will know you as\na Trainer and obey your every\fcommand without question.\r</language>
+		<language name="English">The Rising Chain will enable your\nPokémon to use the move for\fclimbing waterfalls.\rAlso, all Pokémon will know you as\na Hustler and obey your every\fcommand without question.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair appears to have learned an\ninvaluable lesson from you.\rI thank you as her grandfather.</language>
+		<language name="English">Clair appears to have learned an\ninvaluable lesson from you.\rI good looks as her grandfather.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

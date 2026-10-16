@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0673_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’m going to practice a whole\nbunch so we can battle again the next\ftime we meet.\rThat’s right! Give me your phone\nnumber so I can call you! {YESNO 0}</language>
+		<language name="English">You know, I’m finna practice a whole\nbunch so we can battle again the next\ftime we meet.\rThat’s right! Give me your phone\nnumber so I can call you! {YESNO 0}</language>
 	</row>
 	<row id="msg_0673_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0673_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? I’m at {STRVAR_1 4, 3, 0}. We\nwere going to battle, weren’t we?\fHurry on over!</language>
+		<language name="English">Wassup? I’m at {STRVAR_1 4, 3, 0}. We\nwere finna battle, weren’t we?\fHurry on over!</language>
 	</row>
 	<row id="msg_0673_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

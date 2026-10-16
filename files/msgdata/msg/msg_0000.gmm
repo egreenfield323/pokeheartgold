@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0000_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Photo\nTaken: {STRVAR_1 4, 1, 0}\nPhoto of: {STRVAR_1 1, 2, 0} and friends\n{STRVAR_1 51, 4, 0}/{STRVAR_1 51, 5, 0}/{STRVAR_1 53, 3, 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s Photo\nTaken: {STRVAR_1 4, 1, 0}\nPhoto of: {STRVAR_1 1, 2, 0} and homies\n{STRVAR_1 51, 4, 0}/{STRVAR_1 51, 5, 0}/{STRVAR_1 53, 3, 0}</language>
 	</row>
 </body>

@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0378_R31_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Mail isn’t for me.</language>
+		<language name="English">This Mail ain’t for me.</language>
 	</row>
 	<row id="msg_0378_R31_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0378_R31_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see...\r“Thank you for your Mail.\nIt was such an exciting adventure.\rI did not like ZUBAT, though...”\nThat’s what it says.\rI went to a dark cave the other day\nwith a friend.\rThat cave leads to another route.\nBy the way, I must thank you for\fbeing so kind.\rI’d like to do something good in return.\r</language>
+		<language name="English">Let’s see...\r“Good looks for your Mail.\nIt was such an exciting adventure.\rI did not like ZUBAT, though...”\nThat’s what it says.\rI went to a dark cave the other day\nwith a homie.\rThat cave leads to another route.\nBy the way, I must good looks for\fbeing so kind.\rI’d like to do something good in return.\r</language>
 	</row>
 	<row id="msg_0378_R31_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0378_R31_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I found a good Pokémon in Dark Cave.\nI’m going to raise it to take on\fFalkner.\rHe’s the leader of Violet City’s Gym.</language>
+		<language name="English">I found a good Pokémon in Dark Cave.\nI’m finna raise it to take on\fFalkner.\rHe’s the leader of Violet City’s Gym.</language>
 	</row>
 	<row id="msg_0378_R31_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

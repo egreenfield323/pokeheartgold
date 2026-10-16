@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0760_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball</language>
+		<language name="English">Hood Ball</language>
 	</row>
 	<row id="msg_0760_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

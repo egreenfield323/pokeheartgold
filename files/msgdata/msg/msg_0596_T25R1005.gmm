@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0596_T25R1005_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello. Oh, your Pokémon...\r</language>
+		<language name="English">Wassup. Oh, your Pokémon...\r</language>
 	</row>
 	<row id="msg_0596_T25R1005_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -56,11 +56,11 @@
 	</row>
 	<row id="msg_0596_T25R1005_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, how’s my old MACHOP doing?</language>
+		<language name="English">Ayo, how’s my old MACHOP doing?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? You...are part of Team Rocket?\nSince when?</language>
+		<language name="English">Huh? You...are part of The Feds?\nSince when?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -68,7 +68,7 @@
 	</row>
 	<row id="msg_0596_T25R1005_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\nWhy are they here?</language>
+		<language name="English">The Feds...\nWhy are they here?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -76,7 +76,7 @@
 	</row>
 	<row id="msg_0596_T25R1005_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You shouldn’t wear a black suit like\nthat. People will think you are a part\fof Team Rocket.\rWhat? You are one of them?</language>
+		<language name="English">You shouldn’t wear a black suit like\nthat. People will think you are a part\fof The Feds.\rWhat? You are one of them?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

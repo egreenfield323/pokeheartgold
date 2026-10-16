@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0572_T24_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But you can’t use Fly without this\ncity’s Gym Badge.\rIf you beat the Gym Leader here,\ncome see me.\fI’ll have a nice gift for you.</language>
+		<language name="English">But you can’t use Fly without this\ncity’s Block Chain.\rIf you beat the Block Boss here,\ncome see me.\fI’ll have a nice gift for you.</language>
 	</row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s Cianwood’s Gym Badge!\rThen you should take this HM.\r</language>
+		<language name="English">That’s Cianwood’s Block Chain!\rThen you should take this HM.\r</language>
 	</row>
 	<row id="msg_0572_T24_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0572_T24_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">His only hobby is to battle\ntough Trainers.\rDo you want to have my\nhusband’s phone number? {YESNO 0}</language>
+		<language name="English">His only hobby is to battle\ntough Hustlers.\rDo you want to have my\nhusband’s phone number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0572_T24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -59,15 +59,15 @@
 	</row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck, the Gym Leader, spars with\nhis Fighting-type Pokémon.</language>
+		<language name="English">Chuck, the Block Boss, spars with\nhis Fighting-type Pokémon.</language>
 	</row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWasn’t that SUICUNE just now?\rI only caught a quick glimpse, but I\nthought I saw SUICUNE running on\fthe waves.\rSUICUNE is beautiful and grand.\nAnd it races through towns and\froads at simply awesome speeds.\rIt’s wonderful...\rI want to see SUICUNE up close...\rI’ve decided.\nI’ll battle you as a Trainer to earn\fSUICUNE’s respect!\rCome on, {STRVAR_1 3, 0, 0}.\nLet’s battle now!</language>
+		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWasn’t that SUICUNE just now?\rI only caught a quick glimpse, but I\nthought I saw SUICUNE running on\fthe waves.\rSUICUNE is beautiful and grand.\nAnd it races through towns and\froads at simply awesome speeds.\rIt’s wonderful...\rI want to see SUICUNE up close...\rI’ve decided.\nI’ll battle you as a Hustler to earn\fSUICUNE’s respect!\rCome on, {STRVAR_1 3, 0, 0}.\nLet’s battle now!</language>
 	</row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re amazing, {STRVAR_1 3, 0, 0}!\rI’m starting to understand why SUICUNE\nwas keeping an eye on you.\rI’m going to keep searching\nfor SUICUNE.\rI have a feeling we’ll see each other\nagain. See you around!\r</language>
+		<language name="English">You’re amazing, {STRVAR_1 3, 0, 0}!\rI’m starting to understand why SUICUNE\nwas keeping an eye on you.\rI’m finna keep searching\nfor SUICUNE.\rI have a feeling we’ll see each other\nagain. See you around!\r</language>
 	</row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -79,7 +79,7 @@
 	</row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym\nLeader: Chuck\fHis Roaring Fists Do the Talking</language>
+		<language name="English">Cianwood City block\nLeader: Chuck\fHis Roaring Fists Do the Talking</language>
 	</row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

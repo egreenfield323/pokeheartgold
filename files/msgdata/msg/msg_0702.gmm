@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0702_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been feeling since our\nlast talk? I’ve got many Pokémon... Ah!\rHello? This is Tim!\nLet me talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe sometimes says the strangest\nthings. He said he couldn’t compare\fPokémon with me, but... Ah!\rHello! This is Tim!\nShe is really... Wah!\rYeah, that’s just how it is, isn’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
+		<language name="English">This is Sue!\rHow have you been feeling since our\nlast talk? I’ve got many Pokémon... Ah!\rHello? This is Tim!\nLet me talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe sometimes says the strangest\nthings. He said he couldn’t compare\fPokémon with me, but... Ah!\rHello! This is Tim!\nShe is really... Wah!\rYeah, that’s just how it is, ain’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
 	</row>
 	<row id="msg_0702_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

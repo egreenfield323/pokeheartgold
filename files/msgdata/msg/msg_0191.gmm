@@ -363,7 +363,7 @@
 	</row>
 	<row id="msg_0191_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may set or edit Capsules for\ndecorating Poké Balls.</language>
+		<language name="English">You may set or edit Capsules for\ndecorating Hood Balls.</language>
 	</row>
 	<row id="msg_0191_00084" index="84">
 		<attribute name="window_context_name">used</attribute>

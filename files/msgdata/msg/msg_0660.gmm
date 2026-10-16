@@ -6,19 +6,19 @@
 	</row>
 	<row id="msg_0660_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
+		<language name="English">Wassup...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
 	</row>
 	<row id="msg_0660_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
+		<language name="English">Wassup...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
 	</row>
 	<row id="msg_0660_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0660_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0660_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

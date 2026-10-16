@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, now...\nAm I really that scary to you?\rYou know that I know you’re on\nCycling Road, right?\rIf you’re going to come all the way out\nhere, you might as well talk in person!</language>
+		<language name="English">Hey, now...\nAm I really that scary to you?\rYou know that I know you’re on\nCycling Road, right?\rIf you’re finna come all the way out\nhere, you might as well talk in person!</language>
 	</row>
 	<row id="msg_0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up with that?!\nDidn’t you say you were going to come\fout here and get schooled?!\rCome on! I’m waiting on\n{STRVAR_1 4, 3, 0}, so hurry up!</language>
+		<language name="English">What’s up with that?!\nDidn’t you say you were finna come\fout here and get schooled?!\rCome on! I’m waiting on\n{STRVAR_1 4, 3, 0}, so hurry up!</language>
 	</row>
 	<row id="msg_0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

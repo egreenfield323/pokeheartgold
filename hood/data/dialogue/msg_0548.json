@@ -1,0 +1,9 @@
+{
+  "_comment": "Lyra's house (her mom).",
+  "0": "Ayo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin' 2K with her\nPokémon. As usual.\rYou ain't got no...Pokémon?\n...Oh. My bad.\rYou ain't got a homie yet.\rI ain't mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.",
+  "1": "Ayo, {STRVAR_1 3, 0, 0}!\nEthan upstairs.\rHe up there playin' 2K with his\nPokémon. As usual.\rYou ain't got no...Pokémon?\n...Oh. My bad.\rYou ain't got a homie yet.\rI ain't mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.",
+  "2": "Ayo, {STRVAR_1 3, 0, 0}!\nLyra ain't here.\rShe been runnin' errands for\nthat professor.\fI don't ask questions no more.",
+  "3": "Ayo, {STRVAR_1 3, 0, 0}!\nEthan ain't here.\rHe been runnin' errands for\nthat professor.\fI don't ask questions no more.",
+  "4": "Ayo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin' 2K with her\nPokémon. As usual.",
+  "5": "Ayo, {STRVAR_1 3, 0, 0}!\nEthan upstairs.\rHe up there playin' 2K with his\nPokémon. As usual."
+}
