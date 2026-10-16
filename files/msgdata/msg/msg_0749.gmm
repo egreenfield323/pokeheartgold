@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0749_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Catches a bus on turn\none, pulls up on the\nfoe on turn two.</language>
+		<language name="English">Catches a flight on\nturn one, dive-bombs\nthe foe on turn two.</language>
 	</row>
 	<row id="msg_0749_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0749_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n</language>
+		<language name="English">Chomps down with a\nfull set of gold\ngrillz. May make the\nfoe flinch.</language>
 	</row>
 	<row id="msg_0749_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -302,7 +302,7 @@
 	</row>
 	<row id="msg_0749_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Box cutters flying.\nHigh critical-hit\nratio.</language>
+		<language name="English">Flings razor-sharp\nzaza leaves. High\ncritical-hit ratio.</language>
 	</row>
 	<row id="msg_0749_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -434,7 +434,7 @@
 	</row>
 	<row id="msg_0749_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws a smoke bomb.\nLowers the foe’s\naccuracy.</language>
+		<language name="English">Hotboxes the whole\nspot. Lowers the foe’s\naccuracy.</language>
 	</row>
 	<row id="msg_0749_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
@@ -990,7 +990,7 @@
 	</row>
 	<row id="msg_0749_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.</language>
+		<language name="English">Rolls a Magic 8-Ball\nat the foe. Outlook\nnot good. May lower\nSp. Def.</language>
 	</row>
 	<row id="msg_0749_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
@@ -1122,7 +1122,7 @@
 	</row>
 	<row id="msg_0749_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.</language>
+		<language name="English">Karate chops through\nbricks. Breaks the\nfoe’s Reflect and\nLight Screen.</language>
 	</row>
 	<row id="msg_0749_00281" index="281">
 		<attribute name="window_context_name">used</attribute>

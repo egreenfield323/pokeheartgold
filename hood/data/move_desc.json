@@ -17,7 +17,7 @@
   "Gust": "Fans the foe with a blast of wind. Hits flyers mid-air.",
   "Wing Attack": "Rolls up on the foe’s side and lets off a shot.",
   "Whirlwind": "Runs the foe off the block. Ends wild battles.",
-  "Fly": "Catches a bus on turn one, pulls up on the foe on turn two.",
+  "Fly": "Catches a flight on turn one, dive-bombs the foe on turn two.",
   "Bind": "Zip ties the foe for two to five turns. They ain’t going nowhere.",
   "Slam": "Body bags the foe with a full-weight slam.",
   "Vine Whip": "Takes off the belt and whips the foe with it.",
@@ -69,7 +69,7 @@
   "Mega Drain": "Big tax. The user keeps half the damage as HP.",
   "Leech Seed": "Freeloads off the foe every turn for HP.",
   "Growth": "Bulks up. Raises Attack and Sp. Atk.",
-  "Razor Leaf": "Box cutters flying. High critical-hit ratio.",
+  "Razor Leaf": "Flings razor-sharp zaza leaves. High critical-hit ratio.",
   "SolarBeam": "Charges the big laser one turn, fires it the next.",
   "PoisonPowder": "Pepper spray to the face. Poisons the foe.",
   "Stun Spore": "Hits the foe with a stun gun. Paralyzes them.",
@@ -101,7 +101,7 @@
   "Recover": "Reloads and patches up. Restores half its max HP.",
   "Harden": "Throws on the Kevlar. Raises Defense.",
   "Minimize": "Ducks down. Sharply raises evasion.",
-  "SmokeScreen": "Throws a smoke bomb. Lowers the foe’s accuracy.",
+  "SmokeScreen": "Hotboxes the whole spot. Lowers the foe’s accuracy.",
   "Confuse Ray": "Shines a flashlight in the foe’s eyes. Confuses them.",
   "Withdraw": "Hides out in the trap house. Raises Defense.",
   "Defense Curl": "Fetal position. Raises Defense.",
@@ -232,5 +232,8 @@
   "Giga Impact": "A car crash. The user has to recover next turn.",
   "Blast Burn": "Burns it all down. The user rests next turn.",
   "Hydro Cannon": "A hydrant bomb. The user rests next turn.",
-  "Frenzy Plant": "Grows a gun garden. The user rests next turn."
+  "Frenzy Plant": "Grows a gun garden. The user rests next turn.",
+  "Bite": "Chomps down with a full set of gold grillz. May make the foe flinch.",
+  "Brick Break": "Karate chops through bricks. Breaks the foe’s Reflect and Light Screen.",
+  "Shadow Ball": "Rolls a Magic 8-Ball at the foe. Outlook not good. May lower Sp. Def."
 }

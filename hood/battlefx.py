@@ -35,7 +35,10 @@ SOUNDS = {"pop": ("pop", 11025), "boom": ("deagle", 11025), "boom2": ("street_ec
 # here is a KB less for the music and fanfares (too much and the game hangs loading the level-up fanfare).
 # So only the sounds nothing in the game can do are new; the rest borrow the game's own battle effects:
 BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 1968, "alarm": 1824,
-           "bass": 1973, "crack": 2005, "ember": 1937, "leer": 1930, "sand": 1923, "gust": 2043}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock, Screech,
+           "bass": 1973, "crack": 2005, "ember": 1937, "leer": 1930, "sand": 1923, "gust": 2043,
+           "jet": 2064, "surf": 1944, "splash": 1945, "thunder": 2007, "rage": 1967, "flame": 2124, "leaf": 2121,
+           "razor": 1885, "bite": 1934, "crunch": 1972, "slash": 1910, "smoke": 1983, "cough": 1924, "burn": 2010,
+           "burn2": 2011, "chop": 2039, "shadow": 1923, "shadow2": 1903, "loyal": 1928, "loyal2": 1920}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock, Screech,
 #                                            Earthquake, Bone Club
 
 
@@ -43,11 +46,14 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   1 sniper, 2 shotgun, 3 spray & pray, 4 point blank, 5 gangsta tilt (the everyday gun moves),
 #   6 drive-by, 7 chain swing, 8 chain dangle, 9 make it rain, 10 full auto, 11 RPG (legendaries),
 #   12 Molotov, 13 brick toss, 14 egg ya house, 15 hose down, 16 bat swing, 17 taser, 18 car alarm,
-#   19 bass drop, 20 hot shot, 21 stare down, 22 talk trash, 23 pocket sand, 24 fan blast
+#   19 bass drop, 20 hot shot, 21 stare down, 22 talk trash, 23 pocket sand, 24 fan blast, 25 catch flight,
+#   26 hydrant wave, 27 power line, 28 road rage, 29 fire breath (Molotov), 30 zaza leaf, 31 stomp out,
+#   32 grill chomp, 33 hollow point, 34 switchblade, 35 hot box, 36 burnout, 37 hi-yah chop, 38 magic 8-ball,
+#   39 loyalty
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
-    "Scratch": 4, "Crunch": 4,
+    "Scratch": 4,
     "Wing Attack": 2,
     "Iron Head": 1,
     "Quick Attack": 6,
@@ -56,12 +62,15 @@ MOVES = {
     "Hyper Beam": 10,
     "Aeroblast": 11, "Sacred Fire": 11, "Roar of Time": 11, "Spacial Rend": 11, "Shadow Force": 11,
     "Psycho Boost": 11, "Doom Desire": 11, "Judgment": 11, "Crush Grip": 11, "Magma Storm": 11,
-    "Flamethrower": 12, "Fire Blast": 12,
+    "Fire Blast": 12,
     "Rock Throw": 13, "Rock Slide": 13,
     "Egg Bomb": 14,
     "Water Gun": 15, "Bone Club": 16, "ThunderShock": 17, "Screech": 18, "Earthquake": 19,
     "Hypnosis": 8, "Sky Attack": 11, "Giga Impact": 10,
     "Ember": 20, "Leer": 21, "Growl": 22, "Sand-Attack": 23, "Gust": 24,
+    "Fly": 25, "Surf": 26, "Thunder": 27, "Dragon Rage": 28, "Flamethrower": 29, "Razor Leaf": 30, "Pound": 31,
+    "Bite": 32, "Crunch": 33, "Slash": 34, "SmokeScreen": 35, "Flame Wheel": 36, "Brick Break": 37,
+    "Shadow Ball": 38, "Return": 39,
 }
 
 

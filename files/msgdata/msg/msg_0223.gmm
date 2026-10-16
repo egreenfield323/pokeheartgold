@@ -314,7 +314,7 @@
 	</row>
 	<row id="msg_0223_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an {COLOR 255}Uber Code{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Getaway Car{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00079" index="79">
 		<attribute name="window_context_name">used</attribute>

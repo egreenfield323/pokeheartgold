@@ -715,7 +715,7 @@ def chunk(n=16):
 
 
 def jet(size=64):
-    """A budget airliner, side view, nose right: HOOD AIR."""
+    """A budget airliner, side view, nose right: HOOD AIR - with a rope ladder hanging off it."""
     im = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     OUT = (20, 25, 40, 255)
@@ -728,6 +728,11 @@ def jet(size=64):
         d.rectangle([x, 28, x + 1, 29], fill=(60, 120, 200, 255))                                   # windows
     d.polygon([(52, 27), (57, 28), (58, 30), (53, 30)], fill=(40, 60, 90, 255))                    # cockpit
     _outlined_text(d, (12, 14), "HOOD AIR", (230, 40, 40, 255), outline=(255, 255, 255, 255))
+    rope = (200, 160, 90, 255)                                                                      # rope ladder
+    for x in (38, 44):
+        d.line([(x, 36), (x + 1, 62)], fill=rope, width=1)
+    for y in range(40, 63, 4):
+        d.line([(38 + (y - 36) // 26, y), (44 + (y - 36) // 26, y)], fill=rope)
     return im
 
 
@@ -1051,3 +1056,69 @@ def big_weed_leaf(size=64):
         d.line([base, tip], fill=(140, 220, 110, 255))
     d.line([base, (32, 63)], fill=(20, 70, 20, 255), width=2)
     return im
+
+
+def half_stack(size=64):
+    """The left half of a stack of three bricks, broken down the middle (jagged right edge at the centre).
+    The right half is this turned 180 degrees: both drawn at the same spot make the whole stack."""
+    im = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    OUT = (50, 15, 10, 255)
+    for k in range(3):
+        y = 14 + k * 12                                     # rows 14-49: centred, so the turned half lines up
+        jag = [(32, y), (30, y + 3), (33, y + 6), (31, y + 9), (32, y + 11)] if k % 2 == 0 else \
+              [(31, y), (33, y + 3), (30, y + 6), (32, y + 9), (31, y + 11)]
+        d.polygon([(4, y), *jag, (4, y + 11)], fill=(190, 70, 48, 255), outline=OUT)
+        d.line([(6, y + 2), (28, y + 2)], fill=(225, 115, 90, 255))
+        d.rectangle([12, y + 4, 18, y + 8], fill=(120, 35, 25, 255))                               # the hole
+        d.line([(5, y + 10), (29, y + 10)], fill=(140, 45, 30, 255))
+    return im
+
+
+def big_hand(size=64):
+    """A giant flat karate-chop hand coming down blade-first, with motion lines and a red wristband."""
+    im = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    OUT = (70, 35, 15, 255)
+    for x in (14, 24, 34, 44):                                                                       # motion lines
+        d.line([(x, 0), (x, 12)], fill=(255, 255, 255, 255), width=2)
+    d.rectangle([16, 10, 46, 18], fill=(220, 30, 30, 255), outline=OUT)                              # wristband
+    d.polygon([(18, 18), (44, 18), (46, 52), (20, 60), (16, 52)], fill=(240, 190, 145, 255), outline=OUT)
+    d.polygon([(44, 24), (54, 30), (52, 40), (45, 36)], fill=(240, 190, 145, 255), outline=OUT)      # thumb
+    for x in (24, 30, 36):
+        d.line([(x, 22), (x + 1, 50)], fill=(205, 150, 110, 255))                                    # fingers
+    d.line([(17, 53), (20, 61)], fill=(255, 235, 200, 255), width=2)                                 # the blade edge
+    return im
+
+
+def bullet_hole(size=64):
+    """A fresh bullet hole: dark hole, torn bright rim, cracks shooting out, a wisp of smoke."""
+    import math
+    im = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    c = (32, 33)
+    for k in range(10):                                                                              # cracks
+        a = k * 2 * math.pi / 10 + .2
+        p, r = [c], 0
+        while r < 26:
+            r += 6
+            p.append((c[0] + r * math.cos(a + .25 * math.sin(r * 1.7)), c[1] + r * math.sin(a + .25 * math.sin(r * 1.7))))
+        d.line(p, fill=(40, 30, 30, 255), width=2)
+        d.line(p[:3], fill=(255, 240, 220, 255), width=1)
+    d.ellipse([22, 23, 42, 43], fill=(255, 230, 190, 255))                                           # hot rim
+    d.ellipse([24, 25, 40, 41], fill=(120, 60, 30, 255))
+    d.ellipse([26, 27, 38, 39], fill=(15, 10, 10, 255))                                              # the hole
+    d.ellipse([28, 29, 31, 32], fill=(60, 40, 40, 255))
+    for x, y, r in ((40, 18, 4), (44, 12, 3), (41, 7, 2)):                                           # smoke
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(200, 200, 205, 200))
+    return im
+
+
+def laser_dot(n=16):
+    """A laser-sight dot: a tiny hot core with a faint glow round it (alpha only, tinted red)."""
+    c = (n - 1) / 2
+
+    def f(x, y):
+        r = ((x - c) ** 2 + (y - c) ** 2) ** .5
+        return 1 if r < 1.6 else .35 * (1 - (r - 1.6) / 3) if r < 4.6 else 0
+    return _alpha(n, n, f)

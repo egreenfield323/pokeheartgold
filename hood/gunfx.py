@@ -16,12 +16,18 @@ GUN, KIT, SMOKE, CAR, BLING, CASH, ROCKET = 0, 1, 2, 3, 4, 5, 6  # particle syst
 BOTTLE, BRICK, EGG, FIRE, HOUSE, YOLK = 7, 8, 9, 10, 11, 12
 HYDRANT, JET, SPLASH, SLUGGER, TASER, BOLTS, FOB, RINGS, SUB, CRACK = range(13, 23)
 CHIPS, BURST, SHADES, BUBBLE, POCKET, SAND, FAN, WIND, GLINT = range(23, 32)
+(PLANE, WHAM, WAVE, DUCK, CABLE, XRAY, HONK, CONE, BOOZE, BREATH, LEAF, HAZE, BOOT, STOMP, TOPJAW, BOTJAW, GLITZ,
+ SLUG, SHATTER, SLASH, TIRE, SMOG, COUGH, WHEEL, TRAIL, BLOCKS, CHOP, HIYAH, EIGHT, ANSWER, HEART) = range(32, 63)
 DONOR = {GUN: 73, KIT: 62, SMOKE: 84, CAR: 82, BLING: 168, CASH: 47, ROCKET: 349,
          BOTTLE: 349, BRICK: 349, EGG: 349, FIRE: 84, HOUSE: 168, YOLK: 84,
          HYDRANT: 349, JET: 84, SPLASH: 84, SLUGGER: 168, TASER: 349, BOLTS: 349, FOB: 349, RINGS: 62,
          SUB: 168, CRACK: 168,
          CHIPS: 82, BURST: 84, SHADES: 168, BUBBLE: 349, POCKET: 82, SAND: 84, FAN: 82, WIND: 84,
-         GLINT: 349}
+         GLINT: 349,
+         PLANE: 82, WHAM: 168, WAVE: 82, DUCK: 349, CABLE: 168, XRAY: 82, HONK: 82, CONE: 349, BOOZE: 349,
+         BREATH: 84, LEAF: 82, HAZE: 84, BOOT: 168, STOMP: 82, TOPJAW: 168, BOTJAW: 168, GLITZ: 349, SLUG: 82,
+         SLASH: 82, TIRE: 349, SMOG: 84, COUGH: 349, WHEEL: 82, TRAIL: 84, BLOCKS: 82, CHOP: 168,
+         HIYAH: 168, EIGHT: 82, ANSWER: 168, HEART: 82}
 LOAD = dict(DONOR)                                            # particle file each kit loads (battlefx repoints)   # small files: the battle heap can't fit big ones twice
 SPARK, FLASH, TRACER = 0, 1, 2
 CASING, CROSS = 0, 1
@@ -68,6 +74,40 @@ HAND_AT = {"player": (16, 18), "enemy": (-16, 14)}          # where the sand com
 SAND_AIM, SAND_FRAMES = (0, 24), 10                          # right in the face
 SHADES_AT = {"player": (40, 50), "enemy": (-46, 20)}        # where the shades land (between them, up high)
 SHADES_DROP = 32
+
+# ---- set 4 emitters (per kit)
+POSE, HOLD = 0, 1                                             # the 64px stop-motion kits: one pose, the held one
+POP = 0                                                       # the 64px sign kits: the burst popping up
+PASS, DIVE_E, DIVE_P, JETSMOKE = 2, 1, 3, 0                   # JET: across the sky, dive-bombing each way, smoke
+WAVE_E, WAVE_P, FOAM = 2, 3, 0                                # WAVE: a crest rolling each way, foam splashing up
+DUCK_E, DUCK_P = 0, 1                                         # DUCK: the rubber duck riding along each way
+BONES, SPARKS = 2, 0                                          # XRAY: the flickering skeleton, sparks
+HONK_A, HONK_B, STEAM = 2, 3, 0                               # HONK: two HONK!s, steam off their head
+SWIG, LIGHTER = 0, 2                                          # BOOZE: the bottle at their mouth, the lighter flame
+FIRE_E, FIRE_P = 0, 1                                         # BREATH: fire breathed each way
+LEAF_E, LEAF_P, BIGLEAF = 0, 1, 2                             # LEAF: leaves thrown each way, the big leaf
+HAZE1 = 1                                                     # HAZE: the haze rolling over the target
+DUST = 0                                                      # STOMP: dust thrown up
+SPARKLE = 2                                                   # GLITZ: bling sparkles
+DOT, HOLE, IMPACT = 2, 3, 0                                   # SLUG: the laser-sight dot, the bullet hole, sparks
+SLASH_A, SLASH_B, SLASH_C, GLEAM = 1, 2, 3, 0                 # SLASH: three slash angles, the blade's gleam
+TIRE_UP, TIRE_FLAT, HISS = 0, 1, 2                            # TIRE: the tire, the flat, air hissing out
+SMOG1, SMOG2 = 1, 0                                           # SMOG: big smoke everywhere, wisps at the target
+PUFFUP = 0                                                    # COUGH: a *cough* cloud rising
+SPIN, ROLL, SMOKE1 = 2, 3, 0                                  # WHEEL: spinning in place, rolling (flown), tire smoke
+FIRETRAIL = 1                                                 # TRAIL: flames left behind the wheel (flown)
+HALF_L, HALF_R, CHUNKS = 2, 3, 0                              # BLOCKS: the stack's two halves (poses), chunks
+CHARGE, ROLL8, WISPS = 3, 2, 0                                # EIGHT: the 8-ball growing, rolling (flown), dark wisps
+LOCKET, SLAM, HEARTS_E, HEARTS_P = 2, 3, 0, 1                 # HEART: the pendant, it flying in, hearts each way
+DIVE_FRAMES, DIVE_FROM = 12, (110, 80)                       # the jet's dive: from up there (px from the target)
+JET_SPEED = 6                                                 # px per frame: the jet, and whoever it's carrying
+PICKUP_FROM = (-160, 52)                                      # jet centre vs the attacker: the ladder's bottom rung
+LADDER_X = 11                                                 #   hangs 35px below it, 11px right of the centre
+CARRY_FRAMES = 36
+WAVE_FROM = {"player": (-330, -12), "enemy": (336, 36)}    # the tidal wave's centre: off-screen, mid-height
+WAVE_SPEED, WAVE_SCALE = 8, 5.0                              # a wall of water the height of the screen
+LEAF_FRAMES, HEART_FRAMES, BREATH_FRAMES = 12, 12, 14
+ROLL_FRAMES, EIGHT_FRAMES = 12, 16
 FLY = 14                                                      # frames a flown set-3 piece takes to reach the target
 BILLBOARD = 0x30                                              # flag bits 4-5: draw type (1 = stretched along its
 #                                                               velocity - invisible on a piece riding its emitter)
@@ -576,6 +616,315 @@ def build_files(files):
             struct.pack_into("<h", b, rs[res]["cngc"] + 12, 0)  # no pull towards a point
     out[WIND] = bytes(b)
 
+    # ---- set 4 ---------------------------------------------------------------------------------------------
+    NEEDS = {"clr_anm": "clr", "scl_anm": "scl", "alpha": "alp", "flick": "alp", "gravity": "grvt",
+             "child_gen": "chld", "child_clr": "chld"}
+
+    def prop(b, rs, res, **edit):
+        """Emitter res as one particle (a prop): no tint, no drift, no spin unless asked; self-destructs."""
+        r = rs[res]
+        base = dict(gen=1, emtr_life=1, vel=(0, 0), init_pos=0, clr=white, air_resist=128, alpha=(31, 31, 31),
+                    scl_anm=(1.0, 1.0, 1.0, 0, 255), clr_anm=(white, white), child_gen=0, gravity=(0, 0, 0),
+                    flags_on=1 << 14, flags_off=(1 << 12) | (1 << 13) | (1 << 15) | BILLBOARD)
+        base.update(edit)
+        for k, block in NEEDS.items():
+            if k in base and block not in r:
+                del base[k]
+        spa.edit(b, r, **base)
+        if not base["flags_on"] & (1 << 12):
+            struct.pack_into("<hhH", b, r["off"] + 52, 0, 0, 0)
+        if "cngc" in r:
+            struct.pack_into("<h", b, r["cngc"] + 12, 0)
+        if "spin" in r:
+            struct.pack_into("<H", b, r["spin"], 0)
+
+    def rot(b, rs, res, spin=0, init=0):
+        """Rotation: spin per frame (needs flag bit 12) and the starting angle (0x10000 = a full turn)."""
+        struct.pack_into("<hhH", b, rs[res]["off"] + 52, spin, spin, init & 0xFFFF)
+
+    def mover(b, rs, res, vx, vy, **edit):
+        """A prop gliding at (vx, vy) screen px per frame (y up)."""
+        v = math.hypot(vx, vy)
+        prop(b, rs, res, axis=(vx / v, vy / v, 0), vel=(0, v * VEL_UNITS / 4096), **edit)
+
+    def follower(b, rs, res, **edit):
+        """One particle riding an emitter that MoveEmitter flies (so: no self-destruct)."""
+        args = dict(flags_on=1 << 15, flags_off=(1 << 12) | (1 << 13) | (1 << 14) | BILLBOARD)
+        args.update(edit)
+        prop(b, rs, res, **args)
+
+    def tex(b, idx, art, colors=32):
+        if isinstance(art, bytes):
+            spa.set_texture(b, idx, art)
+            return
+        colors = min(colors, spa.textures(bytes(b))[idx][6] // 2)
+        texels, pal = fxart.to_a3i5(art, colors)
+        spa.set_texture(b, idx, texels, pal)
+
+    def kit(ps):
+        bb = bytearray(files[DONOR[ps]])
+        return bb, spa.resources(bytes(bb))
+
+    def thrown(b, rs, size, spin):
+        """Res THROWN as a lobbed object riding its emitter (see the Molotov / brick / egg)."""
+        h = THROW_PEAK * VEL_UNITS / 4096
+        g = 8 * h / THROW_FRAMES ** 2
+        prop(b, rs, THROWN, life=THROW_FRAMES + 2, scl=size, axis=(0, 1, 0), vel=(0, g * THROW_FRAMES / 2),
+             gravity=(0, -g, 0), tex=1, flags_on=(1 << 15) | (1 << 12), flags_off=(1 << 13) | (1 << 14) | BILLBOARD)
+        rot(b, rs, THROWN, spin)
+
+    def sign(ps, lines, **colors):
+        b, rs = kit(ps)
+        tex(b, 0, fxart.burst_sign(lines, **colors), 30)
+        prop(b, rs, POP, scl=1.25, life=28, scl_anm=(.2, 1.25, 1.0, 35, 255))
+        out[ps] = bytes(b)
+
+    def poses(ps, art, scl, hold_life):
+        b, rs = kit(ps)
+        tex(b, 0, art, 30)
+        prop(b, rs, POSE, scl=scl, life=SWING_STEP)
+        prop(b, rs, HOLD, scl=scl, life=hold_life)
+        out[ps] = bytes(b)
+
+    # Catch Flight (Fly): HOOD AIR crossing the sky, then dive-bombing the target; smoke where it hits
+    b, rs = kit(PLANE)
+    tex(b, 1, fxart.jet())
+    tex(b, 0, fxart.soft_puff())
+    mover(b, rs, PASS, JET_SPEED, 0, scl=1.6, life=72)
+    dx, dy = DIVE_FROM
+    mover(b, rs, DIVE_E, dx / DIVE_FRAMES, -dy / DIVE_FRAMES, scl=1.5, life=DIVE_FRAMES)
+    rot(b, rs, DIVE_E, init=-round(math.degrees(math.atan2(dy, dx)) / 360 * 0x10000))
+    mover(b, rs, DIVE_P, -dx / DIVE_FRAMES, -dy / DIVE_FRAMES, scl=1.5, life=DIVE_FRAMES)
+    rot(b, rs, DIVE_P, init=round((180 + math.degrees(math.atan2(dy, dx))) / 360 * 0x10000))
+    prop(b, rs, JETSMOKE, tex=0, clr=rgb(150, 150, 155), clr_anm=(rgb(230, 230, 230), rgb(110, 110, 115)), scl=.8,
+         life=30, emtr_life=3, gen=4, init_pos=1, radius=.6, vel=(.03, 0), alpha=(31, 26, 0),
+         scl_anm=(.6, 1.4, 2.0, 40, 150), air_resist=118)
+    out[PLANE] = bytes(b)
+    sign(WHAM, ["WHAM!"])
+
+    # Hydrant Wave (Surf): a wave rolling across the block, a rubber duck riding it, foam on impact
+    b, rs = kit(WAVE)
+    tex(b, 1, fxart.wave_crest())
+    tex(b, 0, fxart.soft_puff())
+    mover(b, rs, WAVE_E, WAVE_SPEED, 0, scl=WAVE_SCALE, life=84)
+    mover(b, rs, WAVE_P, -WAVE_SPEED, 0, scl=WAVE_SCALE, life=84)
+    foam = rgb(225, 240, 255)
+    prop(b, rs, FOAM, tex=0, clr=foam, clr_anm=(rgb(255, 255, 255), rgb(120, 180, 255)), scl=.55, life=26,
+         emtr_life=4, gen=4, axis=(0, 1, 0), vel=(.03, .035), gravity=(0, -.0016, 0), init_pos=1, radius=.5,
+         alpha=(31, 31, 0), air_resist=124)
+    out[WAVE] = bytes(b)
+    b, rs = kit(DUCK)
+    tex(b, 1, fxart.rubber_duck(), 24)
+    mover(b, rs, DUCK_E, WAVE_SPEED, 0, scl=1.2, life=84)
+    mover(b, rs, DUCK_P, -WAVE_SPEED, 0, scl=1.2, life=84)
+    out[DUCK] = bytes(b)
+
+    # Power Line (Thunder): the snapped cable swinging down (poses), the x-ray skeleton, sparks
+    poses(CABLE, fxart.power_cable(), 1.6, 56)
+    b, rs = kit(XRAY)
+    tex(b, 1, fxart.skeleton())
+    tex(b, 0, fxart.glint())
+    prop(b, rs, BONES, scl=1.25, life=40, flick=230)
+    prop(b, rs, SPARKS, tex=0, clr=rgb(255, 250, 140), clr_anm=(rgb(255, 255, 255), rgb(255, 220, 40)), scl=.45,
+         life=8, emtr_life=22, gen=3, init_pos=1, radius=.7, vel=(.05, 0), alpha=(31, 31, 0),
+         flags_on=(1 << 14) | (1 << 13))
+    out[XRAY] = bytes(b)
+
+    # Road Rage (Dragon Rage): HONK!s, steam blasting off their head; traffic cones lobbed
+    b, rs = kit(HONK)
+    tex(b, 1, fxart.burst_sign(["HONK!"], fill=(250, 60, 40, 255), text=(255, 255, 255, 255)))
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, HONK_A, scl=1.15, life=22, scl_anm=(.2, 1.3, 1.0, 35, 255))
+    prop(b, rs, HONK_B, scl=.85, life=22, scl_anm=(.2, 1.3, 1.0, 35, 255))
+    prop(b, rs, STEAM, tex=0, clr=rgb(245, 245, 250), clr_anm=(rgb(255, 255, 255), rgb(200, 200, 210)), scl=.5,
+         life=22, emtr_life=26, gen=2, gen_intvl=1, axis=(0, 1, 0), vel=(.012, .03), init_pos=1, radius=.3,
+         alpha=(31, 28, 0), scl_anm=(.6, 1.2, 1.8, 30, 150), air_resist=122)
+    out[HONK] = bytes(b)
+    b, rs = kit(CONE)
+    tex(b, 1, fxart.traffic_cone(), 24)
+    thrown(b, rs, .8, 0x0B00)
+    out[CONE] = bytes(b)
+
+    # Molotov (Flamethrower): a swig from the bottle, spat through a lighter (fire breath), the bottle lobbed
+    b, rs = kit(BOOZE)
+    tex(b, 1, fxart.liquor_bottle(), 24)
+    tex(b, 0, fxart.soft_puff(hard=1.6))
+    prop(b, rs, SWIG, scl=.9, life=26)
+    rot(b, rs, SWIG, init=0x2400)                                # tipped back
+    thrown(b, rs, .8, 0x0A00)
+    prop(b, rs, LIGHTER, tex=0, clr=rgb(255, 170, 40), clr_anm=(rgb(255, 240, 120), rgb(255, 90, 20)), scl=.35,
+         life=40, flick=90)
+    out[BOOZE] = bytes(b)
+    b, rs = kit(BREATH)
+    tex(b, 1, fxart.flame_blob())
+    for res, sd in ((FIRE_E, "player"), (FIRE_P, "enemy")):
+        spray(b, rs, res, sd, (12 if sd == "player" else -12, 30), (0, 16), BREATH_FRAMES, tex=1,
+              clr=rgb(255, 130, 30), clr_anm=(rgb(255, 235, 110), rgb(220, 40, 20)), scl=.7, emtr_life=22, gen=2,
+              gen_intvl=1, radius=.15, spread=.008, alpha=(31, 31, 0), scl_anm=(.4, 1.0, 1.6, 30, 200))
+    out[BREATH] = bytes(b)
+
+    # Zaza Leaf (Razor Leaf): a big leaf behind them, leaves flung like shuriken, the haze rolling in
+    b, rs = kit(LEAF)
+    tex(b, 1, fxart.big_weed_leaf())
+    tex(b, 0, fxart.weed_leaf())
+    green = rgb(80, 200, 60)
+    for res, sd in ((LEAF_E, "player"), (LEAF_P, "enemy")):
+        spray(b, rs, res, sd, (10 if sd == "player" else -10, 26), (0, 18), LEAF_FRAMES, tex=0, clr=green,
+              clr_anm=(rgb(140, 240, 110), rgb(40, 150, 40)), scl=1.05, emtr_life=6, gen=2, gen_intvl=1, radius=.2,
+              spread=.006, alpha=(31, 31, 31), flick=0, flags_on=(1 << 14) | (1 << 12) | (1 << 13))
+        rot(b, rs, res, spin=0x1C00)
+    prop(b, rs, BIGLEAF, scl=1.4, life=50, scl_anm=(.2, 1.15, 1.0, 30, 255), flags_on=(1 << 14) | (1 << 12))
+    rot(b, rs, BIGLEAF, spin=0x0180)
+    out[LEAF] = bytes(b)
+    b, rs = kit(HAZE)
+    tex(b, 1, fxart.tall_puff())
+    prop(b, rs, HAZE1, tex=1, clr=rgb(150, 190, 130), clr_anm=(rgb(190, 225, 170), rgb(110, 140, 100)), scl=.9,
+         life=44, emtr_life=22, gen=1, gen_intvl=2, init_pos=1, radius=1.0, vel=(.006, 0), alpha=(26, 22, 0),
+         scl_anm=(.5, 1.3, 2.0, 40, 150), air_resist=120, flags_on=(1 << 14) | (1 << 13))
+    prop(b, rs, 0, life=1)
+    out[HAZE] = bytes(b)
+
+    # Stomp Out (Pound): the boot coming down (poses), STOMP!, dust
+    poses(BOOT, fxart.work_boot(), 1.5, 14)
+    b, rs = kit(STOMP)
+    tex(b, 1, fxart.burst_sign(["STOMP!"]))
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, 2, scl=1.2, life=28, scl_anm=(.2, 1.25, 1.0, 35, 255))
+    prop(b, rs, DUST, tex=0, clr=rgb(190, 165, 120), clr_anm=(rgb(230, 210, 170), rgb(150, 125, 90)), scl=.6,
+         life=24, emtr_life=2, gen=6, init_pos=1, radius=.7, vel=(.05, 0), alpha=(31, 26, 0),
+         scl_anm=(.6, 1.3, 1.8, 40, 150), air_resist=116)
+    out[STOMP] = bytes(b)
+
+    # Grill Chomp (Bite): the two jaws closing (poses), sparkles off the gold
+    poses(TOPJAW, fxart.jaw(True), 1.3, 8)
+    poses(BOTJAW, fxart.jaw(False), 1.3, 8)
+    b, rs = kit(GLITZ)
+    tex(b, 0, fxart.glint())
+    gold = rgb(255, 220, 80)
+    prop(b, rs, SPARKLE, tex=0, clr=gold, clr_anm=(rgb(255, 255, 220), gold), scl=.5, life=14, emtr_life=2, gen=3,
+         init_pos=1, radius=.8, alpha=(31, 31, 0), scl_anm=(.2, 1.4, .6, 50, 160), flags_on=(1 << 14) | (1 << 12))
+    rot(b, rs, SPARKLE, spin=0x0900)
+    out[GLITZ] = bytes(b)
+
+    # Hollow Point (Crunch): a laser-sight dot settling on them, then BANG - a bullet hole punched in, sparks
+    b, rs = kit(SLUG)
+    tex(b, 1, fxart.bullet_hole())
+    tex(b, 0, fxart.laser_dot())
+    red = rgb(255, 30, 30)
+    prop(b, rs, DOT, tex=0, clr=red, clr_anm=(rgb(255, 120, 120), red), scl=.55, life=SWING_STEP, flick=40)
+    prop(b, rs, HOLE, scl=1.15, life=38, scl_anm=(.3, 1.15, 1.0, 20, 255))
+    prop(b, rs, IMPACT, tex=0, clr=rgb(255, 230, 120), clr_anm=(rgb(255, 255, 230), rgb(255, 140, 30)), scl=.3,
+         life=12, emtr_life=2, gen=8, init_pos=1, radius=.3, vel=(.09, 0), alpha=(31, 31, 0), air_resist=118,
+         flags_on=(1 << 14) | (1 << 13))
+    prop(b, rs, 1, life=1)
+    out[SLUG] = bytes(b)
+
+    # Switchblade (Slash): three slashes at different angles, the blade's gleam; the tire, slashed flat, hissing
+    b, rs = kit(SLASH)
+    tex(b, 1, fxart.slash_arc())
+    tex(b, 0, fxart.glint())
+    for res, ang in ((SLASH_A, 0), (SLASH_B, 0x2800), (SLASH_C, 0xD400)):
+        prop(b, rs, res, scl=1.3, life=9, alpha=(31, 31, 0), scl_anm=(.6, 1.25, 1.0, 40, 255))
+        rot(b, rs, res, init=ang)
+    prop(b, rs, GLEAM, tex=0, clr=rgb(255, 255, 255), scl=.6, life=10, scl_anm=(.2, 1.4, .3, 50, 160),
+         alpha=(31, 31, 0))
+    out[SLASH] = bytes(b)
+    b, rs = kit(TIRE)
+    tex(b, 1, fxart.tire(), 24)
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, TIRE_UP, scl=1.0, life=56)
+    prop(b, rs, TIRE_FLAT, scl=1.0, life=44, scl_anm=(1.0, 1.0, .85, 0, 120))
+    prop(b, rs, HISS, tex=0, clr=rgb(240, 240, 245), scl=.35, life=14, emtr_life=16, gen=2, gen_intvl=1,
+         init_pos=1, radius=.3, vel=(.045, 0), alpha=(30, 24, 0), scl_anm=(.6, 1.2, 1.8, 30, 150))
+    out[TIRE] = bytes(b)
+
+    # Hot Box (SmokeScreen): smoke everywhere, wisps over the target; *cough* clouds
+    b, rs = kit(SMOG)
+    tex(b, 1, fxart.tall_puff())
+    tex(b, 0, fxart.soft_puff())
+    smoke = rgb(170, 175, 160)
+    prop(b, rs, SMOG1, tex=1, clr=smoke, clr_anm=(rgb(215, 220, 205), rgb(130, 135, 125)), scl=1.3, life=64,
+         emtr_life=36, gen=1, gen_intvl=2, init_pos=1, radius=2.6, vel=(.005, 0), gravity=(0, .0002, 0),
+         alpha=(24, 20, 0), scl_anm=(.5, 1.4, 2.2, 40, 160), air_resist=124, flags_on=(1 << 14) | (1 << 13))
+    prop(b, rs, SMOG2, tex=0, clr=smoke, clr_anm=(rgb(235, 235, 225), rgb(150, 150, 140)), scl=.6, life=30,
+         emtr_life=24, gen=2, gen_intvl=2, axis=(0, 1, 0), vel=(.006, .012), init_pos=1, radius=.7,
+         alpha=(28, 22, 0), scl_anm=(.5, 1.2, 1.8, 40, 150), air_resist=122)
+    out[SMOG] = bytes(b)
+    b, rs = kit(COUGH)
+    tex(b, 1, fxart.cough_bubble(), 24)
+    prop(b, rs, PUFFUP, scl=.9, life=26, axis=(0, 1, 0), vel=(0, .9 * VEL_UNITS / 4096),
+         scl_anm=(.3, 1.15, 1.0, 40, 255))
+    out[COUGH] = bytes(b)
+
+    # Burnout (Flame Wheel): the flaming tire spinning in place in its own smoke, then rolling in (flown) with
+    # flames trailing it (a second flown emitter dropping flames)
+    b, rs = kit(WHEEL)
+    tex(b, 1, fxart.flame_wheel())
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, SPIN, scl=1.0, life=30, scl_anm=(.4, 1.05, 1.0, 30, 255), flags_on=(1 << 14) | (1 << 12))
+    rot(b, rs, SPIN, spin=-0x2600)
+    follower(b, rs, ROLL, scl=1.0, life=ROLL_FRAMES + 2, flags_on=(1 << 15) | (1 << 12))
+    rot(b, rs, ROLL, spin=-0x2600)
+    prop(b, rs, SMOKE1, tex=0, clr=rgb(160, 160, 165), clr_anm=(rgb(230, 230, 235), rgb(110, 110, 115)), scl=.6,
+         life=26, emtr_life=28, gen=2, gen_intvl=1, axis=(0, 1, 0), vel=(.02, .02), init_pos=1, radius=.4,
+         alpha=(30, 24, 0), scl_anm=(.5, 1.3, 2.0, 40, 150), air_resist=120)
+    out[WHEEL] = bytes(b)
+    b, rs = kit(TRAIL)
+    tex(b, 1, fxart.flame_blob())
+    prop(b, rs, FIRETRAIL, tex=1, clr=rgb(255, 130, 30), clr_anm=(rgb(255, 235, 110), rgb(220, 40, 20)), scl=.55,
+         life=14, emtr_life=ROLL_FRAMES + 2, gen=2, gen_intvl=1, axis=(0, 1, 0), vel=(.004, .008), alpha=(31, 31, 0),
+         scl_anm=(1.0, 1.0, .3, 0, 120), flags_on=0,
+         flags_off=(1 << 12) | (1 << 13) | (1 << 14) | (1 << 15) | BILLBOARD)
+    prop(b, rs, 0, life=1)
+    out[TRAIL] = bytes(b)
+
+    # Hi-Yah Chop (Brick Break): a stack of bricks on their head - the two halves (one art, the right half turned
+    # round) as stop-motion poses so they can split apart - and a giant karate hand chopping down (poses)
+    b, rs = kit(BLOCKS)
+    tex(b, 1, fxart.half_stack())
+    tex(b, 0, fxart.chunk())
+    prop(b, rs, HALF_L, scl=1.75, life=SWING_STEP)
+    prop(b, rs, HALF_R, scl=1.75, life=SWING_STEP)
+    rot(b, rs, HALF_R, init=0x8000)
+    brick = rgb(190, 70, 50)
+    prop(b, rs, CHUNKS, tex=0, clr=brick, clr_anm=(rgb(220, 110, 85), rgb(140, 45, 30)), scl=.5, life=30,
+         emtr_life=2, gen=7, init_pos=1, radius=.5, axis=(0, 1, 0), vel=(.07, .05), gravity=(0, -.003, 0),
+         air_resist=126, flags_on=(1 << 14) | (1 << 12) | (1 << 13))
+    rot(b, rs, CHUNKS, spin=0x1400)
+    prop(b, rs, 1, life=1)
+    out[BLOCKS] = bytes(b)
+    poses(CHOP, fxart.big_hand(), 1.5, 16)
+    sign(HIYAH, ["HI-YAH!"], fill=(255, 140, 30, 255))
+
+    # Magic 8-Ball (Shadow Ball): the ball growing in their hands in dark wisps, rolling over (flown), the answer
+    b, rs = kit(EIGHT)
+    tex(b, 1, fxart.eight_ball())
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, CHARGE, scl=1.0, life=20, scl_anm=(.2, 1.0, 1.0, 120, 255))
+    follower(b, rs, ROLL8, scl=1.0, life=EIGHT_FRAMES + 2, flags_on=(1 << 15) | (1 << 12))
+    rot(b, rs, ROLL8, spin=-0x0C00)
+    prop(b, rs, WISPS, tex=0, clr=rgb(90, 40, 140), clr_anm=(rgb(150, 90, 210), rgb(40, 10, 70)), scl=.55, life=22,
+         emtr_life=20, gen=2, gen_intvl=1, axis=(0, 1, 0), vel=(.012, .02), init_pos=1, radius=.6,
+         alpha=(28, 22, 0), scl_anm=(.5, 1.2, 1.6, 40, 150), air_resist=122)
+    out[EIGHT] = bytes(b)
+    b, rs = kit(ANSWER)
+    tex(b, 0, fxart.eight_answer(), 30)
+    prop(b, rs, POP, scl=1.3, life=44, scl_anm=(.2, 1.15, 1.0, 30, 255))
+    out[ANSWER] = bytes(b)
+
+    # Loyalty (Return): the RIDE OR DIE pendant glowing, hearts flying, the pendant slamming in (flown)
+    b, rs = kit(HEART)
+    tex(b, 1, fxart.heart_pendant())
+    tex(b, 0, fxart.heart())
+    prop(b, rs, LOCKET, scl=1.1, life=30, scl_anm=(.3, 1.2, 1.0, 30, 255))
+    follower(b, rs, SLAM, scl=1.2, life=HEART_FRAMES + 2)
+    pink = rgb(255, 90, 150)
+    for res, sd in ((HEARTS_E, "player"), (HEARTS_P, "enemy")):
+        spray(b, rs, res, sd, (10 if sd == "player" else -10, 30), (0, 18), HEART_FRAMES, tex=0, clr=pink,
+              clr_anm=(rgb(255, 170, 200), rgb(230, 40, 110)), scl=.5, emtr_life=8, gen=2, gen_intvl=1,
+              radius=.2, spread=.01, alpha=(31, 31, 31), flick=0)
+    out[HEART] = bytes(b)
+
     # (TRACER and the THROWN objects aren't listed: MoveEmitter deletes them when the flight ends, so they must
     #  NOT self-destruct - see below)
     for ps, res in ((GUN, SPARK), (GUN, FLASH), (KIT, CASING), (KIT, CROSS), (SMOKE, PUFF),
@@ -587,10 +936,23 @@ def build_files(files):
                     (SUB, PUMP), (CRACK, SPLIT), (CHIPS, BAG), (CHIPS, CHIP_E), (CHIPS, CHIP_P), (BURST, TONGUE),
                     (BURST, EMBER), (SHADES, SLIDE), (GLINT, TING), (GLINT, SWEAT), (BUBBLE, BANG), (POCKET, SIGN),
                     (POCKET, GRAIN_E), (POCKET, GRAIN_P), (SAND, CLOUD), (FAN, BODY), (FAN, BLADES),
-                    (WIND, GUST_E), (WIND, GUST_P)):
+                    (WIND, GUST_E), (WIND, GUST_P),
+                    (PLANE, PASS), (PLANE, DIVE_E), (PLANE, DIVE_P), (PLANE, JETSMOKE), (WHAM, POP), (WAVE, WAVE_E),
+                    (WAVE, WAVE_P), (WAVE, FOAM), (DUCK, DUCK_E), (DUCK, DUCK_P), (CABLE, POSE), (CABLE, HOLD),
+                    (XRAY, BONES), (XRAY, SPARKS), (HONK, HONK_A), (HONK, HONK_B), (HONK, STEAM), (BOOZE, SWIG),
+                    (BOOZE, LIGHTER), (BREATH, FIRE_E), (BREATH, FIRE_P), (LEAF, LEAF_E), (LEAF, LEAF_P),
+                    (LEAF, BIGLEAF), (HAZE, HAZE1), (BOOT, POSE), (BOOT, HOLD), (STOMP, 2), (STOMP, DUST),
+                    (TOPJAW, POSE), (TOPJAW, HOLD), (BOTJAW, POSE), (BOTJAW, HOLD), (GLITZ, SPARKLE),
+                    (SLUG, DOT), (SLUG, HOLE), (SLUG, IMPACT), (SLASH, SLASH_A), (SLASH, SLASH_B), (SLASH, SLASH_C), (SLASH, GLEAM),
+                    (TIRE, TIRE_UP), (TIRE, TIRE_FLAT), (TIRE, HISS), (SMOG, SMOG1), (SMOG, SMOG2), (COUGH, PUFFUP),
+                    (WHEEL, SPIN), (WHEEL, SMOKE1), (BLOCKS, HALF_L), (BLOCKS, HALF_R), (BLOCKS, CHUNKS), (CHOP, POSE), (CHOP, HOLD), (HIYAH, POP),
+                    (EIGHT, CHARGE), (EIGHT, WISPS), (ANSWER, POP), (HEART, LOCKET), (HEART, HEARTS_E),
+                    (HEART, HEARTS_P)):
         flag = spa.resources(out[ps])[res]["flag"]
         assert flag >> 14 & 1, f"kit {ps} emitter {res} never finishes (no self_dest): WaitForParticles would hang"
-    for ps, res in ((GUN, TRACER), (BOTTLE, THROWN), (BRICK, THROWN), (EGG, THROWN), (BUBBLE, TALK)):
+    for ps, res in ((GUN, TRACER), (BOTTLE, THROWN), (BRICK, THROWN), (EGG, THROWN), (BUBBLE, TALK),
+                    (CONE, THROWN), (BOOZE, THROWN),
+                    (WHEEL, ROLL), (TRAIL, FIRETRAIL), (EIGHT, ROLL8), (HEART, SLAM)):
         flag = spa.resources(out[ps])[res]["flag"]
         assert not flag >> 14 & 1, f"kit {ps} emitter {res} is flown by MoveEmitter: it must not self-destruct"
     return out
@@ -755,6 +1117,12 @@ def _drive_by(side, s):
     w += wait(30)                                              # and they're gone
     w += func(57, 10, 130, 0, 258) + wait(12)                  # back like nothing happened
     return w
+
+
+def _fly_turn2_first(side, s):
+    """Test only (the showcase always plays variant 0): Catch Flight with the turns swapped, to see turn 2."""
+    one, two = _catch_flight(side, s)
+    return two, one
 
 
 def _calibrate(side, s):
@@ -1078,23 +1446,277 @@ def _fan_blast(side, s):
     return w
 
 
+def bmove(side, role, frames, right, up):
+    """MoveBattlerBy in screen px (right, up). The game mirrors moves for battlers on the enemy side."""
+    on_player_side = (side == "player") == (role == 258)
+    dx, dy = (right, -up) if on_player_side else (-right, up)
+    return func(57, frames, dx, dy, role)
+
+
+def stop_motion(ps, pose, who, start, end, steps, ease=1.6):
+    """One short-lived pose per step from start to end (screen px), easing in."""
+    w = []
+    for k in range(steps):
+        t = (k / (steps - 1)) ** ease
+        w += emit_at(ps, pose, who, (round(start[0] + (end[0] - start[0]) * t),
+                                     round(start[1] + (end[1] - start[1]) * t))) + wait(1)
+    return w
+
+
+def _catch_flight(side, s):
+    """Fly (two turns). Turn 1: HOOD AIR swoops in low, they grab the rope ladder and get carried off. Turn 2: the jet
+    dive-bombs the target - WHAM! - and they drop back in from the sky."""
+    sx = 1 if side == "player" else -1
+    # the jet swoops in low; when the ladder reaches them they grab on and get carried off at its speed
+    one = se(s["jet"]) + emit_at(PLANE, PASS, 0, PICKUP_FROM)
+    one += wait_frames((-PICKUP_FROM[0] - LADDER_X) / JET_SPEED - 2)
+    one += se(s["whoosh"]) + bmove(side, 258, CARRY_FRAMES, JET_SPEED * CARRY_FRAMES, 6) + wait(22)
+    one += func(40, 2, 1)                                                    # ...gone (SetBattlerVanished)
+    dive = DIVE_E if side == "player" else DIVE_P
+    two = se(s["whoosh"]) + emit_at(PLANE, dive, 1, (-sx * DIVE_FROM[0], DIVE_FROM[1])) + wait_frames(DIVE_FRAMES)
+    two += emit_at(WHAM, POP, 1, (sx * -18, 46)) + emit_at(PLANE, JETSMOKE, 1, (0, 10)) + flash_screen(8)
+    two += se(s["bonk"]) + shake_defender(5, 4) + func(48) + func(68, 5, 2, 1, 4, 0) + wait(12)
+    two += bmove(side, 258, 1, 0, 150) + wait(1) + func(40, 2, 0)            # back in, from the sky
+    two += bmove(side, 258, 10, 0, -150) + wait(12)
+    return one, two
+
+
+def _hydrant_wave(side, s):
+    """Surf: the whole block floods - a wall of water the height of the screen sweeps across both of them,
+    a rubber duck riding the crest."""
+    blue = rgb(40, 90, 220)
+    fx, fy = WAVE_FROM[side]
+    sx = 1 if side == "player" else -1
+    wave = WAVE_E if side == "player" else WAVE_P
+    duck = DUCK_E if side == "player" else DUCK_P
+    w = func(33, 0, 1, 0, 10, blue) + se(s["surf"]) + wait(2)
+    w += emit_at(WAVE, wave, 1, (fx, fy)) + emit_at(DUCK, duck, 1, (fx - sx * 20, fy + 56)) + wait(5)
+    w += emit_at(WAVE, wave, 1, (fx, fy - 26)) + se(s["surf"])
+    w += wait_frames(abs(fx) / WAVE_SPEED - 30)
+    w += se(s["splash"]) + emit_at(WAVE, FOAM, 1, (0, 10)) + emit_at(WAVE, FOAM, 0, (0, 10))
+    w += func(34, 8, 0, 2, blue, 14, 0) + shake_defender(3, 6) + func(68, 3, 2, 1, 4, 0) + wait(8)
+    w += emit_at(WAVE, FOAM, 1, (-10, 4)) + se(s["splash"]) + wait(20)
+    w += func(33, 0, 1, 10, 0, blue) + wait(6)
+    return w
+
+
+def _power_line(side, s):
+    """Thunder: a live power line snaps, swings down on the target and lights them up - you can see the skeleton."""
+    night = rgb(10, 10, 40)
+    w = func(33, 0, 1, 0, 12, night) + wait(4)
+    w += stop_motion(CABLE, POSE, 1, (10, 110), (10, 34), 7)
+    w += emit_at(CABLE, HOLD, 1, (10, 34))
+    w += se(s["thunder"]) + flash_screen(6) + emit_at(XRAY, SPARKS, 1, (0, 22)) + emit_at(XRAY, BONES, 1, (0, 18))
+    for k in range(8):                                                       # BZZZZT
+        w += func(34, 3, 0, 1, rgb(0, 0, 0) if k % 2 == 0 else rgb(255, 250, 120), 16, 0)
+        w += func(36, 2, 1, 1, 2, 264) + wait(2)
+        if k % 3 == 0:
+            w += flash_screen(2)
+        if k == 4:
+            w += se(s["thunder"])
+    w += wait(8) + func(33, 0, 1, 12, 0, night) + wait(6)
+    return w
+
+
+def _road_rage(side, s):
+    """Dragon Rage: they go red, steam blasting out, HONK! HONK! - and start launching traffic cones."""
+    sx = 1 if side == "player" else -1
+    w = func(34, 2, 0, 1, rgb(255, 30, 30), 15, 0) + shake_attacker(2, 18)
+    w += emit_at(HONK, STEAM, 0, (sx * 6, 36)) + se(s["rage"]) + wait(6)
+    w += se(s["alarm"]) + emit_at(HONK, HONK_A, 0, (sx * 34, 54)) + wait(8)
+    w += se(s["alarm"]) + emit_at(HONK, HONK_B, 0, (sx * -8, 62)) + wait(6)
+    for k in range(3):                                                       # cones, cones, cones
+        w += func(9) + _throw(CONE, 1 + k, ((-10, 10, 0)[k], (6, 2, 14)[k])) + wait(4)
+    w += wait_frames(THROW_FRAMES - 16)
+    for k in range(3):
+        w += se(s["bonk"]) + shake_defender(3, 2) + func(34, 4, 0, 1, rgb(255, 140, 40), 10, 0) + wait(4)
+    return w + wait(10)
+
+
+def _molotov2(side, s):
+    """Flamethrower (Molotov): a swig of the good stuff, sprayed through a lighter - then the bottle's lobbed."""
+    sx = 1 if side == "player" else -1
+    orange = rgb(255, 120, 20)
+    fire = FIRE_E if side == "player" else FIRE_P
+    w = emit_at(BOOZE, SWIG, 0, (sx * 12, 34)) + func(19) + wait(12)          # glug glug
+    w += emit_at(BOOZE, LIGHTER, 0, (sx * 22, 26)) + se(s["fwoosh"]) + wait(5)  # *flick*
+    w += se(s["flame"]) + emit_at(BREATH, fire, 0, (0, 0)) + func(9) + wait(10)
+    w += emit_at(BREATH, fire, 0, (0, 0)) + func(34, 8, 0, 2, orange, 14, 0) + shake_defender(2, 8) + wait(12)
+    w += _throw(BOOZE, 1, (0, 4)) + wait_frames(THROW_FRAMES)                 # and the bottle
+    w += se(s["smash"]) + emit_at(BURST, TONGUE, 1, (0, -6)) + emit_at(BURST, EMBER, 1, (0, 4)) + flash_screen(6)
+    w += shake_defender(4, 4) + func(48) + wait(16)
+    return w
+
+
+def _zaza_leaf(side, s):
+    """Razor Leaf (Zaza Leaf): the big leaf rises behind them, the leaves fly like shuriken - and the target's zooted."""
+    sx = 1 if side == "player" else -1
+    leaf = LEAF_E if side == "player" else LEAF_P
+    w = emit_at(LEAF, BIGLEAF, 0, (sx * -16, 42)) + se(s["leaf"]) + wait(10)
+    for k in range(3):
+        w += se(s["razor"]) + emit_at(LEAF, leaf, 0, (0, 4 * k - 4)) + wait(4)
+    w += wait_frames(LEAF_FRAMES - 8)
+    w += func(34, 8, 0, 2, rgb(80, 200, 60), 12, 0) + shake_defender(2, 4) + emit_at(HAZE, HAZE1, 1, (0, 16))
+    w += wait(6) + func(4, 0, 0x0600, 16, 0) + wait(16)                      # ...whoa
+    w += func(4, 0, 0x0600, 16, 2) + wait(18)
+    return w
+
+
+def _stomp_out(side, s):
+    """Pound (Stomp Out): a giant boot comes down out of the sky. STOMP!"""
+    sx = 1 if side == "player" else -1
+    w = stop_motion(BOOT, POSE, 1, (0, 120), (0, 30), 6)
+    w += emit_at(BOOT, HOLD, 1, (0, 30))
+    w += se(s["bonk"]) + emit_at(STOMP, 2, 1, (sx * -30, 56)) + emit_at(STOMP, DUST, 1, (0, -8))
+    w += func(68, 4, 2, 1, 3, 0) + shake_defender(4, 3) + bmove(side, 264, 3, 0, -8) + wait(10)
+    w += bmove(side, 264, 8, 0, 8) + wait(10)
+    return w
+
+
+def _grill_chomp(side, s):
+    """Bite (Grill Chomp): a mouth full of gold grillz chomps down on them. Twice."""
+    w = []
+    for chomp in range(2):
+        for k in range(4):                                                   # jaws closing
+            w += emit_at(TOPJAW, POSE, 1, (0, 50 - 5 * k)) + emit_at(BOTJAW, POSE, 1, (0, -14 + 5 * k)) + wait(1)
+        w += emit_at(TOPJAW, HOLD, 1, (0, 32)) + emit_at(BOTJAW, HOLD, 1, (0, 4))
+        w += se(s["bite"]) + flash_screen(3) + shake_defender(3, 3) + emit_at(GLITZ, SPARKLE, 1, (0, 18))
+        w += func(34, 4, 0, 1, rgb(255, 60, 60), 12, 0) + wait(6)
+    return w + wait(8)
+
+
+def _hollow_point(side, s):
+    """Crunch (Hollow Point): a red laser-sight dot dances over them... settles dead centre... BANG."""
+    import random
+    rnd = random.Random(7)
+    w = se(s["leer"])
+    for k in range(12):                                                      # the dot hunting, then settling
+        a = 20 * (1 - k / 11) ** 1.5
+        w += emit_at(SLUG, DOT, 1, (round(rnd.uniform(-a, a)), 22 + round(rnd.uniform(-a, a)))) + wait(1)
+    for k in range(4):                                                       # locked on. hold it...
+        w += emit_at(SLUG, DOT, 1, (0, 22)) + wait(1)
+    w += se(s["boom"]) + muzzle(GUN, FLASH, side) + flash_screen(10)         # BANG
+    w += emit_at(SLUG, HOLE, 1, (0, 22)) + emit_at(SLUG, IMPACT, 1, (0, 22)) + emit_at(GUN, SPARK, 1, (0, 22))
+    w += se(s["crunch"]) + func(48) + shake_defender(6, 4) + func(68, 5, 3, 1, 4, 0)
+    w += func(34, 8, 0, 2, rgb(255, 50, 50), 13, 0) + wait(18)
+    return w
+
+
+def _switchblade(side, s):
+    """Slash (Switchblade): the blade flicks open, they dash in - slash, slash, slash - and slash the tire too."""
+    sx = 1 if side == "player" else -1
+    tire = (sx * 34, -4)
+    w = emit_at(TIRE, TIRE_UP, 1, tire) + emit_at(SLASH, GLEAM, 0, (sx * 16, 26)) + se(s["bling"]) + wait(8)
+    w += bmove(side, 258, 6, 60, 30) + wait(7)                               # dash in
+    for k, res in enumerate((SLASH_A, SLASH_B, SLASH_C)):
+        w += se(s["slash"]) + emit_at(SLASH, res, 1, ((-4, 4, 0)[k], (20, 14, 18)[k])) + shake_defender(2, 2)
+        w += func(34, 3, 0, 1, rgb(255, 60, 60), 10, 0) + wait(3)
+    w += se(s["slash"]) + emit_at(SLASH, SLASH_B, 1, tire) + wait(2)          # ...and the tire
+    w += emit_at(TIRE, TIRE_FLAT, 1, (tire[0], tire[1] - 3)) + emit_at(TIRE, HISS, 1, tire) + se(s["spray"])
+    w += bmove(side, 258, 8, -60, -30) + wait(14)
+    return w
+
+
+def _hot_box(side, s):
+    """SmokeScreen (Hot Box): they hotbox the whole battlefield. Can't see a thing. *cough* *cough*"""
+    sx = 1 if side == "player" else -1
+    haze = rgb(110, 120, 100)
+    w = func(33, 0, 1, 0, 11, haze) + se(s["smoke"]) + emit_at(SMOG, SMOG1, 0, (sx * 24, 24)) + wait(8)
+    w += emit_at(SMOG, SMOG1, 1, (0, 20)) + emit_at(SMOG, SMOG2, 1, (0, 10)) + wait(10)
+    for k in range(3):
+        w += emit_at(COUGH, PUFFUP, 1, ((k - 1) * 14, 42 + (k % 2) * 6)) + se(s["cough"])
+        w += shake_defender(2, 3) + func(34, 4, 0, 1, rgb(170, 175, 160), 12, 0) + wait(8)
+    w += wait(12) + func(33, 0, 1, 11, 0, haze) + wait(6)
+    return w
+
+
+def _burnout(side, s):
+    """Flame Wheel (Burnout): the tire spins in place in a cloud of smoke and catches fire - then it's launched."""
+    sx = 1 if side == "player" else -1
+    at = (sx * 22, 10)
+    w = emit_at(WHEEL, SPIN, 0, at) + emit_at(WHEEL, SMOKE1, 0, at) + se(s["burn"]) + shake_attacker(1, 14)
+    w += wait(14)
+    w += se(s["burn2"]) + _fly(WHEEL, ROLL, 1, ROLL_FRAMES) + _fly(TRAIL, FIRETRAIL, 2, ROLL_FRAMES)
+    w += wait_frames(ROLL_FRAMES)
+    w += emit_at(BURST, TONGUE, 1, (0, -6)) + emit_at(BURST, EMBER, 1, (0, 4)) + se(s["fwoosh"])
+    w += func(34, 8, 0, 2, rgb(255, 120, 20), 14, 0) + shake_defender(4, 4) + func(48) + wait(16)
+    return w
+
+
+def _hi_yah(side, s):
+    """Brick Break (Hi-Yah Chop): a stack of bricks balanced on their head; a giant karate hand comes down -
+    HI-YAH! - the stack splits clean in two and the chop lands on their head."""
+    sx = 1 if side == "player" else -1
+    top = 48                                                                 # the stack, on their head
+    w = []
+    for k in range(9):                                                       # the hand comes down on it
+        t = (k / 8) ** 1.6
+        w += emit_at(BLOCKS, HALF_L, 1, (0, top)) + emit_at(BLOCKS, HALF_R, 1, (0, top))
+        w += emit_at(CHOP, POSE, 1, (0, round(128 - (128 - (top + 30)) * t))) + wait(1)
+    w += se(s["chop"]) + emit_at(HIYAH, POP, 1, (sx * -34, 70)) + flash_screen(5)
+    w += emit_at(BLOCKS, CHUNKS, 1, (0, top))
+    for k in range(1, 7):                                                    # CRACK - in two, flying apart
+        dx, dy = 6 * k, top - (k * k) // 2
+        w += emit_at(BLOCKS, HALF_L, 1, (-dx, dy)) + emit_at(BLOCKS, HALF_R, 1, (dx, dy))
+        if k < 4:
+            w += emit_at(CHOP, POSE, 1, (0, top + 30 - 6 * k))
+        w += wait(1)
+    w += emit_at(CHOP, HOLD, 1, (0, top + 8)) + se(s["bonk"])                # ...right on the head
+    w += shake_defender(4, 4) + bmove(side, 264, 3, 0, -8) + func(68, 3, 2, 1, 3, 0) + wait(8)
+    w += bmove(side, 264, 8, 0, 8) + wait(10)
+    return w
+
+
+def _magic_8ball(side, s):
+    """Shadow Ball (Magic 8-Ball): a Magic 8-Ball grows in their hands in dark wisps, rolls over and gives
+    the answer: OUTLOOK NOT GOOD."""
+    sx = 1 if side == "player" else -1
+    dark = rgb(40, 10, 60)
+    w = func(33, 0, 1, 0, 11, dark) + emit_at(EIGHT, CHARGE, 0, (sx * 4, 26))
+    w += emit_at(EIGHT, WISPS, 0, (sx * 4, 24)) + se(s["shadow"]) + wait(10)
+    w += _fly(EIGHT, ROLL8, 1, EIGHT_FRAMES) + wait_frames(EIGHT_FRAMES)
+    w += se(s["shadow2"]) + emit_at(ANSWER, POP, 1, (sx * -34, 50)) + flash_screen(4)
+    w += func(34, 8, 0, 2, rgb(120, 40, 200), 14, 0) + shake_defender(3, 4) + func(48) + wait(18)
+    w += func(33, 0, 1, 11, 0, dark) + wait(6)
+    return w
+
+
+def _loyalty(side, s):
+    """Return (Loyalty): RIDE OR DIE. The pendant glows, the love flies - and then it hits them for real."""
+    sx = 1 if side == "player" else -1
+    pink = rgb(255, 120, 180)
+    hearts = HEARTS_E if side == "player" else HEARTS_P
+    w = emit_at(HEART, LOCKET, 0, (sx * 10, 46)) + se(s["loyal"]) + func(34, 2, 0, 1, pink, 10, 0) + wait(10)
+    for k in range(3):
+        w += emit_at(HEART, hearts, 0, (0, 2 * k)) + se(s["loyal2"]) + wait(4)
+    w += _fly(HEART, SLAM, 1, HEART_FRAMES) + wait_frames(HEART_FRAMES)
+    w += flash_screen(6) + func(34, 8, 0, 2, pink, 14, 0) + shake_defender(4, 4) + func(48) + se(s["bonk"])
+    return w + wait(14)
+
+
 def _chain_dangle(side, s):
     """Confusion: a quicker dangle, no lights-down."""
     return _chain_swing(side, s, swings=2, dark=False)
 
 
-VARIANTS = {99: _calibrate, 7: _chain_swing, 8: _chain_dangle, 9: _payday, 10: _full_auto, 11: _rpg,
+VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dangle, 9: _payday, 10: _full_auto, 11: _rpg,
             12: _molotov, 13: _brick, 14: _egg, 15: _hose, 16: _bat, 17: _taser, 18: _car_alarm, 19: _bass_drop,
-            20: _hot_shot, 21: _stare_down, 22: _talk_trash, 23: _pocket_sand, 24: _fan_blast, 1: _sniper, 2: _shotgun, 3: _spray, 4: _point_blank, 5: _gangsta, 6: _drive_by}
+            20: _hot_shot, 21: _stare_down, 22: _talk_trash, 23: _pocket_sand, 24: _fan_blast,
+            25: _catch_flight, 26: _hydrant_wave, 27: _power_line, 28: _road_rage, 29: _molotov2, 30: _zaza_leaf,
+            31: _stomp_out, 32: _grill_chomp, 33: _hollow_point, 34: _switchblade, 35: _hot_box, 36: _burnout,
+            37: _hi_yah, 38: _magic_8ball, 39: _loyalty, 1: _sniper, 2: _shotgun, 3: _spray, 4: _point_blank, 5: _gangsta, 6: _drive_by}
 
 
 # particle kits each animation uses: the battle heap only fits a few particle systems at once
-KITS = {99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE), 2: (GUN, SMOKE), 3: (GUN, KIT, SMOKE), 4: (GUN, SMOKE),
+KITS = {97: (PLANE, WHAM), 99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE), 2: (GUN, SMOKE), 3: (GUN, KIT, SMOKE), 4: (GUN, SMOKE),
         5: (GUN, KIT, SMOKE), 6: (GUN, SMOKE, CAR), 7: (GUN, BLING), 8: (GUN, BLING), 9: (GUN, CASH), 10: (GUN, KIT, SMOKE),
         11: (GUN, SMOKE, ROCKET), 12: (GUN, BOTTLE, FIRE), 13: (GUN, BRICK, SMOKE), 14: (EGG, HOUSE, YOLK),
         15: (HYDRANT, JET, SPLASH), 16: (GUN, SLUGGER), 17: (GUN, TASER, BOLTS), 18: (FOB, RINGS),
         19: (SUB, CRACK, SMOKE), 20: (CHIPS, BURST), 21: (SHADES, GLINT), 22: (BUBBLE,), 23: (POCKET, SAND),
-        24: (FAN, WIND)}
+        24: (FAN, WIND), 25: (PLANE, WHAM), 26: (WAVE, DUCK), 27: (CABLE, XRAY), 28: (HONK, CONE),
+        29: (BOOZE, BREATH, BURST), 30: (LEAF, HAZE), 31: (BOOT, STOMP), 32: (TOPJAW, BOTJAW, GLITZ),
+        33: (SLUG, GUN), 34: (SLASH, TIRE), 35: (SMOG, COUGH), 36: (WHEEL, TRAIL, BURST),
+        37: (BLOCKS, CHOP, HIYAH), 38: (EIGHT, ANSWER), 39: (HEART,)}
 
 
 def variant(k, sounds):
@@ -1108,7 +1730,13 @@ def variant(k, sounds):
         _SIDE[0] = side
         # WaitForTasks, then put both Pokémon back exactly where they belong (MoveBattlerBy moves dx // duration
         # per frame, so a move and its "undo" can disagree by a few pixels), WaitForParticles, free, End
-        w = VARIANTS[k](side, sounds) + [1] + func(62, 2) + func(62, 8) + [50] + frees + [4]
+        got = VARIANTS[k](side, sounds)
+        tail = [1] + func(62, 2) + func(62, 8) + [50] + frees + [4]
+        if isinstance(got, tuple):                                 # a two-turn move (Fly): turn 1, turn 2
+            one, two = got[0] + tail, got[1] + tail
+            w = [13, 2, 1 + len(one)] + one + two                  # JumpByVariantBit0: bit 0 set = the hit
+        else:
+            w = got + tail
         while "SE" in w:                                            # sound markers from helpers
             i = w.index("SE")
             w[i:i + 2] = [5, sounds[w[i + 1]]]
