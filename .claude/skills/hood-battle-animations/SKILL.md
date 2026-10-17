@@ -77,6 +77,24 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
 - **Sounds**: prefer built-in game SEs (`BUILTIN`) - new samples live in the battle wave archive and too many
   break the level-up fanfare (sound heap). Cries: `cry(mode, param)` (PlayCry, opcode 65).
 - Script timing: `wait(n)` ~ 2(n+1) frames; `wait_frames(f)` converts. Scripts tick at 30 Hz.
+- **Texture tiling (emitter header byte 75, bits 0-3)**: donors tile their small textures 2x2 / 2x1 mirrored
+  (they hold a quarter of a shape). A whole shape (note, swirl, star) shows up 4x mirrored ("}{" notes) unless
+  you clear it - set 5 does `b[off + TILE] &= 0xF0` for its kits. Cleared, the shape fills the quad: halve scales.
+- **Particles can never go behind a Pokémon**: battler sprites sit at the back of the depth range and draw as
+  opaque polygons first; no particle Z (clipped past ~14000) or alpha changes that. Place props so they don't
+  overlap the battler instead (Duck n Cover's lid sits mid-screen on the player side).
+- **HP boxes are a BG layer over the 3D**: props under the player's HP box (right of the player, x>140) vanish.
+- **Shakes restore the battler's start position** when they end: a shake overlapping a MoveBattlerBy snaps it
+  back (Smackdown's charge did that). Don't shake a battler that's about to move.
+- Strobing tints (`func(34, ...)` alternating colours) leave the last colour fading out: end on the bright one.
+- **Sounds - the sound heap is nearly full mid-battle.** Don't add instruments to the battle bank (751) or
+  re-pitched/cloned sequences: a bigger bank made the enemy's Growl (Talk Trash) freeze loading its cry, and
+  cloned game sequences played silent. Pick an existing game SE that already sounds right instead. Many of
+  the game's own move SEs (wave archive 700, e.g. Supersonic's 1936) play silent mid-battle; check a new one
+  is audible. Rapid-fire repeats of the hood "boom" (4 in ~1 s) also froze the next cry - after changing
+  a move's sounds, run a full turn (enemy move included) and make sure the battle moves on.
+- Measuring audio: `hood/test/record_audio.py` records a move via File > Record WAV (DeSmuME saves it to its
+  own AviFiles folder). Emulation is deterministic, so subtracting a run with the sound removed leaves just the SE.
 
 ## Coordinates and sizes
 

@@ -235,5 +235,9 @@
   "Frenzy Plant": "Grows a gun garden. The user rests next turn.",
   "Bite": "Chomps down with a full set of gold grillz. May make the foe flinch.",
   "Brick Break": "Karate chops through bricks. Breaks the foe’s Reflect and Light Screen.",
-  "Shadow Ball": "Rolls a Magic 8-Ball at the foe. Outlook not good. May lower Sp. Def."
+  "Shadow Ball": "Rolls a Magic 8-Ball at the foe. Outlook not good. May lower Sp. Def.",
+  "Foresight": "Clocks the foe on sight. No hiding, no dodging, no ghosting.",
+  "Water Pulse": "A water balloon to the dome. May leave the foe dazed and confused.",
+  "Toxic": "A double cup of the dirty stuff, to the face. Badly poisons the foe.",
+  "Take Down": "Charges in swinging a folding chair. Hurts the user too."
 }

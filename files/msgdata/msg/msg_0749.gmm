@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0749_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.</language>
+		<language name="English">Charges in swinging a\nfolding chair. Hurts\nthe user too.</language>
 	</row>
 	<row id="msg_0749_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -370,7 +370,7 @@
 	</row>
 	<row id="msg_0749_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.</language>
+		<language name="English">A double cup of the\ndirty stuff, to the\nface. Badly poisons\nthe foe.</language>
 	</row>
 	<row id="msg_0749_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -774,7 +774,7 @@
 	</row>
 	<row id="msg_0749_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.</language>
+		<language name="English">Clocks the foe on\nsight. No hiding, no\ndodging, no ghosting.</language>
 	</row>
 	<row id="msg_0749_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
@@ -1410,7 +1410,7 @@
 	</row>
 	<row id="msg_0749_00352" index="352">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.</language>
+		<language name="English">A water balloon to the\ndome. May leave the\nfoe dazed and\nconfused.</language>
 	</row>
 	<row id="msg_0749_00353" index="353">
 		<attribute name="window_context_name">used</attribute>

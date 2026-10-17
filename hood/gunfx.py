@@ -18,6 +18,9 @@ HYDRANT, JET, SPLASH, SLUGGER, TASER, BOLTS, FOB, RINGS, SUB, CRACK = range(13, 
 CHIPS, BURST, SHADES, BUBBLE, POCKET, SAND, FAN, WIND, GLINT = range(23, 32)
 (PLANE, WHAM, WAVE, DUCK, CABLE, XRAY, HONK, CONE, BOOZE, BREATH, LEAF, HAZE, BOOT, STOMP, TOPJAW, BOTJAW, GLITZ,
  SLUG, SHATTER, SLASH, TIRE, SMOG, COUGH, WHEEL, TRAIL, BLOCKS, CHOP, HIYAH, EIGHT, ANSWER, HEART) = range(32, 63)
+(TORCH, BEAM, HUH, STUN, STATIC, ZZZT, BOOMBOX, SOUNDWAVE, BWOMP, SQUAD, SQUAD2, SQUADUP, BALLOON, DRENCH, SPLOOSH,
+ DISS, SLAP, OOOH, CUP, GOOP, DIRTY, LID, NOPE, CHAIR, CLANG, SMACKDN, BIGTASER, MEGABOLT, BZZT,
+ EYES, CIRCLE, CLOCKED) = range(63, 95)
 DONOR = {GUN: 73, KIT: 62, SMOKE: 84, CAR: 82, BLING: 168, CASH: 47, ROCKET: 349,
          BOTTLE: 349, BRICK: 349, EGG: 349, FIRE: 84, HOUSE: 168, YOLK: 84,
          HYDRANT: 349, JET: 84, SPLASH: 84, SLUGGER: 168, TASER: 349, BOLTS: 349, FOB: 349, RINGS: 62,
@@ -27,7 +30,11 @@ DONOR = {GUN: 73, KIT: 62, SMOKE: 84, CAR: 82, BLING: 168, CASH: 47, ROCKET: 349
          PLANE: 82, WHAM: 168, WAVE: 82, DUCK: 349, CABLE: 168, XRAY: 82, HONK: 82, CONE: 349, BOOZE: 349,
          BREATH: 84, LEAF: 82, HAZE: 84, BOOT: 168, STOMP: 82, TOPJAW: 168, BOTJAW: 168, GLITZ: 349, SLUG: 82,
          SLASH: 82, TIRE: 349, SMOG: 84, COUGH: 349, WHEEL: 82, TRAIL: 84, BLOCKS: 82, CHOP: 168,
-         HIYAH: 168, EIGHT: 82, ANSWER: 168, HEART: 82}
+         HIYAH: 168, EIGHT: 82, ANSWER: 168, HEART: 82,
+         TORCH: 82, BEAM: 168, HUH: 168, STUN: 82, STATIC: 168, ZZZT: 168, BOOMBOX: 82, SOUNDWAVE: 84, BWOMP: 168,
+         SQUAD: 82, SQUAD2: 168, SQUADUP: 168, BALLOON: 349, DRENCH: 82, SPLOOSH: 168, DISS: 168, SLAP: 82,
+         OOOH: 168, CUP: 349, GOOP: 84, DIRTY: 168, LID: 82, NOPE: 168, CHAIR: 82, CLANG: 168, SMACKDN: 168,
+         BIGTASER: 82, MEGABOLT: 168, BZZT: 168, EYES: 82, CIRCLE: 168, CLOCKED: 168}
 LOAD = dict(DONOR)                                            # particle file each kit loads (battlefx repoints)   # small files: the battle heap can't fit big ones twice
 SPARK, FLASH, TRACER = 0, 1, 2
 CASING, CROSS = 0, 1
@@ -99,6 +106,56 @@ FIRETRAIL = 1                                                 # TRAIL: flames le
 HALF_L, HALF_R, CHUNKS = 2, 3, 0                              # BLOCKS: the stack's two halves (poses), chunks
 CHARGE, ROLL8, WISPS = 3, 2, 0                                # EIGHT: the 8-ball growing, rolling (flown), dark wisps
 LOCKET, SLAM, HEARTS_E, HEARTS_P = 2, 3, 0, 1                 # HEART: the pendant, it flying in, hearts each way
+# ---- set 5 emitters (per kit)
+TORCH_E, TORCH_P, SWIRL = 1, 2, 0                             # TORCH: the flashlight aimed each way, dizzy swirls
+BEAM_E, BEAM_P = 0, 1                                         # BEAM: the cone of light each way
+STUN_E, STUN_P, ARC_E, ARC_P = 1, 2, 0, 3                     # STUN: the stun gun each way, crackles shot each way
+RING_X, RING_HOLD = 0, 1                                      # STATIC: a ring blasting out, the ring holding them
+BOX5, THUMP, NOTES_E, NOTES_P = 1, 2, 0, 3                    # BOOMBOX: the boombox, it pumping, notes each way
+SWAVE_E, SWAVE_P = 0, 1                                       # SOUNDWAVE: ")" arcs each way
+FIG, FIG_S, POOF = 1, 2, 0                                    # SQUAD: a homie (big / small), the poof he appears in
+FIG2, FIG2_S = 0, 1                                           # SQUAD2: the other homie (big / small)
+DROPS = 2                                                     # BALLOON: water dripping off them
+CROWN, SPLASHDROPS = 1, 0                                     # DRENCH: the splash, drops flying
+SLAP_POSE, SLAP_HOLD, POWS = 1, 2, 0                          # SLAP: the palm coming down, landed, impact lines
+HELD, BUBBLES = 0, 2                                          # CUP: the cup in hand, bubbles rising off them
+GOOP_SPLAT, GOOP_DRIPS = 1, 0                                 # GOOP: the purple splat, drips
+LIDUP, LIDFLASH, PINGS = 1, 2, 0                              # LID: the shield, its flash, deflection pings
+CHAIR_POSE, CHAIR_HOLD, STARS = 1, 2, 0                       # CHAIR: the chair coming down, landed, dizzy stars
+BIG_E, BIG_P, ZIGS = 1, 2, 0                                  # BIGTASER: the XL taser each way, crackling
+STRIKE, STRIKE2 = 0, 1                                        # MEGABOLT: the bolt, a second smaller one
+EYES_R, EYES_L = 1, 2                                         # EYES: the eyes emoji looking right / left
+TORCH_AT = {"player": (28, 30), "enemy": (-28, 30)}          # the flashlight (px from the attacker)
+TORCH_SCALE, BEAM_AIM = 1.25, (0, 22)                         # ...shining in their eyes
+TILE = 75                                                     # emitter header byte: texture tile counts (bits 0-3)
+TEXEL = .74                                                   # screen px per texel of a 64px texture at scale 1.0
+STUN_AT = {"player": (25, 9), "enemy": (-24, 17)}            # the stun gun, in their hand
+STUN_TIP = {"player": (39, 10), "enemy": (-38, 16)}          #   its prongs
+STUN_FRAMES = 10
+BOX_AT = {"player": (-26, 48), "enemy": (26, 38)}            # the boombox, up on their shoulder
+LID_AT = {"player": (52, 62), "enemy": (-28, 16)}            # the trash-can lid: mid-screen / in front of them
+NOTE_FRAMES = 14
+BEAT_AIM = (0, 24)
+
+
+def _angle(dx, dy):
+    """Particle rotation (0x10000 a turn, counter-clockwise on screen) for art pointing right to point at (dx, dy)."""
+    return round(math.degrees(math.atan2(dy, dx)) / 360 * 0x10000) & 0xFFFF
+
+
+def torch_geometry(side):
+    """(rotation, lens, beam centre, beam scale): the flashlight aimed at their eyes, the beam from lens to face."""
+    cx, cy = TORCH_AT[side]
+    dx, dy = aim_path(side, TORCH_AT[side], BEAM_AIM)
+    d = math.hypot(dx, dy)
+    ux, uy = dx / d, dy / d
+    nose = (.92 - .5) * 64 * TEXEL * TORCH_SCALE                 # texture centre -> lens, px
+    lens = (cx + ux * nose, cy + uy * nose)
+    length = d - nose
+    centre = (round(lens[0] + ux * length / 2), round(lens[1] + uy * length / 2))
+    return _angle(dx, dy), lens, centre, length / (64 * TEXEL)
+
+
 DIVE_FRAMES, DIVE_FROM = 12, (110, 80)                       # the jet's dive: from up there (px from the target)
 JET_SPEED = 6                                                 # px per frame: the jet, and whoever it's carrying
 PICKUP_FROM = (-160, 52)                                      # jet centre vs the attacker: the ladder's bottom rung
@@ -925,6 +982,220 @@ def build_files(files):
               radius=.2, spread=.01, alpha=(31, 31, 31), flick=0)
     out[HEART] = bytes(b)
 
+    # ---- set 5 ---------------------------------------------------------------------------------------------
+    FIXED_ROT = (1 << 12) | (1 << 13)                         # flags_off for sprays whose rotation is set by hand
+
+    # Flashlight (Confuse Ray): a big flashlight aimed at their eyes, the beam, dizzy swirls, HUH?!
+    b, rs = kit(TORCH)
+    tex(b, 1, fxart.flashlight())
+    tex(b, 0, fxart.dizzy_swirl())
+    for res, sd in ((TORCH_E, "player"), (TORCH_P, "enemy")):
+        prop(b, rs, res, scl=TORCH_SCALE, life=62, scl_anm=(.4, 1.1, 1.0, 30, 255))
+        rot(b, rs, res, init=torch_geometry(sd)[0])
+    violet = rgb(200, 90, 255)
+    prop(b, rs, SWIRL, tex=0, clr=violet, clr_anm=(rgb(255, 170, 255), rgb(140, 40, 220)), scl=.42, life=40,
+         scl_anm=(.3, 1.2, 1.0, 40, 255), flags_on=(1 << 14) | (1 << 12))
+    rot(b, rs, SWIRL, spin=-0x1400)
+    prop(b, rs, 3, life=1)
+    out[TORCH] = bytes(b)
+    b, rs = kit(BEAM)
+    tex(b, 0, fxart.light_cone(), 30)
+    for res, sd in ((BEAM_E, "player"), (BEAM_P, "enemy")):
+        ang, _, _, scale = torch_geometry(sd)
+        prop(b, rs, res, scl=scale, life=48, flick=50)
+        rot(b, rs, res, init=ang)
+    out[BEAM] = bytes(b)
+    sign(HUH, ["HUH?!"], fill=(170, 90, 255, 255), text=(255, 235, 60, 255))
+
+    # Stun Taser (Thunder Wave): the stun gun snapping, crackles shot at them, rings of static locking them up
+    b, rs = kit(STUN)
+    tex(b, 1, fxart.stun_gun())
+    tex(b, 0, fxart.crackle())
+    prop(b, rs, STUN_E, scl=1.1, life=50, scl_anm=(.4, 1.1, 1.0, 30, 255))
+    prop(b, rs, STUN_P, scl=1.1, life=50, scl_anm=(.4, 1.1, 1.0, 30, 255))
+    rot(b, rs, STUN_P, init=0x8000)
+    cyan = rgb(120, 220, 255)
+    for res, sd in ((ARC_E, "player"), (ARC_P, "enemy")):
+        spray(b, rs, res, sd, STUN_TIP[sd], (0, 22), STUN_FRAMES, tex=0, clr=cyan,
+              clr_anm=(rgb(200, 240, 255), rgb(40, 110, 255)), scl=.3, emtr_life=8, gen=1, gen_intvl=1, radius=.2,
+              spread=.02, alpha=(31, 31, 31), scl_anm=(1.0, 1.0, 1.0, 0, 255), flick=60,
+              flags_on=(1 << 14) | (1 << 13))
+    out[STUN] = bytes(b)
+    b, rs = kit(STATIC)
+    tex(b, 0, fxart.static_ring(), 30)
+    prop(b, rs, RING_X, scl=1.5, life=14, scl_anm=(.3, 1.2, 1.6, 90, 200), alpha=(31, 31, 0))
+    prop(b, rs, RING_HOLD, scl=1.3, life=44, flick=110)
+    out[STATIC] = bytes(b)
+    sign(ZZZT, ["ZZZT!"], fill=(80, 200, 255, 255), text=(255, 240, 40, 255))
+
+    # Bass Boost (Supersonic): a boombox on their shoulder, pumping - sound waves and notes rattle their skull
+    b, rs = kit(BOOMBOX)
+    tex(b, 1, fxart.boombox())
+    tex(b, 0, fxart.music_note())
+    prop(b, rs, BOX5, scl=1.2, life=64, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    prop(b, rs, THUMP, scl=1.2, life=6, scl_anm=(1.0, 1.2, 1.0, 90, 170))
+    pink = rgb(255, 110, 210)
+    for res, sd in ((NOTES_E, "player"), (NOTES_P, "enemy")):
+        spray(b, rs, res, sd, BOX_AT[sd], BEAT_AIM, NOTE_FRAMES, tex=0, clr=pink,
+              clr_anm=(rgb(255, 230, 120), rgb(255, 80, 200)), scl=.5, emtr_life=4, gen=1, gen_intvl=2, radius=.3,
+              spread=.012, alpha=(31, 31, 31), scl_anm=(.6, 1.1, 1.0, 40, 255), flick=0,
+              flags_off=(1 << 15) | BILLBOARD | FIXED_ROT)
+    out[BOOMBOX] = bytes(b)
+    b, rs = kit(SOUNDWAVE)
+    tex(b, 1, fxart.sound_arc())
+    for res, sd in ((SWAVE_E, "player"), (SWAVE_P, "enemy")):
+        spray(b, rs, res, sd, BOX_AT[sd], BEAT_AIM, NOTE_FRAMES - 2, tex=1, clr=rgb(255, 120, 220),
+              clr_anm=(rgb(255, 255, 255), rgb(240, 60, 200)), scl=1.0, emtr_life=5, gen=1, gen_intvl=2, radius=0,
+              alpha=(31, 31, 18), scl_anm=(.5, 1.3, 1.6, 60, 200), flick=0, flags_off=(1 << 15) | BILLBOARD | FIXED_ROT)
+        rot(b, rs, res, init=_angle(*aim_path(sd, BOX_AT[sd], BEAT_AIM)))
+    out[SOUNDWAVE] = bytes(b)
+    sign(BWOMP, ["BWOMP!"], fill=(255, 80, 200, 255), text=(255, 255, 255, 255))
+
+    # Squad Up (Double Team): the homies pop out of nowhere, one after another
+    b, rs = kit(SQUAD)
+    tex(b, 1, fxart.squad_hoodie())
+    tex(b, 0, fxart.soft_puff())
+    prop(b, rs, FIG, scl=1.45, life=56, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    prop(b, rs, FIG_S, scl=1.0, life=56, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    prop(b, rs, POOF, tex=0, clr=rgb(170, 150, 210), clr_anm=(rgb(240, 230, 255), rgb(110, 90, 150)), scl=.5, life=20,
+         emtr_life=2, gen=5, init_pos=1, radius=.6, vel=(.04, 0), alpha=(30, 24, 0), scl_anm=(.6, 1.3, 1.8, 40, 150),
+         air_resist=116)
+    prop(b, rs, 3, life=1)
+    out[SQUAD] = bytes(b)
+    b, rs = kit(SQUAD2)
+    tex(b, 0, fxart.squad_cap(), 30)
+    prop(b, rs, FIG2, scl=1.45, life=56, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    prop(b, rs, FIG2_S, scl=1.0, life=56, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    out[SQUAD2] = bytes(b)
+    sign(SQUADUP, ["SQUAD", "UP!"], fill=(150, 90, 240, 255), text=(255, 220, 40, 255))
+
+    # Water Bomb (Water Pulse): a water balloon lobbed - SPLOOSH - and they're dripping
+    b, rs = kit(BALLOON)
+    tex(b, 1, fxart.water_balloon(), 24)
+    tex(b, 0, fxart.droplet())
+    thrown(b, rs, .85, 0x0700)
+    water = rgb(80, 160, 255)
+    prop(b, rs, DROPS, tex=0, clr=water, clr_anm=(rgb(200, 235, 255), water), scl=.25, life=20, emtr_life=30, gen=1,
+         gen_intvl=3, init_pos=1, radius=.7, axis=(0, -1, 0), vel=(0, .025), alpha=(31, 31, 0))
+    prop(b, rs, 0, life=1)
+    out[BALLOON] = bytes(b)
+    b, rs = kit(DRENCH)
+    tex(b, 1, fxart.splash_crown())
+    tex(b, 0, fxart.droplet())
+    prop(b, rs, CROWN, scl=1.7, life=26, scl_anm=(.3, 1.15, 1.0, 25, 255), alpha=(31, 31, 0))
+    prop(b, rs, SPLASHDROPS, tex=0, clr=water, clr_anm=(rgb(220, 240, 255), water), scl=.3, life=26, emtr_life=2,
+         gen=8, init_pos=1, radius=.4, axis=(0, 1, 0), vel=(.06, .05), gravity=(0, -.004, 0), air_resist=126)
+    for res in (2, 3):
+        prop(b, rs, res, life=1)
+    out[DRENCH] = bytes(b)
+    sign(SPLOOSH, ["SPLOOSH!"], fill=(60, 150, 255, 255), text=(255, 255, 255, 255))
+
+    # Sneak Diss (Faint Attack): they vanish, "UR MID" pops up behind the target, and a palm comes down. OOOOH!
+    b, rs = kit(DISS)
+    tex(b, 0, fxart.diss_bubble(), 30)
+    prop(b, rs, POP, scl=1.3, life=40, scl_anm=(.2, 1.15, 1.0, 30, 255))
+    out[DISS] = bytes(b)
+    b, rs = kit(SLAP)
+    tex(b, 1, fxart.slap_hand())
+    tex(b, 0, fxart.pow_lines())
+    prop(b, rs, SLAP_POSE, scl=1.35, life=SWING_STEP)
+    prop(b, rs, SLAP_HOLD, scl=1.35, life=12)
+    prop(b, rs, POWS, tex=0, clr=rgb(255, 255, 255), clr_anm=(rgb(255, 255, 255), rgb(255, 220, 80)), scl=.9,
+         life=10, scl_anm=(.5, 1.3, 1.5, 60, 200), alpha=(31, 31, 0))
+    prop(b, rs, 3, life=1)
+    out[SLAP] = bytes(b)
+    sign(OOOH, ["OOOOH!"], fill=(255, 140, 30, 255), text=(255, 255, 255, 255))
+
+    # Dirty Sprite (Toxic): a double cup of purple drank, thrown - it splashes all over them and they're bubbling
+    b, rs = kit(CUP)
+    tex(b, 1, fxart.double_cup(), 24)
+    tex(b, 0, fxart.bubble())
+    prop(b, rs, HELD, scl=1.0, life=16, scl_anm=(.4, 1.1, 1.0, 30, 255))
+    thrown(b, rs, .9, 0x0900)
+    drank = rgb(170, 70, 235)
+    prop(b, rs, BUBBLES, tex=0, clr=drank, clr_anm=(rgb(230, 170, 255), rgb(120, 30, 190)), scl=.35, life=24,
+         emtr_life=34, gen=1, gen_intvl=2, init_pos=1, radius=.8, axis=(0, 1, 0), vel=(.008, .03),
+         scl_anm=(.4, 1.1, 1.3, 50, 200), alpha=(31, 31, 0), air_resist=126)
+    out[CUP] = bytes(b)
+    b, rs = kit(GOOP)
+    tex(b, 1, fxart.goop())
+    prop(b, rs, GOOP_SPLAT, tex=1, clr=drank, clr_anm=(rgb(220, 150, 255), drank), scl=.55, life=40, emtr_life=2,
+         gen=2, init_pos=1, radius=.4, axis=(0, 1, 0), vel=(.006, 0), gravity=(0, -.0003, 0),
+         scl_anm=(.4, 1.2, 1.0, 30, 200), air_resist=110)
+    prop(b, rs, GOOP_DRIPS, tex=1, clr=drank, clr_anm=(rgb(220, 150, 255), rgb(110, 30, 170)), scl=.4, life=30,
+         emtr_life=10, gen=1, gen_intvl=2, init_pos=1, radius=.8, axis=(0, -1, 0), vel=(.004, .008),
+         gravity=(0, -.0008, 0), air_resist=120)
+    out[GOOP] = bytes(b)
+    sign(DIRTY, ["DIRTY!"], fill=(150, 60, 220, 255), text=(120, 255, 90, 255))
+
+    # Duck n Cover (Protect): they duck behind a trash-can lid - everything pings off it. NOPE.
+    b, rs = kit(LID)
+    tex(b, 1, fxart.trash_lid())
+    tex(b, 0, fxart.ping())
+    prop(b, rs, LIDUP, scl=1.35, life=56, scl_anm=(.3, 1.15, 1.0, 25, 255))
+    prop(b, rs, LIDFLASH, scl=1.35, life=10, scl_anm=(1.0, 1.3, 1.5, 0, 120), alpha=(26, 16, 0))
+    prop(b, rs, PINGS, tex=0, clr=rgb(255, 255, 200), clr_anm=(rgb(255, 255, 255), rgb(255, 210, 60)), scl=.45,
+         life=10, emtr_life=1, gen=1, scl_anm=(.3, 1.4, .6, 50, 160), alpha=(31, 31, 0))
+    prop(b, rs, 3, life=1)
+    out[LID] = bytes(b)
+    sign(NOPE, ["NOPE."], fill=(110, 200, 255, 255), text=(225, 25, 25, 255))
+
+    # Smackdown (Take Down): they charge in with a folding chair - CLANG - and see stars from the recoil
+    b, rs = kit(CHAIR)
+    tex(b, 1, fxart.folding_chair())
+    tex(b, 0, fxart.star5())
+    prop(b, rs, CHAIR_POSE, scl=1.5, life=SWING_STEP)
+    prop(b, rs, CHAIR_HOLD, scl=1.5, life=12)
+    prop(b, rs, STARS, tex=0, clr=rgb(255, 230, 60), clr_anm=(rgb(255, 255, 200), rgb(255, 200, 30)), scl=.35,
+         life=7, alpha=(31, 31, 31))
+    prop(b, rs, 3, life=1)
+    out[CHAIR] = bytes(b)
+    b, rs = kit(CLANG)
+    tex(b, 0, fxart.impact_burst(), 30)
+    prop(b, rs, POP, scl=1.6, life=12, scl_anm=(.3, 1.2, 1.0, 40, 255), alpha=(31, 31, 0))
+    out[CLANG] = bytes(b)
+    sign(SMACKDN, ["SMACK", "DOWN!"], fill=(230, 30, 30, 255), text=(255, 230, 40, 255))
+
+    # Big Taser (Thunderbolt): an XL taser held high, crackling - then a giant bolt drops out of the sky on them
+    b, rs = kit(BIGTASER)
+    tex(b, 1, fxart.big_taser())
+    tex(b, 0, fxart.zigzag())
+    prop(b, rs, BIG_E, scl=1.4, life=52, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    prop(b, rs, BIG_P, scl=1.4, life=52, scl_anm=(.3, 1.1, 1.0, 30, 255))
+    rot(b, rs, BIG_P, init=0x8000)
+    prop(b, rs, ZIGS, tex=0, clr=rgb(255, 240, 80), clr_anm=(rgb(255, 255, 255), rgb(120, 200, 255)), scl=.45,
+         life=4, emtr_life=24, gen=2, init_pos=1, radius=.9, alpha=(31, 31, 31), flags_on=(1 << 14) | (1 << 13))
+    prop(b, rs, 3, life=1)
+    out[BIGTASER] = bytes(b)
+    b, rs = kit(MEGABOLT)
+    tex(b, 0, fxart.mega_bolt(), 30)
+    prop(b, rs, STRIKE, scl=2.2, life=24, flick=90)
+    prop(b, rs, STRIKE2, scl=1.5, life=10, flick=140)
+    rot(b, rs, STRIKE2, init=0x0E00)
+    out[MEGABOLT] = bytes(b)
+    sign(BZZT, ["BZZZT!!"], fill=(255, 225, 30, 255), text=(40, 60, 230, 255))
+
+    # Clock It (Foresight): side-eye... then the thumbnail red circle and arrow on them. U GOT CLOCKED
+    b, rs = kit(EYES)
+    tex(b, 1, fxart.side_eye())
+    prop(b, rs, EYES_R, scl=1.2, life=6)
+    prop(b, rs, EYES_L, scl=1.2, life=6)
+    rot(b, rs, EYES_L, init=0x8000)
+    for res in (0, 3):
+        prop(b, rs, res, life=1)
+    out[EYES] = bytes(b)
+    b, rs = kit(CIRCLE)
+    tex(b, 0, fxart.clocked_circle(), 30)
+    prop(b, rs, POP, scl=2.0, life=46, scl_anm=(1.6, .95, 1.0, 20, 255))
+    out[CIRCLE] = bytes(b)
+    sign(CLOCKED, ["U GOT", "CLOCKED"], fill=(255, 255, 255, 255), text=(230, 20, 20, 255))
+    # the donors tile their small textures 2x2 (or 2x1) mirrored - quarters of a shape; set 5's are whole shapes
+    for ps in range(TORCH, CLOCKED + 1):
+        b = bytearray(out[ps])
+        for r in spa.resources(bytes(b)):
+            b[r["off"] + TILE] &= 0xF0
+        out[ps] = bytes(b)
+
     # (TRACER and the THROWN objects aren't listed: MoveEmitter deletes them when the flight ends, so they must
     #  NOT self-destruct - see below)
     for ps, res in ((GUN, SPARK), (GUN, FLASH), (KIT, CASING), (KIT, CROSS), (SMOKE, PUFF),
@@ -947,12 +1218,25 @@ def build_files(files):
                     (TIRE, TIRE_UP), (TIRE, TIRE_FLAT), (TIRE, HISS), (SMOG, SMOG1), (SMOG, SMOG2), (COUGH, PUFFUP),
                     (WHEEL, SPIN), (WHEEL, SMOKE1), (BLOCKS, HALF_L), (BLOCKS, HALF_R), (BLOCKS, CHUNKS), (CHOP, POSE), (CHOP, HOLD), (HIYAH, POP),
                     (EIGHT, CHARGE), (EIGHT, WISPS), (ANSWER, POP), (HEART, LOCKET), (HEART, HEARTS_E),
-                    (HEART, HEARTS_P)):
+                    (HEART, HEARTS_P),
+                    (TORCH, TORCH_E), (TORCH, TORCH_P), (TORCH, SWIRL), (BEAM, BEAM_E), (BEAM, BEAM_P), (HUH, POP),
+                    (STUN, STUN_E), (STUN, STUN_P), (STUN, ARC_E), (STUN, ARC_P), (STATIC, RING_X),
+                    (STATIC, RING_HOLD), (ZZZT, POP), (BOOMBOX, BOX5), (BOOMBOX, THUMP), (BOOMBOX, NOTES_E),
+                    (BOOMBOX, NOTES_P), (SOUNDWAVE, SWAVE_E), (SOUNDWAVE, SWAVE_P), (BWOMP, POP), (SQUAD, FIG),
+                    (SQUAD, FIG_S), (SQUAD, POOF), (SQUAD2, FIG2), (SQUAD2, FIG2_S), (SQUADUP, POP),
+                    (BALLOON, DROPS), (DRENCH, CROWN), (DRENCH, SPLASHDROPS), (SPLOOSH, POP), (DISS, POP),
+                    (SLAP, SLAP_POSE), (SLAP, SLAP_HOLD), (SLAP, POWS), (OOOH, POP), (CUP, HELD), (CUP, BUBBLES),
+                    (GOOP, GOOP_SPLAT), (GOOP, GOOP_DRIPS), (DIRTY, POP), (LID, LIDUP), (LID, LIDFLASH),
+                    (LID, PINGS), (NOPE, POP), (CHAIR, CHAIR_POSE), (CHAIR, CHAIR_HOLD), (CHAIR, STARS),
+                    (CLANG, POP), (SMACKDN, POP), (BIGTASER, BIG_E), (BIGTASER, BIG_P), (BIGTASER, ZIGS),
+                    (MEGABOLT, STRIKE), (MEGABOLT, STRIKE2), (BZZT, POP), (EYES, EYES_R), (EYES, EYES_L),
+                    (CIRCLE, POP), (CLOCKED, POP)):
         flag = spa.resources(out[ps])[res]["flag"]
         assert flag >> 14 & 1, f"kit {ps} emitter {res} never finishes (no self_dest): WaitForParticles would hang"
     for ps, res in ((GUN, TRACER), (BOTTLE, THROWN), (BRICK, THROWN), (EGG, THROWN), (BUBBLE, TALK),
                     (CONE, THROWN), (BOOZE, THROWN),
-                    (WHEEL, ROLL), (TRAIL, FIRETRAIL), (EIGHT, ROLL8), (HEART, SLAM)):
+                    (WHEEL, ROLL), (TRAIL, FIRETRAIL), (EIGHT, ROLL8), (HEART, SLAM),
+                    (BALLOON, THROWN), (CUP, THROWN)):
         flag = spa.resources(out[ps])[res]["flag"]
         assert not flag >> 14 & 1, f"kit {ps} emitter {res} is flown by MoveEmitter: it must not self-destruct"
     return out
@@ -1000,7 +1284,9 @@ def _ps(kit):
 
 
 def emit_at(ps, res, who, off=(0, 0)):
-    """Emitter at the attacker (who=0) or defender (who=1) plus an offset in screen pixels (y up)."""
+    """Emitter at the attacker (who=0) or defender (who=1) plus an offset in screen pixels (y up).
+    (Particles always draw over the Pokémon: their sprites sit at the back of the depth range and draw first, as
+    opaque polygons - no depth or alpha puts a particle behind one.)"""
     if off == (0, 0):
         return [46, _ps(ps), res, 3 if who == 0 else 4]
     sx, sy = PS_SCALE.get(ps, SCALE)[_depth(who)]
@@ -1699,12 +1985,215 @@ def _chain_dangle(side, s):
     return _chain_swing(side, s, swings=2, dark=False)
 
 
+# ------------------------------------------------------------------ set 5: the everyday moves
+
+def _flashlight(side, s):
+    """Confuse Ray (Flashlight): lights out - *click* - a flashlight right in their eyes. Swirly-eyed. HUH?!"""
+    sx = 1 if side == "player" else -1
+    _, _, beam, _ = torch_geometry(side)
+    night = rgb(5, 5, 25)
+    w = func(33, 0, 1, 0, 12, night) + wait(4)
+    w += emit_at(TORCH, TORCH_E if side == "player" else TORCH_P, 0, TORCH_AT[side]) + se(s["confuse"]) + wait(8)
+    w += emit_at(BEAM, BEAM_E if side == "player" else BEAM_P, 0, beam) + flash_screen(3)       # *click*
+    w += func(34, 8, 0, 2, rgb(255, 255, 220), 15, 0) + func(36, 2, 0, 1, 4, 264) + wait(10)   # blinded
+    w += se(s["confuse2"]) + emit_at(TORCH, SWIRL, 1, (-7, 24)) + emit_at(TORCH, SWIRL, 1, (7, 24))
+    w += func(4, 0, 0x0900, 10, 0) + wait(8)
+    w += emit_at(HUH, POP, 1, (sx * -30, 58)) + wait(8)
+    w += func(4, 0, 0x0900, 10, 2) + se(s["confuse2"]) + wait(14)
+    w += func(33, 0, 1, 12, 0, night) + wait(6)
+    return w
+
+
+def _stun_taser(side, s):
+    """Thunder Wave (Stun Taser): the stun gun snaps, crackles shoot over, rings of static lock them up stiff."""
+    sx = 1 if side == "player" else -1
+    w = emit_at(STUN, STUN_E if side == "player" else STUN_P, 0, STUN_AT[side]) + se(s["twave"]) + wait(6)
+    w += emit_at(STUN, ARC_E if side == "player" else ARC_P, 0, STUN_TIP[side]) + func(9)
+    w += wait_frames(STUN_FRAMES + 4)
+    w += se(s["twave2"]) + emit_at(STATIC, RING_X, 1, (0, 20)) + emit_at(STATIC, RING_HOLD, 1, (0, 20))
+    w += flash_screen(3)
+    for k in range(9):                                                       # locked up, twitching (ends lit)
+        if k in (2, 5):
+            w += emit_at(STATIC, RING_X, 1, (0, 20))
+        if k == 3:
+            w += se(s["twave2"]) + emit_at(ZZZT, POP, 1, (sx * -30, 58))
+        w += func(34, 8, 0, 1, rgb(255, 255, 80) if k % 2 == 0 else rgb(30, 30, 70), 14, 0)
+        w += func(36, 2, 0, 1, 2, 264) + wait(2)
+    w += func(36, 1, 0, 1, 8, 264) + wait(14)
+    return w
+
+
+def _bass_boost(side, s):
+    """Supersonic (Bass Boost): a boombox up on their shoulder, bass so heavy the target's head rattles."""
+    sx = 1 if side == "player" else -1
+    at = BOX_AT[side]
+    notes, wave = (NOTES_E, SWAVE_E) if side == "player" else (NOTES_P, SWAVE_P)
+    w = emit_at(BOOMBOX, BOX5, 0, at) + wait(8)
+    for k in range(4):                                                       # BWOMP. BWOMP. BWOMP. BWOMP.
+        w += se(s["bass"]) + emit_at(BOOMBOX, THUMP, 0, at) + emit_at(SOUNDWAVE, wave, 0, at)
+        if k % 2 == 0:
+            w += emit_at(BOOMBOX, notes, 0, at)
+        w += func(68, 2, 1, 1, 2, 0) + func(36, 1, 1, 1, 2, 258)
+        if k:
+            w += func(4, 0, 0x0A00, 4, 0 if k % 2 else 2)                    # head bobbing (it can't help it)
+        w += wait(5)
+    w += emit_at(BWOMP, POP, 1, (sx * -30, 58)) + func(68, 4, 2, 1, 3, 0) + shake_defender(3, 5)
+    w += func(34, 8, 0, 2, rgb(255, 120, 220), 12, 0) + wait(16)
+    return w
+
+
+SQUAD_SPOTS = {"player": [(-44, 6), (46, 6), (98, 58)], "enemy": [(42, 4), (-42, 4), (-78, 12)]}
+#                 (the player's third homie: back row, smaller, standing up above the HP box - it draws over him)
+
+
+def _squad_up(side, s):
+    """Double Team (Squad Up): poof, poof, poof - the whole squad's standing behind them. SQUAD UP!"""
+    big = side == "player"                                                   # near side: the homies are bigger
+    figs = [(SQUAD, FIG if big else FIG_S), (SQUAD2, FIG2 if big else FIG2_S), (SQUAD, FIG_S)]
+    dim = rgb(40, 20, 70)
+    w = func(33, 0, 1, 0, 8, dim) + se(s["dteam"]) + func(19)
+    for k, (x, y) in enumerate(SQUAD_SPOTS[side]):
+        w += emit_at(SQUAD, POOF, 0, (x, y)) + emit_at(*figs[k], 0, (x, y))
+        if k == 2:
+            w += se(s["dteam"])
+        w += wait(3)
+    w += shake_attacker(2, 8) + emit_at(SQUADUP, POP, 0, (0, 62 if big else 50)) + wait(14)
+    for x, y in SQUAD_SPOTS[side]:                                           # ...and they're gone
+        w += emit_at(SQUAD, POOF, 0, (x, y)) + wait(3)
+    w += wait(6) + func(33, 0, 1, 8, 0, dim) + wait(4)
+    return w
+
+
+def _water_bomb(side, s):
+    """Water Pulse (Water Bomb): a water balloon lobbed right on them. SPLOOSH. Dripping and dazed."""
+    sx = 1 if side == "player" else -1
+    blue = rgb(60, 140, 255)
+    w = func(19) + se(s["wpulse"]) + wait(4) + _throw(BALLOON, 1, (0, 16)) + wait_frames(THROW_FRAMES)
+    w += se(s["wpulse2"]) + emit_at(DRENCH, CROWN, 1, (0, 14)) + emit_at(DRENCH, SPLASHDROPS, 1, (0, 22))
+    w += flash_screen(3) + func(34, 8, 0, 2, blue, 14, 0) + shake_defender(3, 4) + wait(4)
+    w += emit_at(SPLOOSH, POP, 1, (sx * -30, 58)) + emit_at(BALLOON, DROPS, 1, (0, 14)) + wait(8)
+    w += func(4, 0, 0x0700, 10, 0) + wait(10) + func(4, 0, 0x0700, 10, 2) + wait(14)
+    return w
+
+
+def _sneak_diss(side, s):
+    """Faint Attack (Sneak Diss): they vanish - "UR MID" pops up behind the target - and a palm comes down on the
+    back of their head. OOOOH!"""
+    sx = 1 if side == "player" else -1
+    w = se(s["faint"]) + func(36, 2, 0, 1, 3, 258) + wait(4) + func(40, 2, 1) + wait(8)      # gone
+    w += emit_at(DISS, POP, 1, (sx * 26, 42)) + se(s["leer"]) + wait(6)                    # from behind them
+    w += func(4, 0, 0x0800, 8, 0) + wait(12)                                                # ...huh?
+    w += stop_motion(SLAP, SLAP_POSE, 1, (sx * 14, 96), (sx * 4, 40), 4)
+    w += emit_at(SLAP, SLAP_HOLD, 1, (sx * 4, 38)) + se(s["bonk"]) + emit_at(SLAP, POWS, 1, (0, 34))
+    w += flash_screen(4) + func(48) + shake_defender(4, 3) + bmove(side, 264, 3, 0, -6) + wait(4)
+    w += emit_at(OOOH, POP, 1, (sx * -32, 56)) + func(4, 0, 0x0800, 8, 2) + bmove(side, 264, 6, 0, 6) + wait(14)
+    w += func(40, 2, 0) + func(36, 2, 0, 1, 3, 258) + wait(8)                               # back, innocent
+    return w
+
+
+def _dirty_sprite(side, s):
+    """Toxic (Dirty Sprite): a double cup of the purple stuff - thrown. It's all over them and they're bubbling."""
+    sx = 1 if side == "player" else -1
+    purple = rgb(160, 60, 230)
+    w = emit_at(CUP, HELD, 0, (sx * 22, 30)) + se(s["toxic"]) + func(19) + wait(8)
+    w += _throw(CUP, 1, (0, 18)) + wait_frames(THROW_FRAMES)
+    w += se(s["splat"]) + emit_at(GOOP, GOOP_SPLAT, 1, (0, 22)) + emit_at(GOOP, GOOP_DRIPS, 1, (0, 18))
+    w += func(34, 8, 0, 2, purple, 14, 0) + shake_defender(3, 3) + wait(4)
+    w += emit_at(CUP, BUBBLES, 1, (0, 10)) + se(s["toxic2"]) + emit_at(DIRTY, POP, 1, (sx * -30, 58))
+    for k in range(3):                                                       # badly poisoned: pulsing purple
+        w += func(34, 8, 0, 1, purple, 12, 0) + func(36, 2, 0, 1, 2, 264) + wait(6)
+        if k == 1:
+            w += se(s["toxic2"])
+    return w + wait(12)
+
+
+def _duck_n_cover(side, s):
+    """Protect (Duck n Cover): they duck behind a trash-can lid and everything pings right off it. NOPE."""
+    sx = 1 if side == "player" else -1
+    # the enemy holds it up in front of itself; the player's Pokémon (seen from behind) holds it out towards
+    # the foe, up in the middle of the screen - drawn over their back it'd look like it was behind them
+    at = LID_AT[side]
+    w = bmove(side, 258, 3, 0, -10) + emit_at(LID, LIDUP, 0, at) + se(s["protect"]) + wait(6)   # duck!
+    w += emit_at(LID, LIDFLASH, 0, at) + flash_screen(3) + func(34, 2, 0, 1, rgb(200, 230, 255), 12, 0) + wait(5)
+    for dx, dy in ((10, 14), (-8, 4), (6, -10)):                             # ping. ping. ping.
+        w += emit_at(LID, PINGS, 0, (at[0] + sx * dx, at[1] + dy)) + se(s["bling"])
+        w += func(36, 1, 0, 1, 2, 258) + wait(4)
+    w += emit_at(NOPE, POP, 0, (at[0] + sx * 4, 58)) + wait(14)
+    w += bmove(side, 258, 6, 0, 10) + wait(8)
+    return w
+
+
+def _smackdown(side, s):
+    """Take Down (Smackdown): they charge in with a steel folding chair - CLANG - and stagger back seeing stars."""
+    sx = 1 if side == "player" else -1
+    w = bmove(side, 258, 4, -8, -4) + se(s["tdown"]) + wait(6)               # winding up
+    w += bmove(side, 258, 6, 72, 36) + wait(6)                               # CHARGE
+    w += stop_motion(CHAIR, CHAIR_POSE, 1, (sx * -20, 100), (0, 40), 4)
+    w += emit_at(CHAIR, CHAIR_HOLD, 1, (0, 36)) + se(s["tdown2"]) + emit_at(CLANG, POP, 1, (0, 24))
+    w += emit_at(SMACKDN, POP, 1, (sx * -36, 62)) + flash_screen(8) + func(48) + shake_defender(6, 4)
+    w += func(68, 5, 3, 1, 4, 0) + bmove(side, 264, 3, 0, -8) + wait(8)
+    w += bmove(side, 264, 8, 0, 8) + bmove(side, 258, 8, -64, -32) + wait(10)               # back off
+    w += se(s["bonk"]) + shake_attacker(2, 4)                                                # the recoil
+    for k in range(10):                                                      # seeing stars
+        a = k * math.pi / 4
+        for ph in (0, math.pi):
+            w += emit_at(CHAIR, STARS, 0, (round(14 * math.cos(a + ph)), round(44 + 4 * math.sin(a + ph))))
+        w += wait(2)
+    return w + wait(4)
+
+
+def _big_taser(side, s):
+    """Thunderbolt (Big Taser): an XL taser held up high, crackling - and a giant bolt drops out of the sky."""
+    sx = 1 if side == "player" else -1
+    night = rgb(10, 10, 40)
+    at = (sx * 18, 58)
+    w = func(33, 0, 1, 0, 12, night) + emit_at(BIGTASER, BIG_E if side == "player" else BIG_P, 0, at) + wait(6)
+    w += emit_at(BIGTASER, ZIGS, 0, at) + se(s["tbolt"]) + shake_attacker(1, 14) + wait(14)   # charging up
+    w += emit_at(MEGABOLT, STRIKE, 1, (0, 54)) + se(s["tbolt2"]) + flash_screen(8)            # KRAKOOM
+    w += emit_at(MEGABOLT, STRIKE2, 1, (sx * 10, 70)) + emit_at(BIGTASER, ZIGS, 1, (0, 16))
+    for k in range(9):                                                       # (ends on the lit step)
+        if k == 2:
+            w += emit_at(BZZT, POP, 1, (sx * -34, 60))
+        if k == 4:
+            w += emit_at(MEGABOLT, STRIKE2, 1, (sx * -12, 66)) + flash_screen(3) + se(s["tbolt2"])
+        w += func(34, 8, 0, 1, rgb(255, 250, 90) if k % 2 == 0 else rgb(0, 0, 0), 16, 0)
+        w += func(36, 2, 1, 1, 2, 264) + wait(2)
+    w += func(48) + wait(10) + func(33, 0, 1, 12, 0, night) + wait(6)
+    return w
+
+
+def _clock_it(side, s):
+    """Foresight (Clock It): the eyes emoji over their head, looking away... looking away... SNAP - right at the
+    target. BWOMM: red circle, red arrow, U GOT CLOCKED."""
+    sx = 1 if side == "player" else -1
+    at = (sx * 4, 62)
+    look_at, look_away = (EYES_R, EYES_L) if side == "player" else (EYES_L, EYES_R)
+    w = se(s["clock"])
+    for k in range(5):                                                       # whistling, minding their business
+        w += emit_at(EYES, look_away, 0, (at[0] - sx * (k % 2), at[1])) + wait(2)
+    w += se(s["leer"])
+    for k in range(5):                                                       # ...wait.
+        w += emit_at(EYES, look_at, 0, (at[0] + sx * (2 if k == 0 else 0), at[1])) + wait(2)
+    w += se(s["vineboom"]) + emit_at(CIRCLE, POP, 1, (sx * -2, 16)) + flash_screen(4)       # BWOMM
+    w += func(68, 6, 3, 1, 3, 0) + func(33, 0, 1, 0, 6, rgb(60, 0, 0))
+    for k in range(8):                                                       # staring them down the whole time
+        w += emit_at(EYES, look_at, 0, at) + wait(2)
+        if k == 2:
+            w += emit_at(CLOCKED, POP, 1, (sx * -34, 62)) + shake_defender(2, 4)
+    for k in range(6):
+        w += emit_at(EYES, look_at, 0, at) + wait(2)
+    w += func(33, 0, 1, 6, 0, rgb(60, 0, 0)) + wait(6)
+    return w
+
+
 VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dangle, 9: _payday, 10: _full_auto, 11: _rpg,
             12: _molotov, 13: _brick, 14: _egg, 15: _hose, 16: _bat, 17: _taser, 18: _car_alarm, 19: _bass_drop,
             20: _hot_shot, 21: _stare_down, 22: _talk_trash, 23: _pocket_sand, 24: _fan_blast,
             25: _catch_flight, 26: _hydrant_wave, 27: _power_line, 28: _road_rage, 29: _molotov2, 30: _zaza_leaf,
             31: _stomp_out, 32: _grill_chomp, 33: _hollow_point, 34: _switchblade, 35: _hot_box, 36: _burnout,
-            37: _hi_yah, 38: _magic_8ball, 39: _loyalty, 1: _sniper, 2: _shotgun, 3: _spray, 4: _point_blank, 5: _gangsta, 6: _drive_by}
+            37: _hi_yah, 38: _magic_8ball, 39: _loyalty,
+            40: _flashlight, 41: _stun_taser, 42: _bass_boost, 43: _squad_up, 44: _water_bomb, 45: _sneak_diss,
+            46: _dirty_sprite, 47: _duck_n_cover, 48: _smackdown, 49: _big_taser, 50: _clock_it, 1: _sniper, 2: _shotgun, 3: _spray, 4: _point_blank, 5: _gangsta, 6: _drive_by}
 
 
 # particle kits each animation uses: the battle heap only fits a few particle systems at once
@@ -1716,7 +2205,10 @@ KITS = {97: (PLANE, WHAM), 99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE), 2: (GUN
         24: (FAN, WIND), 25: (PLANE, WHAM), 26: (WAVE, DUCK), 27: (CABLE, XRAY), 28: (HONK, CONE),
         29: (BOOZE, BREATH, BURST), 30: (LEAF, HAZE), 31: (BOOT, STOMP), 32: (TOPJAW, BOTJAW, GLITZ),
         33: (SLUG, GUN), 34: (SLASH, TIRE), 35: (SMOG, COUGH), 36: (WHEEL, TRAIL, BURST),
-        37: (BLOCKS, CHOP, HIYAH), 38: (EIGHT, ANSWER), 39: (HEART,)}
+        37: (BLOCKS, CHOP, HIYAH), 38: (EIGHT, ANSWER), 39: (HEART,),
+        40: (TORCH, BEAM, HUH), 41: (STUN, STATIC, ZZZT), 42: (BOOMBOX, SOUNDWAVE, BWOMP),
+        43: (SQUAD, SQUAD2, SQUADUP), 44: (BALLOON, DRENCH, SPLOOSH), 45: (DISS, SLAP, OOOH), 46: (CUP, GOOP, DIRTY),
+        47: (LID, NOPE), 48: (CHAIR, CLANG, SMACKDN), 49: (BIGTASER, MEGABOLT, BZZT), 50: (EYES, CIRCLE, CLOCKED)}
 
 
 def variant(k, sounds):

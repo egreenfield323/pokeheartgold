@@ -38,8 +38,11 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
            "bass": 1973, "crack": 2005, "ember": 1937, "leer": 1930, "sand": 1923, "gust": 2043,
            "jet": 2064, "surf": 1944, "splash": 1945, "thunder": 2007, "rage": 1967, "flame": 2124, "leaf": 2121,
            "razor": 1885, "bite": 1934, "crunch": 1972, "slash": 1910, "smoke": 1983, "cough": 1924, "burn": 2010,
-           "burn2": 2011, "chop": 2039, "shadow": 1923, "shadow2": 1903, "loyal": 1928, "loyal2": 1920}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock, Screech,
-#                                            Earthquake, Bone Club
+           "burn2": 2011, "chop": 2039, "shadow": 1923, "shadow2": 1903, "loyal": 1928, "loyal2": 1920,
+           "confuse": 1855, "confuse2": 1838, "twave": 1970, "twave2": 1952, "dteam": 1836,
+           "wpulse": 1999, "wpulse2": 2023, "faint": 1838, "toxic": 1859, "toxic2": 1979, "protect": 1990,
+           "tdown": 1925, "tdown2": 1847, "tbolt": 2114, "tbolt2": 1952, "clock": 1841, "vineboom": 1973}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
+#                                            Screech, Earthquake, Bone Club, ...
 
 
 # original move name (msg_0750) -> gunfx variant
@@ -49,7 +52,8 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   19 bass drop, 20 hot shot, 21 stare down, 22 talk trash, 23 pocket sand, 24 fan blast, 25 catch flight,
 #   26 hydrant wave, 27 power line, 28 road rage, 29 fire breath (Molotov), 30 zaza leaf, 31 stomp out,
 #   32 grill chomp, 33 hollow point, 34 switchblade, 35 hot box, 36 burnout, 37 hi-yah chop, 38 magic 8-ball,
-#   39 loyalty
+#   39 loyalty, 40 flashlight, 41 stun taser, 42 bass boost, 43 squad up, 44 water bomb, 45 sneak diss,
+#   46 dirty sprite, 47 duck n cover, 48 smackdown, 49 big taser, 50 clock it
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
@@ -71,6 +75,8 @@ MOVES = {
     "Fly": 25, "Surf": 26, "Thunder": 27, "Dragon Rage": 28, "Flamethrower": 29, "Razor Leaf": 30, "Pound": 31,
     "Bite": 32, "Crunch": 33, "Slash": 34, "SmokeScreen": 35, "Flame Wheel": 36, "Brick Break": 37,
     "Shadow Ball": 38, "Return": 39,
+    "Confuse Ray": 40, "Thunder Wave": 41, "Supersonic": 42, "Double Team": 43, "Water Pulse": 44,
+    "Faint Attack": 45, "Toxic": 46, "Protect": 47, "Take Down": 48, "Thunderbolt": 49, "Foresight": 50,
 }
 
 
@@ -145,7 +151,7 @@ def patch(rom):
 
 # the showcase pads these archives (with a trailing filler member nothing loads) to fixed sizes
 SDAT_SIZE = 9_200_000
-FIXED_SIZE = {"a/0/1/0": 600_000, "a/0/2/9": 2_700_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
+FIXED_SIZE = {"a/0/1/0": 600_000, "a/0/2/9": 2_900_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
               "a/0/8/1": 5_832_704,
               # everything else the build touches (text, learnsets, trainers, icons, title, intro, item icons)
               "a/0/2/7": 5_111_808, "a/0/0/2": 65_536, "a/0/3/3": 65_536, "a/0/5/8": 1_835_008, "a/2/5/6": 655_360, "a/2/4/8": 196_608, "a/0/2/0": 655_360, "a/0/4/6": 917_504, "a/1/7/4": 589_824, "a/0/1/8": 524_288, "a/1/2/0": 196_608}
@@ -166,7 +172,9 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     for i, ps in enumerate(gunfx.DONOR):
         gunfx.LOAD[ps] = first + i
     head, calls, subs = [], [], []
-    order = order or sorted(set(MOVES.values()))
+    if not order:                              # every effect - and Fly's second turn (97) right after its first,
+        order = sorted(set(MOVES.values()))    # or the attacker stays vanished for the rest of the reel
+        order.insert(order.index(25) + 1, 97)
     for _ in order:
         head += [0, 40, 10, 0]                                 # Wait 40; Call ->
         calls.append(len(head) - 1)
