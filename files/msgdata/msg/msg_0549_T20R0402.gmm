@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0549_T20R0402_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Aye pimp! {STRVAR_1 3, 0, 0}!\rElm was lookin’ for you.\nYou slide to the lab yet?</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rLyra: Aye pimp! {STRVAR_1 3, 0, 0}!\rElm was lookin’ for you.\nYou slide to the lab yet?</language>
 	</row>
 	<row id="msg_0549_T20R0402_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

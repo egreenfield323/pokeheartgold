@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0548_T20R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin’ 2K with her\nPokémon. As usual.\rYou ain’t got no...Pokémon?\n...Oh. My bad.\rYou ain’t got a homie yet.\rI ain’t mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rAyo, {STRVAR_1 3, 0, 0}!\nLyra upstairs.\rShe up there playin’ 2K with her\nPokémon. As usual.\rYou ain’t got no...Pokémon?\n...Oh. My bad.\rYou ain’t got a homie yet.\rI ain’t mean to hurt your\nfeelings, {STRVAR_1 3, 0, 0}. Mostly.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

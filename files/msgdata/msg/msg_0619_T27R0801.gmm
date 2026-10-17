@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0619_T27R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah. You’re on an adventure with\nyour Pokémon?\rWell, what’s an adventure without\ntreasure hunting?\rAm I right, or am I right? {YESNO 0}</language>
+		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\rAh. You’re on an adventure with\nyour Pokémon?\rWell, what’s an adventure without\ntreasure hunting?\rAm I right, or am I right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0619_T27R0801_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">History of Ecruteak\rWant to read it? {YESNO 0}</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rHistory of Ecruteak\rWant to read it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0634_T30R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRAGONAIR’s cute, but I don’t have\nit. Do you have DRAGONAIR㊛?\rWant to trade it for my DODRIO? {YESNO 0}</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rDRAGONAIR’s cute, but I don’t have\nit. Do you have DRAGONAIR㊛?\rWant to trade it for my DODRIO? {YESNO 0}</language>
 	</row>
 	<row id="msg_0634_T30R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0634_T30R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh?\nYour {STRVAR_1 0, 0, 0}...\r</language>
+		<language name="English">You came through the window,\ndidn’t you? I see the mud.\rOh?\nYour {STRVAR_1 0, 0, 0}...\r</language>
 	</row>
 	<row id="msg_0634_T30R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0489_T06R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know about the Magnet Train?\rIt’s a railway that connects\nKanto and Johto.</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rDo you know about the Magnet Train?\rIt’s a railway that connects\nKanto and Johto.</language>
 	</row>
 	<row id="msg_0489_T06R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

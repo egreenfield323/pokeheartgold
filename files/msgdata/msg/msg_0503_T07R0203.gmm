@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0503_T07R0203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you did it!\nYou have filled up the\fJohto Pokédex!\rImpressive! I’m amazed!\nI will reward you for that!\fSeriously!\r</language>
+		<language name="English">Who let you in?! You got five\nseconds before I call my cousin.\rSheesh, you did it!\nYou have filled up the\fJohto Pokédex!\rImpressive! I’m amazed!\nI will reward you for that!\fSeriously!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0503_T07R0203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Graphic Designer!\nI am a skilled dot artist!</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rI am the Graphic Designer!\nI am a skilled dot artist!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Programmer!\rI control the world of games\nwith my fingertip!</language>
+		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\rI am the Programmer!\rI control the world of games\nwith my fingertip!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Planner!\nI come up with great ideas!\rThis place you’re standing\nhere is no exception! Hahaha!</language>
+		<language name="English">How’d you even get in here?!\nI keep a bat by the door, bro.\rI am the Planner!\nI come up with great ideas!\rThis place you’re standing\nhere is no exception! Hahaha!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -87,6 +87,6 @@
 	</row>
 	<row id="msg_0503_T07R0203_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think?\rI am the President here.\rWe are remaking an old game,\nbut this is quite a challenge.\rOld fans would not want us to mess\nwith their good memories...\fbut there is no point in just\fredoing the same thing, right?\rWe are working toward something\nthat brings back memories,\fyet is also completely new!\rI’ve been in this business for 20 years\nnow, but creating a game is always a\frewarding challenge!</language>
+		<language name="English">Bro picked the lock...\nYou got some nerve, kid.\rWhat do you think?\rI am the President here.\rWe are remaking an old game,\nbut this is quite a challenge.\rOld fans would not want us to mess\nwith their good memories...\fbut there is no point in just\fredoing the same thing, right?\rWe are working toward something\nthat brings back memories,\fyet is also completely new!\rI’ve been in this business for 20 years\nnow, but creating a game is always a\frewarding challenge!</language>
 	</row>
 </body>

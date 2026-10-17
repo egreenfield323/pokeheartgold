@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0635_T30R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um...\nWho did you say I was again?\r...\n...\rOh, yes, I remember now!\nI’m the Move Deleter!\r</language>
+		<language name="English">Who let you in?! You got five\nseconds before I call my cousin.\rUm...\nWho did you say I was again?\r...\n...\rOh, yes, I remember now!\nI’m the Move Deleter!\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha! That’s it! That’s an honest-to-\ngoodness Heart Scale!\rLet me guess, you want me to teach\none of your Pokémon a move?\r</language>
+		<language name="English">Yo, you broke in?! I’m calling\nthe cops AND my mama.\rHa! That’s it! That’s an honest-to-\ngoodness Heart Scale!\rLet me guess, you want me to teach\none of your Pokémon a move?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your quest for power has brought\nyou here...\rVery well.\rLet me reward your passion with some\nabsolutely astounding moves.\rThey’re the ultimate moves!\rShall I teach them to\nyour Pokémon? {YESNO 0}</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rYour quest for power has brought\nyou here...\rVery well.\rLet me reward your passion with some\nabsolutely astounding moves.\rThey’re the ultimate moves!\rShall I teach them to\nyour Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -269,7 +269,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To the Pokémon listed here,\nthe ultimate moves may be taught!\rThe blazing Fire-type Pokémon\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rThe restless Water-type Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rThe quiet Grass-type Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rTo the Pokémon listed here,\nthe ultimate moves may be taught!\rThe blazing Fire-type Pokémon\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rThe restless Water-type Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rThe quiet Grass-type Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
 	</row>
 	<row id="msg_0635_T30R0601_00062" index="62">
 		<attribute name="window_context_name">used</attribute>

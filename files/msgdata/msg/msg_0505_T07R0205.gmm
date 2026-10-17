@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0505_T07R0205_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me recount a terrifying tale...\r</language>
+		<language name="English">Yo, you broke in?! I’m calling\nthe cops AND my mama.\rLet me recount a terrifying tale...\r</language>
 	</row>
 	<row id="msg_0505_T07R0205_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0609_T26R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Along the way to Cianwood, there are\nfour deserted islands.\rBad kids are taken to the islands\nas punishment!</language>
+		<language name="English">Bro picked the lock...\nYou got some nerve, kid.\rAlong the way to Cianwood, there are\nfour deserted islands.\rBad kids are taken to the islands\nas punishment!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I get in trouble, Daddy\nalways scares me.</language>
+		<language name="English">Another one?! Third break-in\nthis week. I’m moving.\rWhenever I get in trouble, Daddy\nalways scares me.</language>
 	</row>
 	<row id="msg_0609_T26R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0609_T26R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can give you better ones tomorrow!</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rI can give you better ones tomorrow!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

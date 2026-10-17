@@ -6,5 +6,5 @@ press A
 wait 90
 press A
 wait 100
-burst f 120 2
+burst f 70 2
 DONE

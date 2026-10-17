@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0625_T28R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that a red GYARADOS appeared\nat the Lake of Rage.\rThat’s odd, since even ordinary\nGYARADOS are rare in that lake...</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rI heard that a red GYARADOS appeared\nat the Lake of Rage.\rThat’s odd, since even ordinary\nGYARADOS are rare in that lake...</language>
 	</row>
 	<row id="msg_0625_T28R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

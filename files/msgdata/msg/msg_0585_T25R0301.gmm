@@ -30,10 +30,10 @@
 	</row>
 	<row id="msg_0585_T25R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I keep losing in battles, and my\nPokémon end up fainting...\rMaybe that’s why my Pokémon don’t\nlike me much...</language>
+		<language name="English">Yo, you broke in?! I’m calling\nthe cops AND my mama.\rI keep losing in battles, and my\nPokémon end up fainting...\rMaybe that’s why my Pokémon don’t\nlike me much...</language>
 	</row>
 	<row id="msg_0585_T25R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I use an item on my Pokémon,\nit acts really glad!</language>
+		<language name="English">How you get past the dog?!\nAight. Hands where I can see ’em.\rWhen I use an item on my Pokémon,\nit acts really glad!</language>
 	</row>
 </body>

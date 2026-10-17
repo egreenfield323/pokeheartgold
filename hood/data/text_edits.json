@@ -1,5 +1,191 @@
 {
   "msg_0056_D15R0103": {
     "2": "{STRVAR_1 3, 0, 0} called\\nthe Getaway Car!"
+  },
+  "msg_0322_R02R0201": {
+    "0": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rOh my good nuggets!\\nYou’re the first visitor I’ve had in a\\flong time.\\rI’m going crazy with joy!\\nSince you look as bright as a Nugget,\\flet me give you a little present.\\r"
+  },
+  "msg_0333_R05R0401": {
+    "2": "Hold up. HOLD UP. How’d you\\nget in here?! Talk fast.\\rMy grandma is into warding off what she\\nbelieves to be evil spirits.\\fI’m sorry that she startled you."
+  },
+  "msg_0349_R12R0101": {
+    "0": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rI’m the Fishing Guru’s younger brother.\\rYou seem to like fishing.\\nAm I right, or am I right?\\fPeople say I have keen eyes! {YESNO 0}"
+  },
+  "msg_0355_R16R0101": {
+    "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rIf you cruise down the Cycling Road,\\nyou will end up in Fuchsia City.",
+    "1": "I got cameras, homie. Smile.\\nNow what you want?\\rWassup, hello. Would you like to hear\\na trendy saying? {YESNO 0}"
+  },
+  "msg_0366_R26R0101": {
+    "0": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rDid you think you were lucky to find\\na place to rest right where you\\fneeded it?\\rDon’t be reserved!\\nI look forward to people’s smiles.\\fLet your Pokémon rest here!\\r"
+  },
+  "msg_0370_R27R0101": {
+    "0": "Ain’t no way you just walked in\\nhere like you pay rent!\\rWhere are you off to with Pokémon?\\rThe Big League?\\rAre your Pokémon loyal enough for\\nyou to win?\\rLet me see...\\r"
+  },
+  "msg_0397_R39R0101": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rMy MILTANK ain’t givin’ me milk\\nn’more.\\rThis here farm’s got famous milk.\\rMost everyone wants a drink.\\nIt’ll give me lots o’ milk if’n I feed it\\flots o’ Berries, I reckon.",
+    "7": "Bro picked the lock...\\nYou got some nerve, kid.\\rOur milk even goes out to Kanto.\\rSo if our own MILTANK won’t give\\nus any milk, we’re in trouble."
+  },
+  "msg_0447_T01R0101": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rAyo!\\rRed’s been away. He hasn’t called\\neither, so I have no idea where he\\fis or what he’s been doing.\\rThey say no news is good news,\\nbut I do worry about him."
+  },
+  "msg_0456_T02R0201": {
+    "0": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rDo you put a lot of thought into naming\\nyour Pokémon?\\rGiving them good nicknames adds to the\\nfun of trading with others.",
+    "1": "Who let you in?! You got five\\nseconds before I call my cousin.\\rThey’re Speary--a SPEAROW--and\\nRattey--a RATTATA."
+  },
+  "msg_0457_T02R0301": {
+    "0": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rWelcome to Hustler House, the newest\\nand most happening place in Viridian.\\fWe’re open to Hustlers only.\\rYou can battle against the best\\nof the best right downstairs.",
+    "1": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rViridian is the town closest to\\nIndigo Plateau.\\rThey built this place because so\\nmany Hustlers pass through on their\\fway up to Indigo Plateau.",
+    "2": "Another one?! Third break-in\\nthis week. I’m moving.\\rThey hold practice battles\\ndownstairs here.\\rI would love to see how well a\\nTrainer from Johto battles.",
+    "3": "I got cameras, homie. Smile.\\nNow what you want?\\rYou go all over the place and battle\\nall kinds of Hustlers.\\rThis is not just to train your Pokémon.\\nThis is also a chance to experience\\fmany things yourself.\\rI bet the Kingpin from\\nPallet Town went to all the\\fcities and towns in Kanto.",
+    "7": "Breaking and entering, huh?\\nYou picked the wrong crib.\\r...What’s this?\\nA strategy memo?\\rThis writing looks like ONIX tracks...\\fIt’s completely illegible..."
+  },
+  "msg_0466_T03R0601": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rI used to enjoy snoozing\\nwith the radio on...\\rIt’s broken and is being fixed now.\\r...\\n...\\f...\\f...\\rIt’s too quiet to fall asleep!"
+  },
+  "msg_0472_T04R0201": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rI heard that some shady character is\\nskulking about.\\rI won’t stand for it if he turns out\\nto be a thief.",
+    "1": "Ain’t nobody invite you in!\\nTouch my TV and it’s over.\\rWe were held up by robbers before."
+  },
+  "msg_0473_T04R0301": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rMy husband lives happily with Pokémon\\nhe got through trades.\\rI live happily having such a\\ngreat husband.",
+    "1": "Who let you in?! You got five\\nseconds before I call my cousin.\\rAh... I’m so happy..."
+  },
+  "msg_0474_T04R0401": {
+    "0": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rA long time ago, this hard boy rode my\\nBike around, and that started this\\fentire Bike boom.\\rThen I decided to open a branch at\\nGoldenrod City.\\rAnd they started selling like the wind!\\rBut no one comes to this shop anymore\\nbecause of that.\\rAll I have left here is a bicycle pump...\\rShould I start selling inflatable tubes?"
+  },
+  "msg_0478_T05R0201": {
+    "0": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rMr. Fuji does live here, but he’s\\naway now.\\rHe should be at the House of Memories.",
+    "1": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rCan you believe it?\\rSome people get bored with taking\\ncare of Pokémon.\\rGrandpa takes in such poor homeless\\nPokémon and takes care of them."
+  },
+  "msg_0479_T05R0301": {
+    "0": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rLavender is a tiny, quiet town\\nat the foot of the mountains.\\rIt’s gotten a bit busier since the\\nRadio Tower was built."
+  },
+  "msg_0481_T05R0601": {
+    "0": "You came through the window,\\ndidn’t you? I see the mud.\\rMr. Fuji: Welcome.\\rHmm... You appear to be raising your\\nPokémon in a kind and loving manner.\\rThose who love Pokémon come here to\\npay their respects to Pokémon.\\rPlease pay homage to the spirits\\nof Pokémon.\\rI’m sure that will make them happy.",
+    "1": "Who let you in?! You got five\\nseconds before I call my cousin.\\rThere are other resting places of\\nPokémon here, I think.\\rThere are many chambers that only\\nMr. Fuji may enter.",
+    "2": "How’d you even get in here?!\\nI keep a bat by the door, bro.\\rI came with my mom to visit\\nPokémon resting places...",
+    "3": "You came through the window,\\ndidn’t you? I see the mud.\\rThe Pokémon that lived with me a\\nlong time...\\rI didn’t treat them as Pokémon!\\fI loved them like my grandchildren..."
+  },
+  "msg_0489_T06R0401": {
+    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rDo you know about the Magnet Train?\\rIt’s a railway that connects\\nKanto and Johto."
+  },
+  "msg_0503_T07R0203": {
+    "1": "Who let you in?! You got five\\nseconds before I call my cousin.\\rSheesh, you did it!\\nYou have filled up the\\fJohto Pokédex!\\rImpressive! I’m amazed!\\nI will reward you for that!\\fSeriously!\\r",
+    "4": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rI am the Graphic Designer!\\nI am a skilled dot artist!",
+    "5": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rI am the Programmer!\\rI control the world of games\\nwith my fingertip!",
+    "6": "How’d you even get in here?!\\nI keep a bat by the door, bro.\\rI am the Planner!\\nI come up with great ideas!\\rThis place you’re standing\\nhere is no exception! Hahaha!",
+    "21": "Bro picked the lock...\\nYou got some nerve, kid.\\rWhat do you think?\\rI am the President here.\\rWe are remaking an old game,\\nbut this is quite a challenge.\\rOld fans would not want us to mess\\nwith their good memories...\\fbut there is no point in just\\fredoing the same thing, right?\\rWe are working toward something\\nthat brings back memories,\\fyet is also completely new!\\rI’ve been in this business for 20 years\\nnow, but creating a game is always a\\frewarding challenge!"
+  },
+  "msg_0504_T07R0204": {
+    "0": "How’d you even get in here?!\\nI keep a bat by the door, bro.\\rHigh places--I do love them so!\\rI’d say the only thing that loves\\nheights as much as me is smoke!"
+  },
+  "msg_0505_T07R0205": {
+    "0": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rLet me recount a terrifying tale...\\r"
+  },
+  "msg_0517_T08R0401": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rMy grandpa is at my brother Bill’s\\non Cerulean Cape.",
+    "1": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rI saw these weird, slow Pokémon on\\nCycling Road."
+  },
+  "msg_0518_T08R0601": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rMy grandpa closed the Safari Zone\\nand now that we have an empty lot,\\fmy dad decided to run the Pal Park!\\rIt seems that catching and releasing\\nPokémon runs in my family."
+  },
+  "msg_0540_T11R0801": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rMy daughter likes to mimic people.\\nHer mimicry has earned her the\\fnickname Copycat around here.",
+    "1": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rMy daughter is unique...\\rShe would make homies, then her mimicry\\nwould scare them away...\\fShe only has a few homies."
+  },
+  "msg_0541_T11R0802": {
+    "0": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\r{STRVAR_1 3, 0, 0}: Ayo! Do you like Pokémon?\\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked you.\\r{STRVAR_1 3, 0, 0}: Huh? You’re strange!\\r",
+    "12": "I got cameras, homie. Smile.\\nNow what you want?\\rThis Poké Doll looks just like the\\nreal thing...\\rAw! It moved!\\nIt’s a real BANETTE!"
+  },
+  "msg_0547_T20R0301": {
+    "0": "You came through the window,\\ndidn’t you? I see the mud.\\rPIKACHU is an evolved Pokémon.\\r...Elm figured that out.\\nHe was up for 9 days straight.\\rI was amazed by Elm’s\\nfindings. And his teeth.\\rHe’s famous for his research on\\nPokémon evolution. And “chemistry.”\\rSigh...\\rI wish I could stay up\\nlike him..."
+  },
+  "msg_0548_T20R0401": {
+    "0": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rAyo, {STRVAR_1 3, 0, 0}!\\nLyra upstairs.\\rShe up there playin’ 2K with her\\nPokémon. As usual.\\rYou ain’t got no...Pokémon?\\n...Oh. My bad.\\rYou ain’t got a homie yet.\\rI ain’t mean to hurt your\\nfeelings, {STRVAR_1 3, 0, 0}. Mostly."
+  },
+  "msg_0549_T20R0402": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rLyra: Aye pimp! {STRVAR_1 3, 0, 0}!\\rElm was lookin’ for you.\\nYou slide to the lab yet?"
+  },
+  "msg_0553_T21R0301": {
+    "0": "Another one?! Third break-in\\nthis week. I’m moving.\\rYou’re trying to see how good you\\nare as a Pokémon Hustler?\\rYou better visit the blocks\\nall over Johto and collect Chains.",
+    "1": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rWhen I get older, I’m finna be a\\nBlock Boss!\\rI make my Pokémon battle with my\\nfriends’ to make them tougher!"
+  },
+  "msg_0555_T21R0501": {
+    "0": "Ain’t nobody invite you in!\\nTouch my TV and it’s over.\\rPokémon gain experience in battle\\nand change their form.",
+    "1": "How’d you even get in here?!\\nI keep a bat by the door, bro.\\rI heard that each Pokémon has its own\\nnature, and it has something to do with\\fPokémon stats!\\n"
+  },
+  "msg_0561_T22R0401": {
+    "0": "Ayo, how’d you get in my house?!\\nI KNOW I locked that door.\\rShe uses the names of all the foods\\nshe really enjoys eating.\\rFor the nicknames she gives to her\\nPokémon, I mean.",
+    "1": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rI call my PIDGEY Strawberry!"
+  },
+  "msg_0562_T22R0601": {
+    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rA Pokémon you get in a trade\\ngrows quickly.\\rBut if you don’t have the right Block\\nBadge, they may disobey you."
+  },
+  "msg_0571_T23R0501": {
+    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rHm? Who are you?\\r{STRVAR_1 3, 0, 0}, eh? You want me to make\\nsome Balls?\\rSorry, but that’ll have to wait.\\rDo you know The Feds?\\nAh, don’t worry. I’ll tell you anyhow.\\rThe Feds’ an evil gang that\\nuses Pokémon for their dirty work.\\rThey’re supposed to have disbanded\\nthree years ago.\\rAnyway, they’re at the well, cutting\\noff SlowpokeTails for sale!\\rSo I’m finna go give them a\\nlesson in pain!\\rHang on, SLOWPOKE!\\nOld Kurt is on his way!"
+  },
+  "msg_0578_T24R0601": {
+    "0": "Another one?! Third break-in\\nthis week. I’m moving.\\rHi. You must be a sightseer!\\nWhy not take a picture here?\\rYou saw the camera outside?\\nI put it there!\\rYou may come across my relatives\\nhere and there.\\rAnyway, go ahead and take a picture!\\nCheck the camera, and it’ll take\\fa picture for you.\\rIt’ll be a good memory of your\\njourney with your Pokémon!"
+  },
+  "msg_0579_T24R0701": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rYou came from Olivine?\\rDo you remember the four islands\\nalong the way?\\rI heard that a mythical sea creature is\\nhiding in them.",
+    "1": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rI heard that you can only see it if\\nyou have a Silver Wing.\\rIt must have the same scent as\\nthe creature.",
+    "2": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rI’ve heard that the whirlpools around\\nthe islands are caused by the\\fsea creature.\\rYou might need a special move to\\nget past them."
+  },
+  "msg_0585_T25R0301": {
+    "7": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rI keep losing in battles, and my\\nPokémon end up fainting...\\rMaybe that’s why my Pokémon don’t\\nlike me much...",
+    "8": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rWhen I use an item on my Pokémon,\\nit acts really glad!"
+  },
+  "msg_0586_T25R0401": {
+    "0": "Ayo, how’d you get in my house?!\\nI KNOW I locked that door.\\rBill: Ayo, {STRVAR_1 3, 0, 0}! Would you do\\nsomething for me and take this EEVEE?\\rIt came over when I was adjusting\\nNintendo Wi-Fi Connection.\\rSomeone has to take care of it,\\nbut I don’t like being outside.\\rCan I count on you to play with it,\\n{STRVAR_1 3, 0, 0}? {YESNO 0}",
+    "9": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rOh, you collect Pokémon?\\nMy son Bill is an expert.\\rHe just got called to the Pokémon\\nCenter in Ecruteak City.",
+    "11": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rMy big brother Bill made the\\nPokémon Storage System."
+  },
+  "msg_0590_T25R0801": {
+    "1": "Bro picked the lock...\\nYou got some nerve, kid.\\rSometimes, a healthy Pokémon\\nmay be unable to use its moves.\\rIf that happens, heal it at a\\nTrap House or use an item."
+  },
+  "msg_0591_T25R0901": {
+    "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rWassup, hello!\\nI am the official Name Rater!\\rWant me to rate the nicknames of\\nyour Pokémon? {YESNO 0}"
+  },
+  "msg_0608_T26R0301": {
+    "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rAyo, I’m looking for this Pokémon.\\rIf you have a KRABBY, would you\\ntrade it for my VOLTORB? {YESNO 0}"
+  },
+  "msg_0609_T26R0501": {
+    "0": "Bro picked the lock...\\nYou got some nerve, kid.\\rAlong the way to Cianwood, there are\\nfour deserted islands.\\rBad kids are taken to the islands\\nas punishment!",
+    "1": "Another one?! Third break-in\\nthis week. I’m moving.\\rWhenever I get in trouble, Daddy\\nalways scares me.",
+    "4": "I got cameras, homie. Smile.\\nNow what you want?\\rI can give you better ones tomorrow!"
+  },
+  "msg_0610_T26R0601": {
+    "0": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rOlivine is on the sea!\\rAnd if it’s on the sea, there is bound\\nto be something to catch!\\rI’ve fished here for 30 years.\\rWould you like to face the sea\\nand fish? {YESNO 0}"
+  },
+  "msg_0617_T27R0401": {
+    "0": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rThis happened when I was young.\\rThe sky suddenly turned black.\\nA giant Flying-type Pokémon was\\fblocking out the sun.\\rI wonder what that Pokémon was?\\rIt was like a bird and like a dragon.",
+    "1": "I got cameras, homie. Smile.\\nNow what you want?\\rIs there really a Pokémon that big?\\fIf it exists, it must be powerful."
+  },
+  "msg_0619_T27R0801": {
+    "0": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rAh. You’re on an adventure with\\nyour Pokémon?\\rWell, what’s an adventure without\\ntreasure hunting?\\rAm I right, or am I right? {YESNO 0}",
+    "5": "Breaking and entering, huh?\\nYou picked the wrong crib.\\rHistory of Ecruteak\\rWant to read it? {YESNO 0}"
+  },
+  "msg_0625_T28R0201": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rI heard that a red GYARADOS appeared\\nat the Lake of Rage.\\rThat’s odd, since even ordinary\\nGYARADOS are rare in that lake..."
+  },
+  "msg_0627_T29R0101": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\r...You have strayed far...\\nHere I have meditated. Inside me,\\fa new power has been awakened.\\rLet me share my power with your\\nPokémon. Take this, child.\\r"
+  },
+  "msg_0628_T29R0201": {
+    "0": "Ain’t no way you just walked in\\nhere like you pay rent!\\rThe Lake of Rage is actually a crater\\nmade by rampaging GYARADOS.\\rThe crater filled up with rainwater,\\nand the lake was formed.\\rThat’s the story passed on from my\\ngrandpa’s great-great-grandpa.\\rIt used to be that you could catch\\nlively MAGIKARP there, but...\\rI don’t understand what’s happening."
+  },
+  "msg_0633_T30R0201": {
+    "0": "You came through the window,\\ndidn’t you? I see the mud.\\rA clan of Hustlers who can freely\\ncommand Dragon-type Pokémon lives\\fright here in Blackthorn.\\rAs a result, there are many legends\\nabout dragons in this town."
+  },
+  "msg_0634_T30R0301": {
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rDRAGONAIR’s cute, but I don’t have\\nit. Do you have DRAGONAIR㊛?\\rWant to trade it for my DODRIO? {YESNO 0}",
+    "5": "You came through the window,\\ndidn’t you? I see the mud.\\rOh?\\nYour {STRVAR_1 0, 0, 0}...\\r"
+  },
+  "msg_0635_T30R0601": {
+    "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rUm...\\nWho did you say I was again?\\r...\\n...\\rOh, yes, I remember now!\\nI’m the Move Deleter!\\r",
+    "10": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rHa! That’s it! That’s an honest-to-\\ngoodness Heart Scale!\\rLet me guess, you want me to teach\\none of your Pokémon a move?\\r",
+    "43": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rYour quest for power has brought\\nyou here...\\rVery well.\\rLet me reward your passion with some\\nabsolutely astounding moves.\\rThey’re the ultimate moves!\\rShall I teach them to\\nyour Pokémon? {YESNO 0}",
+    "61": "I got cameras, homie. Smile.\\nNow what you want?\\rTo the Pokémon listed here,\\nthe ultimate moves may be taught!\\rThe blazing Fire-type Pokémon\\n{CURSOR_X 7}CHARIZARD TYPHLOSION\\f{CURSOR_X 7}BLAZIKEN INFERNAPE\\rThe restless Water-type Pokémon\\n{CURSOR_X 7}BLASTOISE FERALIGATR\\f{CURSOR_X 7}SWAMPERT EMPOLEON\\rThe quiet Grass-type Pokémon\\n{CURSOR_X 7}VENUSAUR MEGANIUM\\f{CURSOR_X 7}SCEPTILE TORTERRA"
   }
 }

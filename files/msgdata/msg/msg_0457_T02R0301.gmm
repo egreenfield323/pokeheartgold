@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0457_T02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Hustler House, the newest\nand most happening place in Viridian.\fWe’re open to Hustlers only.\rYou can battle against the best\nof the best right downstairs.</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rWelcome to Hustler House, the newest\nand most happening place in Viridian.\fWe’re open to Hustlers only.\rYou can battle against the best\nof the best right downstairs.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian is the town closest to\nIndigo Plateau.\rThey built this place because so\nmany Hustlers pass through on their\fway up to Indigo Plateau.</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rViridian is the town closest to\nIndigo Plateau.\rThey built this place because so\nmany Hustlers pass through on their\fway up to Indigo Plateau.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They hold practice battles\ndownstairs here.\rI would love to see how well a\nTrainer from Johto battles.</language>
+		<language name="English">Another one?! Third break-in\nthis week. I’m moving.\rThey hold practice battles\ndownstairs here.\rI would love to see how well a\nTrainer from Johto battles.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You go all over the place and battle\nall kinds of Hustlers.\rThis is not just to train your Pokémon.\nThis is also a chance to experience\fmany things yourself.\rI bet the Kingpin from\nPallet Town went to all the\fcities and towns in Kanto.</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rYou go all over the place and battle\nall kinds of Hustlers.\rThis is not just to train your Pokémon.\nThis is also a chance to experience\fmany things yourself.\rI bet the Kingpin from\nPallet Town went to all the\fcities and towns in Kanto.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="msg_0457_T02R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...What’s this?\nA strategy memo?\rThis writing looks like ONIX tracks...\fIt’s completely illegible...</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\r...What’s this?\nA strategy memo?\rThis writing looks like ONIX tracks...\fIt’s completely illegible...</language>
 	</row>
 </body>

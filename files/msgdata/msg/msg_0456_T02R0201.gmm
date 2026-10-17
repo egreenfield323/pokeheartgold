@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0456_T02R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you put a lot of thought into naming\nyour Pokémon?\rGiving them good nicknames adds to the\nfun of trading with others.</language>
+		<language name="English">Yo, you broke in?! I’m calling\nthe cops AND my mama.\rDo you put a lot of thought into naming\nyour Pokémon?\rGiving them good nicknames adds to the\nfun of trading with others.</language>
 	</row>
 	<row id="msg_0456_T02R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They’re Speary--a SPEAROW--and\nRattey--a RATTATA.</language>
+		<language name="English">Who let you in?! You got five\nseconds before I call my cousin.\rThey’re Speary--a SPEAROW--and\nRattey--a RATTATA.</language>
 	</row>
 	<row id="msg_0456_T02R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

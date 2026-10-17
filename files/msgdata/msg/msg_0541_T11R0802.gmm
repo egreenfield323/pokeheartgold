@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0541_T11R0802_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Ayo! Do you like Pokémon?\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked you.\r{STRVAR_1 3, 0, 0}: Huh? You’re strange!\r</language>
+		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\r{STRVAR_1 3, 0, 0}: Ayo! Do you like Pokémon?\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked you.\r{STRVAR_1 3, 0, 0}: Huh? You’re strange!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0541_T11R0802_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Poké Doll looks just like the\nreal thing...\rAw! It moved!\nIt’s a real BANETTE!</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rThis Poké Doll looks just like the\nreal thing...\rAw! It moved!\nIt’s a real BANETTE!</language>
 	</row>
 	<row id="msg_0541_T11R0802_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

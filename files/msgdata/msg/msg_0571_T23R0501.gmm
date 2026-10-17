@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Who are you?\r{STRVAR_1 3, 0, 0}, eh? You want me to make\nsome Balls?\rSorry, but that’ll have to wait.\rDo you know The Feds?\nAh, don’t worry. I’ll tell you anyhow.\rThe Feds’ an evil gang that\nuses Pokémon for their dirty work.\rThey’re supposed to have disbanded\nthree years ago.\rAnyway, they’re at the well, cutting\noff SlowpokeTails for sale!\rSo I’m finna go give them a\nlesson in pain!\rHang on, SLOWPOKE!\nOld Kurt is on his way!</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rHm? Who are you?\r{STRVAR_1 3, 0, 0}, eh? You want me to make\nsome Balls?\rSorry, but that’ll have to wait.\rDo you know The Feds?\nAh, don’t worry. I’ll tell you anyhow.\rThe Feds’ an evil gang that\nuses Pokémon for their dirty work.\rThey’re supposed to have disbanded\nthree years ago.\rAnyway, they’re at the well, cutting\noff SlowpokeTails for sale!\rSo I’m finna go give them a\nlesson in pain!\rHang on, SLOWPOKE!\nOld Kurt is on his way!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

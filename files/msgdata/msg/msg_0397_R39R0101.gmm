@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0397_R39R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My MILTANK ain’t givin’ me milk\nn’more.\rThis here farm’s got famous milk.\rMost everyone wants a drink.\nIt’ll give me lots o’ milk if’n I feed it\flots o’ Berries, I reckon.</language>
+		<language name="English">How you get past the dog?!\nAight. Hands where I can see ’em.\rMy MILTANK ain’t givin’ me milk\nn’more.\rThis here farm’s got famous milk.\rMost everyone wants a drink.\nIt’ll give me lots o’ milk if’n I feed it\flots o’ Berries, I reckon.</language>
 	</row>
 	<row id="msg_0397_R39R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0397_R39R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our milk even goes out to Kanto.\rSo if our own MILTANK won’t give\nus any milk, we’re in trouble.</language>
+		<language name="English">Bro picked the lock...\nYou got some nerve, kid.\rOur milk even goes out to Kanto.\rSo if our own MILTANK won’t give\nus any milk, we’re in trouble.</language>
 	</row>
 	<row id="msg_0397_R39R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

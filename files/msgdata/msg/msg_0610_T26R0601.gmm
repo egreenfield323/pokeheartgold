@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0610_T26R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine is on the sea!\rAnd if it’s on the sea, there is bound\nto be something to catch!\rI’ve fished here for 30 years.\rWould you like to face the sea\nand fish? {YESNO 0}</language>
+		<language name="English">Uh-uh. Not in MY house.\nState your business. Quick.\rOlivine is on the sea!\rAnd if it’s on the sea, there is bound\nto be something to catch!\rI’ve fished here for 30 years.\rWould you like to face the sea\nand fish? {YESNO 0}</language>
 	</row>
 	<row id="msg_0610_T26R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
