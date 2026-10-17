@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0399_R42_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a move called Strength!\rWhen a Pokémon learns it, it can move\nboulders out of your way.\fEnjoy a happy mountain-climbing life!\r</language>
+		<language name="English">It’s a move called Muscle!\rWhen a Pokémon learns it, it can move\nboulders out of your way.\fEnjoy a happy mountain-climbing life!\r</language>
 	</row>
 	<row id="msg_0399_R42_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

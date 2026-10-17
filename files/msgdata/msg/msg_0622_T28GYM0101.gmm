@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0622_T28GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: That Chain will raise the Special\nstats of Pokémon.\rIt also lets your Pokémon use\nWhirlpool to get across\freal whirlpools.\rAnd this... This is a gift from me!\r</language>
+		<language name="English">Pryce: That Chain will raise the Special\nstats of Pokémon.\rIt also lets your Pokémon use\nJacuzzi to get across\freal whirlpools.\rAnd this... This is a gift from me!\r</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: That TM contains Hail.\rIt summons a hailstorm that lasts for\nfive turns. The hailstorm damages\fall types except Ice.</language>
+		<language name="English">Pryce: That TM contains Ice Storm.\rIt summons a hailstorm that lasts for\nfive turns. The hailstorm damages\fall types except Ice.</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

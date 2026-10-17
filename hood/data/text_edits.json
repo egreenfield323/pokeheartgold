@@ -1,6 +1,8 @@
 {
   "msg_0056_D15R0103": {
-    "2": "{STRVAR_1 3, 0, 0} called\\nthe Getaway Car!"
+    "2": "{STRVAR_1 3, 0, 0} called\\nthe Getaway Car!",
+    "4": "Hmmm...\\nThe way you battle is quite elegant.\\rYou should be able to stand up\\nto Falkner.\\rAnd you should be able to make good use\\nof this...\\rIt is a Technical Machine called\\nFlashbang. Take it with you!\\r",
+    "5": "When a Pokémon learns Flashbang, you\\ncan illuminate caves no matter how dark\\fthey may be.\\rYou can try it on BELLSPROUT,\\nfor example..."
   },
   "msg_0322_R02R0201": {
     "0": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rOh my good nuggets!\\nYou’re the first visitor I’ve had in a\\flong time.\\rI’m going crazy with joy!\\nSince you look as bright as a Nugget,\\flet me give you a little present.\\r"
@@ -19,11 +21,13 @@
     "0": "Uh-uh. Not in MY house.\\nState your business. Quick.\\rDid you think you were lucky to find\\na place to rest right where you\\fneeded it?\\rDon’t be reserved!\\nI look forward to people’s smiles.\\fLet your Pokémon rest here!\\r"
   },
   "msg_0370_R27R0101": {
-    "0": "Ain’t no way you just walked in\\nhere like you pay rent!\\rWhere are you off to with Pokémon?\\rThe Big League?\\rAre your Pokémon loyal enough for\\nyou to win?\\rLet me see...\\r"
+    "0": "Ain’t no way you just walked in\\nhere like you pay rent!\\rWhere are you off to with Pokémon?\\rThe Big League?\\rAre your Pokémon loyal enough for\\nyou to win?\\rLet me see...\\r",
+    "2": "TM37 happens to be Dust Up.\\rIt’s a move that inflicts damage on\\nboth your and your foe’s Pokémon.\\rHowever, some Pokémon, such as Rock-\\nand Ground- and Steel-type\\fPokémon, take no damage.\\rThere are other ways to avoid taking\\ndamage. I’ll let you figure it out."
   },
   "msg_0397_R39R0101": {
     "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rMy MILTANK ain’t givin’ me milk\\nn’more.\\rThis here farm’s got famous milk.\\rMost everyone wants a drink.\\nIt’ll give me lots o’ milk if’n I feed it\\flots o’ Berries, I reckon.",
-    "7": "Bro picked the lock...\\nYou got some nerve, kid.\\rOur milk even goes out to Kanto.\\rSo if our own MILTANK won’t give\\nus any milk, we’re in trouble."
+    "7": "Bro picked the lock...\\nYou got some nerve, kid.\\rOur milk even goes out to Kanto.\\rSo if our own MILTANK won’t give\\nus any milk, we’re in trouble.",
+    "10": "That there’s Fruit Throw.\\rIts move type and Power will depend\\non the Berry yer Pokémon holds.\\rWhen you use it once, the Berry’s gone.\\nYou best think how you ought to\\fuse it, hon."
   },
   "msg_0447_T01R0101": {
     "0": "How you get past the dog?!\\nAight. Hands where I can see ’em.\\rAyo!\\rRed’s been away. He hasn’t called\\neither, so I have no idea where he\\fis or what he’s been doing.\\rThey say no news is good news,\\nbut I do worry about him."
@@ -170,7 +174,8 @@
     "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rI heard that a red GYARADOS appeared\\nat the Lake of Rage.\\rThat’s odd, since even ordinary\\nGYARADOS are rare in that lake..."
   },
   "msg_0627_T29R0101": {
-    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\r...You have strayed far...\\nHere I have meditated. Inside me,\\fa new power has been awakened.\\rLet me share my power with your\\nPokémon. Take this, child.\\r"
+    "0": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\r...You have strayed far...\\nHere I have meditated. Inside me,\\fa new power has been awakened.\\rLet me share my power with your\\nPokémon. Take this, child.\\r",
+    "2": "Do you see it? It is Hidden Strap!\\rIt draws out the power of Pokémon\\nfor attacking.\\rRemember this: its type and power\\ndepend on the Pokémon using it."
   },
   "msg_0628_T29R0201": {
     "0": "Ain’t no way you just walked in\\nhere like you pay rent!\\rThe Lake of Rage is actually a crater\\nmade by rampaging GYARADOS.\\rThe crater filled up with rainwater,\\nand the lake was formed.\\rThat’s the story passed on from my\\ngrandpa’s great-great-grandpa.\\rIt used to be that you could catch\\nlively MAGIKARP there, but...\\rI don’t understand what’s happening."
@@ -186,6 +191,301 @@
     "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rUm...\\nWho did you say I was again?\\r...\\n...\\rOh, yes, I remember now!\\nI’m the Move Deleter!\\r",
     "10": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rHa! That’s it! That’s an honest-to-\\ngoodness Heart Scale!\\rLet me guess, you want me to teach\\none of your Pokémon a move?\\r",
     "43": "Did you just walk in?! This a\\nhouse, not a Poké Center!\\rYour quest for power has brought\\nyou here...\\rVery well.\\rLet me reward your passion with some\\nabsolutely astounding moves.\\rThey’re the ultimate moves!\\rShall I teach them to\\nyour Pokémon? {YESNO 0}",
-    "61": "I got cameras, homie. Smile.\\nNow what you want?\\rTo the Pokémon listed here,\\nthe ultimate moves may be taught!\\rThe blazing Fire-type Pokémon\\n{CURSOR_X 7}CHARIZARD TYPHLOSION\\f{CURSOR_X 7}BLAZIKEN INFERNAPE\\rThe restless Water-type Pokémon\\n{CURSOR_X 7}BLASTOISE FERALIGATR\\f{CURSOR_X 7}SWAMPERT EMPOLEON\\rThe quiet Grass-type Pokémon\\n{CURSOR_X 7}VENUSAUR MEGANIUM\\f{CURSOR_X 7}SCEPTILE TORTERRA"
+    "61": "I got cameras, homie. Smile.\\nNow what you want?\\rTo the Pokémon listed here,\\nthe ultimate moves may be taught!\\rThe blazing Fire-type Pokémon\\n{CURSOR_X 7}CHARIZARD TYPHLOSION\\f{CURSOR_X 7}BLAZIKEN INFERNAPE\\rThe restless Water-type Pokémon\\n{CURSOR_X 7}BLASTOISE FERALIGATR\\f{CURSOR_X 7}SWAMPERT EMPOLEON\\rThe quiet Grass-type Pokémon\\n{CURSOR_X 7}VENUSAUR MEGANIUM\\f{CURSOR_X 7}SCEPTILE TORTERRA",
+    "42": "Meteor Drop’s destructive power\\nis awe inspiring.\\rHowever, using it will also lower\\nthe user’s Special Attack.",
+    "52": "I should teach Burn It Down to\\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}",
+    "53": "I should teach Hydrant Bomb to\\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}",
+    "54": "I should teach Gun Garden to\\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}"
+  },
+  "msg_0026": {
+    "63": "No. of boulders pushed using the\\nhidden move Muscle"
+  },
+  "msg_0047_D01R0101": {
+    "16": "Brock: Good looks!\\nI have been looking for BONSLY!\\rThe RHYHORN I gave you knows the move\\nTaser Grill! I trained it from an Egg.\\rI’m so proud of it, because it can\\ntake down Water-type Pokémon, which\\fusually are a tough matchup.\\rTake good care of it for me!",
+    "17": "Brock: That RHYHORN I gave you knows\\nTaser Grill! I trained it from an Egg.\\rI’m so proud of it, because it can\\ntake down Water-type Pokémon, which\\fusually are a tough matchup.\\rTake good care of it for me!\\n\\n"
+  },
+  "msg_0053_D11R0106": {
+    "3": "Blaine: Here, I will give you this, too.\\nIt’s called Overcook!\\rIt has a slight drawback, but it’s\\npowerful and well worth it!\\r"
+  },
+  "msg_0063_D22R0102": {
+    "6": "Ed: My PARASECT\\nputs Pokémon to\\fsleep with Knockout Gas."
+  },
+  "msg_0066_D23R0102": {
+    "61": "FMJ",
+    "62": "Talk Trash",
+    "63": "Mudslinging"
+  },
+  "msg_0067_D23R0103": {
+    "7": "It’s Heat Lamp.\\nIt powers up Fire-type moves for\\fa while."
+  },
+  "msg_0070_D23R0106": {
+    "9": "Are you expecting something?\\nThis is what they call Ankle Break.\\rI really must go back to my office this\\ntime. See ya!\\r"
+  },
+  "msg_0111_D35R0101": {
+    "4": "Lance: DRAGONITE, Full Auto.\\r"
+  },
+  "msg_0113_D35R0103": {
+    "17": "Lance: That’s Jacuzzi.\\rTeach it to a Pokémon to get across wild\\nwater. But keep this in mind.\\rYou can use that out of battle only with\\nthe Chain from Mahogany Block.\\r"
+  },
+  "msg_0115_D36R0101": {
+    "8": "That’s the HM Shank. Teach that to a\\nPokémon to clear small trees.\\rOf course, you have to have the Block\\nBadge from Azalea to use it.",
+    "11": "What am I doing?\\rI’m shaking trees using Dome Check.\\rIt’s fun. Here, you try it with your\\nPokémon, too! {YESNO 0}",
+    "16": "Sorry...\\nThat Pokémon cannot learn Dome Check.\\r",
+    "17": "{STRVAR_1 1, 0, 0} is trying to learn\\nDome Check.\\rBut {STRVAR_1 1, 0, 0} can’t learn more\\nthan four moves.\\rDelete an older move to make\\nroom for Dome Check? {YESNO 0}",
+    "19": "Stop trying to teach Dome Check? {YESNO 0}",
+    "23": "Your {STRVAR_1 0, 0, 0}\\nhas already learned Dome Check.\\r",
+    "25": "{STRVAR_1 1, 0, 0} learned Dome Check.",
+    "26": "{STRVAR_1 1, 0, 0} learned Dome Check!"
+  },
+  "msg_0122_D39R0101": {
+    "2": "The item you picked up over there...\\nit was an HM, wasn’t it?\\rI am the one who dropped it...but I\\nwant you to keep it.\\fYou took the time to get it, right?\\rIt contains Wet Ya Up.\\nHave fun climbing waterfalls!\\rMe?\\rI still need a new pair of shoes\\nbefore I can enjoy waterfalls."
+  },
+  "msg_0129_D44R0102": {
+    "3": "That contains Dragon Beam.\\rWell, Dragon Beam is a kind of er...\\nnever mind!\\rIt’s huge energy of some kind.\\nIf you don’t want it, you don’t\\fhave to take it.\\r",
+    "5": "What’s the matter?\\nIf you are headed to the Pokémon\\fLeague, go back to New Bark Town\\fand Hydrant Wave along Route 27.\\rYour face...is telling me you have\\nsome unfinished business...\\rCome on!\\rWhatever you have to face from now,\\ndon’t you dare give up!\\rIf you do, I’ll feel even worse\\nabout having lost to you!\\fGive it your all.\\r"
+  },
+  "msg_0136_D48R0101": {
+    "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need to use Wall Climb\\nas well as Hydrant Wave.\\r"
+  },
+  "msg_0168": {
+    "42": "No. of Go Out Loud used",
+    "43": "No. of Kaboom used"
+  },
+  "msg_0191": {
+    "423": "It can break any barrier, such as Riot\\nShield and Bulletproof."
+  },
+  "msg_0197": {
+    "200": "{STRVAR_1 1, 0, 0} is protected\\nby Security!",
+    "201": "The wild {STRVAR_1 1, 0, 0} is protected\\nby Security!",
+    "202": "The foe’s {STRVAR_1 1, 0, 0} is protected\\nby Security!",
+    "203": "Your team is no longer protected\\nby Security!",
+    "204": "The foe is no longer protected\\nby Security!",
+    "245": "{STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
+    "246": "The wild {STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
+    "247": "The foe’s {STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
+    "273": "{STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
+    "274": "The wild {STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
+    "275": "The foe’s {STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
+    "296": "{STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
+    "297": "The wild {STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
+    "298": "The foe’s {STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
+    "427": "Caltrops were scattered all around\\nyour team’s feet!",
+    "428": "Caltrops were scattered all around\\nthe feet of the foe’s team!",
+    "448": "Big Bass {STRVAR_1 50, 0, 0}!",
+    "494": "{STRVAR_1 1, 0, 0} was subjected\\nto Clown On!",
+    "495": "The wild {STRVAR_1 1, 0, 0} was subjected\\nto Clown On!",
+    "496": "The foe’s {STRVAR_1 1, 0, 0} was subjected\\nto Clown On!",
+    "571": "{STRVAR_1 1, 0, 0} shrouded\\nitself with Bounce Back!",
+    "572": "The wild {STRVAR_1 1, 0, 0} shrouded\\nitself with Bounce Back!",
+    "573": "The foe’s {STRVAR_1 1, 0, 0} shrouded\\nitself with Bounce Back!",
+    "574": "{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0}\\nwas bounced back by Bounce Back!",
+    "575": "The wild {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} was bounced back by\\fBounce Back!",
+    "576": "The foe’s {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} was bounced back by\\fBounce Back!",
+    "798": "Copy Cat failed!",
+    "997": "Heavy Vibes intensified!",
+    "1004": "Heavy Vibes returned to normal!",
+    "1085": "Your team’s Lucky Charm wore off!",
+    "1086": "The foe’s Lucky Charm wore off!",
+    "1241": "The Lucky Charm shielded your team\\nfrom critical hits!",
+    "1242": "The Lucky Charm shielded the foe\\nfrom critical hits!"
+  },
+  "msg_0211": {
+    "1": "{STRVAR_1 0, 0, 0} used Shank!\\r",
+    "3": "This rock appears to be breakable.\\nWould you like to use Smash n Grab? {YESNO 0}",
+    "5": "{STRVAR_1 0, 0, 0} used Smash n Grab!\\r",
+    "7": "It’s a big boulder, but a Pokémon\\nmay be able to push it aside.\\rWould you like to use Muscle? {YESNO 0}",
+    "8": "{STRVAR_1 0, 0, 0} used Muscle!\\r{STRVAR_1 0, 0, 0}’s Muscle made it\\npossible to move boulders around!",
+    "10": "Muscle made it possible to move\\nboulders around.",
+    "11": "{STRVAR_1 0, 0, 0} used Muscle!\\r",
+    "12": "{STRVAR_1 0, 0, 0}’s Muscle made it\\npossible to move boulders around!",
+    "15": "{STRVAR_1 0, 0, 0} used Hydrant Wave!\\r",
+    "16": "Hydrant Wave can’t be used if you\\nhave someone with you.",
+    "17": "A deep fog drapes the area...\\nWould you like to use Clear Air? {YESNO 0}",
+    "18": "{STRVAR_1 0, 0, 0} used Clear Air!\\r",
+    "20": "The wall is very rocky...\\nWould you like to use Wall Climb? {YESNO 0}",
+    "21": "{STRVAR_1 0, 0, 0} used Wall Climb!\\r",
+    "23": "Wall Climb can’t be used if you have\\nsomeone with you.",
+    "24": "It’s a large waterfall.\\nWould you like to use Wet Ya Up? {YESNO 0}",
+    "25": "{STRVAR_1 0, 0, 0} used Wet Ya Up.\\r",
+    "27": "Dip Out to {STRVAR_1 4, 0, 0}, the last\\nplace you or your Pokémon rested?",
+    "28": "{STRVAR_1 0, 0, 0} used Flashbang!\\r",
+    "29": "It’s a huge swirl of water.\\nWould you like to use Jacuzzi? {YESNO 0}",
+    "30": "{STRVAR_1 0, 0, 0} used Jacuzzi.\\r",
+    "32": "It’s a moderately sized tree.\\nWould you like to use Dome Check? {YESNO 0}",
+    "33": "{STRVAR_1 0, 0, 0} used Dome Check.\\r"
+  },
+  "msg_0221": {
+    "269": "A Pokémon held item that extends the\\nduration of the holder’s barrier moves\\nlike Riot Shield and Bulletproof.",
+    "282": "A Pokémon held item that extends the\\nduration of the move Ice Storm used by\\nthe holder.",
+    "283": "A Pokémon held item that extends the\\nduration of the move Dust Up used\\nby the holder.",
+    "284": "A Pokémon held item that extends the\\nduration of the move Heat Lamp used\\nby the holder.",
+    "285": "A Pokémon held item that extends the\\nduration of the move Make It Rain used\\nby the holder.",
+    "286": "A Pokémon held item that extends the\\nduration of multiturn attacks like\\nZip Tie and Duct Tape.",
+    "358": "The user attacks with tough fists,\\netc. It can also break any barrier\\nsuch as Riot Shield and Bulletproof."
+  },
+  "msg_0246": {
+    "51": "Ed: My PARASECT makes Pokémon fall\\nasleep with Knockout Gas."
+  },
+  "msg_0273": {
+    "5": "Catch Flight to {STRVAR_1 4, 0, 0}?",
+    "7": "Catch Flight"
+  },
+  "msg_0345_R10R0202": {
+    "13": "Manager: I-I-I’m ready to blast\\nsomething!\\rWho would dare steal a part from the\\ngenerator?\\rI spent so much time fixing it!\\nIf I catch him, he’s finna see\\fwhat I can do with my Taser Beam!",
+    "17": "Manager: TM57 is my Taser Beam!\\rIt will shoot beams, and it can also\\nsometimes raise Special Attack!"
+  },
+  "msg_0372_R28R0101": {
+    "2": "It contains Iron Wing!\\rI remember I was wearing a dress\\ninspired by this move on my\\fdebut stage...\\rAlas...\\nBeing a legendary Idol is so demanding.\\rI’ve been retired for some time, but\\npeople never stop chasing after me...\\flike you!"
+  },
+  "msg_0378_R31": {
+    "8": "TM44 is...\\n...Zzz...\\f...\\r...Umm... Nap!\\rThe phrase “need a nap” became\\nshortened to “Nap,” you see?\\fThis is a move to sleep and recover HP."
+  },
+  "msg_0386_R34R0201": {
+    "2": "It’s Diss Track.\\rUse it and the target Pokémon\\ncan only use moves that do damage\\fto your Pokémon for a while."
+  },
+  "msg_0390_R36": {
+    "5": "It contains make-’em-faint\\nSmash n Grab.\\rYou can even use it to smash boulders\\nonce you’ve earned the Violet City\\fGym Chain!\\rBut beware!\\nHidden moves like this are hard for\\fyour Pokémon to forget once they’ve\\flearned them.\\rYou should think carefully which\\nPokémon should learn it.",
+    "12": "Hustler Tips\\rThe move Lay Low can take you back to\\nthe entrance when you use it.\\rIf you want to explore a cave or\\nsomething similar, a Pokémon with\\fLay Low will be quite useful."
+  },
+  "msg_0393_R37": {
+    "1": "Hustler Tips\\rThe move Lay Low can take you\\nback to the entrance when you\\fuse it.\\rIf you want to explore a cave or\\nsomething similar, a Pokémon with\\fLay Low will be quite useful."
+  },
+  "msg_0396_R39": {
+    "2": "Hustler Tips\\rUse Dome Check on trees to shake\\nPokémon out.\\rDifferent kinds of Pokémon drop out\\nof trees.\\rUse Dome Check on any tree you see!"
+  },
+  "msg_0399_R42": {
+    "6": "It’s a move called Muscle!\\rWhen a Pokémon learns it, it can move\\nboulders out of your way.\\fEnjoy a happy mountain-climbing life!\\r"
+  },
+  "msg_0403_R43R0201": {
+    "6": "It contains Stink Bomb!\\rIt not only damages the target\\nbut also poisons it sometimes.\\fSee!\\rDoesn’t it make you feel\\nuncomfortable?"
+  },
+  "msg_0413": {
+    "21": "West: Eek! East! H-help!\\nNarrator: The young couple came to\\nthe Lake of Rage. West accidentally sat\\non a GYARADOS, which is now swimming\\naround the lake with West on its back!\\nEast: Oh no! West! I can’t swim! And I\\ndon’t have any Pokémon that know\\nHydrant Wave!\\nNarrator: The GYARADOS that West is\\nriding around on refuses to listen to\\nEast’s attempts to get its attention!\\nIt’s crashing through the waves on\\nthe lake!\\nThe Serial Radio Drama: Waves of Love!\\nTheir love will last forever!"
+  },
+  "msg_0419": {
+    "4": "At the end of the day, our search\\nparty’s efforts were in vain.\\nThey eventually had to leave the deep\\nand dark Union Cave.\\n“If only we had Flashbang!” the leader\\ncried.\\nTune in next time for the exciting\\nconclusion to the special program,\\n“The Cave Plunged into Darkness”!"
+  },
+  "msg_0430": {
+    "48": "You can place it using Hydrant Wave.\\nThe Pokémon by the\\nwater seem to like it."
+  },
+  "msg_0451_T01R0301": {
+    "56": "Professor Oak: That Hidden Machine\\ncontains the move Wall Climb!\\rWhen you teach it to a Pokémon,\\nyou can go up rock walls that have\\fsteps carved in them.\\r",
+    "57": "When you use Wall Climb,\\nyou can go up rock walls that have\\fsteps carved in them.\\rYou will discover all sorts\\nof new things!"
+  },
+  "msg_0452_T02": {
+    "6": "TM85 contains Dream Killer...\\n...Zzzzz..."
+  },
+  "msg_0454_T02GYM0101": {
+    "3": "Blue: With this Chain, you’ll be able\\nto use the HM move Wall Climb!\\fHere!\\rTake this as well!\\r",
+    "4": "Blue: It contains Slow Mo!\\rIt allows slower Pokémon to move\\nbefore faster Pokémon for a while.\\rIt’s a very tricky move, ain’t it?\\nHence the name!"
+  },
+  "msg_0462_T03GYM0101": {
+    "3": "Brock: I really enjoyed the battle\\nwith you, {STRVAR_1 3, 0, 0}!\\fI’ll give you the move Brick Wall, too.\\rIt can sometimes cause your foe\\nto flinch.\\r",
+    "4": "Brock: I really enjoyed the battle\\nwith you, {STRVAR_1 3, 0, 0}!\\fI’ll give you the move Brick Wall, too.\\rIt can sometimes cause your foe\\nto flinch.\\r"
+  },
+  "msg_0467_T04": {
+    "5": "My SLOWBRO and I make an\\nawesome combination!\\rSLOWBRO, show me your Chain Swing!\\r...!\\nSLOWBRO’s Chain Swing hits hard!"
+  },
+  "msg_0469_T04GYM0101": {
+    "12": "Misty: It contains the move\\nWater Bomb.\\rIt can sometimes confuse your foe.\\rYou’ve managed to defeat Hustlers\\nall the way from Johto.\\fI’m sure you have a good use for it."
+  },
+  "msg_0485_T06GYM0101": {
+    "4": "Lt. Surge: That TM contains\\nStatic Shock... Zzzap!\\rUse it to go like lightning!\\rWhen you go north, you will see\\na big city called Saffron!"
+  },
+  "msg_0492_T07GYM0101": {
+    "3": "Erika: That was a delightful match.\\nI felt inspired.\\rPlease, I wish you to have this TM19\\nas a special token.\\rIt is IRS Audit.\\nIt is a wonderful move that drains\\fhalf the damage it inflicts to heal\\fyour Pokémon.\\rIt is indeed a horrifying move.\\r"
+  },
+  "msg_0509_T07R0501": {
+    "2": "I woke up and realized my potential!\\rSo, what potential was woken in me?\\nWhat’s my hidden power, you ask?\\rIt’s a power that lets me see the\\nHidden Strap of a Pokémon.\\rWhen they learn that move, I can tell\\nwhat type the move will be.\\rSo, want me to use my hidden power?\\rI’ll tell you what type your\\nPokémon’s Hidden Strap will be. {YESNO 0}",
+    "3": "I’ll tell you what type your Pokémon’s\\nHidden Strap will be.\\rMy own hidden power lets me\\ndo that. {YESNO 0}",
+    "4": "If this Pokémon were to learn\\nHidden Strap, the move’s type\\fwould be {STRVAR_1 15, 0, 0}.",
+    "5": "This Pokémon’s Hidden Strap is the\\n{STRVAR_1 15, 0, 0} type.",
+    "8": "Oh, no. This Pokémon can’t learn the\\nmove Hidden Strap in the first place."
+  },
+  "msg_0514_T08GYM0101": {
+    "3": "Janine: You’re so tough!\\nI have a special gift!\\rIt’s Dirty Shiv, a powerful Poison-type\\nmove that may poison its victim.\\r"
+  },
+  "msg_0522_T10R0101": {
+    "1": "Some Hustlers suddenly feel\\ndiscouraged and leave.\\rMy ABRA can take you home.\\nBut...\\rTrainers just Catch Flight home\\nlately... I feel left out.\\fI am sure my ABRA feels the same way."
+  },
+  "msg_0531_T11GYM0101": {
+    "4": "Sabrina: It contains Trade Spots!\\nIt swaps Abilities between the user\\fand the target.\\rYou will become a celebrated and\\nbeloved Kingpin!"
+  },
+  "msg_0534_T11R0501": {
+    "1": "TM29 is Chain Swing.\\rIt may lower the target’s Sp. Def."
+  },
+  "msg_0558_T22GYM0101": {
+    "3": "Falkner: With that Chain, Pokémon,\\nincluding traded Pokémon up to Lv. 20,\\fwill obey you without question.\\rIt also enables you to use the hidden\\nmove Smash n Grab anytime outside\\fof battle.\\r",
+    "4": "Falkner: By using a TM, a Pokémon will\\ninstantly learn a new move.\\rThink before you act--a TM can be\\nused only once.\\rTM51 contains Crash Pad.\\nIt restores half the max HP.\\rThere are blocks in cities and\\ntowns ahead. Make good use of them!\\rAs for your next move...\\fI would suggest Azalea Town."
+  },
+  "msg_0560_T22R0301": {
+    "16": "If asleep, your Pokémon can use only\\ncertain moves, such as Dream Talk and\\fLoud Snore.\\rA sleeping Pokémon doesn’t wake up\\nafter battle.\\fWake it up with an Awakening.\\r"
+  },
+  "msg_0567_T23GYM0102": {
+    "3": "Bugsy: Do you know the benefits of the\\nHive Chain?\\rIf you have it, Pokémon up to Lv. 30\\nwill obey you, even traded ones.\\rPokémon that know Shank will be able\\nto use it outside of battle, too.\\rHere, I also want you to have this.\\r",
+    "5": "Bugsy: TM89 contains U-Turn.\\rIt lets your Pokémon attack, then\\nswitch with the next Pokémon\\fin your party.\\rIsn’t that great?"
+  },
+  "msg_0572_T24": {
+    "0": "You crossed the sea to get here?\\rThat must have been hard.\\rIt would be much easier if your\\nPokémon knew how to Catch Flight...\\r",
+    "1": "But you can’t use Catch Flight without\\nthis city’s Block Chain.\\rIf you beat the Block Boss here,\\ncome see me.\\fI’ll have a nice gift for you.",
+    "4": "Teach Catch Flight to your Pokémon.\\rYou will be able to Catch Flight\\ninstantly to anywhere you have visited.",
+    "12": "If you use Catch Flight, you can get\\nback to Olivine instantly.",
+    "13": "Boulders to the north of town can\\nbe crushed.\\rThey may be hiding something.\\nYour Pokémon could use Smash n Grab to\\fbreak them."
+  },
+  "msg_0574_T24GYM0101": {
+    "5": "Chuck: The Storm Chain lets your\\nPokémon Catch Flight to any city or\\ftown you’ve already been to!\\rHere, take this, too!\\r",
+    "6": "Chuck: That is One Punch.\\rIt doesn’t land if the foe you’re\\nattacking hits you first, but it’s very\\fpowerful if it manages to hit!"
+  },
+  "msg_0582_T25GYM0101": {
+    "5": "Whitney: The Plain Chain lets your\\nPokémon use Muscle outside\\fof battle.\\rOh, you can have this, too!\\r",
+    "7": "Whitney: It’s Rizz Up!\\nIt makes full use of a Pokémon’s charm.\\rIsn’t it just perfect for a cutie\\nlike me?\\fThat’s right!\\rI heard that this thing called the\\nPokéathlon Dome is now open right next\\fto the National Park.\\rYou should go try it, since you’re\\nso good at battling with your Pokémon!"
+  },
+  "msg_0606_T26GYM0101": {
+    "5": "Jasmine: It is called Steel Toe...\\rYour Pokémon will hit the target\\nwith its hard tail, occasionally\\flowering the target’s Defense..."
+  },
+  "msg_0611_T26R0701": {
+    "0": "You!\\nHow is your Pokémon training\\fcoming along?\\rHave you ever noticed that in the\\nmountains, sometimes there are round\\fboulders right in your way...?\\rYou can move them with the\\nhidden move Muscle!\\rHikers at Mt. Mortar sometimes have\\nextra, or so I’ve heard..."
+  },
+  "msg_0612_T27": {
+    "10": "If you go west from this city, you’ll\\nreach a port called Olivine City.\\rWhen your Pokémon learns Hydrant Wave,\\nyou can go out to the ocean from\\fRoute 40 without a ship!"
+  },
+  "msg_0614_T27GYM0101": {
+    "3": "Morty: By having the Fog Chain,\\nPokémon up to Lv. 50, including traded\\fPokémon, will obey you.\\rAlso, Pokémon will be able to use\\nHydrant Wave.\\rHere is another thing...\\nI want you to have this, too.\\r",
+    "5": "Morty: It’s Magic 8-Ball. It causes\\ndamage and may reduce Special Defense.\\fUse it if it appeals to you."
+  },
+  "msg_0618_T27R0501": {
+    "28": "That’s Hydrant Wave.\\nIt’s a move that lets Pokémon swim\\facross water with ease.\\r"
+  },
+  "msg_0622_T28GYM0101": {
+    "3": "Pryce: That Chain will raise the Special\\nstats of Pokémon.\\rIt also lets your Pokémon use\\nJacuzzi to get across\\freal whirlpools.\\rAnd this... This is a gift from me!\\r",
+    "4": "Pryce: That TM contains Ice Storm.\\rIt summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\fall types except Ice."
+  },
+  "msg_0631_T30GYM0101": {
+    "7": "Clair: That contains Dragon Beam.\\rWell, Dragon Beam is a kind of...umm...\\nNever mind!\\rIt’s a huge energy of some kind.\\nIf you don’t want it, you don’t\\fhave to take it.\\r"
+  },
+  "msg_0666": {
+    "50": "If you Dome Check a tree, sometimes\\na Pokémon might fall out!\\r"
+  },
+  "msg_0691": {
+    "24": "I heard, I heard!\\rYou got a Magnet Train Pass!\\rWhen I saw you departing on the ship, I\\nfelt sad that I wouldn’t be able to see\\fyou for a while.\\rBut since you have that Pass, you can\\nzip back anytime!\\fThat’s reassuring!\\rWhat? You can Catch Flight back\\nanytime?\\rWhat’s that?\\rCall you later!",
+    "25": "I heard, I heard!\\rYou got a Magnet Train Pass!\\rWhen I saw you departing on the ship, I\\nfelt sad that I wouldn’t be able to see\\fyou for a while.\\rBut since you have that Pass, you can\\nzip back anytime!\\fThat’s reassuring!\\rWhat? You can Catch Flight back\\nanytime?\\rWhat’s that?\\rCall you later!"
+  },
+  "msg_0704": {
+    "10": "Did you know...?\\rWhen it’s raining, Power Line is sure\\nto strike.",
+    "11": "Did you know...?\\rIf you use Fetal Pos., Roll Out’s\\npower goes way up past normal.",
+    "13": "Did you know...?\\rIf the opponent uses Duck Down, your\\nCurb Stomp becomes more powerful.",
+    "14": "Did you know...?\\rIf your foe is Flying, your Fan Blast\\nbecomes much more powerful.",
+    "15": "Did you know...?\\rIf your opponent is Flying, your\\nTornado becomes more powerful.",
+    "16": "Did you know...?\\rIf your opponent uses Lay Low, your\\nBass Drop becomes more powerful.",
+    "17": "Did you know...?\\rIf your opponent uses Lay Low, your\\nBig Bass becomes more powerful.",
+    "18": "Did you know...?\\rThe Rock, Ground, and Steel types\\ncan’t be hurt by Dust Up."
+  },
+  "msg_0724": {
+    "102": "Do the monster Moon Punch!\\nIt’s my catchphrase!",
+    "103": "My Moon Punch goes to your heart!\\r"
+  },
+  "msg_0744_W40": {
+    "16": "I see... No Hydrant Wave yet...\\nThis is just between you and me...\\rA man in Ecruteak gave me\\nHydrant Wave. I bet he’s still there.\\rWhy don’t you try going there?\\r",
+    "17": "This is just between you and me.\\fA man in Ecruteak gave me\\nHydrant Wave. I bet he’s still there.\\rWhy don’t you try going there?"
   }
 }

@@ -1100,7 +1100,7 @@
 	</row>
 	<row id="msg_0221_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of barrier moves like Light\nScreen and Reflect used by the holder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the holder’s barrier moves\nlike Riot Shield and Bulletproof.</language>
 	</row>
 	<row id="msg_0221_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
@@ -1152,23 +1152,23 @@
 	</row>
 	<row id="msg_0221_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of the move Hail used by the\nholder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the move Ice Storm used by\nthe holder.</language>
 	</row>
 	<row id="msg_0221_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of the move Sandstorm used\nby the holder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the move Dust Up used\nby the holder.</language>
 	</row>
 	<row id="msg_0221_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of the move Sunny Day used\nby the holder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the move Heat Lamp used\nby the holder.</language>
 	</row>
 	<row id="msg_0221_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of the move Rain Dance used\nby the holder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the move Make It Rain used\nby the holder.</language>
 	</row>
 	<row id="msg_0221_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of multiturn attacks like\nBind and Wrap.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of multiturn attacks like\nZip Tie and Duct Tape.</language>
 	</row>
 	<row id="msg_0221_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
@@ -1456,7 +1456,7 @@
 	</row>
 	<row id="msg_0221_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Light Screen and Reflect.</language>
+		<language name="English">The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Riot Shield and Bulletproof.</language>
 	</row>
 	<row id="msg_0221_00359" index="359">
 		<attribute name="window_context_name">used</attribute>

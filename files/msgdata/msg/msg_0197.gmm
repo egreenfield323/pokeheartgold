@@ -803,23 +803,23 @@
 	</row>
 	<row id="msg_0197_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Safeguard!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Safeguard!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Safeguard!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your team is no longer protected\nby Safeguard!</language>
+		<language name="English">Your team is no longer protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is no longer protected\nby Safeguard!</language>
+		<language name="English">The foe is no longer protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
@@ -983,15 +983,15 @@
 	</row>
 	<row id="msg_0197_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was trapped\nby Sand Tomb!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was trapped\nby Sandbag!</language>
 	</row>
 	<row id="msg_0197_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was trapped\nby Sand Tomb!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was trapped\nby Sandbag!</language>
 	</row>
 	<row id="msg_0197_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was trapped\nby Sand Tomb!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was trapped\nby Sandbag!</language>
 	</row>
 	<row id="msg_0197_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
@@ -1095,15 +1095,15 @@
 	</row>
 	<row id="msg_0197_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Mist!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
 	</row>
 	<row id="msg_0197_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Mist!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
 	</row>
 	<row id="msg_0197_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Mist!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
 	</row>
 	<row id="msg_0197_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
@@ -1187,15 +1187,15 @@
 	</row>
 	<row id="msg_0197_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s health is\nsapped by Leech Seed!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s health is\nsapped by Freeloader!</language>
 	</row>
 	<row id="msg_0197_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s health is\nsapped by Leech Seed!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s health is\nsapped by Freeloader!</language>
 	</row>
 	<row id="msg_0197_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s health is\nsapped by Leech Seed!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s health is\nsapped by Freeloader!</language>
 	</row>
 	<row id="msg_0197_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
@@ -1711,11 +1711,11 @@
 	</row>
 	<row id="msg_0197_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spikes were scattered all around\nyour team’s feet!</language>
+		<language name="English">Caltrops were scattered all around\nyour team’s feet!</language>
 	</row>
 	<row id="msg_0197_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spikes were scattered all around\nthe feet of the foe’s team!</language>
+		<language name="English">Caltrops were scattered all around\nthe feet of the foe’s team!</language>
 	</row>
 	<row id="msg_0197_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
@@ -1795,7 +1795,7 @@
 	</row>
 	<row id="msg_0197_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnitude {STRVAR_1 50, 0, 0}!</language>
+		<language name="English">Big Bass {STRVAR_1 50, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
@@ -1979,15 +1979,15 @@
 	</row>
 	<row id="msg_0197_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was subjected\nto Torment!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was subjected\nto Clown On!</language>
 	</row>
 	<row id="msg_0197_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was subjected\nto Torment!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was subjected\nto Clown On!</language>
 	</row>
 	<row id="msg_0197_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was subjected\nto Torment!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was subjected\nto Clown On!</language>
 	</row>
 	<row id="msg_0197_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
@@ -2287,27 +2287,27 @@
 	</row>
 	<row id="msg_0197_00571" index="571">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} shrouded\nitself with Magic Coat!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} shrouded\nitself with Bounce Back!</language>
 	</row>
 	<row id="msg_0197_00572" index="572">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} shrouded\nitself with Magic Coat!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} shrouded\nitself with Bounce Back!</language>
 	</row>
 	<row id="msg_0197_00573" index="573">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} shrouded\nitself with Magic Coat!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0} shrouded\nitself with Bounce Back!</language>
 	</row>
 	<row id="msg_0197_00574" index="574">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0}\nwas bounced back by Magic Coat!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0}\nwas bounced back by Bounce Back!</language>
 	</row>
 	<row id="msg_0197_00575" index="575">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fMagic Coat!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fBounce Back!</language>
 	</row>
 	<row id="msg_0197_00576" index="576">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fMagic Coat!</language>
+		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fBounce Back!</language>
 	</row>
 	<row id="msg_0197_00577" index="577">
 		<attribute name="window_context_name">used</attribute>
@@ -3196,7 +3196,7 @@
 	</row>
 	<row id="msg_0197_00798" index="798">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mirror Move failed!</language>
+		<language name="English">Copy Cat failed!</language>
 	</row>
 	<row id="msg_0197_00799" index="799">
 		<attribute name="window_context_name">used</attribute>
@@ -4002,7 +4002,7 @@
 	</row>
 	<row id="msg_0197_00997" index="997">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gravity intensified!</language>
+		<language name="English">Heavy Vibes intensified!</language>
 	</row>
 	<row id="msg_0197_00998" index="998">
 		<attribute name="window_context_name">used</attribute>
@@ -4030,7 +4030,7 @@
 	</row>
 	<row id="msg_0197_01004" index="1004">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gravity returned to normal!</language>
+		<language name="English">Heavy Vibes returned to normal!</language>
 	</row>
 	<row id="msg_0197_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
@@ -4354,11 +4354,11 @@
 	</row>
 	<row id="msg_0197_01085" index="1085">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your team’s Lucky Chant wore off!</language>
+		<language name="English">Your team’s Lucky Charm wore off!</language>
 	</row>
 	<row id="msg_0197_01086" index="1086">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s Lucky Chant wore off!</language>
+		<language name="English">The foe’s Lucky Charm wore off!</language>
 	</row>
 	<row id="msg_0197_01087" index="1087">
 		<attribute name="window_context_name">used</attribute>
@@ -4978,11 +4978,11 @@
 	</row>
 	<row id="msg_0197_01241" index="1241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lucky Chant shielded your team\nfrom critical hits!</language>
+		<language name="English">The Lucky Charm shielded your team\nfrom critical hits!</language>
 	</row>
 	<row id="msg_0197_01242" index="1242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lucky Chant shielded the foe\nfrom critical hits!</language>
+		<language name="English">The Lucky Charm shielded the foe\nfrom critical hits!</language>
 	</row>
 	<row id="msg_0197_01243" index="1243">
 		<attribute name="window_context_name">used</attribute>

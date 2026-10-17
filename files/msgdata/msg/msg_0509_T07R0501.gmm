@@ -10,19 +10,19 @@
 	</row>
 	<row id="msg_0509_T07R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I woke up and realized my potential!\rSo, what potential was woken in me?\nWhat’s my hidden power, you ask?\rIt’s a power that lets me see the\nHidden Power of a Pokémon.\rWhen they learn that move, I can tell\nwhat type the move will be.\rSo, want me to use my hidden power?\rI’ll tell you what type your\nPokémon’s Hidden Power will be. {YESNO 0}</language>
+		<language name="English">I woke up and realized my potential!\rSo, what potential was woken in me?\nWhat’s my hidden power, you ask?\rIt’s a power that lets me see the\nHidden Strap of a Pokémon.\rWhen they learn that move, I can tell\nwhat type the move will be.\rSo, want me to use my hidden power?\rI’ll tell you what type your\nPokémon’s Hidden Strap will be. {YESNO 0}</language>
 	</row>
 	<row id="msg_0509_T07R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you what type your Pokémon’s\nHidden Power will be.\rMy own hidden power lets me\ndo that. {YESNO 0}</language>
+		<language name="English">I’ll tell you what type your Pokémon’s\nHidden Strap will be.\rMy own hidden power lets me\ndo that. {YESNO 0}</language>
 	</row>
 	<row id="msg_0509_T07R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If this Pokémon were to learn\nHidden Power, the move’s type\fwould be {STRVAR_1 15, 0, 0}.</language>
+		<language name="English">If this Pokémon were to learn\nHidden Strap, the move’s type\fwould be {STRVAR_1 15, 0, 0}.</language>
 	</row>
 	<row id="msg_0509_T07R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon’s Hidden Power is the\n{STRVAR_1 15, 0, 0} type.</language>
+		<language name="English">This Pokémon’s Hidden Strap is the\n{STRVAR_1 15, 0, 0} type.</language>
 	</row>
 	<row id="msg_0509_T07R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0509_T07R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no. This Pokémon can’t learn the\nmove Hidden Power in the first place.</language>
+		<language name="English">Oh, no. This Pokémon can’t learn the\nmove Hidden Strap in the first place.</language>
 	</row>
 	<row id="msg_0509_T07R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

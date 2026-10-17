@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0611_T26R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You!\nHow is your Pokémon training\fcoming along?\rHave you ever noticed that in the\nmountains, sometimes there are round\fboulders right in your way...?\rYou can move them with the\nhidden move Strength!\rHikers at Mt. Mortar sometimes have\nextra, or so I’ve heard...</language>
+		<language name="English">You!\nHow is your Pokémon training\fcoming along?\rHave you ever noticed that in the\nmountains, sometimes there are round\fboulders right in your way...?\rYou can move them with the\nhidden move Muscle!\rHikers at Mt. Mortar sometimes have\nextra, or so I’ve heard...</language>
 	</row>
 	<row id="msg_0611_T26R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

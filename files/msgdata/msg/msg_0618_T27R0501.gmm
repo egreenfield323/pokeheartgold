@@ -115,7 +115,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s Surf.\nIt’s a move that lets Pokémon swim\facross water with ease.\r</language>
+		<language name="English">That’s Hydrant Wave.\nIt’s a move that lets Pokémon swim\facross water with ease.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>

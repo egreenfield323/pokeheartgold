@@ -228,10 +228,10 @@
 	</row>
 	<row id="msg_0451_T01R0301_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: That Hidden Machine\ncontains the move Rock Climb!\rWhen you teach it to a Pokémon,\nyou can go up rock walls that have\fsteps carved in them.\r</language>
+		<language name="English">Professor Oak: That Hidden Machine\ncontains the move Wall Climb!\rWhen you teach it to a Pokémon,\nyou can go up rock walls that have\fsteps carved in them.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you use Rock Climb,\nyou can go up rock walls that have\fsteps carved in them.\rYou will discover all sorts\nof new things!</language>
+		<language name="English">When you use Wall Climb,\nyou can go up rock walls that have\fsteps carved in them.\rYou will discover all sorts\nof new things!</language>
 	</row>
 </body>

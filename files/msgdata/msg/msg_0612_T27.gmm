@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0612_T27_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go west from this city, you’ll\nreach a port called Olivine City.\rWhen your Pokémon learns Surf,\nyou can go out to the ocean from\fRoute 40 without a ship!</language>
+		<language name="English">If you go west from this city, you’ll\nreach a port called Olivine City.\rWhen your Pokémon learns Hydrant Wave,\nyou can go out to the ocean from\fRoute 40 without a ship!</language>
 	</row>
 	<row id="msg_0612_T27_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

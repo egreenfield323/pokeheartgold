@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0122_D39R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The item you picked up over there...\nit was an HM, wasn’t it?\rI am the one who dropped it...but I\nwant you to keep it.\fYou took the time to get it, right?\rIt contains Waterfall.\nHave fun climbing waterfalls!\rMe?\rI still need a new pair of shoes\nbefore I can enjoy waterfalls.</language>
+		<language name="English">The item you picked up over there...\nit was an HM, wasn’t it?\rI am the one who dropped it...but I\nwant you to keep it.\fYou took the time to get it, right?\rIt contains Wet Ya Up.\nHave fun climbing waterfalls!\rMe?\rI still need a new pair of shoes\nbefore I can enjoy waterfalls.</language>
 	</row>
 	<row id="msg_0122_D39R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

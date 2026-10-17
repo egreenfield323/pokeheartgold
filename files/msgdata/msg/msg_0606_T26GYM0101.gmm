@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: It is called Iron Tail...\rYour Pokémon will hit the target\nwith its hard tail, occasionally\flowering the target’s Defense...</language>
+		<language name="English">Jasmine: It is called Steel Toe...\rYour Pokémon will hit the target\nwith its hard tail, occasionally\flowering the target’s Defense...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

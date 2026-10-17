@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: With that Chain, Pokémon,\nincluding traded Pokémon up to Lv. 20,\fwill obey you without question.\rIt also enables you to use the hidden\nmove Rock Smash anytime outside\fof battle.\r</language>
+		<language name="English">Falkner: With that Chain, Pokémon,\nincluding traded Pokémon up to Lv. 20,\fwill obey you without question.\rIt also enables you to use the hidden\nmove Smash n Grab anytime outside\fof battle.\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: By using a TM, a Pokémon will\ninstantly learn a new move.\rThink before you act--a TM can be\nused only once.\rTM51 contains Roost.\nIt restores half the max HP.\rThere are blocks in cities and\ntowns ahead. Make good use of them!\rAs for your next move...\fI would suggest Azalea Town.</language>
+		<language name="English">Falkner: By using a TM, a Pokémon will\ninstantly learn a new move.\rThink before you act--a TM can be\nused only once.\rTM51 contains Crash Pad.\nIt restores half the max HP.\rThere are blocks in cities and\ntowns ahead. Make good use of them!\rAs for your next move...\fI would suggest Azalea Town.</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

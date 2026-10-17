@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0560_T22R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If asleep, your Pokémon can use only\ncertain moves, such as Sleep Talk and\fSnore.\rA sleeping Pokémon doesn’t wake up\nafter battle.\fWake it up with an Awakening.\r</language>
+		<language name="English">If asleep, your Pokémon can use only\ncertain moves, such as Dream Talk and\fLoud Snore.\rA sleeping Pokémon doesn’t wake up\nafter battle.\fWake it up with an Awakening.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

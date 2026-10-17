@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0691_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
+		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Catch Flight back\nanytime?\rWhat’s that?\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
+		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Catch Flight back\nanytime?\rWhat’s that?\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

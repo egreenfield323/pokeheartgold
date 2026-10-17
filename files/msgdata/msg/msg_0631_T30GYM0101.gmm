@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: That contains Dragon Pulse.\rWell, Dragon Pulse is a kind of...umm...\nNever mind!\rIt’s a huge energy of some kind.\nIf you don’t want it, you don’t\fhave to take it.\r</language>
+		<language name="English">Clair: That contains Dragon Beam.\rWell, Dragon Beam is a kind of...umm...\nNever mind!\rIt’s a huge energy of some kind.\nIf you don’t want it, you don’t\fhave to take it.\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

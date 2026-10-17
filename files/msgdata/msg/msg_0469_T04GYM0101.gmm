@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: It contains the move\nWater Pulse.\rIt can sometimes confuse your foe.\rYou’ve managed to defeat Hustlers\nall the way from Johto.\fI’m sure you have a good use for it.</language>
+		<language name="English">Misty: It contains the move\nWater Bomb.\rIt can sometimes confuse your foe.\rYou’ve managed to defeat Hustlers\nall the way from Johto.\fI’m sure you have a good use for it.</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

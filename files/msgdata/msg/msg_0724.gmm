@@ -410,11 +410,11 @@
 	</row>
 	<row id="msg_0724_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do the monster Meteor Mash!\nIt’s my catchphrase!</language>
+		<language name="English">Do the monster Moon Punch!\nIt’s my catchphrase!</language>
 	</row>
 	<row id="msg_0724_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Meteor Mash goes to your heart!\r</language>
+		<language name="English">My Moon Punch goes to your heart!\r</language>
 	</row>
 	<row id="msg_0724_00104" index="104">
 		<attribute name="window_context_name">used</attribute>

@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0572_T24_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You crossed the sea to get here?\rThat must have been hard.\rIt would be much easier if your\nPokémon knew how to Fly...\r</language>
+		<language name="English">You crossed the sea to get here?\rThat must have been hard.\rIt would be much easier if your\nPokémon knew how to Catch Flight...\r</language>
 	</row>
 	<row id="msg_0572_T24_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But you can’t use Fly without this\ncity’s Block Chain.\rIf you beat the Block Boss here,\ncome see me.\fI’ll have a nice gift for you.</language>
+		<language name="English">But you can’t use Catch Flight without\nthis city’s Block Chain.\rIf you beat the Block Boss here,\ncome see me.\fI’ll have a nice gift for you.</language>
 	</row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -19,7 +19,7 @@
 	</row>
 	<row id="msg_0572_T24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach Fly to your Pokémon.\rYou will be able to Fly instantly\nto anywhere you have visited.</language>
+		<language name="English">Teach Catch Flight to your Pokémon.\rYou will be able to Catch Flight\ninstantly to anywhere you have visited.</language>
 	</row>
 	<row id="msg_0572_T24_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -51,11 +51,11 @@
 	</row>
 	<row id="msg_0572_T24_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you use Fly, you can get back\nto Olivine instantly.</language>
+		<language name="English">If you use Catch Flight, you can get\nback to Olivine instantly.</language>
 	</row>
 	<row id="msg_0572_T24_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boulders to the north of town can\nbe crushed.\rThey may be hiding something.\nYour Pokémon could use Rock Smash to\fbreak them.</language>
+		<language name="English">Boulders to the north of town can\nbe crushed.\rThey may be hiding something.\nYour Pokémon could use Smash n Grab to\fbreak them.</language>
 	</row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

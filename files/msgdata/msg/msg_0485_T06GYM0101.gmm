@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0485_T06GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: That TM contains\nShock Wave... Zzzap!\rUse it to go like lightning!\rWhen you go north, you will see\na big city called Saffron!</language>
+		<language name="English">Lt. Surge: That TM contains\nStatic Shock... Zzzap!\rUse it to go like lightning!\rWhen you go north, you will see\na big city called Saffron!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

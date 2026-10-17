@@ -66,11 +66,11 @@
 	</row>
 	<row id="msg_0047_D01R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Good looks!\nI have been looking for BONSLY!\rThe RHYHORN I gave you knows the move\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!</language>
+		<language name="English">Brock: Good looks!\nI have been looking for BONSLY!\rThe RHYHORN I gave you knows the move\nTaser Grill! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: That RHYHORN I gave you knows\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!\n\n</language>
+		<language name="English">Brock: That RHYHORN I gave you knows\nTaser Grill! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!\n\n</language>
 	</row>
 	<row id="msg_0047_D01R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

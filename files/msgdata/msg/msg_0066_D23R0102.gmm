@@ -247,15 +247,15 @@
 	</row>
 	<row id="msg_0066_D23R0102_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tackle</language>
+		<language name="English">FMJ</language>
 	</row>
 	<row id="msg_0066_D23R0102_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Growl</language>
+		<language name="English">Talk Trash</language>
 	</row>
 	<row id="msg_0066_D23R0102_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mud-Slap</language>
+		<language name="English">Mudslinging</language>
 	</row>
 	<row id="msg_0066_D23R0102_00064" index="64">
 		<attribute name="window_context_name">used</attribute>

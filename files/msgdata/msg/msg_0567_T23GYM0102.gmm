@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0567_T23GYM0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Do you know the benefits of the\nHive Chain?\rIf you have it, Pokémon up to Lv. 30\nwill obey you, even traded ones.\rPokémon that know Cut will be able\nto use it outside of battle, too.\rHere, I also want you to have this.\r</language>
+		<language name="English">Bugsy: Do you know the benefits of the\nHive Chain?\rIf you have it, Pokémon up to Lv. 30\nwill obey you, even traded ones.\rPokémon that know Shank will be able\nto use it outside of battle, too.\rHere, I also want you to have this.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0567_T23GYM0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: TM89 contains U-turn.\rIt lets your Pokémon attack, then\nswitch with the next Pokémon\fin your party.\rIsn’t that great?</language>
+		<language name="English">Bugsy: TM89 contains U-Turn.\rIt lets your Pokémon attack, then\nswitch with the next Pokémon\fin your party.\rIsn’t that great?</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

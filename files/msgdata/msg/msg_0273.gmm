@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0273_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly to {STRVAR_1 4, 0, 0}?</language>
+		<language name="English">Catch Flight to {STRVAR_1 4, 0, 0}?</language>
 	</row>
 	<row id="msg_0273_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0273_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly</language>
+		<language name="English">Catch Flight</language>
 	</row>
 	<row id="msg_0273_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

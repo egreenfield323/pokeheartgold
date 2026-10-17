@@ -43,11 +43,11 @@
 	</row>
 	<row id="msg_0704_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rWhen it’s raining, Thunder is sure\nto strike.</language>
+		<language name="English">Did you know...?\rWhen it’s raining, Power Line is sure\nto strike.</language>
 	</row>
 	<row id="msg_0704_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf you use Defense Curl, Rollout’s\npower goes way up past normal.</language>
+		<language name="English">Did you know...?\rIf you use Fetal Pos., Roll Out’s\npower goes way up past normal.</language>
 	</row>
 	<row id="msg_0704_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -55,27 +55,27 @@
 	</row>
 	<row id="msg_0704_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf the opponent uses Minimize, your\nStomp becomes more powerful.</language>
+		<language name="English">Did you know...?\rIf the opponent uses Duck Down, your\nCurb Stomp becomes more powerful.</language>
 	</row>
 	<row id="msg_0704_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf your opponent is Flying, your Gust\nbecomes much more powerful.</language>
+		<language name="English">Did you know...?\rIf your foe is Flying, your Fan Blast\nbecomes much more powerful.</language>
 	</row>
 	<row id="msg_0704_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf your opponent is Flying, your Twister\nbecomes more powerful.</language>
+		<language name="English">Did you know...?\rIf your opponent is Flying, your\nTornado becomes more powerful.</language>
 	</row>
 	<row id="msg_0704_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf your opponent uses Dig, your\nEarthquake becomes more powerful.</language>
+		<language name="English">Did you know...?\rIf your opponent uses Lay Low, your\nBass Drop becomes more powerful.</language>
 	</row>
 	<row id="msg_0704_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rIf your opponent uses Dig, your\nMagnitude becomes more powerful.</language>
+		<language name="English">Did you know...?\rIf your opponent uses Lay Low, your\nBig Bass becomes more powerful.</language>
 	</row>
 	<row id="msg_0704_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...?\rThe Rock, Ground, and Steel types\ncan’t be hurt by Sandstorm.</language>
+		<language name="English">Did you know...?\rThe Rock, Ground, and Steel types\ncan’t be hurt by Dust Up.</language>
 	</row>
 	<row id="msg_0704_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

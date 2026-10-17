@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0531_T11GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: It contains Skill Swap!\nIt swaps Abilities between the user\fand the target.\rYou will become a celebrated and\nbeloved Kingpin!</language>
+		<language name="English">Sabrina: It contains Trade Spots!\nIt swaps Abilities between the user\fand the target.\rYou will become a celebrated and\nbeloved Kingpin!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

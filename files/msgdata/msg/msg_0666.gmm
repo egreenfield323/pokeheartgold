@@ -202,7 +202,7 @@
 	</row>
 	<row id="msg_0666_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you Headbutt a tree, sometimes\na Pokémon might fall out!\r</language>
+		<language name="English">If you Dome Check a tree, sometimes\na Pokémon might fall out!\r</language>
 	</row>
 	<row id="msg_0666_00051" index="51">
 		<attribute name="window_context_name">used</attribute>

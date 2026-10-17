@@ -43,7 +43,7 @@
 	</row>
 	<row id="msg_0397_R39R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That there’s Natural Gift.\rIts move type and Power will depend\non the Berry yer Pokémon holds.\rWhen you use it once, the Berry’s gone.\nYou best think how you ought to\fuse it, hon.</language>
+		<language name="English">That there’s Fruit Throw.\rIts move type and Power will depend\non the Berry yer Pokémon holds.\rWhen you use it once, the Berry’s gone.\nYou best think how you ought to\fuse it, hon.</language>
 	</row>
 	<row id="msg_0397_R39R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

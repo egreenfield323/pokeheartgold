@@ -197,7 +197,7 @@
 	</row>
 	<row id="msg_0430_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can place it using Surf.\nThe Pokémon by the\nwater seem to like it.</language>
+		<language name="English">You can place it using Hydrant Wave.\nThe Pokémon by the\nwater seem to like it.</language>
 	</row>
 	<row id="msg_0430_00049" index="49">
 		<attribute name="window_context_name">used</attribute>

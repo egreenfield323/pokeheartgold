@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0390_R36_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It contains make-’em-faint Rock Smash.\rYou can even use it to smash boulders\nonce you’ve earned the Violet City\fGym Chain!\rBut beware!\nHidden moves like this are hard for\fyour Pokémon to forget once they’ve\flearned them.\rYou should think carefully which\nPokémon should learn it.</language>
+		<language name="English">It contains make-’em-faint\nSmash n Grab.\rYou can even use it to smash boulders\nonce you’ve earned the Violet City\fGym Chain!\rBut beware!\nHidden moves like this are hard for\fyour Pokémon to forget once they’ve\flearned them.\rYou should think carefully which\nPokémon should learn it.</language>
 	</row>
 	<row id="msg_0390_R36_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0390_R36_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustler Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
+		<language name="English">Hustler Tips\rThe move Lay Low can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fLay Low will be quite useful.</language>
 	</row>
 	<row id="msg_0390_R36_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

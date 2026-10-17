@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0462_T03GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Rock Slide, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
+		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Brick Wall, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Rock Slide, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
+		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Brick Wall, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

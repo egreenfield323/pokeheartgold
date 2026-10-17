@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0413_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West: Eek! East! H-help!\nNarrator: The young couple came to\nthe Lake of Rage. West accidentally sat\non a GYARADOS, which is now swimming\naround the lake with West on its back!\nEast: Oh no! West! I can’t swim! And I\ndon’t have any Pokémon that know Surf!\nNarrator: The GYARADOS that West is\nriding around on refuses to listen to\nEast’s attempts to get its attention!\nIt’s crashing through the waves on\nthe lake!\nThe Serial Radio Drama: Waves of Love!\nTheir love will last forever!</language>
+		<language name="English">West: Eek! East! H-help!\nNarrator: The young couple came to\nthe Lake of Rage. West accidentally sat\non a GYARADOS, which is now swimming\naround the lake with West on its back!\nEast: Oh no! West! I can’t swim! And I\ndon’t have any Pokémon that know\nHydrant Wave!\nNarrator: The GYARADOS that West is\nriding around on refuses to listen to\nEast’s attempts to get its attention!\nIt’s crashing through the waves on\nthe lake!\nThe Serial Radio Drama: Waves of Love!\nTheir love will last forever!</language>
 	</row>
 	<row id="msg_0413_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

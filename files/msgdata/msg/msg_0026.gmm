@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0026_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of boulders pushed using the\nhidden move Strength</language>
+		<language name="English">No. of boulders pushed using the\nhidden move Muscle</language>
 	</row>
 	<row id="msg_0026_00064" index="64">
 		<attribute name="window_context_name">used</attribute>

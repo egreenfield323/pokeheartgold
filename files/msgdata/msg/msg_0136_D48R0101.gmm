@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0136_D48R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: The way to the Embedded Tower\nis harder than you can imagine.\rYou need to use Rock Climb\nas well as Surf.\r</language>
+		<language name="English">Chuck: The way to the Embedded Tower\nis harder than you can imagine.\rYou need to use Wall Climb\nas well as Hydrant Wave.\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

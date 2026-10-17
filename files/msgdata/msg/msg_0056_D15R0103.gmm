@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0056_D15R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\nThe way you battle is quite elegant.\rYou should be able to stand up\nto Falkner.\rAnd you should be able to make good use\nof this...\rIt is a Technical Machine called Flash.\nTake it with you!\r</language>
+		<language name="English">Hmmm...\nThe way you battle is quite elegant.\rYou should be able to stand up\nto Falkner.\rAnd you should be able to make good use\nof this...\rIt is a Technical Machine called\nFlashbang. Take it with you!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When a Pokémon learns Flash, you can\nilluminate caves no matter how dark\fthey may be.\rYou can try it on BELLSPROUT,\nfor example...</language>
+		<language name="English">When a Pokémon learns Flashbang, you\ncan illuminate caves no matter how dark\fthey may be.\rYou can try it on BELLSPROUT,\nfor example...</language>
 	</row>
 	<row id="msg_0056_D15R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

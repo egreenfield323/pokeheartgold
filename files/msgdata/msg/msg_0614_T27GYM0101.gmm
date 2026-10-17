@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0614_T27GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: By having the Fog Chain,\nPokémon up to Lv. 50, including traded\fPokémon, will obey you.\rAlso, Pokémon will be able to use Surf.\rHere is another thing...\nI want you to have this, too.\r</language>
+		<language name="English">Morty: By having the Fog Chain,\nPokémon up to Lv. 50, including traded\fPokémon, will obey you.\rAlso, Pokémon will be able to use\nHydrant Wave.\rHere is another thing...\nI want you to have this, too.\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0614_T27GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: It’s Shadow Ball. It causes\ndamage and may reduce Special Defense.\fUse it if it appeals to you.</language>
+		<language name="English">Morty: It’s Magic 8-Ball. It causes\ndamage and may reduce Special Defense.\fUse it if it appeals to you.</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

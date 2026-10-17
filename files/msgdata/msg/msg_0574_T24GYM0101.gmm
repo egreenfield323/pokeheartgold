@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0574_T24GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: The Storm Chain lets your\nPokémon Fly to any city or town you’ve\falready been to!\rHere, take this, too!\r</language>
+		<language name="English">Chuck: The Storm Chain lets your\nPokémon Catch Flight to any city or\ftown you’ve already been to!\rHere, take this, too!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: That is Focus Punch.\rIt doesn’t land if the foe you’re\nattacking hits you first, but it’s very\fpowerful if it manages to hit!</language>
+		<language name="English">Chuck: That is One Punch.\rIt doesn’t land if the foe you’re\nattacking hits you first, but it’s very\fpowerful if it manages to hit!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

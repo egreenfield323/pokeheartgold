@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: With this Chain, you’ll be able\nto use the HM move Rock Climb!\fHere!\rTake this as well!\r</language>
+		<language name="English">Blue: With this Chain, you’ll be able\nto use the HM move Wall Climb!\fHere!\rTake this as well!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: It contains Trick Room!\rIt allows slower Pokémon to move\nbefore faster Pokémon for a while.\rIt’s a very tricky move, ain’t it?\nHence the name!</language>
+		<language name="English">Blue: It contains Slow Mo!\rIt allows slower Pokémon to move\nbefore faster Pokémon for a while.\rIt’s a very tricky move, ain’t it?\nHence the name!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

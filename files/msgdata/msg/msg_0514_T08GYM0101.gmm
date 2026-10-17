@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You’re so tough!\nI have a special gift!\rIt’s Poison Jab, a powerful Poison-type\nmove that may poison its victim.\r</language>
+		<language name="English">Janine: You’re so tough!\nI have a special gift!\rIt’s Dirty Shiv, a powerful Poison-type\nmove that may poison its victim.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

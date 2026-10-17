@@ -170,11 +170,11 @@
 	</row>
 	<row id="msg_0168_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Selfdestruct used</language>
+		<language name="English">No. of Go Out Loud used</language>
 	</row>
 	<row id="msg_0168_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Explosion used</language>
+		<language name="English">No. of Kaboom used</language>
 	</row>
 	<row id="msg_0168_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

@@ -186,7 +186,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Draco Meteor’s destructive power\nis awe inspiring.\rHowever, using it will also lower\nthe user’s Special Attack.</language>
+		<language name="English">Meteor Drop’s destructive power\nis awe inspiring.\rHowever, using it will also lower\nthe user’s Special Attack.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -227,15 +227,15 @@
 	</row>
 	<row id="msg_0635_T30R0601_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Blast Burn to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">I should teach Burn It Down to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Hydro Cannon to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">I should teach Hydrant Bomb to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Frenzy Plant to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">I should teach Gun Garden to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>

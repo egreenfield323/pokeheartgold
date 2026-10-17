@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: The Plain Chain lets your\nPokémon use Strength outside\fof battle.\rOh, you can have this, too!\r</language>
+		<language name="English">Whitney: The Plain Chain lets your\nPokémon use Muscle outside\fof battle.\rOh, you can have this, too!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: It’s Attract!\nIt makes full use of a Pokémon’s charm.\rIsn’t it just perfect for a cutie\nlike me?\fThat’s right!\rI heard that this thing called the\nPokéathlon Dome is now open right next\fto the National Park.\rYou should go try it, since you’re\nso good at battling with your Pokémon!</language>
+		<language name="English">Whitney: It’s Rizz Up!\nIt makes full use of a Pokémon’s charm.\rIsn’t it just perfect for a cutie\nlike me?\fThat’s right!\rI heard that this thing called the\nPokéathlon Dome is now open right next\fto the National Park.\rYou should go try it, since you’re\nso good at battling with your Pokémon!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

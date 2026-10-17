@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s Sunny Day.\nIt powers up Fire-type moves for\fa while.</language>
+		<language name="English">It’s Heat Lamp.\nIt powers up Fire-type moves for\fa while.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
