@@ -2,102 +2,102 @@
 <body language="English">
 	<row id="msg_0073_D24R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\rA promising youth who is about to start\nthe journey of archaeology has\fjust arrived!\r</language>
+		<language name="English">Bravo!\rA promising youngblood about to start\nthe journey of archaeology just\fwalked in!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? Just a visitor?\nOh, I see...\fYou got me excited for nothing.</language>
+		<language name="English">What? Just a visitor?\nOh, aight...\fYou got me hype for nothin’.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My staff here at the Ruins Research\nCenter is excellent, and the research\fmakes good progress with absolutely\fno effort on my part.\rIf you have any questions, feel free to\ntalk to my staff!</language>
+		<language name="English">My staff here at the Research Center\nis top tier, and the research\fgoes good with zero effort\ffrom me.\rGot questions? Ask\nmy staff!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I managed to unravel quite a lot of the\nmystery of UNOWN with your help!\rThank you, good looks.\nThank you, again!</language>
+		<language name="English">We cracked a lot of the UNOWN\nmystery thanks to you!\rGood looks, fr.\nGood looks again!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ruins are about 1,500 years old.\nThat’s all we know about them.\rBut it’s not known why they were\nbuilt...or by whom.</language>
+		<language name="English">The ruins is like 1,500 years old.\nThat’s all we know.\rNobody know why they got\nbuilt... or who built ’em.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, did you catch an UNOWN?\nThat’s wonderful!\rCome to think of it... How come we’ve\nsuddenly started to see UNOWN?</language>
+		<language name="English">Sheesh, you caught a UNOWN?\nThat’s huge!\rNow that I think about it... why we\nall of a sudden seein’ UNOWN?</language>
 	</row>
 	<row id="msg_0073_D24R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rIt was you who solved the stone-panel\npuzzle that allowed UNOWN to appear.\rThose tablets are the key to waking\nup UNOWN!\rStill... Why would anyone make such\na key?\r</language>
+		<language name="English">You gotta hear this!\nThis a BIG discovery!\rYou solved the stone-panel puzzle\nthat made UNOWN show up.\rThem tablets is the key to wakin’\nup the UNOWN!\rStill... Why would anybody make\na key like that?\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rIf you turn on the radio in the ruins,\nyou can receive mysterious radio waves!\rIt’s proof that UNOWN communicate\nwith each other using radio waves!\r</language>
+		<language name="English">You gotta hear this!\nThis a BIG discovery!\rTurn on the radio in the ruins\nand you pick up weird radio waves!\rThat’s proof UNOWN talk to each\nother usin’ radio waves!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rThere are as many UNOWN as there are\nletters in the alphabet!\rThere have been 26 types confirmed.\nWhy don’t you collect them all?\r</language>
+		<language name="English">You gotta hear this!\nThis a BIG discovery!\rThere’s as many UNOWN as there is\nletters in the alphabet!\rWe confirmed 26 kinds.\nWhy don’t you catch ’em all?\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like the UNOWN Report\nI gave you?\rUNOWN are recorded as you catch them.\nIt is quite useful!</language>
+		<language name="English">How you like the UNOWN Report\nI gave you?\rIt log UNOWN as you catch ’em.\nPretty useful!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rWe have figured out that UNOWN are in a\ncertain order!\fLet me see your report.\r</language>
+		<language name="English">You gotta hear this!\nThis a BIG discovery!\rWe figured out UNOWN go in a\ncertain order!\fLemme see your report.\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nI put the UNOWN in the correct order!\fWe may be able to tell more about them.\r</language>
+		<language name="English">There!\nI put the UNOWN in the right order!\fMaybe we learn more about ’em now.\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou found a room with UNOWN symbols?\fThat is a big discovery!\rWe will study them right away.\r</language>
+		<language name="English">What?\nYou found a room with UNOWN symbols?\fThat’s a BIG discovery!\rWe on it right now.\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rWe have found two new UNOWN symbols!\rIt means that...\nThere must be two more kinds of UNOWN\fsomewhere...\r</language>
+		<language name="English">You gotta hear this!\nThis a BIG discovery!\rWe found two new UNOWN symbols!\rThat mean...\nThere’s two more kinds of UNOWN\fout there somewhere...\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nWe are learning more and more about the\fsymbols on the floor!\r...It seems that UNOWN were living at\nthe ruins with a human clan.\rIt is thought that this clan made the\nPokémon statues underground.\rThe UNOWN were easily scared and\nwouldn’t go outside.\rWhen more and more people started to\nappear around the ruins, the clan that\fwished to live in harmony with the UNOWN\feventually left...\rThanks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.\r</language>
+		<language name="English">You gotta hear this!\nWe learnin’ more and more about the\fsymbols on the floor!\r...Looks like UNOWN used to live at\nthe ruins with a human clan.\rWe think that clan made the\nhomie statues underground.\rThe UNOWN was real jumpy and\nwouldn’t go outside.\rWhen more and more people started\nshowin’ up around the ruins, the clan\fthat wanted peace with the UNOWN\fended up leavin’...\rThanks to our research and your\nhelp, we cracked a lotta their\fmystery!\rStill a whole lot we don’t know,\nof course.\rArchaeology never end.\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will let you know if I find out\nanything else.</language>
+		<language name="English">I’ll let you know if I find out\nanything else.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} opened the UNOWN Report\nand made notes!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} opened the UNOWN Report\nand took notes!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.</language>
+		<language name="English">Thanks to our research and your\nhelp, we cracked a lotta their\fmystery!\rStill a whole lot we don’t know,\nof course.\rArchaeology never end.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are odd patterns drawn on the\nwalls of the ruins.\rThey must be the keys for unraveling\nthe mystery of the ruins.</language>
+		<language name="English">There’s weird patterns drawn on the\nwalls of the ruins.\rThey gotta be the key to crackin’\nthe mystery of the ruins.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The strange Pokémon you saw in\nthe ruins?\rThey appear to be very much like the\ndrawings on the walls there.\rHmm...\rThat must mean there are many\ndifferent kinds of them...</language>
+		<language name="English">The weird homies you saw in\nthe ruins?\rThey look a lot like the\ndrawings on the walls.\rHmm...\rThat mean there gotta be\nmad different kinds of ’em...</language>
 	</row>
 	<row id="msg_0073_D24R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nI seem to be doing nothing?\rCome on!\nI may not look it, but I’m the one who\fdeveloped the UNOWN Report!</language>
+		<language name="English">Huh?\nIt look like I’m doin’ nothin’?\rCome on!\nI might not look it, but I’m the one\fwho made the UNOWN Report!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nExploration Year 10</language>
+		<language name="English">Ruins of Alph\nExploration Year 10. Still Lost.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mystery Pokémon\nName: UNOWN\fA total of 26 kinds found.</language>
+		<language name="English">Mystery Homie\nName: UNOWN\fA total of 26 kinds found.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph Research Report\rI dedicate this report to the\nResearch Center’s founder,\fProfessor Silktree...</language>
+		<language name="English">Ruins of Alph Research Report\rI dedicate this report to the\nResearch Center’s founder,\fProfessor Silktree... RIP.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many academic books.\r“Mysteries of the Ancients”\n“Code-Breaking Guidebook”\f“Weathering Ruins”</language>
+		<language name="English">There’s a bunch of nerd books.\r“Mysteries of the Ancients”\n“Code-Breaking for Dummies”\f“Weathering Ruins”</language>
 	</row>
 </body>

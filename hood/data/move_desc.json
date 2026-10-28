@@ -26,6 +26,7 @@
   "Mega Kick": "Kicks the door in on the foe. Heavy but sloppy.",
   "Jump Kick": "Jumps out the whip mid-ride. Hurts the user if it misses.",
   "Rolling Kick": "Rolls up spinning. May make the foe flinch.",
+  "Headbutt": "Checks the foe’s dome with a running headbutt. May make them flinch.",
   "Sand-Attack": "Pocket sand to the eyes. Lowers the foe’s accuracy.",
   "Horn Attack": "Leans on the air horn right in the foe’s ear.",
   "Fury Attack": "Spray and pray, two to five shots. Somebody’s getting hit.",
@@ -34,7 +35,7 @@
   "Wrap": "Duct tapes the foe for two to five turns.",
   "Thrash": "Crashes out for two to three turns, then gets confused.",
   "Double-Edge": "Goes kamikaze. Big damage but the user takes some recoil.",
-  "Tail Whip": "Mean mugs the foe so hard their Defense drops.",
+  "Tail Whip": "Twerks on the foe. So disrespectful their Defense drops.",
   "Poison Sting": "A quick shiv dipped in something nasty. May poison.",
   "Twineedle": "Double shiv, two stabs. May poison the foe.",
   "Pin Missile": "Fires a nail gun two to five times.",
@@ -73,7 +74,7 @@
   "SolarBeam": "Charges the big laser one turn, fires it the next.",
   "PoisonPowder": "Pepper spray to the face. Poisons the foe.",
   "Stun Spore": "Hits the foe with a stun gun. Paralyzes them.",
-  "Sleep Powder": "A sleeper hold. Puts the foe to sleep.",
+  "Sleep Powder": "Hands the foe a fat cigar. One drag and they’re out cold.",
   "Petal Dance": "Takes a victory lap for two to three turns, then gets confused.",
   "String Shot": "Silly string everywhere. Lowers the foe’s Speed.",
   "Dragon Rage": "Road rage. Always does 40 damage.",
@@ -239,5 +240,6 @@
   "Foresight": "Clocks the foe on sight. No hiding, no dodging, no ghosting.",
   "Water Pulse": "A water balloon to the dome. May leave the foe dazed and confused.",
   "Toxic": "A double cup of the dirty stuff, to the face. Badly poisons the foe.",
-  "Take Down": "Charges in swinging a folding chair. Hurts the user too."
+  "Take Down": "Charges in swinging a folding chair. Hurts the user too.",
+  "Aqua Ring": "Kicks back on a pool float. Restores a little HP every turn."
 }

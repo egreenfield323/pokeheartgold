@@ -1,0 +1,14 @@
+{
+  "_comment": "Violet Corner Store. Elm's assistant hands you the Egg (on minimum wage).",
+  "0": "When you first recruit a homie,\\nit might be weak.\\rBut put in the work and it'll\\ncome up strong.\\rShow your homies love, fr.",
+  "1": "Homies can hold stuff like Hennessy\\nor a Pepto.\\rBut they don't know how to use\\nnothin' man-made. Like, at all.",
+  "2": "Long time no see, {STRVAR_1 3, 0, 0}.\\nI been waitin' on you.\\fThis from Professor Elm.\\rThing is... we need you to\\nwatch an Egg for us! {YESNO 0}",
+  "3": "Long time no see, {STRVAR_1 3, 0, 0}.\\nI been waitin' on you.\\fThis from Professor Elm.\\rThing is... we need you to\\nwatch an Egg for us! {YESNO 0}",
+  "4": "{STRVAR_1 3, 0, 0} got\\nthe Egg from the assistant!",
+  "5": "After you left, Elm got a phone\\ncall. I don't know who it was.\\rThen Elm just yelled out,\\n“Ain't nobody better for this than\\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\\rThen he made me bring you\\nthis Egg.\\rSo here I am. Deliverin' eggs.\\nFor minimum wage.\\rApparently it only hatch if you\\nkeep it in your crew.\\fThat's another reason we picked\\fyou, {STRVAR_1 3, 0, 0}.\\rTake care of it, for real!\\r",
+  "6": "After you left, Elm got a phone\\ncall. I don't know who it was.\\rThen Elm just yelled out,\\n“Ain't nobody better for this than\\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\\rThen he made me bring you\\nthis Egg.\\rSo here I am. Deliverin' eggs.\\nFor minimum wage.\\rApparently it only hatch if you\\nkeep it in your crew.\\fThat's another reason we picked\\fyou, {STRVAR_1 3, 0, 0}.\\rTake care of it, for real!\\r",
+  "7": "Your crew full.\\nYou can't take the Egg yet.\\fI'll wait. I get paid hourly.",
+  "8": "What?\\nYou said NO?!\\fYou playin', right?\\rProfessor Elm REALLY want you\\nto watch it...\\n\\n",
+  "9": "{STRVAR_1 3, 0, 0},\\nyou takin' this Egg or what? {YESNO 0}",
+  "10": "{STRVAR_1 3, 0, 0},\\nyou takin' this Egg or what? {YESNO 0}"
+}

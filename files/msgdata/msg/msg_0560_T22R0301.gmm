@@ -2,55 +2,55 @@
 <body language="English">
 	<row id="msg_0560_T22R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Earl, I am!\nWonderful are Pokémon, yes!\rTeach you I will to be a better Hustler!\rWhat you want to know?\nWant to be a winner is you? {YESNO 0}</language>
+		<language name="English">I’m Earl! Professor of the\nstreets, PhD in homies!\rI’ma make you a better Hustler!\rWhat you wanna know?\nYou tryna win? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! Teach you, I will!\nIn battle, Pokémon top on list,\fthe walking one, jump out first!\rChange order in list, make battle\neasy, maybe!\rMore from me you want to hear? {YESNO 0}</language>
+		<language name="English">Bet! Lesson one!\nThe homie at the top of your\fcrew, the one walkin’ with you,\fjump out first in a scrap!\rSwitch up the order, make\nscraps easier, maybe!\rYou want more game from me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, want to know how to raise\nPokémon well? {YESNO 0}</language>
+		<language name="English">So, you wanna know how to raise\nhomies right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine! Teach you, I will!\nIf Pokémon come out in battle even\fbriefly, some Exp. Points it gets.\rKeep out weak Pokémon,\nswitch in battle quick!\rThis way, weak Pokémon very\nstrong become!\fMore from me you want to hear? {YESNO 0}</language>
+		<language name="English">Bet! Listen!\nIf a homie jump in a scrap even\ffor a sec, it get some Exp. Points.\rLead with the weak homie,\nswitch it out quick!\rThat’s how weak homies\ncome up strong!\fYou want more game from me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, want to know how to\nbattle well? {YESNO 0}</language>
+		<language name="English">So, you wanna know how to\nscrap better? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine! Teach you, I will!\nPokémon have goods and bads\fbecause many types.\rHigh-level Pokémon not win always\nif bad types.\rPokémon with good types\nfor the foe, you choose.\fSmart battle, it is!</language>
+		<language name="English">Bet! Listen up!\nHomies got strengths and\fweaknesses ’cause of types.\rHigh-level homies don’t always\nwin with bad matchups.\rPick homies with types that\nclap the other homie.\fThat’s a smart scrap!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! Smart student you are!\nNothing more do I teach!\rGood to Pokémon you must be!</language>
+		<language name="English">Ohh! You a smart student!\nI got nothin’ left to teach!\rBe good to your homies, aight?</language>
 	</row>
 	<row id="msg_0560_T22R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m taking notes of the teacher’s\nlecture.\rI’d better copy the stuff on the\nblackboard, too.</language>
+		<language name="English">I’m takin’ notes on the teacher’s\nlecture.\rI gotta copy the stuff off\nthe board too. Ugh.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I traded my best Pokémon to the\nguy beside me.</language>
+		<language name="English">I traded my best homie to the kid\nnext to me. Biggest L of my life.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? The Pokémon I just got is\nholding something!</language>
+		<language name="English">Huh? The homie I just got is\nholdin’ somethin’!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Some Berries can restore a\nPokémon’s health.\rMany other items can be held\nby Pokémon...\rIt sure is tough taking notes...</language>
+		<language name="English">...Some Berries can heal\na homie up.\rLots of other stuff homies\ncan hold too...\rTakin’ notes is HARD, bro...</language>
 	</row>
 	<row id="msg_0560_T22R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon have what are called\nabilities!\rIt seems that each kind of Pokémon has\ndistinct abilities.\rThey say these abilities come in handy\nin battle!</language>
+		<language name="English">Homies got somethin’ called\nabilities!\rLooks like every kind of homie\ngot its own thing.\rThey say abilities come in\nclutch in a scrap!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The blackboard explains Pokémon\nstatus changes in battle.\r</language>
+		<language name="English">The board explain status\nproblems in scraps.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,67 +58,67 @@
 	</row>
 	<row id="msg_0560_T22R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If poisoned, a Pokémon steadily\nloses HP.\rThe poison lingers after the battle,\nand HP is lost as you walk.\fTo cure it, use an Antidote.\r</language>
+		<language name="English">If it’s food poisoned, a homie\nkeep losin’ HP.\rIt don’t stop after the scrap,\nyou lose HP walkin’ too.\fHit it with a Pepto.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Paralysis reduces speed and may\nprevent movement.\rIt remains after battle, so use\na Parlyz Heal.\r</language>
+		<language name="English">Gettin’ tased cut speed and might\nstop it from movin’.\rIt stay after the scrap, so\nrub on some Icy Hot.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If asleep, your Pokémon can use only\ncertain moves, such as Dream Talk and\fLoud Snore.\rA sleeping Pokémon doesn’t wake up\nafter battle.\fWake it up with an Awakening.\r</language>
+		<language name="English">If your homie passed out, it can\nonly use moves like Dream Talk and\fLoud Snore.\rA passed-out homie don’t wake up\nafter the scrap.\fWake it up with a Red Bull.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A burn consumes HP, little by little,\nand also reduces the Attack stat.\rA burn lingers after battle.\nUse a Burn Heal as the cure.\r</language>
+		<language name="English">A burn eat HP, little by little,\nand cut the Attack stat too.\rIt stay after the scrap.\nSlap some Aloe Vera on it.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If your Pokémon is frozen,\nit can’t do a thing.\rIt remains frozen after battle.\nThaw it out with an Ice Heal.\r</language>
+		<language name="English">If your homie iced out,\nit can’t do NOTHIN’.\rIt stay iced after the scrap.\nWarm it up with Hot Cheetos.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s this youngblood’s notebook...\r“Catch Pokémon using Hood Balls.\nUp to six can be in your party.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">It’s this youngblood’s notebook...\r“Recruit homies with Hood Balls.\nYou can roll with six max.”\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Before throwing a Hood Ball, weaken\nthe target first.”\r“A poisoned or burned Pokémon is\neasier to catch.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">“Before you throw a Hood Ball,\nrough ’em up first.”\r“A food poisoned or burnt homie\nis easier to recruit.”\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Some moves may cause confusion.\nConfusion may make a Pokémon attack\fitself.”\r“Leaving battle clears up any\nconfusion.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">“Some moves get a homie faded.\nA faded homie might hit\fitself.”\r“Leavin’ the scrap sobers\n’em up.”\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“People who catch and use Pokémon\nin battle are called Pokémon Hustlers.”\r“They are expected to visit Pokémon\nGyms and defeat other Hustlers.”\rThe next page is... Blank!\r</language>
+		<language name="English">“People who recruit homies and\nscrap with ’em are called Hustlers.”\r“They supposed to run up on\nblocks and beat other Hustlers.”\rThe next page is... Blank!\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boy: E-he-he...\nI haven’t written any more...</language>
+		<language name="English">Boy: Heh heh...\nI ain’t write nothin’ else...</language>
 	</row>
 	<row id="msg_0560_T22R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POISON</language>
+		<language name="English">TACOS</language>
 	</row>
 	<row id="msg_0560_T22R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARALYSIS</language>
+		<language name="English">TASED</language>
 	</row>
 	<row id="msg_0560_T22R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLEEP</language>
+		<language name="English">SNOOZE</language>
 	</row>
 	<row id="msg_0560_T22R0301_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BURN</language>
+		<language name="English">BURNT</language>
 	</row>
 	<row id="msg_0560_T22R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FROZEN</language>
+		<language name="English">ICED OUT</language>
 	</row>
 	<row id="msg_0560_T22R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">DIP</language>
 	</row>
 	<row id="msg_0560_T22R0301_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>

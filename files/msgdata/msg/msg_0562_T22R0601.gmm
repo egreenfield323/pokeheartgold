@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0562_T22R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rA Pokémon you get in a trade\ngrows quickly.\rBut if you don’t have the right Block\nBadge, they may disobey you.</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rA homie you get in a trade\ncome up quick.\rBut if you ain’t got the right\nBlock Chain, it might not listen.</language>
 	</row>
 	<row id="msg_0562_T22R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I collect Pokémon.\nDo you have BELLSPROUT?\rWant to trade it for my ONIX? {YESNO 0}</language>
+		<language name="English">I collect homies.\nYou got a BELLSPROUT?\rWanna trade it for my ONIX? {YESNO 0}</language>
 	</row>
 	<row id="msg_0562_T22R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got myself BELLSPROUT!\nThanks!</language>
+		<language name="English">Yesss! I got me a BELLSPROUT!\nGood looks!</language>
 	</row>
 	<row id="msg_0562_T22R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? That’s not BELLSPROUT.\fWhat a letdown...</language>
+		<language name="English">Huh? That ain’t no BELLSPROUT.\fYou tried to finesse me...</language>
 	</row>
 	<row id="msg_0562_T22R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade? Aww...</language>
+		<language name="English">You don’t wanna trade? Aww...\nBum.</language>
 	</row>
 	<row id="msg_0562_T22R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how’s my old ONIX doing?</language>
+		<language name="English">Ayo, how my old ONIX doin’?\nIt still eatin’ rocks?</language>
 	</row>
 </body>

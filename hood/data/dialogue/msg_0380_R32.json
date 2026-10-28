@@ -1,0 +1,21 @@
+{
+  "_comment": "Route 32. The SlowpokeTail scammer, the Yell Woop (Roar) guy.",
+  "0": "Wait up!\\nWhat's the rush?\\r",
+  "1": "{STRVAR_1 3, 0, 0}, right?\\nSome guy in glasses was lookin'\\ffor you.\\rGo see. He waitin' on you\\nat the Corner Store.",
+  "2": "{STRVAR_1 3, 0, 0}, right?\\nSome guy in glasses was lookin'\\ffor you.\\rGo see. He waitin' on you\\nat the Corner Store.\\r",
+  "3": "You hit up the block yet?\\rYou can test your homies and\\nyourself there.\\rEvery Hustler gotta go through it!",
+  "4": "You hit up the block yet?\\rYou can test your homies and\\nyourself there.\\rEvery Hustler gotta go through it!\\r",
+  "5": "You got some hard homies.\\rMust be from all that work you\\nput in around Violet City.\\rThat block musta been real\\nhelpful too.\\rHere, a lil souvenir from Violet.\\rIt power up Grass-type moves.\\r",
+  "7": "What you learned in Violet City\\ngon' help you out there.",
+  "8": "Ayo, your Bag is packed.",
+  "9": "Ayo, your Bag is packed.\\r",
+  "10": "WROOOOAR!\\rPEOPLE RUN WHEN I YELL WOOP!\\nBUT YOU CAME LOOKIN'!\\rTHAT'S RESPECT!\\nNOW TAKE THIS!\\r",
+  "12": "WROOOAR!\\nIT'S YELL WOOP!\\rEVEN HOMIES RUN\\nFROM A GOOD WOOP!",
+  "13": "WROOOAR! YOUR BAG IS FULL!",
+  "14": "Psst. You want a tasty,\\nnutritious SlowpokeTail?\\rFor you? Just $1,000,000!\\nIt's legit, I swear! {YESNO 0}",
+  "15": "Tch! I thought kids these days\\nhad bread...",
+  "16": "You don't want it?\\nThen beat it. Shoo! I ain't here.",
+  "17": "Rt. 32\\nSouth to Azalea. Watch Your Pockets.",
+  "18": "Ruins of Alph\\nEast Entrance. Old Rocks. Free.",
+  "19": "Union Cave ahead\\nNo Union Reps Inside"
+}

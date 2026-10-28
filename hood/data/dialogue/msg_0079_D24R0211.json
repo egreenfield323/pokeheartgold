@@ -1,0 +1,10 @@
+{
+  "_comment": "Ruins of Alph: the chamber where the UNOWN message shows up.",
+  "0": "It's a replica of an ancient homie.",
+  "1": "Hmmm.\\nWhen did this show up...?\\rWhat these symbols mean...\\f..................\\r",
+  "2": "Ayo, you!\\nBack to the Research Center!\\r",
+  "3": "The symbols on the stone panel\\nlooked like this...\\r",
+  "4": "OUR HOMIES LOOK\\nUP AND SHOW US\\fMAD LOVE\\r",
+  "5": "What that even mean?\\nWe gotta check the ruins again.\\r",
+  "6": "{STRVAR_1 3, 0, 0} opened the UNOWN Report\\nand took notes!"
+}

@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0056_D15R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elder: You showed us what you’ve got,\nand it is indeed good...\rTake this Technical Machine.\rHowever, you should care more about\nyour Pokémon.\rThe way you treat your Pokémon can\nbe too harsh...\rRemember, Pokémon are not tools\nof war...\r</language>
+		<language name="English">Elder: You showed us what you got,\nand it’s... it’s good...\rTake this TM.\rBut you gotta care more about\nyour homies.\rThe way you treat ’em can be\ncold, youngblood...\rHomies ain’t tools for\nwar...\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...\r...Humph!\nHe calls himself the Elder, but he was\fno match for me.\rSure enough, those who lecture how\nyou should be “nice” to Pokémon...\fThey cannot defeat me.\rAll I care about are strong Pokémon\nthat win every time.\rThe rest of them don’t mean anything\nto me.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...\r...Hmph!\nHe call himself the Elder, but he\fwas no match for me.\rFunny how the ones preachin’ about\nbein’ “nice” to homies...\fAlways lose to me.\rAll I care about is strong homies\nthat win every time.\rThe rest don’t mean nothin’\nto me.\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,26 +14,26 @@
 	</row>
 	<row id="msg_0056_D15R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So good of you to come here!\rSprout Tower is a place of training.\nPeople and Pokémon test their bonds\fto build a bright future together.\fI am the final test.\rAllow me to check the ties between\nyou and your Pokémon!\r</language>
+		<language name="English">Look who finally showed up!\rSprout Tower is where folks and\nhomies test their bond\fto build somethin’ real together.\fI’m the final test.\rLemme check how tight you\nand your homies really are!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\nThe way you battle is quite elegant.\rYou should be able to stand up\nto Falkner.\rAnd you should be able to make good use\nof this...\rIt is a Technical Machine called\nFlashbang. Take it with you!\r</language>
+		<language name="English">Hmmm...\nYou scrap real smooth.\rYou can handle Falkner,\nno doubt.\rAnd you can put this to use...\rIt’s a TM called Flashbang.\nTake it!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When a Pokémon learns Flashbang, you\ncan illuminate caves no matter how dark\fthey may be.\rYou can try it on BELLSPROUT,\nfor example...</language>
+		<language name="English">When a homie learn Flashbang, you\ncan light up caves no matter how dark\fthey are.\rTry it on BELLSPROUT,\nfor example...</language>
 	</row>
 	<row id="msg_0056_D15R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you learn and grow from\nyour journey.</language>
+		<language name="English">Learn and grow out there,\nyoungblood.</language>
 	</row>
 	<row id="msg_0056_D15R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a powerful painting of a\nBELLSPROUT.</language>
+		<language name="English">It’s a powerful paintin’ of a\nBELLSPROUT. Kinda fire, ngl.</language>
 	</row>
 	<row id="msg_0056_D15R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon statue...\nIt looks very distinguished.</language>
+		<language name="English">A homie statue...\nIt look real distinguished.</language>
 	</row>
 </body>

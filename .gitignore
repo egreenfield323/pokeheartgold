@@ -108,3 +108,7 @@ __pycache__
 .local-tools/
 .venv/
 *.pyc
+
+# Hood test captures (DeSmuME screenshots, the capture runner's command file)
+hood/test/out/
+hood/test/cmds.txt

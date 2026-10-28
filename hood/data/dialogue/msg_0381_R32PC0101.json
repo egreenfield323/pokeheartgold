@@ -1,0 +1,13 @@
+{
+  "_comment": "Route 32 Trap House. The Old Rod guy, the Apricorn superfan with the Lure Balls.",
+  "0": "This spot great for fishin'.\\nSeein' all them people fishin',\\fyou feelin' like tryin' it\\ftoo?\\rWant one of my Rods? {YESNO 0}",
+  "3": "When you wanna fish, face\\nthe water and use the Rod.\\rThen lock in and watch\\nthe water close!\\rWhen a “!” pop up, a homie\\ngot on the line!\\rSmash the A Button quick to\\nreel it in.\\rThen you'll see what's up.\\rIf there's water, ocean or\\ncreek, throw that Rod in.",
+  "4": "Oh. That's kinda weak, bro...",
+  "5": "When you wanna fish, face\\nthe water and use the Rod.\\rThen lock in and watch\\nthe water close!\\rWhen a “!” pop up, a homie\\ngot on the line!\\rSmash the A Button quick to\\nreel it in.\\rThen you'll see what's up.\\n",
+  "6": "What should I make my homie hold?\\rMaybe somethin' that\\npump up its Attack...",
+  "7": "Ayo.\\nHow you doin'?\\fYou pickin' Apricorns? {YESNO 0}",
+  "8": "Ayyy, lil Apricorn collector!\\rI'm feelin' so good, I wanna\\nbless you with this!\\r",
+  "9": "Why not? What a waste!\\rI'ma show you how fire\\nApricorns are!\\rTake this first.\\r",
+  "10": "Lure Ball!\\nThis Hood Ball make it easy to\\frecruit the homies that bite\\fwhen you go fishin'!\\rIt's made outta Apricorns, by\\nthe way. Take them two, on me.\\rWant more? Go to Azalea Town.\\nA man named Kurt make custom\\fHood Balls outta Apricorns.\\rApricorns run this!",
+  "11": "Kurt is a legend to every\\nApricorn collector out there.\\rIf you headed to Azalea Town,\\nmake sure you holla at him.\\rApricorn, Apricorner, Apricornest!"
+}

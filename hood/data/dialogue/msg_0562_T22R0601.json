@@ -1,0 +1,9 @@
+{
+  "_comment": "Violet trade house (BELLSPROUT for ONIX).",
+  "0": "A homie you get in a trade\\ncome up quick.\\rBut if you ain't got the right\\nBlock Chain, it might not listen.",
+  "1": "I collect homies.\\nYou got a BELLSPROUT?\\rWanna trade it for my ONIX? {YESNO 0}",
+  "2": "Yesss! I got me a BELLSPROUT!\\nGood looks!",
+  "3": "Huh? That ain't no BELLSPROUT.\\fYou tried to finesse me...",
+  "4": "You don't wanna trade? Aww...\\nBum.",
+  "5": "Ayo, how my old ONIX doin'?\\nIt still eatin' rocks?"
+}

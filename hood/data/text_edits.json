@@ -1,8 +1,8 @@
 {
   "msg_0056_D15R0103": {
     "2": "{STRVAR_1 3, 0, 0} called\\nthe Getaway Car!",
-    "4": "Hmmm...\\nThe way you battle is quite elegant.\\rYou should be able to stand up\\nto Falkner.\\rAnd you should be able to make good use\\nof this...\\rIt is a Technical Machine called\\nFlashbang. Take it with you!\\r",
-    "5": "When a Pokémon learns Flashbang, you\\ncan illuminate caves no matter how dark\\fthey may be.\\rYou can try it on BELLSPROUT,\\nfor example..."
+    "4": "Hmmm...\\nYou scrap real smooth.\\rYou can handle Falkner,\\nno doubt.\\rAnd you can put this to use...\\rIt’s a TM called Flashbang.\\nTake it!\\r",
+    "5": "When a homie learn Flashbang, you\\ncan light up caves no matter how dark\\fthey are.\\rTry it on BELLSPROUT,\\nfor example..."
   },
   "msg_0322_R02R0201": {
     "0": "Yo, you broke in?! I’m calling\\nthe cops AND my mama.\\rOh my good nuggets!\\nYou’re the first visitor I’ve had in a\\flong time.\\rI’m going crazy with joy!\\nSince you look as bright as a Nugget,\\flet me give you a little present.\\r"
@@ -119,11 +119,11 @@
     "1": "How’d you even get in here?!\\nI keep a bat by the door, bro.\\rI heard that each Pokémon has its own\\nnature, and it has something to do with\\fPokémon stats!\\n"
   },
   "msg_0561_T22R0401": {
-    "0": "Ayo, how’d you get in my house?!\\nI KNOW I locked that door.\\rShe uses the names of all the foods\\nshe really enjoys eating.\\rFor the nicknames she gives to her\\nPokémon, I mean.",
-    "1": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rI call my PIDGEY Strawberry!"
+    "0": "Ayo, how’d you get in my house?!\\nI KNOW I locked that door.\\rShe name all her homies after\\nher favorite foods.\\rLike, ALL of ’em.\\nIt’s a problem.",
+    "1": "Who are you?! Put my remote\\ndown. Slowly. Real slow.\\rI named my PIDGEY Strawberry.\\nDon’t laugh."
   },
   "msg_0562_T22R0601": {
-    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rA Pokémon you get in a trade\\ngrows quickly.\\rBut if you don’t have the right Block\\nBadge, they may disobey you."
+    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rA homie you get in a trade\\ncome up quick.\\rBut if you ain’t got the right\\nBlock Chain, it might not listen."
   },
   "msg_0571_T23R0501": {
     "0": "I got cameras, homie. Smile.\\nNow what you want?\\rHm? Who are you?\\r{STRVAR_1 3, 0, 0}, eh? You want me to make\\nsome Balls?\\rSorry, but that’ll have to wait.\\rDo you know The Feds?\\nAh, don’t worry. I’ll tell you anyhow.\\rThe Feds’ an evil gang that\\nuses Pokémon for their dirty work.\\rThey’re supposed to have disbanded\\nthree years ago.\\rAnyway, they’re at the well, cutting\\noff SlowpokeTails for sale!\\rSo I’m finna go give them a\\nlesson in pain!\\rHang on, SLOWPOKE!\\nOld Kurt is on his way!"
@@ -338,7 +338,7 @@
     "2": "It contains Iron Wing!\\rI remember I was wearing a dress\\ninspired by this move on my\\fdebut stage...\\rAlas...\\nBeing a legendary Idol is so demanding.\\rI’ve been retired for some time, but\\npeople never stop chasing after me...\\flike you!"
   },
   "msg_0378_R31": {
-    "8": "TM44 is...\\n...Zzz...\\f...\\r...Umm... Nap!\\rThe phrase “need a nap” became\\nshortened to “Nap,” you see?\\fThis is a move to sleep and recover HP."
+    "8": "TM44 is...\\n...Zzz...\\f...\\r...Umm... Nap!\\rLike, “I need a nap,” but\\nshorter. Nap. You feel me?\\fIt put you to sleep and heal you up."
   },
   "msg_0386_R34R0201": {
     "2": "It’s Diss Track.\\rUse it and the target Pokémon\\ncan only use moves that do damage\\fto your Pokémon for a while."
@@ -415,11 +415,11 @@
     "1": "TM29 is Chain Swing.\\rIt may lower the target’s Sp. Def."
   },
   "msg_0558_T22GYM0101": {
-    "3": "Falkner: With that Chain, Pokémon,\\nincluding traded Pokémon up to Lv. 20,\\fwill obey you without question.\\rIt also enables you to use the hidden\\nmove Smash n Grab anytime outside\\fof battle.\\r",
-    "4": "Falkner: By using a TM, a Pokémon will\\ninstantly learn a new move.\\rThink before you act--a TM can be\\nused only once.\\rTM51 contains Crash Pad.\\nIt restores half the max HP.\\rThere are blocks in cities and\\ntowns ahead. Make good use of them!\\rAs for your next move...\\fI would suggest Azalea Town."
+    "3": "Falkner: With that Chain, homies up\\nto Lv. 20, even traded ones,\\fwill listen to you, no questions.\\rIt also let you use the hidden\\nmove Smash n Grab outside of\\fbattle, whenever.\\r",
+    "4": "Falkner: Use a TM and a homie\\nlearn a new move on the spot.\\rThink before you use it--a TM\\nonly work once.\\rTM51 is Crash Pad.\\nIt heal up half the max HP.\\rThere’s blocks in the cities and\\ntowns up ahead. Run ’em all!\\rAs for where you go next...\\fI’d hit up Azalea Town."
   },
   "msg_0560_T22R0301": {
-    "16": "If asleep, your Pokémon can use only\\ncertain moves, such as Dream Talk and\\fLoud Snore.\\rA sleeping Pokémon doesn’t wake up\\nafter battle.\\fWake it up with an Awakening.\\r"
+    "16": "If your homie passed out, it can\\nonly use moves like Dream Talk and\\fLoud Snore.\\rA passed-out homie don’t wake up\\nafter the scrap.\\fWake it up with a Red Bull.\\r"
   },
   "msg_0567_T23GYM0102": {
     "3": "Bugsy: Do you know the benefits of the\\nHive Chain?\\rIf you have it, Pokémon up to Lv. 30\\nwill obey you, even traded ones.\\rPokémon that know Shank will be able\\nto use it outside of battle, too.\\rHere, I also want you to have this.\\r",

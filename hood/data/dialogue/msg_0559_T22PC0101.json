@@ -1,0 +1,21 @@
+{
+  "_comment": "Violet Trap House. Primo from the Show Me Show, the Feds history lesson.",
+  "9": "A guy named Bill made the homie\\nPC storage system.\\rYou can use it from the PC by\\nthe counter. Try it out.",
+  "10": "Like three years ago,\\nthis gang called The Feds\\fwas out here doin' dirt.\\fThey was abusin' homies.\\rBut!\\nDirt don't last!\\rSome kid ran 'em off the block\\nand The Feds got shut down!\\n\\n",
+  "11": "Homies ain't dumb.\\nA traded homie might not listen\\fright away. High-level homies\\fwon't listen if you ain't\\fgot enough Block Chains.",
+  "12": "Primo: Wassup!\\nYou KNOW this face. I'm from\\fthe TV show,\\f“The Show Me Show!”\\rI'm Primo, the big bro!\\rSo, fan, you wanna tell me\\nwhat you think of me? {YESNO 0}",
+  "13": "Primo: Whoa...!\\nThat's how you feel about me?!\\rI never thought about it like that.\\nAnyway, how you like how fun\\fand exciting I am?\\r",
+  "14": "Primo: For real?\\rThat give me brand-new energy\\nto go even harder!\\rGreat feedback! Good looks.\\nKeep watchin', fam!",
+  "15": "You can't be sayin' you\\nain't into the big bro...?\\rNah, that can't be true!\\nYou just busy right now,\\fain't you? Gotta be that!\\rHit me with some answers\\nwhen you got time for me.\\rPeace!",
+  "16": "Primo: ...!\\rAin't no regular fan know\\nthat kinda thing!\\rYou a Hustler, right?\\nI'ma pull some strings for you.\\rI can prob'ly get you a new\\nwallpaper for your PC Boxes.\\rKeep your TV locked on\\n“The Show Me Show!”\\rAnd don't forget about me,\\nthe big bro!",
+  "17": "Primo: ...!\\rAin't no regular fan know\\nthat kinda thing!\\rYou a Hustler, right?\\nI'ma pull some strings for you.\\rI can prob'ly hook you up\\nwith a Mystery Gift.\\rKeep your TV locked on\\n“The Show Me Show!”\\rAnd don't forget about me,\\nthe big bro!",
+  "18": "Primo: ...!\\rAin't no regular fan know\\nthat kinda thing!\\rYou a Hustler, right?\\nI'ma pull some strings for you.\\rI can prob'ly hook you up\\nwith this Egg.\\fTake care of it!\\r",
+  "19": "{STRVAR_1 3, 0, 0} got the\\n{STRVAR_1 0, 1, 0} Egg from Primo!",
+  "20": "Primo: ...!\\rAin't no regular fan know\\nthat kinda thing!\\rYou a Hustler, right?\\nI'ma pull some strings for you.\\rI can prob'ly hook you up\\nwith this Egg.\\fTake care of it!\\r...\\rYour crew full, so I\\ncan't give it to you!",
+  "21": "Hmm...\\rWhat kinda Hustler you\\nfeelin' the most?\\r",
+  "22": "What kinda Hustler you\\ntryna be? {YESNO 0}",
+  "23": "{STRVAR_1 14, 0, 0} is the kinda Hustler\\nyou tryna be? {YESNO 0}",
+  "24": "Bet! So {STRVAR_1 14, 0, 0} is the kinda\\nHustler you like.\\rThen people might start\\nseein' you like that too.\\r",
+  "25": "Holla at me again if you wanna\\nchange what kinda Hustler\\fyou like.",
+  "26": "Wassup! People been mistakin' you\\nfor {STRVAR_1 14, 0, 0}, huh?\\rBut I think you could pass for\\na different kinda Hustler.\\rSo what kinda Hustler\\nyou like?\\r"
+}

@@ -41,7 +41,11 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
            "burn2": 2011, "chop": 2039, "shadow": 1923, "shadow2": 1903, "loyal": 1928, "loyal2": 1920,
            "confuse": 1855, "confuse2": 1838, "twave": 1970, "twave2": 1952, "dteam": 1836,
            "wpulse": 1999, "wpulse2": 2023, "faint": 1838, "toxic": 1859, "toxic2": 1979, "protect": 1990,
-           "tdown": 1925, "tdown2": 1847, "tbolt": 2114, "tbolt2": 1952, "clock": 1841, "vineboom": 1973}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
+           "tdown": 1925, "tdown2": 1847, "tbolt": 2114, "tbolt2": 1952, "clock": 1841, "vineboom": 1973,
+           "vwhip": 2123, "vwhip2": 2127, "psting": 1905, "psting2": 2120, "twhip": 1844, "absorb": 1956,
+           "absorb2": 2003, "sshot": 1919, "sshot2": 1964, "bubble": 1997,
+           "sdestruct": 1993, "kaboom": 2113, "rollout": 1920, "rollout2": 1954, "focus": 1965, "swipe": 1908,
+           "aring": 2085, "mlook": 1948, "mlook2": 1985, "sucker": 1849, "disable": 1840, "sleep": 1960}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
 #                                            Screech, Earthquake, Bone Club, ...
 
 
@@ -53,7 +57,10 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   26 hydrant wave, 27 power line, 28 road rage, 29 fire breath (Molotov), 30 zaza leaf, 31 stomp out,
 #   32 grill chomp, 33 hollow point, 34 switchblade, 35 hot box, 36 burnout, 37 hi-yah chop, 38 magic 8-ball,
 #   39 loyalty, 40 flashlight, 41 stun taser, 42 bass boost, 43 squad up, 44 water bomb, 45 sneak diss,
-#   46 dirty sprite, 47 duck n cover, 48 smackdown, 49 big taser, 50 clock it
+#   46 dirty sprite, 47 duck n cover, 48 smackdown, 49 big taser, 50 clock it, 51 belt whip, 52 shiv,
+#   53 twerk on em, 54 tax, 55 silly string, 56 spit, 57 lace up, 58 go out loud, 59 roll out, 60 lock in,
+#   61 dome check, 62 pickpocket, 63 pool float, 64 block off, 65 cheap shot, 66 jam the gun, 67 sleeper,
+#   68 reload
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
@@ -77,6 +84,9 @@ MOVES = {
     "Shadow Ball": 38, "Return": 39,
     "Confuse Ray": 40, "Thunder Wave": 41, "Supersonic": 42, "Double Team": 43, "Water Pulse": 44,
     "Faint Attack": 45, "Toxic": 46, "Protect": 47, "Take Down": 48, "Thunderbolt": 49, "Foresight": 50,
+    "Vine Whip": 51, "Poison Sting": 52, "Tail Whip": 53, "Absorb": 54, "String Shot": 55, "Bubble": 56,
+    "Agility": 57, "Selfdestruct": 58, "Rollout": 59, "Focus Energy": 60, "Headbutt": 61, "Fury Swipes": 62,
+    "Aqua Ring": 63, "Mean Look": 64, "Sucker Punch": 65, "Disable": 66, "Sleep Powder": 67, "Recover": 68,
 }
 
 
@@ -151,7 +161,7 @@ def patch(rom):
 
 # the showcase pads these archives (with a trailing filler member nothing loads) to fixed sizes
 SDAT_SIZE = 9_200_000
-FIXED_SIZE = {"a/0/1/0": 600_000, "a/0/2/9": 2_900_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
+FIXED_SIZE = {"a/0/1/0": 700_000, "a/0/2/9": 3_300_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
               "a/0/8/1": 5_832_704,
               # everything else the build touches (text, learnsets, trainers, icons, title, intro, item icons)
               "a/0/2/7": 5_111_808, "a/0/0/2": 65_536, "a/0/3/3": 65_536, "a/0/5/8": 1_835_008, "a/2/5/6": 655_360, "a/2/4/8": 196_608, "a/0/2/0": 655_360, "a/0/4/6": 917_504, "a/1/7/4": 589_824, "a/0/1/8": 524_288, "a/1/2/0": 196_608}
@@ -211,6 +221,9 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     sdat = rom.getFileByName(SDAT)           # the sound archive is read by its internal offsets: pad the tail
     assert len(sdat) <= SDAT_SIZE, "sound archive outgrew its fixed showcase size; raise SDAT_SIZE"
     rom.setFileByName(SDAT, sdat + bytes(SDAT_SIZE - len(sdat)))
+    size = len(rom.save())                   # the padding can push it past the chip size in the header (128 MB):
+    while 0x20000 << rom.deviceCapacity < size:   # DeSmuME then calls the header invalid
+        rom.deviceCapacity += 1
     rom.saveToFile(out_path)
     print("showcase:", order, len(words), "words ->", out_path)
 

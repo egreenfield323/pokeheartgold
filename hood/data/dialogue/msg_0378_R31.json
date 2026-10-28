@@ -1,0 +1,19 @@
+{
+  "_comment": "Route 31. The sleepy Mail guy (Kenya) and the Dark Cave kids.",
+  "0": "...Hnnngh ...Huh?\\rI walked way too far today lookin'\\nfor homies to recruit.\\rMy dogs is barkin' and I'm\\nso tired, bro...\\rIf I was a wild homie, I'd be\\nthe easiest recruit ever...\\r...Zzzz...",
+  "1": "...Hnnngh! ...Huh?\\rI got a urge to read some words\\noff a piece of paper or somethin'...\\r...Zzz...\\n...!!\\r",
+  "2": "Huh? What?\\nWhat about that homie?\\fI ain't got no mail.\\rZzz...",
+  "3": "This Mail ain't for me.\\nWho even write letters no more?",
+  "4": "Ayy! I got mail!\\r...\\nHuh?\\fI don't know this homie.\\fI'ma let you handle that.\\r",
+  "5": "{STRVAR_1 3, 0, 0} handed over the homie\\nholdin' the Mail.",
+  "6": "{STRVAR_1 3, 0, 0} handed over the Mail.",
+  "7": "Let's see...\\r“Good looks on the Mail.\\nIt was a wild trip, fr.\\rZUBAT was buggin', though...”\\nThat's what it say.\\rI went in a dark cave the other\\nday with a homie.\\rThat cave lead to another route.\\nAnyway, I gotta show love for\\fyou bein' so solid.\\rLemme bless you with somethin'.\\r",
+  "8": "TM44 is...\\n...Zzz...\\f...\\r...Umm... Nap!\\rLike, “I need a nap,” but\\nshorter. Nap. You feel me?\\fIt put you to sleep and heal you up.",
+  "9": "...I'm\\nso sleepy, bro...",
+  "10": "...Wait!\\nThen you wouldn't have\\fno homies left!",
+  "11": "I found a hard homie in Dark Cave.\\nI'ma raise it up to run on\\fFalkner.\\rHe the Block Boss of Violet City.",
+  "12": "Dark Cave...\\rIf a homie could light it up,\\nI'd go in. It's DARK dark.",
+  "13": "Rt. 31\\nWest to Violet City. No Loitering.",
+  "14": "Dark Cave\\nBring a Flashlight. Or Don't.",
+  "15": "Huh? What is it?\\nIs that a homie Egg?\\fI ain't never seen one.\\r...Zzz..."
+}

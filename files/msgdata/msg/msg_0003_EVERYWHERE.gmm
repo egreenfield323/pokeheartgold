@@ -470,15 +470,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} decided to\nMean Mug!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} pulled out\nTwerk On Em!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} decided to\nMean Mug!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} pulled out\nTwerk On Em!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} decided to\nMean Mug!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} pulled out\nTwerk On Em!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
