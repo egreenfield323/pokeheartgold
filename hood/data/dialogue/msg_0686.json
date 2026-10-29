@@ -1,0 +1,15 @@
+{
+  "_comment": "Phone: Hillary (teacher).",
+  "1": "I'd love to do some more scrap\\nprep and review with you...\\rThat's it!\\nHow 'bout swappin' numbers\\fwith me? {YESNO 0}",
+  "2": "Aight, I'm lookin' forward to talkin'\\nagain. I'll definitely give you a\\fcall if anything come up!",
+  "3": "Ayo, you should listen when Teachers\\nis talkin' to you!",
+  "4": "You change your mind about\\nswappin' numbers? {YESNO 0}",
+  "5": "You know, I'm pretty sure I just\\nsaw you...\\rIf you right nearby, don't talk\\nover the phone. Talk\\fto me in person.",
+  "6": "Ayo!\\rYou got ANOTHER zero on a test!\\nYou don't pay attention to NOTHIN'\\fI say in class, do you?\\fYou deadass think you can beat a\\fBlock Boss with that kinda...\\rHuh?\\rYou ain't Travis...\\rOh my goodness! My bad!",
+  "7": "You know, I usually run {STRVAR_1 0, 10, 0}.\\rDon't you love scrappin' with your\\nfave homie?\\rBut it get kinda lonely just\\nusin' the same homie over and over.\\rSometimes I like to walk with\\nhomies I just caught.\\rThat can be mad fun too, you know?",
+  "8": "The other day, I was scrappin'\\n{STRVAR_1 0, 11, 0} on Route 15. People\\fstopped to watch, and soon there was\\fthis HUGE crowd!\\fI got SO nervous...\\rYou know, I'm used to talkin' in front\\nof a class of kids...\\fbut scraps is somethin' else.\\rI just can't get comfy scrappin' in\\nfront of a crowd!",
+  "9": "You know...\\nThis stay between us, right?\\rThe other day, I was tryna catch a\\n{STRVAR_1 0, 11, 0}.\\rI messed up and threw out the\\nwrong Hood Ball, and the\\fhomie dipped.\\rGood thing none of my students\\nwas watchin'. But still, I was mad\\fembarrassed.",
+  "10": "By the way, you'd like to prep for\\nscraps and do some review,\\fwouldn't you?\\rWe should have another scrap!\\rI'm always on {STRVAR_1 4, 3, 0}.\\nI'll be waitin' for you there!",
+  "11": "Ayo! You remember you made plans\\nwith me?\\rWe said we was finna meet on\\n{STRVAR_1 4, 3, 0} and have a\\fscrap, right? Don't forget!",
+  "12": "That's right... If you ask me which is\\ncuter, my students or homies,\\fI'mma have a hard time makin'\\fthat call.\\rCome to think of it, for a lotta kids,\\ntheir first homie is the cutest one in\\fthe world in their lil eyes.\\rAnd ain't nothin' you can say to\\nchange that."
+}

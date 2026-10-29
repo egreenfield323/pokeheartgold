@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0551_T21FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They’re fresh out of Hood Balls!\nWhen will they get more of them?</language>
+		<language name="English">They OUTTA Hood Balls?! I been\nstandin’ here since they opened!\rI ain’t leavin’. I’ll sleep\nin the chip aisle.</language>
 	</row>
 	<row id="msg_0551_T21FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hood Balls are in stock!\nNow I can catch Pokémon!</language>
+		<language name="English">Hood Balls BACK in stock! I’m buyin’\nALL of ’em. Every last one.\fResellin’ ’em on Route 30. Markup!</language>
 	</row>
 	<row id="msg_0551_T21FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was walking in the tall grass,\na Bug-type Pokémon poisoned\fmy Pokémon!\rI just kept going, but my Pokémon\nnearly fainted.\rYou should keep an Antidote with you.</language>
+		<language name="English">Real talk, I was walkin’ in the grass\nand a Bug-type homie POISONED\fmy homie! Bit him right on the ankle!\rI kept walkin’ like it wasn’t\nnothin’. He almost fainted.\rKeep a Pepto on you. Learn from\nmy pain.</language>
 	</row>
 </body>

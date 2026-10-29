@@ -1,0 +1,22 @@
+{
+  "_comment": "Phone: Billy (Block Boss stalker for a school project).",
+  "1": "I'm researchin' Block Bosses for a\\nproject at school!\\rYou can get the Block Bosses' phone\\nnumbers, so you can talk to 'em\\foutside the Block!\\rAyo, we should swap\\nnumbers! {YESNO 0}",
+  "2": "Block Bosses' spots and times\\nchange, so I'll hit your phone!",
+  "3": "Huh? You don't wanna know nothin'\\nabout Block Bosses?",
+  "4": "I knew it. I KNEW you'd wanna\\nknow about the Block Bosses! {YESNO 0}",
+  "5": "Ayo, you right nearby, ain't you?\\nSo we should talk face-to-face!",
+  "6": "Whitney like to chill on the\\nsixth floor of the Goldenrod\\fDept. Store.",
+  "7": "Janine bring dinner to her pops\\nevery evenin'. You can always find her\\fat the Big League Reception Gate\\fin the late afternoon!",
+  "8": "Falkner like to hit Celadon City on\\nMondays, it seem.",
+  "9": "Seem like Misty REALLY like\\nRoute 25!\\rEvery night she go there to watch\\nthe sunset!",
+  "10": "Sabrina like the port in Olivine\\non Friday nights.\\rShe really pop up in the weirdest\\nplaces, don't she!",
+  "11": "Maybe I should only tell you this...\\rTruth is, Jasmine kinda\\nEAT!\\rIf you hit the Olivine Café past\\nnoon, you gon' run into\\fJasmine there for sure!",
+  "12": "Cinnabar Block Boss Blaine really\\nthink a lot about the town of\\fCinnabar, you know?\\rEvery Tuesday mornin' he sit on the\\nspot where the Cinnabar Block was\\fand think.",
+  "13": "Pewter Block Boss Brock REALLY\\nlove rocks!\\rHe go in DIGLETT's Cave every day\\npast noon.",
+  "14": "Bugsy go lookin' for Bug-type\\nhomies. He even go as far as\\fViridian Forest in Kanto!",
+  "15": "Pryce a man of refined\\ntaste, don't you agree?\\rEvery mornin' at seven he go out by\\nhimself and stare out at the\\fLake of Rage.",
+  "16": "Morty ALWAYS starin' at the\\nBell Tower, ain't he?\\rHe just been locked in on that one\\nthing. To the point he became a\\fBlock Boss.",
+  "17": "I REALLY gotta work on my trainin'.\\nLet's scrap again, OK? I'll be\\fwaitin' on {STRVAR_1 4, 3, 0}!",
+  "18": "Is that aight?\\nWe finna scrap again on\\f{STRVAR_1 4, 3, 0}! Hurry up already!",
+  "19": "If anything about the Block Bosses\\nchange, I'll hit you up!"
+}

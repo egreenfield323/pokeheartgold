@@ -10,10 +10,10 @@
 	</row>
 	<row id="msg_0071_D23R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve arrived at the Observation Deck.</language>
+		<language name="English">You at the Observation Deck.</language>
 	</row>
 	<row id="msg_0071_D23R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have arrived at 5F.</language>
+		<language name="English">You at 5F.</language>
 	</row>
 </body>

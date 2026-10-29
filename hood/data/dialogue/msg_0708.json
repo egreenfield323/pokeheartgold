@@ -1,0 +1,14 @@
+{
+  "_comment": "Phone: Parry (old Hiker).",
+  "1": "Sheesh, the way you attacked! That was\\nsomethin' else! We should meet again!\\rHow 'bout givin' me your number?{YESNO 0}",
+  "2": "I'll call when I feel like scrappin'!",
+  "3": "No? That's fine.\\nA straight no is easy to take!\\rI'll be right here when you ready for\\na rematch.",
+  "4": "So you wanna save my number\\nfor a rematch, huh?{YESNO 0}",
+  "5": "Well, you special, aight.\\rIf only I started trainin' homies when\\nI was a lil younger...\\rI want you to work hard and win\\nfor both of us.\\fSo, take this, OK?\\r",
+  "6": "Uh-huh?\\nIs that a river I hear in the\\fbackground? You right nearby!",
+  "7": "NOTHIN' can match my {STRVAR_1 0, 10, 0} now.\\rYeah, we KO'd a wild {STRVAR_1 0, 11, 0}!\\rThat was cool, but what I wanted was\\nto catch it...\\rOK, gimme a call again!",
+  "8": "NOTHIN' can match my {STRVAR_1 0, 10, 0} now.\\rAnd, yesterday, we spotted a wild\\n{STRVAR_1 0, 11, 0}.\\rWe was debatin' whether to catch\\nit or just get exp scrappin' it.\\rThen, here come another guy,\\nwho caught it! How 'bout that!\\rOK, gimme a call again!",
+  "9": "You thinkin' you wanna scrap me.\\nAm I right or what?\\rYup! We'll meet on {STRVAR_1 4, 3, 0}!",
+  "10": "You ain't made it to\\n{STRVAR_1 4, 3, 0} yet?\\rWaitin' here ain't no problem,\\nbut I'd sure like to scrap!",
+  "11": "You gon' scrap me again, right?"
+}

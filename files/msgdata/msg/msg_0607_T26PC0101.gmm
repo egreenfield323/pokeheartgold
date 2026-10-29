@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0607_T26PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon get more friendly if you\nspend time with them.</language>
+		<language name="English">Homies get friendlier if you spend time\nwith ’em. Like people. Except my\fcousin.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They can shine like a bright light--\nlike a beacon at night to guide us...\rThey can take us across the water on\ntheir backs when we are without\fa boat...\rPokémon are helping us everywhere.\fI can’t imagine a life without them!</language>
+		<language name="English">They light up the night like a\nbeacon...\rThey carry us across water when we\nain’t got a boat...\rHomies help us EVERYWHERE.\fI can’t imagine life without ’em!\fI’d have to get a JOB.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a person in Cianwood City\nacross the sea.\rI heard him bragging about his\nrare Pokémon.</language>
+		<language name="English">There’s a dude in Cianwood City across\nthe sea braggin’ about rare homies.\rClout chaser. He post every homie he\ncatch.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...There!\nAll done!\fIt’s sure to surprise anyone!\r</language>
+		<language name="English">...THERE! All done!\fThis gon’ shock EVERYBODY!\r</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, are you a Hustler?\rYou came at just the right time!\nI just finished putting my Ball Capsule\fon my Hood Ball.\rDo you want to battle and be\namazed by my decoration? {YESNO 0}</language>
+		<language name="English">Oh, you a Hustler?\rPerfect timin’! I just finished\ndecoratin’ my Hood Ball. Rhinestones.\rWanna scrap and be AMAZED by my\ndecorations? {YESNO 0}</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nHere I come!\r</language>
+		<language name="English">AIGHT! Here I come! Look at the\nSPARKLE!\r</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can turn your Hood Balls into your\nown special creations by adding Seals.\rHow hard is it to have a Hood Ball that\nonly you have in the entire world?\fGive it a whirl!\rOh, remember to put the Ball Capsule\non a Hood Ball once it’s ready!</language>
+		<language name="English">Turn your Hood Balls into your own\ncreations with Seals!\rA Hood Ball NOBODY else got?\nThat’s drip, baby.\rOh, and put the Ball Capsule on a\nHood Ball once it’s ready!</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, really?\rTalk to me if you want to see my\nBall Capsule sometime!</language>
+		<language name="English">Oh, for real? Holla at me if you wanna\nsee my Ball Capsule. It’s art.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now you want to see my Ball Capsule?\rBattle me so I can show it to you! {YESNO 0}</language>
+		<language name="English">Now you wanna see my Ball Capsule?\rScrap me so I can show you! {YESNO 0}</language>
 	</row>
 </body>

@@ -1,0 +1,7 @@
+{
+  "_comment": "Azalea block entrance: the guide.",
+  "0": "Yo, challenger! Bugsy built this Block.\\nIt's a giant bug nest. On purpose.\\rThe health inspector cried.\\rBugsy young, but he a Bug MASTER.\\nYou need my advice.\\rBugs HATE fire. And Flyin' moves.\\nAnd me. They hate me too.",
+  "1": "Hard! That was a great scrap between\\nyoung Hustlers.\\rWith y'all comin' up, the future\\nlookin' bright. Itchy, but bright.",
+  "2": "Azalea Town Block\\nWatch Your Step. Bugs.",
+  "3": "Azalea Town Block\\rBoss: Bugsy\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

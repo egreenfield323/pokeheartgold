@@ -1,0 +1,15 @@
+{
+  "_comment": "Phone: Ernest (biker who secretly loves MARILL).",
+  "1": "You got some NERVE!\\nThat's hard!\\fJust what I look for in a homie!\\rWhadda ya say we swap\\nnumbers and be best homies? {YESNO 0}",
+  "2": "Aight!\\nCall me anytime!\\rAbout school,\\nor about homies,\\for a puzzle,\\for a Block trick.\\fEven if nothin' hard come up,\\fyou can still give me a call!\\rI prob'ly won't know the answer, but\\nI'll at least listen!\\r'Cause we homies, you know?",
+  "3": "Ayo! What, you nervous?",
+  "4": "Oh, I see you finally figured out\\nhow amazin' I am?\\rWell, that's expected. Let's\\nswap numbers! {YESNO 0}",
+  "5": "Well, I prob'ly look way scarier than\\nI am. Would you believe I'm really\\fa nice guy?\\rI won't bite, so come talk to me\\nin person!",
+  "6": "Yo, Teddy! You do a pretty good\\nmotorcycle impression!\\rNext time you get a chance, you and me\\nshould go ridin' and yell like\\fmotorcycles. What you say?\\r......Wait, who is this?\\rOh no! Wrong number!\\nMy bad!",
+  "7": "My {STRVAR_1 0, 10, 0} go HARD!\\nAnyway, its fightin' spirit different.\\rIt ain't never lost to nothin' but the\\nstrongest homies!\\rWhat about your homies?\\nThey got any fightin' spirit?\\rNever mind, you ain't gotta answer.\\rI know better than anybody\\nhow strong your homies is!",
+  "8": "We a Biker gang, you know.\\nGot homies with poison,\\fwith spikes all over their bodies,\\fwith fangs, and we even got some\\fGhost-type homies.\\fIt's all a show of how tough we are.\\rBut...\\rAs for me...\\rI REALLY like cute homies like MARILL!",
+  "9": "So, yesterday I thought I was finna\\ncatch a {STRVAR_1 0, 11, 0}.\\fBut that {STRVAR_1 0, 11, 0}, it took one look\\fat me and dipped!\\rIt was SO rude!\\rYou wouldn't run if you saw me,\\nwould you...?",
+  "10": "Yo! I REALLY wanna scrap you again.\\nI mean, I'm itchin' to show off!\\rI'm always hangin' on\\n{STRVAR_1 4, 3, 0}. Don't get all\\fnervous and dip, got it?!",
+  "11": "What's goin' on with you?\\nI'm waitin' on {STRVAR_1 4, 3, 0}!\\rYou wouldn't forget a promise you made\\nwith a homie, would you?",
+  "12": "You know, my bro Markey was talkin'\\nabout this earlier... You thought\\fabout joinin' our crew at all?\\rWe hang on Cycling Road and make a\\nLOT of noise, throw trash around,\\fthen pick up our trash and take it\\fhome to throw away. It's SO fun!"
+}

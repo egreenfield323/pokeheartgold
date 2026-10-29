@@ -1,0 +1,7 @@
+{
+  "_comment": "Mt. Moon Square (night).",
+  "1": "This Mt. Moon Square.\\rDon't litter. Put trash\\nwhere it belong!",
+  "2": "{STRVAR_1 3, 0, 0} found\\n{STRVAR_1 8, 1, 0}!",
+  "4": "Got the {STRVAR_1 8, 0, 0}!\\rToo bad!\\nThe Bag full...",
+  "5": "We closed for the day."
+}

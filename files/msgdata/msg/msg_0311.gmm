@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0311_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’re energetic and hardworking!\nI won’t get tricked by your cuteness!\r</language>
+		<language name="English">Sheesh, you energetic and hardworkin’!\nI won’t get tricked by your cuteness!\r</language>
 	</row>
 	<row id="msg_0311_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0311_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with these three Pokémon I’ll\nget stronger! I’ll get bigger!\r</language>
+		<language name="English">Together with these three homie I’ll\nget stronger! I’ll get bigger!\r</language>
 	</row>
 	<row id="msg_0311_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0311_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump! Fight! Be like the wind!\nSomeday I want to fly high!\r</language>
+		<language name="English">Jump! Fight! Be like the wind!\nSomeday I wanna fly high!\r</language>
 	</row>
 	<row id="msg_0311_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -38,19 +38,19 @@
 	</row>
 	<row id="msg_0311_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon’s strength and power...\nI’ll show them to you!\r</language>
+		<language name="English">A homie’s strength and power...\nI’ll show them to you!\r</language>
 	</row>
 	<row id="msg_0311_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon’s friendship and affection! If\nyou’ve got that, you’ll never lose!\r</language>
+		<language name="English">homie’s friendship and affection! If\nyou’ve got that, you’ll never lose!\r</language>
 	</row>
 	<row id="msg_0311_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon are always protecting me!\nSo there’s no way that we’ll lose!\r</language>
+		<language name="English">My homies are always protectin’ me!\nSo there’s no way that we’ll lose!\r</language>
 	</row>
 	<row id="msg_0311_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The accuracy of Bug-type Pokémon!\nI’m a man who knows all about them!\r</language>
+		<language name="English">The accuracy of Bug-type homie!\nI’m a man who knows all about them!\r</language>
 	</row>
 	<row id="msg_0311_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0311_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know the skill of\nthese Pokémon?!\r</language>
+		<language name="English">Do you know the skill of\nthese homie?!\r</language>
 	</row>
 	<row id="msg_0311_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Never crumble, no matter what happens!\nThat’s the kind of friendship we’ve got!\r</language>
+		<language name="English">Never crumble, no matter what happens!\nThat’s the kinda friendship we’ve got!\r</language>
 	</row>
 	<row id="msg_0311_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,19 +70,19 @@
 	</row>
 	<row id="msg_0311_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On the mountain five years together...\nThe friendship is everlasting!\r</language>
+		<language name="English">On the mountain five years together...\nThe friendship is everlastin’!\r</language>
 	</row>
 	<row id="msg_0311_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master fighting! Live for fighting!\nAnd live for the Pokéathlon!\r</language>
+		<language name="English">Master fightin’! Live for fightin’!\nAnd live for the Pokéathlon!\r</language>
 	</row>
 	<row id="msg_0311_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can see victory! That’s because I\ndon’t think there’s any way I’ll lose!\r</language>
+		<language name="English">I can see victory! That’s ’cause I\ndon’t think there’s any way I’ll lose!\r</language>
 	</row>
 	<row id="msg_0311_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can fly with these Pokémon so far!\nOver the rainbow!\r</language>
+		<language name="English">I can fly with these homie so far!\nOver the rainbow!\r</language>
 	</row>
 	<row id="msg_0311_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,15 +90,15 @@
 	</row>
 	<row id="msg_0311_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why can you jump that high?!\nSimple, it’s because it’s all you can do.\r</language>
+		<language name="English">Why can you jump that high?!\nSimple, it’s ’cause it’s all you can do.\r</language>
 	</row>
 	<row id="msg_0311_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re not done. We’re just beginning!\nWe’ll show you just how far we can jump!\r</language>
+		<language name="English">We not done. We just beginnin’!\nWe’ll show you just how far we can jump!\r</language>
 	</row>
 	<row id="msg_0311_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flying is like breathing to me!\nThat’s only natural, if you ask me.\r</language>
+		<language name="English">Flying is like breathin’ to me!\nThat’s only natural, if you ask me.\r</language>
 	</row>
 	<row id="msg_0311_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0311_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing in front of this guy... Even a\nbolt of lightning can come from behind!\r</language>
+		<language name="English">Nothing in front of this guy... Even a\nbolt of lightnin’ can come from behind!\r</language>
 	</row>
 	<row id="msg_0311_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="msg_0311_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The famous guy on the TV all the time\nis now participating in the Pokéathlon!\r</language>
+		<language name="English">The famous guy on the TV all the time\nis now participatin’ in the Pokéathlon!\r</language>
 	</row>
 	<row id="msg_0311_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -138,35 +138,35 @@
 	</row>
 	<row id="msg_0311_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power is everything! Power is right!\nPower is proof of friendship!\r</language>
+		<language name="English">Power is everythin’! Power is right!\nPower is proof of friendship!\r</language>
 	</row>
 	<row id="msg_0311_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve got innate talent! This genius is\ngoing to seize victory!\r</language>
+		<language name="English">I’ve got innate talent! This genius is\ngon’ seize victory!\r</language>
 	</row>
 	<row id="msg_0311_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friendship? We don’t need it. That’s\nbecause we are already one.\r</language>
+		<language name="English">Friendship? We don’t need it. That’s\n’cause we already one.\r</language>
 	</row>
 	<row id="msg_0311_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon are always protecting me,\nso there’s no way we can lose!\r</language>
+		<language name="English">My homies are always protectin’ me,\nso there’s no way we can lose!\r</language>
 	</row>
 	<row id="msg_0311_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Such splendid dancing and splendid\nwinning! I’ve come from Ecruteak City!\r</language>
+		<language name="English">Such splendid dancin’ and splendid\nwinnin’! I’ve come from Ecruteak City!\r</language>
 	</row>
 	<row id="msg_0311_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are we looking at an illusion? The most\nskilled Pokéathlete!\r</language>
+		<language name="English">Are we lookin’ at an illusion? The most\nskilled Pokéathlete!\r</language>
 	</row>
 	<row id="msg_0311_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Block Boss of steel is participating!\nI’ll show you steely determination!\r</language>
+		<language name="English">Block Boss of steel is participatin’!\nI’ll show you steely determination!\r</language>
 	</row>
 	<row id="msg_0311_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m so full of energy! What’s fatigue?\nWhere’s this stamina coming from?!\r</language>
+		<language name="English">I’m so full of energy! What’s fatigue?\nWhere’s this stamina comin’ from?!\r</language>
 	</row>
 	<row id="msg_0311_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -174,7 +174,7 @@
 	</row>
 	<row id="msg_0311_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morning is practice, noon is practice,\nand evening...is training!\r</language>
+		<language name="English">Morning is practice, noon is practice,\nand evenin’...is trainin’!\r</language>
 	</row>
 	<row id="msg_0311_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -182,19 +182,19 @@
 	</row>
 	<row id="msg_0311_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The world we’re aiming for is the\nchampionship, that world!\r</language>
+		<language name="English">The world we aimin’ for is the\nchampionship, that world!\r</language>
 	</row>
 	<row id="msg_0311_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flying... Even gravity is\nkeeping its distance from her!\r</language>
+		<language name="English">Flying... Even gravity is\nkeepin’ its distance from her!\r</language>
 	</row>
 	<row id="msg_0311_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Block Boss of flight appears!\nMy dad’s Pokémon really soar!\r</language>
+		<language name="English">The Block Boss of flight appears!\nMy dad’s homie deadass soar!\r</language>
 	</row>
 	<row id="msg_0311_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We can go as far as we want...\nCome on, let’s go together!\r</language>
+		<language name="English">We can go as far as we want...\nC’mon, let’s go together!\r</language>
 	</row>
 	<row id="msg_0311_00049" index="49">
 		<attribute name="window_context_name">used</attribute>

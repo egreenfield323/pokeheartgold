@@ -6,75 +6,75 @@
 	</row>
 	<row id="msg_0641_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, is this {STRVAR_1 3, 0, 0}?\nIf you ever end up in my area, don’t be\fshy, OK? Come on down and talk to me.</language>
+		<language name="English">Ayo, is this {STRVAR_1 3, 0, 0}?\nIf you ever in my area, don’t be\fshy, OK? Pull up and talk to me.</language>
 	</row>
 	<row id="msg_0641_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, is this {STRVAR_1 3, 0, 0}?\nIf you ever end up in my area, don’t be\fshy, OK? Come on down and talk to me.</language>
+		<language name="English">Ayo, is this {STRVAR_1 3, 0, 0}?\nIf you ever in my area, don’t be\fshy, OK? Pull up and talk to me.</language>
 	</row>
 	<row id="msg_0641_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Ayo, this Buena...\rOh! Mornin’, {STRVAR_1 3, 0, 0}!\nI’m kinda foggy in the mornin’...\r</language>
 	</row>
 	<row id="msg_0641_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Ayo, this Buena...\rOh! Mornin’, {STRVAR_1 3, 0, 0}!\nI’m kinda foggy in the mornin’...\r</language>
 	</row>
 	<row id="msg_0641_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Ayo, this Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nYou be tunin’ into Buena’s show?\r</language>
 	</row>
 	<row id="msg_0641_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Ayo, this Buena...\rOh! Ayo, {STRVAR_1 3, 0, 0}!\nYou be tunin’ into Buena’s show?\r</language>
 	</row>
 	<row id="msg_0641_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Ayo, this Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work.\nLemme tell you, I’m DEAD tired!\r</language>
 	</row>
 	<row id="msg_0641_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this is Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Ayo, this Buena...\nOh! Ayo, {STRVAR_1 3, 0, 0}!\rI just got off work.\nLemme tell you, I’m DEAD tired!\r</language>
 	</row>
 	<row id="msg_0641_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi...\nThis is Buena.\rI can’t come to the phone right now.\rIf you want to chat, tune into Buena’s\nPassword on the radio and give me a\fcall after midnight!</language>
+		<language name="English">Hi...\nThis Buena.\rI can’t come to the phone right now.\rIf you wanna chat, tune into Buena’s\nPassword on the radio and hit\fme up after midnight!</language>
 	</row>
 	<row id="msg_0641_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m thinking of finna the Game Corner\ntomorrow. It’s been a while.\rYou know, I have this great strategy\nfor playing...\fI always do great!\rHuh? Nuh-uh, it’s my secret!\nYou’ll have to figure it out yourself!\rCatch you later!</language>
+		<language name="English">I’m thinkin’ ’bout hittin’ the Game\nCorner tomorrow. It been a minute.\rYou know, I got this FIRE strategy\nfor playin’...\fI always eat!\rHuh? Nuh-uh, it’s my secret!\nYou gotta figure it out yourself!\rCatch you later!</language>
 	</row>
 	<row id="msg_0641_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there! You use your Pokégear\nto listen to the radio, right?\rI heard that you can even display town\nmaps with the Pokégear.\rI have a bad sense of direction, so\nthe Pokégear would be handy...\rAnyway, thanks for calling! Later!</language>
+		<language name="English">Ayo! You use your Pokégear\nto listen to the radio, right?\rI heard you can even pull up town\nmaps with the Pokégear.\rI got NO sense of direction, so\nthe Pokégear would be clutch...\rAnyway, good looks for callin’! Later!</language>
 	</row>
 	<row id="msg_0641_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it sunny outside today?\rWhen you’re cooped up in the Radio\nTower as much as I am, you lose touch\fwith the outside.\rIt can be boring. Please call again!</language>
+		<language name="English">Is it sunny outside today?\rWhen you cooped up in the Radio\nTower as much as me, you lose touch\fwith the outside.\rIt get borin’. Call again!</language>
 	</row>
 	<row id="msg_0641_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This ain’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou how?\rAiyee! This ain’t the time for me\nto be crackin’ silly jokes!\rThe Feds done RAIDED the Radio Tower!\n{STRVAR_1 3, 0, 0}, you better watch yourself!</language>
 	</row>
 	<row id="msg_0641_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This ain’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Oh. Ayo, {STRVAR_1 3, 0, 0}!\nYou how?\rAiyee! This ain’t the time for me\nto be crackin’ silly jokes!\rThe Feds done RAIDED the Radio Tower!\n{STRVAR_1 3, 0, 0}, you better watch yourself!</language>
 	</row>
 	<row id="msg_0641_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I called!\r</language>
 	</row>
 	<row id="msg_0641_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI got up early, so I called!\r</language>
 	</row>
 	<row id="msg_0641_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed somebody to chat with!\r</language>
 	</row>
 	<row id="msg_0641_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Ayo, it’s Buena!\nI needed somebody to chat with!\r</language>
 	</row>
 	<row id="msg_0641_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -86,66 +86,66 @@
 	</row>
 	<row id="msg_0641_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other day, I went out to eat with\nDJ Ben! Isn’t that great?\rNot only that, he said the music on my\nshow is hard!\rOh, wow! Like, what should I do?\r...Oops, I have to get ready for my\nshow! I’ll catch you later!</language>
+		<language name="English">The other day, I went out to eat with\nDJ Ben! Ain’t that great?\rNot only that, he said the music on\nmy show go HARD!\rOh, sheesh! Like, what do I do?\r...Oops, I gotta get ready for my\nshow! Catch you later!</language>
 	</row>
 	<row id="msg_0641_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know the receptionist at the Radio\nTower?\r“Welcome” is all she ever says.\rBut she’s really the chattiest person\nat the Radio Tower.\rSo she must be holding back.\nIsn’t that fun to know?\rCatch you later!</language>
+		<language name="English">You know the receptionist at the\nRadio Tower?\r“Welcome” is all she ever say.\rBut she deadass the biggest gossip\nin the whole Radio Tower.\rSo she must be holdin’ back.\nAin’t that juicy?\rCatch you later!</language>
 	</row>
 	<row id="msg_0641_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you won the Pokémon Lottery\nheld on the first floor at the Radio\fTower?\rYou get more chances as you trade\nPokémon with different homies.</language>
+		<language name="English">You won the Homie Lottery on\nthe first floor of the Radio\fTower yet?\rYou get more chances the more\nyou trade with different homies.</language>
 	</row>
 	<row id="msg_0641_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, last night...\rI was so stressed out from work, I ate\na ton of junk food!\rMary and I have this deal about losing\nweight... This won’t do...\rHuh? What’s her weight?\nThis has to be a total secret!\rMary weighs...\rAiyee! M-Mary!\rUh... Um... I... Sorry, wrong number!</language>
+		<language name="English">You know, last night...\rI was so stressed from work, I ate\na TON of junk food!\rMe and Mary got this deal about losin’\nweight... This ain’t it...\rHuh? What’s her weight?\nThat’s a TOTAL secret!\rMary weigh...\rAiyee! M-Mary!\rUh... Um... I... Wrong number!</language>
 	</row>
 	<row id="msg_0641_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, Professor Oak was in the\nstudio to tape his show.\rSo I went over and introduced myself.\nGet this--he tunes in to my show!\rI hope he’s in again tomorrow!</language>
+		<language name="English">Yesterday, Professor Oak was in the\nstudio to tape his show.\rSo I went and introduced myself.\nGet this--he listen to MY show!\rI hope he in again tomorrow!</language>
 	</row>
 	<row id="msg_0641_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Cough, cough!\nUhm sorry uh got uh code dite now.\rBuh uma pro so uh hav to cover id ub\nso no un notice while uhm on air.\rUh fidz muh voice now.\rI’ll catch you on the fly. This has\nbeen Buena!</language>
+		<language name="English">...Cough, cough!\nUhm sorry uh got uh code dite now.\rBuh uma pro so uh hav to cover id ub\nso no un notice while uhm on air.\rUh fidz muh voice now.\rCatch you on the fly. This been\nBuena!</language>
 	</row>
 	<row id="msg_0641_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, there.\nYou won that Radio Card by beating the\fquiz at the reception desk, didn’t you?\rGuess what? I made up the questions!\n...Were they too easy for you?\rWell, let’s chat again!</language>
+		<language name="English">Ayo.\nYou won that Radio Card by passin’\fthe quiz at the front desk, right?\rGuess what? I wrote the questions!\n...They was too easy for you?\rWell, let’s chat again!</language>
 	</row>
 	<row id="msg_0641_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m elated that more people are taking\npart in my password show.\rBut when PIKACHU was the password,\nit was uh...whew...overwhelming.\rFan Club people came out in droves,\nshouting “PIKACHU!” over and over.\rI mean, they were loud.\rAnyone tuning in around then must\nhave been shocked by the racket!\rAnyway, back to work for me!\nLet’s chat again!</language>
+		<language name="English">I’m hype more people gettin’\ninto my password show.\rBut when PIKACHU was the password,\nit was uh...whew...a LOT.\rFan Club people came out in droves,\nscreamin’ “PIKACHU!” over and over.\rI mean, they was LOUD.\rAnybody tuned in around then musta\nbeen shook by the noise!\rAnyway, back to work for me!\nLet’s chat again!</language>
 	</row>
 	<row id="msg_0641_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? The Radio Tower’s Director\nis a big fan of TV!\rA while ago, a fashion show on TV said\nthat brown suits were in.\rNow all he wears are brown suits.\rBut it’s a secret that our Director is a\nTV fan, so if you see him, don’t you\fdare mention it!\rOh! The Director will be here soon!\nLater! Tune into my show!</language>
+		<language name="English">Guess what? The Radio Tower Director\nis a BIG TV fan!\rA while back, a fashion show on TV\nsaid brown suits was in.\rNow ALL he wear is brown suits.\rBut it’s a secret the Director a\nTV fan, so if you see him, don’t you\fDARE say nothin’!\rOh! The Director comin’!\nLater! Tune into my show!</language>
 	</row>
 	<row id="msg_0641_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, tell me.\rWhen do you relax the most? For me, it\nhas to be in the studio right after my\fshow, enjoying a nice cup of tea.\rIt’s so pleasant that it gradually\nmakes me drowsy...\r...... ...... ......\r...... ...... ......Zzz\rOops, I drifted off just thinking about\nit! How, uh...embarrassing!\rPlease forget this happened! Later!</language>
+		<language name="English">Now, tell me.\rWhen you most relaxed? For me, it\ngotta be in the studio right after my\fshow, sippin’ a nice cup of tea.\rIt’s so nice it slowly\nmake me sleepy...\r...... ...... ......\r...... ...... ......Zzz\rOops, I dozed off just thinkin’ about\nit! How, uh...embarrassin’!\rForget that happened! Later!</language>
 	</row>
 	<row id="msg_0641_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tell me, what was the first\nPokémon you ever caught?\r...Oh, really?\rI’ve seen lots of Pokémon around, but\nI’ve never caught one.\rI should give it a try sometime.\rDid you know that the first Pokémon\nMary caught was a DROWZEE?\fIsn’t that so out of character?\rBut Mary’s DROWZEE kept making her fall\nasleep on the job, so she traded with a\ffan for a MEOWTH.\rLet’s chat about Pokémon again!\nBye-bye!</language>
+		<language name="English">Tell me, what was the first\nhomie you ever caught?\r...Oh, word?\rI seen lotsa homies around, but\nI never caught one.\rI should try sometime.\rYou know the first homie Mary\ncaught was a DROWZEE?\fThat’s SO not her!\rBut Mary’s DROWZEE kept puttin’ her\nto sleep on the job, so she traded a\ffan for a MEOWTH.\rLet’s chat about homies again!\nBye-bye!</language>
 	</row>
 	<row id="msg_0641_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...? Ben talked with the\nradio staff on the phone for hours\fabout what Pokémon music they should\fplay on different days of the week.\rToward the end, Ben’s musical\ntastes were kind of impressed\fupon them.\rThey ended up enduring Ben’s\noverenthusiasm for a while.\rThey said they even kind of\nenjoyed it!\fLet’s chat again!</language>
+		<language name="English">You know...? Ben talked to the radio\nstaff on the phone for HOURS\fabout what homie music to\fplay on different days of the week.\rBy the end, Ben’s taste\nkinda got forced\fon ’em.\rThey ended up puttin’ up with Ben\nbein’ extra for a while.\rThey said they kinda\nenjoyed it though!\fLet’s chat again!</language>
 	</row>
 	<row id="msg_0641_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going shopping with Mary soon.\nIt’ll be great if the Goldenrod\fDept. Store has a sale when we go...\rSay, maybe we can go together, too!\nCatch you later!</language>
+		<language name="English">I’m goin’ shoppin’ with Mary soon.\nIt’d be fire if the Goldenrod\fDept. Store got a sale when we go...\rSay, maybe we can go together too!\nCatch you later!</language>
 	</row>
 	<row id="msg_0641_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? All of us from the Radio\nTower are going on a company vacation\fto the Radio Tower in Lavender.\rWe’re wasting our vacation on a trip to\nanother Radio Tower?\rI’d much rather go to the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
+		<language name="English">Guess what? Everybody at the Radio\nTower goin’ on a company trip\fto the Radio Tower in Lavender.\rWe wastin’ our vacation on a trip to\nANOTHER Radio Tower?\rI’d WAY rather hit the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
 	</row>
 	<row id="msg_0641_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? All of us from the Radio\nTower are going on a company vacation\fto the Radio Tower in Lavender.\rWe’re wasting our vacation on a trip to\nanother Radio Tower?\rI’d much rather go to the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
+		<language name="English">Guess what? Everybody at the Radio\nTower goin’ on a company trip\fto the Radio Tower in Lavender.\rWe wastin’ our vacation on a trip to\nANOTHER Radio Tower?\rI’d WAY rather hit the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
 	</row>
 	<row id="msg_0641_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, ain’t you visiting all kinds of\nplaces, helping out Professor Elm?\rThat’s so hard. Seriously, I’m jealous.\rIf I ever got a vacation, I know I’d\njust go traveling all over the place as\fI pleased.\rOh no! Gotta get back to work!\nTalk to you later!</language>
+		<language name="English">Ayo, ain’t you hittin’ all kinda\nspots, helpin’ out Professor Elm?\rThat’s hard. Fr, I’m jealous.\rIf I ever got a vacation, I know I’d\njust travel all over the place\fhowever I want.\rOh no! Gotta get back to work!\nTalk to you later!</language>
 	</row>
 </body>

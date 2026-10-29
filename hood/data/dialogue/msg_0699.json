@@ -1,0 +1,14 @@
+{
+  "_comment": "Phone: Kenny (Hiker).",
+  "1": "Same opponent, same homies,\\nbut the scrap go different\\fevery time!\\rI'd like to scrap you again.\\nLet's swap numbers!{YESNO 0}",
+  "2": "Once I'm ready, I'll give you\\na call!",
+  "3": "I see... Well, that's fine by me.\\nI always got my mountain!",
+  "4": "I'd like to scrap you again.\\nLet's swap numbers! {YESNO 0}",
+  "5": "That's weird...\\nI can hear you SO clear...\\rWait, you right nearby, ain't you!\\nLet's talk in person!",
+  "6": "Homies take a likin' to us\\nnature-lovin' Hikers easy!\\rNah, nah, it ain't just in my head!\\nI got proof! Fr, my\\f{STRVAR_1 0, 10, 0} NEVER disobey me!",
+  "7": "Ayo, listen up!\\rYesterday, I ran into a wild\\n{STRVAR_1 0, 11, 0}! Just out in nature!\\rOf course, my homies was in top form\\nfor the scrap. It was great.\\fIt all happened so natural!\\rHow do I describe this wonderful\\nfeelin'... How do I put it into words?\\fWell, for now, how 'bout...\\rHOOOORAY!",
+  "8": "A few days ago, hikin' in the\\nmountains, a wild {STRVAR_1 0, 11, 0}\\fjumped out at me outta nowhere.\\rI wasn't ready AT ALL,\\nand it dipped.\\rThey say us Hikers bet our life on\\nbein' ready for anything, so I gotta\\fcount this as a L as a Hiker!",
+  "9": "We ABSOLUTELY gotta scrap\\nagain!\\fThat's why we talkin' right now!\\rAm I right? I hope I am!\\nI'll be waitin' on {STRVAR_1 4, 3, 0}!",
+  "10": "We scrappin' on\\n{STRVAR_1 4, 3, 0}, remember. I'm out\\fhere, waitin' in the middle of nature!",
+  "11": "That's right... I'm on this mountain\\nbasically the whole year...\\rBaths?\\rAin't no such thing on a mountain!\\rInstead, I just find a flowin'\\nriver, and wash off in that.\\rThat's right! A few days ago, when\\nI was bathin' in the river, somebody\\fthought I was a Swimmer♂!"
+}

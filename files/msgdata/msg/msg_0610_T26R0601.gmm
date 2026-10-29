@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0610_T26R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-uh. Not in MY house.\nState your business. Quick.\rOlivine is on the sea!\rAnd if it’s on the sea, there is bound\nto be something to catch!\rI’ve fished here for 30 years.\rWould you like to face the sea\nand fish? {YESNO 0}</language>
+		<language name="English">Uh-uh. Not in MY house.\nState your business. Quick.\rOlivine on the SEA!\rAnd if it’s on the sea, there’s gotta\nbe somethin’ to catch!\rI been fishin’ here 30 years. Caught\nthree fish and a toilet seat.\rWanna face the sea and fish? {YESNO 0}</language>
 	</row>
 	<row id="msg_0610_T26R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, hahah!\nWe have ourselves a new angler!</language>
+		<language name="English">AH, HAHAH!\nWe got ourselves a new fisherman!\fWelcome to a life of disappointment!</language>
 	</row>
 	<row id="msg_0610_T26R0601_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,14 +15,14 @@
 	</row>
 	<row id="msg_0610_T26R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water-type Pokémon ain’t found\nin the sea alone.\fThey go wherever there is water.</language>
+		<language name="English">Water homies ain’t just in the sea.\fThey go wherever there’s water.\fI found one in my toilet.</language>
 	</row>
 	<row id="msg_0610_T26R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whaaat? You don’t like to fish!?\fIncomprehensible!</language>
+		<language name="English">WHAAAT? You don’t like fishin’?!\fI can’t even COMPREHEND that!\fGet out my house!</language>
 	</row>
 	<row id="msg_0610_T26R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are things?\nLand the big one?</language>
+		<language name="English">How it’s goin’? Land the big one yet?\nMe neither. 30 years.</language>
 	</row>
 </body>

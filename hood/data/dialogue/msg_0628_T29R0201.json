@@ -1,0 +1,14 @@
+{
+  "_comment": "Fishing Guru's house (MAGIKARP measuring).",
+  "0": "The Lake of Rage is DEADASS a crater from\\nGYARADOS wildin' out.\\rRain filled it up, and BOOM, a lake.\\rThat's the story from my grandpa's\\ngreat-great-grandpa. He was there.\\rYou used to catch lively MAGIKARP\\nthere, but now...\\rSomethin' ain't right.",
+  "1": "The Lake of Rage ain't been right since\\nthem men in black showed up.\\rSunglasses at night. Who DOES that?",
+  "2": "The Lake of Rage back to normal!\\nThe MAGIKARP came back!\\rI might still see the WORLD'S BIGGEST\\nMAGIKARP. My life dream. It's a small dream.\\rYou got a Rod? Help a old man out.",
+  "3": "Ah, you got a MAGIKARP!\\nLet's see how big that baby is.\\r",
+  "4": "{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} INCHES!\\nA MAGIKARP of {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\\rSHEESH! This one is CRAZY! I'm cryin'!\\nI tip my hat! My whole hat!\\rTake this to remember it!\\r",
+  "5": "The record is what matters.\\nThat's just a bonus!",
+  "6": "{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\\rThat's wonderful!\\n...Or not.\\fI seen a bigger one. In my dreams.\\fBut still.",
+  "7": "This MAGIKARP is {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches.\\rBut I already seen a MAGIKARP that\\nwas {STRVAR_1 52, 2, 0}.{STRVAR_1 50, 3, 0} inches.",
+  "8": "WHAT? That ain't a MAGIKARP!\\nI'm old, not BLIND!",
+  "9": "...Your Bag too full!\\nNothin' gon' fit...",
+  "10": "Oh... So you ain't got a big one?\\fMaybe next time. Maybe never.\\fI'm old, I can wait."
+}

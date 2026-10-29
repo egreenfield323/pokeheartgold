@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0094_D27R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...This Pokémon always kept\nthe sea lit at night.\r...But it suddenly got sick...\nIt’s gasping for air...\r...I understand that there is a\nwonderful Pharmacy in Cianwood...\rBut that’s across the sea...\nAnd I can’t leave Amphy unattended...\r</language>
+		<language name="English">Jasmine: ...This homie always kept\nthe sea lit up at night.\r...But it got sick outta nowhere...\nIt can barely breathe...\r...I heard there’s a real good\nPharmacy in Cianwood...\rBut that’s across the sea...\nAnd I can’t leave Amphy alone...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...May I ask you to get some medicine\nfor me? Please?\r</language>
+		<language name="English">...Could you get some medicine\nfor me? Please?\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Will that medicine cure\nAmphy? {YESNO 0}</language>
+		<language name="English">Jasmine: ...That medicine gon’ fix\nAmphy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0094_D27R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0094_D27R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Um, please don’t be\noffended...\rAmphy will not take anything from\nanyone but me...\r</language>
+		<language name="English">Jasmine: ...Um, please don’t be\noffended...\rAmphy won’t take nothin’ from\nnobody but me...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...\rAmphy, how are you feeling?\r</language>
+		<language name="English">Jasmine: ...\rAmphy, how you feelin’?\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0094_D27R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Oh, I’m so relieved...\nThis is just so wonderful...\rThank you so very, very much.\n...I will return to the Block...\r</language>
+		<language name="English">Jasmine: ...Oh, I’m so relieved...\nThis is just so wonderful...\rGood looks, for real, for real.\n...I’ma head back to the Block...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0094_D27R0107_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its breathing is slight...</language>
+		<language name="English">It’s barely breathin’...</language>
 	</row>
 	<row id="msg_0094_D27R0107_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

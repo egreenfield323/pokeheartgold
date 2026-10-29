@@ -1,0 +1,11 @@
+{
+  "_comment": "Pal Park Catching Show (in the field).",
+  "0": "You ain't caught all your\\nhomies yet, but...\\rYou wanna quit your\\nCatching Show?",
+  "1": "I see...\\rI'm disappointed you dropped\\nout. Make up for it next time!\\r",
+  "2": "That's the spirit, {STRVAR_1 3, 0, 0}!\\nI like how you don't give up!",
+  "3": "That's the spirit, {STRVAR_1 3, 0, 0}!\\nI like how you don't give up!",
+  "4": "Ding-dong!\\nCongrats!\\r{STRVAR_1 3, 0, 0} caught all the\\nstocked homies!\\r",
+  "5": "You wanna quit?",
+  "6": "Let the countdown begin!",
+  "10": "GO!"
+}

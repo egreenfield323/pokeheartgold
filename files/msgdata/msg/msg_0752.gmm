@@ -2,119 +2,119 @@
 <body language="English">
 	<row id="msg_0752_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Glad to meet you. I’m Monica\nof Monday.\rAs a token of our friendship, I have a\ngift for you!\r</language>
+		<language name="English">Monica: Glad to meet you. I’m Monica of\nMonday. The OLDEST. That make me the\fboss.\rAs a token of our friendship, I got a\ngift. Take it. That’s an order.\r</language>
 	</row>
 	<row id="msg_0752_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: It’s an item that raises the\npower of Flying-type moves.\rYou should equip a bird Pokémon with\nthat item.</language>
+		<language name="English">Monica: It boost Flyin’-type moves.\rGive it to a bird homie.\nNot a fish. A BIRD. I see you.</language>
 	</row>
 	<row id="msg_0752_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: My brothers and sisters are all\nover the place.\rSee if you could find them all!</language>
+		<language name="English">Monica: My brothers and sisters all\nover the place. They don’t LISTEN to\fme.\rSee if you can find ’em all. Report back.</language>
 	</row>
 	<row id="msg_0752_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Oh no! Today ain’t Monday.\nSee you another time!</language>
+		<language name="English">Monica: Oh no! Today ain’t Monday.\nI don’t work on other days. Bye.</language>
 	</row>
 	<row id="msg_0752_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Please allow me to introduce\nmyself. I am Tuscany of Tuesday.\rBy way of introduction, please accept\nthis gift, a TwistedSpoon.\r</language>
+		<language name="English">Tuscany: Please allow me to introduce\nmyself. I’m Tuscany of Tuesday.\rI studied abroad. In Paris. Twice.\rBy way of introduction, please accept\nthis TwistedSpoon. It is ARTISANAL.\r</language>
 	</row>
 	<row id="msg_0752_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Wouldn’t you agree that it is\nmost adorable?\rIt strengthens Psychic-type moves.\rI am certain it will be of use.</language>
+		<language name="English">Tuscany: Is it not most adorable?\rIt strengthens Psychic moves.\nI’m certain it will elevate you. Darling.</language>
 	</row>
 	<row id="msg_0752_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Have you met Monica, my older\nsister?\rOr my younger brother, Wesley?\rI am the second of seven children.</language>
+		<language name="English">Tuscany: Have you met Monica, my older\nsister? She is SO bossy.\rOr my younger brother, Wesley?\nHe is SO basic.\rI’m the second of seven kids.\nThe classy one.</language>
 	</row>
 	<row id="msg_0752_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Tuesday was over before I\neven noticed...\rI’ll see you again next Tuesday...</language>
+		<language name="English">Tuscany: Tuesday ended before I\nnoticed... How GAUCHE. I shall see you\fnext Tuesday.</language>
 	</row>
 	<row id="msg_0752_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: I’m Wesley of Wednesday.\rPleased to meet you. Please take a\nsouvenir.\r</language>
+		<language name="English">Wesley: Yo. I’m Wesley of Wednesday.\nHump day, baby.\rTake a souvenir. Or don’t. It’s chill.\r</language>
 	</row>
 	<row id="msg_0752_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Black Belt beefs up the power\nof Fighting-type moves.</language>
+		<language name="English">Wesley: Black Belt beef up Fightin’\nmoves. It’s a belt. It’s black. It’s\fsimple.</language>
 	</row>
 	<row id="msg_0752_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Since you found me, you must\nhave met my brothers and sisters.\rOr did you just get lucky?</language>
+		<language name="English">Wesley: Since you found me, you musta\nmet my siblings.\rOr you just got lucky. Either way, it’s\nchill. Everything’s chill.</language>
 	</row>
 	<row id="msg_0752_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: No way!\nWednesday’s already over!\fSee you next week!</language>
+		<language name="English">Wesley: No WAY! Wednesday OVER?!\nThat’s my whole personality! See you\fnext week!</language>
 	</row>
 	<row id="msg_0752_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Who are you?\rI’m Arthur of Thursday.\rHere, take this!\r</language>
+		<language name="English">Arthur: Who are you?! Nobody EVER talk\nto me.\rI’m Arthur of Thursday. The middle\nchild. The FORGOTTEN one.\rHere, take this! Remember me!\r</language>
 	</row>
 	<row id="msg_0752_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: If you use Rock-type moves,\nyou should give that to your Pokémon.\rIt raises the strength of\nRock-type moves.</language>
+		<language name="English">Arthur: Use Rock moves? Give that to\nyour homie. It make Rock moves\fstronger.\rSee? I’m USEFUL. Tell Mom.</language>
 	</row>
 	<row id="msg_0752_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: I’m Arthur of Thursday!\nI’m the second son in a line of seven\fsiblings!</language>
+		<language name="English">Arthur: I’m Arthur of Thursday!\nI’m the second son of seven!\fNobody remember that. NOBODY.</language>
 	</row>
 	<row id="msg_0752_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Do you think that the middle of\nthe week is Wednesday?\fOr do you think it’s Thursday?\rGo decide, and I’ll see you\nnext Thursday!</language>
+		<language name="English">Arthur: You think the middle of the week\nis Wednesday or Thursday?\rIt’s Thursday. It’s ME. I’m the middle.\nI’m ALWAYS the middle. See you next\fThursday!</language>
 	</row>
 	<row id="msg_0752_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Yahoo! It’s Friday!\rI’m Frieda of Friday!\nNice to meet you!\rHere’s a Poison Barb for you!\r</language>
+		<language name="English">Frieda: YAHOO! It’s FRIDAY!\rI’m Frieda of Friday! Let’s PARTY! Nice\nto meet you! Wanna come to a party?\rHere’s a Poison Barb! Party favor!\r</language>
 	</row>
 	<row id="msg_0752_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Give it to a Pokémon that has\nPoison-type moves.\rOh! It’s wicked!\rYou’ll be shocked how good it makes\nPoison-type moves!</language>
+		<language name="English">Frieda: Give it to a homie with Poison\nmoves!\rOh! It’s WICKED!\rYour Poison moves gon’ go CRAZY!\nLike me on Friday night!</language>
 	</row>
 	<row id="msg_0752_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Hiya! What day do you like?\rI love Friday. No doubt about it!\rDon’t you think it’s great too?</language>
+		<language name="English">Frieda: HIYA! What day you like?\rI love FRIDAY. No doubt about it!\nPayday! Party day! Best day!\fDon’t you think so too?!</language>
 	</row>
 	<row id="msg_0752_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Oh, today’s not Friday?\rMan... I wish every day were Friday,\nthat’d be so much fun!</language>
+		<language name="English">Frieda: Oh, today ain’t Friday?\rMan... I wish EVERY day was Friday.\nI’d be broke, but I’d be HAPPY!</language>
 	</row>
 	<row id="msg_0752_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...It’s Saturday...\rI’m Santos of Saturday...\rTake this...\r</language>
+		<language name="English">Santos: ...It’s Saturday...\rI’m Santos of Saturday...\nI just woke up... It’s 4 PM...\rTake this... I’m goin’ back to sleep...\r</language>
 	</row>
 	<row id="msg_0752_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\rSoft Sand...\rGround-type moves get stronger...\nIt will startle you...</language>
+		<language name="English">Santos: ...\rSoft Sand...\rGround moves get stronger...\nIt’ll startle you... *yawn*...\fI’m startled I’m awake...</language>
 	</row>
 	<row id="msg_0752_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\rSee you again on another Saturday...</language>
+		<language name="English">Santos: ...\rSee you again on another Saturday...\nIf I wake up...</language>
 	</row>
 	<row id="msg_0752_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: Today’s Saturday...\nNo... Wait... Huh?\rI’ll see you next Saturday then...</language>
+		<language name="English">Santos: Today Saturday...\nNo... Wait... Huh?\rWhat day is it? What YEAR is it?\nI’ll see you next Saturday then...</language>
 	</row>
 	<row id="msg_0752_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Ayo! I’m Sunny of Sunday, meaning\nit’s Sunday today!\rI was told to give you this if I saw you!\r</language>
+		<language name="English">Sunny: AYO! I’m Sunny of Sunday! That\nmean it’s Sunday today! I think!\rI was told to give you this if I saw you!\nI forget who told me!\r</language>
 	</row>
 	<row id="msg_0752_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: That thing...\rUm...\r...What was it now...\r...\rOh! I remember now!\rA Pokémon that knows Electric-type\nmoves should hold it.\rMy sis Monica said it powers up\nElectric-type moves!</language>
+		<language name="English">Sunny: That thing...\rUm...\r...What was it now...\r...\rOh! I REMEMBER now!\rGive it to a homie with Electric moves!\rMy sis Monica said it power up Electric\nmoves! She yelled it at me!</language>
 	</row>
 	<row id="msg_0752_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: My sister Monica...\nMy sister Tuscany...\fMy brother Wesley...\fMy brother Arthur...\fMy sister Frieda...\fAnd my brother Santos.\rThey’re all older than me!</language>
+		<language name="English">Sunny: My sister Monica...\nMy sister Tuscany...\fMy brother Wesley...\fMy brother... um... Arthur!\fMy sister Frieda...\fAnd my brother Santos.\rThey ALL older than me!</language>
 	</row>
 	<row id="msg_0752_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Huh? Isn’t today Sunday?\nUm... I forgot!</language>
+		<language name="English">Sunny: Huh? Ain’t today Sunday?\nUm... I forgot! I forget everythin’!</language>
 	</row>
 	<row id="msg_0752_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Alert Ribbon!\r</language>
+		<language name="English">Monica: Ayo, YOU!\nThe one who found ALL my siblings!\fYeah, you!\rWe pretty good homies now, I DECIDED.\rSince we homies, here’s a Alert Ribbon!\nWear it. That’s an order.\r</language>
 	</row>
 	<row id="msg_0752_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0752_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Shock Ribbon!\r</language>
+		<language name="English">Tuscany: Darling, YOU!\nThe one who found all of my siblings!\fYes, you!\rWe quite good homies now, are we not?\rTherefore, a Shock Ribbon. Imported.\r</language>
 	</row>
 	<row id="msg_0752_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0752_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Downcast Ribbon!\r</language>
+		<language name="English">Wesley: Yo, you!\nYou found all my siblings. That’s chill.\fYeah, you!\rWe homies now, it’s whatever.\rHere’s a Downcast Ribbon. It’s chill.\r</language>
 	</row>
 	<row id="msg_0752_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0752_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Hey, you found all of my\nsiblings, didn’t you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Careless Ribbon!\r</language>
+		<language name="English">Arthur: You found ALL my siblings?! And\nyou REMEMBERED me?!\rWe homies now! My first homie!\rHere’s a Careless Ribbon! Don’t forget\nme!\r</language>
 	</row>
 	<row id="msg_0752_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0752_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Hey, you’re the one who found\nall of my siblings, ain’t you!\rWe’re pretty good homies now, don’t\nyou agree?\rSince we’re such good homies, I’ll give\nyou this Relax Ribbon!\r</language>
+		<language name="English">Frieda: AYO, you found ALL my siblings!\nThat’s a PARTY!\rWe homies now! Party homies!\rHere’s a Relax Ribbon! Let’s GO!\r</language>
 	</row>
 	<row id="msg_0752_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -194,7 +194,7 @@
 	</row>
 	<row id="msg_0752_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\nYou found all of my siblings...\rWe’re pretty good homies...\n...Right?\rHere... Have this Snooze Ribbon...\r</language>
+		<language name="English">Santos: ...\nYou found all my siblings... *yawn*\rWe homies... Right?\n...Right...\rHere... A Snooze Ribbon... Fitting...\r</language>
 	</row>
 	<row id="msg_0752_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -210,7 +210,7 @@
 	</row>
 	<row id="msg_0752_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Hey, you found all of my siblings!\rWe’re pretty good homies now, right?\rSince we’re such good homies, I’ll give\nyou this Smile Ribbon!\r</language>
+		<language name="English">Sunny: AYO, you found ALL my siblings!\rWe homies now, right? I think so!\rHere’s a Smile Ribbon! I almost forgot!\r</language>
 	</row>
 	<row id="msg_0752_00053" index="53">
 		<attribute name="window_context_name">used</attribute>

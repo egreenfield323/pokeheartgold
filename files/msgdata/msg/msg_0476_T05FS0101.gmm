@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0476_T05FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Repel is a necessity if you are\ngoing to explore a cave.\rEven though I like exploring, I still\nhaven’t made it to all the caves.</language>
+		<language name="English">Opp Spray a MUST if you explorin’ a\ncave.\rI like explorin’, but I still ain’t\nmade it through every cave. I get\fscared.</language>
 	</row>
 	<row id="msg_0476_T05FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard about a craftsman who\nmakes custom Hood Balls in the\fJohto town of Azalea.\rI wish I had some.</language>
+		<language name="English">I heard about a craftsman makin’\ncustom Hood Balls in Azalea.\rKurt? He sound cool. I hear he\nthrow Apricorns at people.</language>
 	</row>
 </body>

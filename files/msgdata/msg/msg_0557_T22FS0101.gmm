@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0557_T22FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you first recruit a homie,\nit might be weak.\rBut put in the work and it’ll\ncome up strong.\rShow your homies love, fr.</language>
+		<language name="English">Real talk, a homie you just recruited\nweak as hell.\rBut you put in the work and it come\nup. Like me. I was weak too. Still am.</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Homies can hold stuff like Hennessy\nor a Pepto.\rBut they don’t know how to use\nnothin’ man-made. Like, at all.</language>
+		<language name="English">Homies can HOLD stuff like Hennessy\nor Pepto. But they can’t OPEN it.\fNo thumbs. It’s tragic.</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0557_T22FS0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After you left, Elm got a phone\ncall. I don’t know who it was.\rThen Elm just yelled out,\n“Ain’t nobody better for this than\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\rThen he made me bring you\nthis Egg.\rSo here I am. Deliverin’ eggs.\nFor minimum wage.\rApparently it only hatch if you\nkeep it in your crew.\fThat’s another reason we picked\fyou, {STRVAR_1 3, 0, 0}.\rTake care of it, for real!\r</language>
+		<language name="English">After you left, Elm got a phone\ncall. I don’t know who it was.\rThen Elm just yelled out,\n“Ain’t nobody better for this than\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\rThen he made me bring you\nthis Egg.\rSo here I’m. Deliverin’ eggs.\nFor minimum wage.\rApparently it only hatch if you\nkeep it in your crew.\fThat’s another reason we picked\fyou, {STRVAR_1 3, 0, 0}.\rTake care of it, for real!\r</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After you left, Elm got a phone\ncall. I don’t know who it was.\rThen Elm just yelled out,\n“Ain’t nobody better for this than\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\rThen he made me bring you\nthis Egg.\rSo here I am. Deliverin’ eggs.\nFor minimum wage.\rApparently it only hatch if you\nkeep it in your crew.\fThat’s another reason we picked\fyou, {STRVAR_1 3, 0, 0}.\rTake care of it, for real!\r</language>
+		<language name="English">After you left, Elm got a phone\ncall. I don’t know who it was.\rThen Elm just yelled out,\n“Ain’t nobody better for this than\f{STRVAR_1 3, 0, 0}!” Outta nowhere.\rThen he made me bring you\nthis Egg.\rSo here I’m. Deliverin’ eggs.\nFor minimum wage.\rApparently it only hatch if you\nkeep it in your crew.\fThat’s another reason we picked\fyou, {STRVAR_1 3, 0, 0}.\rTake care of it, for real!\r</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

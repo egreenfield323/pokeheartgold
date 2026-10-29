@@ -1,0 +1,19 @@
+{
+  "_comment": "S.S. Aqua, Olivine side. Oak upgrades the Pokédex.",
+  "0": "Welcome to the Fast Ship S.S. Aqua.\\r...Except the engine crew on vacation.\\nIn Cancun. On the company card.",
+  "1": "Welcome to the Fast Ship S.S. Aqua.\\nCan I see your S.S. Ticket?\\r",
+  "2": "{STRVAR_1 3, 0, 0} tried to show the\\nS.S. Ticket...\\r...But there ain't no Ticket!\\r",
+  "3": "My bad...\\rOne more stowaway wouldn't make a\\ndifference. We already got four.\\rBut rules is rules.\\nNo Ticket, no boat. Swim, kiddo.",
+  "4": "{STRVAR_1 3, 0, 0} flashed the S.S. Ticket.\\r",
+  "5": "Aight, you got a Ticket!\\rWe leavin' soon. Get on board quick!\\nLife jackets is under the seat. Probably.\\r",
+  "6": "What? You ALREADY showed me the Ticket.\\nI got a memory. Barely, but I got one.",
+  "7": "Welcome to the S.S. Aqua!\\rYour Ticket is...right there.\\nCome on through.\\r",
+  "8": "Runnin' a ship every day WEAR you out!\\fIt ain't runnin' today. I'm tired.\\rIt leave for Vermilion on Mondays and\\nFridays! If I feel like it!",
+  "9": "Professor Oak: Wassup!\\nYou startin' to have the\\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\\rTime for your Pokédex to match\\nwho you are.\\fLemme see your Pokédex for a sec.\\rI'ma upgrade your Pokédex with\\nthe National Mode.\\r",
+  "10": "Professor Oak: Wassup!\\nYou startin' to have the...\\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\\rTime for your Pokédex to match\\nwho you are.\\fLemme see your Pokédex for a sec.\\rI'ma upgrade your Pokédex with\\nthe National Mode.\\r",
+  "11": "{STRVAR_1 3, 0, 0}'s Pokédex got upgraded\\nwith the National Mode!",
+  "12": "Professor Oak: It ain't gon' be easy\\nto finish the National Pokédex...\\rBut I know you gon' give it\\nan honest shot for us!\\r",
+  "13": "Oh, time flies!\\rI got a radio show to record\\nat the Goldenrod Radio Tower.\\rYou must be headed to Kanto.\\rIf you near Pallet Town, swing\\nby my Pokémon Research Lab!\\r",
+  "14": "The S.S. Aqua run on JETS.\\nIt skim right over the water!\\fLike a jet ski for 300 people.",
+  "15": "You been to Kanto?\\rI heard MAD rare homies live there.\\nAnd the rent is crazy.\\fI'd love to visit. Not live."
+}

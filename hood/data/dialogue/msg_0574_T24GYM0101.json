@@ -1,0 +1,18 @@
+{
+  "_comment": "Cianwood block. Chuck, training under a waterfall for no reason.",
+  "0": "Chuck: OOOMPH! The waterfall poundin'\\nmy head... ARRGH! I LOVE IT!\\rWHY YOU TURN OFF MY WATERFALL?!\\rYou ruined my trainin'!\\nI'm warnin' you, I'm a STRONG Hustler\\fwho train under this waterfall DAILY!\\rWhat? That ain't got nothin' to do\\nwith it?\\r...\\nThat's TRUE!\\r...\\n...\\rC'mon. Let's scrap!\\r",
+  "1": "Chuck: Urggh!\\n...\\rOooarrgh!",
+  "2": "THERE! Scared now, huh?! LOOK AT THESE\\nMUSCLES!\\rWhat? That ain't got nothin' to do\\nwith it?\\fThat's TRUE!\\fC'mon. Let's scrap!\\r",
+  "3": "Chuck: Hmm... I lost?\\rHOW 'BOUT THAT! My wife gon' roast me\\nfor WEEKS!\\rAight. You worthy of the Storm Chain!\\r",
+  "4": "{STRVAR_1 3, 0, 0} got\\nthe Storm Chain from Chuck!",
+  "5": "Chuck: The Storm Chain let your\\nhomies Catch Flight to any city or\\ftown you been to!\\rHere, take this too!\\r",
+  "6": "Chuck: That's One Punch.\\rIt miss if they hit you first,\\nbut if it land, it's LIGHTS OUT!",
+  "7": "Argh... Your Bag jammed full!",
+  "8": "Chuck: WAHAHAH!\\nI had FUN scrappin' you!\\rBut an L is an L!\\rFrom now on, I train 24 hours a day!\\nNo more cake. ...Okay, a lil cake.",
+  "9": "He so into his trainin' he don't notice\\nyou. He don't notice his wife either.\\fShe told me.",
+  "10": "There's a big winch.\\nYou gon' turn it? {YESNO 0}",
+  "11": "{STRVAR_1 3, 0, 0} turned the winch\\nwith pure muscle!\\r",
+  "12": "It won't turn no more.",
+  "13": "Cianwood City Block\\nWet Floor. Always.",
+  "14": "Cianwood City Block\\rBoss: Chuck\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

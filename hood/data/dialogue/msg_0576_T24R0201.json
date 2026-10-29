@@ -1,0 +1,18 @@
+{
+  "_comment": "Kirk's house. The rival robbed him; you hold his SHUCKLE.",
+  "0": "I... I'm in SHOCK!\\rSome kid with red hair and mean eyes\\ncame in here.\\rHe scared me into givin' him my BEST\\nhomie! I got FINESSED!\\rI still got one left, but what if he\\ncome back?! He know where I live!\\rYou look strong. Hold my homie for\\na while? Like witness protection? {YESNO 0}",
+  "1": "Oh, good looks!\\nTake care of it, please!\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\na homie!",
+  "3": "Your crew full.",
+  "4": "Oh, no... What I'ma do if he come back?\\nI'm movin'. Tonight. I'm movin'.",
+  "5": "Ayo! How my homie doin'?\\rI think I'm safe now, so can I\\nget it back? {YESNO 0}",
+  "6": "Ayo! How my homie doin'?",
+  "7": "Good looks!",
+  "8": "Ayo, that ain't my homie.",
+  "9": "My homie started likin' you MORE than me.\\rAight, keep it. I see how it is.\\nJust promise you'll be good to it.",
+  "10": "Oh, no, no...\\nThat's the same as gettin' robbed. AGAIN.",
+  "11": "For homies, happiness is bein' with\\nsomebody who treat 'em right.\\fFor me, it's bein' with nobody. Safer.",
+  "12": "Huh?\\nIt's holdin' somethin'.\\fYou keep that.",
+  "13": "Huh?\\nIt got a Ball Capsule on its Ball!\\fTake that off, please.",
+  "14": "Huh?\\nYou...only got one homie!\\fThen you can't give it back to me."
+}

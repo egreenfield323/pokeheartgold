@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0603_T25SP0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We exchange your Coins for\nfabulous prizes! {YESNO 0}</language>
+		<language name="English">We swap your Coins for\nfabulous prizes! {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please save your Coins and\ncome again!</language>
+		<language name="English">Stack your Coins and come back!\nThe house always wins. I’m the house.</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry! You need more Coins. {YESNO 0}</language>
+		<language name="English">My bad! You need more Coins.\nMaybe sell a kidney? I know a guy. {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0}.\nIs that right? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 8, 0, 0}.\nThat right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,27 +22,27 @@
 	</row>
 	<row id="msg_0603_T25SP0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry. You can’t carry any more.\r</language>
+		<language name="English">My bad. You can’t carry no more.\r</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your party’s full!\nPlease make some room before you\fcome back.</language>
+		<language name="English">Your squad full!\nMake some room before you\fcome back.</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
+		<language name="English">You want {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe {STRVAR_1 0, 1, 0}! {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe {STRVAR_1 0, 1, 0}! {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rWe exchange your Coins for\nfabulous prizes! {YESNO 0}</language>
+		<language name="English">Welcome!\rWe swap your Coins for\nfabulous prizes! {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You put away the {STRVAR_1 8, 0, 0}\nin the {STRVAR_1 18, 1, 0} Pocket. {YESNO 0}</language>
+		<language name="English">You put the {STRVAR_1 8, 0, 0}\nin the {STRVAR_1 18, 1, 0} Pocket. {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0603_T25SP0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My name is Mr. Game!\rMy heart pounds with excitement when\npeople enjoy my Coin game!\rIn fact, that’s what I live for!\nYou look like quite a challenger!\rWhy don’t you play my Coin game?\rYou can get fabulous prizes if\nyou manage to collect a lot\fof Coins. {YESNO 0}</language>
+		<language name="English">My name Mr. Game! My cardiologist\nsaid stop. I said NO!\rMy heart be POUNDIN’ when people\nplay my Coin game! Literally! It’s a\fcondition!\rYou look like a REAL challenger!\rPlay my Coin game! You could win\nfabulous prizes! Or lose your\fwhole life! {YESNO 0}</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
@@ -128,46 +128,46 @@
 	</row>
 	<row id="msg_0603_T25SP0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nHere is your Coin Case!\r</language>
+		<language name="English">AIGHT! Here go your Coin Case! Your\nfirst one’s free! They always are!\r</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me how you play, and my heart\nwill pound with excitement!\r</language>
+		<language name="English">Show me how you play, and my heart\ngon’ be POUNDIN’! Doc said that’s bad!\r</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Playing my Coin game will make your\nheart and my heart both pound with\fexcitement, you know?</language>
+		<language name="English">Playin’ my Coin game make your heart\nAND my heart pound. One of us gon’\fneed a ambulance.</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My name is Mr. Game!\rMy heart pounds with excitement when\npeople enjoy my Coin game!\rIn fact, that’s what I live for!\nGo ahead and play it!\rMake my heart pound with excitement!</language>
+		<language name="English">My name Mr. Game! My cardiologist said\nstop. I said NO!\rMy heart be POUNDIN’ when people play\nmy Coin game! Literally! It’s a\fcondition!\rGo ’head and play! Make my heart\nPOUND! Make it SKIP!</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go ahead and play my Coin game!\fMake my heart pound with excitement!</language>
+		<language name="English">Go ’head and play my Coin game!\fMake my heart POUND! I’m on three\nmeds!</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What a feeling!\rNothing beats Coin-game spectatorship!\nOh! I almost forgot!\rYou can exchange your Coins for prizes\nwith the two gentlemen at the table\fover there.</language>
+		<language name="English">WHAT A FEELIN’!\rAin’t nothin’ like watchin’ slots!\nMy pulse is 190! Oh! I almost forgot!\rYou can swap Coins for prizes with the\ntwo gentlemen at the table.\fThey sketchy, but fair.</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you come back to play\nmy Coin game?</language>
+		<language name="English">You came back to play my Coin game?\nI KNEW you would. They always do.</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems you need a Coin Case\nto play...\r</language>
+		<language name="English">Looks like you need a Coin Case\nto play...\r</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Game: Aha!\rYou must be here to play my Coin game!\nCome here and I’ll give you a Coin Case!</language>
+		<language name="English">Mr. Game: AHA!\rYou here to play my Coin game!\nCome here, I’ll give you a Coin Case!</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Game: Show me how you play and\nmake my heart pound with excitement!\r</language>
+		<language name="English">Mr. Game: Show me how you play and\nmake my heart POUND!\r</language>
 	</row>
 	<row id="msg_0603_T25SP0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Game: Huh?\rWhy don’t you sit across from me\nand show me how you play?</language>
+		<language name="English">Mr. Game: Huh?\rSit across from me and show me how\nyou play! I wanna FEEL your losses!</language>
 	</row>
 </body>

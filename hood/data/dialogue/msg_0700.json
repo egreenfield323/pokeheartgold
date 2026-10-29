@@ -1,0 +1,16 @@
+{
+  "_comment": "Phone: Dana (gets gifts from boys, shares them).",
+  "1": "You real good with homies!\\rBoys give me stuff after scraps, but\\nsometimes they give me TOO much.\\rNext time, I can share some if you\\nwant. Lemme get your\\fnumber. {YESNO 0}",
+  "2": "Next time a boy give me somethin' after\\na scrap, I'll share with you!\\rDoes that make me sound ungrateful?",
+  "3": "Aww, you don't want nothin'?\\nBut it's all FREE...",
+  "4": "I'll share my gifts with you.\\rLemme get your number.{YESNO 0}",
+  "5": "Ayo! You here for your gift?\\rThis should really make your day!\\r",
+  "6": "Ayo, tell me, ain't a girl on the\\nphone just charmin'?\\rIt's not?\\rHa ha ha, you right nearby, ain't you?\\nWhy not come over here and talk in\\fperson?",
+  "7": "My {STRVAR_1 0, 10, 0} gettin' prettier!\\nI been takin' TONS of pics!\\rIt only took a second to beat a wild\\n{STRVAR_1 0, 11, 0}.\\r...Prob'ly 'cause you gave me some\\nscrap tips last time!\\rLater!",
+  "8": "My {STRVAR_1 0, 10, 0} gettin' prettier!\\nI been takin' TONS of pics!\\rYou know what? A wild {STRVAR_1 0, 11, 0}\\ngot away from me AGAIN.\\rIt was SO close!\\nFr, just a lil more, and I\\fwoulda...\\rLater!",
+  "9": "Right now, I'm on {STRVAR_1 4, 3, 0}.\\rIf you close by, let's scrap!\\nI'll be waitin' for you!",
+  "10": "Ayo! You ain't forget your\\npromise to scrap me, did you?\\rI'm waitin' on {STRVAR_1 4, 3, 0}!",
+  "11": "Oh! You wanted a gift, right?\\nI got one, but I wanna keep this one.\\rCan you wait a lil longer?",
+  "12": "You know what? I got a good gift!\\nLike I promised, it's yours!\\rI KNOW you gon' like it. Come pick it\\nup! I'm waitin' on {STRVAR_1 4, 3, 0}!",
+  "13": "Wassup?\\rIf you don't come get your present\\nsoon, I'mma give it to somebody else.\\rI'm waitin' on {STRVAR_1 4, 3, 0}!"
+}

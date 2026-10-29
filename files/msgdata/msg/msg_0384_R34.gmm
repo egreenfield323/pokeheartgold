@@ -92,11 +92,11 @@
 	</row>
 	<row id="msg_0384_R34_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m on patrol for suspicious individuals.</language>
+		<language name="English">I’m on patrol for suspicious folks.\rYou look suspicious. Everybody look\nsuspicious. That’s my whole job.</language>
 	</row>
 	<row id="msg_0384_R34_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: Who are you?!\r</language>
+		<language name="English">Irene: Who you?! How you get back\nhere?!\r</language>
 	</row>
 	<row id="msg_0384_R34_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
@@ -105,19 +105,19 @@
 	</row>
 	<row id="msg_0384_R34_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: I’ll tell my sister about you!\r</language>
+		<language name="English">Irene: I’m tellin’ my sister! She got\nhands! And a library card!\r</language>
 	</row>
 	<row id="msg_0384_R34_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: I’ll tell my sister about you!</language>
+		<language name="English">Irene: I’m tellin’ my sister on you!</language>
 	</row>
 	<row id="msg_0384_R34_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: How did you find this place?\fThis is our hideout!</language>
+		<language name="English">Irene: How you find this spot?!\fThis our SECRET hideout! We pay rent!</language>
 	</row>
 	<row id="msg_0384_R34_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: What the...?\nWhat are you doing?\r</language>
+		<language name="English">Jenn: What the...?\nWhy you in our hideout?!\r</language>
 	</row>
 	<row id="msg_0384_R34_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -126,15 +126,15 @@
 	</row>
 	<row id="msg_0384_R34_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: Better not laugh yet.\nMy sister is really strong!</language>
+		<language name="English">Jenn: Don’t laugh yet.\nMy big sister go HARD. She bit a cop.</language>
 	</row>
 	<row id="msg_0384_R34_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: You and us... We might as well\nbecome homies!</language>
+		<language name="English">Jenn: Aight, you got skills. We might\nas well be homies now. Sign this NDA.</language>
 	</row>
 	<row id="msg_0384_R34_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: I must pay you back for taking\ncare of my sisters!\r</language>
+		<language name="English">Kate: You the one beat my sisters?!\nOh, it’s PERSONAL now!\r</language>
 	</row>
 	<row id="msg_0384_R34_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
@@ -143,7 +143,7 @@
 	</row>
 	<row id="msg_0384_R34_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: You are so strong.\nWe lost with no excuses...\rHere, take this!\r</language>
+		<language name="English">Kate: Okay...you hard, fr.\nWe lost fair and square...\rHere, take this! Don’t tell nobody\nwhere we live! Or we’ll move again!\r</language>
 	</row>
 	<row id="msg_0384_R34_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
@@ -152,19 +152,19 @@
 	</row>
 	<row id="msg_0384_R34_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: I’m sorry we jumped you.\rWe never expected anyone to find \nus here.\fYou sure startled us.</language>
+		<language name="English">Kate: My bad for jumpin’ you.\rWe ain’t think NOBODY would find us.\nWe been hidin’ from our landlord\ffor like eight months.</language>
 	</row>
 	<row id="msg_0384_R34_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 34\nSouth to Azalea Town</language>
+		<language name="English">Rt. 34\nSouth to Azalea. Mind the Slowpokes.</language>
 	</row>
 	<row id="msg_0384_R34_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustler Tips\rNorth to Goldenrod City\nThe Radio Tower at Goldenrod is giving\faway Radio Cards.\rAnswer their questions and receive a\nRadio Card!</language>
+		<language name="English">Hustler Tips\rNorth to Goldenrod City\nThe Radio Tower in Goldenrod givin’\faway Radio Cards.\rAnswer their questions and get a\nRadio Card! Free stuff!</language>
 	</row>
 	<row id="msg_0384_R34_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Day Care\nLet us raise your Pokémon for you!</language>
+		<language name="English">Pokémon Day Care\nWe Raise Your Homies. No Questions.</language>
 	</row>
 	<row id="msg_0384_R34_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -172,7 +172,7 @@
 	</row>
 	<row id="msg_0384_R34_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Good work, Grandpa!\nThe Pokémon you raised for me has\fbeen as healthy as can be!\rYou look fit, too!\r</language>
+		<language name="English">Lyra: Good work, Grandpa!\nThe homie you raised for me been\fhealthy as can be!\rYou lookin’ good too!\r</language>
 	</row>
 	<row id="msg_0384_R34_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -180,7 +180,7 @@
 	</row>
 	<row id="msg_0384_R34_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. He’s a Hustler.\rHe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Lemme introduce you.\nThis {STRVAR_1 3, 0, 0}. He a Hustler.\rHe gettin’ better at raisin’\nhomies.\rNot as good as you, Grandpa,\nof course!\r</language>
 	</row>
 	<row id="msg_0384_R34_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -192,15 +192,15 @@
 	</row>
 	<row id="msg_0384_R34_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Good work, Grandpa!\nThe Pokémon you raised for me has\fbeen as healthy as can be!\rYou look fit, too!\r</language>
+		<language name="English">Ethan: Good work, Grandpa!\nThe homie you raised for me been\fhealthy as can be!\rYou lookin’ good too!\r</language>
 	</row>
 	<row id="msg_0384_R34_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hey, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. She’s a Hustler.\rShe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Lemme introduce you.\nThis {STRVAR_1 3, 0, 0}. She a Hustler.\rShe gettin’ better at raisin’\nhomies.\rNot as good as you, Grandpa,\nof course!\r</language>
 	</row>
 	<row id="msg_0384_R34_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -208,18 +208,18 @@
 	</row>
 	<row id="msg_0384_R34_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have an idea!\nI’ll give you our numbers.\rThen you can check on the Pokémon\nwe raise for you.\r</language>
+		<language name="English">I got an idea!\nI’ll give you our numbers.\rThen you can check on the homies\nwe raisin’ for you.\r</language>
 	</row>
 	<row id="msg_0384_R34_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered the\nDay-Care Man in the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved the\nDay-Care Man in the Pokégear!</language>
 	</row>
 	<row id="msg_0384_R34_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered the\nDay-Care Lady in the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved the\nDay-Care Lady in the Pokégear!</language>
 	</row>
 	<row id="msg_0384_R34_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Call us from time to time when you\ngive us your Pokémon to raise.\rI’ll be happy to have a use for this\nPokégear my grandchild gave me.\r</language>
+		<language name="English">Hit us up when you drop your homies\noff.\rI’m so happy I FINALLY get to use this\nPokégear my grandbaby got me.\fWhich button is the phone?\r</language>
 	</row>
 </body>

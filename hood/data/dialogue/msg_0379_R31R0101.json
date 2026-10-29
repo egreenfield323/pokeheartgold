@@ -1,6 +1,6 @@
 {
   "_comment": "Route 31 -> Violet gatehouse. Lyra/Ethan hands over the Vs. Recorder.",
-  "0": "You must be a Hustler on the come-up.\\nYou ran up on the block yet?",
+  "0": "You a Hustler on the come-up? I can\\ntell by the shoes. They ain't paid off.",
   "2": "Lyra: I KNEW that was you, {STRVAR_1 3, 0, 0}!\\rHow you get past me?\\nHere, take this for\\fsneakin' up on me, {STRVAR_1 3, 0, 0}!\\r",
   "3": "Ethan: I KNEW that was you, {STRVAR_1 3, 0, 0}!\\rHow you get past me?\\nHere, take this for\\fsneakin' up on me, {STRVAR_1 3, 0, 0}!\\r",
   "4": "The Vs. Recorder record your scraps\\nso you can watch 'em back.\\rI gotta dip!\\fYou ain't passin' me again!\\r",

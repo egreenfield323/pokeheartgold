@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0570_T23R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the SLOWPOKE have disappeared\nfrom the town.\rThe forest’s protector may be\nangry with us...\rIt may be a bad omen. We should stay in.</language>
+		<language name="English">All the SLOWPOKE disappeared from\ntown...\rThe forest’s protector must be MAD\nat us. I KNEW we shoulda tithed.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE have returned...\rBut my FARFETCH’D haven’t come back.\nMy apprentice has gone to look for them\fin the Ilex Forest.\rIt’s been ages now.\nWhere in the world is that lazy guy?</language>
+		<language name="English">The SLOWPOKE came back...\rBut my FARFETCH’D still gone. My\napprentice went lookin’ in Ilex Forest.\rBeen FOREVER now. Where is that lazy\nfool? I’m dockin’ his pay.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You chased off The Feds and went to\nIlex Forest alone?\rThat takes guts!\nI like that. Come train with us.</language>
+		<language name="English">You ran off The Feds AND went in Ilex\nForest by yourself?\rThat take guts! I like that.\nYou wanna make charcoal? Pays nothin’.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where have all the SLOWPOKE gone?\nAre they out playing somewhere?</language>
+		<language name="English">Where all the SLOWPOKE go?\nThey prob’ly just wandered off.\fThey ain’t the brightest.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry--I forgot to good looks.\nThis is Charcoal that I made.\rFire-type moves will become\nmore powerful when a Pokémon\fholds that.</language>
+		<language name="English">My bad--I forgot to say good looks.\rThis Charcoal I made. Fire moves hit\nharder when a homie hold it.\fAlso great for BBQ.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Charcoal!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Charcoal!</language>
 	</row>
 	<row id="msg_0570_T23R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE came back, and you even\nfound FARFETCH’D.\fYou’re the coolest, man!</language>
+		<language name="English">The SLOWPOKE back, and you found my\nFARFETCH’D. You the coolest, bro!\fMy apprentice is fired.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-oh, your Bag is chock-full.</language>
+		<language name="English">Uh-oh, your Bag is packed.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

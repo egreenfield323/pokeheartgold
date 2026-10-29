@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0197_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is trying to\nlearn {STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is tryna\nlearn {STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0197_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -39,7 +39,7 @@
 	</row>
 	<row id="msg_0197_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up on learning the move\n{STRVAR_1 6, 1, 0}?\r</language>
+		<language name="English">Give up on learnin’ the move\n{STRVAR_1 6, 1, 0}?\r</language>
 	</row>
 	<row id="msg_0197_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -59,7 +59,7 @@
 	</row>
 	<row id="msg_0197_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The attack of the foe’s\n{STRVAR_1 1, 0, 0} missed!</language>
+		<language name="English">The attack of the opp’s\n{STRVAR_1 1, 0, 0} missed!</language>
 	</row>
 	<row id="msg_0197_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0197_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nprotected itself!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nprotected itself!</language>
 	</row>
 	<row id="msg_0197_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -83,7 +83,7 @@
 	</row>
 	<row id="msg_0197_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} avoided\ndamage by using {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} avoided\ndamage by using {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -95,7 +95,7 @@
 	</row>
 	<row id="msg_0197_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} makes Ground\nmoves miss by using {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} makes Ground\nmoves miss by using {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -107,19 +107,19 @@
 	</row>
 	<row id="msg_0197_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} avoided\nthe attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} avoided\nthe attack!</language>
 	</row>
 	<row id="msg_0197_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t affect\n{STRVAR_1 1, 0, 0}...</language>
+		<language name="English">It don’t affect\n{STRVAR_1 1, 0, 0}...</language>
 	</row>
 	<row id="msg_0197_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t affect\nthe wild {STRVAR_1 1, 0, 0}...</language>
+		<language name="English">It don’t affect\nthe wild {STRVAR_1 1, 0, 0}...</language>
 	</row>
 	<row id="msg_0197_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t affect\nthe foe’s {STRVAR_1 1, 0, 0}...</language>
+		<language name="English">It don’t affect\nthe foe’s {STRVAR_1 1, 0, 0}...</language>
 	</row>
 	<row id="msg_0197_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -135,7 +135,7 @@
 	</row>
 	<row id="msg_0197_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} got ${STRVAR_1 54, 1, 0}\nfor winning!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got ${STRVAR_1 54, 1, 0}\nfor winnin’!\r</language>
 	</row>
 	<row id="msg_0197_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -147,7 +147,7 @@
 	</row>
 	<row id="msg_0197_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is out of\nusable Pokémon!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} is outta\nusable Pokémon!\r</language>
 	</row>
 	<row id="msg_0197_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -167,7 +167,7 @@
 	</row>
 	<row id="msg_0197_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} prevents\nescape with {STRVAR_1 5, 1, 0}!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} prevents\nescape with {STRVAR_1 5, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -183,7 +183,7 @@
 	</row>
 	<row id="msg_0197_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t escape!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t escape!\r</language>
 	</row>
 	<row id="msg_0197_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -199,7 +199,7 @@
 	</row>
 	<row id="msg_0197_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\npassed out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\npassed out!</language>
 	</row>
 	<row id="msg_0197_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -223,11 +223,11 @@
 	</row>
 	<row id="msg_0197_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\fpass out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 1, 2, 0}\fpass out!</language>
 	</row>
 	<row id="msg_0197_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the foe’s\f{STRVAR_1 1, 2, 0} pass out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the opp’s\f{STRVAR_1 1, 2, 0} pass out!</language>
 	</row>
 	<row id="msg_0197_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -239,7 +239,7 @@
 	</row>
 	<row id="msg_0197_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready passed out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nalready passed out!</language>
 	</row>
 	<row id="msg_0197_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -251,7 +251,7 @@
 	</row>
 	<row id="msg_0197_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwasn’t affected!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nwasn’t affected!</language>
 	</row>
 	<row id="msg_0197_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -263,7 +263,7 @@
 	</row>
 	<row id="msg_0197_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwas food poisoned!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nwas food poisoned!</language>
 	</row>
 	<row id="msg_0197_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -275,7 +275,7 @@
 	</row>
 	<row id="msg_0197_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\npoisoned the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\npoisoned the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -287,11 +287,11 @@
 	</row>
 	<row id="msg_0197_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\fthe foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} food poisoned\fthe foe’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
@@ -303,7 +303,7 @@
 	</row>
 	<row id="msg_0197_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby bad tacos!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt\nby bad tacos!</language>
 	</row>
 	<row id="msg_0197_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -315,7 +315,7 @@
 	</row>
 	<row id="msg_0197_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is already\npoisoned.</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is already\npoisoned.</language>
 	</row>
 	<row id="msg_0197_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -327,7 +327,7 @@
 	</row>
 	<row id="msg_0197_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned!</language>
 	</row>
 	<row id="msg_0197_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -339,7 +339,7 @@
 	</row>
 	<row id="msg_0197_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} had its\nenergy drained!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} had its\nenergy drained!</language>
 	</row>
 	<row id="msg_0197_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
@@ -351,7 +351,7 @@
 	</row>
 	<row id="msg_0197_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ngot burnt!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\ngot burnt!</language>
 	</row>
 	<row id="msg_0197_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -363,7 +363,7 @@
 	</row>
 	<row id="msg_0197_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nburned the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nburned the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
@@ -375,11 +375,11 @@
 	</row>
 	<row id="msg_0197_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} burned {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} burned {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} burned the foe’s\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} burned the opp’s\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
@@ -391,7 +391,7 @@
 	</row>
 	<row id="msg_0197_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby its burn!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt\nby its burn!</language>
 	</row>
 	<row id="msg_0197_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
@@ -403,7 +403,7 @@
 	</row>
 	<row id="msg_0197_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} already\nhas a burn.</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} already\nhas a burn.</language>
 	</row>
 	<row id="msg_0197_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -415,7 +415,7 @@
 	</row>
 	<row id="msg_0197_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\niced out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was\niced out!</language>
 	</row>
 	<row id="msg_0197_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -427,7 +427,7 @@
 	</row>
 	<row id="msg_0197_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nfroze the foe’s {STRVAR_1 1, 2, 0} solid!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nfroze the opp’s {STRVAR_1 1, 2, 0} solid!</language>
 	</row>
 	<row id="msg_0197_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -439,11 +439,11 @@
 	</row>
 	<row id="msg_0197_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} froze {STRVAR_1 1, 2, 0}\fsolid!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} froze {STRVAR_1 1, 2, 0}\fsolid!</language>
 	</row>
 	<row id="msg_0197_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} froze the foe’s\f{STRVAR_1 1, 2, 0} solid!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} froze the opp’s\f{STRVAR_1 1, 2, 0} solid!</language>
 	</row>
 	<row id="msg_0197_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -455,7 +455,7 @@
 	</row>
 	<row id="msg_0197_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\niced out!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\niced out!</language>
 	</row>
 	<row id="msg_0197_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -467,7 +467,7 @@
 	</row>
 	<row id="msg_0197_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} warmed up!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} warmed up!</language>
 	</row>
 	<row id="msg_0197_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -479,7 +479,7 @@
 	</row>
 	<row id="msg_0197_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\ndefrosted by {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was\ndefrosted by {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
@@ -491,7 +491,7 @@
 	</row>
 	<row id="msg_0197_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is tased!\nIt may be unable to move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is tased!\nIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
@@ -503,7 +503,7 @@
 	</row>
 	<row id="msg_0197_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nparalyzed the foe’s {STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nparalyzed the opp’s {STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
@@ -515,11 +515,11 @@
 	</row>
 	<row id="msg_0197_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased the foe’s\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} tased the opp’s\f{STRVAR_1 1, 2, 0}!\fIt may be unable to move!</language>
 	</row>
 	<row id="msg_0197_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
@@ -531,7 +531,7 @@
 	</row>
 	<row id="msg_0197_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is tased!\nIt can’t move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is tased!\nIt can’t move!</language>
 	</row>
 	<row id="msg_0197_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
@@ -543,7 +543,7 @@
 	</row>
 	<row id="msg_0197_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready tased!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nalready tased!</language>
 	</row>
 	<row id="msg_0197_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
@@ -555,7 +555,7 @@
 	</row>
 	<row id="msg_0197_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\nhealed of the taser!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was\nhealed of the taser!</language>
 	</row>
 	<row id="msg_0197_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -567,31 +567,31 @@
 	</row>
 	<row id="msg_0197_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\ndream was eaten!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\ndream was eaten!</language>
 	</row>
 	<row id="msg_0197_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go higher!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nmaxed out, bro!</language>
 	</row>
 	<row id="msg_0197_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go higher!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nmaxed out, bro!</language>
 	</row>
 	<row id="msg_0197_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go higher!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nmaxed out, bro!</language>
 	</row>
 	<row id="msg_0197_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go lower!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ncan’t get no lower!</language>
 	</row>
 	<row id="msg_0197_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go lower!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ncan’t get no lower!</language>
 	</row>
 	<row id="msg_0197_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwon’t go lower!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ncan’t get no lower!</language>
 	</row>
 	<row id="msg_0197_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
@@ -599,7 +599,7 @@
 	</row>
 	<row id="msg_0197_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The effect of the foe’s\n{STRVAR_1 6, 0, 0} wore off!</language>
+		<language name="English">The effect of the opp’s\n{STRVAR_1 6, 0, 0} wore off!</language>
 	</row>
 	<row id="msg_0197_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -611,19 +611,19 @@
 	</row>
 	<row id="msg_0197_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nconfused!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nconfused!</language>
 	</row>
 	<row id="msg_0197_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} snapped\nout of confusion!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} snapped\noutta confusion!</language>
 	</row>
 	<row id="msg_0197_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} snapped\nout of confusion!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} snapped\noutta confusion!</language>
 	</row>
 	<row id="msg_0197_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} snapped\nout of confusion!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} snapped\noutta confusion!</language>
 	</row>
 	<row id="msg_0197_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -635,7 +635,7 @@
 	</row>
 	<row id="msg_0197_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got\nfaded!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got\nfaded!</language>
 	</row>
 	<row id="msg_0197_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -647,19 +647,19 @@
 	</row>
 	<row id="msg_0197_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nalready faded!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nalready faded!</language>
 	</row>
 	<row id="msg_0197_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nfell in love!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}\ngot a crush!</language>
 	</row>
 	<row id="msg_0197_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}\nfell in love!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}\ngot a crush!</language>
 	</row>
 	<row id="msg_0197_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nfell in love!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\ngot a crush!</language>
 	</row>
 	<row id="msg_0197_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
@@ -671,7 +671,7 @@
 	</row>
 	<row id="msg_0197_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is in love\nwith the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is in love\nwith the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
@@ -683,11 +683,11 @@
 	</row>
 	<row id="msg_0197_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is in love\nwith {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is in love\nwith {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is in love\nwith the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is in love\nwith the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
@@ -699,7 +699,7 @@
 	</row>
 	<row id="msg_0197_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nimmobilized by love!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nimmobilized by love!</language>
 	</row>
 	<row id="msg_0197_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -711,7 +711,7 @@
 	</row>
 	<row id="msg_0197_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\nblown away!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was\nblown away!</language>
 	</row>
 	<row id="msg_0197_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
@@ -723,19 +723,19 @@
 	</row>
 	<row id="msg_0197_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} transformed\ninto the {STRVAR_1 15, 1, 0} type!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} transformed\ninto the {STRVAR_1 15, 1, 0} type!</language>
 	</row>
 	<row id="msg_0197_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} flinched!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} flinched! Scary!</language>
 	</row>
 	<row id="msg_0197_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} flinched!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} flinched! Scary!</language>
 	</row>
 	<row id="msg_0197_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} flinched!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} flinched! Scary!</language>
 	</row>
 	<row id="msg_0197_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
@@ -747,7 +747,7 @@
 	</row>
 	<row id="msg_0197_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} regained\nhealth!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} regained\nhealth!</language>
 	</row>
 	<row id="msg_0197_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
@@ -759,7 +759,7 @@
 	</row>
 	<row id="msg_0197_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\nHP is full!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\nHP is full!</language>
 	</row>
 	<row id="msg_0197_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
@@ -767,7 +767,7 @@
 	</row>
 	<row id="msg_0197_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 6, 0, 0} raised\nits team’s Special Defense!</language>
+		<language name="English">The opp’s {STRVAR_1 6, 0, 0} raised\nits team’s Special Defense!</language>
 	</row>
 	<row id="msg_0197_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
@@ -775,7 +775,7 @@
 	</row>
 	<row id="msg_0197_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 6, 0, 0} raised\nits team’s Special Defense slightly!</language>
+		<language name="English">The opp’s {STRVAR_1 6, 0, 0} raised\nits team’s Special Defense slightly!</language>
 	</row>
 	<row id="msg_0197_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
@@ -783,7 +783,7 @@
 	</row>
 	<row id="msg_0197_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 6, 0, 0} raised\nits team’s Defense!</language>
+		<language name="English">The opp’s {STRVAR_1 6, 0, 0} raised\nits team’s Defense!</language>
 	</row>
 	<row id="msg_0197_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
@@ -791,7 +791,7 @@
 	</row>
 	<row id="msg_0197_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 6, 0, 0} raised\nits team’s Defense slightly!</language>
+		<language name="English">The opp’s {STRVAR_1 6, 0, 0} raised\nits team’s Defense slightly!</language>
 	</row>
 	<row id="msg_0197_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
@@ -799,7 +799,7 @@
 	</row>
 	<row id="msg_0197_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s team became\ncloaked in a mystical veil!</language>
+		<language name="English">The opp’s team became\ncloaked in a mystical veil!</language>
 	</row>
 	<row id="msg_0197_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
@@ -811,7 +811,7 @@
 	</row>
 	<row id="msg_0197_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Security!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
@@ -819,7 +819,7 @@
 	</row>
 	<row id="msg_0197_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is no longer protected\nby Security!</language>
+		<language name="English">The opp is no longer protected\nby Security!</language>
 	</row>
 	<row id="msg_0197_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
@@ -831,7 +831,7 @@
 	</row>
 	<row id="msg_0197_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} went\nto sleep!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} went\nto sleep!</language>
 	</row>
 	<row id="msg_0197_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
@@ -843,7 +843,7 @@
 	</row>
 	<row id="msg_0197_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} slept and\nbecame healthy!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} slept and\nbecame healthy!</language>
 	</row>
 	<row id="msg_0197_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
@@ -855,7 +855,7 @@
 	</row>
 	<row id="msg_0197_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} whipped\nup a whirlwind!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} whipped\nup a whirlwind!</language>
 	</row>
 	<row id="msg_0197_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
@@ -867,7 +867,7 @@
 	</row>
 	<row id="msg_0197_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} absorbed\nlight!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} absorbed\nlight!</language>
 	</row>
 	<row id="msg_0197_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -879,7 +879,7 @@
 	</row>
 	<row id="msg_0197_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} tucked in\nits head!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} tucked in\nits head!</language>
 	</row>
 	<row id="msg_0197_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
@@ -891,7 +891,7 @@
 	</row>
 	<row id="msg_0197_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became\ncloaked in a harsh light!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} became\ncloaked in a harsh light!</language>
 	</row>
 	<row id="msg_0197_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
@@ -903,7 +903,7 @@
 	</row>
 	<row id="msg_0197_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} flew\nup high!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} flew\nup high!</language>
 	</row>
 	<row id="msg_0197_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
@@ -915,7 +915,7 @@
 	</row>
 	<row id="msg_0197_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} burrowed its\nway under the ground!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} burrowed its\nway under the ground!</language>
 	</row>
 	<row id="msg_0197_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
@@ -927,7 +927,7 @@
 	</row>
 	<row id="msg_0197_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} hid\nunderwater!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hid\nunderwater!</language>
 	</row>
 	<row id="msg_0197_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
@@ -939,7 +939,7 @@
 	</row>
 	<row id="msg_0197_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} sprang up!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} sprang up!</language>
 	</row>
 	<row id="msg_0197_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
@@ -951,7 +951,7 @@
 	</row>
 	<row id="msg_0197_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was squeezed\nby the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was squeezed\nby the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
@@ -963,11 +963,11 @@
 	</row>
 	<row id="msg_0197_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was squeezed\nby {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was squeezed\nby {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was squeezed\nby the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was squeezed\nby the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
@@ -979,7 +979,7 @@
 	</row>
 	<row id="msg_0197_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was trapped\nin the vortex!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was trapped\nin the vortex!</language>
 	</row>
 	<row id="msg_0197_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
@@ -991,7 +991,7 @@
 	</row>
 	<row id="msg_0197_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was trapped\nby Sandbag!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was trapped\nby Sandbag!</language>
 	</row>
 	<row id="msg_0197_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
@@ -1015,11 +1015,11 @@
 	</row>
 	<row id="msg_0197_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was wrapped\nby {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was wrapped\nby {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was wrapped\nby the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was wrapped\nby the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
@@ -1031,7 +1031,7 @@
 	</row>
 	<row id="msg_0197_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 1, 0} clamped\n{STRVAR_1 1, 0, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 1, 0} clamped\n{STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
@@ -1047,7 +1047,7 @@
 	</row>
 	<row id="msg_0197_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 1, 0} clamped\nthe foe’s {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 1, 0} clamped\nthe foe’s {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
@@ -1059,7 +1059,7 @@
 	</row>
 	<row id="msg_0197_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt\nby {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
@@ -1071,7 +1071,7 @@
 	</row>
 	<row id="msg_0197_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was freed\nfrom {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was freed\nfrom {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
@@ -1083,7 +1083,7 @@
 	</row>
 	<row id="msg_0197_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} kept going\nand crashed!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} kept going\nand crashed!</language>
 	</row>
 	<row id="msg_0197_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
@@ -1091,7 +1091,7 @@
 	</row>
 	<row id="msg_0197_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s team became\nshrouded in mist!</language>
+		<language name="English">The opp’s team became\nshrouded in mist!</language>
 	</row>
 	<row id="msg_0197_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
@@ -1103,19 +1103,19 @@
 	</row>
 	<row id="msg_0197_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
 	</row>
 	<row id="msg_0197_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is getting\npumped!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is gettin’\npumped!</language>
 	</row>
 	<row id="msg_0197_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is getting\npumped!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is gettin’\npumped!</language>
 	</row>
 	<row id="msg_0197_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is getting\npumped!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is gettin’\npumped!</language>
 	</row>
 	<row id="msg_0197_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
@@ -1127,7 +1127,7 @@
 	</row>
 	<row id="msg_0197_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hit\nwith recoil!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hit\nwith recoil!</language>
 	</row>
 	<row id="msg_0197_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
@@ -1139,7 +1139,7 @@
 	</row>
 	<row id="msg_0197_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} protected\nitself!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} protected\nitself!</language>
 	</row>
 	<row id="msg_0197_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
@@ -1151,7 +1151,7 @@
 	</row>
 	<row id="msg_0197_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 1, 0} is buffeted\nby the {STRVAR_1 6, 0, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 1, 0} is buffeted\nby the {STRVAR_1 6, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
@@ -1159,7 +1159,7 @@
 	</row>
 	<row id="msg_0197_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 6, 0, 0}\nwore off!</language>
+		<language name="English">The opp’s {STRVAR_1 6, 0, 0}\nwore off!</language>
 	</row>
 	<row id="msg_0197_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
@@ -1171,7 +1171,7 @@
 	</row>
 	<row id="msg_0197_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nwas seeded!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nwas seeded!</language>
 	</row>
 	<row id="msg_0197_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
@@ -1183,7 +1183,7 @@
 	</row>
 	<row id="msg_0197_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} evaded\nthe attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} evaded\nthe attack!</language>
 	</row>
 	<row id="msg_0197_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
@@ -1195,7 +1195,7 @@
 	</row>
 	<row id="msg_0197_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s health is\nsapped by Freeloader!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s health is\nsapped by Freeloader!</language>
 	</row>
 	<row id="msg_0197_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
@@ -1207,7 +1207,7 @@
 	</row>
 	<row id="msg_0197_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is knocked\nout cold.</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is knocked\nout cold.</language>
 	</row>
 	<row id="msg_0197_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
@@ -1219,7 +1219,7 @@
 	</row>
 	<row id="msg_0197_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ncame to!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\ncame to!</language>
 	</row>
 	<row id="msg_0197_00305" index="305">
 		<attribute name="window_context_name">used</attribute>
@@ -1243,19 +1243,19 @@
 	</row>
 	<row id="msg_0197_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} caused\nan uproar!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} caused\nan uproar!</language>
 	</row>
 	<row id="msg_0197_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is making\nan uproar!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is makin’\nan uproar!</language>
 	</row>
 	<row id="msg_0197_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is making\nan uproar!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is makin’\nan uproar!</language>
 	</row>
 	<row id="msg_0197_00313" index="313">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is making\nan uproar!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is makin’\nan uproar!</language>
 	</row>
 	<row id="msg_0197_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
@@ -1267,7 +1267,7 @@
 	</row>
 	<row id="msg_0197_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ncalmed down.</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\ncalmed down.</language>
 	</row>
 	<row id="msg_0197_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
@@ -1279,7 +1279,7 @@
 	</row>
 	<row id="msg_0197_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} stockpiled {STRVAR_1 50, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} stockpiled\n{STRVAR_1 50, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
@@ -1291,7 +1291,7 @@
 	</row>
 	<row id="msg_0197_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t\nstockpile any more!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t\nstockpile any more!</language>
 	</row>
 	<row id="msg_0197_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
@@ -1303,7 +1303,7 @@
 	</row>
 	<row id="msg_0197_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But the foe’s {STRVAR_1 1, 0, 0} can’t\nsleep in an uproar!</language>
+		<language name="English">But the opp’s {STRVAR_1 1, 0, 0} can’t\nsleep in an uproar!</language>
 	</row>
 	<row id="msg_0197_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
@@ -1319,27 +1319,27 @@
 	</row>
 	<row id="msg_0197_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stayed awake\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stayed awake\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} stayed awake\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} stayed awake\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} stayed awake\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} stayed awake\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is storing\nenergy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is storin’\nenergy!</language>
 	</row>
 	<row id="msg_0197_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is storing\nenergy!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is storin’\nenergy!</language>
 	</row>
 	<row id="msg_0197_00334" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is storing\nenergy!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is storin’\nenergy!</language>
 	</row>
 	<row id="msg_0197_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
@@ -1351,7 +1351,7 @@
 	</row>
 	<row id="msg_0197_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} unleashed\nenergy!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} unleashed\nenergy!</language>
 	</row>
 	<row id="msg_0197_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
@@ -1363,7 +1363,7 @@
 	</row>
 	<row id="msg_0197_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got\nfaded from bein’ tired!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got\nfaded from bein’ tired!</language>
 	</row>
 	<row id="msg_0197_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
@@ -1379,7 +1379,7 @@
 	</row>
 	<row id="msg_0197_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nunaffected!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nunaffected!</language>
 	</row>
 	<row id="msg_0197_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
@@ -1391,7 +1391,7 @@
 	</row>
 	<row id="msg_0197_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} transformed\ninto {STRVAR_1 0, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} transformed\ninto {STRVAR_1 0, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
@@ -1403,7 +1403,7 @@
 	</row>
 	<row id="msg_0197_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} made\na substitute!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} made\na substitute!</language>
 	</row>
 	<row id="msg_0197_00351" index="351">
 		<attribute name="window_context_name">used</attribute>
@@ -1415,7 +1415,7 @@
 	</row>
 	<row id="msg_0197_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} already\nhas a substitute!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} already\nhas a substitute!</language>
 	</row>
 	<row id="msg_0197_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
@@ -1427,7 +1427,7 @@
 	</row>
 	<row id="msg_0197_00356" index="356">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The substitute took damage\nfor the foe’s {STRVAR_1 1, 0, 0}!\r</language>
+		<language name="English">The substitute took damage\nfor the opp’s {STRVAR_1 1, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0197_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
@@ -1439,7 +1439,7 @@
 	</row>
 	<row id="msg_0197_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\nsubstitute faded!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\nsubstitute faded!\r</language>
 	</row>
 	<row id="msg_0197_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
@@ -1451,19 +1451,19 @@
 	</row>
 	<row id="msg_0197_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} must\nrecharge!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} must\nrecharge!</language>
 	</row>
 	<row id="msg_0197_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s rage\nis building!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s rage\nis buildin’!</language>
 	</row>
 	<row id="msg_0197_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s rage\nis building!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s rage\nis buildin’!</language>
 	</row>
 	<row id="msg_0197_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s rage\nis building!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s rage\nis buildin’!</language>
 	</row>
 	<row id="msg_0197_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
@@ -1475,7 +1475,7 @@
 	</row>
 	<row id="msg_0197_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was disabled!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was disabled!</language>
 	</row>
 	<row id="msg_0197_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
@@ -1487,7 +1487,7 @@
 	</row>
 	<row id="msg_0197_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is no\nlonger disabled!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is no\nlonger disabled!</language>
 	</row>
 	<row id="msg_0197_00372" index="372">
 		<attribute name="window_context_name">used</attribute>
@@ -1499,7 +1499,7 @@
 	</row>
 	<row id="msg_0197_00374" index="374">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} received\nan encore!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} received\nan encore!</language>
 	</row>
 	<row id="msg_0197_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
@@ -1511,7 +1511,7 @@
 	</row>
 	<row id="msg_0197_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s encore\nended!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s encore\nended!</language>
 	</row>
 	<row id="msg_0197_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
@@ -1535,11 +1535,11 @@
 	</row>
 	<row id="msg_0197_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} took aim at\n{STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} took aim at\n{STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} took aim at\nthe foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} took aim at\nthe foe’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
@@ -1551,19 +1551,19 @@
 	</row>
 	<row id="msg_0197_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} sketched\n{STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} sketched\n{STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is trying\nto take its foe with it!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is tryin’\nto take its foe with it!</language>
 	</row>
 	<row id="msg_0197_00389" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is trying\nto take its foe with it!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is tryin’\nto take its foe with it!</language>
 	</row>
 	<row id="msg_0197_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is trying\nto take its foe with it!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is tryin’\nto take its foe with it!</language>
 	</row>
 	<row id="msg_0197_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
@@ -1575,7 +1575,7 @@
 	</row>
 	<row id="msg_0197_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} took the foe’s\n{STRVAR_1 1, 1, 0} down with it!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} took the opp’s\n{STRVAR_1 1, 1, 0} down with it!</language>
 	</row>
 	<row id="msg_0197_00394" index="394">
 		<attribute name="window_context_name">used</attribute>
@@ -1587,11 +1587,11 @@
 	</row>
 	<row id="msg_0197_00396" index="396">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} took\n{STRVAR_1 1, 1, 0} down with it!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} took\n{STRVAR_1 1, 1, 0} down with it!</language>
 	</row>
 	<row id="msg_0197_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} took\nthe foe’s {STRVAR_1 1, 1, 0} down with it!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} took\nthe foe’s {STRVAR_1 1, 1, 0} down with it!</language>
 	</row>
 	<row id="msg_0197_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
@@ -1603,7 +1603,7 @@
 	</row>
 	<row id="msg_0197_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It reduced the PP of the foe’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0} by {STRVAR_1 50, 2, 0}!</language>
+		<language name="English">It reduced the PP of the opp’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0} by {STRVAR_1 50, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
@@ -1615,7 +1615,7 @@
 	</row>
 	<row id="msg_0197_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stole the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stole the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
@@ -1627,11 +1627,11 @@
 	</row>
 	<row id="msg_0197_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} stole\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} stole\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} stole the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} stole the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
@@ -1643,19 +1643,19 @@
 	</row>
 	<row id="msg_0197_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can no\nlonger escape!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can no\nlonger escape!</language>
 	</row>
 	<row id="msg_0197_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} began having\na nightmare!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} began havin’\na nightmare!</language>
 	</row>
 	<row id="msg_0197_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} began\nhaving a nightmare!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} began\nhavin’ a nightmare!</language>
 	</row>
 	<row id="msg_0197_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} began\nhaving a nightmare!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} began\nhavin’ a nightmare!</language>
 	</row>
 	<row id="msg_0197_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
@@ -1667,7 +1667,7 @@
 	</row>
 	<row id="msg_0197_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is locked\nin a nightmare!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is locked\nin a nightmare!</language>
 	</row>
 	<row id="msg_0197_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
@@ -1679,7 +1679,7 @@
 	</row>
 	<row id="msg_0197_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on the foe’s\f{STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on the opp’s\f{STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
@@ -1691,11 +1691,11 @@
 	</row>
 	<row id="msg_0197_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on the foe’s\f{STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} cut its own HP\nand laid a curse on the opp’s\f{STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
@@ -1707,7 +1707,7 @@
 	</row>
 	<row id="msg_0197_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is afflicted\nby the curse!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is afflicted\nby the curse!</language>
 	</row>
 	<row id="msg_0197_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
@@ -1715,7 +1715,7 @@
 	</row>
 	<row id="msg_0197_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caltrops were scattered all around\nthe feet of the foe’s team!</language>
+		<language name="English">Caltrops were scattered all around\nthe feet of the opp’s team!</language>
 	</row>
 	<row id="msg_0197_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
@@ -1727,7 +1727,7 @@
 	</row>
 	<row id="msg_0197_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby the spikes!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt\nby the spikes!</language>
 	</row>
 	<row id="msg_0197_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
@@ -1751,11 +1751,11 @@
 	</row>
 	<row id="msg_0197_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} identified\n{STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} identified\n{STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} identified\nthe foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} identified\nthe foe’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
@@ -1767,7 +1767,7 @@
 	</row>
 	<row id="msg_0197_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s perish count\nfell to {STRVAR_1 50, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s perish count\nfell to {STRVAR_1 50, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
@@ -1779,7 +1779,7 @@
 	</row>
 	<row id="msg_0197_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} braced\nitself!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} braced\nitself!</language>
 	</row>
 	<row id="msg_0197_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
@@ -1791,7 +1791,7 @@
 	</row>
 	<row id="msg_0197_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} endured\nthe hit!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} endured\nthe hit!</language>
 	</row>
 	<row id="msg_0197_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
@@ -1807,7 +1807,7 @@
 	</row>
 	<row id="msg_0197_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} cut its own HP\nand maximized its Attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} cut its own HP\nand maximized its Attack!</language>
 	</row>
 	<row id="msg_0197_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
@@ -1819,7 +1819,7 @@
 	</row>
 	<row id="msg_0197_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} copied the foe’s\n{STRVAR_1 1, 1, 0}’s stat changes!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} copied the opp’s\n{STRVAR_1 1, 1, 0}’s stat changes!</language>
 	</row>
 	<row id="msg_0197_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
@@ -1831,11 +1831,11 @@
 	</row>
 	<row id="msg_0197_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} copied\n{STRVAR_1 1, 1, 0}’s stat changes!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} copied\n{STRVAR_1 1, 1, 0}’s stat changes!</language>
 	</row>
 	<row id="msg_0197_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} copied the \nfoe’s {STRVAR_1 1, 1, 0}’s stat changes!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} copied the \nfoe’s {STRVAR_1 1, 1, 0}’s stat changes!</language>
 	</row>
 	<row id="msg_0197_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
@@ -1847,7 +1847,7 @@
 	</row>
 	<row id="msg_0197_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} got free of the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} got free of the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
@@ -1859,11 +1859,11 @@
 	</row>
 	<row id="msg_0197_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got free of\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got free of\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got free of\nthe foe’s {STRVAR_1 1, 1, 0}’s\f{STRVAR_1 6, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got free of\nthe foe’s {STRVAR_1 1, 1, 0}’s\f{STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
@@ -1875,7 +1875,7 @@
 	</row>
 	<row id="msg_0197_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} blew away\n{STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} blew away\n{STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
@@ -1887,7 +1887,7 @@
 	</row>
 	<row id="msg_0197_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} fled from\nbattle!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} fled from\nbattle!</language>
 	</row>
 	<row id="msg_0197_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
@@ -1899,7 +1899,7 @@
 	</row>
 	<row id="msg_0197_00474" index="474">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} foresaw\nan attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} foresaw\nan attack!</language>
 	</row>
 	<row id="msg_0197_00475" index="475">
 		<attribute name="window_context_name">used</attribute>
@@ -1911,7 +1911,7 @@
 	</row>
 	<row id="msg_0197_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} took\nthe {STRVAR_1 6, 1, 0} attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} took\nthe {STRVAR_1 6, 1, 0} attack!</language>
 	</row>
 	<row id="msg_0197_00478" index="478">
 		<attribute name="window_context_name">used</attribute>
@@ -1923,7 +1923,7 @@
 	</row>
 	<row id="msg_0197_00480" index="480">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} chose\n{STRVAR_1 6, 1, 0} as its destiny!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} chose\n{STRVAR_1 6, 1, 0} as its destiny!</language>
 	</row>
 	<row id="msg_0197_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
@@ -1935,7 +1935,7 @@
 	</row>
 	<row id="msg_0197_00483" index="483">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s attack!</language>
 	</row>
 	<row id="msg_0197_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
@@ -1947,19 +1947,19 @@
 	</row>
 	<row id="msg_0197_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became\nthe center of attention!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} became\nthe center of attention!</language>
 	</row>
 	<row id="msg_0197_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} began\ncharging power!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} began\nchargin’ power!</language>
 	</row>
 	<row id="msg_0197_00488" index="488">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} began\ncharging power!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} began\nchargin’ power!</language>
 	</row>
 	<row id="msg_0197_00489" index="489">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} began\ncharging power!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} began\nchargin’ power!</language>
 	</row>
 	<row id="msg_0197_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
@@ -1975,7 +1975,7 @@
 	</row>
 	<row id="msg_0197_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s status\nreturned to normal!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s status\nreturned to normal!</language>
 	</row>
 	<row id="msg_0197_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
@@ -1987,19 +1987,19 @@
 	</row>
 	<row id="msg_0197_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was subjected\nto Clown On!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was subjected\nto Clown On!</language>
 	</row>
 	<row id="msg_0197_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is tightening\nits focus!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is tightenin’\nits focus!</language>
 	</row>
 	<row id="msg_0197_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is tightening\nits focus!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is tightenin’\nits focus!</language>
 	</row>
 	<row id="msg_0197_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is tightening\nits focus!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is tightenin’\nits focus!</language>
 	</row>
 	<row id="msg_0197_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
@@ -2011,7 +2011,7 @@
 	</row>
 	<row id="msg_0197_00502" index="502">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} fell for\nthe taunt!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} fell for\nthe taunt!</language>
 	</row>
 	<row id="msg_0197_00503" index="503">
 		<attribute name="window_context_name">used</attribute>
@@ -2023,7 +2023,7 @@
 	</row>
 	<row id="msg_0197_00505" index="505">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is ready to\nhelp the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is ready to\nhelp the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00506" index="506">
 		<attribute name="window_context_name">used</attribute>
@@ -2035,11 +2035,11 @@
 	</row>
 	<row id="msg_0197_00508" index="508">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is ready to\nhelp {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is ready to\nhelp {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00509" index="509">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is ready to\nhelp the foe’s {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is ready to\nhelp the opp’s {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00510" index="510">
 		<attribute name="window_context_name">used</attribute>
@@ -2051,7 +2051,7 @@
 	</row>
 	<row id="msg_0197_00512" index="512">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} switched\nitems with its target!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} switched\nitems with its target!</language>
 	</row>
 	<row id="msg_0197_00513" index="513">
 		<attribute name="window_context_name">used</attribute>
@@ -2063,7 +2063,7 @@
 	</row>
 	<row id="msg_0197_00515" index="515">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.</language>
 	</row>
 	<row id="msg_0197_00516" index="516">
 		<attribute name="window_context_name">used</attribute>
@@ -2087,11 +2087,11 @@
 	</row>
 	<row id="msg_0197_00521" index="521">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.\r{STRVAR_1 1, 2, 0} obtained\none {STRVAR_1 8, 3, 0}.\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.\r{STRVAR_1 1, 2, 0} obtained\none {STRVAR_1 8, 3, 0}.\r</language>
 	</row>
 	<row id="msg_0197_00522" index="522">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.\rThe foe’s {STRVAR_1 1, 2, 0} obtained\none {STRVAR_1 8, 3, 0}.\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} obtained\none {STRVAR_1 8, 1, 0}.\rThe foe’s {STRVAR_1 1, 2, 0} obtained\none {STRVAR_1 8, 3, 0}.\r</language>
 	</row>
 	<row id="msg_0197_00523" index="523">
 		<attribute name="window_context_name">used</attribute>
@@ -2103,7 +2103,7 @@
 	</row>
 	<row id="msg_0197_00525" index="525">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} copied the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} copied the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00526" index="526">
 		<attribute name="window_context_name">used</attribute>
@@ -2115,11 +2115,11 @@
 	</row>
 	<row id="msg_0197_00528" index="528">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} copied\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} copied\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00529" index="529">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} copied the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} copied the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00530" index="530">
 		<attribute name="window_context_name">used</attribute>
@@ -2131,7 +2131,7 @@
 	</row>
 	<row id="msg_0197_00532" index="532">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nmade a wish!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nmade a wish!</language>
 	</row>
 	<row id="msg_0197_00533" index="533">
 		<attribute name="window_context_name">used</attribute>
@@ -2143,7 +2143,7 @@
 	</row>
 	<row id="msg_0197_00535" index="535">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s wish\ncame true!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s wish\ncame true!</language>
 	</row>
 	<row id="msg_0197_00536" index="536">
 		<attribute name="window_context_name">used</attribute>
@@ -2155,7 +2155,7 @@
 	</row>
 	<row id="msg_0197_00538" index="538">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} planted\nits roots!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} planted\nits roots!</language>
 	</row>
 	<row id="msg_0197_00539" index="539">
 		<attribute name="window_context_name">used</attribute>
@@ -2167,7 +2167,7 @@
 	</row>
 	<row id="msg_0197_00541" index="541">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} absorbed\nnutrients with its roots!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} absorbed\nnutrients with its roots!</language>
 	</row>
 	<row id="msg_0197_00542" index="542">
 		<attribute name="window_context_name">used</attribute>
@@ -2179,7 +2179,7 @@
 	</row>
 	<row id="msg_0197_00544" index="544">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} anchored\nitself with its roots!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} anchored\nitself with its roots!</language>
 	</row>
 	<row id="msg_0197_00545" index="545">
 		<attribute name="window_context_name">used</attribute>
@@ -2191,7 +2191,7 @@
 	</row>
 	<row id="msg_0197_00547" index="547">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} made the foe’s\n{STRVAR_1 1, 1, 0} drowsy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} made the opp’s\n{STRVAR_1 1, 1, 0} drowsy!</language>
 	</row>
 	<row id="msg_0197_00548" index="548">
 		<attribute name="window_context_name">used</attribute>
@@ -2203,11 +2203,11 @@
 	</row>
 	<row id="msg_0197_00550" index="550">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} made\n{STRVAR_1 1, 1, 0} drowsy!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} made\n{STRVAR_1 1, 1, 0} drowsy!</language>
 	</row>
 	<row id="msg_0197_00551" index="551">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} made\nthe foe’s {STRVAR_1 1, 1, 0} drowsy!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} made\nthe foe’s {STRVAR_1 1, 1, 0} drowsy!</language>
 	</row>
 	<row id="msg_0197_00552" index="552">
 		<attribute name="window_context_name">used</attribute>
@@ -2219,7 +2219,7 @@
 	</row>
 	<row id="msg_0197_00554" index="554">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} knocked off the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} knocked off the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00555" index="555">
 		<attribute name="window_context_name">used</attribute>
@@ -2231,11 +2231,11 @@
 	</row>
 	<row id="msg_0197_00557" index="557">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} knocked off\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} knocked off\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00558" index="558">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} knocked off\nthe foe’s {STRVAR_1 1, 1, 0}’s\f{STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} knocked off\nthe foe’s {STRVAR_1 1, 1, 0}’s\f{STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00559" index="559">
 		<attribute name="window_context_name">used</attribute>
@@ -2247,7 +2247,7 @@
 	</row>
 	<row id="msg_0197_00561" index="561">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} swapped\nabilities with its target!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} swapped\nabilities with its target!</language>
 	</row>
 	<row id="msg_0197_00562" index="562">
 		<attribute name="window_context_name">used</attribute>
@@ -2259,7 +2259,7 @@
 	</row>
 	<row id="msg_0197_00564" index="564">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} sealed the\nopponent’s move(s)!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} sealed the\nopponent’s move(s)!</language>
 	</row>
 	<row id="msg_0197_00565" index="565">
 		<attribute name="window_context_name">used</attribute>
@@ -2271,7 +2271,7 @@
 	</row>
 	<row id="msg_0197_00567" index="567">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} wants the\nfoe to bear a grudge!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} wants the\nfoe to bear a grudge!</language>
 	</row>
 	<row id="msg_0197_00568" index="568">
 		<attribute name="window_context_name">used</attribute>
@@ -2283,7 +2283,7 @@
 	</row>
 	<row id="msg_0197_00570" index="570">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} lost all its PP\fdue to the grudge!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} lost all its PP\fdue to the grudge!</language>
 	</row>
 	<row id="msg_0197_00571" index="571">
 		<attribute name="window_context_name">used</attribute>
@@ -2295,7 +2295,7 @@
 	</row>
 	<row id="msg_0197_00573" index="573">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} shrouded\nitself with Bounce Back!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} shrouded\nitself with Bounce Back!</language>
 	</row>
 	<row id="msg_0197_00574" index="574">
 		<attribute name="window_context_name">used</attribute>
@@ -2307,7 +2307,7 @@
 	</row>
 	<row id="msg_0197_00576" index="576">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fBounce Back!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} was bounced back by\fBounce Back!</language>
 	</row>
 	<row id="msg_0197_00577" index="577">
 		<attribute name="window_context_name">used</attribute>
@@ -2319,7 +2319,7 @@
 	</row>
 	<row id="msg_0197_00579" index="579">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} waits for\na target to make a move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} waits for\na target to make a move!</language>
 	</row>
 	<row id="msg_0197_00580" index="580">
 		<attribute name="window_context_name">used</attribute>
@@ -2331,7 +2331,7 @@
 	</row>
 	<row id="msg_0197_00582" index="582">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} snatched the foe’s\n{STRVAR_1 1, 1, 0}’s move!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} snatched the opp’s\n{STRVAR_1 1, 1, 0}’s move!</language>
 	</row>
 	<row id="msg_0197_00583" index="583">
 		<attribute name="window_context_name">used</attribute>
@@ -2343,11 +2343,11 @@
 	</row>
 	<row id="msg_0197_00585" index="585">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} snatched\n{STRVAR_1 1, 1, 0}’s move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} snatched\n{STRVAR_1 1, 1, 0}’s move!</language>
 	</row>
 	<row id="msg_0197_00586" index="586">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} snatched\nthe foe’s {STRVAR_1 1, 1, 0}’s move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} snatched\nthe foe’s {STRVAR_1 1, 1, 0}’s move!</language>
 	</row>
 	<row id="msg_0197_00587" index="587">
 		<attribute name="window_context_name">used</attribute>
@@ -2367,11 +2367,11 @@
 	</row>
 	<row id="msg_0197_00591" index="591">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} found\none {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} found\none {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00592" index="592">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A soothing aroma wafted\nthrough the area!</language>
+		<language name="English">A soothin’ aroma wafted\nthrough the area!</language>
 	</row>
 	<row id="msg_0197_00593" index="593">
 		<attribute name="window_context_name">used</attribute>
@@ -2387,7 +2387,7 @@
 	</row>
 	<row id="msg_0197_00596" index="596">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For the foe’s {STRVAR_1 1, 1, 0}, the\n{STRVAR_1 8, 0, 0} was {STRVAR_1 16, 2, 0}!</language>
+		<language name="English">For the opp’s {STRVAR_1 1, 1, 0}, the\n{STRVAR_1 8, 0, 0} was {STRVAR_1 16, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00597" index="597">
 		<attribute name="window_context_name">used</attribute>
@@ -2399,7 +2399,7 @@
 	</row>
 	<row id="msg_0197_00599" index="599">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} used\nthe {STRVAR_1 8, 1, 0} to get pumped!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} used\nthe {STRVAR_1 8, 1, 0} to get pumped!</language>
 	</row>
 	<row id="msg_0197_00600" index="600">
 		<attribute name="window_context_name">used</attribute>
@@ -2411,7 +2411,7 @@
 	</row>
 	<row id="msg_0197_00602" index="602">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} lost its\nfocus and couldn’t move!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} lost its\nfocus and couldn’t move!</language>
 	</row>
 	<row id="msg_0197_00603" index="603">
 		<attribute name="window_context_name">used</attribute>
@@ -2423,7 +2423,7 @@
 	</row>
 	<row id="msg_0197_00605" index="605">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was\ndragged out!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was\ndragged out!\r</language>
 	</row>
 	<row id="msg_0197_00606" index="606">
 		<attribute name="window_context_name">used</attribute>
@@ -2447,7 +2447,7 @@
 	</row>
 	<row id="msg_0197_00611" index="611">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} is disabled!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} is disabled!\r</language>
 	</row>
 	<row id="msg_0197_00612" index="612">
 		<attribute name="window_context_name">used</attribute>
@@ -2463,7 +2463,7 @@
 	</row>
 	<row id="msg_0197_00615" index="615">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} after the taunt!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} after the taunt!\r</language>
 	</row>
 	<row id="msg_0197_00616" index="616">
 		<attribute name="window_context_name">used</attribute>
@@ -2475,7 +2475,7 @@
 	</row>
 	<row id="msg_0197_00618" index="618">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t use\nthe sealed {STRVAR_1 6, 1, 0}!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t use\nthe sealed {STRVAR_1 6, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_00619" index="619">
 		<attribute name="window_context_name">used</attribute>
@@ -2487,7 +2487,7 @@
 	</row>
 	<row id="msg_0197_00621" index="621">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it rain!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it rain!</language>
 	</row>
 	<row id="msg_0197_00622" index="622">
 		<attribute name="window_context_name">used</attribute>
@@ -2499,7 +2499,7 @@
 	</row>
 	<row id="msg_0197_00624" index="624">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} raised its {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} raised its {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00625" index="625">
 		<attribute name="window_context_name">used</attribute>
@@ -2511,7 +2511,7 @@
 	</row>
 	<row id="msg_0197_00627" index="627">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was protected\nby {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was protected\nby {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00628" index="628">
 		<attribute name="window_context_name">used</attribute>
@@ -2523,7 +2523,7 @@
 	</row>
 	<row id="msg_0197_00630" index="630">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents the foe’s {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nprevents the opp’s {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00631" index="631">
 		<attribute name="window_context_name">used</attribute>
@@ -2535,11 +2535,11 @@
 	</row>
 	<row id="msg_0197_00633" index="633">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00634" index="634">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents\fthe foe’s {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents\fthe foe’s {STRVAR_1 1, 2, 0}\ffrom using {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00635" index="635">
 		<attribute name="window_context_name">used</attribute>
@@ -2551,7 +2551,7 @@
 	</row>
 	<row id="msg_0197_00637" index="637">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored HP\nusing its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored HP\nusing its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00638" index="638">
 		<attribute name="window_context_name">used</attribute>
@@ -2563,7 +2563,7 @@
 	</row>
 	<row id="msg_0197_00640" index="640">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 6, 2, 0}\fuseless!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 6, 2, 0}\fuseless!</language>
 	</row>
 	<row id="msg_0197_00641" index="641">
 		<attribute name="window_context_name">used</attribute>
@@ -2575,7 +2575,7 @@
 	</row>
 	<row id="msg_0197_00643" index="643">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it the\f{STRVAR_1 15, 2, 0} type!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it the\f{STRVAR_1 15, 2, 0} type!</language>
 	</row>
 	<row id="msg_0197_00644" index="644">
 		<attribute name="window_context_name">used</attribute>
@@ -2587,7 +2587,7 @@
 	</row>
 	<row id="msg_0197_00646" index="646">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents the taser!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents the taser!</language>
 	</row>
 	<row id="msg_0197_00647" index="647">
 		<attribute name="window_context_name">used</attribute>
@@ -2599,7 +2599,7 @@
 	</row>
 	<row id="msg_0197_00649" index="649">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents romance!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents romance!</language>
 	</row>
 	<row id="msg_0197_00650" index="650">
 		<attribute name="window_context_name">used</attribute>
@@ -2611,7 +2611,7 @@
 	</row>
 	<row id="msg_0197_00652" index="652">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} has a iron stomach!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} has a iron stomach!</language>
 	</row>
 	<row id="msg_0197_00653" index="653">
 		<attribute name="window_context_name">used</attribute>
@@ -2623,7 +2623,7 @@
 	</row>
 	<row id="msg_0197_00655" index="655">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} keeps it sober!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} keeps it sober!</language>
 	</row>
 	<row id="msg_0197_00656" index="656">
 		<attribute name="window_context_name">used</attribute>
@@ -2635,7 +2635,7 @@
 	</row>
 	<row id="msg_0197_00658" index="658">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} raised the power\fof its Fire-type moves!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} raised the power\fof its Fire-type moves!</language>
 	</row>
 	<row id="msg_0197_00659" index="659">
 		<attribute name="window_context_name">used</attribute>
@@ -2647,7 +2647,7 @@
 	</row>
 	<row id="msg_0197_00661" index="661">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} anchors\nitself with {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} anchors\nitself with {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00662" index="662">
 		<attribute name="window_context_name">used</attribute>
@@ -2659,7 +2659,7 @@
 	</row>
 	<row id="msg_0197_00664" index="664">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\ncuts the foe’s {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 13, 3, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\ncuts the opp’s {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 13, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00665" index="665">
 		<attribute name="window_context_name">used</attribute>
@@ -2671,11 +2671,11 @@
 	</row>
 	<row id="msg_0197_00667" index="667">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cuts {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 13, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cuts {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 13, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00668" index="668">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cuts the foe’s\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 13, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cuts the opp’s\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 13, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00669" index="669">
 		<attribute name="window_context_name">used</attribute>
@@ -2687,7 +2687,7 @@
 	</row>
 	<row id="msg_0197_00671" index="671">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents stat loss!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents stat loss!</language>
 	</row>
 	<row id="msg_0197_00672" index="672">
 		<attribute name="window_context_name">used</attribute>
@@ -2699,7 +2699,7 @@
 	</row>
 	<row id="msg_0197_00674" index="674">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nhurt the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nhurt the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00675" index="675">
 		<attribute name="window_context_name">used</attribute>
@@ -2711,11 +2711,11 @@
 	</row>
 	<row id="msg_0197_00677" index="677">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} hurt {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} hurt {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00678" index="678">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} hurt the foe’s\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} hurt the opp’s\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00679" index="679">
 		<attribute name="window_context_name">used</attribute>
@@ -2727,7 +2727,7 @@
 	</row>
 	<row id="msg_0197_00681" index="681">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} traced the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} traced the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00682" index="682">
 		<attribute name="window_context_name">used</attribute>
@@ -2739,11 +2739,11 @@
 	</row>
 	<row id="msg_0197_00684" index="684">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} traced\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} traced\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00685" index="685">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} traced the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} traced the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 5, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00686" index="686">
 		<attribute name="window_context_name">used</attribute>
@@ -2755,7 +2755,7 @@
 	</row>
 	<row id="msg_0197_00688" index="688">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents burns!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents burns!</language>
 	</row>
 	<row id="msg_0197_00689" index="689">
 		<attribute name="window_context_name">used</attribute>
@@ -2767,7 +2767,7 @@
 	</row>
 	<row id="msg_0197_00691" index="691">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} blocks\f{STRVAR_1 6, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} blocks\f{STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00692" index="692">
 		<attribute name="window_context_name">used</attribute>
@@ -2779,7 +2779,7 @@
 	</row>
 	<row id="msg_0197_00694" index="694">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} regained\na little HP with its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} regained\na little HP with its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00695" index="695">
 		<attribute name="window_context_name">used</attribute>
@@ -2791,7 +2791,7 @@
 	</row>
 	<row id="msg_0197_00697" index="697">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} whipped up\fa sandstorm!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} whipped up\fa sandstorm!</language>
 	</row>
 	<row id="msg_0197_00698" index="698">
 		<attribute name="window_context_name">used</attribute>
@@ -2803,7 +2803,7 @@
 	</row>
 	<row id="msg_0197_00700" index="700">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} intensified\fthe sun’s rays!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} intensified\fthe sun’s rays!</language>
 	</row>
 	<row id="msg_0197_00701" index="701">
 		<attribute name="window_context_name">used</attribute>
@@ -2815,7 +2815,7 @@
 	</row>
 	<row id="msg_0197_00703" index="703">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} whipped up\fa hailstorm!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} whipped up\fa hailstorm!</language>
 	</row>
 	<row id="msg_0197_00704" index="704">
 		<attribute name="window_context_name">used</attribute>
@@ -2827,7 +2827,7 @@
 	</row>
 	<row id="msg_0197_00706" index="706">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents\f{STRVAR_1 13, 2, 0} loss!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} prevents\f{STRVAR_1 13, 2, 0} loss!</language>
 	</row>
 	<row id="msg_0197_00707" index="707">
 		<attribute name="window_context_name">used</attribute>
@@ -2839,7 +2839,7 @@
 	</row>
 	<row id="msg_0197_00709" index="709">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\ninfatuated the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\ninfatuated the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00710" index="710">
 		<attribute name="window_context_name">used</attribute>
@@ -2851,11 +2851,11 @@
 	</row>
 	<row id="msg_0197_00712" index="712">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} infatuated\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} infatuated\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00713" index="713">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} infatuated the foe’s\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} infatuated the opp’s\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00714" index="714">
 		<attribute name="window_context_name">used</attribute>
@@ -2867,7 +2867,7 @@
 	</row>
 	<row id="msg_0197_00716" index="716">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 6, 2, 0}\fineffective!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made {STRVAR_1 6, 2, 0}\fineffective!</language>
 	</row>
 	<row id="msg_0197_00717" index="717">
 		<attribute name="window_context_name">used</attribute>
@@ -2879,7 +2879,7 @@
 	</row>
 	<row id="msg_0197_00719" index="719">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cured its\f{STRVAR_1 17, 2, 0} status!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} cured its\f{STRVAR_1 17, 2, 0} status!</language>
 	</row>
 	<row id="msg_0197_00720" index="720">
 		<attribute name="window_context_name">used</attribute>
@@ -2895,7 +2895,7 @@
 	</row>
 	<row id="msg_0197_00723" index="723">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\ntransformed!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\ntransformed!</language>
 	</row>
 	<row id="msg_0197_00724" index="724">
 		<attribute name="window_context_name">used</attribute>
@@ -2907,7 +2907,7 @@
 	</row>
 	<row id="msg_0197_00726" index="726">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} took the attack!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} took the attack!</language>
 	</row>
 	<row id="msg_0197_00727" index="727">
 		<attribute name="window_context_name">used</attribute>
@@ -2919,7 +2919,7 @@
 	</row>
 	<row id="msg_0197_00729" index="729">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nsuppressed the foe’s {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 5, 3, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}\nsuppressed the opp’s {STRVAR_1 1, 2, 0}’s\f{STRVAR_1 5, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00730" index="730">
 		<attribute name="window_context_name">used</attribute>
@@ -2931,11 +2931,11 @@
 	</row>
 	<row id="msg_0197_00732" index="732">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} suppressed\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 5, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} suppressed\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 5, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00733" index="733">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} suppressed the foe’s\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 5, 3, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} suppressed the opp’s\f{STRVAR_1 1, 2, 0}’s {STRVAR_1 5, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00734" index="734">
 		<attribute name="window_context_name">used</attribute>
@@ -2947,19 +2947,19 @@
 	</row>
 	<row id="msg_0197_00736" index="736">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it ineffective!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made it ineffective!</language>
 	</row>
 	<row id="msg_0197_00737" index="737">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} won’t flinch\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} won’t flinch\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00738" index="738">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} won’t flinch\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} won’t flinch\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00739" index="739">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} won’t flinch\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} won’t flinch\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00740" index="740">
 		<attribute name="window_context_name">used</attribute>
@@ -2971,7 +2971,7 @@
 	</row>
 	<row id="msg_0197_00742" index="742">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} cured its\n{STRVAR_1 17, 2, 0} status\fwith its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} cured its\n{STRVAR_1 17, 2, 0} status\fwith its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00743" index="743">
 		<attribute name="window_context_name">used</attribute>
@@ -2983,7 +2983,7 @@
 	</row>
 	<row id="msg_0197_00745" index="745">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} had no\neffect on the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0} had no\neffect on the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00746" index="746">
 		<attribute name="window_context_name">used</attribute>
@@ -2995,11 +2995,11 @@
 	</row>
 	<row id="msg_0197_00748" index="748">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} had no effect\fon {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} had no effect\fon {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00749" index="749">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} had no effect\fon the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} had no effect\fon the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00750" index="750">
 		<attribute name="window_context_name">used</attribute>
@@ -3007,23 +3007,23 @@
 	</row>
 	<row id="msg_0197_00751" index="751">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} rose!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} went up!</language>
 	</row>
 	<row id="msg_0197_00752" index="752">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} rose!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} went up!</language>
 	</row>
 	<row id="msg_0197_00753" index="753">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nsharply rose!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwent CRAZY!</language>
 	</row>
 	<row id="msg_0197_00754" index="754">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nsharply rose!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwent CRAZY!</language>
 	</row>
 	<row id="msg_0197_00755" index="755">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nsharply rose!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nwent CRAZY!</language>
 	</row>
 	<row id="msg_0197_00756" index="756">
 		<attribute name="window_context_name">used</attribute>
@@ -3035,7 +3035,7 @@
 	</row>
 	<row id="msg_0197_00758" index="758">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 1, 0} raised the foe’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">The {STRVAR_1 8, 1, 0} raised the opp’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00759" index="759">
 		<attribute name="window_context_name">used</attribute>
@@ -3059,19 +3059,19 @@
 	</row>
 	<row id="msg_0197_00764" index="764">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nfell!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nfell!</language>
 	</row>
 	<row id="msg_0197_00765" index="765">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nharshly fell!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ngot DEMOLISHED!</language>
 	</row>
 	<row id="msg_0197_00766" index="766">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nharshly fell!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ngot DEMOLISHED!</language>
 	</row>
 	<row id="msg_0197_00767" index="767">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\nharshly fell!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s {STRVAR_1 13, 1, 0}\ngot DEMOLISHED!</language>
 	</row>
 	<row id="msg_0197_00768" index="768">
 		<attribute name="window_context_name">used</attribute>
@@ -3083,7 +3083,7 @@
 	</row>
 	<row id="msg_0197_00770" index="770">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s stats\nwon’t go any higher!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s stats\nwon’t go any higher!</language>
 	</row>
 	<row id="msg_0197_00771" index="771">
 		<attribute name="window_context_name">used</attribute>
@@ -3095,7 +3095,7 @@
 	</row>
 	<row id="msg_0197_00773" index="773">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s stats\nwon’t go any lower!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s stats\nwon’t go any lower!</language>
 	</row>
 	<row id="msg_0197_00774" index="774">
 		<attribute name="window_context_name">used</attribute>
@@ -3176,7 +3176,7 @@
 	</row>
 	<row id="msg_0197_00793" index="793">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No! There’s no running\nfrom a Hustler battle!\r</language>
+		<language name="English">No! There’s no runnin’\nfrom a Hustler battle!\r</language>
 	</row>
 	<row id="msg_0197_00794" index="794">
 		<attribute name="window_context_name">used</attribute>
@@ -3184,11 +3184,11 @@
 	</row>
 	<row id="msg_0197_00795" index="795">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But nothing happened!</language>
+		<language name="English">But nothin’ happened!</language>
 	</row>
 	<row id="msg_0197_00796" index="796">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But it failed!</language>
+		<language name="English">But it flopped!</language>
 	</row>
 	<row id="msg_0197_00797" index="797">
 		<attribute name="window_context_name">used</attribute>
@@ -3292,7 +3292,7 @@
 	</row>
 	<row id="msg_0197_00822" index="822">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All Pokémon hearing the song\nwill faint in three turns!</language>
+		<language name="English">All Pokémon hearin’ the song\nwill faint in three turns!</language>
 	</row>
 	<row id="msg_0197_00823" index="823">
 		<attribute name="window_context_name">used</attribute>
@@ -3316,7 +3316,7 @@
 	</row>
 	<row id="msg_0197_00828" index="828">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nloafing around!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\nloafin’ around!</language>
 	</row>
 	<row id="msg_0197_00829" index="829">
 		<attribute name="window_context_name">used</attribute>
@@ -3332,19 +3332,19 @@
 	</row>
 	<row id="msg_0197_00832" index="832">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is\nloafing around!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is\nloafin’ around!</language>
 	</row>
 	<row id="msg_0197_00833" index="833">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nloafing around!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is\nloafin’ around!</language>
 	</row>
 	<row id="msg_0197_00834" index="834">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is\nloafing around!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is\nloafin’ around!</language>
 	</row>
 	<row id="msg_0197_00835" index="835">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} is\nabout to send in {STRVAR_1 1, 2, 0}.\fWill you switch your Pokémon?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} is\n’bout to send in {STRVAR_1 1, 2, 0}.\fWill you switch your Pokémon?{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_00836" index="836">
 		<attribute name="window_context_name">used</attribute>
@@ -3356,7 +3356,7 @@
 	</row>
 	<row id="msg_0197_00838" index="838">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00839" index="839">
 		<attribute name="window_context_name">used</attribute>
@@ -3372,7 +3372,7 @@
 	</row>
 	<row id="msg_0197_00842" index="842">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is watching\ncarefully!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is watchin’\ncarefully!</language>
 	</row>
 	<row id="msg_0197_00843" index="843">
 		<attribute name="window_context_name">garbage</attribute>
@@ -3395,7 +3395,7 @@
 	</row>
 	<row id="msg_0197_00847" index="847">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcer: You’re out of\nSafari Balls!\fGame over!\r</language>
+		<language name="English">Announcer: You outta\nSafari Balls!\fGame over!\r</language>
 	</row>
 	<row id="msg_0197_00848" index="848">
 		<attribute name="window_context_name">used</attribute>
@@ -3403,11 +3403,11 @@
 	</row>
 	<row id="msg_0197_00849" index="849">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} is watching\ncarefully!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} is watchin’\ncarefully!</language>
 	</row>
 	<row id="msg_0197_00850" index="850">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcer: You’re out of\nSafari Balls! Game over!</language>
+		<language name="English">Announcer: You outta\nSafari Balls! Game over!</language>
 	</row>
 	<row id="msg_0197_00851" index="851">
 		<attribute name="window_context_name">used</attribute>
@@ -3415,11 +3415,11 @@
 	</row>
 	<row id="msg_0197_00852" index="852">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} is eating!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} is eatin’!</language>
 	</row>
 	<row id="msg_0197_00853" index="853">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} is busy eating!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} is busy eatin’!</language>
 	</row>
 	<row id="msg_0197_00854" index="854">
 		<attribute name="window_context_name">used</attribute>
@@ -3447,7 +3447,7 @@
 	</row>
 	<row id="msg_0197_00860" index="860">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t be a thief!</language>
+		<language name="English">Don’t be a thief! That’s OUR job!</language>
 	</row>
 	<row id="msg_0197_00861" index="861">
 		<attribute name="window_context_name">used</attribute>
@@ -3455,7 +3455,7 @@
 	</row>
 	<row id="msg_0197_00862" index="862">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You missed the Pokémon!</language>
+		<language name="English">You missed! Embarrassin’!</language>
 	</row>
 	<row id="msg_0197_00863" index="863">
 		<attribute name="window_context_name">used</attribute>
@@ -3495,11 +3495,11 @@
 	</row>
 	<row id="msg_0197_00872" index="872">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is raining.</language>
+		<language name="English">It’s pourin’.</language>
 	</row>
 	<row id="msg_0197_00873" index="873">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sandstorm is raging.</language>
+		<language name="English">Sand in EVERYBODY’S eyes.</language>
 	</row>
 	<row id="msg_0197_00874" index="874">
 		<attribute name="window_context_name">used</attribute>
@@ -3515,7 +3515,7 @@
 	</row>
 	<row id="msg_0197_00877" index="877">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its the taser!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} cured its the taser!</language>
 	</row>
 	<row id="msg_0197_00878" index="878">
 		<attribute name="window_context_name">used</attribute>
@@ -3527,7 +3527,7 @@
 	</row>
 	<row id="msg_0197_00880" index="880">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} fixed its stomach!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} fixed its stomach!</language>
 	</row>
 	<row id="msg_0197_00881" index="881">
 		<attribute name="window_context_name">used</attribute>
@@ -3539,7 +3539,7 @@
 	</row>
 	<row id="msg_0197_00883" index="883">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} healed its burn!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} healed its burn!</language>
 	</row>
 	<row id="msg_0197_00884" index="884">
 		<attribute name="window_context_name">used</attribute>
@@ -3551,7 +3551,7 @@
 	</row>
 	<row id="msg_0197_00886" index="886">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} defrosted it!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} defrosted it!</language>
 	</row>
 	<row id="msg_0197_00887" index="887">
 		<attribute name="window_context_name">used</attribute>
@@ -3563,11 +3563,11 @@
 	</row>
 	<row id="msg_0197_00889" index="889">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} woke it up!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} woke it up!</language>
 	</row>
 	<row id="msg_0197_00890" index="890">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\nsnapped it out of confusion!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\nsnapped it outta confusion!</language>
 	</row>
 	<row id="msg_0197_00891" index="891">
 		<attribute name="window_context_name">used</attribute>
@@ -3575,7 +3575,7 @@
 	</row>
 	<row id="msg_0197_00892" index="892">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} sobered it\fup!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} sobered it\fup!</language>
 	</row>
 	<row id="msg_0197_00893" index="893">
 		<attribute name="window_context_name">used</attribute>
@@ -3587,7 +3587,7 @@
 	</row>
 	<row id="msg_0197_00895" index="895">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} cured its\n{STRVAR_1 17, 2, 0} status\fusing its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} cured its\n{STRVAR_1 17, 2, 0} status\fusing its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00896" index="896">
 		<attribute name="window_context_name">used</attribute>
@@ -3599,7 +3599,7 @@
 	</row>
 	<row id="msg_0197_00898" index="898">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} normalized its\nstatus using its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} normalized its\nstatus using its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00899" index="899">
 		<attribute name="window_context_name">used</attribute>
@@ -3611,7 +3611,7 @@
 	</row>
 	<row id="msg_0197_00901" index="901">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored its\nhealth using its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored its\nhealth using its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00902" index="902">
 		<attribute name="window_context_name">used</attribute>
@@ -3623,7 +3623,7 @@
 	</row>
 	<row id="msg_0197_00904" index="904">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored\n{STRVAR_1 6, 2, 0}’s PP using its\f{STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored\n{STRVAR_1 6, 2, 0}’s PP using its\f{STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00905" index="905">
 		<attribute name="window_context_name">used</attribute>
@@ -3635,7 +3635,7 @@
 	</row>
 	<row id="msg_0197_00907" index="907">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored its\nstatus using its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored its\nstatus using its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00908" index="908">
 		<attribute name="window_context_name">used</attribute>
@@ -3647,7 +3647,7 @@
 	</row>
 	<row id="msg_0197_00910" index="910">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored\na little HP using its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored\na little HP using its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00911" index="911">
 		<attribute name="window_context_name">used</attribute>
@@ -3663,7 +3663,7 @@
 	</row>
 	<row id="msg_0197_00914" index="914">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} hung on\nusing its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hung on\nusing its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00915" index="915">
 		<attribute name="window_context_name">used</attribute>
@@ -3898,7 +3898,7 @@
 	</row>
 	<row id="msg_0197_00971" index="971">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are challenged by\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}!\r</language>
+		<language name="English">You challenged by\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_00972" index="972">
 		<attribute name="window_context_name">used</attribute>
@@ -3942,7 +3942,7 @@
 	</row>
 	<row id="msg_0197_00982" index="982">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your foe’s weak!\nGet ’em, {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">They on their last leg!\nGet ’em, {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00983" index="983">
 		<attribute name="window_context_name">used</attribute>
@@ -3982,7 +3982,7 @@
 	</row>
 	<row id="msg_0197_00992" index="992">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are challenged by\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} and\f{STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}!\r</language>
+		<language name="English">You challenged by\n{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} and\f{STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}!\r</language>
 	</row>
 	<row id="msg_0197_00993" index="993">
 		<attribute name="window_context_name">used</attribute>
@@ -3998,7 +3998,7 @@
 	</row>
 	<row id="msg_0197_00996" index="996">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s stockpiled\neffect wore off!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s stockpiled\neffect wore off!</language>
 	</row>
 	<row id="msg_0197_00997" index="997">
 		<attribute name="window_context_name">used</attribute>
@@ -4006,27 +4006,27 @@
 	</row>
 	<row id="msg_0197_00998" index="998">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} couldn’t stay\nairborne because of gravity!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} couldn’t stay\nairborne ’cause of gravity!</language>
 	</row>
 	<row id="msg_0197_00999" index="999">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} couldn’t stay\nairborne because of gravity!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} couldn’t stay\nairborne ’cause of gravity!</language>
 	</row>
 	<row id="msg_0197_01000" index="1000">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} couldn’t stay\nairborne because of gravity!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} couldn’t stay\nairborne ’cause of gravity!</language>
 	</row>
 	<row id="msg_0197_01001" index="1001">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} because of gravity!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} ’cause of gravity!</language>
 	</row>
 	<row id="msg_0197_01002" index="1002">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} because of gravity!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} ’cause of gravity!</language>
 	</row>
 	<row id="msg_0197_01003" index="1003">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} because of gravity!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 1, 0} ’cause of gravity!\r</language>
 	</row>
 	<row id="msg_0197_01004" index="1004">
 		<attribute name="window_context_name">used</attribute>
@@ -4034,7 +4034,7 @@
 	</row>
 	<row id="msg_0197_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The healing wish came true!</language>
+		<language name="English">The healin’ wish came true!</language>
 	</row>
 	<row id="msg_0197_01006" index="1006">
 		<attribute name="window_context_name">used</attribute>
@@ -4042,7 +4042,7 @@
 	</row>
 	<row id="msg_0197_01007" index="1007">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tailwind started blowing!</language>
+		<language name="English">A tailwind started blowin’!</language>
 	</row>
 	<row id="msg_0197_01008" index="1008">
 		<attribute name="window_context_name">used</attribute>
@@ -4058,7 +4058,7 @@
 	</row>
 	<row id="msg_0197_01011" index="1011">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} switched\nits Attack and Defense!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} switched\nits Attack and Defense!</language>
 	</row>
 	<row id="msg_0197_01012" index="1012">
 		<attribute name="window_context_name">used</attribute>
@@ -4070,7 +4070,7 @@
 	</row>
 	<row id="msg_0197_01014" index="1014">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s ability\nwas suppressed!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s ability\nwas suppressed!</language>
 	</row>
 	<row id="msg_0197_01015" index="1015">
 		<attribute name="window_context_name">used</attribute>
@@ -4082,7 +4082,7 @@
 	</row>
 	<row id="msg_0197_01017" index="1017">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} switched all\nchanges to its Attack and Sp. Atk\fwith the target!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} switched all\nchanges to its Attack and Sp. Atk\fwith the target!</language>
 	</row>
 	<row id="msg_0197_01018" index="1018">
 		<attribute name="window_context_name">used</attribute>
@@ -4094,7 +4094,7 @@
 	</row>
 	<row id="msg_0197_01020" index="1020">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} switched all\nchanges to its Defense and Sp. Def\fwith the target!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} switched all\nchanges to its Defense and Sp. Def\fwith the target!</language>
 	</row>
 	<row id="msg_0197_01021" index="1021">
 		<attribute name="window_context_name">used</attribute>
@@ -4106,7 +4106,7 @@
 	</row>
 	<row id="msg_0197_01023" index="1023">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} acquired\n{STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} acquired\n{STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01024" index="1024">
 		<attribute name="window_context_name">used</attribute>
@@ -4118,7 +4118,7 @@
 	</row>
 	<row id="msg_0197_01026" index="1026">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} switched stat\nchanges with the target!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} switched stat\nchanges with the target!</language>
 	</row>
 	<row id="msg_0197_01027" index="1027">
 		<attribute name="window_context_name">used</attribute>
@@ -4130,7 +4130,7 @@
 	</row>
 	<row id="msg_0197_01029" index="1029">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} surrounded\nitself with a veil of water!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} surrounded\nitself with a veil of water!</language>
 	</row>
 	<row id="msg_0197_01030" index="1030">
 		<attribute name="window_context_name">used</attribute>
@@ -4154,7 +4154,7 @@
 	</row>
 	<row id="msg_0197_01035" index="1035">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} levitated\non electromagnetism!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} levitated\non electromagnetism!</language>
 	</row>
 	<row id="msg_0197_01036" index="1036">
 		<attribute name="window_context_name">used</attribute>
@@ -4166,7 +4166,7 @@
 	</row>
 	<row id="msg_0197_01038" index="1038">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} evades\nGround moves with {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} evades\nGround moves with {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01039" index="1039">
 		<attribute name="window_context_name">used</attribute>
@@ -4178,7 +4178,7 @@
 	</row>
 	<row id="msg_0197_01041" index="1041">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The electromagnetism of the foe’s\n{STRVAR_1 1, 0, 0} wore off!</language>
+		<language name="English">The electromagnetism of the opp’s\n{STRVAR_1 1, 0, 0} wore off!</language>
 	</row>
 	<row id="msg_0197_01042" index="1042">
 		<attribute name="window_context_name">used</attribute>
@@ -4190,7 +4190,7 @@
 	</row>
 	<row id="msg_0197_01044" index="1044">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} blew away\n{STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} blew away\n{STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01045" index="1045">
 		<attribute name="window_context_name">used</attribute>
@@ -4202,7 +4202,7 @@
 	</row>
 	<row id="msg_0197_01047" index="1047">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} blew away\nthe deep fog with {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} blew away\nthe deep fog with {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01048" index="1048">
 		<attribute name="window_context_name">used</attribute>
@@ -4214,43 +4214,43 @@
 	</row>
 	<row id="msg_0197_01050" index="1050">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} fell for\nthe feint!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} fell for\nthe feint!</language>
 	</row>
 	<row id="msg_0197_01051" index="1051">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was prevented\nfrom healing!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was prevented\nfrom healin’!</language>
 	</row>
 	<row id="msg_0197_01052" index="1052">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was prevented\nfrom healing!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was prevented\nfrom healin’!</language>
 	</row>
 	<row id="msg_0197_01053" index="1053">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was prevented\nfrom healing!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was prevented\nfrom healin’!</language>
 	</row>
 	<row id="msg_0197_01054" index="1054">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was prevented\nfrom healing due to {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was prevented\nfrom healin’ due to {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01055" index="1055">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} was prevented\nfrom healing due to {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} was prevented\nfrom healin’ due to {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01056" index="1056">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was prevented\nfrom healing due to {STRVAR_1 6, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was prevented\nfrom healin’ due to {STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01057" index="1057">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} because of\f{STRVAR_1 6, 1, 0}!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} ’cause of\f{STRVAR_1 6, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_01058" index="1058">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} because of\f{STRVAR_1 6, 1, 0}!\r</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} ’cause of\f{STRVAR_1 6, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_01059" index="1059">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} because of\f{STRVAR_1 6, 1, 0}!\r</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t use\n{STRVAR_1 6, 2, 0} ’cause of\f{STRVAR_1 6, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0197_01060" index="1060">
 		<attribute name="window_context_name">used</attribute>
@@ -4262,7 +4262,7 @@
 	</row>
 	<row id="msg_0197_01062" index="1062">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} wore off!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} wore off!</language>
 	</row>
 	<row id="msg_0197_01063" index="1063">
 		<attribute name="window_context_name">used</attribute>
@@ -4290,7 +4290,7 @@
 	</row>
 	<row id="msg_0197_01069" index="1069">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} went back\nto {STRVAR_1 3, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} went back\nto {STRVAR_1 3, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01070" index="1070">
 		<attribute name="window_context_name">used</attribute>
@@ -4302,7 +4302,7 @@
 	</row>
 	<row id="msg_0197_01072" index="1072">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} twisted\nthe dimensions!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} twisted\nthe dimensions!</language>
 	</row>
 	<row id="msg_0197_01073" index="1073">
 		<attribute name="window_context_name">used</attribute>
@@ -4314,7 +4314,7 @@
 	</row>
 	<row id="msg_0197_01075" index="1075">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} restored\nthe twisted dimensions!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} restored\nthe twisted dimensions!</language>
 	</row>
 	<row id="msg_0197_01076" index="1076">
 		<attribute name="window_context_name">used</attribute>
@@ -4350,7 +4350,7 @@
 	</row>
 	<row id="msg_0197_01084" index="1084">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} vanished\ninstantly!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} vanished\ninstantly!</language>
 	</row>
 	<row id="msg_0197_01085" index="1085">
 		<attribute name="window_context_name">used</attribute>
@@ -4358,7 +4358,7 @@
 	</row>
 	<row id="msg_0197_01086" index="1086">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s Lucky Charm wore off!</language>
+		<language name="English">The opp’s Lucky Charm wore off!</language>
 	</row>
 	<row id="msg_0197_01087" index="1087">
 		<attribute name="window_context_name">used</attribute>
@@ -4370,7 +4370,7 @@
 	</row>
 	<row id="msg_0197_01089" index="1089">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} has\n{STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} has\n{STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01090" index="1090">
 		<attribute name="window_context_name">used</attribute>
@@ -4382,7 +4382,7 @@
 	</row>
 	<row id="msg_0197_01092" index="1092">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt\nby its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt\nby its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01093" index="1093">
 		<attribute name="window_context_name">used</attribute>
@@ -4394,19 +4394,19 @@
 	</row>
 	<row id="msg_0197_01095" index="1095">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} maxed its\n{STRVAR_1 13, 2, 0} with {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} maxed its\n{STRVAR_1 13, 2, 0} with {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01096" index="1096">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} lost some HP\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} lost some HP\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01097" index="1097">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} lost some HP\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} lost some HP\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01098" index="1098">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} lost some HP\nbecause of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} lost some HP\n’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01099" index="1099">
 		<attribute name="window_context_name">used</attribute>
@@ -4418,7 +4418,7 @@
 	</row>
 	<row id="msg_0197_01101" index="1101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 2, 0} was hurt by\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 2, 0} was hurt by\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01102" index="1102">
 		<attribute name="window_context_name">used</attribute>
@@ -4430,11 +4430,11 @@
 	</row>
 	<row id="msg_0197_01104" index="1104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} was hurt by the foe’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} was hurt by the opp’s\n{STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01105" index="1105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 2, 0} was hurt by\nthe foe’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 2, 0} was hurt by\nthe foe’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01106" index="1106">
 		<attribute name="window_context_name">used</attribute>
@@ -4446,7 +4446,7 @@
 	</row>
 	<row id="msg_0197_01108" index="1108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 1, 0}’s\n{STRVAR_1 5, 0, 0} made it shudder!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 1, 0}’s\n{STRVAR_1 5, 0, 0} made it shudder!</language>
 	</row>
 	<row id="msg_0197_01109" index="1109">
 		<attribute name="window_context_name">used</attribute>
@@ -4458,19 +4458,19 @@
 	</row>
 	<row id="msg_0197_01111" index="1111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s Forewarn\nalerted it to {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s Forewarn\nalerted it to {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01112" index="1112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} can’t get it\ngoing because of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} can’t get it\ngoing ’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01113" index="1113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t get it\ngoing because of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} can’t get it\ngoing ’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01114" index="1114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t get it\ngoing because of its {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t get it\ngoing ’cause of its {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01115" index="1115">
 		<attribute name="window_context_name">used</attribute>
@@ -4482,7 +4482,7 @@
 	</row>
 	<row id="msg_0197_01117" index="1117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} finally got\nits act together!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} finally got\nits act together!</language>
 	</row>
 	<row id="msg_0197_01118" index="1118">
 		<attribute name="window_context_name">used</attribute>
@@ -4494,7 +4494,7 @@
 	</row>
 	<row id="msg_0197_01120" index="1120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} frisked its\nfoe and found one {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} frisked its\nfoe and found one {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01121" index="1121">
 		<attribute name="window_context_name">used</attribute>
@@ -4506,7 +4506,7 @@
 	</row>
 	<row id="msg_0197_01123" index="1123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 2, 0} is tormented\nby {STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 2, 0} is tormented\nby {STRVAR_1 1, 0, 0}’s {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01124" index="1124">
 		<attribute name="window_context_name">used</attribute>
@@ -4518,11 +4518,11 @@
 	</row>
 	<row id="msg_0197_01126" index="1126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} is tormented\nby the foe’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} is tormented\nby the opp’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01127" index="1127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 2, 0} is tormented\nby the foe’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 2, 0} is tormented\nby the opp’s {STRVAR_1 1, 0, 0}’s\f{STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01128" index="1128">
 		<attribute name="window_context_name">used</attribute>
@@ -4534,7 +4534,7 @@
 	</row>
 	<row id="msg_0197_01130" index="1130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} maxed its\n{STRVAR_1 13, 2, 0} with its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} maxed its\n{STRVAR_1 13, 2, 0} with its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01131" index="1131">
 		<attribute name="window_context_name">used</attribute>
@@ -4550,7 +4550,7 @@
 	</row>
 	<row id="msg_0197_01134" index="1134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}\nis hurt by its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}\nis hurt by its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01135" index="1135">
 		<attribute name="window_context_name">used</attribute>
@@ -4562,7 +4562,7 @@
 	</row>
 	<row id="msg_0197_01137" index="1137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can’t use\nitems anymore!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can’t use\nitems anymore!</language>
 	</row>
 	<row id="msg_0197_01138" index="1138">
 		<attribute name="window_context_name">used</attribute>
@@ -4574,7 +4574,7 @@
 	</row>
 	<row id="msg_0197_01140" index="1140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} can use\nitems again!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} can use\nitems again!</language>
 	</row>
 	<row id="msg_0197_01141" index="1141">
 		<attribute name="window_context_name">used</attribute>
@@ -4586,7 +4586,7 @@
 	</row>
 	<row id="msg_0197_01143" index="1143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} stole and\nate its foe’s {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} stole and\nate its foe’s {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01144" index="1144">
 		<attribute name="window_context_name">used</attribute>
@@ -4598,7 +4598,7 @@
 	</row>
 	<row id="msg_0197_01146" index="1146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} flung\nits {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} flung\nits {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01147" index="1147">
 		<attribute name="window_context_name">used</attribute>
@@ -4610,7 +4610,7 @@
 	</row>
 	<row id="msg_0197_01149" index="1149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the\f{STRVAR_1 8, 2, 0} ineffective!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 5, 1, 0} made the\f{STRVAR_1 8, 2, 0} ineffective!</language>
 	</row>
 	<row id="msg_0197_01150" index="1150">
 		<attribute name="window_context_name">used</attribute>
@@ -4622,7 +4622,7 @@
 	</row>
 	<row id="msg_0197_01152" index="1152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\ninfatuated the foe’s {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s {STRVAR_1 8, 1, 0}\ninfatuated the opp’s {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01153" index="1153">
 		<attribute name="window_context_name">used</attribute>
@@ -4634,11 +4634,11 @@
 	</row>
 	<row id="msg_0197_01155" index="1155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} made {STRVAR_1 1, 2, 0}\finfatuated!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} made {STRVAR_1 1, 2, 0}\finfatuated!</language>
 	</row>
 	<row id="msg_0197_01156" index="1156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} made the foe’s\f{STRVAR_1 1, 2, 0} infatuated!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} made the opp’s\f{STRVAR_1 1, 2, 0} infatuated!</language>
 	</row>
 	<row id="msg_0197_01157" index="1157">
 		<attribute name="window_context_name">used</attribute>
@@ -4650,7 +4650,7 @@
 	</row>
 	<row id="msg_0197_01159" index="1159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} boosted\nthe accuracy of its next move\fusing its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} boosted\nthe accuracy of its next move\fusing its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01160" index="1160">
 		<attribute name="window_context_name">used</attribute>
@@ -4662,7 +4662,7 @@
 	</row>
 	<row id="msg_0197_01162" index="1162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is hurt by the foe’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is hurt by the opp’s\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01163" index="1163">
 		<attribute name="window_context_name">used</attribute>
@@ -4674,15 +4674,15 @@
 	</row>
 	<row id="msg_0197_01165" index="1165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt by\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt by\n{STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01166" index="1166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is hurt by the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is hurt by the\nfoe’s {STRVAR_1 1, 1, 0}’s {STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01167" index="1167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa!\nA wild {STRVAR_1 1, 0, 0} came charging!</language>
+		<language name="English">Whoa!\nA wild {STRVAR_1 1, 0, 0} came chargin’!</language>
 	</row>
 	<row id="msg_0197_01168" index="1168">
 		<attribute name="window_context_name">used</attribute>
@@ -4694,7 +4694,7 @@
 	</row>
 	<row id="msg_0197_01170" index="1170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned by the {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} was real\nfood food poisoned by the {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01171" index="1171">
 		<attribute name="window_context_name">used</attribute>
@@ -4706,7 +4706,7 @@
 	</row>
 	<row id="msg_0197_01173" index="1173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} got a burn\nfrom the {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} got a burn\nfrom the {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01174" index="1174">
 		<attribute name="window_context_name">used</attribute>
@@ -4754,7 +4754,7 @@
 	</row>
 	<row id="msg_0197_01185" index="1185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Should this Pokémon give up on\nlearning this new move?{YESNO 0}</language>
+		<language name="English">Should this Pokémon give up on\nlearnin’ this new move?{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01186" index="1186">
 		<attribute name="window_context_name">used</attribute>
@@ -4802,7 +4802,7 @@
 	</row>
 	<row id="msg_0197_01197" index="1197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach\n{STRVAR_1 6, 0, 0}? {YESNO 0}</language>
+		<language name="English">Stop tryna teach\n{STRVAR_1 6, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01198" index="1198">
 		<attribute name="window_context_name">used</attribute>
@@ -4826,7 +4826,7 @@
 	</row>
 	<row id="msg_0197_01203" index="1203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} rose!</language>
+		<language name="English">{STRVAR_1 1, 0, 0}’s\n{STRVAR_1 13, 1, 0} went up!</language>
 	</row>
 	<row id="msg_0197_01204" index="1204">
 		<attribute name="window_context_name">used</attribute>
@@ -4834,7 +4834,7 @@
 	</row>
 	<row id="msg_0197_01205" index="1205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is getting\npumped!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is gettin’\npumped!</language>
 	</row>
 	<row id="msg_0197_01206" index="1206">
 		<attribute name="window_context_name">used</attribute>
@@ -4842,7 +4842,7 @@
 	</row>
 	<row id="msg_0197_01207" index="1207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisonin’.</language>
 	</row>
 	<row id="msg_0197_01208" index="1208">
 		<attribute name="window_context_name">used</attribute>
@@ -4862,7 +4862,7 @@
 	</row>
 	<row id="msg_0197_01212" index="1212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} snapped out of its\nconfusion.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} snapped outta its\nconfusion.</language>
 	</row>
 	<row id="msg_0197_01213" index="1213">
 		<attribute name="window_context_name">used</attribute>
@@ -4878,7 +4878,7 @@
 	</row>
 	<row id="msg_0197_01216" index="1216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep battling</language>
+		<language name="English">Keep battlin’</language>
 	</row>
 	<row id="msg_0197_01217" index="1217">
 		<attribute name="window_context_name">used</attribute>
@@ -4890,7 +4890,7 @@
 	</row>
 	<row id="msg_0197_01219" index="1219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh! {STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}\nis drawing close!\r</language>
+		<language name="English">Sheesh! {STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}\nis drawin’ close!\r</language>
 	</row>
 	<row id="msg_0197_01220" index="1220">
 		<attribute name="window_context_name">used</attribute>
@@ -4946,7 +4946,7 @@
 	</row>
 	<row id="msg_0197_01233" index="1233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s tailwind petered out!</language>
+		<language name="English">The opp’s tailwind petered out!</language>
 	</row>
 	<row id="msg_0197_01234" index="1234">
 		<attribute name="window_context_name">used</attribute>
@@ -4966,15 +4966,15 @@
 	</row>
 	<row id="msg_0197_01238" index="1238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is exerting\nits {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is exertin’\nits {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01239" index="1239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is exerting\nits {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is exertin’\nits {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01240" index="1240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} is exerting\nits {STRVAR_1 5, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is exertin’\nits {STRVAR_1 5, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01241" index="1241">
 		<attribute name="window_context_name">used</attribute>
@@ -4982,7 +4982,7 @@
 	</row>
 	<row id="msg_0197_01242" index="1242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lucky Charm shielded the foe\nfrom critical hits!</language>
+		<language name="English">The Lucky Charm shielded the opp\nfrom critical hits!</language>
 	</row>
 	<row id="msg_0197_01243" index="1243">
 		<attribute name="window_context_name">used</attribute>
@@ -4994,7 +4994,7 @@
 	</row>
 	<row id="msg_0197_01245" index="1245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It broke through the foe’s\n{STRVAR_1 1, 0, 0}’s protection!</language>
+		<language name="English">It broke through the opp’s\n{STRVAR_1 1, 0, 0}’s protection!</language>
 	</row>
 	<row id="msg_0197_01246" index="1246">
 		<attribute name="window_context_name">used</attribute>
@@ -5002,15 +5002,15 @@
 	</row>
 	<row id="msg_0197_01247" index="1247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} became\ntrapped by swirling magma!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} became\ntrapped by swirlin’ magma!</language>
 	</row>
 	<row id="msg_0197_01248" index="1248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} became\ntrapped by swirling magma!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} became\ntrapped by swirlin’ magma!</language>
 	</row>
 	<row id="msg_0197_01249" index="1249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became\ntrapped by swirling magma!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} became\ntrapped by swirlin’ magma!</language>
 	</row>
 	<row id="msg_0197_01250" index="1250">
 		<attribute name="window_context_name">used</attribute>
@@ -5026,7 +5026,7 @@
 	</row>
 	<row id="msg_0197_01253" index="1253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0} became fully\ncharged due to its {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} became fully\ncharged due to its {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01254" index="1254">
 		<attribute name="window_context_name">used</attribute>
@@ -5038,7 +5038,7 @@
 	</row>
 	<row id="msg_0197_01256" index="1256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} let it move first!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 8, 1, 0} let it move first!</language>
 	</row>
 	<row id="msg_0197_01257" index="1257">
 		<attribute name="window_context_name">used</attribute>
@@ -5050,7 +5050,7 @@
 	</row>
 	<row id="msg_0197_01259" index="1259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} wore off!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0}’s\n{STRVAR_1 6, 1, 0} wore off!</language>
 	</row>
 	<row id="msg_0197_01260" index="1260">
 		<attribute name="window_context_name">used</attribute>
@@ -5090,7 +5090,7 @@
 	</row>
 	<row id="msg_0197_01269" index="1269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcer: You’re out of\n{STRVAR_1 8, 0, 0}s!\fGame over!\r</language>
+		<language name="English">Announcer: You outta\n{STRVAR_1 8, 0, 0}s!\fGame over!\r</language>
 	</row>
 	<row id="msg_0197_01270" index="1270">
 		<attribute name="window_context_name">used</attribute>
@@ -5114,6 +5114,6 @@
 	</row>
 	<row id="msg_0197_01275" index="1275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} got ${STRVAR_1 54, 1, 0} for winning!\nSent some to Mom!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got ${STRVAR_1 54, 1, 0} for winnin’!\nSent some to Mom!\r</language>
 	</row>
 </body>

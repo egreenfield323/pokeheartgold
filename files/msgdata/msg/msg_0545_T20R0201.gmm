@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0545_T20R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boy, {STRVAR_1 3, 0, 0}!\nIt’s damn near noon!\fYour lil homie Lyra came by.\rShe was out there playin’ hide n\nseek with her MARILL.\rOh, and that weird science man\nnext door, Elm, was lookin’ for you.\rSaid he need a favor. Probably\nwant you to hold somethin’.\rI know you know where the lab is.\nIt’s the house that smell funny.\rAnd don’t go out there lookin’\nbroke. Your daddy did enough of that.\fHere. Take this Bag...\r</language>
+		<language name="English">Boy, {STRVAR_1 3, 0, 0}!\nIt’s damn near noon!\fYour lil homie Lyra came by.\rShe was out there playin’ hide n\nseek with her MARILL.\rOh, and that weird science man\nnext door, Elm, was lookin’ for you.\rSaid he need a favor. Prob’ly\nwant you to hold somethin’.\rI know you know where the lab is.\nIt’s the house that smell funny.\rAnd don’t go out there lookin’\nbroke. Your daddy did enough of that.\fHere. Take this Bag...\r</language>
 	</row>
 	<row id="msg_0545_T20R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Girl, {STRVAR_1 3, 0, 0}!\nIt’s damn near noon!\fYour lil homie Ethan came by.\rHe was out there playin’ hide n\nseek with his MARILL.\rOh, and that weird science man\nnext door, Elm, was lookin’ for you.\rSaid he need a favor. Probably\nwant you to hold somethin’.\rI know you know where the lab is.\nIt’s the house that smell funny.\rAnd don’t go out there lookin’\nbroke. Your daddy did enough of that.\fHere. Take this Bag...\r</language>
+		<language name="English">Girl, {STRVAR_1 3, 0, 0}!\nIt’s damn near noon!\fYour lil homie Ethan came by.\rHe was out there playin’ hide n\nseek with his MARILL.\rOh, and that weird science man\nnext door, Elm, was lookin’ for you.\rSaid he need a favor. Prob’ly\nwant you to hold somethin’.\rI know you know where the lab is.\nIt’s the house that smell funny.\rAnd don’t go out there lookin’\nbroke. Your daddy did enough of that.\fHere. Take this Bag...\r</language>
 	</row>
 	<row id="msg_0545_T20R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -62,15 +62,15 @@
 	</row>
 	<row id="msg_0545_T20R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\nSo you finna leave too, huh...\rEverybody leaves. The milk man.\nYour daddy. Your daddy again.\rFine. I’ma help, though.\nI know! Every time you win bread,\fI’ll stash some for you.\rOn the road, bread is everything.\rWant me to hold\nyour money for you? {YESNO 0}</language>
+		<language name="English">...\nSo you finna leave too, huh...\rEverybody leaves. The milk man.\nYour daddy. Your daddy again.\rFine. I’ma help, though.\nI know! Every time you win bread,\fI’ll stash some for you.\rOn the road, bread is everythin’.\rWant me to hold\nyour bread for you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0545_T20R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ma always ride for you,\n{STRVAR_1 3, 0, 0}. Always.\fNot like SOME people.\fBut what can I do for you?\rI know!\rEvery time you win some bread,\nI’ll stash some of it for you.\rOn the road, bread is everything.\nWant me to hold\fyour money for you? {YESNO 0}</language>
+		<language name="English">I’ma always ride for you,\n{STRVAR_1 3, 0, 0}. Always.\fNot like SOME people.\fBut what can I do for you?\rI know!\rEvery time you win some bread,\nI’ll stash some of it for you.\rOn the road, bread is everythin’.\nWant me to hold\fyour bread for you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0545_T20R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, I got your money.\rI won’t touch it. Promise.\rYour homies is your family.\nWhen y’all ride together,\fcan’t nobody stop y’all!\fNow go ’head!</language>
+		<language name="English">Aight, I got your bread.\rI won’t touch it. Promise.\rYour homies is your family.\nWhen y’all ride together,\fcan’t nobody stop y’all!\fNow go ’head!</language>
 	</row>
 	<row id="msg_0545_T20R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0545_T20R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey baby! Welcome home!\nYou lookin’ good, I see.\rI kept your room clean. Your daddy’s\nside of the closet still empty...\fYou here about your money? {YESNO 0}</language>
+		<language name="English">Ayo baby! Welcome home!\nYou lookin’ good, I see.\rI kept your room clean. Your daddy’s\nside of the closet still empty...\fYou here about your bread? {YESNO 0}</language>
 	</row>
 	<row id="msg_0545_T20R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0545_T20R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nYou ain’t got no bread to stash.\rDon’t be wastin’ money on\ndumb stuff like your daddy, OK?\rYou got sense like me.\nI know I can count on you!</language>
+		<language name="English">Oh!\nYou ain’t got no bread to stash.\rDon’t be wastin’ bread on\ndumb stuff like your daddy, OK?\rYou got sense like me.\nI know I can count on you!</language>
 	</row>
 	<row id="msg_0545_T20R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -134,7 +134,7 @@
 	</row>
 	<row id="msg_0545_T20R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, {STRVAR_1 3, 0, 0}!\nElm called. Say he\fgot somethin’ for you!\r</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}!\nElm called. Say he\fgot somethin’ for you!\r</language>
 	</row>
 	<row id="msg_0545_T20R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -142,7 +142,7 @@
 	</row>
 	<row id="msg_0545_T20R0201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The TV is playing a movie!\rTwo dudes in a cave lookin’\nfor treasure... and a dad!\rI better get goin’...</language>
+		<language name="English">The TV is playin’ a movie!\rTwo dudes in a cave lookin’\nfor treasure... and a dad!\rI better get goin’...</language>
 	</row>
 	<row id="msg_0545_T20R0201_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

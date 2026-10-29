@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Aight, listen.\nI got a guy. People call him\fMr. Pokémon.\rHe always findin’ weird stuff and\ncallin’ me at 4 AM about it.\rHe say this time it’s REAL.\nHe say that every time.\rProbably another Egg. But I’m\nreal busy. With... research.\fYeah. Research.\rWait!\nI got it!\rYou go for me, right?\nYou good for it?\rPick a homie off the machine.\nDon’t touch nothin’ else.\r</language>
+		<language name="English">Professor Elm: Aight, listen.\nI got a guy. People call him\fMr. Pokémon.\rHe always findin’ weird stuff and\ncallin’ me at 4 AM about it.\rHe say this time it’s REAL.\nHe say that every time.\rProb’ly another Egg. But I’m\nreal busy. With... research.\fYeah. Research.\rWait!\nI got it!\rYou go for me, right?\nYou good for it?\rPick a homie off the machine.\nDon’t touch nothin’ else.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This PC is hooked up to the\nhealing machine! And a scale.</language>
+		<language name="English">This PC is hooked up to the\nhealin’ machine! And a scale.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shelf is empty...\rWho Elm give the last homie to?\nProbably sold it.</language>
+		<language name="English">The shelf is empty...\rWho Elm give the last homie to?\nProb’ly sold it.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for snitchin’... I mean,\nhelpin’ the investigation!\rNext I’ma find this red-headed kid.\nOr get donuts. Probably donuts.\r</language>
+		<language name="English">Good looks for snitchin’... I mean,\nhelpin’ the investigation!\rNext I’ma find this red-headed kid.\nOr get donuts. Prob’ly donuts.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -146,11 +146,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: WHAT?!\rProfessor Oak gave you a Pokédex?\r{STRVAR_1 3, 0, 0}, for real? Th-that’s\ncrazy! I owe that man money!\rHe good at seein’ who got\nthat dog in ’em.\rWow, {STRVAR_1 3, 0, 0}.\nI knew you was different.\fThis finna be fun!\rYour homies love you, so why\ndon’t you...take over the\fblocks?\rIf you take down every Block Boss,\nyou can run up on the\fBig League and the\fKingpin!\r...Or not! Haha! Ha. Hah.\rBeing Kingpin ain’t easy,\nbut you can definitely\fstart with Violet City’s block.\r</language>
+		<language name="English">Professor Elm: WHAT?!\rProfessor Oak gave you a Pokédex?\r{STRVAR_1 3, 0, 0}, for real? Th-that’s\ncrazy! I owe that man bread!\rHe good at seein’ who got\nthat dog in ’em.\rSheesh, {STRVAR_1 3, 0, 0}.\nI knew you was different.\fThis finna be fun!\rYour homies love you, so why\ndon’t you...take over the\fblocks?\rIf you take down every Block Boss,\nyou can run up on the\fBig League and the\fKingpin!\r...Or not! Haha! Ha. Hah.\rBeing Kingpin ain’t easy,\nbut you can definitely\fstart with Violet City’s block.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: WHAT?!\rProfessor Oak gave you a Pokédex?\r{STRVAR_1 3, 0, 0}, for real? Th-that’s\ncrazy! I owe that man money!\rHe good at seein’ who got\nthat dog in ’em.\rWow, {STRVAR_1 3, 0, 0}.\nI knew you was different.\fThis finna be fun!\rYour homies love you, so why\ndon’t you...take over the\fblocks?\rIf you take down every Block Boss,\nyou can run up on the\fBig League and the\fKingpin!\r...Or not! Haha! Ha. Hah.\rBeing Kingpin ain’t easy,\nbut you can definitely\fstart with Violet City’s block.\r</language>
+		<language name="English">Professor Elm: WHAT?!\rProfessor Oak gave you a Pokédex?\r{STRVAR_1 3, 0, 0}, for real? Th-that’s\ncrazy! I owe that man bread!\rHe good at seein’ who got\nthat dog in ’em.\rSheesh, {STRVAR_1 3, 0, 0}.\nI knew you was different.\fThis finna be fun!\rYour homies love you, so why\ndon’t you...take over the\fblocks?\rIf you take down every Block Boss,\nyou can run up on the\fBig League and the\fKingpin!\r...Or not! Haha! Ha. Hah.\rBeing Kingpin ain’t easy,\nbut you can definitely\fstart with Violet City’s block.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -202,11 +202,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}, good luck\nout there!\rOh, one more thing...\nDon’t forget my research! Or my money!</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}, good luck\nout there!\rOh, one more thing...\nDon’t forget my research! Or my bread!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}, good luck\nout there!\rOh, one more thing...\nDon’t forget my research! Or my money!</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}, good luck\nout there!\rOh, one more thing...\nDon’t forget my research! Or my bread!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
@@ -326,11 +326,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If this PICHU been through\ntime, you should keep\fa close eye on it, {STRVAR_1 3, 0, 0}.\rLooks like this PICHU got\nmessed up from goin’ so far\fthrough time with CELEBI.\rI’ll let the Trap House know.\rThe lady at the front should be\nable to tell you what’s up\fwith that PICHU.</language>
+		<language name="English">If this PICHU been through\ntime, you should keep\fa close eye on it, {STRVAR_1 3, 0, 0}.\rLooks like this PICHU got\nmessed up from goin’ so far\fthrough time with CELEBI.\rI’ll let the Trap House know.\rThe lady at the front should be\nable to tell you wassup\fwith that PICHU.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If this PICHU been through\ntime, you should keep\fa close eye on it, {STRVAR_1 3, 0, 0}.\rLooks like this PICHU got\nmessed up from goin’ so far\fthrough time with CELEBI.\rI’ll let the Trap House know.\rThe lady at the front should be\nable to tell you what’s up\fwith that PICHU.</language>
+		<language name="English">If this PICHU been through\ntime, you should keep\fa close eye on it, {STRVAR_1 3, 0, 0}.\rLooks like this PICHU got\nmessed up from goin’ so far\fthrough time with CELEBI.\rI’ll let the Trap House know.\rThe lady at the front should be\nable to tell you wassup\fwith that PICHU.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -346,11 +346,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh wow, your Spiky-eared PICHU\nreally rock with you, {STRVAR_1 3, 0, 0}.\r</language>
+		<language name="English">Oh sheesh, your Spiky-eared PICHU\ndeadass rock with you, {STRVAR_1 3, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh wow, your Spiky-eared PICHU\nreally rock with you, {STRVAR_1 3, 0, 0}.\r</language>
+		<language name="English">Oh sheesh, your Spiky-eared PICHU\ndeadass rock with you, {STRVAR_1 3, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -410,11 +410,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}!\nI’m SHOOK!\rI can’t believe a legend\nlike you been livin’ next\fdoor this whole time!\r{STRVAR_1 3, 0, 0}, you taught me\nwhat it really mean to\fride with your homies.\rIt’s that...\fthe bond between people and\fPokémon don’t never end!\rThank you again. For real.\nI’m gon’ go lay down for once.</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}!\nI’m SHOOK!\rI can’t believe a legend\nlike you been livin’ next\fdoor this whole time!\r{STRVAR_1 3, 0, 0}, you taught me\nwhat it deadass mean to\fride with your homies.\rIt’s that...\fthe bond between people and\fPokémon don’t never end!\rGood looks again. For real.\nI’m gon’ go lay down for once.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}!\nI’m SHOOK!\rI can’t believe a legend\nlike you been livin’ next\fdoor this whole time!\r{STRVAR_1 3, 0, 0}, you taught me\nwhat it really mean to\fride with your homies.\rIt’s that...\fthe bond between people and\fPokémon don’t never end!\rThank you again. For real.\nI’m gon’ go lay down for once.</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}!\nI’m SHOOK!\rI can’t believe a legend\nlike you been livin’ next\fdoor this whole time!\r{STRVAR_1 3, 0, 0}, you taught me\nwhat it deadass mean to\fride with your homies.\rIt’s that...\fthe bond between people and\fPokémon don’t never end!\rGood looks again. For real.\nI’m gon’ go lay down for once.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00104" index="104">
 		<attribute name="window_context_name">used</attribute>

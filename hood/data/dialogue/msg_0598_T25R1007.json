@@ -1,0 +1,15 @@
+{
+  "_comment": "Department Store elevator.",
+  "0": "Good looks for shoppin' with us.\\nI'm the elevator guy. 22 years.\\fWhat floor? {YESNO 0}",
+  "1": "Can't wait to push buttons for you again.",
+  "2": "Bet.\\nGoin' up.\\r",
+  "3": "Bet.\\nGoin' down.\\r",
+  "4": "We ALREADY on that floor!\\nI been doin' this 22 years, baby.",
+  "5": "First floor got the Service Counter\\nand the main entrance.",
+  "6": "Second floor got the Hustler's Market,\\nwith all kinda useful stuff.",
+  "7": "Third floor got the Battle Collection\\nfor buildin' strong, tough homies.",
+  "8": "Fourth floor got the Medicine Box\\nto unlock your homie's potential.",
+  "9": "Fifth floor got the TM Corner\\nto give your homie a new edge.",
+  "10": "Sixth floor got the Rooftop Atrium.\\nDon't miss the Daily Drawing Corner!",
+  "11": "The basement the warehouse. Customers\\nain't allowed. A kid got banned for life."
+}

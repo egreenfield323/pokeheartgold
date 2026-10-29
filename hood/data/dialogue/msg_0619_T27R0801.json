@@ -1,0 +1,10 @@
+{
+  "_comment": "Ecruteak Dowsing Machine house.",
+  "0": "Ah. You on a adventure with your homies?\\rWhat's a adventure without TREASURE\\nhuntin'?\\rAm I right, or am I right? {YESNO 0}",
+  "1": "GOOD! You get the real spirit of\\nadventure. I like you! Take this.\\fIt's basically a metal detector for nerds.",
+  "3": "There's mad stuff on the ground\\nthat you can't see.\\rTouch the Dowsing Machine for a\\nbit and see if it start beepin'.\\rWhen it do, you know there's\\nsomethin' near you.\\rWalk around while you use it\\nand you'll find stuff easier.\\rOh yeah--I heard there's stuff\\nin Ecruteak's Burned Tower.",
+  "4": "Oh... To each their own, I guess...\\nNo treasure for you. Boring.",
+  "5": "History of Ecruteak\\rWanna read it? {YESNO 0}",
+  "6": "Ecruteak had two towers. Each one home\\nto some strong flyin' homies.\\rBut one tower burned to the ground.\\nNo smoke detectors. 1600s building code.\\rNobody seen the two homies since...\\rKeep readin'? {YESNO 0}",
+  "7": "Ecruteak was also home to three\\nhomies that raced around town.\\rThey say they was born from\\nwater, lightning, and fire.\\rBut they couldn't control\\nall that power.\\rSo they say the three ran like the\\nwind out into the grassland."
+}

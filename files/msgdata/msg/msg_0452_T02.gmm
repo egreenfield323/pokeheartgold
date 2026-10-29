@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0452_T02_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, youngblood! I just had a double\nshot of espresso, and I am wired!\rI need to talk to someone, so you’ll\nhave to do!\rI might not look like much now, but I\nwas an expert at catching Pokémon.\rDo you believe me? {YESNO 0}</language>
+		<language name="English">Ayo, youngblood! I just had SIX\nespressos and I’m WIRED! My eye\ftwitchin’!\rI need to talk to somebody, so it’s\nyou!\rI might not look like much now, but I\nwas a EXPERT at catchin’ homies!\fIn 1974!\rYou believe me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0452_T02_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good, good. Yes, I was something out\nof the ordinary, let me tell you!</language>
+		<language name="English">GOOD, good! Yeah, I was somethin’ else!\nI caught a MEW once! It was a cat.\fBut still!</language>
 	</row>
 	<row id="msg_0452_T02_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? You little whelp!\rIf I were just a bit younger, I’d\nshow you a thing or two. Humph!</language>
+		<language name="English">WHAT?! You lil PUNK!\rIf I was younger, I’d show you a thing\nor two! Hmph! *twitch* *twitch*</language>
 	</row>
 	<row id="msg_0452_T02_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Block didn’t have a Leader...\rA young man from Pallet Town became the\nLeader, but he’s often away.</language>
+		<language name="English">This Block ain’t had a Boss for a\nwhile...\rA young man from Pallet Town became\nBoss, but he gone ALL the time. Remote\fwork.</language>
 	</row>
 	<row id="msg_0452_T02_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How was it?\nWere you able to battle the Leader?</language>
+		<language name="English">How’d it go? You get to scrap the Boss?\nOr was he out “findin’ himself” again?</language>
 	</row>
 	<row id="msg_0452_T02_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yawn!\nI must have dozed off in the sun.\r...I had this dream about a DROWZEE\neating my dream.\rWeird, huh?\fHuh?\fWhat’s this?\rWhere did this TM come from?\nThis is spooky!\fHere, you can have this TM.\r</language>
+		<language name="English">*yawn*! Musta dozed off in the sun.\r...I dreamed a DROWZEE was eatin’ my\ndream. While I was IN it. That’s\ftrippy.\fHuh? What’s this?\rWhere this TM come from?! This SPOOKY!\nHere, you take it. I don’t want no\fhaunted TM in my pocket!\r</language>
 	</row>
 	<row id="msg_0452_T02_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TM85 contains Dream Killer...\n...Zzzzz...</language>
+		<language name="English">TM85 is Dream Killer...\n...Zzzzz...</language>
 	</row>
 	<row id="msg_0452_T02_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that there are many items on\nthe ground in Viridian Forest.</language>
+		<language name="English">I heard there’s mad stuff on the\nground in Viridian Forest. And bugs.\fMAD bugs.</language>
 	</row>
 	<row id="msg_0452_T02_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0452_T02_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City block\nLeader: ...\fThe rest of the text is illegible...</language>
+		<language name="English">Viridian City Block\nBoss: ...\fThe Rest Got Scratched Off...</language>
 	</row>
 	<row id="msg_0452_T02_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0452_T02_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustler House\nThe Club for Top Hustler Battles</language>
+		<language name="English">Hustler House\nThe Club for Top Hustler Scraps</language>
 	</row>
 </body>

@@ -1,0 +1,17 @@
+{
+  "_comment": "Pokéathlon museum: Friendship room, Magnus.",
+  "0": "Magnus: Oh, gosh!\\r",
+  "1": "You...!\\nIt really is you, {STRVAR_1 3, 0, 0}!\\rOutstandin'!\\nThat's a big deal for you\\fto make it up here, bud!\\r",
+  "2": "This the “Friendship” room.\\rIt was built to honor the\\nbond, trust, and potential\\fof homies and people and\\fto hope for eternal friendship\\fbetween homies and people.\\r",
+  "3": "Congrats!\\rThis room is only for true\\nPokéathletes who earned\\freal friendships with homies!\\r{STRVAR_1 3, 0, 0}!\\nYou a true Pokéathlete, bud!\\r",
+  "4": "That bein' said...\\nthis is also the moment\\fof a new beginnin'...\\r",
+  "5": "That's right, bud!\\nYou just heard a new startin'\\fsignal. Your challenge keep goin'\\fto whole new heights and to becomin'\\fthe legendary Pokéathlete!\\rTake a look at this statue.\\nYou might be lookin' at your goal...\\r",
+  "6": "Magnus: This the “Friendship” room.\\nIt's the last one. It's the room\\fwhere eternal friendship between\\fpeople and homies get sworn.\\r...But this ain't your goal, bud.\\rEvery room got Trophies to earn,\\nbut you can aim for any new height.\\rIt's all on you whether\\nyou get there or not...\\rThat's right!\\rYour true goal ain't somethin'\\nnobody else can decide for you, bud.\\r{STRVAR_1 3, 0, 0}!\\nYou can get past ANYTHING\\fwith your bond with your homies.",
+  "7": "It's your statue!\\r",
+  "8": "The statue of the homie\\nyou rode this whole journey\\fwith, helpin' each other and\\fbuildin' your bond!",
+  "9": "It's the statue of a Medalist homie.\\rYou wanna swap it with another?",
+  "10": "You can put up a statue of a\\nMedalist homie that\\fearned five medals.\\rYou wanna put up a statue?",
+  "11": "It's the statue of a Medalist homie.\\rYou wanna swap it with another?",
+  "12": "You can put up a statue of a\\nMedalist homie that\\fearned five medals.\\rYou wanna put up a statue?",
+  "13": "It's the statue of a Medalist homie.\\rYou wanna swap it with another?"
+}

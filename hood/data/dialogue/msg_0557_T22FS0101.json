@@ -1,7 +1,7 @@
 {
   "_comment": "Violet Corner Store. Elm's assistant hands you the Egg (on minimum wage).",
-  "0": "When you first recruit a homie,\\nit might be weak.\\rBut put in the work and it'll\\ncome up strong.\\rShow your homies love, fr.",
-  "1": "Homies can hold stuff like Hennessy\\nor a Pepto.\\rBut they don't know how to use\\nnothin' man-made. Like, at all.",
+  "0": "Real talk, a homie you just recruited\\nweak as hell.\\rBut you put in the work and it come\\nup. Like me. I was weak too. Still am.",
+  "1": "Homies can HOLD stuff like Hennessy\\nor Pepto. But they can't OPEN it.\\fNo thumbs. It's tragic.",
   "2": "Long time no see, {STRVAR_1 3, 0, 0}.\\nI been waitin' on you.\\fThis from Professor Elm.\\rThing is... we need you to\\nwatch an Egg for us! {YESNO 0}",
   "3": "Long time no see, {STRVAR_1 3, 0, 0}.\\nI been waitin' on you.\\fThis from Professor Elm.\\rThing is... we need you to\\nwatch an Egg for us! {YESNO 0}",
   "4": "{STRVAR_1 3, 0, 0} got\\nthe Egg from the assistant!",

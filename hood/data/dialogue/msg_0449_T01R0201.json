@@ -1,0 +1,16 @@
+{
+  "_comment": "Blue's house. Daisy, his sister, grooms your homie and pushes Blue's number.",
+  "0": "Daisy: Ayo! My lil brother is the Block\\nBoss in Viridian City.\\rBut he leave town SO much. He just\\nwander off. Like a cat.",
+  "1": "Daisy: Ayo! Good timin'. I'm about to\\nhave some tea. It's 3:00. It's ALWAYS 3:00.\\rOh, your homies kinda DIRTY.\\nHow you let 'em walk around like that?\\rGroomin' make 'em beautiful AND friendly.\\nWant me to groom one? {YESNO 0}",
+  "2": "Daisy: Which one should I groom?\\r",
+  "3": "{STRVAR_1 0, 0, 0} look content.",
+  "4": "Daisy: There you go! All done.\\rSee? Don't it look NICE?\\nI groom everything. My brother hate it.",
+  "5": "Daisy: I always have tea around this\\ntime. Come join. Bring gossip.",
+  "6": "Daisy: You don't want one\\ngroomed? OK, we'll just have tea.",
+  "7": "Daisy: Oh, sorry. I can't\\ngroom a Egg.",
+  "8": "Daisy: You REALLY into groomin'!\\nSay!\\fWant my lil brother's number?\\rHe the Block Boss in Viridian City.\\nYou challenged him yet?\\rWanna save his number? {YESNO 0}",
+  "9": "{STRVAR_1 3, 0, 0} saved Blue's number\\nin the Pokégear!",
+  "10": "Daisy: Call him whenever.\\rHe can be COCKY, but he lonely. He\\ntalk to his homies like they people.\\rHe said he ain't got plans Sunday nights.\\nHe NEVER got plans.\\f*giggle*!",
+  "11": "Daisy: For real? You won't?\\nI see...\\fHow disappointin'.",
+  "12": "Daisy: Wanna save my\\nlil brother's number? {YESNO 0}"
+}

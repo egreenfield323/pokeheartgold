@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0488_T06R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Chairman of the\nPokémon Fan Club.\rI’ve raised over 150 Pokémon.\rI’m very fussy when it comes\nto Pokémon.\rDid you visit just to hear about\nmy Pokémon? {YESNO 0}</language>
+		<language name="English">I’m the Chairman of the Homie Fan Club.\rI raised over 150 homies. I know ALL\ntheir birthdays.\rI’m VERY picky about homies.\rYou came to hear about my homies? Say\nyes. This could take a while. {YESNO 0}</language>
 	</row>
 	<row id="msg_0488_T06R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! Then listen up!\rSo...my precious RAPIDASH...\rIt’s...cute...lovely...smart...\nadorable...irresistible...plus...\famazing... Don’t you think so?\fOh, so...wild...beautiful...\fkind... I love it!\rHug it... It’s warm and cuddly...\nOh, it’s...spectacular...captivating...\fsimply divine... I treasure it...\fOops! Look at the time! I’ve kept\fyou too long!\rThanks for hearing me out. I want to\ngive you this present!\r</language>
+		<language name="English">BET! Then listen up!\rSo...my PRECIOUS RAPIDASH...\rIt’s...cute...lovely...smart...\nadorable...irresistible...plus...\famazin’... Don’t you think?\fOh, so...wild...beautiful...\fkind... I LOVE it!\rHug it... It’s warm and cuddly...\nIt’s on FIRE but cuddly...\fsimply divine... I treasure it...\fOops! Look at the time! It’s dark out!\rGood looks for hearin’ me out.\nHere’s a present! You earned it!\r</language>
 	</row>
 	<row id="msg_0488_T06R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,51 +15,51 @@
 	</row>
 	<row id="msg_0488_T06R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Rare Candy that makes\nPokémon stronger.\rI prefer making my Pokémon stronger\nby battling, so you can have it.</language>
+		<language name="English">It’s some Clout that make homies\nstronger.\rI like makin’ my homies stronger\nby scrappin’, so you can have it.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rYou came to hear about my homies\nAGAIN?\rNo? Oh... I had SO many more\nstories... I had a slideshow...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}!\rYou came to hear about my homies\nAGAIN?\rNo? Oh... I had SO many more\nstories... I had a slideshow...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How disappointing...\rCome back if you want to listen\nto me again!</language>
+		<language name="English">That’s disappointin’...\rCome back when you wanna hear me\ntalk. I’ll be here. Always. With\fstories.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is jammed full.</language>
+		<language name="English">Your Bag jammed full.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our Chairman is very vocal when it\ncomes to Pokémon...</language>
+		<language name="English">Our Chairman REAL vocal about\nhomies... REAL vocal. We had to buy\fearplugs.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love the way CLEFAIRY opens up\nits arms!\rIt’s so adorable!</language>
+		<language name="English">I love how CLEFAIRY open up its arms!\rIt’s SO adorable! I cry every time!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love CLEFAIRY, but I could never\ncatch one.\rSo I’m making do with a Poké Doll\nthat I found.</language>
+		<language name="English">I love CLEFAIRY, but I could never\ncatch one.\rSo I’m makin’ do with a Poké Doll\nI found.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love CLEFAIRY, but I could never\ncatch one. So I’m making do with a\fPoké Doll that I found.\rWhat?\nThe girl who lost this Poké Doll\fis sad...!\rOK. Could you take this Poké Doll\nback to that poor little girl?\rI’ll befriend a real CLEFAIRY on\nmy own one day!\r</language>
+		<language name="English">I love CLEFAIRY, but I could never\ncatch one. So I’m makin’ do with a\fPoké Doll I found.\rWhat?\nThe girl who lost this Poké Doll\fis sad...!\rAight. Could you take this Poké Doll\nback to that poor lil girl?\rI’ll make homies with a real CLEFAIRY\none day!\r</language>
 	</row>
 	<row id="msg_0488_T06R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe lost Poké Doll!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe lost Poké Doll!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You watch. I’m finna get a\nreal CLEFAIRY as my homie.</language>
+		<language name="English">Watch. I’ma get a REAL CLEFAIRY as my\nhomie. One day. Manifesting.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look at my darling BAYLEEF!\rThe leaf on its head is so cute\nand fashionable!</language>
+		<language name="English">Look at my darlin’ BAYLEEF!\rThe leaf on its head SO cute and\nfashionable! Like a lil hat! A lil\fsalad hat!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -71,10 +71,10 @@
 	</row>
 	<row id="msg_0488_T06R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s all listen politely to\nother Hustlers.</language>
+		<language name="English">Let’s all listen politely to other\nHustlers. That’s the rule. Nobody\ffollow it.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If someone brags, brag right back!</language>
+		<language name="English">If somebody brag, brag RIGHT back!\nThat’s the OTHER rule. Everybody\ffollow it.</language>
 	</row>
 </body>

@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0514_T08GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufufu...\nI’m sorry to disappoint you...\rI’m only joking! I’m the real deal!\rJanine of Fuchsia Block, that’s me!\r</language>
+		<language name="English">Fufufufu... Sorry to disappoint you...\rJust playin’! I’m the REAL one!\rJanine of Fuchsia Block, that’s me!\nMy dad Koga taught me everythin’!\fHe’s a NINJA!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I see... You have defeated\nKoga, my father and a member of the\fElite Four, to come here.\rNo wonder you are strong!\rYou’ve definitely won...\nHere’s the Soul Chain. Take it.\r</language>
+		<language name="English">Janine: I see... You beat Koga, my DAD\nand a member of the Elite Four, to get\fhere.\rNo wonder you strong!\rYou won... Here’s the Soul Chain. Don’t\ntell my dad.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Soul Chain from Janine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Soul Chain from Janine!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You’re so tough!\nI have a special gift!\rIt’s Dirty Shiv, a powerful Poison-type\nmove that may poison its victim.\r</language>
+		<language name="English">Janine: You so tough!\nI got a special gift!\rIt’s Dirty Shiv, a strong Poison-type\nmove that might poison ’em.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m finna really apply\nmyself and improve my skills.\rI want to become much better than\nboth my father and you!</language>
+		<language name="English">Janine: I’ma DEADASS apply myself and\nget better.\rI wanna be WAY better than my dad AND\nyou! Mostly my dad! He gloat!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\nWhoops! Take a good look around you.\rThe Hustlers all look like the\nBlock Boss, Janine.\rWhich of them is the real Janine?</language>
+		<language name="English">Yo, future legend! Whoops! Look\naround you.\rEvery Hustler in here dressed like the\nBlock Boss, Janine. It’s a whole cult.\rWhich one is the REAL Janine?</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was a great battle,\nTrainer from Johto!</language>
+		<language name="English">That was a GREAT scrap, Hustler from\nJohto! You found the real one! Most\fdon’t.</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,15 +38,15 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wahahaha!\rYou betcha! I’m Janine!\r</language>
+		<language name="English">Wahahaha!\rYou bet! I’m Janine!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right, I’m a boy!\nWhat’s wrong with a boy\fdressing up as Janine?</language>
+		<language name="English">That’s right, I’m a BOY!\nWhat’s wrong with a boy dressin’ up as\fJanine?! It’s freedom of expression!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufu!\rI’m Janine, the Block Boss!\fWait, no I’m not! Gotcha!\r</language>
+		<language name="English">Fufufu!\rI’m Janine, the Block Boss!\fWait, no I ain’t! Gotcha!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,26 +54,26 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s so fun to dress up as Janine,\nour idol!</language>
+		<language name="English">It’s SO fun dressin’ up as Janine, our\nidol! I do it on weekends too.</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Janine!\nHow did you know I was real?\fLet’s battle!\r</language>
+		<language name="English">I’m Janine!\nHow’d you know I was real?\fLet’s scrap!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Or not!\r</language>
+		<language name="English">...Or not!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel stronger dressing up as Janine.</language>
+		<language name="English">I feel STRONGER dressed as Janine.\nIt’s the wig. The wig got power.</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City block</language>
+		<language name="English">Fuchsia City Block\nWhich Janine Is Real? (Not That One)</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City block\rLeader: Janine\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Fuchsia City Block\rBoss: Janine\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

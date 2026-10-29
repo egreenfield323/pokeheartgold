@@ -1,0 +1,20 @@
+{
+  "_comment": "Route 35 -> Goldenrod gatehouse. The Mail delivery (SPEAROW to Route 31's sleepy guy), the radio nerd.",
+  "0": "'Scuse me, youngblood!\\nI got a letter from my homie.\\rI wrote a reply. Took me six weeks.\\nI don't write good.\\rI can't leave this gate. I'm on house\\narrest. Long story.\\rHe on Route 31. Can you help? {YESNO 0}",
+  "1": "Oh... Never mind, then...\\nYou busy. Everybody busy. I'm stuck.",
+  "2": "Huh?\\nYour crew full!",
+  "3": "Sheesh, good looks!\\r",
+  "4": "{STRVAR_1 3, 0, 0} got the\\nSPEAROW with Mail!",
+  "5": "My homie on Route 31.\\rHe the one who look OBVIOUSLY hype to\\nread letters. You'll know. He sleep.",
+  "6": "My homie on Route 31.\\rOh, yeah.\\nThere was a weird tree\\fblockin' the road.\\fI wonder if it got cleared?",
+  "7": "Good looks for the delivery!\\r...A cave exploration?\\nAh, you can go right through here.\\rI want you to have this for\\nbein' so solid!\\r",
+  "8": "My dawg was sleep, right?\\nHeh, he ALWAYS sleep. Narcolepsy.\\fOr he lazy. Can't tell.",
+  "9": "WHAT?! You LOST the Mail?!\\rSix weeks... Six WEEKS...\\nOh well. That's OK. Don't trip.\\fI'm trippin' a lil.",
+  "10": "Everything good!",
+  "11": "A weird tree blockin' the road.\\rIt WIGGLE when you talk to it.\\nI talked to it for a hour. It's a good listener.",
+  "12": "I love the Homie Lullaby on the radio.\\nPut me RIGHT out.\\fI was driving.",
+  "13": "I can't believe a lil tweak turn the\\nPokégear into a radio!\\rYour Pokégear ain't got that yet?\\nTragic.\\rThey givin' quizzes at the Radio Tower\\nfront desk on the first floor.\\rGet 'em right and you get the Radio\\nCard! It's like school but you win stuff!",
+  "14": "I might not look it, but I'm GOOD\\nwith tech. I fixed my microwave once.\\rWanna know how to listen to the radio? {YESNO 0}",
+  "15": "Open your Pokégear and hit the\\nradio button. Then you see the\\fscreen for tunin' in.\\rThe middle of the screen is the\\nradio map.\\rMove the blinkin' mark around\\nthe map to tune in to different\\fradio shows.\\rIf that's too much work, there's\\nfour channels, two on each\\fside, for easy tunin'.",
+  "16": "Was I bein' a backseat driver?\\nMy wife say I do that. In the house."
+}

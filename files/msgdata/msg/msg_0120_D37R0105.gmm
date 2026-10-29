@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0120_D37R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Director: Who? What? You came to\nrescue me? Good looks!\rThe Radio Tower!\nWhat’s happening there?\rTaken over by The Feds?\nHere. Take this Card Key.\r</language>
+		<language name="English">Director: Who? WHAT? You came to\nrescue me?! GOOD LOOKS!\rThey locked me in here with NO\nsnacks!\rThe Radio Tower! What’s goin’ on?\rThe FEDS took it over?! Over WHAT?\nWe play smooth jazz!\rHere. Take this Card Key. Go get my\ntower back!\r</language>
 	</row>
 	<row id="msg_0120_D37R0105_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,6 +15,6 @@
 	</row>
 	<row id="msg_0120_D37R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m begging you to help.\rThere’s no telling what they’ll do if\nthey control the transmitter.\rThey may even be able to control\nPokémon using a special signal!\rYou’re the only one I can call on.\nPlease save the Radio Tower...\fand all the Pokémon nationwide!</language>
+		<language name="English">I’m BEGGIN’ you, help.\rIf they control the transmitter,\nthey could control homies with a\fsignal!\rOr worse, play COUNTRY MUSIC!\rYou the only one I can call. Please\nsave the Radio Tower...\fand every homie in the country!</language>
 	</row>
 </body>

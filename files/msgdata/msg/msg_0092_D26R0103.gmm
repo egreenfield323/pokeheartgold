@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0092_D26R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting to see SLOWPOKE’s moment\nof evolution. Through observation,\fI made a new discovery.\rA SLOWPOKE with a King’s Rock often\ngets bitten by a SHELLDER.\rHere, I’ll share a King’s Rock with you.</language>
+		<language name="English">I’m waitin’ to see SLOWPOKE\nevolve. Been watchin’ a while,\fand I found somethin’ out.\rA SLOWPOKE holdin’ a King’s Rock\nusually get bit by a SHELLDER.\rHere, take a King’s Rock.</language>
 	</row>
 	<row id="msg_0092_D26R0103_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,6 +11,6 @@
 	</row>
 	<row id="msg_0092_D26R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m finna be like SLOWPOKE.\rI’ll wait patiently so I can see\none evolve.</language>
+		<language name="English">I’ma be like SLOWPOKE.\rReal patient. Just waitin’\nto see one evolve. Any day now.</language>
 	</row>
 </body>

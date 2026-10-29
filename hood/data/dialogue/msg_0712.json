@@ -1,0 +1,14 @@
+{
+  "_comment": "Phone: Ralph (old fisherman).",
+  "1": "Young people don't fish no more?\\rI can teach you how to fish good, if\\nyou wanna swap\\fnumbers with me? {YESNO 0}",
+  "2": "That's great!\\nI'm happy I made a\\fyounger homie!",
+  "3": "Oh...\\rMy own kids won't even give me their\\nnumbers...\\rI guess that's just how young people\\nis these days.",
+  "4": "Hm? Oh, so you DO wanna be my\\nhomie after all?! {YESNO 0}",
+  "5": "If you right nearby, let's just talk\\nface-to-face!",
+  "6": "I been spendin' more time with my\\n{STRVAR_1 0, 10, 0} than with my kids.\\fThat's kinda sad, actually.\\rCall your mom sometimes too!",
+  "7": "I just beat a wild {STRVAR_1 0, 11, 0}. I told my\\nyoungblood, but he laughed and said he\\fcould do it easy.\\rBoy, he got cocky...\\rCall your mom sometimes too!",
+  "8": "Yesterday a wild {STRVAR_1 0, 11, 0} slipped away\\nin front of my youngblood.\\fI was feelin' down about it till he\\fshared his Hood Balls with me.\\rHahah, that made my day!\\rCall your mom sometimes too!",
+  "9": "What you say to a scrap with me?\\nGood, you finna do it!\\rFor a youngblood, you real\\nagreeable. {STRVAR_1 4, 3, 0} is the spot!",
+  "10": "So where you at? I'm waitin' on you\\nto show up on {STRVAR_1 4, 3, 0}.\\rDon't make your elders wait!",
+  "11": "Ayo, how you doin'?\\rI'm doin' absolutely wonderful,\\nobviously!\\rBut when I say “...absolutely\\nwonderful,” is it about fishin'?\\fAm I talkin' about homies?\\fWhich one?\\rHa ha ha!\\nIt's both, obviously!"
+}

@@ -1,0 +1,15 @@
+{
+  "_comment": "Goldenrod Tunnel. Lyra/Ethan hands over the Fashion Case.",
+  "0": "Somebody tried to scrap me downstairs.\\rIt's ROUGH down there. I lost my\\nshoe. And my dignity.",
+  "1": "You look like a good kid.\\nHow you end up workin' for The Feds?\\fYour mama know about this?",
+  "2": "The Feds won't stop botherin' people!\\nShow me a WARRANT! I know my rights!\\fI watched a YouTube video!",
+  "3": "There's shops downstairs...\\rBut there's Hustlers too. They\\nask for “a dollar for the toll.”\\fThere ain't no toll.",
+  "4": "Yeah... The Feds can use the tunnel too.\\nPublic property.\\rTaxpayers paid for this tunnel and\\nnow it got Feds in it. Classic.",
+  "5": "Everybody who worked down here dipped.\\nNobody want The Feds in their business.\\fEspecially the herbal medicine guy.",
+  "6": "Lyra: Ayo, {STRVAR_1 3, 0, 0}.\\nYou right on time!\\r",
+  "7": "Lyra: Follow this tunnel and\\nyou'll see a Dress-Up Shop.\\rThat's where your homies put on\\nAccessories to get fly and\\ftake pics!\\rOh, and here go the Fashion Case!\\rYou said you want it?\\nI knew it!\\rIt's a gift from me!\\r",
+  "8": "Lyra: Keep your Accessories in the\\nFashion Case, OK?\\rI gotta go.\\nLater!\\r",
+  "9": "Ethan: Ayo, {STRVAR_1 3, 0, 0}.\\nYou right on time!\\r",
+  "10": "Ethan: Follow this tunnel and\\nyou'll see a Dress-Up Shop.\\rThat's where your homies put on\\nAccessories to get fly and\\ftake pics!\\rOh, and here go the Fashion Case!\\rYou said you want it?\\nI knew it!\\rIt's a gift from me!\\r",
+  "11": "Ethan: Keep your Accessories in the\\nFashion Case, OK?\\rI gotta go.\\nLater!\\r"
+}

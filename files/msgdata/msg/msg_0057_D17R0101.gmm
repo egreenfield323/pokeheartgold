@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0057_D17R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So many people have gone up\nthe tower with a Rainbow Wing\fto try and bring back HO-OH.\rBut none succeeded in making\nHO-OH appear...\rThe Rainbow Wing is merely to permit you\nto go up this tower.\rWhat HO-OH has longed for is the\ninvisible trust between people and\fPokémon...\rOr the person who can restore such\na relationship...\r</language>
+		<language name="English">Mad people came up this tower with a\nRainbow Wing tryna summon HO-OH.\rNone of ’em got HO-OH to show up...\rThe Rainbow Wing just a hall pass.\nThat’s it. It ain’t a magic feather.\rWhat HO-OH want is real TRUST between\npeople and homies...\rNot clout. HO-OH can smell clout.\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long time ago, there used to be a\nPokémon at the top of this tower,\fnamely HO-OH.\rBut it flew away, and no one has seen it\nsince...\rIf anyone who could restore deep trust\nbetween people and Pokémon were to\fcome here with something linked to\fHO-OH... It may come down for such\fa person...\r</language>
+		<language name="English">Long time ago, there was a\nhomie at the top of this tower:\fHO-OH.\rBut it flew off, and nobody\nseen it since...\rIf somebody who could bring back\nreal trust between people and\fhomies came through with\fsomethin’ tied to HO-OH... It might\fcome down for ’em...\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have...!\r</language>
+		<language name="English">That thing you got...!\nYou serious?! Where you get that?!\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have done it...\nPlease come through.</language>
+		<language name="English">You did it...\nC’mon through.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Rainbow Wing will merely permit you\nto go up the tower.\rIf you are not the kind of person who\nwould restore the trust between people\fand Pokémon, HO-OH will never show\fitself to you...</language>
+		<language name="English">That Rainbow Wing just a hall pass.\rIf you ain’t the kinda person who\nbring trust back between people and\fhomies, HO-OH ain’t showin’ up.\fNo matter how many times you clap.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,26 +26,26 @@
 	</row>
 	<row id="msg_0057_D17R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite a remarkable Hustler\nfor your age...</language>
+		<language name="English">You a real one for your age...\nI was stealin’ hubcaps at your age.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Bell Tower is where\npeople and Pokémon test their trust.\rYou may be born with some talent...\fCan we exchange numbers?\rI would love to examine the trust\nyou have with your Pokémon. {YESNO 0}</language>
+		<language name="English">Morty: Bell Tower is where people and\nhomies test their trust.\rYou might be born with it...\fWe should swap numbers.\rI wanna see the trust you got with\nyour homies. And I’m lonely. {YESNO 0}</language>
 	</row>
 	<row id="msg_0057_D17R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Morty\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Morty’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0057_D17R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Give me a call on Tuesday nights.\nI should be free and ready.</language>
+		<language name="English">Morty: Hit me up on Tuesday nights.\nI should be free.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I really wanted to see the\ntrust you have with your Pokémon...</language>
+		<language name="English">Morty: I DEADASS wanted to see your\ntrust with your homies...\fI’ll just go stare at a wall.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Do you want to exchange\nnumbers? {YESNO 0}</language>
+		<language name="English">Morty: You wanna swap\nnumbers? {YESNO 0}</language>
 	</row>
 </body>

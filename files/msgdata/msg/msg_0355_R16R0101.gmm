@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0355_R16R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who let you in?! You got five\nseconds before I call my cousin.\rIf you cruise down the Cycling Road,\nyou will end up in Fuchsia City.</language>
+		<language name="English">If you cruise down Cycling Road, you\nend up in Fuchsia City.\rOr in the hospital. 50/50.</language>
 	</row>
 	<row id="msg_0355_R16R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rWassup, hello. Would you like to hear\na trendy saying? {YESNO 0}</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rWassup, wassup. Wanna hear a TRENDY\nsayin’? I’m a influencer. {YESNO 0}</language>
 	</row>
 	<row id="msg_0355_R16R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very well...\rThe trendy thing for you to say\nwould be...\r{STRVAR_1 28, 0, 0}!\rThat’s a trendy sort of thing\nto say.</language>
+		<language name="English">Aight...\rThe trendy thing for you to say would\nbe...\r{STRVAR_1 28, 0, 0}!\rThat’s mad trendy. Say it\neverywhere. To your mama. To the\fcops.</language>
 	</row>
 	<row id="msg_0355_R16R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, come on now! With an attitude\nlike that, you’ll fall behind the times!</language>
+		<language name="English">Oh, c’MON! With a attitude like that,\nyou gon’ fall off! You already fallin’\foff!</language>
 	</row>
 	<row id="msg_0355_R16R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you’ll use trendy sayings\nin trendy ways.</language>
+		<language name="English">I hope you use trendy sayin’s in\ntrendy ways. Don’t be cringe with it.</language>
 	</row>
 	<row id="msg_0355_R16R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, hello. Are you using\ntrendy sayings?</language>
+		<language name="English">Wassup, wassup. You usin’\ntrendy sayin’s?</language>
 	</row>
 </body>

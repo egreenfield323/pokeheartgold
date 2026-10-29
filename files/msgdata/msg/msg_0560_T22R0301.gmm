@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0560_T22R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Earl! Professor of the\nstreets, PhD in homies!\rI’ma make you a better Hustler!\rWhat you wanna know?\nYou tryna win? {YESNO 0}</language>
+		<language name="English">I’m Earl! Professor of the streets!\nPhD in homies from Hood University!\fIt’s online!\rI’ma make you a BETTER Hustler!\rWhat you wanna know?\nYou tryna win? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet! Lesson one!\nThe homie at the top of your\fcrew, the one walkin’ with you,\fjump out first in a scrap!\rSwitch up the order, make\nscraps easier, maybe!\rYou want more game from me? {YESNO 0}</language>
+		<language name="English">BET! Lesson one! The homie at the TOP\nof your crew jump out first in a scrap!\rMove your homies around, make scraps\neasier! That’s called STRATEGY!\rYou want more game from Earl? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0560_T22R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet! Listen!\nIf a homie jump in a scrap even\ffor a sec, it get some Exp. Points.\rLead with the weak homie,\nswitch it out quick!\rThat’s how weak homies\ncome up strong!\fYou want more game from me? {YESNO 0}</language>
+		<language name="English">BET! Listen!\nIf a homie jump in a scrap even for a\fsec, it get Exp. Points!\rLead with the weak homie, then\nswitch it out quick!\rThat’s how weak homies get strong!\fLike internships! Unpaid!\rYou want more game from Earl? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,31 +22,31 @@
 	</row>
 	<row id="msg_0560_T22R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet! Listen up!\nHomies got strengths and\fweaknesses ’cause of types.\rHigh-level homies don’t always\nwin with bad matchups.\rPick homies with types that\nclap the other homie.\fThat’s a smart scrap!</language>
+		<language name="English">BET! Listen up!\nHomies got strengths and weaknesses\f’cause of types!\rA high-level homie can still lose\nwith a bad matchup!\rPick homies that CLAP the other\nhomie’s type! That’s a smart scrap!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ohh! You a smart student!\nI got nothin’ left to teach!\rBe good to your homies, aight?</language>
+		<language name="English">OHHH! You a SMART student!\nI got nothin’ left to teach!\fI’m unemployed again!\rBe good to your homies, aight?</language>
 	</row>
 	<row id="msg_0560_T22R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m takin’ notes on the teacher’s\nlecture.\rI gotta copy the stuff off\nthe board too. Ugh.</language>
+		<language name="English">I’m takin’ notes on Earl’s lecture.\rHe been talkin’ for six hours.\nI think he forgot we here.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I traded my best homie to the kid\nnext to me. Biggest L of my life.</language>
+		<language name="English">I traded my best homie to the kid\nnext to me for a Fruit Roll-Up.\fBiggest L of my life.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? The homie I just got is\nholdin’ somethin’!</language>
+		<language name="English">Huh? The homie I just got is holdin’\nsomethin’! ...It’s a parkin’ ticket.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Some Berries can heal\na homie up.\rLots of other stuff homies\ncan hold too...\rTakin’ notes is HARD, bro...</language>
+		<language name="English">...Some Berries can heal a homie up.\rHomies can hold a lotta other stuff...\rTakin’ notes is HARD, bro. My hand\ncrampin’ and I only wrote “Berries.”</language>
 	</row>
 	<row id="msg_0560_T22R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Homies got somethin’ called\nabilities!\rLooks like every kind of homie\ngot its own thing.\rThey say abilities come in\nclutch in a scrap!</language>
+		<language name="English">Homies got somethin’ called abilities!\rEvery kinda homie got its own thing.\rMy ability is fallin’ asleep\nin class. Super effective.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

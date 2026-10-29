@@ -6,78 +6,78 @@
 	</row>
 	<row id="msg_0683_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m researching Block Bosses for a\nproject at school!\rYou can get the Block Bosses’ phone\nnumbers, so you can talk to them\foutside of the Block!\rHey, we should trade phone\nnumbers! {YESNO 0}</language>
+		<language name="English">I’m researchin’ Block Bosses for a\nproject at school!\rYou can get the Block Bosses’ phone\nnumbers, so you can talk to ’em\foutside the Block!\rAyo, we should swap\nnumbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0683_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Block Bosses’ locations and times\nchange, so I’ll let you know by phone!</language>
+		<language name="English">Block Bosses’ spots and times\nchange, so I’ll hit your phone!</language>
 	</row>
 	<row id="msg_0683_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Don’t you want to know anything\nabout Block Bosses?</language>
+		<language name="English">Huh? You don’t wanna know nothin’\nabout Block Bosses?</language>
 	</row>
 	<row id="msg_0683_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it. I knew you’d want to\nknow about the Block Bosses! {YESNO 0}</language>
+		<language name="English">I knew it. I KNEW you’d wanna\nknow about the Block Bosses! {YESNO 0}</language>
 	</row>
 	<row id="msg_0683_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you’re nearby, ain’t you?\nSo we should talk face-to-face!</language>
+		<language name="English">Ayo, you right nearby, ain’t you?\nSo we should talk face-to-face!</language>
 	</row>
 	<row id="msg_0683_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney likes to relax on the\nsixth floor of the Goldenrod\fDepartment Store.</language>
+		<language name="English">Whitney like to chill on the\nsixth floor of the Goldenrod\fDept. Store.</language>
 	</row>
 	<row id="msg_0683_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine delivers dinner to her father\nevery evening. You can always find her\fat the Big League Reception Gate\fin the late afternoon!</language>
+		<language name="English">Janine bring dinner to her pops\nevery evenin’. You can always find her\fat the Big League Reception Gate\fin the late afternoon!</language>
 	</row>
 	<row id="msg_0683_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner likes to come to Celadon City on\nMondays, it seems.</language>
+		<language name="English">Falkner like to hit Celadon City on\nMondays, it seem.</language>
 	</row>
 	<row id="msg_0683_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems like Misty really likes\nRoute 25!\rEvery night she goes there to watch\nthe sunset!</language>
+		<language name="English">Seem like Misty REALLY like\nRoute 25!\rEvery night she go there to watch\nthe sunset!</language>
 	</row>
 	<row id="msg_0683_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina likes to visit the port in Olivine\non Friday nights.\rShe really shows up in the strangest\nplaces, doesn’t she!</language>
+		<language name="English">Sabrina like the port in Olivine\non Friday nights.\rShe deadass pop up in the weirdest\nplaces, don’t she!</language>
 	</row>
 	<row id="msg_0683_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maybe I should only tell you this...\rThe truth is that Jasmine is a bit of a\nbig eater!\rIf you go to the Olivine Café past\nnoon, you’re sure to run into\fJasmine there!</language>
+		<language name="English">Maybe I should only tell you this...\rTruth is, Jasmine kinda\nEAT!\rIf you hit the Olivine Café past\nnoon, you gon’ run into\fJasmine there for sure!</language>
 	</row>
 	<row id="msg_0683_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Block’s leader Blaine really\nthinks a lot about the town of\fCinnabar, you know?\rEvery Tuesday morning he sits on the\nsite where the Cinnabar Block once was\fand contemplates.</language>
+		<language name="English">Cinnabar Block Boss Blaine deadass\nthink a lot about the town of\fCinnabar, you know?\rEvery Tuesday mornin’ he sit on the\nspot where the Cinnabar Block was\fand think.</language>
 	</row>
 	<row id="msg_0683_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter Block’s Leader Brock really\nloves rocks!\rHe goes into DIGLETT’s Cave every day\npast noon.</language>
+		<language name="English">Pewter Block Boss Brock REALLY\nlove rocks!\rHe go in DIGLETT’s Cave every day\npast noon.</language>
 	</row>
 	<row id="msg_0683_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy goes looking for Bug-type\nPokémon. He even goes looking as far as\fthe Viridian Forest in the Kanto region!</language>
+		<language name="English">Bugsy go lookin’ for Bug-type\nhomies. He even go as far as\fViridian Forest in Kanto!</language>
 	</row>
 	<row id="msg_0683_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce is certainly a man of refined\ntastes, don’t you agree?\rEvery morning at seven he goes out by\nhimself and gazes out at the\fLake of Rage.</language>
+		<language name="English">Pryce a man of refined\ntaste, don’t you agree?\rEvery mornin’ at seven he go out by\nhimself and stare out at the\fLake of Rage.</language>
 	</row>
 	<row id="msg_0683_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty’s always looking at the\nBell Tower, ain’t he?\rHe’s just been engrossed by that one\nthing. To the point that he became a\fBlock Boss.</language>
+		<language name="English">Morty ALWAYS starin’ at the\nBell Tower, ain’t he?\rHe just been locked in on that one\nthing. To the point he became a\fBlock Boss.</language>
 	</row>
 	<row id="msg_0683_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really need to work on my training.\nLet’s battle again, OK? I’ll be\fwaiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">I REALLY gotta work on my trainin’.\nLet’s scrap again, OK? I’ll be\fwaitin’ on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0683_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that all right?\nWe’re finna battle again on\f{STRVAR_1 4, 3, 0}! Hurry up already!</language>
+		<language name="English">Is that aight?\nWe finna scrap again on\f{STRVAR_1 4, 3, 0}! Hurry up already!</language>
 	</row>
 	<row id="msg_0683_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If anything about the Block Bosses\nchanges, I’ll be sure to call you!</language>
+		<language name="English">If anythin’ about the Block Bosses\nchange, I’ll hit you up!</language>
 	</row>
 </body>

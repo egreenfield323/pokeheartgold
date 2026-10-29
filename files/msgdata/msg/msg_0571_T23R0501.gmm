@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rHm? Who are you?\r{STRVAR_1 3, 0, 0}, eh? You want me to make\nsome Balls?\rSorry, but that’ll have to wait.\rDo you know The Feds?\nAh, don’t worry. I’ll tell you anyhow.\rThe Feds’ an evil gang that\nuses Pokémon for their dirty work.\rThey’re supposed to have disbanded\nthree years ago.\rAnyway, they’re at the well, cutting\noff SlowpokeTails for sale!\rSo I’m finna go give them a\nlesson in pain!\rHang on, SLOWPOKE!\nOld Kurt is on his way!</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rHm? Who you?\r{STRVAR_1 3, 0, 0}, huh? You want me to make\nsome Balls?\rSorry, that gotta wait.\rYou know The Feds?\nAh, don’t trip. I’ll tell you anyway.\rThe Feds a evil gang that\nuse homies for their dirty work.\rThey supposedly got shut down\nthree years ago.\rAnyway, they at the well choppin’\noff SlowpokeTails to sell!\rSo I’m finna go teach ’em\na lesson!\rHang on, SLOWPOKE!\nOld Kurt on the way!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Ayo, {STRVAR_1 3, 0, 0}!\nYou handled yourself like a real hero.\rAs I mentioned before, The Feds was\ndisbanded by a boy called Red three\fyears ago.\rNow that they have come back...\nI have a bad feeling about it...\rIn any case, it would please me greatly\nto make Hood Balls for a Hustler\flike you, {STRVAR_1 3, 0, 0}.\fThis is all I have now, but take it.\r</language>
+		<language name="English">Kurt: Ayo, {STRVAR_1 3, 0, 0}!\nYou handled that like a real one.\rLike I said, The Feds got\nshut down by a boy named Red three\fyears ago.\rNow they back...\nI got a bad feelin’ about it...\rAnyway, I’d be proud to\nmake Hood Balls for a Hustler\flike you, {STRVAR_1 3, 0, 0}.\fThis all I got, but take it.\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,23 +15,23 @@
 	</row>
 	<row id="msg_0571_T23R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I make Hood Balls from Apricorns.\rCollect them from trees and bring\n’em to me.\rI’ll make Hood Balls out of them.</language>
+		<language name="English">Kurt: I make Hood Balls outta\nApricorns.\rGrab ’em off trees and bring ’em to me.\nDon’t buy ’em. Pick ’em.\fStore-bought is for cowards.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: You have Apricorns for me?\fFine! I’ll turn them into Hood Balls.\r</language>
+		<language name="English">Kurt: You got Apricorns for me?\fBet! I’ll turn ’em into Hood Balls.\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: It’ll take a day to make you a\nHood Ball. Come back for it later.</language>
+		<language name="English">Kurt: Takes a day to make a Hood Ball.\nCraftsmanship take TIME. Come back\flater.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Oh...\nThat’s a letdown.</language>
+		<language name="English">Kurt: Oh...\nThat’s weak. Real weak.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I’m working!\nDon’t bother me!</language>
+		<language name="English">Kurt: I’M WORKIN’! Don’t bother me or\nI’ll throw a Apricorn!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -39,35 +39,35 @@
 	</row>
 	<row id="msg_0571_T23R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Your Bag is full!\nCome back when it’s lighter.</language>
+		<language name="English">Kurt: Your Bag full!\nCome back when it’s lighter.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: That turned out great.\rTry catching Pokémon with it.</language>
+		<language name="English">Kurt: Came out CLEAN.\rGo recruit some homies with it.\nTell ’em Kurt sent you.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE are gone...\nWere they taken away by bad people?</language>
+		<language name="English">The SLOWPOKE gone...\nDid bad people take ’em?\fI’m scared to go outside.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandpa’s gone...\nI’m so lonely...</language>
+		<language name="English">Grandpa gone... He ran out the house\nyellin’ about The Feds.\fHe forgot his teeth.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE my dad gave me came\nback! Its tail has grown back, too!</language>
+		<language name="English">The SLOWPOKE my dad gave me came\nback! Its tail grew back too! Like a\flizard!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dad works at Silph where he studies\nHood Balls.\rI have to stay home with Grandpa\nand SLOWPOKE.</language>
+		<language name="English">My dad work at Silph, studyin’ Hood\nBalls.\rI gotta stay home with Grandpa and\nSLOWPOKE. Grandpa yell at TV. SLOWPOKE\fdon’t do nothin’. Boring.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right!\nI’ll give you my grandpa’s number. {YESNO 0}</language>
+		<language name="English">Oh yeah!\nI’ll give you my grandpa’s number. {YESNO 0}</language>
 	</row>
 	<row id="msg_0571_T23R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Kurt\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Kurt’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -75,11 +75,11 @@
 	</row>
 	<row id="msg_0571_T23R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? Why?\nYou don’t want to talk to my grandpa?</language>
+		<language name="English">No? Why? You don’t wanna talk to my\ngrandpa? He’s lonely! He talks to\ftrees!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want to talk to my grandpa,\ndon’t you? {YESNO 0}</language>
+		<language name="English">You DO wanna talk to my grandpa,\ndon’t you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0571_T23R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -87,18 +87,18 @@
 	</row>
 	<row id="msg_0571_T23R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see three people, with landscape\nin the background.\rIt’s Kurt, Professor Oak, and...\nin the middle,\fa lady with determined eyes.</language>
+		<language name="English">You see three people, with scenery\nin the background.\rIt’s Kurt, Professor Oak, and...\nin the middle,\fa lady with a hard stare.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a statue of the forest’s\nprotector.</language>
+		<language name="English">It’s a statue of the forest’s\nprotector. Somebody left it a soda and\fa scratch-off.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The radio is on.\rIt’s Professor Oak’s Pokémon Talk!</language>
+		<language name="English">The radio on.\rIt’s Professor Oak’s Pokémon Talk!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The radio is declaring the revival\nof The Feds!</language>
+		<language name="English">The radio sayin’ The Feds\nis back!</language>
 	</row>
 </body>

@@ -1,0 +1,16 @@
+{
+  "_comment": "Lighthouse top. Jasmine (very soft-spoken) and sick Amphy.",
+  "0": "Jasmine: ...This homie always kept\\nthe sea lit up at night.\\r...But it got sick outta nowhere...\\nIt can barely breathe...\\r...I heard there's a real good\\nPharmacy in Cianwood...\\rBut that's across the sea...\\nAnd I can't leave Amphy alone...\\r",
+  "1": "...Could you get some medicine\\nfor me? Please?\\r",
+  "2": "Jasmine: ...That medicine gon' fix\\nAmphy? {YESNO 0}",
+  "3": "{STRVAR_1 3, 0, 0} handed the SecretPotion\\nto Jasmine.",
+  "4": "Jasmine: ...Um, please don't be\\noffended...\\rAmphy won't take nothin' from\\nnobody but me...\\r",
+  "5": "Jasmine: ...\\rAmphy, how you feelin'?\\r",
+  "6": "Amphy: Palu!\\nPalulu!\\r",
+  "7": "Jasmine: ...Oh, I'm so relieved...\\nThis is just so wonderful...\\rGood looks, for real, for real.\\n...I'ma head back to the Block...\\r",
+  "8": "Jasmine: ...I see...\\r",
+  "9": "...Amphy, hang on!\\r",
+  "10": "Amphy: ...\\n...Pa...paloo...\\r",
+  "11": "It's barely breathin'...",
+  "12": "Amphy: Palu!\\nPalulu!"
+}

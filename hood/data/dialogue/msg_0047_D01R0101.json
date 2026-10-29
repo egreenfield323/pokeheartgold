@@ -1,0 +1,22 @@
+{
+  "_comment": "Diglett's Cave: Brock (BONSLY for RHYHORN).",
+  "0": "A WHOLE bunch of DIGLETT popped outta the\\nground! I screamed. Out loud. In public.",
+  "1": "Brock: Lil spaces surrounded by rocks make\\nyou feel peaceful, right?\\fNo? Just me? I'm a rock guy.\\rAnyway, wanna swap numbers?\\nI give my number to EVERYBODY. {YESNO 0}\\n",
+  "2": "{STRVAR_1 3, 0, 0} saved Brock's number\\nin the Pokégear!",
+  "3": "Brock: I'd LOVE to scrap you!\\fHit me up Saturday nights! I'm always free.\\fALWAYS.",
+  "4": "Brock: I see... That's disappointin'.\\nStory of my life, honestly...\\fI'd love to scrap...",
+  "5": "Brock: Can we swap numbers? {YESNO 0}",
+  "6": "Brock: Ayo, you! Why don't you\\ntake a pic with me? {YESNO 0}",
+  "7": "Brock: Aight!\\nStand next to me and relax!\\r",
+  "8": "Brock: YES! Another great memory!\\nFor the scrapbook. I'm makin' a scrapbook.",
+  "9": "Brock: Well... That's OK.\\nI'm used to rejection.",
+  "10": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics.",
+  "11": "Brock: Ayo, {STRVAR_1 3, 0, 0}!\\nYou seen a homie called BONSLY?\\rThey say you gotta get it from\\na Egg...\\rI'm havin' a hard time findin' one.\\nIf you got a BONSLY,\\fcould you trade it for my RHYHORN? {YESNO 0}",
+  "12": "Brock: Ayo, {STRVAR_1 3, 0, 0}!\\nYou seen a homie called BONSLY?\\rThey say you gotta get it from a\\nEgg...\\rI'm havin' a hard time findin' one.\\nIf you got a BONSLY,\\fcould you trade it for my RHYHORN? {YESNO 0}",
+  "13": "Brock: Aight!\\nLet's trade!\\r",
+  "14": "Brock: I thought you might have one,\\nbut I guess it ain't that easy...\\rIf you find one, remember to trade\\nwith me, OK?",
+  "15": "Brock: I'm lookin' for BONSLY.\\nYou sayin' you'll trade\\fit for my RHYHORN? {YESNO 0}",
+  "16": "Brock: Good looks!\\nI been lookin' for BONSLY!\\rThe RHYHORN I gave you know the move\\nTaser Grill! I raised it from a Egg.\\rI'm so proud of it, 'cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!",
+  "17": "Brock: That RHYHORN I gave you know\\nTaser Grill! I raised it from a Egg.\\rI'm so proud of it, 'cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!\\n\\n",
+  "18": "Brock: Ayo, now!\\nThat ain't no BONSLY! That's a ROCK!\\fI know rocks!"
+}

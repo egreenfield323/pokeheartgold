@@ -1,0 +1,17 @@
+{
+  "_comment": "Phone: Josh.",
+  "1": "It was fun scrappin' you!\\nI'd love to swap numbers with\\fyou, please?\\fCome on, let's swap numbers! {YESNO 0}",
+  "2": "Good looks! Let's scrap\\nagain sometime!\\rJust hit me when you ready.",
+  "3": "Ulp!\\rYou sayin' you think I'm so weak,\\nI ain't even worth scrappin'?",
+  "4": "I'd do ANYTHING to get your\\nnumber!\\rPlease, let's swap numbers! {YESNO 0}",
+  "5": "Oh yeah.\\nThis a Shiny Stone.\\rIt's aight, don't be shy! You can\\nhave it. Go 'head!\\r",
+  "6": "Huh? Somethin' off about your\\nvoice... Don't tell me... You\\fstandin' right nearby, ain't you?\\rIf you already this close,\\nwhy not come talk in person?",
+  "7": "I'm still a lightweight, as usual...\\rMy day one, {STRVAR_1 0, 10, 0},\\nis grindin' hard!\\rIt even knocked out a {STRVAR_1 0, 11, 0} in\\nunder two seconds in a recent scrap!\\rOK, OK, two seconds is a lil\\ncap... It was actually five\\fminutes and 37 seconds...",
+  "8": "My {STRVAR_1 0, 10, 0} got pretty\\nstrong!\\rWell, it got strong, but this\\n{STRVAR_1 0, 11, 0} it was scrappin' dipped\\fbefore the fight was over...\\rThat was {STRVAR_1 0, 10, 0}'s fault, right?\\rIt was MY fault?\\rI guess that's possible!",
+  "9": "Earlier, I was deep in thought\\nwhile walkin'...\\rOutta nowhere this {STRVAR_1 0, 11, 0} jumped out!\\rI was pretty shook, and then it\\ndipped!\\rThinkin' about it, I had made\\nplans to trade with a homie, so I was\\flookin' for a {STRVAR_1 0, 11, 0}...\\rThat's too bad...",
+  "10": "Where you at now? I'm always on\\n{STRVAR_1 4, 3, 0} myself.\\rWhat you think about scrappin' me\\nagain? Sound like a good idea?\\fI'll be waitin'!",
+  "11": "I'm waitin' on {STRVAR_1 4, 3, 0}.\\nDon't forget!",
+  "12": "Ah... Ah... Achoo!\\rAh... Ah... Ah... Achoo!\\rOh, it's nothin'. It's just my bird\\nhomie started flappin' its\\fwings...so there's dust and stuff from\\ftheir wings floatin' 'round my face...\\fAh... Ah... Now my nose itchy...\\rAchoooo!",
+  "13": "My homie had somethin' in its\\nmouth recently.\\rI was like “What in the world?” and\\npulled it out... A Shiny Stone!\\fI was shook. Wouldn't you be?\\r...But what's a Shiny Stone?\\rI ain't got no use for it, and\\nI don't know what it's worth...so I'll\\fjust give it to you!\\rI'll wait for you on {STRVAR_1 4, 3, 0}.\\nCome get it!",
+  "14": "You want a Shiny Stone, right?\\nI'm on {STRVAR_1 4, 3, 0}. Come get it!"
+}

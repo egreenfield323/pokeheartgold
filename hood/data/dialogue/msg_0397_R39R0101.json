@@ -1,0 +1,17 @@
+{
+  "_comment": "Moomoo Farm house. The farmer sells Chocolate Mk (Moomoo Milk) and gives out Fruit Throw (Natural Gift).",
+  "0": "My MILTANK ain't givin' no milk no more.\\nShe on strike.\\rThis farm FAMOUS for milk. Chocolate\\nmilk. Don't ask how.\\rShe'd gimme more if I fed her\\nBerries. She want a raise. In snacks.",
+  "1": "You try my Chocolate Milk?\\rStraight from the cow. Chocolate.\\nDon't ask questions.\\rIt heal your homies' HP!\\rJust $500. That's a family discount. {YESNO 0}",
+  "2": "Here you go! Drink up!\\nIt's chocolate. From the cow. Science.\\r",
+  "3": "My bad. No bread, no milk!\\nThis a business, baby!",
+  "4": "Your Bag full, I reckon.",
+  "5": "You don't want it? Your loss.\\nCome back now, hear?",
+  "6": "I gotta go do my milkin'.\\nIt's a whole process. Don't watch.",
+  "7": "Our milk ship all the way to Kanto.\\rSo if our own MILTANK won't give milk,\\nwe broke. Like, BROKE broke.",
+  "8": "You fixed our MILTANK, baby!\\nShe givin' milk again! We RICH!\\rHere's somethin' for your trouble.",
+  "10": "That's Fruit Throw.\\rIts type and Power depend on\\nthe Berry your homie holdin'.\\rUse it once and the Berry gone.\\nThink about how you gon'\\fuse it, baby.",
+  "11": "Your Bag full, I reckon.",
+  "12": "{ALN_CENTER}1 BOTTLE",
+  "13": "{ALN_CENTER}1 DOZEN",
+  "14": "{ALN_CENTER}NAH"
+}

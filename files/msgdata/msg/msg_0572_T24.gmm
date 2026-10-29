@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0572_T24_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You crossed the sea to get here?\rThat must have been hard.\rIt would be much easier if your\nPokémon knew how to Catch Flight...\r</language>
+		<language name="English">You crossed the sea to get here?\rThat musta been rough.\rIt’d be way easier if your\nhomie knew how to Catch Flight...\r</language>
 	</row>
 	<row id="msg_0572_T24_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But you can’t use Catch Flight without\nthis city’s Block Chain.\rIf you beat the Block Boss here,\ncome see me.\fI’ll have a nice gift for you.</language>
+		<language name="English">But you can’t Catch Flight without\nthis city’s Block Chain.\rIf you beat the Block Boss here,\ncome see me.\fI got a nice gift for you.</language>
 	</row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -19,78 +19,78 @@
 	</row>
 	<row id="msg_0572_T24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach Catch Flight to your Pokémon.\rYou will be able to Catch Flight\ninstantly to anywhere you have visited.</language>
+		<language name="English">Teach Catch Flight to your homie.\rYou can Catch Flight anywhere\nyou been, instantly.</language>
 	</row>
 	<row id="msg_0572_T24_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My husband lost to you, so he needs\nto train harder.\rThat’s good, since he was getting a\nlittle chubby.</language>
+		<language name="English">My husband lost to you, so now he\ngotta train harder.\rGood. He was gettin’ CHUBBY. He think\nI don’t see him eatin’ cake at 3 AM.</language>
 	</row>
 	<row id="msg_0572_T24_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full.</language>
+		<language name="English">Your Bag full.</language>
 	</row>
 	<row id="msg_0572_T24_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">His only hobby is to battle\ntough Hustlers.\rDo you want to have my\nhusband’s phone number? {YESNO 0}</language>
+		<language name="English">His only hobby is scrappin’ tough\nHustlers and lyin’ about cake.\rYou want my husband’s number?\nPlease. Take him off my hands. {YESNO 0}</language>
 	</row>
 	<row id="msg_0572_T24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Chuck\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Chuck’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0572_T24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He takes a break from the pounding\nwaterfall on Wednesday nights.\rHe should be able to chat with\nyou then.</language>
+		<language name="English">He take a break from the waterfall on\nWednesday nights.\rCall him then. Ask him about the cake.</language>
 	</row>
 	<row id="msg_0572_T24_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see.\nMy husband won’t be a good match?</language>
+		<language name="English">Oh, I see. My husband ain’t good\nenough? I KNEW it. I’ll tell him you\fsaid that.</language>
 	</row>
 	<row id="msg_0572_T24_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to exchange your\nnumber for my husband’s? {YESNO 0}</language>
+		<language name="English">You wanna swap numbers\nwith my husband? {YESNO 0}</language>
 	</row>
 	<row id="msg_0572_T24_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you use Catch Flight, you can get\nback to Olivine instantly.</language>
+		<language name="English">If you use Catch Flight, you can\nget back to Olivine instantly.</language>
 	</row>
 	<row id="msg_0572_T24_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boulders to the north of town can\nbe crushed.\rThey may be hiding something.\nYour Pokémon could use Smash n Grab to\fbreak them.</language>
+		<language name="English">The boulders north of town can\nbe smashed.\rThey might be hidin’ somethin’.\nYour homie can Smash n Grab\f’em open.</language>
 	</row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck, the Block Boss, spars with\nhis Fighting-type Pokémon.</language>
+		<language name="English">Chuck, the Block Boss, spar with his\nFightin’ homies. And he lose to ’em.\fHis wife told me. She tell everybody.</language>
 	</row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWasn’t that SUICUNE just now?\rI only caught a quick glimpse, but I\nthought I saw SUICUNE running on\fthe waves.\rSUICUNE is beautiful and grand.\nAnd it races through towns and\froads at simply awesome speeds.\rIt’s wonderful...\rI want to see SUICUNE up close...\rI’ve decided.\nI’ll battle you as a Hustler to earn\fSUICUNE’s respect!\rCome on, {STRVAR_1 3, 0, 0}.\nLet’s battle now!</language>
+		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWas that SUICUNE just now?!\rI saw SUICUNE runnin’ ON THE WAVES!\nOn top of the WATER!\rIt’s beautiful and grand. And it race\nthrough towns at crazy speeds.\fSpeed limit don’t apply to legends.\rI wanna see it UP CLOSE...\rI decided. I’ma scrap you to earn\nSUICUNE’s respect. That’s how it work.\fI read it on a forum.\rC’mon, {STRVAR_1 3, 0, 0}! Right now!</language>
 	</row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re amazing, {STRVAR_1 3, 0, 0}!\rI’m starting to understand why SUICUNE\nwas keeping an eye on you.\rI’m finna keep searching\nfor SUICUNE.\rI have a feeling we’ll see each other\nagain. See you around!\r</language>
+		<language name="English">You amazin’, {STRVAR_1 3, 0, 0}!\rI get why SUICUNE watch you now.\rI’ma keep searchin’. I got a new\npair of binoculars. Night vision.\rWe gon’ see each other again!\nI’ll be in the bushes!\r</language>
 	</row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are several islands between\nhere and Olivine.\rA mythical sea creature supposedly\nlives there.</language>
+		<language name="English">There’s a few islands between here and\nOlivine.\rA mythical sea creature live out\nthere. My uncle say he saw it. He also\fsaw Elvis.</language>
 	</row>
 	<row id="msg_0572_T24_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City\nA Port of Crashing Waves</language>
+		<language name="English">Cianwood City\nWhere the Waves Crash. Loud.</language>
 	</row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City block\nLeader: Chuck\fHis Roaring Fists Do the Talking</language>
+		<language name="English">Cianwood City Block\nBoss: Chuck\fHis Fists Do the Talkin’</language>
 	</row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pharmacy\r500 Years of Tradition\nWe Await Your Medicinal Queries</language>
+		<language name="English">Cianwood City Pharmacy\r500 Years of Tradition\nAsk Us About Your Medicine</language>
 	</row>
 	<row id="msg_0572_T24_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the house of Cameron,\nthe Photographer.\fTake a Snapshot as a Keepsake!</language>
+		<language name="English">This is the house of Cameron,\nthe Photographer.\fTake a Pic to Remember!</language>
 	</row>
 	<row id="msg_0572_T24_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Entrance to the road for the\nSafari Zone.\rExperience thrilling encounters\nwith wild Pokémon for heart-to-heart\fcontact!\rThe Safari Zone is just around the\ncorner from this entrance!</language>
+		<language name="English">Entrance to the road for the\nSafari Zone.\rWild homies up close and\npersonal!\rThe Safari Zone is right around the\ncorner from this entrance!</language>
 	</row>
 </body>

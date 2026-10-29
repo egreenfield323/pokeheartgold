@@ -1,0 +1,13 @@
+{
+  "_comment": "Radio Tower roof. Archer's corporate takeover speech, the Rainbow/Silver Wing.",
+  "0": "Archer: Ohhh, so YOU the lil\\nmenace runnin' through my troops?\\fYou got heart, I give you that.\\rWe done RAIDED this whole Radio\\nTower, no warrant, no nothin'!\\rWe 'bout to go LIVE and tell the\\nwhole region The Feds is BACK!\\rThat should get the Big Boss\\nGiovanni to pull back up!\\rWe finna be on top again,\\nbruh! Plates on plates!\\rAnd you just a lil speed bump!\\nYou got the right to remain SILENT!\\r",
+  "1": "Archer: Nah... NAH...\\rYou mean to tell me I got\\nwashed by a CHILD?!\\rThat's it. I'm takin' my badge,\\nmy gun, and my lil lanyard...\\rThe Feds is OFFICIALLY disbanded.\\nI'm finna go sell insurance...\\r",
+  "2": "Director: Oh...!\\rYou already beat 'em?\\nGood looks!\\rYour bravery saved homies\\nall over the country.\\rYou deserve this.\\nPlease take it!\\r",
+  "3": "{STRVAR_1 3, 0, 0} got\\nthe Rainbow Wing!",
+  "4": "{STRVAR_1 3, 0, 0} got\\nthe Silver Wing!",
+  "5": "There used to be a tower right here.\\rWhen they replaced it with the\\nRadio Tower, they found that Rainbow\\fWing at the top of the tower.\\rA homie from Cianwood City told me\\nyou can climb the Bell Tower in\\fEcruteak City with a\\fRainbow Wing.\\rI gotta get back to my office.\\nLater!\\r",
+  "6": "There used to be a tower right here.\\rWhen they replaced it with the\\nRadio Tower, they found that Silver\\fWing at the top of the tower.\\rA homie from Cianwood City told me\\nyou can go down the cave in the Whirl\\fIslands with a Silver Wing.\\rI gotta get back to my office.\\nLater!\\r",
+  "7": "Oh, I almost forgot!\\rMy homie from Cianwood City said\\nthe legendary homie won't\\fshow up if you just go to the top of\\fthe Bell Tower with only that\\fRainbow Wing.\\rYou need somethin' else...\\nOr somethin' like that.\\rWhat was it...\\rI can't remember.\\r",
+  "8": "Oh, I almost forgot!\\rMy homie from Cianwood City said\\nthe legendary homie won't\\fshow up if you just go down the cave\\fin the Whirl Islands with only that\\fSilver Wing.\\rYou need somethin' else...\\nOr somethin' like that.\\rWhat was it...\\rI can't remember.\\r",
+  "9": "You expectin' somethin'?\\nThis what they call Ankle Break.\\rI REALLY gotta get back to my\\noffice this time. Later!\\r"
+}

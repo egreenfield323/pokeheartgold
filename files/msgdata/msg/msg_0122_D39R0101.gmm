@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0122_D39R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see the item over there?\rIt was me who dropped it, but I cannot\nget over there to pick it up.\rWhy?\rWalking on ice makes your feet freeze!\rMy shoes are so worn that the soles\nare gone!</language>
+		<language name="English">You see that over there?\rI dropped it, but I can’t get to it.\rWhy? Walkin’ on ice FREEZE your feet!\rMy shoes so beat up the soles GONE.\nI’m walkin’ on socks. On ICE.</language>
 	</row>
 	<row id="msg_0122_D39R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see the item over there?\rIt was me who dropped it, but I cannot\nget over there to pick it up.\rWhy?\rWalking on ice makes your feet freeze!\rMy shoes are so worn that the soles\nare gone!\r</language>
+		<language name="English">You see that over there?\rI dropped it, but I can’t get to it.\rWhy? Walkin’ on ice FREEZE your feet!\rMy shoes so beat up the soles GONE.\nI’m walkin’ on socks. On ICE.\r</language>
 	</row>
 	<row id="msg_0122_D39R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The item you picked up over there...\nit was an HM, wasn’t it?\rI am the one who dropped it...but I\nwant you to keep it.\fYou took the time to get it, right?\rIt contains Wet Ya Up.\nHave fun climbing waterfalls!\rMe?\rI still need a new pair of shoes\nbefore I can enjoy waterfalls.</language>
+		<language name="English">That thing you picked up over there...\nit was a HM, wasn’t it?\rI’m the one who dropped it...but I\nwant you to keep it.\fYou put in the work, right?\rIt’s Wet Ya Up.\nHave fun climbin’ waterfalls!\rMe?\rI need new shoes before I\ncan enjoy no waterfalls.</language>
 	</row>
 	<row id="msg_0122_D39R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me oh my...\nIs that you, {STRVAR_1 3, 0, 0}?\fFancy meeting you here!\rTo tell the truth...my sandals are\nfrozen on the ice, and I am stuck here.\rIn other words, my flip-flops are\nquick-frozen to the ground.\rTee hee.\rWell, it’s no laughing matter. Would you\ncome around and push my back?</language>
+		<language name="English">Oh my... Is that you, {STRVAR_1 3, 0, 0}?\fFancy seein’ you here!\rTruth is...my sandals is frozen to the\nice. I’m stuck. Been stuck since\fTuesday.\rI wore flip-flops to a ICE CAVE. I\nknow. I KNOW.\rTee hee.\rWell, it ain’t funny. Could you come\naround and push me?</language>
 	</row>
 	<row id="msg_0122_D39R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me oh my...\nIs that you, {STRVAR_1 3, 0, 0}?\fFancy meeting you here!\rTo tell the truth...my sandals are\nfrozen on the ice, and I am stuck here.\rIn other words, my flip-flops are\nquick-frozen with the ground.\rTee hee.\rWell, it’s no laughing matter.\nWould you push my back? {YESNO 0}</language>
+		<language name="English">Oh my... Is that you, {STRVAR_1 3, 0, 0}?\fFancy seein’ you here!\rTruth is...my sandals is frozen to the\nice. I’m stuck. Been stuck since\fTuesday.\rI wore flip-flops to a ICE CAVE. I\nknow. I KNOW.\rTee hee.\rWell, it ain’t funny. Could you push me?\n{YESNO 0}</language>
 	</row>
 	<row id="msg_0122_D39R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,10 +26,10 @@
 	</row>
 	<row id="msg_0122_D39R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t be so cruel.\nYou will push my back,\fwon’t you? {YESNO 0}</language>
+		<language name="English">Don’t be so COLD. Literally.\nYou gon’ push me, right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0122_D39R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You really are kind.\rThank you so much!\r</language>
+		<language name="English">You DEADASS sweet.\rGood looks! Now I just gotta find\nmy other sandal...\r</language>
 	</row>
 </body>

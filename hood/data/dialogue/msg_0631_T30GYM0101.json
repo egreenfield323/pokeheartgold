@@ -1,0 +1,15 @@
+{
+  "_comment": "Blackthorn block. Clair: 'world's best Dragon master', refuses to hand over the Chain.",
+  "0": "Yo! Future Kingpin!\\rThe floor in here unstable. It's LAVA,\\nbro. Who approved this?!\\rClair use mythical, SACRED Dragon homies.\\nThey don't take damage easy.\\rBut they weak to Ice moves.\\nShe hate when people know that.",
+  "1": "AYO! You beat Clair! HARD!\\rWhatever she say, you a real Hustler.\\nI think. Don't quote me.\\rI'd still do what Clair say though.\\nShe PETTY. She'll key your car.",
+  "2": "Yo! Future Kingpin!\\rThe floor in here unstable. It's LAVA,\\nbro. Who approved this?!\\rClair use mythical, SACRED Dragon homies.\\nThey don't take damage easy.\\rBut they weak to Ice moves.\\nShe hate when people know that.\\r",
+  "3": "Clair: I'm Clair.\\rThe WORLD'S best Dragon master. I could\\nbeat the Elite Four. I just choose not to.\\rYou still wanna run up on ME?\\r...Fine. Let's do this.\\nDon't cry when I win. It's tacky.\\rAs a Block Boss, I go FULL POWER!\\nOn everybody! Even kids! ESPECIALLY kids!\\r",
+  "4": "Clair: I DON'T accept this.\\rI might've lost, but you still ain't ready\\nfor the Big League. I said so.\\rI know. Take the Dragon-master test.\\rBehind this Block is the Dragon's Den.\\nThere's a shrine in the middle. Go there.\\rProve you lost your lazy ideals,\\nand MAYBE I'll give you a Chain.\\fMaybe. I'm emotional right now.",
+  "5": "Clair: What's the matter?\\rToo much for you? Typical.",
+  "6": "Clair: You KEPT me waitin'!\\nDo you know who I AM?!\\rHere! Take this!\\r",
+  "7": "Clair: That's Dragon Beam.\\rWell, Dragon Beam is like...umm...\\nNever mind!\\rIt's some kinda huge energy.\\nIf you don't want it, you don't\\fhave to take it. Whatever.\\r",
+  "8": "What is this? You ain't got room?",
+  "9": "Clair: What's the matter?\\rAin't you headed to the Big League?\\rYour face tellin' me you got unfinished\\nbusiness... It's a very readable face.\\rHold up! You came from New Bark Town,\\nwhere Professor Elm's Lab is, right?\\rGo back to New Bark Town.\\rWhatever you gotta face, it's gon' be\\nharder.\\rBut don't you DARE give up!\\rIf you do, I'ma feel even WORSE about\\nlosin' to you!\\r...\\nGive it everythin'.",
+  "10": "Blackthorn City Block\\nLava Floor. Watch Your Step.",
+  "11": "Blackthorn City Block\\rBoss: Clair\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0051_D02R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Mt. Moon Square.\rPlease don’t litter. Put trash\nwhere it belongs!</language>
+		<language name="English">This Mt. Moon Square.\rDon’t litter. Put trash\nwhere it belong!</language>
 	</row>
 	<row id="msg_0051_D02R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,10 +18,10 @@
 	</row>
 	<row id="msg_0051_D02R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0, 0}!\rToo bad!\nThe Bag is full...</language>
+		<language name="English">Got the {STRVAR_1 8, 0, 0}!\rToo bad!\nThe Bag full...</language>
 	</row>
 	<row id="msg_0051_D02R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are closed for the day.</language>
+		<language name="English">We closed for the day.</language>
 	</row>
 </body>

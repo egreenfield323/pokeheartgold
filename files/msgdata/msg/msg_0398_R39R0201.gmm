@@ -2,39 +2,39 @@
 <body language="English">
 	<row id="msg_0398_R39R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moomoo is sick...\fShe needs lots of Oran Berries.\r</language>
+		<language name="English">Moomoo SICK...\fShe need a whole LOTTA Takis.\nShe a Takis addict. We ain’t proud.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks!\nMoomoo is totally healthy again!\rI’ll give you these Seals for\nyour trouble.\r</language>
+		<language name="English">GOOD LOOKS! Moomoo all better!\nShe back on her Takis grind!\rHere go some Seals for your trouble.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shocking!\nI really want to give you some\fSeals, but you don’t have a\fSeal Case...\rBut don’t you worry.\nMy sister can give you a Seal Case!\r</language>
+		<language name="English">Shockin’!\nI wanna give you some\fSeals, but you ain’t got a\fSeal Case...\rDon’t worry, though.\nMy sister can give you a Seal Case!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha!\nYour Seal Case is full!\r</language>
+		<language name="English">Ha!\nYour Seal Case full!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moomoo is totally healthy again!\r</language>
+		<language name="English">Moomoo all better!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moomoo is sick...\fShe needs lots of Oran Berries.\r</language>
+		<language name="English">Moomoo SICK...\fShe need a whole LOTTA Takis.\nShe a Takis addict. We ain’t proud.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks!\nMoomoo is totally healthy again!\rI’ll give you this Seal Case for\nyour trouble.\r</language>
+		<language name="English">Good looks!\nMoomoo all better!\rI’ll give you this Seal Case for\nyour trouble.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can customize your Hood Balls.\rSelect “BALL CAPSULES” from\nyour PC, and stick your Seals any way\fyou like on a Capsule, then put the\fCapsule on any of your Hood Balls.\rTry different things, and you’ll see.\nMy sister can give you Seals!\r</language>
+		<language name="English">You can customize your Hood Balls.\rPick “BALL CAPSULES” on\nyour PC, stick Seals however\fyou want on a Capsule, then put\fthe Capsule on a Hood Ball.\rTry different stuff, you’ll see.\nMy sister can give you Seals!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We sell Moomoo Milk at home.\fDon’t forget to drop by!\r</language>
+		<language name="English">We sell Chocolate Milk at the house.\fDon’t forget to stop by!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0398_R39R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its cry is weak...</language>
+		<language name="English">Its moo is weak... It’s withdrawin’...</language>
 	</row>
 	<row id="msg_0398_R39R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,38 +50,38 @@
 	</row>
 	<row id="msg_0398_R39R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s brimming with energy.</language>
+		<language name="English">It’s full of energy. And Takis dust.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give an Oran Berry to MILTANK? {YESNO 0}</language>
+		<language name="English">Give MILTANK some Takis? {YESNO 0}</language>
 	</row>
 	<row id="msg_0398_R39R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} gave an Oran Berry\nto MILTANK.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} gave some Takis\nto MILTANK.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK became a little healthier!</language>
+		<language name="English">MILTANK feelin’ a lil better!\nIt’s lickin’ its lips.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK is getting healthier!</language>
+		<language name="English">MILTANK gettin’ healthier!</language>
 	</row>
 	<row id="msg_0398_R39R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK became totally healthy!</language>
+		<language name="English">MILTANK ALL the way better! It’s\nhype!</language>
 	</row>
 	<row id="msg_0398_R39R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} has no Oran Berries...</language>
+		<language name="English">{STRVAR_1 3, 0, 0} ain’t got no Takis...</language>
 	</row>
 	<row id="msg_0398_R39R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} wouldn’t give\nan Oran Berry.\rMILTANK looks sad.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} wouldn’t share the Takis.\rMILTANK look SO sad. You cold, bro.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0, 0} were\nput away in the Seal Case!</language>
+		<language name="English">The {STRVAR_1 10, 0, 0} went\nin the Seal Case!</language>
 	</row>
 </body>

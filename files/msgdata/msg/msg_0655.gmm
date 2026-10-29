@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0655_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well.\nI wonder if it’s our connection?\rTry calling again from somewhere else.</language>
+		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0655_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nAnything new going on with you?\fI’m the same as usual.\r</language>
+		<language name="English">Wassup...\nAnything new goin’ on with you?\fI’m the same as usual. I already knew.\r</language>
 	</row>
 	<row id="msg_0655_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are stronger Block Bosses\nthan me, you know. That’s no good!</language>
+		<language name="English">There’s stronger Block Bosses\nthan me, you know. That’s no good!</language>
 	</row>
 	<row id="msg_0655_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I’ve got some free time on\nSundays around noon.\rCould you call me back then?</language>
+		<language name="English">I think I got some free time on\nSundays around noon.\rCould you call me back then?</language>
 	</row>
 	<row id="msg_0655_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, wonderful!\nI’ve got some free time right now.\rWould you like to battle again? {YESNO 0}</language>
+		<language name="English">Ah, wonderful!\nI got some free time right now.\rYou wanna scrap again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0655_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it. That’s just like you.\rSo, I’ll see you at the Fighting Dojo in\nSaffron City then!</language>
+		<language name="English">I knew it. That’s just like you.\rSo, I’ll see you at\nthe Saffron Dojo then!</language>
 	</row>
 	<row id="msg_0655_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nYou have the right to refuse an offer.\fI shouldn’t have gotten my hopes up.\fBut I’m still a little disappointed...</language>
+		<language name="English">I see...\nYou got the right to say no.\fI shouldn’t have got my hopes up.\fBut I’m still a lil disappointed...</language>
 	</row>
 	<row id="msg_0655_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you really have some free time to\nbattle me?\rIf you’ve got plans with other people,\nyou should really do that first.</language>
+		<language name="English">You deadass got free time to\nscrap me?\rIf you got plans with other people,\nyou should do that first.</language>
 	</row>
 	<row id="msg_0655_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting in Saffron City’s\nFighting Dojo. Don’t forget!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\nDon’t forget!</language>
 	</row>
 	<row id="msg_0655_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, this is Sabrina.\nHow are you doing?\r</language>
+		<language name="English">Yeah, this Sabrina.\nI knew you’d call.\r</language>
 	</row>
 	<row id="msg_0655_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, I’m pretty sure we made plans to\nmeet at the Fighting Dojo in\fSaffron City... Did you really forget?</language>
+		<language name="English">So, I’m pretty sure we made plans to\nmeet at the Fighting Dojo in\fSaffron City... You REALLY forgot?</language>
 	</row>
 	<row id="msg_0655_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you a little about a Psychic’s\ntraining.\rPsychic ability is the power to influence\npeople.\rYou close your eyes and clear your mind\nof excessive thoughts...then you look\fhard at your sleeping self.\rThat’s it.\rTrue Psychics ain’t the kind who can\nmove things around with their minds.\rIt’s about controlling your own mind.</language>
+		<language name="English">Lemme tell you a lil about a Psychic’s\ntrainin’.\rPsychic ability is the power to\ninfluence people.\rYou close your eyes and clear your\nmind of extra thoughts...then you look\fhard at your sleepin’ self.\rThat’s it.\rReal Psychics ain’t the kind who\nmove stuff with their minds.\rIt’s about controllin’ your own mind.</language>
 	</row>
 	<row id="msg_0655_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You... You’ll become even stronger\nthan you are now, I know it...\rYou will defeat every Hustler you face\nand eventually reach the\fglowing glory...\rI just wanted to tell you that.\nTalk to you later!</language>
+		<language name="English">You... You gon’ get even stronger\nthan you now, I know it...\rYou gon’ beat every Hustler you face\nand eventually reach the\fglowin’ glory...\rI just wanted to tell you that.\nTalk to you later!</language>
 	</row>
 	<row id="msg_0655_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are a great Hustler, with a good\nbalance between intellect, power, and\fyour heart.\rBut above all, the power of your heart\nis what is special.\rWhat do you think of honestly trying to\nstudy how to be a Psychic once to see?\rI bet you could become a better Psychic\nthan me if you tried...</language>
+		<language name="English">You a great Hustler, with a good\nbalance of brains, power, and\fheart.\rBut above all, the power of your heart\nis what’s special.\rWhat you think about honestly tryin’\nto study bein’ a Psychic once?\rBet you could be a better Psychic\nthan me if you tried...</language>
 	</row>
 </body>

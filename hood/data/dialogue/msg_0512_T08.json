@@ -1,0 +1,19 @@
+{
+  "_comment": "Fuchsia City. (Same Shards-for-Berries flipper as Violet, sets E-H.)",
+  "0": "One of the Elite Four used to be Boss of\\nFuchsia's Block. Koga. The ninja.\\fHe's prob'ly watchin' us right now.",
+  "1": "Koga's daughter took over the Block when\\nhe joined the Elite Four.\\rShe talk about him NONSTOP. It's a lot.",
+  "2": "The Safari Zone was closed for a while.\\rThen it MOVED to Johto before I even knew.\\fNobody told me. I'm the mayor.\\rIt was this city's main attraction.\\nNow we got... a park. Pal Park.",
+  "3": "Fuchsia City\\nHappenin' and Passin' City",
+  "4": "Fuchsia City Block\\nBoss: Janine\\fNinja. Prob'ly Behind You.",
+  "5": "There's a notice here...\\rThe Safari Zone is closed.\\fInstead, we got Pal Park.",
+  "6": "Home of the Pal Park Warden",
+  "7": "Shards for Berries!\\nShards for Berries!\\rYeah, yeah!\\nI flip Shards into Berries.\\rBring me Shards and I'll\\nbless you with three Berries!\\r",
+  "8": "Shards for Berries!\\nShards for Berries!\\rYeah, yeah!\\nI flip Shards into Berries.\\rBring me Shards and I'll\\nbless you with three Berries!\\rWhich Shard you tradin'\\nfor Berries? {YESNO 0}",
+  "9": "Got more Shards to flip\\nfor Berries? {YESNO 0}",
+  "10": "Bet, bet!\\nCome back when you\\fchange your mind!\\r",
+  "11": "Berry set E for the\\nRed Shard. Deal!\\r",
+  "12": "Berry set F for the\\nBlue Shard. Deal!\\r",
+  "13": "Berry set G for the\\nYellow Shard. Deal!\\r",
+  "14": "Berry set H for the\\nGreen Shard. Deal!\\r",
+  "15": "You already got a lot of\\nBerries from this set.\\rCome back when you run out!\\r"
+}

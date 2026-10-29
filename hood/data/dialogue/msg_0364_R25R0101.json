@@ -1,0 +1,22 @@
+{
+  "_comment": "Bill's grandpa, who wants to see specific homies.",
+  "0": "Hmm? You here for my grandson?\\nHis name Bill. THE Bill.\\rHe in Johto. He do somethin' with PCs.\\nI don't understand it. I'm house-sittin'.\\fAnd eatin' his food.\\r",
+  "1": "Ah, my grandson talked about a round,\\nblue homie with leaves\\fgrowin' on its head.\\r",
+  "2": "Bill told me about a homie that's\\nREAL loyal to its Hustler.\\fIt's a Fire-type homie that's\\fsupposed to Roar real good.\\r",
+  "3": "You know that homie with big,\\nround eyes?\\rThe one that sing a lullaby with\\nits cute lil voice!\\r",
+  "4": "You know that SUPER popular\\nhomie?\\rThe one with the yellow body\\nand bright red cheeks...\\rI'd love to see what it look\\nlike before it evolve.\\r",
+  "5": "I heard there's a blue, round\\nhomie in Johto.\\rBill said the end of its tail\\nwork like a float.\\rIts belly white. Just the belly.\\nI'd love to see it.\\r",
+  "6": "My grandson Bill told me about a\\nhomie with a long tongue.\\rIt got ring marks on the front\\nof its legs, he said!\\r",
+  "7": "Ah, my grandson talked about a round,\\nblue homie with leaves\\fgrowin' on its head.\\r",
+  "8": "You know a sea homie that\\ngot a red ball in its body?\\fYou know, the one shaped like\\fa star?\\rI heard it come out at night.\\nI'd sure like to see it.\\r",
+  "9": "I heard about a cute homie that\\ngot six tails.\\rI'd love to hug a cute homie\\nlike that.\\r",
+  "10": "You know that SUPER popular\\nhomie?\\rThe one with the yellow body\\nand bright red cheeks...\\rI'd love to see what it look\\nlike before it evolve.\\r",
+  "11": "If you got that homie, can I see it,\\nPLEASE? I'm old. Humor me. {YESNO 0}",
+  "12": "You gon' show me?\\nThat's so sweet!\\r",
+  "13": "You ain't got it? That's too bad...\\nI might not be around much longer, you know.\\fJK. I'm healthy as a horse.",
+  "14": "Hm?\\rThat ain't the homie I was\\ntold about...",
+  "15": "Sheesh!\\nThat homie is called {STRVAR_1 0, 0, 0}!\\rIt's a wonderful homie!\\nAs a thank-you,\\fI wanna give you this!\\r",
+  "16": "Come back and visit\\nsometime.",
+  "17": "Good looks for showin' me so many cute\\nhomies.\\rI DEADASS enjoyed myself.\\nI'm glad I lived this long. And I'ma live\\flonger. Out of spite.",
+  "18": "There's a dusty machine under the cloth...\\fAin't been used in a while.\\fBill's old teleporter. It ate a sandwich."
+}

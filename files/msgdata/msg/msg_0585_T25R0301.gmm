@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0585_T25R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you treat your Pokémon nicely,\nthey will love you in return.\rOh? Let me see your Pokémon...\r</language>
+		<language name="English">I’m a homie whisperer. Certified.\nBy me.\rTreat your homies right, they ride\nfor you. Lemme read yours...\r</language>
 	</row>
 	<row id="msg_0585_T25R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It looks really happy!\nIt must love you a lot.</language>
+		<language name="English">It look SO happy!\nIt would take a bullet for you.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I get the feeling that it really\ntrusts you.</language>
+		<language name="English">It deadass trust you.\nLike I trust my barber.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s friendly toward you.\nIt looks sort of happy.</language>
+		<language name="English">It’s cool with you. It look kinda\nhappy. Like a Tuesday.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s quite cute.</language>
+		<language name="English">It’s real cute. That’s all I got.\nI’m still learnin’.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should treat it better.\nIt’s not used to you.</language>
+		<language name="English">You should treat it better. It\nlook at you like I look at my\flandlord.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t seem to like you at all.\nIt looks mean.</language>
+		<language name="English">It don’t like you AT ALL. It’s\nplottin’. I can see it in the eyes.\fSleep with one eye open, fr.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, you broke in?! I’m calling\nthe cops AND my mama.\rI keep losing in battles, and my\nPokémon end up fainting...\rMaybe that’s why my Pokémon don’t\nlike me much...</language>
+		<language name="English">I keep losin’ scraps and my homies\nkeep faintin’...\rMaybe that’s why my homies don’t\nlike me. Or maybe it’s the cologne.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How you get past the dog?!\nAight. Hands where I can see ’em.\rWhen I use an item on my Pokémon,\nit acts really glad!</language>
+		<language name="English">When I use stuff on my homies,\nthey act SO glad!\rI gave mine a Hennessy. Now it\nwon’t stop callin’ its ex.</language>
 	</row>
 </body>

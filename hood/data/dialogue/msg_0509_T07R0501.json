@@ -1,0 +1,23 @@
+{
+  "_comment": "Game Corner prize exchange (the prize menu rows stay as they are).",
+  "0": "I wanted PORYGON, but I was short 100\\nCoins... 100! After TWO WEEKS!",
+  "1": "Whew...\\rGotta stay calm and collected...\\rIf I spend all my time here, I'ma be in\\ntrouble at home. Too late. I'm already\\fin trouble.",
+  "2": "I woke up and saw my potential!\\rSo what potential woke up in me?\\nWhat's my hidden power, you ask?\\rIt's a power that let me see the\\nHidden Strap of a homie.\\rWhen they learn that move, I can\\ntell what type it's gon' be.\\rSo, want me to use my hidden power?\\rI'll tell you what type your\\nhomie's Hidden Strap gon' be. {YESNO 0}",
+  "3": "I'll tell you what type your homie's\\nHidden Strap gon' be.\\rMy own hidden power let me\\ndo that. {YESNO 0}",
+  "4": "If this homie learned\\nHidden Strap, the move's type\\fwould be {STRVAR_1 15, 0, 0}.",
+  "5": "This homie's Hidden Strap is the\\n{STRVAR_1 15, 0, 0} type.",
+  "6": "If you wanna know, ask me, and I'll\\nactivate my hidden power for you.",
+  "7": "A move a Egg can learn?!\\nThat's flat-out impossible.",
+  "8": "Oh, no. This homie can't learn the\\nmove Hidden Strap in the first place.",
+  "9": "Welcome!\\rWe trade your Coins for hard prizes!\\nDon't ask how much you spent. {YESNO 0}",
+  "10": "Aight. Save your Coins and come back!\\nThey always come back.",
+  "11": "Sorry! You need more coins. {YESNO 0}",
+  "12": "{STRVAR_1 8, 0, 0}.\\nThat right? {YESNO 0}",
+  "13": "Here you go!\\r",
+  "14": "Sorry. You can't carry no more.\\r",
+  "15": "Your crew full!\\nMake some room\\fbefore you come back.",
+  "16": "You want {STRVAR_1 0, 1, 0}? {YESNO 0}",
+  "17": "{STRVAR_1 3, 0, 0} got\\nthe {STRVAR_1 0, 1, 0}! {YESNO 0}",
+  "18": "Welcome!\\rWe trade your coins for\\nhard prizes! {YESNO 0}",
+  "19": "You put the {STRVAR_1 8, 0, 0}\\nin the {STRVAR_1 18, 1, 0} Pocket. {YESNO 0}"
+}

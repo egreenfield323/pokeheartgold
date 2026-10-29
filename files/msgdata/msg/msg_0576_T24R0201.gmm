@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0576_T24R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I... I’m in shock!\rA guy about your age with piercing\neyes and long hair came in.\rHe scared me into giving him my\nprized Pokémon!\rI still have one left, but what if\nhe comes back?\rYou look strong.\nCould you look after my Pokémon\ffor a while? {YESNO 0}</language>
+		<language name="English">I... I’m in SHOCK!\rSome kid with red hair and mean eyes\ncame in here.\rHe scared me into givin’ him my BEST\nhomie! I got FINESSED!\rI still got one left, but what if he\ncome back?! He know where I live!\rYou look strong. Hold my homie for\na while? Like witness protection? {YESNO 0}</language>
 	</row>
 	<row id="msg_0576_T24R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, good looks!\nTake good care of it, please!\r</language>
+		<language name="English">Oh, good looks!\nTake care of it, please!\r</language>
 	</row>
 	<row id="msg_0576_T24R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\na Pokémon!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\na homie!</language>
 	</row>
 	<row id="msg_0576_T24R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon party is full.</language>
+		<language name="English">Your crew full.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no... What’ll I do if he comes back?</language>
+		<language name="English">Oh, no... What I’ma do if he come back?\nI’m movin’. Tonight. I’m movin’.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! How’s my Pokémon?\rI think I’m safe now, so may I have\nit back? {YESNO 0}</language>
+		<language name="English">Ayo! How my homie doin’?\rI think I’m safe now, so can I\nget it back? {YESNO 0}</language>
 	</row>
 	<row id="msg_0576_T24R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! How’s my Pokémon?</language>
+		<language name="English">Ayo! How my homie doin’?</language>
 	</row>
 	<row id="msg_0576_T24R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,30 +34,30 @@
 	</row>
 	<row id="msg_0576_T24R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, that’s not my Pokémon.</language>
+		<language name="English">Ayo, that ain’t my homie.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon has come to like you.\rAll right, you should keep it.\nBut promise to be good to it!</language>
+		<language name="English">My homie started likin’ you MORE than\nme.\rAight, keep it. I see how it is. Just\npromise you’ll be good to it.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no, no...\nThat’s the same as being robbed.</language>
+		<language name="English">Oh, no, no... That’s the same as\ngettin’ robbed. AGAIN.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For Pokémon, happiness is being\nwith a person who treats them well.</language>
+		<language name="English">For homies, happiness is bein’ with\nsomebody who treat ’em right.\fFor me, it’s bein’ with nobody. Safer.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIt’s holding an item.\fYou should keep that.</language>
+		<language name="English">Huh?\nIt’s holdin’ somethin’.\fYou keep that.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIts Hood Ball has a Ball Capsule on it!\fPlease remove it.</language>
+		<language name="English">Huh?\nIt got a Ball Capsule on its Ball!\fTake that off, please.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nYou...only have one Pokémon!\fYou can’t give it back to me then.</language>
+		<language name="English">Huh?\nYou...only got one homie!\fThen you can’t give it back to me.</language>
 	</row>
 </body>

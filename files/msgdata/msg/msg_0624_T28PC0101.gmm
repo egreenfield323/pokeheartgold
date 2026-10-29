@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0624_T28PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s this? The Feds has\ncome back?\rI saw some men in black at the\nLake of Rage.</language>
+		<language name="English">What’s this? The Feds BACK?\rI saw men in black at the Lake of\nRage. Sunglasses. At NIGHT. That’s\fsuspicious.</language>
 	</row>
 	<row id="msg_0624_T28PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I stop my Pokémon from evolving too\nearly.\rI make them learn certain moves before\nI let them evolve.</language>
+		<language name="English">I stop my homies from evolvin’ too\nearly.\rThey gotta learn certain moves first.\nThey gotta EARN that glow-up.</language>
 	</row>
 	<row id="msg_0624_T28PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon do become stronger when they\nevolve, but they also learn moves\fmore slowly.</language>
+		<language name="English">Homies get stronger when they evolve,\nbut they learn moves slower.\fLike gettin’ a promotion. Less doin’,\fmore meetings.</language>
 	</row>
 </body>

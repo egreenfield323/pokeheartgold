@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0364_R25R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm? You are here for my grandson?\nHis name is Bill.\rHe’s in Johto.\nHe does something with PCs,\fso I’m house-sitting.\r</language>
+		<language name="English">Hmm? You here for my grandson? His\nname Bill. THE Bill.\rHe in Johto. He do somethin’ with PCs.\nI don’t understand it. I’m\fhouse-sittin’.\fAnd eatin’ his food.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
+		<language name="English">Ah, my grandson talked about a round,\nblue homie with leaves\fgrowin’ on its head.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill told me about a Pokémon that is\nvery loyal to its Hustler.\fIt’s a Fire-type Pokémon that’s\fsupposed to Roar well.\r</language>
+		<language name="English">Bill told me about a homie that’s\nREAL loyal to its Hustler.\fIt’s a Fire-type homie that’s\fsupposed to Roar real good.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that Pokémon with large,\nround eyes.\rThe one that sings a lullaby with\nits cute voice!\r</language>
+		<language name="English">You know that homie with big,\nround eyes?\rThe one that sing a lullaby with\nits cute lil voice!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
+		<language name="English">You know that SUPER popular\nhomie?\rThe one with the yellow body\nand bright red cheeks...\rI’d love to see what it look\nlike before it evolve.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that there is a blue and round\nPokémon in Johto.\rBill told me that the end of its tail\nworks like a float.\rIts belly is white. Just the belly.\nI would love to see what it looks like.\r</language>
+		<language name="English">I heard there’s a blue, round\nhomie in Johto.\rBill said the end of its tail\nwork like a float.\rIts belly white. Just the belly.\nI’d love to see it.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandson Bill told me about a\nPokémon that has a long tongue.\rIt has ringlike marks on the front\nof its legs, he said!\r</language>
+		<language name="English">My grandson Bill told me about a\nhomie with a long tongue.\rIt got ring marks on the front\nof its legs, he said!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
+		<language name="English">Ah, my grandson talked about a round,\nblue homie with leaves\fgrowin’ on its head.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know of a sea Pokémon that\nhas a red sphere in its body?\fYou know, the one that’s shaped like\fa star?\rI heard that it appears at night.\nI would surely like to see it.\r</language>
+		<language name="English">You know a sea homie that\ngot a red ball in its body?\fYou know, the one shaped like\fa star?\rI heard it come out at night.\nI’d sure like to see it.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard about a cute Pokémon that\nhas six tails.\rI would love to hug a cute Pokémon\nlike that.\r</language>
+		<language name="English">I heard about a cute homie that\ngot six tails.\rI’d love to hug a cute homie\nlike that.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
+		<language name="English">You know that SUPER popular\nhomie?\rThe one with the yellow body\nand bright red cheeks...\rI’d love to see what it look\nlike before it evolve.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you have that Pokémon,\nmay I see it, please? {YESNO 0}</language>
+		<language name="English">If you got that homie, can I see it,\nPLEASE? I’m old. Humor me. {YESNO 0}</language>
 	</row>
 	<row id="msg_0364_R25R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You will show me?\nHow good of you!\r</language>
+		<language name="English">You gon’ show me?\nThat’s so sweet!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have it?\nThat’s too bad...</language>
+		<language name="English">You ain’t got it? That’s too bad... I\nmight not be around much longer, you\fknow.\fJK. I’m healthy as a horse.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm?\rThat’s not the Pokémon that I was\ntold about...</language>
+		<language name="English">Hm?\rThat ain’t the homie I was\ntold about...</language>
 	</row>
 	<row id="msg_0364_R25R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh!\nThat Pokémon is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful Pokémon!\nAs a token of my appreciation,\fI would like to give this to you!\r</language>
+		<language name="English">Sheesh!\nThat homie is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful homie!\nAs a thank-you,\fI wanna give you this!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come visit again\nsometime.</language>
+		<language name="English">Come back and visit\nsometime.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for showing me so many\ncute Pokémon.\fI really enjoyed myself.\rI’m glad I’ve lived such a long life.</language>
+		<language name="English">Good looks for showin’ me so many\ncute homies.\rI DEADASS enjoyed myself. I’m glad I\nlived this long. And I’ma live\flonger. Outta spite.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a dusty machine under\nthe cloth cover...\fIt has not been used for some time.</language>
+		<language name="English">There’s a dusty machine under the\ncloth...\fAin’t been used in a while.\fBill’s old teleporter. It ate a\nsandwich.</language>
 	</row>
 </body>

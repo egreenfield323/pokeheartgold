@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0577_T24R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? You need medicine?\nYour Pokémon appear to be fine.\fIs something worrying you?\r...\rThe Lighthouse Pokémon is in trouble?\rI got it!\fThis ought to do the trick.</language>
+		<language name="English">Huh? You need medicine?\rYour homies look fine. What’s\nbotherin’ you?\r...\rThe Lighthouse homie sick?!\rI GOT you! 500 years in business,\nbaby!\fThis’ll fix it right up. Don’t read\nthe label.</language>
 	</row>
 	<row id="msg_0577_T24R0501_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,11 +11,11 @@
 	</row>
 	<row id="msg_0577_T24R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My SecretPotion is a tad too strong.\fI only offer it in an emergency.</language>
+		<language name="English">My SecretPotion is a lil TOO strong.\fEmergencies only. Side effects\ninclude\feverythin’.</language>
 	</row>
 	<row id="msg_0577_T24R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up?\nNeed some medicine? {YESNO 0}</language>
+		<language name="English">What’s good? 500 years in business.\nSame recipe. Same guy. Don’t ask.\rNeed some medicine? {YESNO 0}</language>
 	</row>
 	<row id="msg_0577_T24R0501_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>

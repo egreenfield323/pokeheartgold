@@ -1,0 +1,11 @@
+{
+  "_comment": "Celadon Dept. Store rooftop.",
+  "0": "A vendin' machine with a prize roulette...\\rIt make you happy when you win somethin'\\nfree, even if it's only worth $200.\\rHappiness don't come from how much stuff\\nis worth.\\rIt's up to the heart of the one who get it...\\nDeep, right? I'm a philosopher. Unpaid.",
+  "1": "AWW! Ain't no games up here!\\nI wanted to PLAY! I'm 42!",
+  "2": "Take a Break at the Vending Machines\\n6F: Rooftop Atrium",
+  "3": "It's a vending machine.\\nWhat you want? {YESNO 0}",
+  "4": "Clunk!\\rA can of {STRVAR_1 8, 0, 0} dropped down.\\r",
+  "5": "Clunk!\\rBonus! Another can of {STRVAR_1 8, 0, 0}\\ndropped down. Machine broke!\\r",
+  "6": "Not enough bread...",
+  "7": "Decided not to buy nothin'."
+}

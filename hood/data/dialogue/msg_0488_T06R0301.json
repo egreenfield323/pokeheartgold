@@ -1,0 +1,20 @@
+{
+  "_comment": "Pokémon Fan Club. The Chairman talks about his RAPIDASH for a long, long time.",
+  "0": "I'm the Chairman of the Homie Fan Club.\\rI raised over 150 homies.\\nI know ALL their birthdays.\\rI'm VERY picky about homies.\\rYou came to hear about my homies? Say yes.\\nThis could take a while. {YESNO 0}",
+  "1": "BET! Then listen up!\\rSo...my PRECIOUS RAPIDASH...\\rIt's...cute...lovely...smart...\\nadorable...irresistible...plus...\\famazin'... Don't you think?\\fOh, so...wild...beautiful...\\fkind... I LOVE it!\\rHug it... It's warm and cuddly...\\nIt's on FIRE but cuddly...\\fsimply divine... I treasure it...\\fOops! Look at the time! It's dark out!\\rGood looks for hearin' me out.\\nHere's a present! You earned it!\\r",
+  "3": "It's some Clout that make homies\\nstronger.\\rI like makin' my homies stronger\\nby scrappin', so you can have it.",
+  "4": "Wassup, {STRVAR_1 3, 0, 0}!\\rYou came to hear about my homies AGAIN?\\rNo? Oh... I had SO many more stories...\\nI had a slideshow...",
+  "5": "Wassup, {STRVAR_1 3, 0, 0}!\\rYou came to hear about my homies AGAIN?\\rNo? Oh... I had SO many more stories...\\nI had a slideshow...",
+  "6": "That's disappointin'...\\rCome back when you wanna hear me talk.\\nI'll be here. Always. With stories.",
+  "7": "Your Bag jammed full.",
+  "8": "Our Chairman REAL vocal about homies...\\nREAL vocal. We had to buy earplugs.",
+  "9": "I love how CLEFAIRY open up its arms!\\rIt's SO adorable! I cry every time!",
+  "10": "I love CLEFAIRY, but I could never\\ncatch one.\\rSo I'm makin' do with a Poké Doll\\nI found.",
+  "11": "I love CLEFAIRY, but I could never\\ncatch one. So I'm makin' do with a\\fPoké Doll I found.\\rWhat?\\nThe girl who lost this Poké Doll\\fis sad...!\\rAight. Could you take this Poké Doll\\nback to that poor lil girl?\\rI'll make friends with a real CLEFAIRY\\none day!\\r",
+  "12": "{STRVAR_1 3, 0, 0} got\\nthe lost Poké Doll!",
+  "13": "Watch. I'ma get a REAL CLEFAIRY as my\\nhomie. One day. Manifesting.",
+  "14": "Look at my darlin' BAYLEEF!\\rThe leaf on its head SO cute and\\nfashionable! Like a lil hat! A lil salad hat!",
+  "15": "It's a CLEFAIRY!\\nHuh?\\rOh, right. It's a CLEFAIRY Poké Doll.",
+  "17": "Let's all listen politely to other\\nHustlers. That's the rule. Nobody follow it.",
+  "18": "If somebody brag, brag RIGHT back!\\nThat's the OTHER rule. Everybody follow it."
+}

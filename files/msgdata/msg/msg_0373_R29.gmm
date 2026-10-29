@@ -40,27 +40,27 @@
 	</row>
 	<row id="msg_0373_R29_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how your homies doin’?\rIf they weak and ain’t ready to\nscrap, stay outta the tall grass.</language>
+		<language name="English">Ayo, your homies lookin’ kinda\nsickly, ngl.\rIf they ain’t ready to scrap, stay\noutta the grass. Grass is for\fgrown folks.</language>
 	</row>
 	<row id="msg_0373_R29_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see them ledges?\nScary to jump off, ngl.\rBut you can get back to New Bark\nwithout goin’ through the grass.</language>
+		<language name="English">You see them ledges? I jumped off\none in ’09 and ain’t been the same.\rBut you can get back to New Bark\nwithout touchin’ the grass. Coward\froute.</language>
 	</row>
 	<row id="msg_0373_R29_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I needed a break, so I\nsaved my progress. Self care.</language>
+		<language name="English">Shh! I’m hidin’ from my PO. I saved\nmy progress though. Self care.</language>
 	</row>
 	<row id="msg_0373_R29_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ on homies that\nonly come out in the day.</language>
+		<language name="English">I’m waitin’ on homies that only\ncome out in the day. Like my uncle\fon\fcheck day.</language>
 	</row>
 	<row id="msg_0373_R29_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ on homies that\nonly come out at night. Like me.</language>
+		<language name="English">I’m waitin’ on homies that only\ncome out at night. Real ones move\fin the dark.</language>
 	</row>
 	<row id="msg_0373_R29_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ on homies that\nonly come out in the mornin’.</language>
+		<language name="English">I’m waitin’ on homies that only\ncome out in the mornin’. I been\fhere since\f4 AM. My wife think I’m at work.</language>
 	</row>
 	<row id="msg_0373_R29_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

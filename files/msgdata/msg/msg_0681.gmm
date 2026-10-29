@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0681_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shall we trade phone numbers? {YESNO 0}</language>
+		<language name="English">Shall we swap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0681_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Call me anytime if you want to battle!</language>
+		<language name="English">Call me anytime you wanna scrap!</language>
 	</row>
 	<row id="msg_0681_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I figured that if I found anything in the\narea, I’d give it to you...</language>
+		<language name="English">I figured if I found anythin’ in the\narea, I’d give it to you...</language>
 	</row>
 	<row id="msg_0681_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You wanna trade phone numbers\nafter all? {YESNO 0}</language>
+		<language name="English">You wanna swap numbers\nafter all? {YESNO 0}</language>
 	</row>
 	<row id="msg_0681_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, here you are!\rI’ll give you this Berry that my Pokémon\nfound. Here you go!\r</language>
+		<language name="English">Oh, there you!\rI’ll give you this Berry my homie\nfound. Here you go!\r</language>
 	</row>
 	<row id="msg_0681_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have to say it’s kind of strange to be\ntalking on the phone when you’re\fstanding nearby.</language>
+		<language name="English">Gotta say it’s kinda weird to be\ntalkin’ on the phone when you\fstandin’ right there.</language>
 	</row>
 	<row id="msg_0681_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} is always training!\rIt won’t lose to any {STRVAR_1 0, 11, 0}!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} ALWAYS trainin’!\rIt ain’t losin’ to no {STRVAR_1 0, 11, 0}!</language>
 	</row>
 	<row id="msg_0681_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Psst! Listen!\nThis {STRVAR_1 0, 11, 0} I ran into earlier\fjust up and ran away!\rI was so disappointed!\nI really wanted to catch it, too!</language>
+		<language name="English">Ayo! Psst! Listen!\nThis {STRVAR_1 0, 11, 0} I ran into earlier\fjust up and dipped!\rI was SO disappointed!\nI deadass wanted to catch it too!</language>
 	</row>
 	<row id="msg_0681_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you catch any {STRVAR_1 0, 11, 0} yet?\nYou can always find them around here.</language>
+		<language name="English">You caught any {STRVAR_1 0, 11, 0} yet?\nYou can always find ’em around here.</language>
 	</row>
 	<row id="msg_0681_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you battle my trained Pokémon?\rWe’re on {STRVAR_1 4, 3, 0}, so give me\na shout when you’re in the area!</language>
+		<language name="English">You gon’ scrap my trained homies?\rWe on {STRVAR_1 4, 3, 0}, so holla\nwhen you in the area!</language>
 	</row>
 	<row id="msg_0681_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nClose to {STRVAR_1 4, 3, 0}?\fDon’t tell me you forgot we were going\fto have a battle?</language>
+		<language name="English">Where you at now?\nClose to {STRVAR_1 4, 3, 0}?\fDon’t tell me you forgot we was\ffinna scrap?</language>
 	</row>
 	<row id="msg_0681_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While I was walking around the forest\ntrying to find Pokémon, I cut my finger\fon a leaf!\rIt bled a little, but I’m fine.</language>
+		<language name="English">While I was walkin’ through the forest\nlookin’ for homies, I cut my finger\fon a leaf!\rIt bled a lil, but I’m good.</language>
 	</row>
 	<row id="msg_0681_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon found its\nmost cherished Berry!\rWe’re on {STRVAR_1 4, 3, 0} if you\nwant it!</language>
+		<language name="English">My homie found its\nmost precious Berry!\rWe on {STRVAR_1 4, 3, 0} if you\nwant it!</language>
 	</row>
 	<row id="msg_0681_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah... We’d really like to give you this\nBerry... We’re on {STRVAR_1 4, 3, 0}, so\fcome get it please!</language>
+		<language name="English">Yeah... We REALLY wanna give you\nthis Berry... We on {STRVAR_1 4, 3, 0}, so\fcome get it please!</language>
 	</row>
 </body>

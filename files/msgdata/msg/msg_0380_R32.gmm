@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0380_R32_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait up!\nWhat’s the rush?\r</language>
+		<language name="English">AYO! Slow down!\nYou walkin’ like you owe somebody!\r</language>
 	</row>
 	<row id="msg_0380_R32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy in glasses was lookin’\ffor you.\rGo see. He waitin’ on you\nat the Corner Store.</language>
+		<language name="English">You {STRVAR_1 3, 0, 0}, right? Some nerd in\nglasses was askin’ about you.\rHe at the Corner Store. Kept\nsayin’ “Egg” real weird. Be careful.</language>
 	</row>
 	<row id="msg_0380_R32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy in glasses was lookin’\ffor you.\rGo see. He waitin’ on you\nat the Corner Store.\r</language>
+		<language name="English">You {STRVAR_1 3, 0, 0}, right? Some nerd in\nglasses was askin’ about you.\rHe at the Corner Store. Kept\nsayin’ “Egg” real weird. Be careful.\r</language>
 	</row>
 	<row id="msg_0380_R32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You hit up the block yet?\rYou can test your homies and\nyourself there.\rEvery Hustler gotta go through it!</language>
+		<language name="English">You ran up on the Violet Block yet?\rBlock Boss got pigeons. PIGEONS.\nYou can’t lose to pigeons, bro.\fThat’s generational shame.</language>
 	</row>
 	<row id="msg_0380_R32_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You hit up the block yet?\rYou can test your homies and\nyourself there.\rEvery Hustler gotta go through it!\r</language>
+		<language name="English">You ran up on the Violet Block yet?\rBlock Boss got pigeons. PIGEONS.\nYou can’t lose to pigeons, bro.\fThat’s generational shame.\r</language>
 	</row>
 	<row id="msg_0380_R32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You got some hard homies.\rMust be from all that work you\nput in around Violet City.\rThat block musta been real\nhelpful too.\rHere, a lil souvenir from Violet.\rIt power up Grass-type moves.\r</language>
+		<language name="English">Your homies lookin’ swole. Violet\nCity did y’all RIGHT.\rI’m a talent scout. Unofficial. I\njust stand here and judge people.\rHere, a lil signin’ bonus.\nIt power up Grass-type moves.\r</language>
 	</row>
 	<row id="msg_0380_R32_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0380_R32_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you learned in Violet City\ngon’ help you out there.</language>
+		<language name="English">Remember the Violet lessons. Pigeons\nis weak to rocks. So is my car window.</language>
 	</row>
 	<row id="msg_0380_R32_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -43,7 +43,7 @@
 	</row>
 	<row id="msg_0380_R32_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOOAR!\rPEOPLE RUN WHEN I YELL WOOP!\nBUT YOU CAME LOOKIN’!\rTHAT’S RESPECT!\nNOW TAKE THIS!\r</language>
+		<language name="English">WROOOOAR!\rI’M YELL WOOP! PEOPLE RUN WHEN\nI YELL! MY NEIGHBORS MOVED!\rBUT YOU WALKED UP ON ME!\nTHAT’S RESPECT! TAKE THIS!\r</language>
 	</row>
 	<row id="msg_0380_R32_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
@@ -52,23 +52,23 @@
 	</row>
 	<row id="msg_0380_R32_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR!\nIT’S YELL WOOP!\rEVEN HOMIES RUN\nFROM A GOOD WOOP!</language>
+		<language name="English">WROOOAR!\nI AIN’T GOT A INSIDE VOICE!\rTHE DOCTOR SAID IT’S A CONDITION!</language>
 	</row>
 	<row id="msg_0380_R32_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR! YOUR BAG IS FULL!</language>
+		<language name="English">WROOOAR! YOUR BAG FULL! LIKE MY\nVOICEMAIL! FROM NOISE COMPLAINTS!</language>
 	</row>
 	<row id="msg_0380_R32_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Psst. You want a tasty,\nnutritious SlowpokeTail?\rFor you? Just $1,000,000!\nIt’s legit, I swear! {YESNO 0}</language>
+		<language name="English">Psst. Ayo. Come here.\nYou want a SlowpokeTail? Fresh.\rFell off a truck this mornin’.\nFor you? $1,000,000. Family price. {YESNO 0}</language>
 	</row>
 	<row id="msg_0380_R32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch! I thought kids these days\nhad bread...</language>
+		<language name="English">Tch! Broke. I KNEW it. You got\nthat broke walk.</language>
 	</row>
 	<row id="msg_0380_R32_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want it?\nThen beat it. Shoo! I ain’t here.</language>
+		<language name="English">You don’t want it? Then you ain’t\nseen me. I’m a tree. Keep walkin’.</language>
 	</row>
 	<row id="msg_0380_R32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

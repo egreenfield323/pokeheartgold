@@ -1,0 +1,20 @@
+{
+  "_comment": "Cerulean block. The Fed thief bumps into you; Misty.",
+  "0": "{SIZE 200}BUMP!{SIZE 100}\\r",
+  "1": "OOPS! My bad! You ain't hurt, right?\\fI'm real busy. No time to talk.\\fCan't be seen here. I'm UNDERCOVER.\\fThe black outfit is a disguise.\\r",
+  "2": "Oh no! You SAW me!\\fI just blew my cover!\\fSarge gon' KILL me!\\r",
+  "3": "Ayo! Forget you saw me, OK?\\nYou ain't seen or heard NOTHIN'.\\fBye!\\fThis conversation never happened!\\fDon't check the pool!\\r",
+  "4": "Sorry, I'ma be out for a while.\\nMisty, Block Boss\\f(At the Cape. Don't follow me.)",
+  "5": "Since Misty out, we out too.\\nBlock Hustlers\\f(At the beach. Obviously.)",
+  "6": "Cerulean City Block\\nNo Runnin' by the Pool",
+  "7": "Cerulean City Block\\rBoss: Misty\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}",
+  "8": "Misty: I was expectin' you, you PEST!\\rYou might got a lotta Johto Chains, but\\ndon't you DARE take me lightly.\\rMy Water homies is TOUGH! And I'm MEAN!\\r",
+  "9": "Misty: Ugh. You DEADASS good...\\rI'll ADMIT you got skills... Barely.\\rHere. It's the Cascade Chain.\\nDon't make it weird.\\r",
+  "10": "{STRVAR_1 3, 0, 0} got\\nthe Cascade Chain from Misty!",
+  "11": "Misty: Here's another souvenir\\nfrom this scrap. Take it!\\r",
+  "12": "Misty: It's got the move\\nWater Bomb.\\rIt can confuse your opp sometimes.\\rYou beat Hustlers all\\nthe way from Johto.\\fI'm sure you'll put it to use.",
+  "13": "Misty: Johto got a lotta strong Hustlers?\\rOne day I'ma go on a journey and beat ALL\\nof 'em! And call 'em pests!",
+  "14": "Yo! Future legend!\\rSince Misty was gone, I went out to have\\nfun too. Beach day! Heh heh heh.\\fDon't tell her.",
+  "15": "Hoo, you showed me how tough you are.\\rLike always, that was a GREAT scrap!\\nI'm a lil sunburnt.",
+  "16": "...!\\r{STRVAR_1 3, 0, 0} picked up the black thing\\nthat was by the pool.\\rIt's a Part from a machine!\\r"
+}

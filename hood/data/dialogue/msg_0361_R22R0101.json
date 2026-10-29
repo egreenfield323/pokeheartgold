@@ -1,0 +1,20 @@
+{
+  "_comment": "Big League reception gate. Janine taking her dad lunch.",
+  "0": "Only Hustlers who PROVED themselves can go\\nthrough.\\rOh! The eight Chains of Johto!\\nGo right on through! Watch your neck.",
+  "1": "This way go to Mt. Silver.\\rScary-strong homies out there.\\nYou ain't ready. I can tell by your face.",
+  "2": "This way go to Mt. Silver.\\rScary-strong homies out there.\\nYou ain't ready. I can tell by your face.\\r",
+  "3": "This way go to Mt. Silver.\\rScary-strong homies out there.\\rBut you should be aight.\\nJust bring a coat. It's COLD up there.",
+  "4": "Huh?\\nThis way go to Kanto...\\fBut this path blocked for\\fnow, I'm afraid.",
+  "5": "Hold up!\\rThis way go to Kanto...\\nBut this path blocked for\\fnow, I'm afraid.\\r",
+  "6": "West to Mt. Silver.\\nEast to the Kanto region.\\rGo north for the Elite Four!\\nBut you know that already,\\fsince you beat the Kingpin!",
+  "7": "Janine: I'm bringin' my dad his lunch.\\nThe Elite Four don't get no breaks!\\rHe'd starve without me. He a ninja who\\ncan't cook.\\rSay! Wanna swap numbers? {YESNO 0}",
+  "8": "{STRVAR_1 3, 0, 0} saved Janine's number\\nin the Pokégear!",
+  "9": "Janine: Call me Monday around noon\\nif you wanna scrap!",
+  "10": "Janine: You don't look scared, but you\\nscared, ain't you? I can tell. Ninja senses.",
+  "11": "Janine: Now you want\\nmy number, huh? {YESNO 0}",
+  "12": "Janine: I'm done bringin' my dad lunch.\\nHe ate it in two seconds. Ninja speed.\\rWanna take a pic with me? {YESNO 0}",
+  "13": "Janine: Can you look as HARD as me for\\nthe pic? Ninja face. Like this.\\r",
+  "14": "Janine: Don't you think we look\\ngood in the pic?",
+  "15": "Janine: That's a shame!",
+  "16": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics."
+}

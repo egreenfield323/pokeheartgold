@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0723_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, rookie!\nBring it on!</language>
+		<language name="English">Ayo, rookie!\nBring it on!</language>
 	</row>
 	<row id="msg_0723_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, I knew it.\nYou’re a rookie after all.\r</language>
+		<language name="English">Yeah, I knew it.\nYou a rookie after all.\r</language>
 	</row>
 	<row id="msg_0723_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bleah!\nYou’re just a rookie!\r</language>
+		<language name="English">Bleah!\nYou just a rookie!\r</language>
 	</row>
 	<row id="msg_0723_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0723_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll never stop wearing shorts.\nNot for anybody!\r</language>
+		<language name="English">I’ll never stop wearin’ shorts.\nNot for anybody!\r</language>
 	</row>
 	<row id="msg_0723_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0723_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caught you snoozing!\r</language>
+		<language name="English">Caught you snoozin’!\r</language>
 	</row>
 	<row id="msg_0723_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0723_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me know if you find any nice\nAccessories!\r</language>
+		<language name="English">Lemme know if you find any nice\nAccessories!\r</language>
 	</row>
 	<row id="msg_0723_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0723_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to test out something I\nlearned at private school.</language>
+		<language name="English">I wanna test out somethin’ I\nlearned at private school.</language>
 	</row>
 	<row id="msg_0723_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -90,15 +90,15 @@
 	</row>
 	<row id="msg_0723_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle is about momentum and\nwillpower.\r</language>
+		<language name="English">A scrap is about momentum and\nwillpower.\r</language>
 	</row>
 	<row id="msg_0723_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, so willpower doesn’t cut it on\nits own.\r</language>
+		<language name="English">OK, so willpower don’t cut it on\nits own.\r</language>
 	</row>
 	<row id="msg_0723_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I study every day because I want to\nwork all over the world.</language>
+		<language name="English">I study every day ’cause I wanna\nwork all over the world.</language>
 	</row>
 	<row id="msg_0723_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0723_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I need to study up on Pokémon\nbattles.\r</language>
+		<language name="English">I need to study up on homie\nbattles.\r</language>
 	</row>
 	<row id="msg_0723_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="msg_0723_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When the subject is Pokémon, I simply\ndon’t lose!</language>
+		<language name="English">When the subject is homie, I simply\ndon’t lose!</language>
 	</row>
 	<row id="msg_0723_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -170,15 +170,15 @@
 	</row>
 	<row id="msg_0723_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. So, you’re good, huh?</language>
+		<language name="English">Hmm. So, you good, huh?</language>
 	</row>
 	<row id="msg_0723_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. You’re no big deal.\nHmm?\r</language>
+		<language name="English">Hmm. You no big deal.\nHmm?\r</language>
 	</row>
 	<row id="msg_0723_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. So, you are good.\nHmm.\r</language>
+		<language name="English">Hmm. So, you good.\nHmm.\r</language>
 	</row>
 	<row id="msg_0723_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="msg_0723_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, how disappointing.\r</language>
+		<language name="English">Oh, how disappointin’.\r</language>
 	</row>
 	<row id="msg_0723_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -202,15 +202,15 @@
 	</row>
 	<row id="msg_0723_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, how vexing this so is.\nVerily, I good looks.\r</language>
+		<language name="English">Oh, how vexin’ this so is.\nVerily, I good looks.\r</language>
 	</row>
 	<row id="msg_0723_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How boring...</language>
+		<language name="English">How borin’...</language>
 	</row>
 	<row id="msg_0723_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So truly boring...\r</language>
+		<language name="English">So truly borin’...\r</language>
 	</row>
 	<row id="msg_0723_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -218,11 +218,11 @@
 	</row>
 	<row id="msg_0723_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hunh?\nWhere is everyone?</language>
+		<language name="English">Hunh?\nWhere is everybody?</language>
 	</row>
 	<row id="msg_0723_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, guys!\nWhere are you?!\r</language>
+		<language name="English">Ayo, guys!\nWhere are you?!\r</language>
 	</row>
 	<row id="msg_0723_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -234,15 +234,15 @@
 	</row>
 	<row id="msg_0723_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was fooling around with my\nPokétch, but I still won!\r</language>
+		<language name="English">I was foolin’ around with my\nPokétch, but I still won!\r</language>
 	</row>
 	<row id="msg_0723_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was fooling around with my\nPokétch, and I lost...\r</language>
+		<language name="English">I was foolin’ around with my\nPokétch, and I lost...\r</language>
 	</row>
 	<row id="msg_0723_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon trained in forests.</language>
+		<language name="English">My homies trained in forests.</language>
 	</row>
 	<row id="msg_0723_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -254,7 +254,7 @@
 	</row>
 	<row id="msg_0723_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll battle you like I’m on a picnic!</language>
+		<language name="English">I’ll scrap you like I’m on a picnic!</language>
 	</row>
 	<row id="msg_0723_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -274,11 +274,11 @@
 	</row>
 	<row id="msg_0723_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh-la-la!\nEven losing can’t dampen my spirits!\r</language>
+		<language name="English">Ooh-la-la!\nEven losin’ can’t dampen my spirits!\r</language>
 	</row>
 	<row id="msg_0723_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll teach you what’s fun about\nbattling.</language>
+		<language name="English">I’ll teach you what’s fun about\nbattlin’.</language>
 	</row>
 	<row id="msg_0723_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -286,11 +286,11 @@
 	</row>
 	<row id="msg_0723_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my, that was inspiring!\nYou’re the greatest!\r</language>
+		<language name="English">Oh, my, that was inspirin’!\nYou the greatest!\r</language>
 	</row>
 	<row id="msg_0723_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I... I can swim, really!\nI don’t need my inflatable tube!</language>
+		<language name="English">I... I can swim, deadass!\nI don’t need my inflatable tube!</language>
 	</row>
 	<row id="msg_0723_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
@@ -310,19 +310,19 @@
 	</row>
 	<row id="msg_0723_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t like the sea because the\nsalty water burns my eyes!\r</language>
+		<language name="English">I don’t like the sea ’cause the\nsalty water burns my eyes!\r</language>
 	</row>
 	<row id="msg_0723_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go, go, go!\nGo, my Pokémon!</language>
+		<language name="English">Go, go, go!\nGo, my homies!</language>
 	</row>
 	<row id="msg_0723_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s the way!\nWay to go, my Pokémon!\r</language>
+		<language name="English">That’s the way!\nWay to go, my homies!\r</language>
 	</row>
 	<row id="msg_0723_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good effort!\nWay to go, my Pokémon!\r</language>
+		<language name="English">Good effort!\nWay to go, my homies!\r</language>
 	</row>
 	<row id="msg_0723_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -362,7 +362,7 @@
 	</row>
 	<row id="msg_0723_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, yeah! I’m feeling it!\nI’m tuned in to your wavelength!</language>
+		<language name="English">Oh, yeah! I’m feelin’ it!\nI’m tuned in to your wavelength!</language>
 	</row>
 	<row id="msg_0723_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
@@ -382,7 +382,7 @@
 	</row>
 	<row id="msg_0723_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, yeah... You’ve got me in the\nmood for singing the blues...\r</language>
+		<language name="English">So, yeah... You’ve got me in the\nmood for singin’ the blues...\r</language>
 	</row>
 	<row id="msg_0723_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
@@ -390,7 +390,7 @@
 	</row>
 	<row id="msg_0723_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re obviously short on practice.\r</language>
+		<language name="English">You obviously short on practice.\r</language>
 	</row>
 	<row id="msg_0723_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
@@ -398,7 +398,7 @@
 	</row>
 	<row id="msg_0723_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hello...\nWell, ain’t that a chic scarf!</language>
+		<language name="English">Oh, wassup...\nWell, ain’t that a chic scarf!</language>
 	</row>
 	<row id="msg_0723_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
@@ -406,15 +406,15 @@
 	</row>
 	<row id="msg_0723_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you! You’re not just fashionable,\nyou’re good with Pokémon! How unfair!\r</language>
+		<language name="English">Oh, you! You not just fashionable,\nyou good with homie! How unfair!\r</language>
 	</row>
 	<row id="msg_0723_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for supporting me!</language>
+		<language name="English">Good looks for supportin’ me!</language>
 	</row>
 	<row id="msg_0723_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh?\nYou’re not my fan?\r</language>
+		<language name="English">Oh?\nYou not my fan?\r</language>
 	</row>
 	<row id="msg_0723_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -434,7 +434,7 @@
 	</row>
 	<row id="msg_0723_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see who loves Pokémon more,\nyou or me.</language>
+		<language name="English">Let’s see who loves homie more,\nyou or me.</language>
 	</row>
 	<row id="msg_0723_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
@@ -442,23 +442,23 @@
 	</row>
 	<row id="msg_0723_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grr... Your love of Pokémon is\nstronger than mine?\r</language>
+		<language name="English">Grr... Your love of homie is\nstronger than mine?\r</language>
 	</row>
 	<row id="msg_0723_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I tell ya, my Pokémon are some kind\nof tough.</language>
+		<language name="English">I tell ya, my homies are some kind\nof tough.</language>
 	</row>
 	<row id="msg_0723_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to underestimate me.\r</language>
+		<language name="English">You don’t wanna underestimate me.\r</language>
 	</row>
 	<row id="msg_0723_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re some kind of mighty.\r</language>
+		<language name="English">You some kinda mighty.\r</language>
 	</row>
 	<row id="msg_0723_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, show me your favorite Pokémon.\nDon’t be shy now, come on.</language>
+		<language name="English">OK, show me your favorite homie.\nDon’t be shy now, c’mon.</language>
 	</row>
 	<row id="msg_0723_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
@@ -470,7 +470,7 @@
 	</row>
 	<row id="msg_0723_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon are cute, but they’re\nnot very tough!</language>
+		<language name="English">My homies are cute, but they\nnot hella tough!</language>
 	</row>
 	<row id="msg_0723_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -478,11 +478,11 @@
 	</row>
 	<row id="msg_0723_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s OK. I like my Pokémon.\nThat’s all that matters.\r</language>
+		<language name="English">It’s OK. I like my homies.\nThat’s all that matters.\r</language>
 	</row>
 	<row id="msg_0723_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been pampering my gang too\nmuch lately. Can they do it?</language>
+		<language name="English">I’ve been pamperin’ my gang too\nmuch lately. Can they do it?</language>
 	</row>
 	<row id="msg_0723_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -490,11 +490,11 @@
 	</row>
 	<row id="msg_0723_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pampering Pokémon too much is\nno good...\r</language>
+		<language name="English">Pampering homie too much is\nno good...\r</language>
 	</row>
 	<row id="msg_0723_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Won’t you join our Pokémon Fan\nClub?</language>
+		<language name="English">Won’t you join our homie Fan\nClub?</language>
 	</row>
 	<row id="msg_0723_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
@@ -518,7 +518,7 @@
 	</row>
 	<row id="msg_0723_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What I really hoped to become\nwas a cook.</language>
+		<language name="English">What I deadass hoped to become\nwas a cook.</language>
 	</row>
 	<row id="msg_0723_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
@@ -526,11 +526,11 @@
 	</row>
 	<row id="msg_0723_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just find it hard talking to\nstrangers.\r</language>
+		<language name="English">I just find it hard talkin’ to\nstrangers.\r</language>
 	</row>
 	<row id="msg_0723_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For battles and order taking, speed\nis essential!</language>
+		<language name="English">For scraps and order takin’, speed\nis essential!</language>
 	</row>
 	<row id="msg_0723_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
@@ -538,11 +538,11 @@
 	</row>
 	<row id="msg_0723_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Food is like battling.\nServe it while it’s hot!\r</language>
+		<language name="English">Food is like battlin’.\nServe it while it’s hot!\r</language>
 	</row>
 	<row id="msg_0723_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My job is about serving others.\nBut don’t expect me to serve here.</language>
+		<language name="English">My job is about servin’ others.\nBut don’t expect me to serve here.</language>
 	</row>
 	<row id="msg_0723_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
@@ -554,7 +554,7 @@
 	</row>
 	<row id="msg_0723_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isn’t this cute?\nMy uniform.</language>
+		<language name="English">Ain’t this cute?\nMy uniform.</language>
 	</row>
 	<row id="msg_0723_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -566,7 +566,7 @@
 	</row>
 	<row id="msg_0723_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re good, ain’t you?</language>
+		<language name="English">You good, ain’t you?</language>
 	</row>
 	<row id="msg_0723_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
@@ -586,7 +586,7 @@
 	</row>
 	<row id="msg_0723_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I need to raise my Pokémon some\nmore!\r</language>
+		<language name="English">I need to raise my homies some\nmore!\r</language>
 	</row>
 	<row id="msg_0723_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
@@ -598,7 +598,7 @@
 	</row>
 	<row id="msg_0723_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\nDon’t run away!\r</language>
+		<language name="English">Ayo!\nDon’t run away!\r</language>
 	</row>
 	<row id="msg_0723_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -634,7 +634,7 @@
 	</row>
 	<row id="msg_0723_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You didn’t fall for my fake ninja\nboasting!\r</language>
+		<language name="English">You didn’t fall for my fake ninja\nboastin’!\r</language>
 	</row>
 	<row id="msg_0723_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -658,7 +658,7 @@
 	</row>
 	<row id="msg_0723_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No!\nNo tormenting me!\r</language>
+		<language name="English">No!\nNo tormentin’ me!\r</language>
 	</row>
 	<row id="msg_0723_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
@@ -666,19 +666,19 @@
 	</row>
 	<row id="msg_0723_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isn’t it cute?\r</language>
+		<language name="English">Ain’t it cute?\r</language>
 	</row>
 	<row id="msg_0723_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My mommy is really good at sewing.\r</language>
+		<language name="English">My mommy is deadass good at sewin’.\r</language>
 	</row>
 	<row id="msg_0723_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s do our best, everyone!</language>
+		<language name="English">Let’s do our best, everybody!</language>
 	</row>
 	<row id="msg_0723_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks, everyone!\r</language>
+		<language name="English">Good looks, everybody!\r</language>
 	</row>
 	<row id="msg_0723_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
@@ -686,23 +686,23 @@
 	</row>
 	<row id="msg_0723_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sure, we’re finna battle, but\ndon’t be over the top about it.</language>
+		<language name="English">Sure, we finna scrap, but\ndon’t be over the top about it.</language>
 	</row>
 	<row id="msg_0723_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, relax, relax.\nIt’s best to be natural, dig?\r</language>
+		<language name="English">Ayo, relax, relax.\nIt’s best to be natural, dig?\r</language>
 	</row>
 	<row id="msg_0723_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to loosen up some more.\r</language>
+		<language name="English">You gotta loosen up some more.\r</language>
 	</row>
 	<row id="msg_0723_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fish, fish, fish, that’s what I do!\nI’m gonna fish it all up!</language>
+		<language name="English">Fish, fish, fish, that’s what I do!\nI’m gon’ fish it all up!</language>
 	</row>
 	<row id="msg_0723_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kahahah!\nI am at the top of my game!\r</language>
+		<language name="English">Kahahah!\nI’m at the top of my game!\r</language>
 	</row>
 	<row id="msg_0723_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
@@ -714,7 +714,7 @@
 	</row>
 	<row id="msg_0723_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your skill level says you probably\nwon’t make a good Ruin Maniac.\r</language>
+		<language name="English">Your skill level says you prob’ly\nwon’t make a good Ruin Maniac.\r</language>
 	</row>
 	<row id="msg_0723_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -734,15 +734,15 @@
 	</row>
 	<row id="msg_0723_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, there! Check this out!\nMy rare Pokémon!</language>
+		<language name="English">Ayo, there! Check this out!\nMy rare homie!</language>
 	</row>
 	<row id="msg_0723_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not just rare, either.\nMy Pokémon are tough, too!\r</language>
+		<language name="English">Not just rare, either.\nMy homies are tough, too!\r</language>
 	</row>
 	<row id="msg_0723_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aiyah! Hey! Wait!\nNo! Stop! Don’t touch!\r</language>
+		<language name="English">Aiyah! Ayo! Wait!\nNo! Stop! Don’t touch!\r</language>
 	</row>
 	<row id="msg_0723_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
@@ -750,23 +750,23 @@
 	</row>
 	<row id="msg_0723_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See, see? Weren’t they awesome?\nThey’re the most super of the uber!\r</language>
+		<language name="English">See, see? Weren’t they awesome?\nThey the most super of the uber!\r</language>
 	</row>
 	<row id="msg_0723_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awawawah... My...\nMy Pokémon...\r</language>
+		<language name="English">Awawawah... My...\nMy homies...\r</language>
 	</row>
 	<row id="msg_0723_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look! This is my favorite parasol!\nOh, and my fabulous Pokémon!</language>
+		<language name="English">Look! This is my favorite parasol!\nOh, and my fabulous homie!</language>
 	</row>
 	<row id="msg_0723_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aren’t they both cute?\r</language>
+		<language name="English">Ain’t they both cute?\r</language>
 	</row>
 	<row id="msg_0723_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m only showing you!\nYou can’t have any!\r</language>
+		<language name="English">I’m only showin’ you!\nYou can’t have any!\r</language>
 	</row>
 	<row id="msg_0723_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
@@ -786,15 +786,15 @@
 	</row>
 	<row id="msg_0723_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right now, I’m feeling sunny\nwithout a cloud in the sky!\r</language>
+		<language name="English">Right now, I’m feelin’ sunny\nwithout a cloud in the sky!\r</language>
 	</row>
 	<row id="msg_0723_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m feeling fogbound...\r</language>
+		<language name="English">I’m feelin’ fogbound...\r</language>
 	</row>
 	<row id="msg_0723_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really don’t like weak Hustlers!</language>
+		<language name="English">I deadass don’t like weak Hustlers!</language>
 	</row>
 	<row id="msg_0723_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
@@ -802,7 +802,7 @@
 	</row>
 	<row id="msg_0723_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon Hustler should be tough\nand bursting with life!\r</language>
+		<language name="English">A homie Hustler should be tough\nand burstin’ with life!\r</language>
 	</row>
 	<row id="msg_0723_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
@@ -838,7 +838,7 @@
 	</row>
 	<row id="msg_0723_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sniff... Sniffle...\nMy nose is clogging up...\r</language>
+		<language name="English">Sniff... Sniffle...\nMy nose is cloggin’ up...\r</language>
 	</row>
 	<row id="msg_0723_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
@@ -850,19 +850,19 @@
 	</row>
 	<row id="msg_0723_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have some cologne on?\nYou smell sort of nice!\r</language>
+		<language name="English">Do you have some cologne on?\nYou smell sorta nice!\r</language>
 	</row>
 	<row id="msg_0723_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re finna lose, but you’ll get\nto enjoy a nice aroma!</language>
+		<language name="English">You finna lose, but you’ll get\nto enjoy a nice aroma!</language>
 	</row>
 	<row id="msg_0723_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kyahaha! That’s what you get for\nswooning to my aroma!\r</language>
+		<language name="English">Kyahaha! That’s what you get for\nswoonin’ to my aroma!\r</language>
 	</row>
 	<row id="msg_0723_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiiiih!\nI am so angry!\r</language>
+		<language name="English">Kiiiih!\nI’m so angry!\r</language>
 	</row>
 	<row id="msg_0723_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
@@ -886,7 +886,7 @@
 	</row>
 	<row id="msg_0723_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The way I feel now is kind of folksy.\r</language>
+		<language name="English">The way I feel now is kinda folksy.\r</language>
 	</row>
 	<row id="msg_0723_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
@@ -914,7 +914,7 @@
 	</row>
 	<row id="msg_0723_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly, fly, fly!\nWe’re finna rule this battle!</language>
+		<language name="English">Fly, fly, fly!\nWe finna rule this scrap!</language>
 	</row>
 	<row id="msg_0723_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
@@ -922,7 +922,7 @@
 	</row>
 	<row id="msg_0723_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re gonna crash!\r</language>
+		<language name="English">We gon’ crash!\r</language>
 	</row>
 	<row id="msg_0723_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
@@ -946,7 +946,7 @@
 	</row>
 	<row id="msg_0723_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to become a big man.\nBig like the sea big.\r</language>
+		<language name="English">I wanna become a big man.\nBig like the sea big.\r</language>
 	</row>
 	<row id="msg_0723_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
@@ -954,7 +954,7 @@
 	</row>
 	<row id="msg_0723_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come on!\nYou holler too!\r</language>
+		<language name="English">C’mon!\nYou holler too!\r</language>
 	</row>
 	<row id="msg_0723_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
@@ -970,15 +970,15 @@
 	</row>
 	<row id="msg_0723_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, come on now!\nYou should look up to the way I live!\r</language>
+		<language name="English">Now, c’mon now!\nYou should look up to the way I live!\r</language>
 	</row>
 	<row id="msg_0723_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon and I are Idols!</language>
+		<language name="English">My homies and I are Idols!</language>
 	</row>
 	<row id="msg_0723_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Say what you will!\nWe’re Idols!\r</language>
+		<language name="English">Say what you will!\nWe Idols!\r</language>
 	</row>
 	<row id="msg_0723_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
@@ -994,11 +994,11 @@
 	</row>
 	<row id="msg_0723_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I became an Idol because I wanted\neveryone to see me!\r</language>
+		<language name="English">I became an Idol ’cause I wanted\neverybody to see me!\r</language>
 	</row>
 	<row id="msg_0723_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m too into battling...\nThey might fire me as an Idol...</language>
+		<language name="English">I’m too into battlin’...\nThey might fire me as an Idol...</language>
 	</row>
 	<row id="msg_0723_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
@@ -1006,11 +1006,11 @@
 	</row>
 	<row id="msg_0723_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can’t help myself.\nNo one can keep me from battling.\r</language>
+		<language name="English">I can’t help myself.\nNobody can keep me from battlin’.\r</language>
 	</row>
 	<row id="msg_0723_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I run a marathon every morning!\nIt’s great!</language>
+		<language name="English">I run a marathon every mornin’!\nIt’s great!</language>
 	</row>
 	<row id="msg_0723_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
@@ -1022,7 +1022,7 @@
 	</row>
 	<row id="msg_0723_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll run on the spot while battling\nfor the good of my health.</language>
+		<language name="English">I’ll run on the spot while battlin’\nfor the good of my health.</language>
 	</row>
 	<row id="msg_0723_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
@@ -1034,7 +1034,7 @@
 	</row>
 	<row id="msg_0723_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Out of the way!\nI’ve got deliveries to make!</language>
+		<language name="English">Outta the way!\nI’ve got deliveries to make!</language>
 	</row>
 	<row id="msg_0723_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
@@ -1042,7 +1042,7 @@
 	</row>
 	<row id="msg_0723_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the delivering I do every day...\nI’ve got deep muscle pain!\r</language>
+		<language name="English">All the deliverin’ I do every day...\nI’ve got deep muscle pain!\r</language>
 	</row>
 	<row id="msg_0723_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
@@ -1054,11 +1054,11 @@
 	</row>
 	<row id="msg_0723_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dream is to make a building taller\nthan a mountain!\r</language>
+		<language name="English">My dream is to make a buildin’ taller\nthan a mountain!\r</language>
 	</row>
 	<row id="msg_0723_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smell that? That’s the smell of hay\nclinging to my body.</language>
+		<language name="English">Smell that? That’s the smell of hay\nclingin’ to my body.</language>
 	</row>
 	<row id="msg_0723_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
@@ -1066,7 +1066,7 @@
 	</row>
 	<row id="msg_0723_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This smell I have is the sweet scent\nof hay that Pokémon surely love.\r</language>
+		<language name="English">This smell I have is the sweet scent\nof hay that homie surely love.\r</language>
 	</row>
 	<row id="msg_0723_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
@@ -1082,7 +1082,7 @@
 	</row>
 	<row id="msg_0723_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m not getting any younger.\nI can’t overexert myself.</language>
+		<language name="English">I’m not gettin’ any younger.\nI can’t overexert myself.</language>
 	</row>
 	<row id="msg_0723_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
@@ -1090,11 +1090,11 @@
 	</row>
 	<row id="msg_0723_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’re good and young.\nThere’s a sparkle about you.\r</language>
+		<language name="English">Oh, you good and young.\nThere’s a sparkle about you.\r</language>
 	</row>
 	<row id="msg_0723_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! You there, Hustler!\nYou and me, we’re battling!</language>
+		<language name="English">Ayo! You there, Hustler!\nYou and me, we battlin’!</language>
 	</row>
 	<row id="msg_0723_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
@@ -1106,11 +1106,11 @@
 	</row>
 	<row id="msg_0723_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">These here are my Pokémon.\nI raised them with my ma and pa.</language>
+		<language name="English">These here are my homies.\nI raised them with my ma and pa.</language>
 	</row>
 	<row id="msg_0723_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sure right kind of tough, ain’t\nthey?\r</language>
+		<language name="English">Sure right kinda tough, ain’t\nthey?\r</language>
 	</row>
 	<row id="msg_0723_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
@@ -1130,11 +1130,11 @@
 	</row>
 	<row id="msg_0723_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, everyone!\nBig smiles!</language>
+		<language name="English">OK, everybody!\nBig smiles!</language>
 	</row>
 	<row id="msg_0723_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big smiles!\nCome on!\r</language>
+		<language name="English">Big smiles!\nC’mon!\r</language>
 	</row>
 	<row id="msg_0723_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
@@ -1162,11 +1162,11 @@
 	</row>
 	<row id="msg_0723_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oof...\nI’m feeling groggy...\r</language>
+		<language name="English">Oof...\nI’m feelin’ groggy...\r</language>
 	</row>
 	<row id="msg_0723_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup there, Hustler!\nPlease battle with me!</language>
+		<language name="English">Wassup there, Hustler!\nPlease scrap with me!</language>
 	</row>
 	<row id="msg_0723_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
@@ -1178,11 +1178,11 @@
 	</row>
 	<row id="msg_0723_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll do anything for a good\nnews story!</language>
+		<language name="English">I’ll do anythin’ for a good\nnews story!</language>
 	</row>
 	<row id="msg_0723_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m relentless about battling, too!\r</language>
+		<language name="English">I’m relentless about battlin’, too!\r</language>
 	</row>
 	<row id="msg_0723_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
@@ -1194,7 +1194,7 @@
 	</row>
 	<row id="msg_0723_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“What a tough Hustler!” Is that\nwhat you’re thinking?\r</language>
+		<language name="English">“What a tough Hustler!” Is that\nwhat you thinkin’?\r</language>
 	</row>
 	<row id="msg_0723_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
@@ -1202,7 +1202,7 @@
 	</row>
 	<row id="msg_0723_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come on!\nWe’ll run! Together!</language>
+		<language name="English">C’mon!\nWe’ll run! Together!</language>
 	</row>
 	<row id="msg_0723_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
@@ -1214,7 +1214,7 @@
 	</row>
 	<row id="msg_0723_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gear change!\nWe’re attacking at top speed!</language>
+		<language name="English">Gear change!\nWe attackin’ at top speed!</language>
 	</row>
 	<row id="msg_0723_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
@@ -1226,7 +1226,7 @@
 	</row>
 	<row id="msg_0723_00306" index="306">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can you keep up with my Pokémon at\na full run?</language>
+		<language name="English">Can you keep up with my homies at\na full run?</language>
 	</row>
 	<row id="msg_0723_00307" index="307">
 		<attribute name="window_context_name">used</attribute>
@@ -1234,7 +1234,7 @@
 	</row>
 	<row id="msg_0723_00308" index="308">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m taking it to a zone beyond\nspeed!\r</language>
+		<language name="English">I’m takin’ it to a zone beyond\nspeed!\r</language>
 	</row>
 	<row id="msg_0723_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
@@ -1258,7 +1258,7 @@
 	</row>
 	<row id="msg_0723_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please! Let me call you Master\nTrainer from now on!\r</language>
+		<language name="English">Please! Lemme call you Master\nTrainer from now on!\r</language>
 	</row>
 	<row id="msg_0723_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
@@ -1286,7 +1286,7 @@
 	</row>
 	<row id="msg_0723_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Come on!</language>
+		<language name="English">Ayo! C’mon!</language>
 	</row>
 	<row id="msg_0723_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
@@ -1294,7 +1294,7 @@
 	</row>
 	<row id="msg_0723_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re not bad, you.\r</language>
+		<language name="English">You not bad, you.\r</language>
 	</row>
 	<row id="msg_0723_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
@@ -1302,7 +1302,7 @@
 	</row>
 	<row id="msg_0723_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the greatest!\nGwahahaha!\r</language>
+		<language name="English">I’m the greatest!\nGwahahaha!\r</language>
 	</row>
 	<row id="msg_0723_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
@@ -1310,15 +1310,15 @@
 	</row>
 	<row id="msg_0723_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! Little youngblood!\nA battle, please!</language>
+		<language name="English">Ayo! Little youngblood!\nA scrap, please!</language>
 	</row>
 	<row id="msg_0723_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Little youngblood!\nThank you very kindly!\r</language>
+		<language name="English">Little youngblood!\nGood looks hella kindly!\r</language>
 	</row>
 	<row id="msg_0723_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Little youngblood!\nI’m really upset over this!\r</language>
+		<language name="English">Little youngblood!\nI’m deadass upset over this!\r</language>
 	</row>
 	<row id="msg_0723_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
@@ -1326,7 +1326,7 @@
 	</row>
 	<row id="msg_0723_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re kidding?!\nI’m naturally talented?!\r</language>
+		<language name="English">You kiddin’?!\nI’m naturally talented?!\r</language>
 	</row>
 	<row id="msg_0723_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
@@ -1346,7 +1346,7 @@
 	</row>
 	<row id="msg_0723_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did I catch you smirking at my\neight-pack abs?</language>
+		<language name="English">Did I catch you smirkin’ at my\neight-pack abs?</language>
 	</row>
 	<row id="msg_0723_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
@@ -1358,7 +1358,7 @@
 	</row>
 	<row id="msg_0723_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In love and in battles, I’ve never\ntasted defeat!</language>
+		<language name="English">In love and in scraps, I’ve never\ntasted defeat!</language>
 	</row>
 	<row id="msg_0723_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
@@ -1370,7 +1370,7 @@
 	</row>
 	<row id="msg_0723_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is it! Over the top!\nEveryone charge!</language>
+		<language name="English">This is it! Over the top!\nEverybody charge!</language>
 	</row>
 	<row id="msg_0723_00343" index="343">
 		<attribute name="window_context_name">used</attribute>
@@ -1398,7 +1398,7 @@
 	</row>
 	<row id="msg_0723_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, a superb battle that was.\r</language>
+		<language name="English">Ah, a superb scrap that was.\r</language>
 	</row>
 	<row id="msg_0723_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
@@ -1414,7 +1414,7 @@
 	</row>
 	<row id="msg_0723_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nYou’re more than simply adorable.\r</language>
+		<language name="English">I see...\nYou more than simply adorable.\r</language>
 	</row>
 	<row id="msg_0723_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
@@ -1422,7 +1422,7 @@
 	</row>
 	<row id="msg_0723_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stirring shout, wouldn’t you say?\nI find it quite bracing.</language>
+		<language name="English">A stirrin’ shout, wouldn’t you say?\nI find it quite bracin’.</language>
 	</row>
 	<row id="msg_0723_00356" index="356">
 		<attribute name="window_context_name">used</attribute>
@@ -1430,7 +1430,7 @@
 	</row>
 	<row id="msg_0723_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Being rich doesn’t shield me from\nhaving worries...</language>
+		<language name="English">Being rich don’t shield me from\nhavin’ worries...</language>
 	</row>
 	<row id="msg_0723_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
@@ -1442,11 +1442,11 @@
 	</row>
 	<row id="msg_0723_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come to know defeat...\nLearn what it means to battle...</language>
+		<language name="English">Come to know defeat...\nLearn what it means to scrap...</language>
 	</row>
 	<row id="msg_0723_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see you becoming ever more\npowerful...\r</language>
+		<language name="English">I see you becomin’ ever more\npowerful...\r</language>
 	</row>
 	<row id="msg_0723_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
@@ -1486,7 +1486,7 @@
 	</row>
 	<row id="msg_0723_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There really is no trickery...\r</language>
+		<language name="English">There deadass is no trickery...\r</language>
 	</row>
 	<row id="msg_0723_00372" index="372">
 		<attribute name="window_context_name">used</attribute>
@@ -1514,7 +1514,7 @@
 	</row>
 	<row id="msg_0723_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I live among Pokémon.</language>
+		<language name="English">I live among homie.</language>
 	</row>
 	<row id="msg_0723_00379" index="379">
 		<attribute name="window_context_name">used</attribute>
@@ -1526,11 +1526,11 @@
 	</row>
 	<row id="msg_0723_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...They’re Pokémon I’ve raised with\nmy father...</language>
+		<language name="English">...They homie I’ve raised with\nmy father...</language>
 	</row>
 	<row id="msg_0723_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Dad, are you seeing this?\nI did it...\r</language>
+		<language name="English">...Dad, are you seein’ this?\nI did it...\r</language>
 	</row>
 	<row id="msg_0723_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
@@ -1538,19 +1538,19 @@
 	</row>
 	<row id="msg_0723_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raising Pokémon takes a lot of\nhonest effort!</language>
+		<language name="English">Raising homie takes a lotta\nhonest effort!</language>
 	</row>
 	<row id="msg_0723_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yahaha! I’ve had a hands-on time\nraising those Pokémon!\r</language>
+		<language name="English">Yahaha! I’ve had a hands-on time\nraisin’ those homie!\r</language>
 	</row>
 	<row id="msg_0723_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Urgwah!\nLook what you’ve done to my Pokémon!\r</language>
+		<language name="English">Urgwah!\nLook what you’ve done to my homies!\r</language>
 	</row>
 	<row id="msg_0723_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you have a look at the Pokémon\nI’ve raised?</language>
+		<language name="English">Will you have a look at the homie\nI’ve raised?</language>
 	</row>
 	<row id="msg_0723_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
@@ -1562,7 +1562,7 @@
 	</row>
 	<row id="msg_0723_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I specialize in raising cute Pokémon!</language>
+		<language name="English">I specialize in raisin’ cute homie!</language>
 	</row>
 	<row id="msg_0723_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
@@ -1570,7 +1570,7 @@
 	</row>
 	<row id="msg_0723_00392" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, but they’re so cute!\r</language>
+		<language name="English">Oh, but they so cute!\r</language>
 	</row>
 	<row id="msg_0723_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
@@ -1590,7 +1590,7 @@
 	</row>
 	<row id="msg_0723_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your eyes remain unclouded in defeat.\nLike jewels they are!\r</language>
+		<language name="English">Your eyes remain unclouded in defeat.\nLike jewels they!\r</language>
 	</row>
 	<row id="msg_0723_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
@@ -1606,11 +1606,11 @@
 	</row>
 	<row id="msg_0723_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I daresay, you’re quite the\ndaredevil yourself!\r</language>
+		<language name="English">I daresay, you quite the\ndaredevil yourself!\r</language>
 	</row>
 	<row id="msg_0723_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to run home to mommy,\nhere’s your chance, punk!</language>
+		<language name="English">If you wanna run home to mommy,\nhere’s your chance, punk!</language>
 	</row>
 	<row id="msg_0723_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
@@ -1622,11 +1622,11 @@
 	</row>
 	<row id="msg_0723_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battles achieve nothing!\nTake my hand! It’s about love!</language>
+		<language name="English">Battles achieve nothin’!\nTake my hand! It’s about love!</language>
 	</row>
 	<row id="msg_0723_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t mean to battle--but take my\nhand! It’s about love!\r</language>
+		<language name="English">I didn’t mean to scrap--but take my\nhand! It’s about love!\r</language>
 	</row>
 	<row id="msg_0723_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
@@ -1670,15 +1670,15 @@
 	</row>
 	<row id="msg_0723_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody gather around for my\nstupendicular Pokémon show!</language>
+		<language name="English">Everybody gather around for my\nstupendicular homie show!</language>
 	</row>
 	<row id="msg_0723_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wasn’t that amusing?\r</language>
+		<language name="English">Wasn’t that amusin’?\r</language>
 	</row>
 	<row id="msg_0723_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nrrgh...\nI am not amused.\r</language>
+		<language name="English">Nrrgh...\nI ain’t amused.\r</language>
 	</row>
 	<row id="msg_0723_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
@@ -1730,7 +1730,7 @@
 	</row>
 	<row id="msg_0723_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I go all out in battle, no matter\nwhat.</language>
+		<language name="English">I go all out in scrap, no matter\nwhat.</language>
 	</row>
 	<row id="msg_0723_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
@@ -1742,7 +1742,7 @@
 	</row>
 	<row id="msg_0723_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is it! The biggest battle in my\nlife! I cannot afford to lose!</language>
+		<language name="English">This is it! The biggest scrap in my\nlife! I can’t afford to lose!</language>
 	</row>
 	<row id="msg_0723_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
@@ -1754,15 +1754,15 @@
 	</row>
 	<row id="msg_0723_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My love of nature and Pokémon made\na Ranger out of me!</language>
+		<language name="English">My love of nature and homie made\na Ranger outta me!</language>
 	</row>
 	<row id="msg_0723_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love to battle, too!\r</language>
+		<language name="English">I love to scrap, too!\r</language>
 	</row>
 	<row id="msg_0723_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh...\nI still love to battle, too.\r</language>
+		<language name="English">Ooh...\nI still love to scrap, too.\r</language>
 	</row>
 	<row id="msg_0723_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
@@ -1774,11 +1774,11 @@
 	</row>
 	<row id="msg_0723_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, you’ve got the mettle.\nBeing a Ranger is a lot of fun!\r</language>
+		<language name="English">Yes, you’ve got the mettle.\nBeing a Ranger is a lotta fun!\r</language>
 	</row>
 	<row id="msg_0723_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Win or lose, a battle happens only\nonce!</language>
+		<language name="English">Win or lose, a scrap happens only\nonce!</language>
 	</row>
 	<row id="msg_0723_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
@@ -1790,19 +1790,19 @@
 	</row>
 	<row id="msg_0723_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s my sworn duty to protect nature\nand the Pokémon in it.</language>
+		<language name="English">It’s my sworn duty to protect nature\nand the homie in it.</language>
 	</row>
 	<row id="msg_0723_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a challenging life, but there’s\na lot to enjoy every day.\r</language>
+		<language name="English">It’s a challengin’ life, but there’s\na lot to enjoy every day.\r</language>
 	</row>
 	<row id="msg_0723_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a rewarding career.\nHow does it sound to you?\r</language>
+		<language name="English">It’s a rewardin’ career.\nHow does it sound to you?\r</language>
 	</row>
 	<row id="msg_0723_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My darling Pokémon will lay a licking\non you!</language>
+		<language name="English">My darling homie will lay a lickin’\non you!</language>
 	</row>
 	<row id="msg_0723_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
@@ -1814,7 +1814,7 @@
 	</row>
 	<row id="msg_0723_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t sleep while trying to come\nup with this new strategy!</language>
+		<language name="English">I didn’t sleep while tryna come\nup with this new strategy!</language>
 	</row>
 	<row id="msg_0723_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
@@ -1822,7 +1822,7 @@
 	</row>
 	<row id="msg_0723_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, but...\nI really needed to sleep tonight...\r</language>
+		<language name="English">Oh, but...\nI deadass needed to sleep tonight...\r</language>
 	</row>
 	<row id="msg_0723_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
@@ -1842,7 +1842,7 @@
 	</row>
 	<row id="msg_0723_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong, I am!\r</language>
+		<language name="English">Strong, I’m!\r</language>
 	</row>
 	<row id="msg_0723_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
@@ -1850,23 +1850,23 @@
 	</row>
 	<row id="msg_0723_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See it! Feel it!\nThe ultimate power... Probably!</language>
+		<language name="English">See it! Feel it!\nThe ultimate power... Prob’ly!</language>
 	</row>
 	<row id="msg_0723_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no defeat for me, the\nultimate... Probably!\r</language>
+		<language name="English">There is no defeat for me, the\nultimate... Prob’ly!\r</language>
 	</row>
 	<row id="msg_0723_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The title of the ultimate probably!\nI confer it on you!\r</language>
+		<language name="English">The title of the ultimate prob’ly!\nI confer it on you!\r</language>
 	</row>
 	<row id="msg_0723_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wow!\nRare Pokémon!</language>
+		<language name="English">Oh, sheesh!\nRare homie!</language>
 	</row>
 	<row id="msg_0723_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hihihi... That’s what you get for\nletting down your guard.\r</language>
+		<language name="English">Hihihi... That’s what you get for\nlettin’ down your guard.\r</language>
 	</row>
 	<row id="msg_0723_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
@@ -1874,7 +1874,7 @@
 	</row>
 	<row id="msg_0723_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can’t stand getting cold, but I’m\nquite good.</language>
+		<language name="English">I can’t stand gettin’ cold, but I’m\nquite good.</language>
 	</row>
 	<row id="msg_0723_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
@@ -1882,11 +1882,11 @@
 	</row>
 	<row id="msg_0723_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ch-chatter... Urr...\nI’m getting sleepy...\r</language>
+		<language name="English">Ch-chatter... Urr...\nI’m gettin’ sleepy...\r</language>
 	</row>
 	<row id="msg_0723_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My ace Pokémon are on the go!</language>
+		<language name="English">My ace homie are on the go!</language>
 	</row>
 	<row id="msg_0723_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
@@ -1906,7 +1906,7 @@
 	</row>
 	<row id="msg_0723_00476" index="476">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m whiting out...\r</language>
+		<language name="English">I’m whitin’ out...\r</language>
 	</row>
 	<row id="msg_0723_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
@@ -1922,7 +1922,7 @@
 	</row>
 	<row id="msg_0723_00480" index="480">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the one! Number one out of all\nthe kids in shorts!</language>
+		<language name="English">I’m the one! Number one outta all\nthe kids in shorts!</language>
 	</row>
 	<row id="msg_0723_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
@@ -1934,7 +1934,7 @@
 	</row>
 	<row id="msg_0723_00483" index="483">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the one! The only one true one\namong shorts-wearing kids!</language>
+		<language name="English">I’m the one! The only one true one\namong shorts-wearin’ kids!</language>
 	</row>
 	<row id="msg_0723_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
@@ -1974,7 +1974,7 @@
 	</row>
 	<row id="msg_0723_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The harsh realities of battling!\r</language>
+		<language name="English">The harsh realities of battlin’!\r</language>
 	</row>
 	<row id="msg_0723_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
@@ -1986,15 +1986,15 @@
 	</row>
 	<row id="msg_0723_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You offered me nothing new to learn.\r</language>
+		<language name="English">You offered me nothin’ new to learn.\r</language>
 	</row>
 	<row id="msg_0723_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I get it now. In that situation,\nI should have used that move.\r</language>
+		<language name="English">I get it now. In that situation,\nI shoulda used that move.\r</language>
 	</row>
 	<row id="msg_0723_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My teacher gave me advice on\nbattling.</language>
+		<language name="English">My teacher gave me advice on\nbattlin’.</language>
 	</row>
 	<row id="msg_0723_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
@@ -2006,7 +2006,7 @@
 	</row>
 	<row id="msg_0723_00501" index="501">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why are we battling?\nI don’t get it.</language>
+		<language name="English">Why are we battlin’?\nI don’t get it.</language>
 	</row>
 	<row id="msg_0723_00502" index="502">
 		<attribute name="window_context_name">used</attribute>
@@ -2018,7 +2018,7 @@
 	</row>
 	<row id="msg_0723_00504" index="504">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ultimately, Pokémon is just another\nbrand. You know who’ll win, right?</language>
+		<language name="English">Ultimately, homie is just another\nbrand. You know who’ll win, right?</language>
 	</row>
 	<row id="msg_0723_00505" index="505">
 		<attribute name="window_context_name">used</attribute>
@@ -2026,23 +2026,23 @@
 	</row>
 	<row id="msg_0723_00506" index="506">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But how... My...\nThe Pokémon I’ve raised...\r</language>
+		<language name="English">But how... My...\nThe homie I’ve raised...\r</language>
 	</row>
 	<row id="msg_0723_00507" index="507">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There ain’t anything that I can’t\nbuy. Bread can buy battles!</language>
+		<language name="English">There ain’t anythin’ that I can’t\nbuy. Bread can buy scraps!</language>
 	</row>
 	<row id="msg_0723_00508" index="508">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s nothing that bread can’t\nbuy.\r</language>
+		<language name="English">There’s nothin’ that bread can’t\nbuy.\r</language>
 	</row>
 	<row id="msg_0723_00509" index="509">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll give you my allowance if you’ll\nlet me win.\r</language>
+		<language name="English">I’ll give you my allowance if you’ll\nlemme win.\r</language>
 	</row>
 	<row id="msg_0723_00510" index="510">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’m really not cut out for\ndoing this socialite-lady thing...</language>
+		<language name="English">You know, I’m deadass not cut out for\ndoing this socialite-lady thing...</language>
 	</row>
 	<row id="msg_0723_00511" index="511">
 		<attribute name="window_context_name">used</attribute>
@@ -2074,7 +2074,7 @@
 	</row>
 	<row id="msg_0723_00518" index="518">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What am I standing on?\nBusted Hood Balls?\r</language>
+		<language name="English">What am I standin’ on?\nBusted Hood Balls?\r</language>
 	</row>
 	<row id="msg_0723_00519" index="519">
 		<attribute name="window_context_name">used</attribute>
@@ -2126,7 +2126,7 @@
 	</row>
 	<row id="msg_0723_00531" index="531">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle, you say?\nI’m never losing to you!</language>
+		<language name="English">A scrap, you say?\nI’m never losin’ to you!</language>
 	</row>
 	<row id="msg_0723_00532" index="532">
 		<attribute name="window_context_name">used</attribute>
@@ -2154,11 +2154,11 @@
 	</row>
 	<row id="msg_0723_00538" index="538">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’d won, I would have even\ngiven you my autograph!\r</language>
+		<language name="English">If you’d won, I woulda even\ngiven you my autograph!\r</language>
 	</row>
 	<row id="msg_0723_00539" index="539">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My management team will have\nsomething to say about this!\r</language>
+		<language name="English">My management team will have\nsomethin’ to say about this!\r</language>
 	</row>
 	<row id="msg_0723_00540" index="540">
 		<attribute name="window_context_name">used</attribute>
@@ -2170,7 +2170,7 @@
 	</row>
 	<row id="msg_0723_00542" index="542">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Run!\nKeep running for me!\r</language>
+		<language name="English">Run!\nKeep runnin’ for me!\r</language>
 	</row>
 	<row id="msg_0723_00543" index="543">
 		<attribute name="window_context_name">used</attribute>
@@ -2178,15 +2178,15 @@
 	</row>
 	<row id="msg_0723_00544" index="544">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right.\nNice seeing ya.\r</language>
+		<language name="English">All right.\nNice seein’ ya.\r</language>
 	</row>
 	<row id="msg_0723_00545" index="545">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right.\nThanks for coming by.\r</language>
+		<language name="English">All right.\nGood looks for comin’ by.\r</language>
 	</row>
 	<row id="msg_0723_00546" index="546">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My cohorts call me the emperor\nof fishing!</language>
+		<language name="English">My cohorts call me the emperor\nof fishin’!</language>
 	</row>
 	<row id="msg_0723_00547" index="547">
 		<attribute name="window_context_name">used</attribute>
@@ -2194,7 +2194,7 @@
 	</row>
 	<row id="msg_0723_00548" index="548">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why the emperor of fishing?\nIt’s an ancient Chinese legend...\r</language>
+		<language name="English">Why the emperor of fishin’?\nIt’s an ancient Chinese legend...\r</language>
 	</row>
 	<row id="msg_0723_00549" index="549">
 		<attribute name="window_context_name">used</attribute>
@@ -2226,7 +2226,7 @@
 	</row>
 	<row id="msg_0723_00556" index="556">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nahaha! Nahaha!\nI’m not gonna lose my whole life!\r</language>
+		<language name="English">Nahaha! Nahaha!\nI’m not gon’ lose my whole life!\r</language>
 	</row>
 	<row id="msg_0723_00557" index="557">
 		<attribute name="window_context_name">used</attribute>
@@ -2238,11 +2238,11 @@
 	</row>
 	<row id="msg_0723_00559" index="559">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re still wanting.\nI urge you to keep at it.\r</language>
+		<language name="English">You still wantin’.\nI urge you to keep at it.\r</language>
 	</row>
 	<row id="msg_0723_00560" index="560">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s quite the collection.\nI’m willing to relieve you of the lot.\r</language>
+		<language name="English">That’s quite the collection.\nI’m willin’ to relieve you of the lot.\r</language>
 	</row>
 	<row id="msg_0723_00561" index="561">
 		<attribute name="window_context_name">used</attribute>
@@ -2270,7 +2270,7 @@
 	</row>
 	<row id="msg_0723_00567" index="567">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle?\nI’m up for that.</language>
+		<language name="English">Scrap?\nI’m up for that.</language>
 	</row>
 	<row id="msg_0723_00568" index="568">
 		<attribute name="window_context_name">used</attribute>
@@ -2290,7 +2290,7 @@
 	</row>
 	<row id="msg_0723_00572" index="572">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m gonna pluck you for that!\r</language>
+		<language name="English">I’m gon’ pluck you for that!\r</language>
 	</row>
 	<row id="msg_0723_00573" index="573">
 		<attribute name="window_context_name">used</attribute>
@@ -2298,15 +2298,15 @@
 	</row>
 	<row id="msg_0723_00574" index="574">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s battle again!\r</language>
+		<language name="English">Let’s scrap again!\r</language>
 	</row>
 	<row id="msg_0723_00575" index="575">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re not half bad!\r</language>
+		<language name="English">You not half bad!\r</language>
 	</row>
 	<row id="msg_0723_00576" index="576">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Looking out over the sea’s breaking\nwaves... It revives memories.</language>
+		<language name="English">Looking out over the sea’s breakin’\nwaves... It revives memories.</language>
 	</row>
 	<row id="msg_0723_00577" index="577">
 		<attribute name="window_context_name">used</attribute>
@@ -2318,7 +2318,7 @@
 	</row>
 	<row id="msg_0723_00579" index="579">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come on! Take a run at me!\nI can take it!</language>
+		<language name="English">C’mon! Take a run at me!\nI can take it!</language>
 	</row>
 	<row id="msg_0723_00580" index="580">
 		<attribute name="window_context_name">used</attribute>
@@ -2354,7 +2354,7 @@
 	</row>
 	<row id="msg_0723_00588" index="588">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re under arrest!\nYou’re under arrest!</language>
+		<language name="English">You under arrest!\nYou under arrest!</language>
 	</row>
 	<row id="msg_0723_00589" index="589">
 		<attribute name="window_context_name">used</attribute>
@@ -2374,7 +2374,7 @@
 	</row>
 	<row id="msg_0723_00593" index="593">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I must say, battling is a\nwonderful thing.\r</language>
+		<language name="English">I must say, battlin’ is a\nwonderful thing.\r</language>
 	</row>
 	<row id="msg_0723_00594" index="594">
 		<attribute name="window_context_name">used</attribute>
@@ -2390,7 +2390,7 @@
 	</row>
 	<row id="msg_0723_00597" index="597">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m throwing my all into this match!</language>
+		<language name="English">I’m throwin’ my all into this match!</language>
 	</row>
 	<row id="msg_0723_00598" index="598">
 		<attribute name="window_context_name">used</attribute>
@@ -2414,11 +2414,11 @@
 	</row>
 	<row id="msg_0723_00603" index="603">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t think I have any chance of\nwinning, but sure, I’ll battle.</language>
+		<language name="English">I don’t think I have any chance of\nwinnin’, but sure, I’ll scrap.</language>
 	</row>
 	<row id="msg_0723_00604" index="604">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, I wasn’t expecting to win.\r</language>
+		<language name="English">Sheesh, I wasn’t expectin’ to win.\r</language>
 	</row>
 	<row id="msg_0723_00605" index="605">
 		<attribute name="window_context_name">used</attribute>
@@ -2426,11 +2426,11 @@
 	</row>
 	<row id="msg_0723_00606" index="606">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think you’re awfully interested in\nme, ain’t you?</language>
+		<language name="English">I think you awfully interested in\nme, ain’t you?</language>
 	</row>
 	<row id="msg_0723_00607" index="607">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You lost because you were paying too\nmuch attention to me.\r</language>
+		<language name="English">You lost ’cause you were payin’ too\nmuch attention to me.\r</language>
 	</row>
 	<row id="msg_0723_00608" index="608">
 		<attribute name="window_context_name">used</attribute>
@@ -2450,7 +2450,7 @@
 	</row>
 	<row id="msg_0723_00612" index="612">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon are for adults, too...\nLet me show you...</language>
+		<language name="English">homie are for adults, too...\nLemme show you...</language>
 	</row>
 	<row id="msg_0723_00613" index="613">
 		<attribute name="window_context_name">used</attribute>
@@ -2462,7 +2462,7 @@
 	</row>
 	<row id="msg_0723_00615" index="615">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What I have here ain’t really a\nguitar.</language>
+		<language name="English">What I have here ain’t deadass a\nguitar.</language>
 	</row>
 	<row id="msg_0723_00616" index="616">
 		<attribute name="window_context_name">used</attribute>
@@ -2486,7 +2486,7 @@
 	</row>
 	<row id="msg_0723_00621" index="621">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s enjoy ourselves.\nI hate anything to do with pain!</language>
+		<language name="English">Let’s enjoy ourselves.\nI hate anythin’ to do with pain!</language>
 	</row>
 	<row id="msg_0723_00622" index="622">
 		<attribute name="window_context_name">used</attribute>
@@ -2498,11 +2498,11 @@
 	</row>
 	<row id="msg_0723_00624" index="624">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll put an end to this!\nWith my favorite Pokémon!</language>
+		<language name="English">I’ll put an end to this!\nWith my favorite homie!</language>
 	</row>
 	<row id="msg_0723_00625" index="625">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The love I have for my Pokémon is\ncomplete and perfectly strong...\r</language>
+		<language name="English">The love I have for my homies is\ncomplete and perfectly strong...\r</language>
 	</row>
 	<row id="msg_0723_00626" index="626">
 		<attribute name="window_context_name">used</attribute>
@@ -2510,7 +2510,7 @@
 	</row>
 	<row id="msg_0723_00627" index="627">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Living with Pokémon...\nEvery day is the greatest.</language>
+		<language name="English">Living with homie...\nEvery day is the greatest.</language>
 	</row>
 	<row id="msg_0723_00628" index="628">
 		<attribute name="window_context_name">used</attribute>
@@ -2518,19 +2518,19 @@
 	</row>
 	<row id="msg_0723_00629" index="629">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not a problem if I lose.\nI still have my Pokémon...\r</language>
+		<language name="English">It’s not a problem if I lose.\nI still have my homies...\r</language>
 	</row>
 	<row id="msg_0723_00630" index="630">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have my Pokémon.\nI don’t need anything else.</language>
+		<language name="English">I have my homies.\nI don’t need anythin’ else.</language>
 	</row>
 	<row id="msg_0723_00631" index="631">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With my Pokémon, I can be happy\nevery day.\r</language>
+		<language name="English">With my homies, I can be happy\nevery day.\r</language>
 	</row>
 	<row id="msg_0723_00632" index="632">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isn’t that the same for you?\nIsn’t it?\r</language>
+		<language name="English">Ain’t that the same for you?\nAin’t it?\r</language>
 	</row>
 	<row id="msg_0723_00633" index="633">
 		<attribute name="window_context_name">used</attribute>
@@ -2546,7 +2546,7 @@
 	</row>
 	<row id="msg_0723_00636" index="636">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do your best!\nMy beloved children!</language>
+		<language name="English">Do your best!\nMy beloved kids!</language>
 	</row>
 	<row id="msg_0723_00637" index="637">
 		<attribute name="window_context_name">used</attribute>
@@ -2554,19 +2554,19 @@
 	</row>
 	<row id="msg_0723_00638" index="638">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon are my beloved family.\r</language>
+		<language name="English">My homies are my beloved family.\r</language>
 	</row>
 	<row id="msg_0723_00639" index="639">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Little boy? Little girl? Doesn’t\nmatter which. Let’s do this!</language>
+		<language name="English">Little boy? Little girl? Don’t\nmatter which. Let’s do this!</language>
 	</row>
 	<row id="msg_0723_00640" index="640">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Little boy? Little girl?\nDoesn’t matter which, but sorry.\r</language>
+		<language name="English">Little boy? Little girl?\nDon’t matter which, but sorry.\r</language>
 	</row>
 	<row id="msg_0723_00641" index="641">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Little boy? Little girl? Doesn’t\nmatter which, but you’re sure tough!\r</language>
+		<language name="English">Little boy? Little girl? Don’t\nmatter which, but you sure tough!\r</language>
 	</row>
 	<row id="msg_0723_00642" index="642">
 		<attribute name="window_context_name">used</attribute>
@@ -2582,7 +2582,7 @@
 	</row>
 	<row id="msg_0723_00645" index="645">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re going for the win!\nHey-ho, let’s go!</language>
+		<language name="English">We going for the win!\nAyo-ho, let’s go!</language>
 	</row>
 	<row id="msg_0723_00646" index="646">
 		<attribute name="window_context_name">used</attribute>
@@ -2594,7 +2594,7 @@
 	</row>
 	<row id="msg_0723_00648" index="648">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce to you\nmy cherished partners!</language>
+		<language name="English">Lemme introduce to you\nmy cherished partners!</language>
 	</row>
 	<row id="msg_0723_00649" index="649">
 		<attribute name="window_context_name">used</attribute>
@@ -2606,7 +2606,7 @@
 	</row>
 	<row id="msg_0723_00651" index="651">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winning and losing ain’t all there is\nto battling.</language>
+		<language name="English">Winning and losin’ ain’t all there is\nto battlin’.</language>
 	</row>
 	<row id="msg_0723_00652" index="652">
 		<attribute name="window_context_name">used</attribute>
@@ -2618,27 +2618,27 @@
 	</row>
 	<row id="msg_0723_00654" index="654">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s no good to be too harsh...\nBut pampering is also out...</language>
+		<language name="English">It’s no good to be too harsh...\nBut pamperin’ is also out...</language>
 	</row>
 	<row id="msg_0723_00655" index="655">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Being a Pokémon Breeder is a deep\nand complex challenge.\r</language>
+		<language name="English">Being a homie Breeder is a deep\nand complex challenge.\r</language>
 	</row>
 	<row id="msg_0723_00656" index="656">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Balance is key for raising good\nPokémon.\r</language>
+		<language name="English">Balance is key for raisin’ good\nPokémon.\r</language>
 	</row>
 	<row id="msg_0723_00657" index="657">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll check how your Pokémon have\ngrown for you.</language>
+		<language name="English">I’ll check how your homies have\ngrown for you.</language>
 	</row>
 	<row id="msg_0723_00658" index="658">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not good enough!\nYour training style’s not up to par.\r</language>
+		<language name="English">Not good enough!\nYour trainin’ style’s not up to par.\r</language>
 	</row>
 	<row id="msg_0723_00659" index="659">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is impressive! You’ve raised your\nPokémon really thoroughly.\r</language>
+		<language name="English">This is impressive! You’ve raised your\nPokémon deadass thoroughly.\r</language>
 	</row>
 	<row id="msg_0723_00660" index="660">
 		<attribute name="window_context_name">used</attribute>
@@ -2690,7 +2690,7 @@
 	</row>
 	<row id="msg_0723_00672" index="672">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re no good at all.\nI’d better teach you.</language>
+		<language name="English">You no good at all.\nI’d better teach you.</language>
 	</row>
 	<row id="msg_0723_00673" index="673">
 		<attribute name="window_context_name">used</attribute>
@@ -2702,11 +2702,11 @@
 	</row>
 	<row id="msg_0723_00675" index="675">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m jacking up the power to max!\nAll the way to eleven!</language>
+		<language name="English">I’m jackin’ up the power to max!\nAll the way to eleven!</language>
 	</row>
 	<row id="msg_0723_00676" index="676">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, yeah! I’m feeling electric!\r</language>
+		<language name="English">Ooh, yeah! I’m feelin’ electric!\r</language>
 	</row>
 	<row id="msg_0723_00677" index="677">
 		<attribute name="window_context_name">used</attribute>
@@ -2718,11 +2718,11 @@
 	</row>
 	<row id="msg_0723_00679" index="679">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hah! Too weak!\nKeep trying!\r</language>
+		<language name="English">Hah! Too weak!\nKeep tryin’!\r</language>
 	</row>
 	<row id="msg_0723_00680" index="680">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hoh! You are tough!\nGive me a rematch!\r</language>
+		<language name="English">Hoh! You tough!\nGimme a rematch!\r</language>
 	</row>
 	<row id="msg_0723_00681" index="681">
 		<attribute name="window_context_name">used</attribute>
@@ -2754,15 +2754,15 @@
 	</row>
 	<row id="msg_0723_00688" index="688">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was a good battle.\nI hope we can meet again.\r</language>
+		<language name="English">That was a good scrap.\nI hope we can meet again.\r</language>
 	</row>
 	<row id="msg_0723_00689" index="689">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew...\nThe dude wasn’t expecting to lose.\r</language>
+		<language name="English">Whew...\nThe dude wasn’t expectin’ to lose.\r</language>
 	</row>
 	<row id="msg_0723_00690" index="690">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The power of nature!\nLet me show you!</language>
+		<language name="English">The power of nature!\nLemme show you!</language>
 	</row>
 	<row id="msg_0723_00691" index="691">
 		<attribute name="window_context_name">used</attribute>
@@ -2774,7 +2774,7 @@
 	</row>
 	<row id="msg_0723_00693" index="693">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle with me? I don’t know what\nyou’re talking about.</language>
+		<language name="English">A scrap with me? I don’t know what\nyou talkin’ about.</language>
 	</row>
 	<row id="msg_0723_00694" index="694">
 		<attribute name="window_context_name">used</attribute>
@@ -2798,19 +2798,19 @@
 	</row>
 	<row id="msg_0723_00699" index="699">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Off you go! Face my team of totally\ntrained Pokémon!</language>
+		<language name="English">Off you go! Face my team of totally\ntrained homie!</language>
 	</row>
 	<row id="msg_0723_00700" index="700">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\nI knew my Pokémon would do it!\r</language>
+		<language name="English">Bravo!\nI knew my homies would do it!\r</language>
 	</row>
 	<row id="msg_0723_00701" index="701">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no! That’s awful!\nWhat have you done to my Pokémon?!\r</language>
+		<language name="English">Oh, no! That’s awful!\nWhat have you done to my homies?!\r</language>
 	</row>
 	<row id="msg_0723_00702" index="702">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle is deadly earnest!\nNot a moment of inattention!</language>
+		<language name="English">A scrap is deadly earnest!\nNot a moment of inattention!</language>
 	</row>
 	<row id="msg_0723_00703" index="703">
 		<attribute name="window_context_name">used</attribute>
@@ -2822,7 +2822,7 @@
 	</row>
 	<row id="msg_0723_00705" index="705">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!</language>
+		<language name="English">Ayo!</language>
 	</row>
 	<row id="msg_0723_00706" index="706">
 		<attribute name="window_context_name">used</attribute>
@@ -2830,7 +2830,7 @@
 	</row>
 	<row id="msg_0723_00707" index="707">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey...\r</language>
+		<language name="English">Ayo...\r</language>
 	</row>
 	<row id="msg_0723_00708" index="708">
 		<attribute name="window_context_name">used</attribute>
@@ -2866,15 +2866,15 @@
 	</row>
 	<row id="msg_0723_00716" index="716">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’d like to keep battling Pokémon\neven when my hair is gray.\r</language>
+		<language name="English">I’d like to keep battlin’ homie\neven when my hair is gray.\r</language>
 	</row>
 	<row id="msg_0723_00717" index="717">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me make one thing clear...\nYou ain’t capable of beating me.</language>
+		<language name="English">Lemme make one thing clear...\nYou ain’t capable of beatin’ me.</language>
 	</row>
 	<row id="msg_0723_00718" index="718">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did I not say? There is no possible\nchance of you beating me.\r</language>
+		<language name="English">Did I not say? There is no possible\nchance of you beatin’ me.\r</language>
 	</row>
 	<row id="msg_0723_00719" index="719">
 		<attribute name="window_context_name">used</attribute>
@@ -2886,19 +2886,19 @@
 	</row>
 	<row id="msg_0723_00721" index="721">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Children these days...\nSo careless.\r</language>
+		<language name="English">Kids these days...\nSo careless.\r</language>
 	</row>
 	<row id="msg_0723_00722" index="722">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Children these days...\nQuite exuberant, methinks.\r</language>
+		<language name="English">Kids these days...\nQuite exuberant, methinks.\r</language>
 	</row>
 	<row id="msg_0723_00723" index="723">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I would like my children to become\nstrong and distinguished Hustlers.</language>
+		<language name="English">I would like my kids to become\nstrong and distinguished Hustlers.</language>
 	</row>
 	<row id="msg_0723_00724" index="724">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It wouldn’t do if my children were\nonly as good as you...\r</language>
+		<language name="English">It wouldn’t do if my kids were\nonly as good as you...\r</language>
 	</row>
 	<row id="msg_0723_00725" index="725">
 		<attribute name="window_context_name">used</attribute>
@@ -2906,15 +2906,15 @@
 	</row>
 	<row id="msg_0723_00726" index="726">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Behold you shall!\nPsychic-mystifying power!</language>
+		<language name="English">Behold you shall!\nPsychic-mystifyin’ power!</language>
 	</row>
 	<row id="msg_0723_00727" index="727">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see?\nPsychic-mystifying power!\r</language>
+		<language name="English">You see?\nPsychic-mystifyin’ power!\r</language>
 	</row>
 	<row id="msg_0723_00728" index="728">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No, but...\nPsychic-mystifying power...\r</language>
+		<language name="English">No, but...\nPsychic-mystifyin’ power...\r</language>
 	</row>
 	<row id="msg_0723_00729" index="729">
 		<attribute name="window_context_name">used</attribute>
@@ -2934,11 +2934,11 @@
 	</row>
 	<row id="msg_0723_00733" index="733">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you feeling dizzy?\r</language>
+		<language name="English">Are you feelin’ dizzy?\r</language>
 	</row>
 	<row id="msg_0723_00734" index="734">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooorgh...\nMy head’s spinning...\r</language>
+		<language name="English">Ooorgh...\nMy head’s spinnin’...\r</language>
 	</row>
 	<row id="msg_0723_00735" index="735">
 		<attribute name="window_context_name">used</attribute>
@@ -2954,11 +2954,11 @@
 	</row>
 	<row id="msg_0723_00738" index="738">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hoy! You look pretty tough.\nThis is gonna be fun!</language>
+		<language name="English">Hoy! You look pretty tough.\nThis is gon’ be fun!</language>
 	</row>
 	<row id="msg_0723_00739" index="739">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I thought so!\nYou are tough!\r</language>
+		<language name="English">I thought so!\nYou tough!\r</language>
 	</row>
 	<row id="msg_0723_00740" index="740">
 		<attribute name="window_context_name">used</attribute>
@@ -2978,7 +2978,7 @@
 	</row>
 	<row id="msg_0723_00744" index="744">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup.\nWhatcha having?</language>
+		<language name="English">Wassup.\nWhatcha havin’?</language>
 	</row>
 	<row id="msg_0723_00745" index="745">
 		<attribute name="window_context_name">used</attribute>
@@ -2986,7 +2986,7 @@
 	</row>
 	<row id="msg_0723_00746" index="746">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be seeing ya!\r</language>
+		<language name="English">Be seein’ ya!\r</language>
 	</row>
 	<row id="msg_0723_00747" index="747">
 		<attribute name="window_context_name">used</attribute>
@@ -2998,7 +2998,7 @@
 	</row>
 	<row id="msg_0723_00749" index="749">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, but...\nI’m not done serving you.\r</language>
+		<language name="English">Oh, but...\nI’m not done servin’ you.\r</language>
 	</row>
 	<row id="msg_0723_00750" index="750">
 		<attribute name="window_context_name">used</attribute>
@@ -3006,11 +3006,11 @@
 	</row>
 	<row id="msg_0723_00751" index="751">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve got something on your nose.\r</language>
+		<language name="English">You’ve got somethin’ on your nose.\r</language>
 	</row>
 	<row id="msg_0723_00752" index="752">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re hard, all right.\nI had to stare.\r</language>
+		<language name="English">You hard, all right.\nI had to stare.\r</language>
 	</row>
 	<row id="msg_0723_00753" index="753">
 		<attribute name="window_context_name">used</attribute>
@@ -3018,11 +3018,11 @@
 	</row>
 	<row id="msg_0723_00754" index="754">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yup, you’re as tough as I thought.\nYou even had me in trouble!\r</language>
+		<language name="English">Yup, you as tough as I thought.\nYou even had me in trouble!\r</language>
 	</row>
 	<row id="msg_0723_00755" index="755">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it!\nYou are a tough Hustler!\r</language>
+		<language name="English">I knew it!\nYou a tough Hustler!\r</language>
 	</row>
 	<row id="msg_0723_00756" index="756">
 		<attribute name="window_context_name">used</attribute>
@@ -3034,11 +3034,11 @@
 	</row>
 	<row id="msg_0723_00758" index="758">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’re finished and content?\nOK, another time, then.\r</language>
+		<language name="English">Oh, you finished and content?\nOK, another time, then.\r</language>
 	</row>
 	<row id="msg_0723_00759" index="759">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon have a different taste\nfrom the usual bunch.</language>
+		<language name="English">My homies have a different taste\nfrom the usual bunch.</language>
 	</row>
 	<row id="msg_0723_00760" index="760">
 		<attribute name="window_context_name">used</attribute>
@@ -3050,15 +3050,15 @@
 	</row>
 	<row id="msg_0723_00762" index="762">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya!\nTough-looking Hustler, ain’t you!</language>
+		<language name="English">Hiya!\nTough-lookin’ Hustler, ain’t you!</language>
 	</row>
 	<row id="msg_0723_00763" index="763">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This feeling of elation is bubbling\nup in me!\r</language>
+		<language name="English">This feelin’ of elation is bubblin’\nup in me!\r</language>
 	</row>
 	<row id="msg_0723_00764" index="764">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooch...\nYou’re too much to handle.\r</language>
+		<language name="English">Ooch...\nYou too much to handle.\r</language>
 	</row>
 	<row id="msg_0723_00765" index="765">
 		<attribute name="window_context_name">used</attribute>
@@ -3066,11 +3066,11 @@
 	</row>
 	<row id="msg_0723_00766" index="766">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vavavaroooom!\nI’m not close to redlining!\r</language>
+		<language name="English">Vavavaroooom!\nI’m not close to redlinin’!\r</language>
 	</row>
 	<row id="msg_0723_00767" index="767">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vrrr... Vrruuu...\nI’m flat out of gas...\r</language>
+		<language name="English">Vrrr... Vrruuu...\nI’m flat outta gas...\r</language>
 	</row>
 	<row id="msg_0723_00768" index="768">
 		<attribute name="window_context_name">used</attribute>
@@ -3090,7 +3090,7 @@
 	</row>
 	<row id="msg_0723_00772" index="772">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No riding double, though!\r</language>
+		<language name="English">No ridin’ double, though!\r</language>
 	</row>
 	<row id="msg_0723_00773" index="773">
 		<attribute name="window_context_name">used</attribute>
@@ -3122,7 +3122,7 @@
 	</row>
 	<row id="msg_0723_00780" index="780">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re serious? A battle?\nAnd that’s against me?</language>
+		<language name="English">You serious? A scrap?\nAnd that’s against me?</language>
 	</row>
 	<row id="msg_0723_00781" index="781">
 		<attribute name="window_context_name">used</attribute>
@@ -3130,7 +3130,7 @@
 	</row>
 	<row id="msg_0723_00782" index="782">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Double wow!\r</language>
+		<language name="English">Double sheesh!\r</language>
 	</row>
 	<row id="msg_0723_00783" index="783">
 		<attribute name="window_context_name">used</attribute>
@@ -3142,7 +3142,7 @@
 	</row>
 	<row id="msg_0723_00785" index="785">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So much for riveting your attention.\nYou nailed my Pokémon!\r</language>
+		<language name="English">So much for rivetin’ your attention.\nYou nailed my homies!\r</language>
 	</row>
 	<row id="msg_0723_00786" index="786">
 		<attribute name="window_context_name">used</attribute>
@@ -3166,11 +3166,11 @@
 	</row>
 	<row id="msg_0723_00791" index="791">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why am I battling here?\r</language>
+		<language name="English">Why am I battlin’ here?\r</language>
 	</row>
 	<row id="msg_0723_00792" index="792">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My fishing-rod-handling technique is\nthe best in all Sinnoh. Check it out!</language>
+		<language name="English">My fishin’-rod-handlin’ technique is\nthe best in all Sinnoh. Check it out!</language>
 	</row>
 	<row id="msg_0723_00793" index="793">
 		<attribute name="window_context_name">used</attribute>
@@ -3178,19 +3178,19 @@
 	</row>
 	<row id="msg_0723_00794" index="794">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How I handle my fishing rod has\nnothing to do with battling...\r</language>
+		<language name="English">How I handle my fishin’ rod has\nnothin’ to do with battlin’...\r</language>
 	</row>
 	<row id="msg_0723_00795" index="795">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two loves of my life are fishing\nand battling.</language>
+		<language name="English">The two loves of my life are fishin’\nand battlin’.</language>
 	</row>
 	<row id="msg_0723_00796" index="796">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel fantastic when I land a big\nfish or win a big battle.\r</language>
+		<language name="English">I feel fantastic when I land a big\nfish or win a big scrap.\r</language>
 	</row>
 	<row id="msg_0723_00797" index="797">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was born to fish and battle!\r</language>
+		<language name="English">I was born to fish and scrap!\r</language>
 	</row>
 	<row id="msg_0723_00798" index="798">
 		<attribute name="window_context_name">used</attribute>
@@ -3198,7 +3198,7 @@
 	</row>
 	<row id="msg_0723_00799" index="799">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sinnoh, I like.\nVery nice place.\r</language>
+		<language name="English">Sinnoh, I like.\nHella nice place.\r</language>
 	</row>
 	<row id="msg_0723_00800" index="800">
 		<attribute name="window_context_name">used</attribute>
@@ -3206,7 +3206,7 @@
 	</row>
 	<row id="msg_0723_00801" index="801">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? You’re my opponent?\nThis is kind of unnerving...</language>
+		<language name="English">Huh? You my opponent?\nThis is kinda unnervin’...</language>
 	</row>
 	<row id="msg_0723_00802" index="802">
 		<attribute name="window_context_name">used</attribute>
@@ -3222,7 +3222,7 @@
 	</row>
 	<row id="msg_0723_00805" index="805">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hahah! Keep it coming!\r</language>
+		<language name="English">Hahah! Keep it comin’!\r</language>
 	</row>
 	<row id="msg_0723_00806" index="806">
 		<attribute name="window_context_name">used</attribute>
@@ -3234,7 +3234,7 @@
 	</row>
 	<row id="msg_0723_00808" index="808">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ahaha! Ahaha!\nCome on, you laugh, too!\r</language>
+		<language name="English">Ahaha! Ahaha!\nC’mon, you laugh, too!\r</language>
 	</row>
 	<row id="msg_0723_00809" index="809">
 		<attribute name="window_context_name">used</attribute>
@@ -3250,15 +3250,15 @@
 	</row>
 	<row id="msg_0723_00812" index="812">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re good.\r</language>
+		<language name="English">You good.\r</language>
 	</row>
 	<row id="msg_0723_00813" index="813">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sweetest thing about battling?\nThe finishing blow!</language>
+		<language name="English">The sweetest thing about battlin’?\nThe finishin’ blow!</language>
 	</row>
 	<row id="msg_0723_00814" index="814">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take that!\nThat’s my finishing move!\r</language>
+		<language name="English">Take that!\nThat’s my finishin’ move!\r</language>
 	</row>
 	<row id="msg_0723_00815" index="815">
 		<attribute name="window_context_name">used</attribute>
@@ -3266,19 +3266,19 @@
 	</row>
 	<row id="msg_0723_00816" index="816">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you’re looking nifty!</language>
+		<language name="English">Ayo, you lookin’ nifty!</language>
 	</row>
 	<row id="msg_0723_00817" index="817">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you tried, right?\r</language>
+		<language name="English">Ayo, you tried, right?\r</language>
 	</row>
 	<row id="msg_0723_00818" index="818">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you’re kind of tough.\r</language>
+		<language name="English">Ayo, you kinda tough.\r</language>
 	</row>
 	<row id="msg_0723_00819" index="819">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen! This is my chorus group.\nMe and my Pokémon!</language>
+		<language name="English">Listen! This is my chorus group.\nMe and my homies!</language>
 	</row>
 	<row id="msg_0723_00820" index="820">
 		<attribute name="window_context_name">used</attribute>
@@ -3286,7 +3286,7 @@
 	</row>
 	<row id="msg_0723_00821" index="821">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wait!\nWe’re not done singing!\r</language>
+		<language name="English">Oh, wait!\nWe not done singin’!\r</language>
 	</row>
 	<row id="msg_0723_00822" index="822">
 		<attribute name="window_context_name">used</attribute>
@@ -3294,15 +3294,15 @@
 	</row>
 	<row id="msg_0723_00823" index="823">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I must thank my online homies.\nI don’t know who they are, though.\r</language>
+		<language name="English">I must thank my online homies.\nI don’t know who they, though.\r</language>
 	</row>
 	<row id="msg_0723_00824" index="824">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, this blows!\nMy online buddies let me down!\r</language>
+		<language name="English">Well, this blows!\nMy online buddies lemme down!\r</language>
 	</row>
 	<row id="msg_0723_00825" index="825">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can I have a moment?\nI’m trying to write some email.</language>
+		<language name="English">Can I have a moment?\nI’m tryna write some email.</language>
 	</row>
 	<row id="msg_0723_00826" index="826">
 		<attribute name="window_context_name">used</attribute>
@@ -3310,7 +3310,7 @@
 	</row>
 	<row id="msg_0723_00827" index="827">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think you’re doing?\nI want to go already.\r</language>
+		<language name="English">What do you think you doing?\nI wanna go already.\r</language>
 	</row>
 	<row id="msg_0723_00828" index="828">
 		<attribute name="window_context_name">used</attribute>
@@ -3318,7 +3318,7 @@
 	</row>
 	<row id="msg_0723_00829" index="829">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Father... Mother...\nWere you watching...?\r</language>
+		<language name="English">Father... Mother...\nWere you watchin’...?\r</language>
 	</row>
 	<row id="msg_0723_00830" index="830">
 		<attribute name="window_context_name">used</attribute>
@@ -3326,11 +3326,11 @@
 	</row>
 	<row id="msg_0723_00831" index="831">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can’t rightly say I much like\nbattling, I tell you.</language>
+		<language name="English">Can’t rightly say I much like\nbattlin’, I tell you.</language>
 	</row>
 	<row id="msg_0723_00832" index="832">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I won, but...\nI’m still shaking...\r</language>
+		<language name="English">I won, but...\nI’m still shakin’...\r</language>
 	</row>
 	<row id="msg_0723_00833" index="833">
 		<attribute name="window_context_name">used</attribute>
@@ -3350,19 +3350,19 @@
 	</row>
 	<row id="msg_0723_00837" index="837">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charge, my Pokémon! Demonstrate the\nfruits of our experimentation!</language>
+		<language name="English">Charge, my homies! Demonstrate the\nfruits of our experimentation!</language>
 	</row>
 	<row id="msg_0723_00838" index="838">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, my Pokémon proved my theory!\nI’ll get my professorship now!\r</language>
+		<language name="English">Yes, my homies proved my theory!\nI’ll get my professorship now!\r</language>
 	</row>
 	<row id="msg_0723_00839" index="839">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of experiments?\nThat’s classified.</language>
+		<language name="English">What kinda experiments?\nThat’s classified.</language>
 	</row>
 	<row id="msg_0723_00840" index="840">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I shall regress to my childhood for\nthis battle.</language>
+		<language name="English">I shall regress to my childhood for\nthis scrap.</language>
 	</row>
 	<row id="msg_0723_00841" index="841">
 		<attribute name="window_context_name">used</attribute>
@@ -3382,7 +3382,7 @@
 	</row>
 	<row id="msg_0723_00845" index="845">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fwahahaha!\nYou’re blessed to have your homies!\r</language>
+		<language name="English">Fwahahaha!\nYou blessed to have your homies!\r</language>
 	</row>
 	<row id="msg_0723_00846" index="846">
 		<attribute name="window_context_name">used</attribute>
@@ -3398,7 +3398,7 @@
 	</row>
 	<row id="msg_0723_00849" index="849">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why, sure! Sounds great!\nWe have to do this!</language>
+		<language name="English">Why, sure! Sounds great!\nWe gotta do this!</language>
 	</row>
 	<row id="msg_0723_00850" index="850">
 		<attribute name="window_context_name">used</attribute>
@@ -3406,11 +3406,11 @@
 	</row>
 	<row id="msg_0723_00851" index="851">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle while working...\nIt’s a good way to take a break.\r</language>
+		<language name="English">A scrap while workin’...\nIt’s a good way to take a break.\r</language>
 	</row>
 	<row id="msg_0723_00852" index="852">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll try to do my best!\nPlease give me this chance!</language>
+		<language name="English">I’ll try to do my best!\nPlease gimme this chance!</language>
 	</row>
 	<row id="msg_0723_00853" index="853">
 		<attribute name="window_context_name">used</attribute>
@@ -3418,19 +3418,19 @@
 	</row>
 	<row id="msg_0723_00854" index="854">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I tried the best I could!\nThank you for your encouragement!\r</language>
+		<language name="English">I tried the best I could!\nGood looks for your encouragement!\r</language>
 	</row>
 	<row id="msg_0723_00855" index="855">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle is... It is a love letter\nwritten in sand.</language>
+		<language name="English">A scrap is... It is a love letter\nwritten in sand.</language>
 	</row>
 	<row id="msg_0723_00856" index="856">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you understand what I’m trying\nto say? I guess you wouldn’t.\r</language>
+		<language name="English">Did you understand what I’m tryin’\nto say? I guess you wouldn’t.\r</language>
 	</row>
 	<row id="msg_0723_00857" index="857">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you understand what I’m trying\nto say? I guess you wouldn’t.\r</language>
+		<language name="English">Did you understand what I’m tryin’\nto say? I guess you wouldn’t.\r</language>
 	</row>
 	<row id="msg_0723_00858" index="858">
 		<attribute name="window_context_name">used</attribute>
@@ -3466,11 +3466,11 @@
 	</row>
 	<row id="msg_0723_00866" index="866">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re quite the Hustler yourself!\r</language>
+		<language name="English">You quite the Hustler yourself!\r</language>
 	</row>
 	<row id="msg_0723_00867" index="867">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A battle ain’t something you\ncan calculate.</language>
+		<language name="English">A scrap ain’t somethin’ you\ncan calculate.</language>
 	</row>
 	<row id="msg_0723_00868" index="868">
 		<attribute name="window_context_name">used</attribute>
@@ -3482,7 +3482,7 @@
 	</row>
 	<row id="msg_0723_00870" index="870">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s lots in life that doesn’t\ngo the way you want.</language>
+		<language name="English">There’s lots in life that don’t\ngo the way you want.</language>
 	</row>
 	<row id="msg_0723_00871" index="871">
 		<attribute name="window_context_name">used</attribute>
@@ -3510,7 +3510,7 @@
 	</row>
 	<row id="msg_0723_00877" index="877">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because of that, I’ve grown so\nvery strong...\r</language>
+		<language name="English">’cause of that, I’ve grown so\nhella strong...\r</language>
 	</row>
 	<row id="msg_0723_00878" index="878">
 		<attribute name="window_context_name">used</attribute>
@@ -3518,27 +3518,27 @@
 	</row>
 	<row id="msg_0723_00879" index="879">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is for keeping the sun off.</language>
+		<language name="English">This is for keepin’ the sun off.</language>
 	</row>
 	<row id="msg_0723_00880" index="880">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m strong at battling, but I can’t\ntake sunlight...\r</language>
+		<language name="English">I’m strong at battlin’, but I can’t\ntake sunlight...\r</language>
 	</row>
 	<row id="msg_0723_00881" index="881">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t want to roast my skin.\r</language>
+		<language name="English">I don’t wanna roast my skin.\r</language>
 	</row>
 	<row id="msg_0723_00882" index="882">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well...\nThose are rare Pokémon...</language>
+		<language name="English">Well...\nThose are rare homie...</language>
 	</row>
 	<row id="msg_0723_00883" index="883">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve never caught those...\nYour Pokémon are different, all right.\r</language>
+		<language name="English">I’ve never caught those...\nYour homies are different, all right.\r</language>
 	</row>
 	<row id="msg_0723_00884" index="884">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’re a Hustler?\nYou’re not a Pokémon?\r</language>
+		<language name="English">Oh, you a Hustler?\nYou not a homie?\r</language>
 	</row>
 	<row id="msg_0723_00885" index="885">
 		<attribute name="window_context_name">used</attribute>
@@ -3562,7 +3562,7 @@
 	</row>
 	<row id="msg_0723_00890" index="890">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re tough!\nYou inspire me!\r</language>
+		<language name="English">You tough!\nYou inspire me!\r</language>
 	</row>
 	<row id="msg_0723_00891" index="891">
 		<attribute name="window_context_name">used</attribute>
@@ -3574,11 +3574,11 @@
 	</row>
 	<row id="msg_0723_00893" index="893">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Yawn...\nOh, really? I lost?\r</language>
+		<language name="English">...Yawn...\nOh, deadass? I lost?\r</language>
 	</row>
 	<row id="msg_0723_00894" index="894">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re sure you can handle me?\nI’m an ultrastellar talent.</language>
+		<language name="English">You sure you can handle me?\nI’m an ultrastellar talent.</language>
 	</row>
 	<row id="msg_0723_00895" index="895">
 		<attribute name="window_context_name">used</attribute>
@@ -3586,11 +3586,11 @@
 	</row>
 	<row id="msg_0723_00896" index="896">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re in the miracle-star class!\r</language>
+		<language name="English">You in the miracle-star class!\r</language>
 	</row>
 	<row id="msg_0723_00897" index="897">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I live only for battles.\nOnly victories give me hope.</language>
+		<language name="English">I live only for scraps.\nOnly victories gimme hope.</language>
 	</row>
 	<row id="msg_0723_00898" index="898">
 		<attribute name="window_context_name">used</attribute>
@@ -3686,7 +3686,7 @@
 	</row>
 	<row id="msg_0723_00917" index="917">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Losing to an outstanding Hustler like\nyou... I can live with that.\r</language>
+		<language name="English">Losing to an outstandin’ Hustler like\nyou... I can live with that.\r</language>
 	</row>
 	<row id="msg_0723_00918" index="918">
 		<attribute name="window_context_name">garbage</attribute>
@@ -3699,6 +3699,6 @@
 	</row>
 	<row id="msg_0723_00920" index="920">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Losing to an outstanding Hustler like\nyou... I can live with that.\r</language>
+		<language name="English">Losing to an outstandin’ Hustler like\nyou... I can live with that.\r</language>
 	</row>
 </body>

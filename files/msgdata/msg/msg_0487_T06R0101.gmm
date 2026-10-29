@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0487_T06R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Fishing Dude, the elder of\nthe Fishing Bros.\rHave you met the Fishing Guru at\nLake of Rage?\rHe dreams about seeing the world’s\ngreatest MAGIKARP.\rIf you don’t mind, could you show him\nany MAGIKARP you catch?\rWho knows, you may catch the\nMAGIKARP of his dreams.</language>
+		<language name="English">I’m the Fishin’ Dude, oldest of the\nFishin’ Bros. We all fish. That’s it.\rYou met the Fishin’ Guru at Lake of\nRage?\rHe dream about seein’ the world’s\nbiggest MAGIKARP. It’s a sad dream.\rCould you show him any MAGIKARP you\ncatch?\rWho knows, you might make his dream\ncome true. He’s been waitin’ 40\fyears.</language>
 	</row>
 	<row id="msg_0487_T06R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You found something in between\nthe pages...\rIt’s a photo of people fishing...\nThey look identical!</language>
+		<language name="English">You found somethin’ between the\npages...\rIt’s a pic of people fishin’... They\nlook EXACTLY the same!\fFishin’ Bros. Same face. Same hat.</language>
 	</row>
 </body>

@@ -1,0 +1,18 @@
+{
+  "_comment": "Route 39. Baoba and his Safari Zone, Lt. Surge's photo op.",
+  "0": "Rt. 39\\nSouth to Olivine City",
+  "1": "Moomoo Farm\\nFresh Chocolate Milk. From the Cow.",
+  "2": "Hustler Tips\\rUse Dome Check on trees to shake\\nhomies out.\\rDifferent homies fall out\\nof different trees.\\rDome Check every tree you see!",
+  "4": "Baoba: ...OHH! What you holdin' is...\\nwhat they call...a POKÉDEX!\\fAin't seen one since the '90s!\\rMy name is Baoba! Talk backwards,\\nI do. A condition it is.\\rRan a Safari Zone in Fuchsia I did, but\\nold it got. Like me.\\rSo overseas I went, to learn the\\nnewest tech, and a BRAND NEW Safari Zone\\fopen in Cianwood I will!\\rNo coincidence this is.\\rNumbers we swap, yes?\\rCall you first I will when it open!\\nBefore my own kids even!\\r",
+  "5": "Wanna save my number? {YESNO 0}",
+  "6": "That's what I'm talkin' about!\\nPleased, I am!\\r",
+  "7": "Huh, expect a no I did not.\\nRare homies there, there will be.\\rBig for your Pokédex it would be.\\nRegret this you will...",
+  "8": "{STRVAR_1 3, 0, 0} saved Baoba's number\\nin the Pokégear!",
+  "9": "Baoba: Call you on the Pokégear I\\nwill, when ready it is!\\r",
+  "10": "Lt. Surge: AYO, PRIVATE!\\rYou want a memory of us together?\\nA pic with the LIEUTENANT?\\fIt's an order. Kinda. {YESNO 0}",
+  "11": "Lt. Surge: OK! OK!\\rGimme a big smile, soldier!\\nSAY “HOO-AH!”\\r",
+  "12": "Lt. Surge: SHEESH! That came out\\nREAL good! Framin' it for the barracks!\\rWe ride for Route 39!",
+  "13": "Lt. Surge: That's OK, private...\\rLemme know if you change your mind.\\nI'll be here. Salutin'.",
+  "14": "Your Photo Album full.\\rGo on your PC and delete some\\npics before you come back.",
+  "3": "MILTANK: MOOO! (Get off my farm.)"
+}

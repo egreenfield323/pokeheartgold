@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0221_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Day1 Ball. Real rare.\nFor the ones that been\nthere since the beginning.</language>
+		<language name="English">A Day1 Ball. Real rare.\nFor the ones that been\nthere since the beginnin’.</language>
 	</row>
 	<row id="msg_0221_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0221_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pepto. For when your homie\nate at the gas station.\nCures food poisoning.</language>
+		<language name="English">Pepto. For when your homie\nate at the gas station.\nCures food poisonin’.</language>
 	</row>
 	<row id="msg_0221_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -138,19 +138,19 @@
 	</row>
 	<row id="msg_0221_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very bitter medicine powder.\nIt restores the HP of one Pokémon by\n50 points.</language>
+		<language name="English">A hella bitter medicine powder.\nIt restores the HP of one Pokémon by\n50 points.</language>
 	</row>
 	<row id="msg_0221_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very bitter root.\nIt restores the HP of one Pokémon by\n200 points.</language>
+		<language name="English">A hella bitter root.\nIt restores the HP of one Pokémon by\n200 points.</language>
 	</row>
 	<row id="msg_0221_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very bitter medicine powder.\nIt heals all the status problems of a\nsingle Pokémon.</language>
+		<language name="English">A hella bitter medicine powder.\nIt heals all the status problems of a\nsingle Pokémon.</language>
 	</row>
 	<row id="msg_0221_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very bitter medicinal herb.\nIt revives a fainted Pokémon, fully\nrestoring its HP.</language>
+		<language name="English">A hella bitter medicinal herb.\nIt revives a fainted Pokémon, fully\nrestorin’ its HP.</language>
 	</row>
 	<row id="msg_0221_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -186,7 +186,7 @@
 	</row>
 	<row id="msg_0221_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pre-Workout. Raises the base\nAttack of one homie.\nHeart racing. Normal.</language>
+		<language name="English">Pre-Workout. Raises the base\nAttack of one homie.\nHeart racin’. Normal.</language>
 	</row>
 	<row id="msg_0221_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -290,27 +290,27 @@
 	</row>
 	<row id="msg_0221_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small red shard.\nIt appears to be from some sort of\nimplement made long ago.</language>
+		<language name="English">A small red shard.\nIt appears to be from some sorta\nimplement made long ago.</language>
 	</row>
 	<row id="msg_0221_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small blue shard.\nIt appears to be from some sort of\nimplement made long ago.</language>
+		<language name="English">A small blue shard.\nIt appears to be from some sorta\nimplement made long ago.</language>
 	</row>
 	<row id="msg_0221_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small yellow shard.\nIt appears to be from some sort of\nimplement made long ago.</language>
+		<language name="English">A small yellow shard.\nIt appears to be from some sorta\nimplement made long ago.</language>
 	</row>
 	<row id="msg_0221_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small green shard.\nIt appears to be from some sort of\nimplement made long ago.</language>
+		<language name="English">A small green shard.\nIt appears to be from some sorta\nimplement made long ago.</language>
 	</row>
 	<row id="msg_0221_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearing for 200 steps\nafter its use.</language>
+		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 200 steps\nafter its use.</language>
 	</row>
 	<row id="msg_0221_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearing for 250 steps\nafter its use.</language>
+		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 250 steps\nafter its use.</language>
 	</row>
 	<row id="msg_0221_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -318,7 +318,7 @@
 	</row>
 	<row id="msg_0221_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearing for 100 steps\nafter its use.</language>
+		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 100 steps\nafter its use.</language>
 	</row>
 	<row id="msg_0221_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -350,7 +350,7 @@
 	</row>
 	<row id="msg_0221_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large and rare mushroom.\nIt is very popular among certain\nmaniacal fan segments.</language>
+		<language name="English">A large and rare mushroom.\nIt is hella popular among certain\nmaniacal fan segments.</language>
 	</row>
 	<row id="msg_0221_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -390,7 +390,7 @@
 	</row>
 	<row id="msg_0221_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A fertilizer to be spread on soft soil.\nIt extends the time ripened Berries\nremain on their plants before falling.</language>
+		<language name="English">A fertilizer to be spread on soft soil.\nIt extends the time ripened Berries\nremain on their plants before fallin’.</language>
 	</row>
 	<row id="msg_0221_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
@@ -430,7 +430,7 @@
 	</row>
 	<row id="msg_0221_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt shines with a dazzling light.</language>
+		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt shines with a dazzlin’ light.</language>
 	</row>
 	<row id="msg_0221_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
@@ -446,11 +446,11 @@
 	</row>
 	<row id="msg_0221_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A vital item that is needed to keep a\nstone tower from collapsing. Voices\ncan be heard from it occasionally.</language>
+		<language name="English">A vital item that is needed to keep a\nstone tower from collapsin’. Voices\ncan be heard from it occasionally.</language>
 	</row>
 	<row id="msg_0221_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A glowing orb to be held by GIRATINA.\nIt boosts the power of Dragon- and\nGhost-type moves.</language>
+		<language name="English">A glowin’ orb to be held by GIRATINA.\nIt boosts the power of Dragon- and\nGhost-type moves.</language>
 	</row>
 	<row id="msg_0221_00113" index="113">
 		<attribute name="window_context_name">garbage</attribute>
@@ -564,59 +564,59 @@
 	</row>
 	<row id="msg_0221_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A brightly gleaming orb to be held by\nDIALGA. It boosts the power of Dragon-\nand Steel-type moves.</language>
+		<language name="English">A brightly gleamin’ orb to be held by\nDIALGA. It boosts the power of Dragon-\nand Steel-type moves.</language>
 	</row>
 	<row id="msg_0221_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautifully glowing orb to be held by\nPALKIA. It boosts the power of Dragon-\nand Water-type moves.</language>
+		<language name="English">A beautifully glowin’ orb to be held by\nPALKIA. It boosts the power of Dragon-\nand Water-type moves.</language>
 	</row>
 	<row id="msg_0221_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a\nrefreshingly green field.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a\nrefreshingly green field.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of flames\nin blazing red.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of flames\nin blazin’ red.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of pretty\nfloral patterns.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of pretty\nfloral patterns.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a dimly\nlit coal mine.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a dimly\nlit coal mine.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of hard\nmechanical designs.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of hard\nmechanical designs.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of giant\nheart patterns.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of giant\nheart patterns.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print depicting\nthe huge expanse of space.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print depictin’\nthe huge expanse of space.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a vivid\nrainbow pattern.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a vivid\nrainbow pattern.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stationery featuring a print of a\ntough-looking brick pattern.\nLet a Pokémon hold it for delivery.</language>
+		<language name="English">Stationery featurin’ a print of a\ntough-lookin’ brick pattern.\nLet a Pokémon hold it for delivery.</language>
 	</row>
 	<row id="msg_0221_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
@@ -888,7 +888,7 @@
 	</row>
 	<row id="msg_0221_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThe holder gets a share of a battle’s\nExp. Points without battling.</language>
+		<language name="English">An item to be held by a Pokémon.\nThe holder gets a share of a battle’s\nExp. Points without battlin’.</language>
 	</row>
 	<row id="msg_0221_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -896,15 +896,15 @@
 	</row>
 	<row id="msg_0221_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\na bell with a comforting chime that\ncalms the holder and makes it friendly.</language>
+		<language name="English">An item to be held by a Pokémon. It is\na bell with a comfortin’ chime that\ncalms the holder and makes it friendly.</language>
 	</row>
 	<row id="msg_0221_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It\nsnaps the holder out of infatuation.\nIt can be used only once.</language>
+		<language name="English">An item to be held by a Pokémon. It\nsnaps the holder outta infatuation.\nIt can be used only once.</language>
 	</row>
 	<row id="msg_0221_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThis headband ups Attack, but allows\nthe use of only one kind of move.</language>
+		<language name="English">An item to be held by a Pokémon.\nThis headband ups Attack, but allows\nthe use of only one kinda move.</language>
 	</row>
 	<row id="msg_0221_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
@@ -916,7 +916,7 @@
 	</row>
 	<row id="msg_0221_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holding Pokémon joins in.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holdin’ Pokémon joins in.</language>
 	</row>
 	<row id="msg_0221_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -940,11 +940,11 @@
 	</row>
 	<row id="msg_0221_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThe Pokémon holding this peculiar stone\nis prevented from evolving.</language>
+		<language name="English">An item to be held by a Pokémon.\nThe Pokémon holdin’ this peculiar stone\nis prevented from evolvin’.</language>
 	</row>
 	<row id="msg_0221_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThe holder may endure a potential KO\nattack, leaving it with just 1 HP.</language>
+		<language name="English">An item to be held by a Pokémon.\nThe holder may endure a potential KO\nattack, leavin’ it with just 1 HP.</language>
 	</row>
 	<row id="msg_0221_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
@@ -964,11 +964,11 @@
 	</row>
 	<row id="msg_0221_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A thick and tough scale.\nDragon-type Pokémon may be holding\nthis item when caught.</language>
+		<language name="English">A thick and tough scale.\nDragon-type Pokémon may be holdin’\nthis item when caught.</language>
 	</row>
 	<row id="msg_0221_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by PIKACHU.\nIt is a puzzling orb that raises\nthe Attack and Sp. Atk stat.</language>
+		<language name="English">An item to be held by PIKACHU.\nIt is a puzzlin’ orb that raises\nthe Attack and Sp. Atk stat.</language>
 	</row>
 	<row id="msg_0221_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
@@ -984,7 +984,7 @@
 	</row>
 	<row id="msg_0221_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt is a shady-looking pair of glasses\nthat boosts Dark-type moves.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt is a shady-lookin’ pair of glasses\nthat boosts Dark-type moves.</language>
 	</row>
 	<row id="msg_0221_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
@@ -1060,7 +1060,7 @@
 	</row>
 	<row id="msg_0221_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by FARFETCH’D. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.</language>
+		<language name="English">An item to be held by FARFETCH’D. It is\na hella long and stiff stalk of leek\nthat boosts the critical-hit ratio.</language>
 	</row>
 	<row id="msg_0221_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
@@ -1084,7 +1084,7 @@
 	</row>
 	<row id="msg_0221_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt is a magnifying lens that slightly\nboosts the accuracy of moves.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt is a magnifyin’ lens that slightly\nboosts the accuracy of moves.</language>
 	</row>
 	<row id="msg_0221_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
@@ -1124,7 +1124,7 @@
 	</row>
 	<row id="msg_0221_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. If it\nhas full HP, the holder will endure one\npotential KO attack, leaving 1 HP.</language>
+		<language name="English">An item to be held by a Pokémon. If it\nhas full HP, the holder will endure one\npotential KO attack, leavin’ 1 HP.</language>
 	</row>
 	<row id="msg_0221_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
@@ -1136,7 +1136,7 @@
 	</row>
 	<row id="msg_0221_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that cuts Speed.\nIt makes Flying-type and levitating\nholders susceptible to Ground moves.</language>
+		<language name="English">A Pokémon held item that cuts Speed.\nIt makes Flying-type and levitatin’\nholders susceptible to Ground moves.</language>
 	</row>
 	<row id="msg_0221_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
@@ -1172,7 +1172,7 @@
 	</row>
 	<row id="msg_0221_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThis scarf boosts Speed, but allows\nthe use of only one kind of move.</language>
+		<language name="English">An item to be held by a Pokémon.\nThis scarf boosts Speed, but allows\nthe use of only one kinda move.</language>
 	</row>
 	<row id="msg_0221_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
@@ -1180,39 +1180,39 @@
 	</row>
 	<row id="msg_0221_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nAttack gain on leveling, but reduces\nthe Speed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nAttack gain on levelin’, but reduces\nthe Speed stat.</language>
 	</row>
 	<row id="msg_0221_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nDefense gain on leveling, but reduces\nthe Speed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nDefense gain on levelin’, but reduces\nthe Speed stat.</language>
 	</row>
 	<row id="msg_0221_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nSp. Atk gain on leveling, but reduces\nthe Speed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nSp. Atk gain on levelin’, but reduces\nthe Speed stat.</language>
 	</row>
 	<row id="msg_0221_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nSp. Def gain on leveling, but reduces\nthe Speed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nSp. Def gain on levelin’, but reduces\nthe Speed stat.</language>
 	</row>
 	<row id="msg_0221_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nSpeed gain on leveling, but reduces\nthe Speed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nSpeed gain on levelin’, but reduces\nthe Speed stat.</language>
 	</row>
 	<row id="msg_0221_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that promotes\nHP gain on leveling, but reduces the\nSpeed stat.</language>
+		<language name="English">A Pokémon held item that promotes\nHP gain on levelin’, but reduces the\nSpeed stat.</language>
 	</row>
 	<row id="msg_0221_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tough, discarded carapace to be held\nby a Pokémon. It enables the holder to\nswitch with a waiting Pokémon in battle.</language>
+		<language name="English">A tough, discarded carapace to be held\nby a Pokémon. It enables the holder to\nswitch with a waitin’ Pokémon in battle.</language>
 	</row>
 	<row id="msg_0221_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that boosts the\npower of HP-stealing moves to let the\nholder recover more HP.</language>
+		<language name="English">A Pokémon held item that boosts the\npower of HP-stealin’ moves to let the\nholder recover more HP.</language>
 	</row>
 	<row id="msg_0221_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. These\ndistinctive glasses boost Sp. Atk, but\nallow only one kind of move to be used.</language>
+		<language name="English">An item to be held by a Pokémon. These\ndistinctive glasses boost Sp. Atk, but\nallow only one kinda move to be used.</language>
 	</row>
 	<row id="msg_0221_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
@@ -1280,27 +1280,27 @@
 	</row>
 	<row id="msg_0221_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Psychic-type moves.</language>
+		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smellin’ incense that boosts\nthe power of Psychic-type moves.</language>
 	</row>
 	<row id="msg_0221_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Rock-type moves.</language>
+		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smellin’ incense that boosts\nthe power of Rock-type moves.</language>
 	</row>
 	<row id="msg_0221_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smelling incense that makes\nthe holder bloated and slow moving.</language>
+		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smellin’ incense that makes\nthe holder bloated and slow movin’.</language>
 	</row>
 	<row id="msg_0221_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Water-type moves.</language>
+		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smellin’ incense that boosts\nthe power of Water-type moves.</language>
 	</row>
 	<row id="msg_0221_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Grass-type moves.</language>
+		<language name="English">An item to be held by a Pokémon. It is\nan exotic-smellin’ incense that boosts\nthe power of Grass-type moves.</language>
 	</row>
 	<row id="msg_0221_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holding Pokémon joins in.</language>
+		<language name="English">An item to be held by a Pokémon.\nIt doubles a battle’s prize bread if\nthe holdin’ Pokémon joins in.</language>
 	</row>
 	<row id="msg_0221_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
@@ -1320,7 +1320,7 @@
 	</row>
 	<row id="msg_0221_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A transparent device overflowing with\ndubious data.\nIts producer is unknown.</language>
+		<language name="English">A transparent device overflowin’ with\ndubious data.\nIts producer is unknown.</language>
 	</row>
 	<row id="msg_0221_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
@@ -1336,7 +1336,7 @@
 	</row>
 	<row id="msg_0221_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user focuses its mind before\nlaunching this attack. It will fail if\nthe user is hit before it is used.</language>
+		<language name="English">The user focuses its mind before\nlaunchin’ this attack. It will fail if\nthe user is hit before it is used.</language>
 	</row>
 	<row id="msg_0221_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
@@ -1344,7 +1344,7 @@
 	</row>
 	<row id="msg_0221_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is hit with a pulsing blast\nof water. It may also confuse the\ntarget.</language>
+		<language name="English">The foe is hit with a pulsin’ blast\nof water. It may also confuse the\ntarget.</language>
 	</row>
 	<row id="msg_0221_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
@@ -1364,7 +1364,7 @@
 	</row>
 	<row id="msg_0221_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.</language>
+		<language name="English">The user tenses its muscles to bulk up\nits body, boostin’ both its Attack and\nDefense stats.</language>
 	</row>
 	<row id="msg_0221_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
@@ -1372,11 +1372,11 @@
 	</row>
 	<row id="msg_0221_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A variable move that changes type\nand power depending on the hidden\nability of the Pokémon using it.</language>
+		<language name="English">A variable move that changes type\nand power dependin’ on the hidden\nability of the Pokémon using it.</language>
 	</row>
 	<row id="msg_0221_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user intensifies the sun for\nfive turns, powering up Fire-type\nmoves.</language>
+		<language name="English">The user intensifies the sun for\nfive turns, powerin’ up Fire-type\nmoves.</language>
 	</row>
 	<row id="msg_0221_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
@@ -1388,7 +1388,7 @@
 	</row>
 	<row id="msg_0221_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A howling blizzard is summoned to\nstrike the foe. It may also freeze\nthe target solid.</language>
+		<language name="English">A howlin’ blizzard is summoned to\nstrike the foe. It may also freeze\nthe target solid.</language>
 	</row>
 	<row id="msg_0221_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
@@ -1400,15 +1400,15 @@
 	</row>
 	<row id="msg_0221_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It enables the user to evade all\nattacks. Its chance of failing rises\nif it is used in succession.</language>
+		<language name="English">It enables the user to evade all\nattacks. Its chance of failin’ rises\nif it is used in succession.</language>
 	</row>
 	<row id="msg_0221_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.</language>
+		<language name="English">The user summons a heavy rain that\nfalls for five turns, powerin’ up\nWater-type moves.</language>
 	</row>
 	<row id="msg_0221_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.</language>
+		<language name="English">A nutrient-drainin’ attack. The user’s\nHP is restored by half the damage\ntaken by the target.</language>
 	</row>
 	<row id="msg_0221_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
@@ -1460,7 +1460,7 @@
 	</row>
 	<row id="msg_0221_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.</language>
+		<language name="English">The user begins movin’ so quickly\nthat it creates illusory copies to\nraise its evasiveness.</language>
 	</row>
 	<row id="msg_0221_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
@@ -1468,7 +1468,7 @@
 	</row>
 	<row id="msg_0221_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user strikes the foe with a quick\njolt of electricity. This attack cannot\nbe evaded.</language>
+		<language name="English">The user strikes the foe with a quick\njolt of electricity. This attack can’t\nbe evaded.</language>
 	</row>
 	<row id="msg_0221_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
@@ -1484,7 +1484,7 @@
 	</row>
 	<row id="msg_0221_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.</language>
+		<language name="English">The foe is attacked with an intense\nblast of all-consumin’ fire. It may\nalso leave the target with a burn.</language>
 	</row>
 	<row id="msg_0221_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
@@ -1496,7 +1496,7 @@
 	</row>
 	<row id="msg_0221_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.</language>
+		<language name="English">The user torments and enrages the\nfoe, makin’ it incapable of using the\nsame move twice in a row.</language>
 	</row>
 	<row id="msg_0221_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
@@ -1504,7 +1504,7 @@
 	</row>
 	<row id="msg_0221_00370" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An attack move with effects that\nvary depending on the user’s\nenvironment.</language>
+		<language name="English">An attack move with effects that\nvary dependin’ on the user’s\nenvironment.</language>
 	</row>
 	<row id="msg_0221_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
@@ -1528,7 +1528,7 @@
 	</row>
 	<row id="msg_0221_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user steals the effects of any\nhealing or status-changing move the\nfoe attempts to use.</language>
+		<language name="English">The user steals the effects of any\nhealin’ or status-changin’ move the\nfoe attempts to use.</language>
 	</row>
 	<row id="msg_0221_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
@@ -1548,7 +1548,7 @@
 	</row>
 	<row id="msg_0221_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A restrained attack that prevents the\nfoe from fainting. The target is left\nwith at least 1 HP.</language>
+		<language name="English">A restrained attack that prevents the\nfoe from faintin’. The target is left\nwith at least 1 HP.</language>
 	</row>
 	<row id="msg_0221_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
@@ -1560,19 +1560,19 @@
 	</row>
 	<row id="msg_0221_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.</language>
+		<language name="English">The user attacks with an electric\ncharge. The user may use any remainin’\nelectricity to raise its Sp. Atk stat.</language>
 	</row>
 	<row id="msg_0221_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user endures any attack, leaving\n1 HP. Its chance of failing rises if it\nis used in succession.</language>
+		<language name="English">The user endures any attack, leavin’\n1 HP. Its chance of failin’ rises if it\nis used in succession.</language>
 	</row>
 	<row id="msg_0221_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is attacked with a shock\nwave generated by the user’s gaping\nmouth.</language>
+		<language name="English">The foe is attacked with a shock\nwave generated by the user’s gapin’\nmouth.</language>
 	</row>
 	<row id="msg_0221_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An energy-draining punch. The user’s\nHP is restored by half the damage\ntaken by the target.</language>
+		<language name="English">An energy-drainin’ punch. The user’s\nHP is restored by half the damage\ntaken by the target.</language>
 	</row>
 	<row id="msg_0221_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
@@ -1632,19 +1632,19 @@
 	</row>
 	<row id="msg_0221_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.</language>
+		<language name="English">A frenetic dance to uplift the fightin’\nspirit. It sharply raises the user’s\nAttack stat.</language>
 	</row>
 	<row id="msg_0221_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.</language>
+		<language name="English">The user lays a trap of levitatin’\nstones around the foe. The trap hurts\nfoes that switch into battle.</language>
 	</row>
 	<row id="msg_0221_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user hypnotizes itself into\ncopying any stat change made\nby the foe.</language>
+		<language name="English">The user hypnotizes itself into\ncopyin’ any stat change made\nby the foe.</language>
 	</row>
 	<row id="msg_0221_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowering its Sp. Atk stat.</language>
+		<language name="English">If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowerin’ its Sp. Atk stat.</language>
 	</row>
 	<row id="msg_0221_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
@@ -1656,7 +1656,7 @@
 	</row>
 	<row id="msg_0221_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.</language>
+		<language name="English">The user slashes at the foe by\ncrossin’ its scythes or claws as if\nthey were a pair of scissors.</language>
 	</row>
 	<row id="msg_0221_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
@@ -1664,7 +1664,7 @@
 	</row>
 	<row id="msg_0221_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user draws power from the Berry\nit is holding to attack. The Berry\ndetermines its type and power.</language>
+		<language name="English">The user draws power from the Berry\nit is holdin’ to attack. The Berry\ndetermines its type and power.</language>
 	</row>
 	<row id="msg_0221_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
@@ -1672,7 +1672,7 @@
 	</row>
 	<row id="msg_0221_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An attack that works only on a\nsleeping foe. It absorbs half the\ndamage caused to heal the user’s HP.</language>
+		<language name="English">An attack that works only on a\nsleepin’ foe. It absorbs half the\ndamage caused to heal the user’s HP.</language>
 	</row>
 	<row id="msg_0221_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
@@ -1684,11 +1684,11 @@
 	</row>
 	<row id="msg_0221_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user pecks the foe. If the foe is\nholding a Berry, the user plucks it and\ngains its effect.</language>
+		<language name="English">The user pecks the foe. If the foe is\nholdin’ a Berry, the user plucks it and\ngains its effect.</language>
 	</row>
 	<row id="msg_0221_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.</language>
+		<language name="English">After makin’ its attack, the user\nrushes back to switch places with a\nparty Pokémon in waitin’.</language>
 	</row>
 	<row id="msg_0221_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
@@ -1720,11 +1720,11 @@
 	</row>
 	<row id="msg_0221_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Traps foes in a violent swirling\nwhirlpool. It can also be used to\ntraverse whirlpools.</language>
+		<language name="English">Traps foes in a violent swirlin’\nwhirlpool. It can also be used to\ntraverse whirlpools.</language>
 	</row>
 	<row id="msg_0221_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user slugs the foe with a\nshattering punch. It can also smash\ncracked boulders.</language>
+		<language name="English">The user slugs the foe with a\nshatterin’ punch. It can also smash\ncracked boulders.</language>
 	</row>
 	<row id="msg_0221_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
@@ -1732,7 +1732,7 @@
 	</row>
 	<row id="msg_0221_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A charging attack that may also leave\nthe foe confused. It can also be used\nto scale rocky walls.</language>
+		<language name="English">A chargin’ attack that may also leave\nthe foe confused. It can also be used\nto scale rocky walls.</language>
 	</row>
 	<row id="msg_0221_00428" index="428">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1745,11 +1745,11 @@
 	</row>
 	<row id="msg_0221_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lists the rules for holding battles.\nFor linked battles, you may choose\nwhich set of rules you wish to use.</language>
+		<language name="English">It lists the rules for holdin’ battles.\nFor linked battles, you may choose\nwhich set of rules you wish to use.</language>
 	</row>
 	<row id="msg_0221_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tool that can search out Pokémon\nthat are hiding in grass. Its battery is\nrecharged as you walk.</language>
+		<language name="English">A tool that can search out Pokémon\nthat are hidin’ in grass. Its battery is\nrecharged as you walk.</language>
 	</row>
 	<row id="msg_0221_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
@@ -1761,7 +1761,7 @@
 	</row>
 	<row id="msg_0221_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A case for storing Seals that can be\napplied to the Capsule cases of\nHood Balls.</language>
+		<language name="English">A case for storin’ Seals that can be\napplied to the Capsule cases of\nHood Balls.</language>
 	</row>
 	<row id="msg_0221_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
@@ -1769,15 +1769,15 @@
 	</row>
 	<row id="msg_0221_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tiny bag that can hold ten Seals for\ndecorating Hood Balls.</language>
+		<language name="English">A tiny bag that can hold ten Seals for\ndecoratin’ Hood Balls.</language>
 	</row>
 	<row id="msg_0221_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A convenient notepad that is used for\nregistering your homies, Homie Codes,\nand keeping a record of game play.</language>
+		<language name="English">A convenient notepad that is used for\nregisterin’ your homies, Homie Codes,\nand keepin’ a record of game play.</language>
 	</row>
 	<row id="msg_0221_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large key for operating the doors of\nthe Valley Windworks in the canyon.\nIt was held by a Team Galactic Grunt.</language>
+		<language name="English">A large key for operatin’ the doors of\nthe Valley Windworks in the canyon.\nIt was held by a Team Galactic Grunt.</language>
 	</row>
 	<row id="msg_0221_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
@@ -1785,7 +1785,7 @@
 	</row>
 	<row id="msg_0221_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A card key for disengaging security\nsystems in the Galactic HQ. Losing it\ncan result in punishment, apparently.</language>
+		<language name="English">A card key for disengagin’ security\nsystems in the Galactic HQ. Losing it\ncan result in punishment, apparently.</language>
 	</row>
 	<row id="msg_0221_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
@@ -1793,39 +1793,39 @@
 	</row>
 	<row id="msg_0221_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very convenient map that can be\nviewed anytime. It even shows your\npresent location.</language>
+		<language name="English">A hella convenient map that can be\nviewed anytime. It even shows your\npresent location.</language>
 	</row>
 	<row id="msg_0221_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A device that indicates Hustlers who\nwant to battle. Its battery charges\nwhile you walk.</language>
+		<language name="English">A device that indicates Hustlers who\nwanna battle. Its battery charges\nwhile you walk.</language>
 	</row>
 	<row id="msg_0221_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A case for holding coins obtained at\nthe Game Corner.\nIt holds up to 50,000 coins.</language>
+		<language name="English">A case for holdin’ coins obtained at\nthe Game Corner.\nIt holds up to 50,000 coins.</language>
 	</row>
 	<row id="msg_0221_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An old and beat-up fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
+		<language name="English">An old and beat-up fishin’ rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
 	</row>
 	<row id="msg_0221_00446" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A new, good-quality fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
+		<language name="English">A new, good-quality fishin’ rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
 	</row>
 	<row id="msg_0221_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An awesome, high-tech fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
+		<language name="English">An awesome, high-tech fishin’ rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.</language>
 	</row>
 	<row id="msg_0221_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A watering can shaped like a PSYDUCK.\nIt helps promote healthy growth of\nBerries planted in soft soil.</language>
+		<language name="English">A waterin’ can shaped like a PSYDUCK.\nIt helps promote healthy growth of\nBerries planted in soft soil.</language>
 	</row>
 	<row id="msg_0221_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A case for storing Poffin cooked from\nBerries.\n</language>
+		<language name="English">A case for storin’ Poffin cooked from\nBerries.\n</language>
 	</row>
 	<row id="msg_0221_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A folding Bicycle that enables much\nfaster movement than the Running\nShoes.</language>
+		<language name="English">A foldin’ Bicycle that enables much\nfaster movement than the Running\nShoes.</language>
 	</row>
 	<row id="msg_0221_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
@@ -1841,19 +1841,19 @@
 	</row>
 	<row id="msg_0221_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A card needed for entering the inn in\nCanalave City. Oddly, the last date\nmarked on it was 50 years ago.</language>
+		<language name="English">A card needed for enterin’ the inn in\nCanalave City. Oddly, the last date\nmarked on it was 50 years ago.</language>
 	</row>
 	<row id="msg_0221_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A flute that puts out echoing sounds\nthat do not seem to be of this world.\nIt is unknown who made it.</language>
+		<language name="English">A flute that puts out echoin’ sounds\nthat don’t seem to be of this world.\nIt is unknown who made it.</language>
 	</row>
 	<row id="msg_0221_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ticket required for sailing on the\nferry S.S. Aqua. It has a drawing of a\nship on it.</language>
+		<language name="English">The ticket required for sailin’ on the\nferry S.S. Aqua. It has a drawin’ of a\nship on it.</language>
 	</row>
 	<row id="msg_0221_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The pass required for entering Pokémon\nContests. It has a drawing of an award\nribbon on it.</language>
+		<language name="English">The pass required for enterin’ Pokémon\nContests. It has a drawin’ of an award\nribbon on it.</language>
 	</row>
 	<row id="msg_0221_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
@@ -1861,7 +1861,7 @@
 	</row>
 	<row id="msg_0221_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A parcel entrusted in your care.\nYou are supposed to deliver it to your\nchildhood homie who left Twinleaf Town.</language>
+		<language name="English">A parcel entrusted in your care.\nYou supposed to deliver it to your\nchildhood homie who left Twinleaf Town.</language>
 	</row>
 	<row id="msg_0221_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
@@ -1885,7 +1885,7 @@
 	</row>
 	<row id="msg_0221_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An amazing device that can record a\nbattle either between homies or at a\nspecial battle facility.</language>
+		<language name="English">An amazin’ device that can record a\nbattle either between homies or at a\nspecial battle facility.</language>
 	</row>
 	<row id="msg_0221_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
@@ -1893,7 +1893,7 @@
 	</row>
 	<row id="msg_0221_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A high-tech key that has to be used at\na specific location. It emits a special\nelectric signal to open a door.</language>
+		<language name="English">A high-tech key that gotta be used at\na specific location. It emits a special\nelectric signal to open a door.</language>
 	</row>
 	<row id="msg_0221_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
@@ -1905,11 +1905,11 @@
 	</row>
 	<row id="msg_0221_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Handy containers for cultivating\nBerries wherever you go.</language>
+		<language name="English">Handy containers for cultivatin’\nBerries wherever you go.</language>
 	</row>
 	<row id="msg_0221_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It checks for unseen items in the area\nand makes noise and lights when it\nfinds something.</language>
+		<language name="English">It checks for unseen items in the area\nand makes noise and lights when it\nfinds somethin’.</language>
 	</row>
 	<row id="msg_0221_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
@@ -1917,11 +1917,11 @@
 	</row>
 	<row id="msg_0221_00473" index="473">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very tasty tail of something.\nIt sells for a high price.</language>
+		<language name="English">A hella tasty tail of somethin’.\nIt sells for a high price.</language>
 	</row>
 	<row id="msg_0221_00474" index="474">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very old-fashioned bell that makes a\ngentle ringing.</language>
+		<language name="English">A hella old-fashioned bell that makes a\ngentle ringin’.</language>
 	</row>
 	<row id="msg_0221_00475" index="475">
 		<attribute name="window_context_name">used</attribute>
@@ -1933,7 +1933,7 @@
 	</row>
 	<row id="msg_0221_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bottle used for watering plants in the\nBerry Pots.</language>
+		<language name="English">A bottle used for waterin’ plants in the\nBerry Pots.</language>
 	</row>
 	<row id="msg_0221_00478" index="478">
 		<attribute name="window_context_name">used</attribute>
@@ -1945,7 +1945,7 @@
 	</row>
 	<row id="msg_0221_00480" index="480">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A ticket required for riding the Magnet\nTrain. It allows you to ride whenever\nand however much you’d like.</language>
+		<language name="English">A ticket required for ridin’ the Magnet\nTrain. It allows you to ride whenever\nand however much you’d like.</language>
 	</row>
 	<row id="msg_0221_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
@@ -1969,7 +1969,7 @@
 	</row>
 	<row id="msg_0221_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A yellow Apricorn.\nIt has an invigorating scent.</language>
+		<language name="English">A yellow Apricorn.\nIt has an invigoratin’ scent.</language>
 	</row>
 	<row id="msg_0221_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
@@ -1985,7 +1985,7 @@
 	</row>
 	<row id="msg_0221_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A white Apricorn.\nIt doesn’t smell like anything.</language>
+		<language name="English">A white Apricorn.\nIt don’t smell like anythin’.</language>
 	</row>
 	<row id="msg_0221_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
@@ -1997,19 +1997,19 @@
 	</row>
 	<row id="msg_0221_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catching Pokémon that\nare a lower level than your own.</language>
+		<language name="English">A Hood Ball for catchin’ Pokémon that\nare a lower level than your own.</language>
 	</row>
 	<row id="msg_0221_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catching Pokémon hooked\nby a Rod when fishing.</language>
+		<language name="English">A Hood Ball for catchin’ Pokémon hooked\nby a Rod when fishin’.</language>
 	</row>
 	<row id="msg_0221_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catching very heavy\nPokémon.</language>
+		<language name="English">A Hood Ball for catchin’ hella heavy\nPokémon.</language>
 	</row>
 	<row id="msg_0221_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hood Ball for catching Pokémon that are\nthe opposite gender of your Pokémon.</language>
+		<language name="English">Hood Ball for catchin’ Pokémon that are\nthe opposite gender of your Pokémon.</language>
 	</row>
 	<row id="msg_0221_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
@@ -2017,7 +2017,7 @@
 	</row>
 	<row id="msg_0221_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catching Pokémon that\nevolve using the Moon Stone.</language>
+		<language name="English">A Hood Ball for catchin’ Pokémon that\nevolve using the Moon Stone.</language>
 	</row>
 	<row id="msg_0221_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
@@ -2029,7 +2029,7 @@
 	</row>
 	<row id="msg_0221_00501" index="501">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nice photo album for storing all the\nphotos taken along your adventure.</language>
+		<language name="English">A nice photo album for storin’ all the\nphotos taken along your adventure.</language>
 	</row>
 	<row id="msg_0221_00502" index="502">
 		<attribute name="window_context_name">used</attribute>
@@ -2037,7 +2037,7 @@
 	</row>
 	<row id="msg_0221_00503" index="503">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An old-fashioned bell with a gentle,\nsoothing sound.</language>
+		<language name="English">An old-fashioned bell with a gentle,\nsoothin’ sound.</language>
 	</row>
 	<row id="msg_0221_00504" index="504">
 		<attribute name="window_context_name">used</attribute>

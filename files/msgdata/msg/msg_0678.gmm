@@ -6,50 +6,50 @@
 	</row>
 	<row id="msg_0678_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have got some nerve!\nThat’s awesome!\fJust what I look for in a homie!\rWhadda ya say we trade phone\nnumbers and be best homies? {YESNO 0}</language>
+		<language name="English">You got some NERVE!\nThat’s hard!\fJust what I look for in a homie!\rWhadda ya say we swap\nnumbers and be best homies? {YESNO 0}</language>
 	</row>
 	<row id="msg_0678_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nCall me anytime!\rAbout studying,\nor about Pokémon,\for about a puzzle,\for about a Block trick.\fEven if you don’t run into anything\fdifficult, you can still give me a call!\rI probably won’t know the answer, but\nI’ll at least be able to listen!\r’Cause we’re homies, you know?</language>
+		<language name="English">Aight!\nCall me anytime!\rAbout school,\nor about homies,\for a puzzle,\for a Block trick.\fEven if nothin’ hard come up,\fyou can still gimme a call!\rI prob’ly won’t know the answer, but\nI’ll at least listen!\r’Cause we homies, you know?</language>
 	</row>
 	<row id="msg_0678_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! What’re you, nervous?</language>
+		<language name="English">Ayo! What, you nervous?</language>
 	</row>
 	<row id="msg_0678_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see you’ve finally figured out\njust how amazing I am?\rWell, that’s to be expected. Let’s\ntrade phone numbers! {YESNO 0}</language>
+		<language name="English">Oh, I see you finally figured out\nhow amazin’ I’m?\rWell, that’s expected. Let’s\nswap numbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0678_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, I probably look a lot scarier than\nI really am. Would you believe I’m really\fa nice guy?\rI won’t bite, so come and talk to me\nin person!</language>
+		<language name="English">Well, I prob’ly look way scarier than\nI’m. Would you believe I’m deadass\fa nice guy?\rI won’t bite, so come talk to me\nin person!</language>
 	</row>
 	<row id="msg_0678_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, Teddy! You do a pretty good\nimpression of a motorcycle!\rNext time you get a chance, you and I\nshould go riding and yell like\fmotorcycles. What do you say?\r......Wait, who is this?\rOh no! Wrong number!\nSorry!</language>
+		<language name="English">Yo, Teddy! You do a pretty good\nmotorcycle impression!\rNext time you get a chance, you and me\nshould go ridin’ and yell like\fmotorcycles. What you say?\r......Wait, who is this?\rOh no! Wrong number!\nMy bad!</language>
 	</row>
 	<row id="msg_0678_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} does a great job!\nAnyway, its fighting spirit is different.\rIt’s never lost to any but the\nstrongest Pokémon!\rWhat about your Pokémon?\nDo they have any fighting spirit?\rNever mind, you don’t have to answer.\rI should know better than anyone just\nhow strong your Pokémon are!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} go HARD!\nAnyway, its fightin’ spirit different.\rIt ain’t never lost to nothin’ but the\nstrongest homies!\rWhat about your homies?\nThey got any fightin’ spirit?\rNever mind, you ain’t gotta answer.\rI know better than anybody\nhow strong your homies is!</language>
 	</row>
 	<row id="msg_0678_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re a Biker gang, you know.\nGot Pokémon with poison,\fwith spikes all over their bodies,\fwith fangs, and we even have some\fGhost-type Pokémon.\fIt’s all a big show of how tough we are.\rBut...\rAs for me...\rI really like cute Pokémon like MARILL!</language>
+		<language name="English">We a Biker gang, you know.\nGot homies with poison,\fwith spikes all over their bodies,\fwith fangs, and we even got some\fGhost-type homies.\fIt’s all a show of how tough we.\rBut...\rAs for me...\rI REALLY like cute homies like MARILL!</language>
 	</row>
 	<row id="msg_0678_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, yesterday I thought I was gonna\ncatch a {STRVAR_1 0, 11, 0}.\fBut that {STRVAR_1 0, 11, 0}, it took one look\fat me and ran off!\rIt was totally rude!\rYou wouldn’t run away if you saw me,\nwould you...?</language>
+		<language name="English">So, yesterday I thought I was finna\ncatch a {STRVAR_1 0, 11, 0}.\fBut that {STRVAR_1 0, 11, 0}, it took one look\fat me and dipped!\rIt was SO rude!\rYou wouldn’t run if you saw me,\nwould you...?</language>
 	</row>
 	<row id="msg_0678_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! So, I really wanna battle you again.\nI mean, I am really itching to show off!\rI’m always hanging out on\n{STRVAR_1 4, 3, 0}. Don’t get all\fnervous and run away, got it?!</language>
+		<language name="English">Yo! I REALLY wanna scrap you again.\nI mean, I’m itchin’ to show off!\rI’m always hangin’ on\n{STRVAR_1 4, 3, 0}. Don’t get all\fnervous and dip, got it?!</language>
 	</row>
 	<row id="msg_0678_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s going on with you?\nI’m waiting on {STRVAR_1 4, 3, 0}!\rYou wouldn’t forget a promise you made\nwith a buddy, would you?</language>
+		<language name="English">What’s goin’ on with you?\nI’m waitin’ on {STRVAR_1 4, 3, 0}!\rYou wouldn’t forget a promise you made\nwith a homie, would you?</language>
 	</row>
 	<row id="msg_0678_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my bro Markey was talking\nabout this earlier... Have you thought\fabout joining our team at all?\rWe hang out on Cycling Road and make a\nlot of noise, throw our garbage around,\fthen pick up our garbage and take it\fhome to throw away. It’s so much fun!</language>
+		<language name="English">You know, my bro Markey was talkin’\nabout this earlier... You thought\fabout joinin’ our crew at all?\rWe hang on Cycling Road and make a\nLOT of noise, throw trash around,\fthen pick up our trash and take it\fhome to throw away. It’s SO fun!</language>
 	</row>
 </body>

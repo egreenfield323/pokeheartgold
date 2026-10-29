@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0562_T22R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rA homie you get in a trade\ncome up quick.\rBut if you ain’t got the right\nBlock Chain, it might not listen.</language>
+		<language name="English">A homie you get in a trade come up\nquick, but if you ain’t got the\fright\fChain, it might ignore you.\rLike my son. Without the Chains.</language>
 	</row>
 	<row id="msg_0562_T22R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,10 +18,10 @@
 	</row>
 	<row id="msg_0562_T22R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t wanna trade? Aww...\nBum.</language>
+		<language name="English">You don’t wanna trade? Aww...\nBum. BUM.</language>
 	</row>
 	<row id="msg_0562_T22R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how my old ONIX doin’?\nIt still eatin’ rocks?</language>
+		<language name="English">Ayo, how my old ONIX doin’?\nIt still eatin’ rocks? It ate my\fwhole driveway, bro.</language>
 	</row>
 </body>

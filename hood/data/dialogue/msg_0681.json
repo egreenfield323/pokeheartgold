@@ -1,0 +1,17 @@
+{
+  "_comment": "Phone: Rob.",
+  "1": "Shall we swap numbers? {YESNO 0}",
+  "2": "Call me anytime you wanna scrap!",
+  "3": "I figured if I found anything in the\\narea, I'd give it to you...",
+  "4": "You wanna swap numbers\\nafter all? {YESNO 0}",
+  "5": "Oh, there you are!\\rI'll give you this Berry my homie\\nfound. Here you go!\\r",
+  "6": "Gotta say it's kinda weird to be\\ntalkin' on the phone when you\\fstandin' right there.",
+  "7": "My {STRVAR_1 0, 10, 0} ALWAYS trainin'!\\rIt ain't losin' to no {STRVAR_1 0, 11, 0}!",
+  "8": "Ayo! Psst! Listen!\\nThis {STRVAR_1 0, 11, 0} I ran into earlier\\fjust up and dipped!\\rI was SO disappointed!\\nI really wanted to catch it too!",
+  "9": "You caught any {STRVAR_1 0, 11, 0} yet?\\nYou can always find 'em around here.",
+  "10": "You gon' scrap my trained homies?\\rWe on {STRVAR_1 4, 3, 0}, so holla\\nwhen you in the area!",
+  "11": "Where you at now?\\nClose to {STRVAR_1 4, 3, 0}?\\fDon't tell me you forgot we was\\ffinna scrap?",
+  "12": "While I was walkin' through the forest\\nlookin' for homies, I cut my finger\\fon a leaf!\\rIt bled a lil, but I'm good.",
+  "13": "My homie found its\\nmost precious Berry!\\rWe on {STRVAR_1 4, 3, 0} if you\\nwant it!",
+  "14": "Yeah... We REALLY wanna give you\\nthis Berry... We on {STRVAR_1 4, 3, 0}, so\\fcome get it please!"
+}

@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0054_D15R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make it to the top and the Elder\nbless you with a hard move.</language>
+		<language name="English">Make it to the top and the Elder\nbless you with a HARD move. He bald.\fHe wise.\fHe owe me twenty dollars.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprout Tower was built way back\nas a place to train homies.</language>
+		<language name="English">Sprout Tower was built way back to\ntrain homies. And to get away from\fwives.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A BELLSPROUT over 100 feet tall...\rPeople say it turned into the\nmiddle pillar. Don’t ask me how.</language>
+		<language name="English">A BELLSPROUT over 100 feet tall...\rThey say it turned into the middle\npillar. What it ate? That’s what I\fwanna know.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See the pillar shakin’?\rPeople upstairs scrappin’.</language>
+		<language name="English">See the pillar shakin’?\rPeople upstairs scrappin’. Or the\nmonks havin’ a dance-off again.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A homie statue...\rIt look real distinguished.\nSomebody tagged it, though.</language>
+		<language name="English">A homie statue...\rReal distinguished. Somebody drew a\nmustache on it. Wasn’t me.</language>
 	</row>
 </body>

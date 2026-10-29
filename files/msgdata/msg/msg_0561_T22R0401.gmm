@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0561_T22R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how’d you get in my house?!\nI KNOW I locked that door.\rShe name all her homies after\nher favorite foods.\rLike, ALL of ’em.\nIt’s a problem.</language>
+		<language name="English">She name ALL her homies after\nfood.\rLike ALL of ’em. Her RATTATA name\nChicken Alfredo. It’s a problem.</language>
 	</row>
 	<row id="msg_0561_T22R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\rI named my PIDGEY Strawberry.\nDon’t laugh.</language>
+		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\rI named my PIDGEY Strawberry.\nLaugh and I’m callin’ my brother.</language>
 	</row>
 	<row id="msg_0561_T22R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

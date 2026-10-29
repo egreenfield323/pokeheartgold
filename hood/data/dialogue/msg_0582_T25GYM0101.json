@@ -1,0 +1,16 @@
+{
+  "_comment": "Goldenrod block. Whitney: loud, cute, sore loser.",
+  "0": "Whitney: Ayooo! I'm Whitney!\\r...You! I saw you at the Radio Tower!\\rEverybody was into homies, so I got\\ninto it too! I'm a trend follower!\\rHomies are SO cute!\\rYou wanna scrap?\\fI'm warnin' you--I'm NICE! And I bite!\\r",
+  "1": "Whitney: *sob*...\\r...WAAAAAAAH!\\nYou MEAN! You SO MEAN!\\rWhy you gotta be so serious?!\\nYou...you CHILD, you! I'm tellin'!",
+  "2": "Whitney: WAAAAAH!\\rWAAAAAH!\\r...*sniffle*, *hic*.\\n...You meanie! Bully! Hater!",
+  "3": "Whitney: *sniff*...\\rWhat? What you want? A Chain?\\rOh. Right. I forgot. I was busy cryin'.\\nHere's the Plain Chain. Take it. Leave.\\r",
+  "4": "{STRVAR_1 3, 0, 0} got\\nthe Plain Chain from Whitney.",
+  "5": "Whitney: The Plain Chain let your\\nhomies use Muscle outside\\fof battle.\\rOh, you can have this too!\\r",
+  "7": "Whitney: It's Rizz Up!\\nIt use all a homie's charm.\\rPerfect for a cutie\\nlike me, right?\\fThat's right!\\rI heard this thing called the\\nPokéathlon Dome just opened\\fby the National Park.\\rYou should go, since you\\nSO good at scrappin' with homies!",
+  "8": "Whitney: Ahh, that was a GOOD cry!\\rCome visit again! I'll cry again!\\nByeee!",
+  "9": "Oh, no. You made Whitney cry.\\rShe'll stop soon. She cry every time.\\nWe got a Cry Room. It's soundproof.\\r",
+  "10": "Yo! Future Kingpin!\\rThis Block full of Normal-type Hustlers.\\nVERY normal. Painfully normal.\\rRun Fightin' homies in here.\\nTrust me. And watch out for the cow.",
+  "11": "You WON?! Hard! I wasn't watchin'.\\nI was starin' at Whitney's MILTANK.\\fThat cow give me nightmares.",
+  "12": "Goldenrod City Block\\nCry Room Available",
+  "13": "Goldenrod City Block\\rBoss: Whitney\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "Cianwood Pharmacy. 500 years of tradition, zero questions asked.",
+  "0": "Huh? You need medicine?\\rYour homies look fine. What's botherin'\\nyou?\\r...\\rThe Lighthouse homie sick?!\\rI GOT you! 500 years in business, baby!\\fThis'll fix it right up. Don't read the label.",
+  "2": "My SecretPotion is a lil TOO strong.\\fEmergencies only. Side effects include\\feverything.",
+  "3": "What's good? 500 years in business.\\nSame recipe. Same guy. Don't ask.\\rNeed some medicine? {YESNO 0}"
+}

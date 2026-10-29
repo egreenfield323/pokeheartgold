@@ -1,0 +1,16 @@
+{
+  "_comment": "Phone: Tully (fisherman).",
+  "1": "Ayo, you tryna be the ultimate\\nHustler too? That make us comrades!\\rIf I find more stuff by the water,\\nI'll give you some.\\rJust gimme your number. {YESNO 0}",
+  "2": "You gon' hear from me if I find\\nsomethin' good.",
+  "3": "That's how it is? Then I'll just\\nuse 'em myself.",
+  "4": "If I find more stuff by the water,\\nI'll give you some.\\rJust gimme your number.{YESNO 0}",
+  "5": "Ayo, there you are!\\nHere's a gift, like I promised!\\r",
+  "6": "Ayo, if you right nearby, come chat\\nwith me in person!",
+  "7": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only this big when I caught\\nit, but now it's WAY bigger.\\rOh yeah, I KO'd a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big, even.\\rHeh, I guess you can't tell over\\nthe phone...\\rWell, I'll see you.",
+  "8": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only this big when I caught\\nit, but now it's WAY bigger.\\rOh yeah, I lost a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big, even.\\rHeh, I guess you can't tell over\\nthe phone...\\rWell, I'll see you.",
+  "9": "We should get a scrap goin'!\\rI'll be fishin' on {STRVAR_1 4, 3, 0}.\\nSwing by if you got time.",
+  "10": "What? You lost or somethin'?\\nOur scrap is on {STRVAR_1 4, 3, 0}!",
+  "11": "I found anything good?\\nNope, not yet.\\rIt's like fishin'--you need patience.",
+  "12": "I picked up a hard lil thing by the\\nwater. Like I promised, it's yours.\\fI'll be waitin' on {STRVAR_1 4, 3, 0}.",
+  "13": "I got somethin' good for you.\\nHurry over to {STRVAR_1 4, 3, 0}."
+}

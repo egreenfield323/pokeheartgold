@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0404_R44_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ice Path\rCareful not to slip, fall over,\nfreeze, and get stuck on the ice.</language>
+		<language name="English">Ice Path\rDon’t Slip, Fall, Freeze,\nor Get Stuck. Good Luck.</language>
 	</row>
 	<row id="msg_0404_R44_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

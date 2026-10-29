@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0128_D43R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hold it.\r...Are you finna challenge the\nBig League?\rVictory Road is at its end, for sure.\rBut did you notice...?\nYou didn’t see any real Hustlers on the\fway, did you?\rMan, they were all spineless!\rWell, the fact that you have come this\nfar means you’re not one of them.\rBut!\rYour journey ends here!\rBecause...right here, right now...\nI will crush you!\r</language>
+		<language name="English">Hold up.\r...You finna run up on the\nBig League?\rVictory Road ends right here,\nfor sure.\rBut you notice...?\nYou ain’t see no real Hustlers on\fthe way, did you?\rMan, they was all soft!\rWell, if you made it this\nfar, you ain’t one of ’em.\rBut!\rYour journey ends here!\r’cause...right here, right now...\nI’ma crush you!\r</language>
 	</row>
 	<row id="msg_0128_D43R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">..................\rI haven’t given up on becoming the\ngreatest Hustler...\rI’m finna find out why I can’t win and\nbecome stronger...\rWhen I do, I will challenge you.\rI’ll beat you down with all my power.\n...Humph! You keep at it until then.\r</language>
+		<language name="English">..................\rI ain’t give up on bein’ the\ngreatest Hustler...\rI’ma figure out why I can’t win\nand get stronger...\rWhen I do, I’m comin’ for you.\rI’ma beat you down with everythin’\nI got. ...Hmph! Keep at it till then.\r</language>
 	</row>
 </body>

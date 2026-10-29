@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0067_D23R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We have recordings of the cries of many\nof the Pokémon that have been found.\rWe must have about 200 kinds.</language>
+		<language name="English">We got recordings of the cries of\nmost homies anybody found.\rProb’ly like 200 kinds.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Hustlers, Pokémon are their\nbeloved partners.\rIt’s terrible how The Feds is trying\nto control Pokémon.</language>
+		<language name="English">To Hustlers, homies is their\nbeloved partners.\rIt’s foul how The Feds tryna\ncontrol homies with a radio signal.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We run 24 hours a day to broadcast\nentertaining programs.\rI’ll do my best to run around the\nclock, too!</language>
+		<language name="English">We on air 24 hours a day with\nfun shows.\rI’ma try to run around the\nclock too!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The The Feds boss has locked\nhimself in.\rBut the Director can open it.\rHe’s up on the fifth floor.\nPlease save him!</language>
+		<language name="English">The head Fed locked himself in\nlike a scared lil...\rBut the Director can open it.\rHe up on the fifth floor.\nPlease save him!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,27 +22,27 @@
 	</row>
 	<row id="msg_0067_D23R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks, kiddo! You’re the best!\nThis is a token of my appreciation.\r</language>
+		<language name="English">Good looks, kiddo! You the best!\nThis a lil thank-you.\r</language>
 	</row>
 	<row id="msg_0067_D23R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received TM11!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got TM11!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s Heat Lamp.\nIt powers up Fire-type moves for\fa while.</language>
+		<language name="English">It’s Heat Lamp.\nIt power up Fire-type moves for\fa while.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, your Bag is full.</language>
+		<language name="English">Oh, your Bag full.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were simply marvelous!</language>
+		<language name="English">You was simply marvelous!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The door is locked...\nYou need a Card Key.</language>
+		<language name="English">The door locked...\nYou need a Card Key.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0067_D23R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} inserted the Card Key.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} put in the Card Key.\r</language>
 	</row>
 	<row id="msg_0067_D23R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should be able to unlock the door\nwith the Card Key!</language>
+		<language name="English">The Card Key should unlock\nthe door!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

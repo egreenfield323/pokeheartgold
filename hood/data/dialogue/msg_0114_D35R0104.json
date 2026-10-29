@@ -1,0 +1,16 @@
+{
+  "_comment": "Fed hideout B2F. Petrel's terrible Giovanni impression, the rival's crisis, the passwords.",
+  "0": "Lance: {STRVAR_1 3, 0, 0}!\\nTo unlock the door to the\\fradio transmitter, you need the\\fvoice of a certain person.\\rThat person is Petrel,\\nthe Fed Executive!\\rI found out he hidin' in their\\nleader's office!\\rProblem is, that room is\\nlocked with a password too...\\r{STRVAR_1 3, 0, 0}!\\nWe need the password to their\\fleader's office first!\\r",
+  "1": "Lance: {STRVAR_1 3, 0, 0}!\\nTo unlock the door to the\\fradio transmitter, you need the\\fvoice of a certain person.\\rThat person is Petrel,\\nthe Fed Executive!\\rI found out he hidin' in their\\nleader's office!\\rProblem is, that room is\\nlocked with a password too...\\r{STRVAR_1 3, 0, 0}!\\nWe need the password to their\\fleader's office first!\\r",
+  "2": "Urrggh...\\nThe dude in the cape is CRAZY\\ftough...and I folded and\\fsnitched on EVERYTHING about\\fthis hideout...\\rBut the boss office got\\nTWO passwords! Ha! Top security!\\n",
+  "3": "{STRVAR_1 3, 0, 0}: ...\\rSo you messin' with them again.\\rHmph, you must really like\\nThe Feds a lot.\\r...Tell me, who was the cape guy\\nwith the Dragon-type homies?\\rMy homies wasn't no match at all.\\rI don't care that I lost. I can beat\\nhim by gettin' stronger homies.\\rIt's what he said that bug me...\\nHe said I don't love and\\ftrust my homies enough.\\rI'm heated I lost to a soft\\nheart like him.\\r...Hmph! I ain't got time for\\nthe likes of you!\\r",
+  "4": "Muhahaha, we been waitin' on you.\\nSo you {STRVAR_1 3, 0, 0}...\\rMe?\\nYou don't know who I am?\\rIt's me, GIOVANNI.\\nThe big dog Giovanni himself!\\fWahahaha! *cough cough*\\r",
+  "5": "...Huh?\\nI don't SOUND like Giovanni?\\rI don't even LOOK like Giovanni?\\nBRUH. I practiced in the mirror\\ffor THREE WEEKS!\\r",
+  "6": "Petrel: I'm a Fed Executive, lil bro!\\rYou must be tryna sneak in the\\nradio-transmitter room.\\fNah, that ain't happenin'.\\rThat room locked with a special\\npassword. The password is\\f“In Giovanni We Trust.”\\fWait... Did I just say that out loud?\\rWhatever! Knowin' it won't help\\nyou anyway.\\rThe door only open when I say the\\npassword. My voice only, bruh!\\r",
+  "7": "Petrel: Ever since The Feds got\\nshut down three years ago, Giovanni\\fbeen on read.\\rBut he comin' back. He just\\nwaitin' for the right time...\\rWahahaha!\\rYou beatin' me don't change\\nNOTHIN'. You still can't get in\\fthe radio-transmitter room!\\rIt need MY voice, bruh!\\r",
+  "8": "MURKROW: In Giovanni We Trust. Caw.\\r",
+  "9": "MURKROW is copyin'\\nPetrel's voice!\\rBro just got finessed by a BIRD...!?\\r",
+  "10": "MURKROW: In Giovanni We Trust. Caw.\\r",
+  "11": "The door closed...\\rIt need two passwords\\nto open.",
+  "12": "The door closed...\\r{STRVAR_1 3, 0, 0} put in the\\ntwo passwords.\\rThe door opened!\\r"
+}

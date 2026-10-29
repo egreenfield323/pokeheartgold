@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0055_D15R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No matter how hard we scrap,\nthis tower ain’t fallin’.</language>
+		<language name="English">No matter how hard we scrap, this\ntower ain’t fallin’. We checked.\fMany times.</language>
 	</row>
 	<row id="msg_0055_D15R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I sway like leaves in the wind...\nAlso I’m kinda dizzy.</language>
+		<language name="English">I sway like leaves in the wind... I\nalso sway ’cause I’m DIZZY. This\ftower move, bro. I’m seasick on\nland.</language>
 	</row>
 	<row id="msg_0055_D15R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

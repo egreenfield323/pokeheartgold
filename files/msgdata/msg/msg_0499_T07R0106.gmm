@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0499_T07R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A vending machine with a \nprize roulette...\rIt makes you happy when you get\nsomething for free even if it’s worth\fonly $200.\rHappiness does not come from how much\nthings are worth.\rIt is up to the heart of the one to\nreceive it...</language>
+		<language name="English">A vendin’ machine with a prize\nroulette...\rIt make you happy when you win\nsomethin’ free, even if it’s only\fworth $200.\rHappiness don’t come from how much\nstuff is worth.\rIt’s up to the heart of the one who\nget it... Deep, right? I’m a\fphilosopher. Unpaid.</language>
 	</row>
 	<row id="msg_0499_T07R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww! There are no games here!\nI wanted to play...</language>
+		<language name="English">AWW! Ain’t no games up here!\nI wanted to PLAY! I’m 42!</language>
 	</row>
 	<row id="msg_0499_T07R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have a Break at the Vending Machines\n6F: Rooftop Atrium</language>
+		<language name="English">Take a Break at the Vending Machines\n6F: Rooftop Atrium</language>
 	</row>
 	<row id="msg_0499_T07R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a vending machine.\nWhich drink would you like? {YESNO 0}</language>
+		<language name="English">It’s a vendin’ machine.\nWhat you want? {YESNO 0}</language>
 	</row>
 	<row id="msg_0499_T07R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clang!\rA can of {STRVAR_1 8, 0, 0} dropped down.\r</language>
+		<language name="English">Clunk!\rA can of {STRVAR_1 8, 0, 0} dropped down.\r</language>
 	</row>
 	<row id="msg_0499_T07R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clang!\rBonus! Another can of {STRVAR_1 8, 0, 0}\ndropped down.\r</language>
+		<language name="English">Clunk!\rBonus! Another can of {STRVAR_1 8, 0, 0}\ndropped down. Machine broke!\r</language>
 	</row>
 	<row id="msg_0499_T07R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="msg_0499_T07R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Decided not to buy a drink.</language>
+		<language name="English">Decided not to buy nothin’.</language>
 	</row>
 </body>

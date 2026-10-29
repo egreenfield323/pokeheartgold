@@ -2,55 +2,55 @@
 <body language="English">
 	<row id="msg_0629_T30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\rClair, our Block Boss, entered\nthe Dragon’s Den behind the Block.\rI have no idea when our Leader\nwill return.</language>
+		<language name="English">My bad.\rClair, our Block Boss, went in the\nDragon’s Den behind the Block.\rNo idea when she comin’ back. She don’t\ntell nobody nothin’. She a diva.</language>
 	</row>
 	<row id="msg_0629_T30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair, our Block Boss, is waiting\nfor you.\rHowever, it would be impossible for\na run-of-the-mill Hustler to win.</language>
+		<language name="English">Clair waitin’ on you.\rBut a regular-degular Hustler ain’t\ngot a chance. She’ll eat you alive.\fAnd then complain about the taste.</language>
 	</row>
 	<row id="msg_0629_T30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You defeated Clair?\nThat’s amazing!\rI’ve never heard of her losing to\nanyone other than Lance.</language>
+		<language name="English">You beat CLAIR?! That’s CRAZY!\rI never heard of her losin’ to nobody\nbut Lance! She gon’ be in a MOOD for\fweeks.</language>
 	</row>
 	<row id="msg_0629_T30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. Only chosen Hustlers may train\nhere. Please leave.</language>
+		<language name="English">Nah. Only chosen Hustlers can train\nhere. You ain’t chosen. Bounce.</language>
 	</row>
 	<row id="msg_0629_T30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If Clair allows it, her grandfather--\nour Master--will also.\rYou may enter.</language>
+		<language name="English">If Clair cool with it, her grandpa--\nour Master--cool with it too.\rCome in.</language>
 	</row>
 	<row id="msg_0629_T30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My radio’s busted?\nLately, I only get this weird signal.</language>
+		<language name="English">My radio broke?\nI only get this weird signal now.\fIt’s just laughin’. Creepy laughin’.</language>
 	</row>
 	<row id="msg_0629_T30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arooo! Voices in my head!\rHuh? I’m listening to my radio!</language>
+		<language name="English">AROOO! Voices in my head!\rHuh? Oh, it’s my radio! Whew. I thought\nit was the voices again.</language>
 	</row>
 	<row id="msg_0629_T30_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you finna make your Pokémon\nforget some moves?</language>
+		<language name="English">You finna make your homies forget some\nmoves?\rThe Move Deleter ALWAYS remember to\ncharge you though. Funny how that\fwork.</language>
 	</row>
 	<row id="msg_0629_T30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those Hustlers called Dragon Tamers\nare all from Blackthorn City.</language>
+		<language name="English">Them Hustlers called Drama Queens all\ncome from Blackthorn City.\rThe drama is in the water here.</language>
 	</row>
 	<row id="msg_0629_T30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you came through the Ice Path?\rYou must be a real hotshot Hustler!</language>
+		<language name="English">Sheesh, you came through the ICE PATH?\rYou must be a REAL hotshot Hustler!\nOr you got good shoes. Either way.</language>
 	</row>
 	<row id="msg_0629_T30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City\nA Quiet Mountain Retreat</language>
+		<language name="English">Blackthorn City\nA Quiet Mountain Spot. Dragons.</language>
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City block\nLeader: Clair\fThe Blessed User of Dragon Pokémon</language>
+		<language name="English">Blackthorn City Block\nBoss: Clair\fThe Dragon Queen. Just Ask Her.</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Deleter and Move Tutor House\rA Mysterious House Where You Can Make\nPokémon Forget and Remember Moves</language>
+		<language name="English">Move Deleter and Move Tutor House\rMake Your Homies Forget and\nRemember Moves. No Refunds.</language>
 	</row>
 	<row id="msg_0629_T30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0629_T30_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustler Tips\rWild Pokémon will appear regularly\nif you don’t run, but walk quietly in the\ftall grass.\rIf your party Pokémon are\ntired, it is better to avoid running,\fand go straight to a Trap House.</language>
+		<language name="English">Hustler Tips\rWild homies show up regular\nif you walk quiet in the\ftall grass instead of runnin’.\rIf your crew tired, don’t\nrun around, go straight\fto a Trap House.</language>
 	</row>
 </body>

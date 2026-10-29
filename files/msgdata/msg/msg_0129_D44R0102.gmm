@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I’m sorry about this.\nHere, take this as my apology.\r</language>
+		<language name="English">Clair: ...My bad about all this.\nDon’t tell nobody I apologized.\rHere, take this as my apology.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,87 +15,87 @@
 	</row>
 	<row id="msg_0129_D44R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That contains Dragon Beam.\rWell, Dragon Beam is a kind of er...\nnever mind!\rIt’s huge energy of some kind.\nIf you don’t want it, you don’t\fhave to take it.\r</language>
+		<language name="English">That’s Dragon Beam.\rWell, Dragon Beam is like... er...\nnever mind!\rIt’s some kinda huge energy.\nIf you don’t want it, you don’t\fgotta take it. Whatever.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You don’t have any room for this.\rI’m going back to the Block, so make\nroom, then come see me there.\r</language>
+		<language name="English">Oh? You ain’t got room for this.\rI’m goin’ back to the Block, so make\nroom, then come see me there.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the matter?\nIf you are headed to the Pokémon\fLeague, go back to New Bark Town\fand Hydrant Wave along Route 27.\rYour face...is telling me you have\nsome unfinished business...\rCome on!\rWhatever you have to face from now,\ndon’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\fGive it your all.\r</language>
+		<language name="English">What’s the matter?\nIf you headed to the Big\fLeague, go back to New Bark Town\fand Hydrant Wave along Route 27.\rYour face...tellin’ me you got\nsome unfinished business...\rC’mon!\rWhatever you gotta face now,\ndon’t you DARE give up!\rIf you do, I’ma feel even worse\nabout losin’ to you!\fGive it everythin’.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon Shrine\rA shrine revering the Dragon Pokémon\nsaid to have lived in Dragon’s Den.</language>
+		<language name="English">Dragon Shrine\rA Shrine for the Dragon Homies\nThat Lived in Dragon’s Den.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...\nWhat? {STRVAR_1 3, 0, 0}?\rYeah, I am training my Pokémon here.\nYou can laugh at me now...\rBut it needs to be done.\nMy Pokémon ain’t ready to beat you.\fI can’t push them too hard now.\rI have to be disciplined to become\nthe greatest Pokémon Hustler...</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...\nWhat? {STRVAR_1 3, 0, 0}?\rYeah, I’m trainin’ my homies here.\nGo ’head and laugh...\rBut it gotta be done.\nMy homies ain’t ready to beat you.\fI can’t push ’em too hard now.\rI gotta be disciplined to be\nthe greatest Hustler...</language>
 	</row>
 	<row id="msg_0129_D44R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...\rWhew...\rLearn to stay out\nof my way...</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...\rWhew...\rLearn to stay outta\nmy way...</language>
 	</row>
 	<row id="msg_0129_D44R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: It’s still early, and you’ve got\nnothing to do already?\rI may have time to listen to you.\nIf you insist, I can exchange\fnumbers, too! {YESNO 0}</language>
+		<language name="English">Clair: It’s still early and you already\ngot nothin’ to do? Typical.\rI MIGHT have time to hear you out.\nIf you INSIST, we can swap numbers.\fI’m hella busy and important. {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Clair\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Clair’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0129_D44R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I can battle you on Friday\nnights if you insist!</language>
+		<language name="English">Clair: I can scrap you on Friday\nnights. If you insist. Which you do.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: ...</language>
+		<language name="English">Clair: ...Sheesh. Okay. Your loss.\nYOUR loss.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: So you do want to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Clair: So you DO wanna swap numbers.\nI knew it. Everybody do. {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...What?\nAre you here to make fun of\fmy training?\rHumph!\nI took my time coming all the way here,\rbut the Master won’t tell me anything,\nand he’s making a big deal out of it...\rSo I decided to train my Pokémon\nhere instead.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...What?\nYou here to clown my\ftrainin’?\rHmph!\nI came all the way out here,\rbut the Master won’t tell me nothin’,\nand he makin’ it a whole thing...\rSo I decided to train my homies\nhere instead.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the The Feds hideout.\r</language>
+		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Feds’ hideout.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the The Feds hideout.\r</language>
+		<language name="English">Lance: Ayo, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Feds’ hideout.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: You!\nWhere have you been all this time?\rPrepare to lose to me this time.\nI challenge you!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: You!\nWhere you been this whole time?\rGet ready to lose to me.\nI’m callin’ you out!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Calm down.\nI was in a bit of a hurry then.\rSorry for that.\nBut...I always welcome challengers!\rHey!\nHow about a Double Battle?\r</language>
+		<language name="English">Lance: Calm down.\nI was in a hurry back then.\rMy bad.\nBut...I always welcome challengers!\rAyo!\nHow ’bout a Double Battle?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Humph!\nYou can’t beat me one-on-one, can you?\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Hmph!\nYou can’t beat me one-on-one, huh?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Come on.\nA Double Battle is really not bad.\f{STRVAR_1 3, 0, 0}, you’ll be on my side!\r</language>
+		<language name="English">Lance: C’mon.\nA Double Battle ain’t bad.\f{STRVAR_1 3, 0, 0}, you on my side!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Come on.\nA Double Battle is really not bad.\f{STRVAR_1 3, 0, 0}, you’ll be on my side!\r</language>
+		<language name="English">Lance: C’mon.\nA Double Battle ain’t bad.\f{STRVAR_1 3, 0, 0}, you on my side!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Well then, you over there!\nWill you team up with me?\r</language>
+		<language name="English">Clair: Well then, you over there!\nYou gon’ team up with me?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: You must be kidding!\rThat embarrassing one in the weird\ncostume for me?\fNo way I can battle with her!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: You gotta be PLAYIN’!\rThat embarrassin’ one in the weird\nbodysuit? Teamin’ with ME?\fAin’t NO way!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -103,38 +103,38 @@
 	</row>
 	<row id="msg_0129_D44R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Just as I expected.\nYou two make quite a team...\rGoing solo is certainly one way to aim\nfor the top...\rBut that’s not all there is to Pokémon\nbattle. Although I don’t feel it’s\fnecessary to remind you guys.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
+		<language name="English">Lance: Just like I thought.\nY’all make a good team...\rGoin’ solo is one way to\naim for the top...\rBut that ain’t all there is to\nscrappin’. Not that I gotta\fremind y’all.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Just as I expected.\nYou two make quite a team...\rGoing solo is certainly one way to aim\nfor the top...\rBut that’s not all there is to Pokémon\nbattle. Although I don’t feel it’s\fnecessary to remind you guys.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
+		<language name="English">Lance: Just like I thought.\nY’all make a good team...\rGoin’ solo is one way to\naim for the top...\rBut that ain’t all there is to\nscrappin’. Not that I gotta\fremind y’all.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I must excuse myself.\r...{STRVAR_1 3, 0, 0}, it was a fun battle.\rThat goes for you, too, wise guy.\r</language>
+		<language name="English">Clair: I gotta excuse myself.\r...{STRVAR_1 3, 0, 0}, that was a fun scrap.\rThat go for you too, smart mouth.\nYou lucky I like your hair.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}...\rIt wasn’t supposed to go this way...\nAnyway, I am not giving up beating you!\rI’ll train my Pokémon and...my own\nheart, too.\rI’ll come back as the toughest\nchallenge for you!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}...\rIt wasn’t supposed to go like this...\nAnyway, I ain’t done tryna beat you!\rI’ma train my homies and...my own\nheart too.\rI’ll come back as the toughest\nchallenge you ever had!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: You...\nseem desperate to take pictures\fwith me. {YESNO 0}</language>
+		<language name="English">Clair: You...DEADASS want a pic\nwith me, huh? Of course you do. {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Are you ready?\r</language>
+		<language name="English">Clair: You ready?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Excellent one of me!\nAnother hard picture.</language>
+		<language name="English">Clair: GREAT one of me!\nAnother perfect pic. As usual.\fYou blinked, but I look amazin’.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: That’s too bad.</language>
+		<language name="English">Clair: That’s too bad. For you.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.\n</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.\n</language>
 	</row>
 </body>

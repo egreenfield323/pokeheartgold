@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0076_D24R0205_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This a big room, but there’s\nnothin’ in here. Not even a couch.</language>
+		<language name="English">This a big room with NOTHIN’ in it.\nNo couch. No TV. Not even a outlet.\fAncient people was strugglin’.</language>
 	</row>
 	<row id="msg_0076_D24R0205_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0076_D24R0205_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nobody robbed these ruins or\nmessed with ’em. No graffiti, neither.\rEverything still clean.\nSomethin’ in here make people\ffeel like they gotta respect it.</language>
+		<language name="English">Nobody robbed these ruins. No graffiti,\nneither.\rThat’s how you KNOW it’s haunted.\nThe hood woulda tagged it by now.</language>
 	</row>
 	<row id="msg_0076_D24R0205_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

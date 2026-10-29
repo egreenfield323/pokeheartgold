@@ -1,0 +1,14 @@
+{
+  "_comment": "Ecruteak block. Morty, mystic seer, very into himself.",
+  "0": "Morty: Good of you to come. I knew you\\nwould. I SAW it.\\rIn Ecruteak, homies been respected\\nforever.\\rThey say a rainbow homie show itself to\\na truly HARD Hustler.\\rI been trainin' in secret my whole life.\\nIn the dark. With ghosts. It's lonely.\\rNow I see what others can't.\\nI see dead homies. All day.\\rI see the shadow of the one who gon'\\nmake that rainbow homie show up.\\rAnd that person is ME!\\rYou finna help me level up!\\r",
+  "1": "Morty: I don't think our potential is\\nthat different... But you got somethin'\\fmore. I didn't see that comin'.\\fAnd I see EVERYTHING.\\rSo be it. This Chain yours.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Fog Chain from Morty!",
+  "3": "Morty: With the Fog Chain,\\nhomies up to Lv. 50, even traded\\fones, listen to you.\\rAnd your homies can use\\nHydrant Wave.\\rOne more thing...\\nI want you to have this too.\\r",
+  "5": "Morty: It's Magic 8-Ball. It hit\\nand might drop Special Defense.\\fUse it if you feel it.",
+  "6": "Morty: I get it now...\\rThe person the Dancers was talkin' about\\ngotta be you... Not me. Again.\\rYou strong enough to cross the sea.\\nGo west, then south. Olivine City.\\fI'll be here. In the dark. Sulkin'.",
+  "7": "Yo! Future Kingpin!\\nThe Hustlers here run Ghost homies.\\rGhosts is like shadows. Phantoms.\\nYou can't punch a phantom.\\fI tried. I punched a wall.",
+  "8": "Whew, {STRVAR_1 3, 0, 0}! You did GREAT!\\nI was hidin' in the corner screamin'\\fthe whole time!",
+  "9": "You here for the Block Boss?\\rMorty went to the Burned Tower.\\nHe chasin' legends again.\\rSorry, gotta bounce. Ho ho ho.\\nThe ghosts said so.\\r",
+  "10": "Ecruteak City Block\\nLights Stay Off. Don't Ask.",
+  "11": "Ecruteak City Block\\rBoss: Morty\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

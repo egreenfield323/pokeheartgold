@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0467_T04_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto’s Power Plant?\rIt’s near the end of Route 9, the road\nthat heads east from here.\rI think there was an accident of\nsome sort there.</language>
+		<language name="English">Kanto’s Power Plant?\rEnd of Route 9, east from here.\rI heard there was some kinda\n“accident.” The air quotes is\fimportant.</language>
 	</row>
 	<row id="msg_0467_T04_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re collecting every single kind\nof Pokémon?\rThat must be quite a challenge, but\nit sounds fun, too.</language>
+		<language name="English">You collectin’ EVERY kinda homie?\rThat’s a challenge. That’s a lifestyle.\nThat’s how my uncle ended up with 40\fcats.</language>
 	</row>
 	<row id="msg_0467_T04_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nMisty, the Block Boss, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
+		<language name="English">The cape up north is THE date spot.\nGirls LOVE it!\rBetween you and me... Misty, the Block\nBoss, be out at the cape sometimes.\rI been goin’ every day for a year.\nShe ain’t noticed me once.</language>
 	</row>
 	<row id="msg_0467_T04_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,39 +18,39 @@
 	</row>
 	<row id="msg_0467_T04_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWBRO is full of the fighting spirit!</language>
+		<language name="English">SLOWBRO is HYPE to scrap!</language>
 	</row>
 	<row id="msg_0467_T04_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My SLOWBRO and I make an\nawesome combination!\rSLOWBRO, show me your Chain Swing!\r...!\nSLOWBRO’s Chain Swing hits hard!</language>
+		<language name="English">My SLOWBRO and me make a\nhard combo!\rSLOWBRO, show me your Chain Swing!\r...!\nSLOWBRO’s Chain Swing hit HARD!</language>
 	</row>
 	<row id="msg_0467_T04_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This shady character asked me just now\nhow to get to the Power Plant.\rHe said it must be kept\n“...confidential.”\rWhat does that mean?</language>
+		<language name="English">This SHADY dude asked me how to get to\nthe Power Plant.\rHe said it gotta stay “...classified.”\nThen he asked me for bus fare.</language>
 	</row>
 	<row id="msg_0467_T04_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shady character sneaked into\nthe Block! What business does\fhe have with Misty?</language>
+		<language name="English">A shady character snuck into the\nBlock! What business he got with\fMisty?!\fI’M the one with business with Misty!</language>
 	</row>
 	<row id="msg_0467_T04_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw this shady guy in black go\noff toward the Cape.</language>
+		<language name="English">I saw a shady dude in black go toward\nthe Cape. He was doin’ a lil sneaky\fwalk.\fLike a cartoon.</language>
 	</row>
 	<row id="msg_0467_T04_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m a huge fan of Cerulean Gym’s Misty.</language>
+		<language name="English">I’m a HUGE fan of Misty from the\nCerulean Block. I got her poster.\fThree of ’em.\fOne on the ceilin’.</language>
 	</row>
 	<row id="msg_0467_T04_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard of a cave here that had\nhorribly powerful Pokémon in it.\fThat’s why I came here.\r</language>
+		<language name="English">I heard about a cave here with SCARY\nstrong homies. That’s why I came.\rI’m scared, but I came. That’s\ncourage. Or stupidity.\r</language>
 	</row>
 	<row id="msg_0467_T04_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayuh?\rMy Dowsing Machine is responding...</language>
+		<language name="English">Ayuh?\rMy Dowsing Machine goin’ off...</language>
 	</row>
 	<row id="msg_0467_T04_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is...\nThe notorious Cerulean Cave!\rHorribly powerful Pokémon live here.\nOnly those who have defeated all eight\fKanto Block Bosses are allowed to\fchallenge it.</language>
+		<language name="English">This is...\nThe notorious Cerulean Cave!\rScary strong homies live here.\nOnly people who beat all eight\fKanto Block Bosses can\fgo in.</language>
 	</row>
 	<row id="msg_0467_T04_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,15 +58,15 @@
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City block\nLeader: Misty\fThe Tomboyish Mermaid</language>
+		<language name="English">Cerulean City Block\nBoss: Misty\fCalls Everybody a Pest.</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trendsetter of the Bicycle Boom\rCerulean Bike Main Shop</language>
+		<language name="English">Trendsetter of the Bike Boom\rCerulean Bike Main Shop</language>
 	</row>
 	<row id="msg_0467_T04_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a notice here...\rStamp out thievery and make the city\na friendlier, more cheerful place!\fCerulean Police</language>
+		<language name="English">There’s a notice here...\rStop stealin’ and make the city\na friendlier, happier place!\fCerulean Police</language>
 	</row>
 	<row id="msg_0467_T04_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

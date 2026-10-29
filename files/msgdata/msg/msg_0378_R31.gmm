@@ -46,11 +46,11 @@
 	</row>
 	<row id="msg_0378_R31_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I found a hard homie in Dark Cave.\nI’ma raise it up to run on\fFalkner.\rHe the Block Boss of Violet City.</language>
+		<language name="English">I found a hard homie in Dark Cave.\nI’ma train it up to run on\fFalkner and his lil pigeons.\rPigeons, bro. The man run a Block\nwith PIGEONS.</language>
 	</row>
 	<row id="msg_0378_R31_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark Cave...\rIf a homie could light it up,\nI’d go in. It’s DARK dark.</language>
+		<language name="English">Dark Cave...\rIt’s DARK dark. Like, power-bill-ain’t-\npaid dark. I ain’t goin’ in there.</language>
 	</row>
 	<row id="msg_0378_R31_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

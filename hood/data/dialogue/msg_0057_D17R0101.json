@@ -1,0 +1,15 @@
+{
+  "_comment": "Bell Tower 1F. The monk at the gate, Morty's number.",
+  "0": "Mad people came up this tower with a\\nRainbow Wing tryna summon HO-OH.\\rNone of 'em got HO-OH to show up...\\rThe Rainbow Wing just a hall pass.\\nThat's it. It ain't a magic feather.\\rWhat HO-OH want is real TRUST between\\npeople and homies...\\rNot clout. HO-OH can smell clout.",
+  "1": "Long time ago, there was a\\nhomie at the top of this tower:\\fHO-OH.\\rBut it flew off, and nobody\\nseen it since...\\rIf somebody who could bring back\\nreal trust between people and\\fhomies came through with\\fsomethin' tied to HO-OH... It might\\fcome down for 'em...\\r",
+  "2": "That thing you got...!\\nYou serious?! Where you get that?!\\r",
+  "3": "You did it...\\nCome on through.",
+  "4": "That Rainbow Wing just a hall pass.\\rIf you ain't the kinda person who\\nbring trust back between people and\\fhomies, HO-OH ain't showin' up.\\fNo matter how many times you clap.",
+  "5": "Hmmm.\\rSo it was you and the Bell!",
+  "6": "You a real one for your age...\\nI was stealin' hubcaps at your age.",
+  "7": "Morty: Bell Tower is where people and\\nhomies test their trust.\\rYou might be born with it...\\fWe should swap numbers.\\rI wanna see the trust you got with\\nyour homies. And I'm lonely. {YESNO 0}",
+  "8": "{STRVAR_1 3, 0, 0} saved Morty's number\\nin the Pokégear!",
+  "9": "Morty: Hit me up on Tuesday nights.\\nI should be free.",
+  "10": "Morty: I DEADASS wanted to see your\\ntrust with your homies...\\fI'll just go stare at a wall.",
+  "11": "Morty: You wanna swap\\nnumbers? {YESNO 0}"
+}

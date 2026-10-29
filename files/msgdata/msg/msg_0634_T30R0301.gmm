@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0634_T30R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rDRAGONAIR’s cute, but I don’t have\nit. Do you have DRAGONAIR㊛?\rWant to trade it for my DODRIO? {YESNO 0}</language>
+		<language name="English">DRAGONAIR SO cute, but I ain’t got\none. You got a DRAGONAIR㊛?\rTrade it for my DODRIO? It got three\nheads, so it’s like three homies. {YESNO 0}</language>
 	</row>
 	<row id="msg_0634_T30R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh! Good looks!\nI always wanted DRAGONAIR!</language>
+		<language name="English">SHEESH! Good looks!\nI ALWAYS wanted a DRAGONAIR!\fI’m namin’ it Princess.</language>
 	</row>
 	<row id="msg_0634_T30R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s not DRAGONAIR㊛.\nPlease trade with me if you get one.</language>
+		<language name="English">That ain’t a DRAGONAIR㊛.\nTrade with me if you get one.</language>
 	</row>
 	<row id="msg_0634_T30R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade?\nOh, darn...</language>
+		<language name="English">You don’t wanna trade?\nOh, DANG... DODRIO was hype for it.</language>
 	</row>
 	<row id="msg_0634_T30R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How is that DODRIO I traded you doing?\rYour DRAGONAIR’s so cute!</language>
+		<language name="English">How that DODRIO doin’? It still argue\nwith itself?\rYour DRAGONAIR SO cute! Princess say\nhi!</language>
 	</row>
 	<row id="msg_0634_T30R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0634_T30R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has worked stupendously hard,\nhasn’t it?\rAs its reward, please give it\nthe Effort Ribbon.\r</language>
+		<language name="English">It been workin’ SO hard, ain’t it?\rAs a reward, give it the Effort\nRibbon. It’s like a participation\ftrophy but earned.\r</language>
 	</row>
 	<row id="msg_0634_T30R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0} received\nthe Effort Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0} got\nthe Effort Ribbon.\r</language>
 	</row>
 	<row id="msg_0634_T30R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,26 +38,26 @@
 	</row>
 	<row id="msg_0634_T30R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It needs to work a little harder.\rIf it does, I’ll give your Pokémon\nsomething nice.</language>
+		<language name="English">It need to grind a lil harder.\rIf it do, I’ll give it somethin’ nice.\nRight now it’s givin’ lazy.</language>
 	</row>
 	<row id="msg_0634_T30R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s working a little harder, I see.\rBut it will need some more effort!</language>
+		<language name="English">It’s grindin’ a lil, I see.\rBut it need MORE effort! Hustle!</language>
 	</row>
 	<row id="msg_0634_T30R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s working hard, I see.\rBut it will need just a little\nmore effort!</language>
+		<language name="English">It’s grindin’, I see.\rBut it need just a lil\nmore effort!</language>
 	</row>
 	<row id="msg_0634_T30R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s working quite hard, I see.\rBut it will need a tiny bit\nmore effort!</language>
+		<language name="English">It’s grindin’ real hard, I see.\rBut it need a tiny bit\nmore effort!</language>
 	</row>
 	<row id="msg_0634_T30R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s working so hard, I see.\rIt’s almost there.\nJust the smallest bit of effort, and\fit’ll be there!</language>
+		<language name="English">It’s grindin’ SO hard, I see.\rIt’s ALMOST there.\nJust a smidge more and BOOM!</language>
 	</row>
 	<row id="msg_0634_T30R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! That Effort Ribbon looks\ngood on your {STRVAR_1 0, 0, 0}!</language>
+		<language name="English">Oh! That Effort Ribbon look\ngood on your {STRVAR_1 0, 0, 0}!</language>
 	</row>
 </body>

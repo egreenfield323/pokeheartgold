@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0454_T02GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Yo! Finally got here, huh?\rI wasn’t in the mood at Cinnabar,\nbut now I’m ready to battle you.\r...\rYou’re telling me you conquered all\nthe Blocks in Johto?\rHahaha!\fHeh! Johto’s Blocks are that pathetic?\rHey, don’t worry about it.\nI’ll know if you are good or not by\fbattling you right now.\r</language>
+		<language name="English">Blue: Yo! FINALLY made it, huh?\rI wasn’t in the mood at Cinnabar, but\nnow I’m ready to scrap you.\r...\rYou tellin’ me you ran through ALL\nthe Blocks in Johto?\rHahaha! Heh!\fJohto’s Blocks that WEAK?\rAyo, don’t trip. I’ll know if you good\nby scrappin’ you right now.\fI used to be KINGPIN. For like a\nhour.\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: No way!\rHow the heck did I lose to you?\r...\rTch, all right...\fHere, take this.\fIt’s the Earth Chain.\r</language>
+		<language name="English">Blue: No WAY!\rHow the HECK I lose to YOU?!\r...\rTch, aight...\fDon’t tell my sister.\fHere, take this. It’s the Earth\nChain.\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Earth Chain from Blue!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Earth Chain from Blue!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: With this Chain, you’ll be able\nto use the HM move Wall Climb!\fHere!\rTake this as well!\r</language>
+		<language name="English">Blue: With this Chain, you can\nuse the HM move Wall Climb!\fHere!\rTake this too!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: It contains Slow Mo!\rIt allows slower Pokémon to move\nbefore faster Pokémon for a while.\rIt’s a very tricky move, ain’t it?\nHence the name!</language>
+		<language name="English">Blue: It’s got Slow Mo!\rIt let slower homies move\nbefore faster homies for a while.\rIt’s a real tricky move, ain’t it?\nJust like me!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: ...\rAll right, I was wrong. You’re the\nreal deal.\fYou are a good Hustler.\rBut I’m finna beat you someday.\nDon’t you forget it!</language>
+		<language name="English">Blue: ...\rAight, I was wrong. You the REAL\ndeal. You a good Hustler.\rBut I’ma beat you someday. Don’t you\nforget it! Smell ya later!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Block Boss is a guy who battled\nthe Kingpin three years ago.\rHe’s no pushover.\nGive it everything you’ve got!</language>
+		<language name="English">Yo, future legend!\rThe floor here unstable, so put away\nyour homies...NOW!\rThe Block Boss scrapped the Kingpin\nthree years ago. Lost. But he\fscrapped him!\rHe ain’t no pushover. Give it\neverythin’!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Man, you are truly tough...\rThat was such an inspirational battle.\nIt brought tears to my eyes.</language>
+		<language name="English">Man, you DEADASS tough...\rThat was SO inspirin’.\nI got tears in my eyes. Real ones.</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Block Boss is a guy who battled\nthe Kingpin three years ago.\rHe’s no pushover.\nGive it everything you’ve got!\r</language>
+		<language name="English">Yo, future legend!\rThe floor here unstable, so put away\nyour homies...NOW!\rThe Block Boss scrapped the Kingpin\nthree years ago. Lost. But he\fscrapped him!\rHe ain’t no pushover. Give it\neverythin’!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City block</language>
+		<language name="English">Viridian City Block\nThe Boss Ain’t Here. Again.</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City block\rBlock Boss: Blue\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Viridian City Block\rBlock Boss: Blue\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

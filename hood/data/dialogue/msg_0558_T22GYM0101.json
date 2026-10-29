@@ -1,14 +1,14 @@
 {
   "_comment": "Violet block. Falkner takes his pops' pigeons VERY seriously.",
-  "0": "Falkner: I'm Falkner, the Violet City\\nBlock Boss!\\rPeople say you can clip a bird\\nhomie's wings with a lil taser...\\rI won't let NOBODY disrespect\\nmy birds like that!\\rI'ma show you what real\\npigeon power look like!\\r",
-  "1": "Falkner: ...For real?!\\nMy pops' precious birds...\\rBut an L is an L.\\nAight.\\rTake this official Big\\nLeague Chain.\\fThis the Zephyr Chain.\\r",
+  "0": "Falkner: I'm Falkner, Violet City Block\\nBoss! Bird Man of the East Side!\\rPeople say you can clip a bird\\nhomie's wings with a lil taser...\\rI won't let NOBODY disrespect my\\nbirds! They my FAMILY! I named 'em!\\rI'ma show you what real\\npigeon power look like!\\r",
+  "1": "Falkner: ...Nah. NAH.\\nMy pops' precious birds...\\rHe gon' disown me. AGAIN.\\rAight, an L is an L. Take this\\nofficial Big League Chain.\\fThis the Zephyr Chain.\\r",
   "2": "{STRVAR_1 3, 0, 0} got\\nthe Zephyr Chain from Falkner!",
   "3": "Falkner: With that Chain, homies up\\nto Lv. 20, even traded ones,\\fwill listen to you, no questions.\\rIt also let you use the hidden\\nmove Smash n Grab outside of\\fbattle, whenever.\\r",
   "4": "Falkner: Use a TM and a homie\\nlearn a new move on the spot.\\rThink before you use it--a TM\\nonly work once.\\rTM51 is Crash Pad.\\nIt heal up half the max HP.\\rThere's blocks in the cities and\\ntowns up ahead. Run 'em all!\\rAs for where you go next...\\fI'd hit up Azalea Town.",
-  "5": "Falkner: There's blocks in the\\ncities and towns up ahead.\\rGo test yourself at\\nall of 'em.\\rAs for where you go next...\\fI'd hit up Azalea Town.\\rI'ma train harder so I can be\\nthe greatest Pigeon Guy alive!",
-  "6": "Yo! Future Kingpin!\\nYou here to run up on\\fFalkner, the Block Boss, right?\\rYou welcome here.\\n...Kinda!\\rThis city got a tower called\\nSprout Tower where Hustlers\\fgo get humbled.\\rRunnin' up on Falkner without that\\ntraining? That's crazy.\\fHa ha ha!",
-  "7": "Yo, future Kingpin!\\nI ain't a Hustler, but I got\\fsome advice!\\fTrust me!\\fIf you believe, then that Kingpin\\fdream can come true.\\rYou believe?\\nThen listen up.\\rGrass types get cooked by\\nFlying types. Remember that.",
-  "8": "Hard battle! Keep that up and\\nyou'll be Kingpin in no time!",
+  "5": "Falkner: There's Blocks in every city\\nup ahead. Go test yourself.\\rNext I'd hit Azalea Town.\\rI'ma train so hard I become the\\ngreatest Pigeon Guy who ever lived.\\fThat's a real job. I checked.",
+  "6": "Yo! Future Kingpin!\\nYou here for Falkner, right?\\rYou welcome here! ...Kinda.\\rThere's a tower called Sprout Tower\\nwhere Hustlers go get humbled by\\fbald dudes in robes.\\rRunnin' up on Falkner WITHOUT that?\\nThat's crazy. Ha ha ha!",
+  "7": "Yo, future Kingpin! I ain't a Hustler,\\nbut I give advice for free!\\fI got no qualifications!\\rYou believe in yourself?\\nThen listen up.\\rGrass types get cooked by Flyin'\\ntypes. Pigeons beat salad. Science.",
+  "8": "Hard scrap! Keep that up and you'll\\nbe Kingpin before my rent due!",
   "9": "Violet City Block\\nNo Birdseed Past This Point",
   "10": "Violet City Block\\rBlock Boss: Falkner\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
 }

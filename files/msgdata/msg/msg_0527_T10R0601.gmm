@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0527_T10R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: I’ve been waiting for you.\r{STRVAR_1 3, 0, 0}!\rI knew that you, with your skills,\nwould eventually reach me here.\rThere’s no need for words now.\rWe will battle to determine who is\nthe stronger of the two of us.\rAs the most powerful Hustler and as\nthe Big League Kingpin...\rI, Lance the dragon master,\naccept your challenge!\r</language>
+		<language name="English">Lance: *cape flutters, no wind*\nI been waitin’ on you.\r{STRVAR_1 3, 0, 0}!\rI KNEW you, with your skills,\nwould end up right here.\rNo need for words now.\n...But I’ma say some anyway.\rWe gon’ scrap to see who the\nhardest of the two of us.\rAs the strongest Hustler and the\nBig League KINGPIN...\rI, Lance the dragon master, cape\nmodel, accept your challenge!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: I’ve been waiting for you.\r{STRVAR_1 3, 0, 0}!\rI knew that you, with your skills,\nwould eventually reach me here.\rThere’s no need for words now.\rWe will battle to determine who is\nthe stronger of the two of us.\rAs the most powerful Hustler and as\nthe Big League Kingpin...\rI, Lance the dragon master,\naccept your challenge!\r</language>
+		<language name="English">Lance: *cape flutters, no wind*\nI been waitin’ on you.\r{STRVAR_1 3, 0, 0}!\rI KNEW you, with your skills,\nwould end up right here.\rNo need for words now.\n...But I’ma say some anyway.\rWe gon’ scrap to see who the\nhardest of the two of us.\rAs the strongest Hustler and the\nBig League KINGPIN...\rI, Lance the dragon master, cape\nmodel, accept your challenge!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Whew.\rYou have become truly powerful,\n{STRVAR_1 3, 0, 0}.\rYour Pokémon have responded to your\nstrong and upstanding nature.\rAs a Hustler, you will continue to\ngrow strong with your Pokémon.\r</language>
+		<language name="English">...Whew. *cape stops flutterin’*\rYou got REAL strong, {STRVAR_1 3, 0, 0}.\nStronger than the CAPE.\rYour homies ride for you ’cause you\nsolid and you REAL. That’s somethin’\fa\fcape can’t buy. I tried.\rAs a Hustler, you gon’ keep gettin’\nstronger. I’ma go cry in my cape.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Whew.\rYou have become truly powerful,\n{STRVAR_1 3, 0, 0}.\rYour Pokémon have responded to your\nstrong and upstanding nature.\rAs a Hustler, you will continue to\ngrow strong with your Pokémon.\r</language>
+		<language name="English">...Whew. *cape stops flutterin’*\rYou got REAL strong, {STRVAR_1 3, 0, 0}.\nStronger than the CAPE.\rYour homies ride for you ’cause you\nsolid and you REAL. That’s somethin’\fa\fcape can’t buy. I tried.\rAs a Hustler, you gon’ keep gettin’\nstronger. I’ma go cry in my cape.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,30 +22,30 @@
 	</row>
 	<row id="msg_0527_T10R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: Oh, no! It’s all over!\nProfessor Oak, if you weren’t\fso slow...\r</language>
+		<language name="English">Mary: Oh, NO! We MISSED it!\nProfessor Oak, if you wasn’t so\fSLOW...\fAnd if you ain’t stop for snacks...\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s been a long while.\fYou certainly look more impressive.\rYour conquest of the League is just\nfantastic!\rYour dedication, trust, and love for\nyour Pokémon made this happen.\rYour Pokémon were outstanding, too.\rBecause they believed in you as a\nTrainer, they persevered.\rCongratulations, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}! Long\ntime no see. You lookin’ real\fimpressive. *sniff*\rYou ran the WHOLE League! That’s\nINSANE! I’m hyperventilatin’!\rYour dedication, trust, and love for\nyour homies made it happen.\rYour homies was OUTSTANDIN’ too.\nThey believed in you, so they kept\fgoin’.\rCongrats, {STRVAR_1 3, 0, 0}! *sniff* I’m\ncryin’.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s been a long while.\fYou certainly look more impressive.\rYour conquest of the League is just\nfantastic!\rYour dedication, trust, and love for\nyour Pokémon made this happen.\rYour Pokémon were outstanding, too.\rBecause they believed in you as a\nTrainer, they persevered.\rCongratulations, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}! Long\ntime no see. You lookin’ real\fimpressive. *sniff*\rYou ran the WHOLE League! That’s\nINSANE! I’m hyperventilatin’!\rYour dedication, trust, and love for\nyour homies made it happen.\rYour homies was OUTSTANDIN’ too.\nThey believed in you, so they kept\fgoin’.\rCongrats, {STRVAR_1 3, 0, 0}! *sniff* I’m\ncryin’.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: Let’s interview the brand-new\nChampion!\r</language>
+		<language name="English">Mary: Let’s interview the BRAND-NEW\nKingpin! Mic check! One two! Is this\fon?!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: This is getting to be a\nbit too noisy...\r{STRVAR_1 3, 0, 0}, could you come with me?\r</language>
+		<language name="English">Lance: This gettin’ a lil too loud...\rReporters. Paparazzi. Mary.\n{STRVAR_1 3, 0, 0}, come with me. Quick.\fThrough the\fback. My cape can’t handle flash\nphotography.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: This is getting to be a\nbit too noisy...\r{STRVAR_1 3, 0, 0}, could you come with me?\r</language>
+		<language name="English">Lance: This gettin’ a lil too loud...\rReporters. Paparazzi. Mary.\n{STRVAR_1 3, 0, 0}, come with me. Quick.\fThrough the\fback. My cape can’t handle flash\nphotography.\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: Oh, wait!\nWe haven’t done the interview!</language>
+		<language name="English">Mary: Oh, WAIT! We ain’t do the\nINTERVIEW! I did my HAIR!</language>
 	</row>
 </body>

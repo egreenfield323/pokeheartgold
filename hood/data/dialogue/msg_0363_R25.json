@@ -1,0 +1,22 @@
+{
+  "_comment": "Cerulean Cape. Misty's date gets ruined, Eusine's last stand, SUICUNE.",
+  "0": "Misty: AWW! Why you had to show up and bug\\nus NOW?! We was on a DATE!\\rYou know what they call people like you?\\rPESTS! You heard me, PEST!\\r...\\r...Oh? Those Chains you got... Johto?\\rIf you got eight, you must be good.\\rAight. Come to the Cerulean Block.\\nI'll take you on. After my date.\\rI'm Misty, Block Boss in Cerulean.\\nRemember that, pest.\\r",
+  "1": "Misty: I LOVE the sunset here!\\nIt gimme courage, you know?\\rRight! Why don't we swap numbers?\\nDon't make it weird. {YESNO 0}",
+  "2": "{STRVAR_1 3, 0, 0} saved Misty's number\\nin the Pokégear!",
+  "3": "Misty: Hit me up Wednesday\\nmornin' if you want another\\fscrap with me!",
+  "4": "Misty: That's a shame!",
+  "5": "Misty: So you DO want\\nmy number? {YESNO 0}",
+  "6": "Misty: Ah! You got a hard\\nWater-type homie!\\fCan I take a pic with it? {YESNO 0}",
+  "7": "Misty: Way to go!\\rLet's see a big smile!\\r",
+  "8": "Misty: We look good!\\nI really like Water-type homies!",
+  "9": "Misty: What a LETDOWN... Pest.",
+  "10": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics.",
+  "11": "You took on one more scrap than you\\nexpected, but you STILL won.\\rLike we promised, you get a prize!\\nThis the Gold Grill Bridge, baby!\\r",
+  "13": "But after seein' how you scrap, I wanna\\nsee how I do. Lemme take you on.\\fI'm the prize guy, but I'm ALSO a fighter.\\r",
+  "14": "I never had a scrap this WONDERFUL!\\rYou and your homies is DEADASS strong!\\nI'm gon' go sit on the bridge and think.",
+  "15": "Sea Cottage\\nBill's House",
+  "16": "Eusine: Huff, huff...\\nI'm...no match for you.\\f...Like I predicted. In my diary.\\r..................\\n...Go 'head.\\rEver since the Burned Tower in Ecruteak,\\nI kinda knew SUICUNE would pick you.\\fI'm not cryin'. It's the wind.\\r",
+  "17": "Eusine: Look at it!\\nSUICUNE waitin' on you!\\fIt been waitin' for a scrap\\fwith a worthy Hustler it\\fcan trust itself to!",
+  "18": "Eusine: {STRVAR_1 3, 0, 0}...\\nY'all two are truly amazing...\\rI ain't never seen a scrap\\nthis intense!\\fI got no regrets...\\rFarewell, SUICUNE!\\nFarewell...{STRVAR_1 3, 0, 0}!\\r",
+  "19": "Eusine: {STRVAR_1 3, 0, 0}...\\nAin't nothin' to be ashamed of.\\rNobody can clown you just 'cause you ran\\nfrom SUICUNE.\\rSUICUNE just that AMAZIN'. That's all.\\fAnyway, SUICUNE gone again.\\fBack to square one... Back to the bushes...\\r"
+}

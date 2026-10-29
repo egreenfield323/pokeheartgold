@@ -1,0 +1,13 @@
+{
+  "_comment": "Underground Path entrance. Uncle Rage, who stress-eats RageCandyBars.",
+  "0": "Don't be scared. I ain't a bad person.\\rA place like this attract MEAN people.\\rThey cause trouble eventually...\\rThat's why Uncle Rage watchin'.\\nI'm Uncle Rage. That's my name.\\rThe echo down here...\\nis CRAZY... CRAZY... CRAZY...",
+  "1": "Don't be scared. I ain't a bad person.\\rA place like this attract MEAN people.\\rThey cause trouble eventually...\\rIt make me MAD just thinkin' about it...\\nMy blood pressure...\\r",
+  "2": "AHA! That's a RageCandyBar!\\rCan I have it? PLEASE! I'll be calm!\\nI PROMISE I'll be calm! {YESNO 0}\\n",
+  "3": "{STRVAR_1 3, 0, 0} gave the RageCandyBar\\nto the guy at the Underground Path.\\r",
+  "4": "*munch*!\\rHow UPSETTIN'!\\rBut this SO GOOD!\\r*munch munch*!\\rAARGH! Make me MAD!\\r*munch munch*!\\rAargh...\\r..................Phew!\\rI feel WAY better. Sugar is therapy.\\fGood looks! Take this!\\r",
+  "5": "TM64 is......\\rtick-\\n    tock\\ftick-\\f    tock\\ftick-\\f    tock\\ftick-\\f    tock\\ftick...\\f..................\\f..................\\r",
+  "6": "{SIZE 200}KA-BOOM!!",
+  "7": "A place like this attract MEAN people.\\rThey cause trouble eventually...\\rThat's why Uncle Rage watchin'.\\nAlways. From the shadows. Angrily.\\rThe echo down here...\\nis CRAZY... CRAZY... CRAZY...",
+  "8": "You gon' eat it all by YOURSELF?!\\nThat's SELFISH! That make me MAD!",
+  "9": "Aha! Good looks!\\r...But your Bag full...\\nMake some room and come back..."
+}

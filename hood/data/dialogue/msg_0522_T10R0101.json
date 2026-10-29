@@ -1,0 +1,10 @@
+{
+  "_comment": "Big League lobby. The rival's last ambush, the door guard. (Rankings menu rows left alone.)",
+  "0": "At the Big League, the Elite Four gon'\\ntest you. You gotta beat ALL of 'em.\\rLose ONCE and you start ALL over!\\nNo checkpoints! No mercy! No refunds!",
+  "1": "Some Hustlers get scared\\nand just leave.\\rMy ABRA can take you home.\\nBut...\\rHustlers just Catch Flight home\\nnowadays... I feel left out.\\fMy ABRA feel the same way.",
+  "2": "ABRA: Aabra...",
+  "3": "{STRVAR_1 3, 0, 0}: Hold up.\\rYou finna take on the Big\\nLeague right now?\\rYou gon' have to forget that.\\rMy trained-past-recognition\\nhomies finna stomp you.\\rRight here, right now!\\nI'm callin' you out!\\r",
+  "4": "{STRVAR_1 3, 0, 0}: ...Oh, no... I still can't\\nwin after all that training...\\rI...I gotta believe more in my\\nhomies...\\r...It's whatever.\\nMy bad for gettin' in the way.\\rDon't forget to heal your homies\\nbefore you run up on the Kingpin!\\r",
+  "5": "Through this door is the Elite Four.\\rThey CRAZY tough! Once you in, you\\ncan't leave. Like a timeshare pitch.\\fYou ready?\\fBe brave! I'll pray! I'll pray HARD!\\r",
+  "6": "Through this door is the Elite Four.\\rThey CRAZY tough! Once you in, you\\ncan't leave. Like a timeshare pitch.\\fYou ready?\\fBe brave! I'll pray! I'll pray HARD!"
+}

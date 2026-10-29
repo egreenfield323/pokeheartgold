@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0312_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome. This is the reception for the\nSupreme Cup.\rTop Pokéathletes are waiting for you.\nWould you like to try\fthe challenge? {YESNO 0}</language>
+		<language name="English">Welcome. This is the reception for the\nSupreme Cup.\rTop Pokéathletes are waitin’ for you.\nWould you like to try\fthe challenge? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0312_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want to try\n{STRVAR_4 1, 3, 0}? {YESNO 0}</language>
+		<language name="English">You wanna try\n{STRVAR_4 1, 3, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -52,7 +52,7 @@
 	</row>
 	<row id="msg_0312_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokéathlon is a sports festival in\nwhich you and three Pokémon compete in\fthree events.\rThe Pokéathlon has a variety of events\nto accommodate different aspects\fof Pokémon.\rPlease come join us with three Pokémon!\r</language>
+		<language name="English">The Pokéathlon is a sports festival in\nwhich you and three homie compete in\fthree events.\rThe Pokéathlon has a variety of events\nto accommodate different aspects\fof homie.\rPlease come join us with three homie!\r</language>
 	</row>
 	<row id="msg_0312_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -60,23 +60,23 @@
 	</row>
 	<row id="msg_0312_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Speed Course consists of three\nevents that require good\fSpeed Performance.\r“Hurdle Dash”\nJump over the Hurdles to be\fnumber one!\r“Pennant Capture”\nCapture Pennants quickly!\r“Relay Run”\nShow your teamwork!\rWhen you win, you will be awarded\nthe Speed Medal.\rChoose three Pokémon with good Speed\nfor these events.\r</language>
+		<language name="English">The Speed Course consists of three\nevents that require good\fSpeed Performance.\r“Hurdle Dash”\nJump over the Hurdles to be\fnumber one!\r“Pennant Capture”\nCapture Pennants quickly!\r“Relay Run”\nShow your teamwork!\rWhen you win, you will be awarded\nthe Speed Medal.\rChoose three homie with good Speed\nfor these events.\r</language>
 	</row>
 	<row id="msg_0312_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Power Course consists of three\nevents that require good\fPower Performance.\r“Block Smash”\nSmash all the Blocks!\r“Circle Push”\nPush them out while you stay in!\r“Goal Roll”\nDrive them out and roll the balls\ftoward the Goal!\rWhen you win, you will be awarded\nthe Power Medal.\rChoose three Pokémon with good Power\nfor these events.\r</language>
+		<language name="English">The Power Course consists of three\nevents that require good\fPower Performance.\r“Block Smash”\nSmash all the Blocks!\r“Circle Push”\nPush them out while you stay in!\r“Goal Roll”\nDrive them out and roll the balls\ftoward the Goal!\rWhen you win, you will be awarded\nthe Power Medal.\rChoose three homie with good Power\nfor these events.\r</language>
 	</row>
 	<row id="msg_0312_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Stamina Course consists of three\nevents that require good\fStamina Performance.\r“Ring Drop”\nBlow them away and stay on the Ring!\r“Relay Run”\nThe Stamina of all three is key!\r“Block Smash”\fSmash away as long as your\nStamina holds!\rWhen you win, you will be awarded\nthe Stamina Medal.\rChoose three Pokémon with good Stamina\nfor these events.\r</language>
+		<language name="English">The Stamina Course consists of three\nevents that require good\fStamina Performance.\r“Ring Drop”\nBlow them away and stay on the Ring!\r“Relay Run”\nThe Stamina of all three is key!\r“Block Smash”\fSmash away as long as your\nStamina holds!\rWhen you win, you will be awarded\nthe Stamina Medal.\rChoose three homie with good Stamina\nfor these events.\r</language>
 	</row>
 	<row id="msg_0312_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Jump Course consists of three\nevents that require good\fJump Performance.\r“Lamp Jump”\nJump to the sky and hit Lamps!\r“Disc Catch”\nJump and catch flying Discs!\r“Hurdle Dash”\nJump over the Hurdles cleanly!\rWhen you win, you will be awarded\nthe Jump Medal.\rChoose three Pokémon with good Jump\nfor these events.\r</language>
+		<language name="English">The Jump Course consists of three\nevents that require good\fJump Performance.\r“Lamp Jump”\nJump to the sky and hit Lamps!\r“Disc Catch”\nJump and catch flyin’ Discs!\r“Hurdle Dash”\nJump over the Hurdles cleanly!\rWhen you win, you will be awarded\nthe Jump Medal.\rChoose three homie with good Jump\nfor these events.\r</language>
 	</row>
 	<row id="msg_0312_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Skill Course consists of three\nevents that require good\fTechnique Performance.\r“Snow Throw”\nAim for them and throw Snow!\r“Goal Roll”\nRoll the balls into the Goal!\r“Pennant Capture”\nMake a quick turn and grab Pennants!\rWhen you win, you will be awarded\nthe Skill Medal.\rChoose three Pokémon with good Skill\nfor these events.\r</language>
+		<language name="English">The Skill Course consists of three\nevents that require good\fTechnique Performance.\r“Snow Throw”\nAim for them and throw Snow!\r“Goal Roll”\nRoll the balls into the Goal!\r“Pennant Capture”\nMake a quick turn and grab Pennants!\rWhen you win, you will be awarded\nthe Skill Medal.\rChoose three homie with good Skill\nfor these events.\r</language>
 	</row>
 	<row id="msg_0312_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -93,7 +93,7 @@
 	</row>
 	<row id="msg_0312_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For winning these events,\nyou will be awarded\fanother {STRVAR_1 52, 2, 0} points.\r</language>
+		<language name="English">For winnin’ these events,\nyou will be awarded\fanother {STRVAR_1 52, 2, 0} points.\r</language>
 	</row>
 	<row id="msg_0312_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -121,7 +121,7 @@
 	</row>
 	<row id="msg_0312_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication error.\rPlease repeat the registration\nprocess from the beginning.</language>
+		<language name="English">Communication error.\rPlease repeat the registration\nprocess from the beginnin’.</language>
 	</row>
 	<row id="msg_0312_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -153,7 +153,7 @@
 	</row>
 	<row id="msg_0312_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh no! It seems like you don’t have\nenough Pokémon.\rIn order to participate in the\nPokéathlon, you need to have\fat least three Pokémon.\rThe Pokéathlon brings together all\nkinds of Pokémon from all over.\rThe more, the merrier! Please, bring a\nbunch of Pokémon and you’ll see.</language>
+		<language name="English">Oh no! It seems like you don’t have\nenough homie.\rIn order to participate in the\nPokéathlon, you need to have\fat least three homie.\rThe Pokéathlon brings together all\nkinds of homie from all over.\rThe more, the merrier! Please, bring a\nbunch of homie and you’ll see.</language>
 	</row>
 	<row id="msg_0312_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -161,27 +161,27 @@
 	</row>
 	<row id="msg_0312_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Link Pokéathlon is a sport festival\nin which you join with three of your\fPokémon to compete in four events.\rYour homies can join the same events\nto compete.\rThe Pokéathlon has a variety of events\nto accommodate many of the different\faspects of Pokémon.\rPlease bring your homies to the\nLink Pokéathlon.\r</language>
+		<language name="English">The Link Pokéathlon is a sport festival\nin which you join with three of your\fPokémon to compete in four events.\rYour homies can join the same events\nto compete.\rThe Pokéathlon has a variety of events\nto accommodate many of the different\faspects of homie.\rPlease bring your homies to the\nLink Pokéathlon.\r</language>
 	</row>
 	<row id="msg_0312_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Speed &amp; Jump Course consists of\nfour events that require good\fSpeed and Jump Performance.\r“Hurdle Dash”\nJump over the Hurdles to be\fnumber one!\r“Lamp Jump”\nTake the Lamps quickly!\r“Disc Catch”\nCatch the Discs rapidly!\r“Relay Run”\nSuperb Speed is highly required!\rWhen you win, you will be awarded\nthe Speed Medal and the Jump Medal.\rChoose three Pokémon with good\nSpeed and Jump for these events, and\fbring your homies as well.\r</language>
+		<language name="English">The Speed &amp; Jump Course consists of\nfour events that require good\fSpeed and Jump Performance.\r“Hurdle Dash”\nJump over the Hurdles to be\fnumber one!\r“Lamp Jump”\nTake the Lamps quickly!\r“Disc Catch”\nCatch the Discs rapidly!\r“Relay Run”\nSuperb Speed is highly required!\rWhen you win, you will be awarded\nthe Speed Medal and the Jump Medal.\rChoose three homie with good\nSpeed and Jump for these events, and\fbring your homies as well.\r</language>
 	</row>
 	<row id="msg_0312_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Jump &amp; Skill Course consists of\nfour events that require good\fJump and Skill Performance.\r“Lamp Jump”\nShow your skill in jumping to\ftouch the Lamps!\r“Disc Catch”\nJump and catch the Discs!\r“Pennant Capture”\nShow your moves and collect Pennants!\r“Snow Throw”\nAim with accuracy!\rWhen you win, you will be awarded\nthe Jump Medal and the Skill Medal.\rChoose three Pokémon with good\nJump and Skill for these events, and\fbring your homies as well.\r</language>
+		<language name="English">The Jump &amp; Skill Course consists of\nfour events that require good\fJump and Skill Performance.\r“Lamp Jump”\nShow your skill in jumpin’ to\ftouch the Lamps!\r“Disc Catch”\nJump and catch the Discs!\r“Pennant Capture”\nShow your moves and collect Pennants!\r“Snow Throw”\nAim with accuracy!\rWhen you win, you will be awarded\nthe Jump Medal and the Skill Medal.\rChoose three homie with good\nJump and Skill for these events, and\fbring your homies as well.\r</language>
 	</row>
 	<row id="msg_0312_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Skill &amp; Power Course consists of\nfour events that require good\fSkill and Power Performance.\r“Goal Roll”\nAim at the Goal and shoot!\r“Snow Throw”\nSteady, aim, and fire away!\r“Pennant Capture”\nShow your moves and collect Pennants!\r“Block Smash”\nBlocks keep coming! Smash them all!\rWhen you win, you will be awarded\nthe Skill Medal and the Power Medal.\rChoose three Pokémon with good\nSkill and Power for these events, and\fbring your homies as well.\r</language>
+		<language name="English">The Skill &amp; Power Course consists of\nfour events that require good\fSkill and Power Performance.\r“Goal Roll”\nAim at the Goal and shoot!\r“Snow Throw”\nSteady, aim, and fire away!\r“Pennant Capture”\nShow your moves and collect Pennants!\r“Block Smash”\nBlocks keep comin’! Smash them all!\rWhen you win, you will be awarded\nthe Skill Medal and the Power Medal.\rChoose three homie with good\nSkill and Power for these events, and\fbring your homies as well.\r</language>
 	</row>
 	<row id="msg_0312_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Power &amp; Stamina Course consists\nof four events that require good\fPower and Stamina Performance.\r“Block Smash”\nBlocks keep coming! Smash them all!\r“Circle Push”\nPush them away and stay in the Circle!\r“Goal Roll”\nKeep rolling until your energy\fruns out!\r“Ring Drop”\nDrop them off the Ring and stay on top!\rWhen you win, you will be awarded\nthe Power Medal and the Stamina Medal.\rChoose three Pokémon with good\nPower and Stamina for these events,\fand bring your homies as well.\r</language>
+		<language name="English">The Power &amp; Stamina Course consists\nof four events that require good\fPower and Stamina Performance.\r“Block Smash”\nBlocks keep comin’! Smash them all!\r“Circle Push”\nPush them away and stay in the Circle!\r“Goal Roll”\nKeep rollin’ until your energy\fruns out!\r“Ring Drop”\nDrop them off the Ring and stay on top!\rWhen you win, you will be awarded\nthe Power Medal and the Stamina Medal.\rChoose three homie with good\nPower and Stamina for these events,\fand bring your homies as well.\r</language>
 	</row>
 	<row id="msg_0312_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Stamina &amp; Speed Course consists\nof four events that require good\fStamina and Speed Performance.\r“Relay Run”\nBoth Stamina and Speed are key!\r“Ring Drop”\nDrop them from high while you survive!\r“Hurdle Dash”\nOver you go! Aim for number one!\r“Circle Push”\nPush them away and stay in the Circle!\rWhen you win, you will be awarded\nthe Stamina Medal and the Speed Medal.\rChoose three Pokémon with good Stamina\nand Speed for these events, and\fbring your homies as well.\r</language>
+		<language name="English">The Stamina &amp; Speed Course consists\nof four events that require good\fStamina and Speed Performance.\r“Relay Run”\nBoth Stamina and Speed are key!\r“Ring Drop”\nDrop them from high while you survive!\r“Hurdle Dash”\nOver you go! Aim for number one!\r“Circle Push”\nPush them away and stay in the Circle!\rWhen you win, you will be awarded\nthe Stamina Medal and the Speed Medal.\rChoose three homie with good Stamina\nand Speed for these events, and\fbring your homies as well.\r</language>
 	</row>
 	<row id="msg_0312_00045" index="45">
 		<attribute name="window_context_name">used</attribute>

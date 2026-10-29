@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0619_T27R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?! Put my remote\ndown. Slowly. Real slow.\rAh. You’re on an adventure with\nyour Pokémon?\rWell, what’s an adventure without\ntreasure hunting?\rAm I right, or am I right? {YESNO 0}</language>
+		<language name="English">Ah. You on a adventure with your\nhomies?\rWhat’s a adventure without TREASURE\nhuntin’?\rAm I right, or am I right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! You understand the true\nspirit of adventure.\rI like that! Take this with you.</language>
+		<language name="English">GOOD! You get the real spirit of\nadventure. I like you! Take this.\fIt’s basically a metal detector for\nnerds.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,22 +15,22 @@
 	</row>
 	<row id="msg_0619_T27R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many items lying about\nthat ain’t obvious.\rTouch the Dowsing Machine for a while\nto see if it makes a high-pitched noise.\rWhen it does, you know there is\nan item near you.\rWalking as you use it may make it\neasy to find items.\rOh yeah--I heard there are items\nin Ecruteak’s Burned Tower.</language>
+		<language name="English">There’s mad stuff on the ground\nthat you can’t see.\rTouch the Dowsing Machine for a\nbit and see if it start beepin’.\rWhen it do, you know there’s\nsomethin’ near you.\rWalk around while you use it\nand you’ll find stuff easier.\rOh yeah--I heard there’s stuff\nin Ecruteak’s Burned Tower.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... To each his own, I suppose...</language>
+		<language name="English">Oh... To each their own, I guess...\nNo treasure for you. Boring.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rHistory of Ecruteak\rWant to read it? {YESNO 0}</language>
+		<language name="English">Breaking and entering, huh?\nYou picked the wrong crib.\rHistory of Ecruteak\rWanna read it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Ecruteak, there were two towers.\nEach tower was the roost of powerful\fflying Pokémon.\rBut one of the towers burned to\nthe ground.\rThe two Pokémon haven’t been\nseen since...\rKeep reading? {YESNO 0}</language>
+		<language name="English">Ecruteak had two towers. Each one\nhome to some strong flyin’ homies.\rBut one tower burned to the ground.\nNo smoke detectors. 1600s buildin’\fcode.\rNobody seen the two homies since...\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak was also home to three\nPokémon that raced around the town.\rThey were said to have been born of\nwater, lightning, and fire.\rBut they could not contain their\nexcessive power.\rSo they say the three ran like the\nwind off into the grassland.</language>
+		<language name="English">Ecruteak was also home to three\nhomies that raced around town.\rThey say they was born from\nwater, lightnin’, and fire.\rBut they couldn’t control\nall that power.\rSo they say the three ran like the\nwind out into the grassland.</language>
 	</row>
 </body>

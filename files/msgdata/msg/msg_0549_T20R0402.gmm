@@ -30,19 +30,19 @@
 	</row>
 	<row id="msg_0549_T20R0402_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat really ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat deadass ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat really ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow your homies doin’?\fDon’t forget to talk to...\rWait, what’s that?\nYour homie holdin’ a leaf...\rIs that a Shiny Leaf?\nWord is only homies\fthat deadass ride for\fyou can find them...\rBack in the day, people turned\n’em into a crown when they\fcollected five.\rSheesh!\nI knew you had it in you,\f{STRVAR_1 3, 0, 0}!\fShow me when you get another!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s what’s up!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
+		<language name="English">Lyra: Aye pimp, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s wassup!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s what’s up!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
+		<language name="English">Ethan: Ayo, {STRVAR_1 3, 0, 0}!\nHow the homie you\fwalkin’ with?\rTalk to it while y’all walk\nsometimes. Build that loyalty!\r...\nOh!\rYou found a Shiny Leaf!\nLemme see!\rHa! You got...\r{STRVAR_1 50, 1, 0}!\rThat’s wassup!\nKeep goin’, get {STRVAR_1 50, 2, 0} more!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

@@ -1,0 +1,20 @@
+{
+  "_comment": "Copycat (she repeats everything you say; the player's name token is her mimicking you).",
+  "0": "{STRVAR_1 3, 0, 0}: Ayo! You like homies?\\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked YOU.\\r{STRVAR_1 3, 0, 0}: Huh? You weird!\\r",
+  "1": "{STRVAR_1 3, 0, 0}: Ayo. You must like\\nhomies.\\r{STRVAR_1 3, 0, 0}: No, not me. I asked you.\\r{STRVAR_1 3, 0, 0}: Huh? You weird!\\r",
+  "2": "Copycat: Hmm? Quit copyin'?\\nBut that's my main hobby!\\fAnd my side hustle! I do parties!\\r",
+  "3": "{STRVAR_1 3, 0, 0}: Ayo! I heard you\\nlost your favorite Poké Doll.\\r{STRVAR_1 3, 0, 0}: If I find it, you'll give\\nme a Magnet Train Pass?\\r{STRVAR_1 3, 0, 0}: I'll go find it for you.\\r{STRVAR_1 3, 0, 0}: You think you lost it\\nwhen you went to Vermilion City?\\r",
+  "4": "{STRVAR_1 3, 0, 0}: Ayo! I heard you\\nlost your favorite Poké Doll.\\r{STRVAR_1 3, 0, 0}: If I find it, you'll give\\nme a Magnet Train Pass?\\r{STRVAR_1 3, 0, 0}: I'll go find it for you.\\r{STRVAR_1 3, 0, 0}: You think you lost it\\nwhen you went to Vermilion City?\\r",
+  "5": "Copycat: Huh?\\rI shouldn't decide what you do?\\rBut I'm SO worried...\\nWhat if somebody find it?\\r",
+  "6": "Copycat: YAY! That's my CLEFAIRY Poké Doll!\\rSee the rip where the right arm got sewn\\non? That's PROOF!\\rAight. Here's the Magnet Train Pass like I\\npromised!\\r",
+  "8": "Copycat: Show it at the ticket\\ngate to get on the Magnet Train.\\rThe train company man gave me that\\nwhen they tore down our old house\\ffor the station.",
+  "9": "{STRVAR_1 3, 0, 0}: Ayo!\\nGood looks for the Magnet Train Pass!\\r{STRVAR_1 3, 0, 0}: Huh?\\r{STRVAR_1 3, 0, 0}: Is it that fun to copy\\nevery move I make?\\r",
+  "10": "{STRVAR_1 3, 0, 0}: Ayo!\\nGood looks for the Magnet Train Pass!\\r{STRVAR_1 3, 0, 0}: Huh?\\r{STRVAR_1 3, 0, 0}: Is it that fun to copy\\nevery move I make?\\r",
+  "11": "Copycat: BET! It's HILARIOUS!\\nYou should see your face! Wait, I can do it!\\r",
+  "12": "This Poké Doll look just like the real\\nthing...\\rAW! It MOVED!\\nIt's a REAL BANETTE! WHY IS IT HERE?!",
+  "13": "BANETTE: *giggle*!",
+  "14": "This a flower-lookin' Poké Doll...\\nIt's a CHERRIM Poké Doll!",
+  "15": "This a nose-lookin' Poké Doll...\\nIt's a NOSEPASS Poké Doll!",
+  "16": "It's a CLEFAIRY!\\nHuh?\\rOh, right. It's a CLEFAIRY Poké Doll.",
+  "17": "It's a CLEFAIRY Poké Doll.\\rIt got a rip where the right arm\\ngot sewn on."
+}

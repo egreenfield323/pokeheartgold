@@ -10,74 +10,74 @@
 	</row>
 	<row id="msg_0420_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re always watching you!\nIt’s time for Hustler Profiles!</language>
+		<language name="English">We ALWAYS watchin’ you!\nIt’s time for Hustler Profiles!</language>
 	</row>
 	<row id="msg_0420_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That town, this town,\nbringing people together.\nThe Street Corner Channel.</language>
+		<language name="English">That town, this town,\nbringin’ people together.\nThe Street Corner Channel.</language>
 	</row>
 	<row id="msg_0420_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This boy loves Bug types! He’s so\nenergetic, and he doesn’t mind running\nthrough thick grass to catch Bug-type\nPokémon! He does what he wants, on the\nhills and in the fields, this Bug Catcher!</language>
+		<language name="English">This boy LOVE Bug types! He so\nenergetic, and he don’t mind runnin’\nthrough thick grass to catch Bug-type\nhomies! He do what he want, on the\nhills and in the fields, this Bug Catcher!</language>
 	</row>
 	<row id="msg_0420_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">These two are always together.\nThey have the same birthday.\nThey always eat together.\nDo you think you can tell them apart?\nThese Twins!</language>
+		<language name="English">These two always together.\nThey got the same birthday.\nThey always eat together.\nYou think you can tell ’em apart?\nThese Twins!</language>
 	</row>
 	<row id="msg_0420_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flying majestically through the sky.\nRejecting the land for the open air.\nGracefully flapping its wings. Riding the\nwind to soar high into the sky.\nI want to fly there, too, sometime!\nThe Bird Keeper!</language>
+		<language name="English">Flyin’ majestic through the sky.\nRejectin’ the land for the open air.\nGracefully flappin’ its wings. Ridin’ the\nwind to soar high in the sky.\nI wanna fly up there too sometime!\nThe Bird Keeper!</language>
 	</row>
 	<row id="msg_0420_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Singing in the cabin.\nLaa... Laa... La la la la...\nThe plan is to take a three-night, four-\nday holiday. To fish off the boat, hike\nin the mountains, and look for EEVEE to\nthe east and west. That’s the Camper!</language>
+		<language name="English">Singin’ in the cabin.\nLaa... Laa... La la la la...\nThe plan is a three-night, four-\nday trip. To fish off the boat, hike\nin the mountains, and look for EEVEE to\nthe east and west. That’s the Camper!</language>
 	</row>
 	<row id="msg_0420_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greeting you with a peace sign, stuffing\ndrinks into a cooler, smiling brightly\nwhile hiking through the mountains, you\ncan see her clearly on the horizon.\nOh no! Forgot the lunchbox! The number\none rule is to protect nature.\nThe Picnicker!</language>
+		<language name="English">Throwin’ up a peace sign, stuffin’\ndrinks in a cooler, smilin’ big\nwhile hikin’ through the mountains, you\ncan see her clear on the horizon.\nOh no! Forgot the lunchbox! The number\none rule is protect nature.\nThe Picnicker!</language>
 	</row>
 	<row id="msg_0420_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Accidentally inhaling a little ocean\nwater, he now has a sore nose. Swimming\naround the rocks, pushing ahead with a\nbreaststroke, tirelessly swimming along,\nand getting a leg cramp! His lungs\nexpand easily but it’s an unlucky day--\nit’s raining! That poor Swimmer!</language>
+		<language name="English">Accidentally sniffed up some ocean\nwater, now his nose hurt. Swimmin’\naround the rocks, pushin’ ahead with a\nbreaststroke, swimmin’ nonstop,\nand gettin’ a leg cramp! His lungs\nexpand easy but it’s a unlucky day--\nit’s rainin’! That poor Swimmer!</language>
 	</row>
 	<row id="msg_0420_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A silhouette like that of Venus. An\nadorably dazzling smile. A nickname of\n“Mermaid.” Swimming around carefree in\nthe early afternoon. Feeling hungry but\non a diet. The number of enthusiastic\nfans. Droplets of water in her dimples.\nPlaying in the water rather than taking\na walk, this Swimmer!</language>
+		<language name="English">A silhouette like Venus. A\nadorably dazzlin’ smile. A nickname of\n“Mermaid.” Swimmin’ around carefree in\nthe early afternoon. Hungry but\non a diet. Mad thirsty\nfans. Drops of water in her dimples.\nPlayin’ in the water instead of takin’\na walk, this Swimmer!</language>
 	</row>
 	<row id="msg_0420_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dropping a line in the cold water, in\nthe hopes of catching something big.\nThe line is yanked. The float drops\nunderwater. What was caught? Some lively\nrubber boots! This poor Fisherman!</language>
+		<language name="English">Droppin’ a line in the cold water, in\nhopes of catchin’ somethin’ big.\nThe line get yanked. The float drop\nunderwater. What he catch? Some\nlively rubber boots! Poor Fisherman!</language>
 	</row>
 	<row id="msg_0420_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The day has come to an end, but it’s still\nbright. That’s strange, you’d think.\nThere’s an intense fire burning, and it\nlooks like it’s finna burn them.\nHe doesn’t need a candle. He’s a human\nablaze, carelessly playing with fire.\nThe Firebreather!</language>
+		<language name="English">The day done ended, but it’s still\nbright. That’s weird, you’d think.\nThere’s a crazy fire burnin’, and it\nlook like it’s finna burn ’em.\nHe don’t need a candle. He a human\non fire, carelessly playin’ with fire.\nThe Firebreather!</language>
 	</row>
 	<row id="msg_0420_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is so hard ain’t it, this Pokémon?\nThe tail is such a great shape.\nWant to trade figurines? Want to come\nover and see my collection?\nOh hey! This mark is in the wrong place.\nLooks like I fell for a counterfeit...\nBut it’s art anyway!\nThat’s a Poké Maniac!</language>
+		<language name="English">This homie hard, ain’t it?\nThe tail such a great shape.\nWanna trade figurines? Wanna come\nover and see my collection?\nOh ayo! This mark in the wrong place.\nLook like I got finessed with a fake...\nBut it’s art anyway!\nThat’s a Poké Maniac!</language>
 	</row>
 	<row id="msg_0420_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can break ten roof tiles in one chop!\nSome people think I’m just a hooligan.\nThe palm of my hand becomes covered\nin blisters. I never forget to bow, and\nI shout out to psych myself up!\nI’m the Black Belt!</language>
+		<language name="English">I can break ten roof tiles in one chop!\nSome people think I’m just a hooligan.\nThe palm of my hand get covered\nin blisters. I never forget to bow, and\nI yell to hype myself up!\nI’m the Black Belt!</language>
 	</row>
 	<row id="msg_0420_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hold it close, cheek to cheek. I always\nwant to be with you, surrounded by\nwonderful Pokémon. I’ll mutter your\nname. So happy, I’m dizzy.\nI love Pokémon! That’s a Pokéfan!</language>
+		<language name="English">Hold it close, cheek to cheek. I always\nwanna be with you, surrounded by\nwonderful homies. I’ll mumble your\nname. So happy, I’m dizzy.\nI LOVE homies! That’s a Pokéfan!</language>
 	</row>
 	<row id="msg_0420_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A strong guy on a boat, plunging on\nthrough the waves. Dancing and singing\nand having a merry old time. But gentle\nas kittens once they get back on land.\nThat’s a Sailor!</language>
+		<language name="English">A strong guy on a boat, plowin’\nthrough the waves. Dancin’ and singin’\nand havin’ a good ol’ time. But gentle\nas kittens once they back on land.\nThat’s a Sailor!</language>
 	</row>
 	<row id="msg_0420_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Had plenty of success. Learning through\nconstant repetition. Recklessly carrying\naround notebooks. Attending classes\nfor gifted kids.\nA wonderful Pokémon Hustler, that\nSchool Kid!</language>
+		<language name="English">Had mad success. Learnin’ from\ndoin’ it over and over. Carryin’\nnotebooks everywhere. Goin’ to classes\nfor gifted kids.\nA wonderful Hustler, that\nSchool Kid!</language>
 	</row>
 	<row id="msg_0420_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey kid, get out of my way! If you hang\naround, I’ll smack you! Get out of the\nway. Out of the way. My Bike is coming\nthrough! It’s so very loud, you’ll cover\nyour ears! We’ll line up and get in the\nway. Go ahead. Try to stop us Bikers!</language>
+		<language name="English">Ayo kid, outta my way! If you hang\naround, I’mma smack you! Move\noutta the way. Outta the way. My Bike\ncomin’ through! It’s SO loud, you’ll\ncover your ears! We line up and block\nthe road. Try to stop us Bikers!</language>
 	</row>
 	<row id="msg_0420_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yaho... Yaho... Yahohoho...\nSinging in a loud voice without worrying\nabout what’s around. A bearded man\nshouts out to the sky. From the far\nmountain. Yahohoho... So happy that the\necho came back to the Hiker!</language>
+		<language name="English">Yaho... Yaho... Yahohoho...\nSingin’ loud without worryin’\nabout who around. A bearded man\nyellin’ at the sky. From the far\nmountain. Yahohoho... So happy the\necho came back to the Hiker!</language>
 	</row>
 </body>

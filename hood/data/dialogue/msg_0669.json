@@ -1,0 +1,18 @@
+{
+  "_comment": "Phone: Tiffany (CLEFAIRY stan).",
+  "1": "Ayo! You like CLEFAIRY too?\\nThey SO cute, ain't they?\\rI think we could be real homies!\\nI need your number!\\rLet's talk CLEFAIRY! {YESNO 0}",
+  "2": "Ain't my CLEFAIRY SUPER adorable?",
+  "3": "Aww... Oh well. Find me if you\\nwanna talk CLEFAIRY.",
+  "4": "You gon' give me your number?\\nLet's talk CLEFAIRY! {YESNO 0}",
+  "5": "Oh, there you are!\\nI'll give you this then.\\fIt's a CLEFAIRY Poké Doll!\\r",
+  "6": "Um... Well...\\nIs it that hard to talk to me?\\rI mean, the phone is aight, but if\\nwe this close, you ain't gotta\\fstay away.\\fJust come talk to me.",
+  "7": "{STRVAR_1 14, 4, 0}!\\nIt's TERRIBLE. My CLEFAIRY...\\rHuh? This {STRVAR_1 3, 0, 0}?\\rOh, my bad! I was in a rush, and I...\\nI gotta go! Bye-bye!",
+  "8": "{STRVAR_1 14, 4, 0}!\\nIt's TERRIBLE. My CLEFAIRY...\\rHuh? This {STRVAR_1 3, 0, 0}?\\rOh, my bad! I was in a rush, and I...\\nI gotta go! Bye-bye!",
+  "9": "My {STRVAR_1 0, 10, 0} adorable, don't you\\nthink?\\rI always sleep next to it--it's so\\nfluffy and warm!\\rOh, and we had to scrap a wild\\n{STRVAR_1 0, 11, 0} a while ago...\\rMy CLEFAIRY almost fainted!\\nAin't that awful?\\rI HATE them nasty {STRVAR_1 0, 11, 0}!\\nBye-bye!",
+  "10": "My {STRVAR_1 0, 10, 0} adorable, don't you\\nthink?\\rI always sleep next to it--it's so\\nfluffy and warm!\\rOh, and we had to scrap a wild\\n{STRVAR_1 0, 11, 0} a while ago...\\rMy CLEFAIRY got scared, so we\\nran as fast as we could!\\rI can't help bein' protective of\\nmy CLEFAIRY. That's my baby.\\rBye-bye!",
+  "11": "I know this might shock you, but\\nyou wanna scrap?\\rI'll be waitin' with CLEFAIRY on\\n{STRVAR_1 4, 3, 0}.",
+  "12": "What's wrong? You can't come?\\rCLEFAIRY got tired and fell asleep.\\nI don't know if I can wake it up...\\rHurry to {STRVAR_1 4, 3, 0}!",
+  "13": "I LOVE dressin' up my CLEFAIRY!",
+  "14": "While I was at the Goldenrod Dept.\\nStore recently, I found these\\fSUPER cute Poké Dolls!\\fI'll give you one!\\rCome grab it on {STRVAR_1 4, 3, 0}.",
+  "15": "What's wrong? You can't come?\\rThis Poké Doll SO cute too!\\nHurry to {STRVAR_1 4, 3, 0}!"
+}

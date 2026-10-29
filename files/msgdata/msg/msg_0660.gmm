@@ -6,42 +6,42 @@
 	</row>
 	<row id="msg_0660_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
+		<language name="English">Wassup...\nOh wassup there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy you callin’ when\fyou right nearby?</language>
 	</row>
 	<row id="msg_0660_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy are you calling even though\fyou’re nearby?</language>
+		<language name="English">Wassup...\nOh wassup there. Is this {STRVAR_1 3, 0, 0}?\rWhat’s wrong?\nWhy you callin’ when\fyou right nearby?</language>
 	</row>
 	<row id="msg_0660_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup...\nOh, wassup there. Is this {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0660_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\r</language>
+		<language name="English">Wassup...\nOh, wassup there. Is this {STRVAR_1 3, 0, 0}?\r</language>
 	</row>
 	<row id="msg_0660_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon are doing quite well.\r</language>
+		<language name="English">Your homies doin’ real good.\r</language>
 	</row>
 	<row id="msg_0660_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By level, your {STRVAR_1 0, 10, 0} has\ngrown by about {STRVAR_1 52, 11, 0}.\r</language>
+		<language name="English">Level-wise, your {STRVAR_1 0, 10, 0}\ngrew by about {STRVAR_1 52, 11, 0}.\r</language>
 	</row>
 	<row id="msg_0660_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By level, your {STRVAR_1 0, 12, 0} has\ngrown by about {STRVAR_1 52, 13, 0}.\r</language>
+		<language name="English">Level-wise, your {STRVAR_1 0, 12, 0}\ngrew by about {STRVAR_1 52, 13, 0}.\r</language>
 	</row>
 	<row id="msg_0660_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We can raise two of your Pokémon.\rIf you’d like us to raise another, stop\nby anytime.</language>
+		<language name="English">We can raise two of your homies.\rIf you want us to raise another, stop\nby anytime.</language>
 	</row>
 	<row id="msg_0660_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should stop by and check on your\nPokémon sometime.</language>
+		<language name="English">You should stop by and check on your\nhomies sometime.</language>
 	</row>
 	<row id="msg_0660_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’d like us to look after your\nPokémon, stop by anytime.</language>
+		<language name="English">If you want us to watch your\nhomies, stop by anytime.</language>
 	</row>
 </body>

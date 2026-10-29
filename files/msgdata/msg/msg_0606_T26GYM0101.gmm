@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0606_T26GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Good looks for your help\nat the Lighthouse...\rBut this is different. Please allow me to\nintroduce myself.\rI am Jasmine, a Block Boss.\nI use the...clang!\fSteel type!\r...Do you know about the Steel type?\rThey are very hard, cold, sharp,\nand really strong!\fUm... I’m not lying.\r</language>
+		<language name="English">Jasmine: Good looks for helpin’ at the\nLighthouse...\rBut this different. Um.\nLemme introduce myself.\rI’m Jasmine, a Block Boss.\nI use the...CLANG!\fSteel type!\r...You know Steel type?\rThey real hard, cold, sharp, and\nDEADASS strong!\fUm... I ain’t lyin’. Please believe me.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...You are a better Hustler\nthan me, in both skill and kindness.\rIn accordance with League rules,\nI confer upon you this Chain.\r</language>
+		<language name="English">Jasmine: ...You a better Hustler than\nme. In skill AND kindness.\fI’m gon’ go cry quietly.\rBy League rules, here’s your Chain.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Mineral Chain from Jasmine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Mineral Chain from Jasmine!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: With that Chain,\nall Pokémon, including traded\fPokémon up to Lv. 70, will obey\fyou without question.\fUm... Please take this, too...\r</language>
+		<language name="English">Jasmine: With that Chain,\nall homies, even traded\fones up to Lv. 70, listen\fto you, no questions.\fUm... Please take this too...\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,27 +23,27 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: It is called Steel Toe...\rYour Pokémon will hit the target\nwith its hard tail, occasionally\flowering the target’s Defense...</language>
+		<language name="English">Jasmine: It’s called Steel Toe...\rYour homie kick ’em with\nsteel-toe boots, sometimes\flowerin’ their Defense...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Um...\rI don’t know how to say this, but\ngood luck...</language>
+		<language name="English">Jasmine: Um...\rI don’t know how to say this, but...\ngood luck... Okay bye.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Long time, no see.\rUm... I’m fine, good looks.\rI don’t know how to say this,\nbut...nothing...</language>
+		<language name="English">Jasmine: Long time, no see.\rUm... I’m good, good looks.\nI don’t know how to say this, but...\f...nothin’. I forgot.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Um... Er...\rWill you trade your Pokémon\nfor mine? {YESNO 0}</language>
+		<language name="English">Jasmine: Um... Er...\rWould you trade your homie\nfor mine? {YESNO 0}</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Really? Good looks very much!\rI’ll be happy with any Pokémon!\r</language>
+		<language name="English">Jasmine: For real? Good looks!\rI’ll be happy with any homie!\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh, uh-huh, I see.\nThat’s disappointing, but I understand.</language>
+		<language name="English">Jasmine: Oh, uh-huh, I see.\nThat’s disappointin’, but I get it.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -51,54 +51,54 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Don’t you sometimes feel like\nscrubbing Steel-type Pokémon?\fDon’t you?</language>
+		<language name="English">Jasmine: You ever just wanna scrub a\nSteel-type homie? With a lil sponge?\fNo? Just me? Okay.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you trade {STRVAR_1 1, 1, 0}? {YESNO 0}</language>
+		<language name="English">You gon’ trade {STRVAR_1 1, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I like Eggs, too, but\nI’d like a Pokémon, {STRVAR_1 3, 0, 0}.\fOne that might have a little training...</language>
+		<language name="English">Jasmine: I like Eggs too, but\nI’d like a homie, {STRVAR_1 3, 0, 0}.\fOne with a lil trainin’...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I’d appreciate it so much...\nExcept that I cannot accept such\fa precious Pokémon.</language>
+		<language name="English">Jasmine: I’d appreciate it so much...\nBut I can’t accept such\fa precious homie.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine, the Block Boss?\nShe’s at the Lighthouse.\rShe’s been tending to a sick Pokémon.\rA strong Hustler is compassionate\nat the same time...</language>
+		<language name="English">Jasmine, the Block Boss? She at the\nLighthouse takin’ care of a sick homie.\rA STEEL Block Boss with a soft heart.\nThat’s like a tank with a teddy bear.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine uses Steel-type Pokémon.\rShe’s trying to hide her tenderness\nbehind her steely coldness.</language>
+		<language name="English">Jasmine use Steel homies.\rShe hidin’ how sweet she is behind all\nthat steel. Classic overcorrection.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was awesome.\fThe Steel type, huh?\fThat was one heated battle you had!</language>
+		<language name="English">That was HARD.\fSteel type, huh? That was a HEATED\fscrap! I’m sweatin’ and I just\nwatched!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew you’d come here.\rThank you for helping the Block Boss,\nbut battle is a separate matter.\rGo for it!</language>
+		<language name="English">I knew you’d come here.\rGood looks for helpin’ the Block Boss,\nbut a scrap is a scrap.\rGo for it! Bring fire! She hate fire!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Impressive!\rYou should continue your journey to\ndifferent places.\rSince you can use Surf, why don’t you\ntry it on the Lake of Rage?</language>
+		<language name="English">IMPRESSIVE!\rKeep travelin’!\rSince you got Hydrant Wave, try the\nLake of Rage. Somethin’ red out there.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giggle...\rI know how capable you are\nfrom the Lighthouse.\rIt’s time you showed that side of\nyourself to Jasmine! Good luck!</language>
+		<language name="English">Giggle...\rI know what you did at the Lighthouse.\nShe been blushin’ for DAYS.\rTime to show that side to Jasmine!\nGood luck, heartbreaker!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are amazing...\rYou should aim even higher, since\nyou have such potential.\rHave you been to Mahogany Town?</language>
+		<language name="English">You AMAZIN’...\rAim higher with all that potential!\nYou been to Mahogany Town?\fThey got candy. Weird candy.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City block</language>
+		<language name="English">Olivine City Block\nSteel-Toe Boots Required</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City block\rLeader: Jasmine\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Olivine City Block\rBoss: Jasmine\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

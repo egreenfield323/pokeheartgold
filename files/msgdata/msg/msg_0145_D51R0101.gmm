@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0145_D51R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, hello!\rIt’s so freezing, ain’t it?\rFor a youngster like you to be\ninterested in the Sinjoh Ruins is\fnot something we see every day.\rTake a look at them.\rFrom the design of the pillars at the\nSinjoh Ruins, you can see that the\fcultures of Sinnoh and Johto\fhave blended.\r</language>
+		<language name="English">Well, wassup!\rIt’s FREEZIN’, ain’t it?\rA youngster like you bein’\ninto the Sinjoh Ruins is\fsomethin’ we don’t see every day.\rTake a look at ’em.\rFrom the pillars at the\nSinjoh Ruins, you can see the\fcultures of Sinnoh and Johto\fblended.\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What was I thinking?\rWe don’t need to be standing here.\nWhy don’t you come to the cabin\faround the corner for more discussion?\r</language>
+		<language name="English">What was I thinkin’?\rWe ain’t gotta stand out here.\nWhy don’t you come to the cabin\faround the corner and talk more?\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, we happen to have a person\nat the cabin.\rAny Hustler should know who she is.\nThe famous Hustler from Sinnoh!\rShe is traveling around to study\nmyths and ancient ruins.\fIsn’t that something?\r</language>
+		<language name="English">By the way, we got somebody\nat the cabin.\rEvery Hustler should know who she is.\nThe famous Hustler from Sinnoh!\rShe travel around studyin’\nmyths and ancient ruins.\fAin’t that somethin’?\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -19,11 +19,11 @@
 	</row>
 	<row id="msg_0145_D51R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Bring your ARCEUS only.\rOther Pokémon may get blown away by\nthe strong power lingering at\fthe ruins.\r</language>
+		<language name="English">Cynthia: Bring only your ARCEUS.\rOther homies might get blown away by\nthe power hangin’ around\fthe ruins.\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: It seems your ARCEUS is\nresonating in harmony with the Ruins.\rIt might just be me but I can\nfeel that...\fwe are surrounded by strong power.\rThe answer lies inside the ruins.\rThe place that has been waiting for\nits rightful owner, the {COLOR 1}Mystri Stage{COLOR 0}...\r</language>
+		<language name="English">Cynthia: Looks like your ARCEUS is\nvibin’ with the Ruins.\rMaybe it’s just me but I can\nfeel...\fwe surrounded by strong power.\rThe answer is inside the ruins.\rThe place that been waitin’ for\nits rightful owner...\fthe {COLOR 1}Mystri Stage{COLOR 0}...\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>

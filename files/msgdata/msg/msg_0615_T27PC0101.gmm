@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0615_T27PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill: Ayo, I’m Bill. And who are you?\rHmm, {STRVAR_1 3, 0, 0}, huh?\r</language>
+		<language name="English">Bill: Ayo! I’m Bill. THE Bill. And\nyou?\rHmm, {STRVAR_1 3, 0, 0}, huh? Never heard of\nyou.\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what?\nI’m the one who developed\fthe system to transfer Pokémon.\rBut it couldn’t have been done by\nme alone.\rFor example, do you know the Hoenn\nregion? This girl Lanette from Hoenn\fmade the Pokémon Storage System\feasier to use.\rMy homies all over the world are\nworking together to improve\fthe Pokémon trade and\fstorage systems.\rI have to hurry on back to Goldenrod\nand see my folks.\fBuh-bye!\r</language>
+		<language name="English">You know what? I’m the one who built\nthe homie transfer\fsystem. Genius. Self-made.\rWell. Not REAL self-made.\rThis girl Lanette from Hoenn made the\nStorage System easier to use.\rSo she did the work and I got famous.\nThat’s how tech work.\rI gotta hurry back to Goldenrod.\fMy mama said be home by dinner.\fBuh-bye!\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls are so pretty.\rThe way the Kimono Girls dance and\nthe way they use their Pokémon are\fboth marvels.</language>
+		<language name="English">The Dancers is SO pretty.\rThe way they dance and use their\nhomies... I’m in love. With all five.\fIt’s complicated.</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty, the Block Boss, is soooo hard.\rHis Pokémon are really tough, too.</language>
+		<language name="English">Morty, the Block Boss, is SOOO fine.\rHis homies tough too. He told me he\nsee ghosts. I didn’t ask.</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage...\nThe appearance of a red GYARADOS...\fI smell a conspiracy. I know it!</language>
+		<language name="English">Lake of Rage... A RED GYARADOS...\fIt’s a CONSPIRACY. I KNOW it!\rThe government dyin’ the fish!\fWAKE UP, PEOPLE!</language>
 	</row>
 </body>

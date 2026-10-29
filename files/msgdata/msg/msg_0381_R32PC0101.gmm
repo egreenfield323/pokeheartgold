@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0381_R32PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This spot great for fishin’.\nSeein’ all them people fishin’,\fyou feelin’ like tryin’ it\ftoo?\rWant one of my Rods? {YESNO 0}</language>
+		<language name="English">Ayo, I’m the Fishin’ Guru. Self-titled.\rI been fishin’ off this pier 30 years\nand caught a fish TWICE.\rYou want one of my Rods? I got\nlike forty. Don’t ask why. {YESNO 0}</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -16,31 +16,31 @@
 	</row>
 	<row id="msg_0381_R32PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you wanna fish, face\nthe water and use the Rod.\rThen lock in and watch\nthe water close!\rWhen a “!” pop up, a homie\ngot on the line!\rSmash the A Button quick to\nreel it in.\rThen you’ll see what’s up.\rIf there’s water, ocean or\ncreek, throw that Rod in.</language>
+		<language name="English">When you wanna fish, face\nthe water and use the Rod.\rThen lock in and watch\nthe water close!\rWhen a “!” pop up, a homie\ngot on the line!\rSmash the A Button quick to\nreel it in.\rThen you’ll see wassup.\rIf there’s water, ocean or\ncreek, throw that Rod in.</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. That’s kinda weak, bro...</language>
+		<language name="English">No Rod? Bro, you scared of fish?\nThey can’t even walk.</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you wanna fish, face\nthe water and use the Rod.\rThen lock in and watch\nthe water close!\rWhen a “!” pop up, a homie\ngot on the line!\rSmash the A Button quick to\nreel it in.\rThen you’ll see what’s up.\n</language>
+		<language name="English">When you wanna fish, face\nthe water and use the Rod.\rThen lock in and watch\nthe water close!\rWhen a “!” pop up, a homie\ngot on the line!\rSmash the A Button quick to\nreel it in.\rThen you’ll see wassup.\n</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What should I make my homie hold?\rMaybe somethin’ that\npump up its Attack...</language>
+		<language name="English">What should my homie hold?\rMaybe somethin’ that pump\nup its Attack. Or a gun.\fThey make those small?</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo.\nHow you doin’?\fYou pickin’ Apricorns? {YESNO 0}</language>
+		<language name="English">Ayo. You pickin’ Apricorns? Say\nyes. Please. I need this. {YESNO 0}</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayyy, lil Apricorn collector!\rI’m feelin’ so good, I wanna\nbless you with this!\r</language>
+		<language name="English">AYYY! A FELLOW APRICORN ENJOYER!\rI’m so hype I’m givin’ you this.\nDon’t tell my wife.\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why not? What a waste!\rI’ma show you how fire\nApricorns are!\rTake this first.\r</language>
+		<language name="English">Nah? You don’t pick Apricorns?\nThat’s cool. I’ll CONVERT you.\rApricorns changed my LIFE.\nTake this first. It’s a gateway.\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -48,6 +48,6 @@
 	</row>
 	<row id="msg_0381_R32PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt is a legend to every\nApricorn collector out there.\rIf you headed to Azalea Town,\nmake sure you holla at him.\rApricorn, Apricorner, Apricornest!</language>
+		<language name="English">Kurt the Michael Jordan of Apricorns.\nI got his poster over my bed.\rIf you hit Azalea Town, tell\nhim I said... Nah, he’ll know.\rApricorn, Apricorner, APRICORNEST!</language>
 	</row>
 </body>

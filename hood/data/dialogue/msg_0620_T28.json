@@ -1,0 +1,21 @@
+{
+  "_comment": "Mahogany Town. The RageCandyBar guy blocking the road (he's on the Feds' payroll), the 'just a souvenir shop'.",
+  "0": "Ayo, youngblood! Come here, come here.\\rYou new in Mahogany? I can tell.\\nYou gotta try a FIRE RageCandyBar!\\rFresh! Homemade! In a back room!\\nJust $300! Want one? {YESNO 0}",
+  "1": "Don't get mad after you bought one, but...\\rBuyin' a RageCandyBar don't mean I'ma\\nlet you through here.\\r...Johto got mad places to see!\\nLike the Lighthouse in Olivine, the\\fPharmacy in Cianwood...\\rWhy don't you go sightseein'?\\nFAR from here? Like, real far?",
+  "2": "Don't get mad after you bought one, but...\\rBuyin' a RageCandyBar don't mean I'ma\\nlet you through here.\\r...Johto got mad places to see!\\nLike the Lighthouse in Olivine, the\\fPharmacy in Cianwood...\\rWhy don't you go sightseein'?\\nFAR from here? Like, real far?\\r",
+  "3": "What? RageCandyBar? You want ANOTHER?\\nSomebody hooked!\\rRight on! Same price, $300!\\nWant one? {YESNO 0}",
+  "4": "What? RageCandyBar? Another one?\\rNah, one is enough for you.\\nThese is STRONG, baby.",
+  "5": "Somebody came all the way from Kanto\\nfor one of these once.\\rI ain't have none in stock. They left\\nHEATED. Cussin'. Kickin' stuff.\\rThese bars got a FOLLOWING, baby.",
+  "6": "Somebody came all the way from Kanto\\nfor one of these once.\\rI ain't have none in stock. They left\\nHEATED. Cussin'. Kickin' stuff.\\rThese bars got a FOLLOWING, baby.\\r",
+  "7": "You ain't got enough bread.",
+  "8": "You ain't got enough bread.\\r",
+  "9": "Oh, fine then... Your loss.\\nI'll be here. I'm always here.",
+  "10": "Oh, fine then... Your loss.\\nI'll be here. I'm always here.\\r",
+  "13": "You seen this guy in a black cape?\\rHe keep goin' back and forth to the\\nLake of Rage talkin' about “radio waves.”\\rWho wear a CAPE in 2009?\\nWho IS he, fr?\\n",
+  "14": "You goin' to see the GYARADOS wildin' at\\nthe lake? It's like a nature documentary\\fbut everybody screamin'.",
+  "15": "The MAGIKARP came back to the lake!\\rThe fishermen cryin' happy tears.\\nThe MAGIKARP still useless though.",
+  "16": "Go to Grandma's shop. She sell stuff\\nnobody else got...\\rYou wanna buy stuff, right?\\nSo buy stuff at Grandma's! Don't ask\\fwhat's downstairs!",
+  "17": "Mahogany Town\\nHome of the Ninja. Don't Look.",
+  "18": "Just a Souvenir Shop\\rNothin' Suspicious About It\\nDefinitely Not a Fed Front",
+  "19": "Mahogany Town Block\\nBoss: Pryce\\fThe Old Head of Winter. Cold Hearted."
+}

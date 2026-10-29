@@ -1,0 +1,5 @@
+{
+  "_comment": "Route 26 house: the week siblings' note.",
+  "0": "Somethin' written here.\\nRead it? {YESNO 0}",
+  "1": "To my brothers and sisters:\\rWe take pride in servin' Hustlers.\\rWhen Hustlers talk to you, give 'em\\nsomethin' useful. No freeloadin'.\\nI'm lookin' at you, Santos.\\rLove,\\nMonica\\rKeep readin'? {YESNO 0}"
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "Kanto Radio Station. The super Music Director.",
+  "0": "Welcome!\\rLook around ANYWHERE on this floor.\\nOnly this floor.",
+  "1": "Sorry, you can only tour the ground floor.\\rEver since Johto's Radio Tower got raided\\nby The Feds, we stepped up security.\\fWe got a guard now. Ron. He 70.",
+  "2": "Mad people workin' hard here in the Radio\\nTower. Puttin' on good shows.\\fAnd ghost stories. It's Lavender.",
+  "3": "Oh, no, no, NO!\\rWe been off air since the Power Plant shut\\ndown.\\rAll my work startin' this station...\\nWASTED.\\fI'm finished! I'm movin' back in with my\\fmama!",
+  "4": "Ah! So you the {STRVAR_1 3, 0, 0} who\\nfixed the Power Plant?\\rThanks to you, I kept my job.\\nYou a real lifesaver!\\fTake this as a thank-you.\\r",
+  "5": "Ah! So you the {STRVAR_1 3, 0, 0} who\\nfixed the Power Plant?\\rThanks to you, I kept my job.\\nYou a real lifesaver!\\fTake this as a thank-you.\\r",
+  "6": "The Director loaded the EXPN Card\\non {STRVAR_1 3, 0, 0}'s Pokégear!\\r{STRVAR_1 3, 0, 0}'s Pokégear got\\nupgraded!",
+  "7": "With that, you can tune in to\\neven more radio shows here in\\fKanto.\\fGahahahaha!",
+  "8": "AYO! I'm the SUPER Music Director!\\rHuh? Your Pokégear can't pick up my shows.\\nTRAGIC!\\rUpgrade with the EXPN Card and tune in.\\fYou NEED my music. Everybody need it.",
+  "9": "AYO! I'm the SUPER Music Director!\\rI'm responsible for the GORGEOUS melodies\\non the air.\\rDon't be square. Grab my music off the air!\\nIt's free! Unlike my divorce!",
+  "11": "Perk Up Homies with the Smooth\\nSounds of the Poké Flute.\\rThe Poké Flute broadcast only\\nplay around Kanto.\\rTry tunin' in around the top\\nof the radio!"
+}

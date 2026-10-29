@@ -1,0 +1,5 @@
+{
+  "_comment": "Mt. Moon: the rival training in Kanto.",
+  "0": "{STRVAR_1 3, 1, 0}: Ayo, {STRVAR_1 3, 0, 0}!\\nYou in Kanto too?\\rSome of the Hustlers here tough,\\nwhich make it easy to train\\fmy homies!\\r{STRVAR_1 3, 0, 0}!\\nI know you strong...\\rBut...\\nI can't help but call you out!\\r",
+  "1": "{STRVAR_1 3, 1, 0}: My training still ain't\\ngood enough...?\\rMy homies so weak, it make me\\nmad...\\rBut I can feel 'em gettin'\\nbetter after every scrap...\\r..................\\nTch!\\rThey still too weak!\\nI gotta train 'em more...\\rI know!\\nI'll take 'em to Dragon's Den!\\fLater, {STRVAR_1 3, 0, 0}!\\r"
+}

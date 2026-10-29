@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0651_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well.\nWe must have a bad connection.\rTry calling again from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0651_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, hey, what’s wrong?\fYou don’t have to worry about me.\fHow are you doing?\r</language>
+		<language name="English">Wassup...\nOh, ayo, what’s wrong?\fYou ain’t gotta worry about me.\fHow you doin’?\r</language>
 	</row>
 	<row id="msg_0651_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited every Block yet?\nThere are Block Bosses you haven’t\fbattled yet, ain’t there?</language>
+		<language name="English">You hit every Block yet?\nThere’s Block Bosses you ain’t\fscrapped yet, ain’t there?</language>
 	</row>
 	<row id="msg_0651_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t do anything at all around noon\non Tuesdays. You should give me a call\fthen sometime if you’re free.</language>
+		<language name="English">I don’t do NOTHIN’ around noon\non Tuesdays. Gimme a call\fthen sometime if you free.</language>
 	</row>
 	<row id="msg_0651_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\rYou called at just the right time!\nWanna battle me again?\fCome on, whadda ya say? {YESNO 0}</language>
+		<language name="English">Woah, ayo!\rYou called at just the right time!\nWanna scrap me again?\fC’mon, whadda ya say? {YESNO 0}</language>
 	</row>
 	<row id="msg_0651_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\rThanks!\nI’ll be waiting for you at the Fighting\fDojo in Saffron City.</language>
+		<language name="English">Woah, ayo!\rGood looks!\nI’ll be waitin’ at the Saffron Dojo.</language>
 	</row>
 	<row id="msg_0651_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\nThat’s cold!</language>
+		<language name="English">Woah, ayo!\nThat’s COLD!</language>
 	</row>
 	<row id="msg_0651_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look, I appreciate that you want to\nbattle me again, but didn’t you already\fmake plans with somebody else?</language>
+		<language name="English">Look, I appreciate you wanna\nscrap me again, but didn’t you already\fmake plans with somebody else?</language>
 	</row>
 	<row id="msg_0651_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\nI’m waiting for you at the Fighting Dojo\fin Saffron City.\n</language>
+		<language name="English">Woah, ayo!\nI’m waitin’ at the Saffron Dojo.\n</language>
 	</row>
 	<row id="msg_0651_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, this is Blaine.\nWhat’s up?\r</language>
+		<language name="English">Ayo, this Blaine.\nWhat’s good?\r</language>
 	</row>
 	<row id="msg_0651_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to meet and battle at the\nFighting Dojo in Saffron City, right?\fI’m waiting for you!</language>
+		<language name="English">We made plans to meet and scrap at\nthe Saffron Dojo, right?\fI’m waitin’ on you!</language>
 	</row>
 	<row id="msg_0651_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, even if you lose your Block,\nif you take rocks and stones and pile\fthem up one by one every day, sooner\for later you’ll have built a really nice\freplacement Block!\rI’ve made it my life’s mission to build\nanother Block.</language>
+		<language name="English">You know, even if you lose your Block,\nif you take rocks and stones and stack\f’em up one by one every day, sooner\for later you’ll have built a nice\freplacement Block!\rI made it my life’s mission to build\nanother Block.</language>
 	</row>
 	<row id="msg_0651_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am grateful that Hustlers flock\nto a homemade Block like mine...\rI good looks too for coming all the\nway just to battle me!</language>
+		<language name="English">I’m grateful Hustlers flock\nto a homemade Block like mine...\rGood looks for comin’ all the\nway just to scrap me!</language>
 	</row>
 	<row id="msg_0651_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I kind of like the Seafoam Islands\na lot lately.\fThe problem with that is if you\fdecide to go shopping,\fthere ain’t any stores there...</language>
+		<language name="English">I kinda like the Seafoam Islands\na lot lately.\fThe problem is if you\fwanna go shoppin’,\fthere ain’t no stores there...</language>
 	</row>
 </body>

@@ -1,0 +1,18 @@
+{
+  "_comment": "Vermilion block. Lt. Surge, the loudest man alive.",
+  "0": "Lt. Surge: AYO, YOU LIL TYKE!\\rIt ain't real smart to run up on me,\\nbut it take GUTS!\\rWhen it come to Electric homies, I'm\\nNUMBER ONE!\\rI ain't NEVER lost on the battlefield!\\nNot to nobody! Except twice!\\rI'ma zap you like I zap all my enemies!\\nHOO-RAH!\\r",
+  "1": "Lt. Surge: ARRRGH! You STRONG, private!\\rAight, youngblood.\\nYou get the Thunder Chain!\\fAt ease!\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Thunder Chain from Lt. Surge!",
+  "3": "Lt. Surge: That Thunder Chain is for\\nthe ones who beat me!\\fTake care of it, soldier!\\rOne more thing.\\nHere's a hard TM for you!\\r",
+  "4": "Lt. Surge: That TM is\\nStatic Shock... ZZZAP!\\rUse it to move like lightning!\\rGo north, and you'll see\\na big city called Saffron!",
+  "5": "Lt. Surge: Ayo, youngblood! Still grindin'?\\rGo north, you'll see Saffron!\\nDROP AND GIMME TWENTY! ...Just kiddin'.\\fUnless?",
+  "6": "Yo! Future legend!\\nYou got lucky this time.\\rThe traps in this Block been broke a while.\\nBut they BACK now!\\fWhy is that lucky? 'Cause pain build\\fcharacter!\\rLock in and go get Lt. Surge!",
+  "7": "Whew! That scrap was ELECTRIC!\\nMy nerves still tinglin'. My hair standin' up.",
+  "8": "Nope! Nothin' here but trash.\\nAnd a sandwich. Old sandwich.",
+  "9": "...\\nOh, you found a secret switch at the\\fbottom of the trash can!\\fBetter press it.",
+  "10": "Nope! Nothin' here but trash.\\nOh NO, the electric fence locked again!\\fWho DESIGNED this?!",
+  "11": "The first electric fence is unlocked!",
+  "12": "The second electric fence is unlocked!\\rNow the electric fences gone, and\\nthe path to the Boss is clear!",
+  "13": "Vermilion City Block\\nTrash Cans Are Load-Bearing",
+  "14": "Vermilion City Block\\rBlock Boss: Lt. Surge\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

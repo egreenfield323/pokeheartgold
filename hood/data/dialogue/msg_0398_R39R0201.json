@@ -1,0 +1,22 @@
+{
+  "_comment": "Moomoo Farm barn. The sick MILTANK needs Takis (Oran Berries). Seals and the Seal Case.",
+  "0": "Moomoo SICK...\\fShe need a whole LOTTA Takis.\\nShe a Takis addict. We ain't proud.\\r",
+  "1": "GOOD LOOKS! Moomoo all better!\\nShe back on her Takis grind!\\rHere go some Seals for your trouble.\\r",
+  "2": "Shockin'!\\nI wanna give you some\\fSeals, but you ain't got a\\fSeal Case...\\rDon't worry, though.\\nMy sister can give you a Seal Case!\\r",
+  "3": "Ha!\\nYour Seal Case full!\\r",
+  "4": "Moomoo all better!\\r",
+  "5": "Moomoo SICK...\\fShe need a whole LOTTA Takis.\\nShe a Takis addict. We ain't proud.\\r",
+  "6": "Good looks!\\nMoomoo all better!\\rI'll give you this Seal Case for\\nyour trouble.\\r",
+  "7": "You can customize your Hood Balls.\\rPick “BALL CAPSULES” on\\nyour PC, stick Seals however\\fyou want on a Capsule, then put\\fthe Capsule on a Hood Ball.\\rTry different stuff, you'll see.\\nMy sister can give you Seals!\\r",
+  "8": "We sell Chocolate Milk at the house.\\fDon't forget to stop by!\\r",
+  "10": "Its moo is weak... It's withdrawin'...",
+  "12": "It's full of energy. And Takis dust.",
+  "13": "Give MILTANK some Takis? {YESNO 0}",
+  "14": "{STRVAR_1 3, 0, 0} gave some Takis\\nto MILTANK.",
+  "15": "MILTANK feelin' a lil better!\\nIt's lickin' its lips.",
+  "16": "MILTANK gettin' healthier!",
+  "17": "MILTANK ALL the way better! It's hype!",
+  "18": "{STRVAR_1 3, 0, 0} ain't got no Takis...",
+  "19": "{STRVAR_1 3, 0, 0} wouldn't share the Takis.\\rMILTANK look SO sad. You cold, bro.",
+  "20": "The {STRVAR_1 10, 0, 0} went\\nin the Seal Case!"
+}

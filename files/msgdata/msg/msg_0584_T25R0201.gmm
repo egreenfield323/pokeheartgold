@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0584_T25R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh... I opened a branch here,\nbut I can’t sell my Bicycles.\fWhy is that?\rCould you ride a Bicycle and\nadvertise for me? {YESNO 0}</language>
+		<language name="English">*sigh*... I opened a branch here,\nbut nobody buyin’ my Bikes. Why?\rIs it ’cause they all got different\npaint jobs? Fresh paint is a\fFEATURE.\rCould you ride one around and\nadvertise for me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0584_T25R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Really? Great!\rGive me your name and phone number,\nand I’ll loan you a Bicycle. {YESNO 0}</language>
+		<language name="English">For real? BET!\rGimme your name and number, and\nI’ll loan you a Stolen Bike. Ride it\fproud. Ride it FAST. {YESNO 0}</language>
 	</row>
 	<row id="msg_0584_T25R0201_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,14 +15,14 @@
 	</row>
 	<row id="msg_0584_T25R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The main shop is at Cerulean\nback in Kanto.\rSay hello to the shop manager\nif you happen to go there!\rOur Bicycles are first-rate!\nYou can ride them in Kanto, too!</language>
+		<language name="English">Our main shop is in Cerulean, in\nKanto.\rTell the manager I said wassup!\nActually don’t. He owe me bread.\rOur Bikes top tier! Nobody gon’\nrecognize ’em in Kanto.</language>
 	</row>
 	<row id="msg_0584_T25R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh... Oh, for the kindness\nof people...</language>
+		<language name="English">*sigh*... Where the kindness of\npeople at... I’m just tryna sell\fbikes. Mostly mine.</language>
 	</row>
 	<row id="msg_0584_T25R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a shiny new Bicycle!</language>
+		<language name="English">A shiny new Bike!\rThe serial number got scratched\noff. And the lock still on the wheel.</language>
 	</row>
 </body>

@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="msg_0256_P01R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK!\nYou must be the last passenger.\r</language>
+		<language name="English">AIGHT! You the last passenger!\nWe was ’bout to leave you!\r</language>
 	</row>
 	<row id="msg_0256_P01R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nDoesn’t seem like the ship will be moving\fanytime soon.</language>
+		<language name="English">Huh? This ship don’t look like it’s\nmovin’ anytime soon. Captain asleep.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I manage to come back safely from\nthis journey and take my first steps in\fOlivine City, will you live there with me?\rPlease! I beg you!</language>
+		<language name="English">If I make it back safe and step foot in\nOlivine, will you move in with me?!\rPLEASE! I’m BEGGIN’ you!\nI’ll do the dishes!</language>
 	</row>
 	<row id="msg_0256_P01R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He’s only a crewman of a\npleasure cruise.\fHe has a way of exaggerating things.\r</language>
+		<language name="English">He work on a PARTY boat.\fHe say that to everybody. Every trip.\r</language>
 	</row>
 	<row id="msg_0256_P01R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Out of the blue...\nI get the urge to see the ocean...\rIt may be fun to exchange numbers\nwith you...\rDo you want mine? {YESNO 0}</language>
+		<language name="English">Sabrina: Outta nowhere... I felt like\nseein’ the ocean... I already knew\fyou’d\fbe here.\rIt might be fun to swap numbers... You\nwant mine? You do. I know. {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Sabrina\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Sabrina’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0256_P01R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I think I can keep my promises\nif you call me on Sundays around noon.</language>
+		<language name="English">Sabrina: I keep my promises if you call\non Sundays around noon.\fI already know you will. 12:03.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I see...\nI thought you’d make a good homie.</language>
+		<language name="English">Sabrina: I see...\nI thought you’d make a good homie.\fI was wrong. That NEVER happen.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Now you want to know\nmy number?\fI can see it in your eyes... {YESNO 0}</language>
+		<language name="English">Sabrina: Now you want\nmy number?\fI can see it in your eyes... {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: It’s you...\rHow about a picture here\nagainst the pleasant sea breeze? {YESNO 0}</language>
+		<language name="English">Sabrina: It’s you...\rHow ’bout a pic here\nin this nice sea breeze? {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Are you ready?\r</language>
+		<language name="English">Sabrina: You ready?\r</language>
 	</row>
 	<row id="msg_0256_P01R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I think it looks good.</language>
+		<language name="English">Sabrina: I think it look good.\nI knew it would.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I see...\nI thought you’d make a good\fpicture subject...</language>
+		<language name="English">Sabrina: I see...\nI thought you’d make a good\fpic...</language>
 	</row>
 	<row id="msg_0256_P01R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.</language>
 	</row>
 </body>

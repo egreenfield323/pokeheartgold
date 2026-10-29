@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0702_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, how about we exchange phone\nnumbers?{YESNO 0}</language>
+		<language name="English">So, how ’bout we swap\nnumbers?{YESNO 0}</language>
 	</row>
 	<row id="msg_0702_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give me a call if you think of anything!</language>
+		<language name="English">Hit us if you think of anythin’!</language>
 	</row>
 	<row id="msg_0702_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,34 +18,34 @@
 	</row>
 	<row id="msg_0702_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you decide you wanted to\nexchange phone numbers? {YESNO 0}</language>
+		<language name="English">You decide you wanna\nswap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0702_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-huh? Where are you calling from?\rIf you’re nearby, you might as well\ncome over and talk in person, you know?</language>
+		<language name="English">Uh-huh? Where you callin’ from?\rIf you right nearby, you might as well\ncome over and talk in person, ya know?</language>
 	</row>
 	<row id="msg_0702_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been since we last talked?\fAre you doing a good job training your\nPokémon? We’re doing great!\r{STRVAR_1 0, 10, 0} is working hard.\rYou have a good Pokémon, too. After a\nwhile, you’ll find it will become a\fsensational partner! Hee hee!</language>
+		<language name="English">This Sue!\rHow you been since we last talked?\fYou doin’ a good job trainin’ your\nhomies? We doin’ great!\r{STRVAR_1 0, 10, 0} grindin’ hard.\rYou got a good homie too. After a\nwhile, you’ll see it become a\fsensational partner! Hee hee!</language>
 	</row>
 	<row id="msg_0702_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been since we spoke last?\nAre your Pokémon winning their battles?\rWe’re doing great!\nWe even beat a wild {STRVAR_1 0, 11, 0}.\rYou have a good Pokémon, also.\nAll you need now is a great partner...\fKnow what I mean? Hee hee!</language>
+		<language name="English">This Sue!\rHow you been since we last talked?\nYour homies winnin’ their scraps?\rWe doin’ great!\nWe even beat a wild {STRVAR_1 0, 11, 0}.\rYou got a good homie too.\nAll you need now is a great partner...\fYou know what I mean? Hee hee!</language>
 	</row>
 	<row id="msg_0702_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been feeling since our\nlast talk? I’ve got many Pokémon... Ah!\rHello? This is Tim!\nLet me talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe sometimes says the strangest\nthings. He said he couldn’t compare\fPokémon with me, but... Ah!\rHello! This is Tim!\nShe is really... Wah!\rYeah, that’s just how it is, ain’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
+		<language name="English">This Sue!\rHow you been feelin’ since our\nlast talk? I got lotsa homies... Ah!\rWassup? This Tim!\nLemme talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe say the weirdest stuff\nsometimes. He said he couldn’t compare\fhomies with me, but... Ah!\rWassup! This Tim!\nShe deadass... Wah!\rYeah, that’s just how it is, ain’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
 	</row>
 	<row id="msg_0702_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, would you like to battle us again?\rSound good?\rWe’re waiting on {STRVAR_1 4, 3, 0}.\nSee you there!</language>
+		<language name="English">Ayo, you wanna scrap us again?\rSound good?\rWe waitin’ on {STRVAR_1 4, 3, 0}.\nSee you there!</language>
 	</row>
 	<row id="msg_0702_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you forget our promise?\rI’m here with Tim, so I’m not getting\ntoo bored, but still...\rWe’re waiting on {STRVAR_1 4, 3, 0},\nso please hurry.</language>
+		<language name="English">Ayo, you forget our promise?\rI’m here with Tim, so I ain’t gettin’\ntoo bored, but still...\rWe waitin’ on {STRVAR_1 4, 3, 0},\nso please hurry.</language>
 	</row>
 	<row id="msg_0702_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, this is Sue!\nI’m so, so, so bored right now.\rTim stepped out, but I expect\nhim to be back soon. That reminds me!\rWe recently saw a really amazing guy.\rHe was wearing a purple tuxedo and a\nred bowtie. It looked great on him.\rOh--my boyfriend’s back!\nTalk to you later!</language>
+		<language name="English">Ayo, this Sue!\nI’m so, so, SO bored right now.\rTim stepped out, but he should\nbe back soon. That reminds me!\rWe recently saw a REAL fly guy.\rHe was wearin’ a purple tuxedo and a\nred bowtie. It looked FIRE on him.\rOh--my boyfriend back!\nTalk to you later!</language>
 	</row>
 </body>

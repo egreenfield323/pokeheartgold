@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0468_T04FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll run into many Hustlers on\nthe way to Cerulean Cape.\rThey want to see how they stack\nup against other Hustlers.</language>
+		<language name="English">You gon’ run into MAD Hustlers on the\nway to Cerulean Cape.\rThey wanna see how they stack up.\nIt’s a whole gauntlet. Bring snacks.</language>
 	</row>
 	<row id="msg_0468_T04FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty is about the only person in town\nwho can beat the Hustlers at\fCerulean Cape.</language>
+		<language name="English">Misty the only one in town who can\nbeat the Hustlers at Cerulean Cape.\rShe scary. I like her. I’m scared of\nher.</language>
 	</row>
 </body>

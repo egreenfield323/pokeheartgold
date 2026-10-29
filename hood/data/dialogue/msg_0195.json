@@ -1,0 +1,14 @@
+{
+  "_comment": "second pass",
+  "0": "First, we hold your homies while you\\nrent ours. Like a car rental. For violence.\\rChoose carefully. No refunds.\\r",
+  "3": "Well done!\\nYour rentals will be healed now.\\fDon't scratch 'em.",
+  "16": "You cleared your SEVENTH Battle Factory\\nmatch! Congratulations!\\rFor your DEEP knowledge of homies,\\nhere's some BP!\\r",
+  "18": "Let's swap back your homies.\\nReturn the rentals with a full tank.\\r",
+  "21": "I did a lil research on your next opp.\\nI'm basically a private investigator.\\rExpect {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 3, 0}, and\\n{STRVAR_1 0, 5, 0}.\\r",
+  "26": "I did a lil research on your next opp.\\rThey don't care about types AT ALL.\\nThey just vibin'. Scary.\\r",
+  "35": "Congratulations, Hustler!\\rFor your outstandin' win streak, our\\nFrontier Brain DEMANDS a match.\\rYour next match is the Factory Head,\\nand you CAN'T say no.\\rYou prepared?\\r",
+  "36": "Thorton: BZWEEEEEP!\\rSorry, don't mind me.\\rThis my invention. A data-interpretin'\\nmachine. I built it in my mom's garage.\\rIt tell me what you rented.\\rI see! {STRVAR_1 0, 0, 0}, {STRVAR_1 0, 1, 0},\\nand {STRVAR_1 0, 2, 0}.\\rThat's a good setup. Like... {STRVAR_1 51, 3, 0} percent?\\fDon't worry about the number. The machine\\fmake 'em up sometimes.\\rAll righty, let's GO!\\r",
+  "37": "Thorton: BZWEEEEEP!\\rLemme scan you with my data machine.\\nHold still. It's buffering.\\rWhat you rent this time...?\\rI see! {STRVAR_1 0, 0, 0}, {STRVAR_1 0, 1, 0},\\nand {STRVAR_1 0, 2, 0}.\\rGood setup. Friendship AND teamwork.\\nThe machine like it.\\rLike... {STRVAR_1 51, 3, 0} percent?\\fDon't worry about the number.\\rAll righty! No losin' this time!\\nThe machine PROMISED!\\r",
+  "38": "Thorton: Hmm...\\nI took the L.\\rI'm NOT happy. At all. My machine lied.\\nBut I got useful data, I guess.\\rDid you like the homies you rented?\\rAs Factory Head, it'd make me happy.\\nCome back with different rentals.\\fI'll update the software.\\r",
+  "39": "Thorton: Hmm...\\nANOTHER L.\\rI'm NOT happy. I'm stewin'.\\nI'm gon' go yell at my machine.\\rBut whatever. Some things you learn from\\nwinnin'. Some from losin'.\\rI've learned a LOT from losin'. Too much.\\rKeep rentin' our homies so I can redeem\\nmyself! Please! My mom watchin'!\\r"
+}

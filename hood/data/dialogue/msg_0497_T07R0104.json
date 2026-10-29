@@ -1,0 +1,22 @@
+{
+  "_comment": "Celadon Dept. Store 4F. Falkner and Janine argue whose dad is better.",
+  "0": "Falkner: Outta every Hustler out there,\\nthe BEST Hustler gotta be my DAD.\\r",
+  "1": "Janine: HA! You don't know NOTHIN'!\\rThe best Hustler in the world is Koga,\\none of the Elite Four!\\fA.K.A.--MY DAD!\\r",
+  "2": "Falkner: You mistaken.\\nMy dad treat homies like--\\r",
+  "3": "Janine: STOP!\\nJust admit my dad the TRUE Hustler!\\fHe got SMOKE BOMBS!\\r",
+  "4": "Falkner: You was listenin', right?\\nYou agree my dad better, RIGHT? {YESNO 0}",
+  "5": "Falkner: You do? Just like I thought!\\rWe gon' have SO much fun talkin' about my\\ndad! I got stories! I got PICTURES!\\fHere go my number!\\r",
+  "6": "{STRVAR_1 3, 0, 0} saved Falkner's number\\nin the Pokégear!",
+  "7": "Falkner: Hit me up Saturday\\nmornin' if you wanna hear about\\fmy dad!",
+  "8": "Falkner: You don't?\\nI thought you was smarter than that.\\rOh, well. You'll come around.\\fEverybody come around.",
+  "9": "Falkner: So you DID change your mind.\\nYou think my dad\\fis better now? {YESNO 0}",
+  "10": "Falkner: Ayo, why don't we take\\na pic together? {YESNO 0}",
+  "11": "Falkner: Aight!\\nYou ready?\\r",
+  "12": "Falkner: Yes!\\nWe look good.",
+  "13": "Falkner: That's aight.\\nI'll just take one with my dad...\\fHe always say yes.",
+  "14": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics.",
+  "15": "Janine: BAH!\\nYou picked HIM?! Ugh!",
+  "16": "I'm here to buy Bloom Mail for my girl.\\nI'm writin' her a poem. It don't rhyme.",
+  "17": "You know what?\\rTunnel Mail FINALLY at this store!\\rBefore, you could only get it in Violet.\\nThe REVOLUTION.",
+  "18": "Gifts to Express Yourself!\\n4F: Wiseman Gifts"
+}

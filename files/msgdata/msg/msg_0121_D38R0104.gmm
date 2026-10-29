@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0121_D38R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\rI am the Karate King!\nI train alone here in the cave!\rYou!\nBattle with me! Hwaaarggh!\r</language>
+		<language name="English">AYO!\rI’m the KARATE KING! I train ALONE in\nthis cave! For YEARS! No snacks!\rYou! Scrap with me! HWAAARGGH!\r</language>
 	</row>
 	<row id="msg_0121_D38R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I... I’m crushed...\rMy training is still not enough...\nBut a loss is a loss. I admit it.\rAs proof that you defeated me, I’ll give\nyou a rare Fighting-type Pokémon.\r</language>
+		<language name="English">I... I’m CRUSHED...\rMy trainin’ still ain’t enough... Ten\nyears in a cave for THIS?\rAn L is an L. I admit it.\rAs proof you beat me, here’s a rare\nFightin’ homie. It’s my only homie. Take\fcare of it.\r</language>
 	</row>
 	<row id="msg_0121_D38R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received TYROGUE from\nthe Karate King!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got TYROGUE from\nthe Karate King!</language>
 	</row>
 	<row id="msg_0121_D38R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYROGUE is a Fighting type.\nIt evolves into a tougher Pokémon.\rKeep up the hard work. I’ll keep\ntraining too. Farewell!</language>
+		<language name="English">TYROGUE a Fightin’ type. It evolve into\nsomethin’ TOUGHER.\rKeep grindin’. I’ll keep trainin’ too.\nFarewell! *kicks rock* *hurts foot* OW.</language>
 	</row>
 	<row id="msg_0121_D38R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no room in your party!</language>
+		<language name="English">You ain’t got room in your crew!</language>
 	</row>
 	<row id="msg_0121_D38R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the TYROGUE you\nreceived? {YESNO 0}</language>
+		<language name="English">Give a nickname to the TYROGUE\nyou got? {YESNO 0}</language>
 	</row>
 	<row id="msg_0121_D38R0104_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>

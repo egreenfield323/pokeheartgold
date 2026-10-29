@@ -1,0 +1,12 @@
+{
+  "_comment": "Name Rater. A professional hater.",
+  "0": "WASSUP, WASSUP! I'm the official Name\\nRater! I roast names for a livin'!\\rWant me to rate your homies'\\nnicknames? I'm brutal. {YESNO 0}",
+  "1": "Which homie's name should I ROAST?",
+  "2": "{STRVAR_1 1, 0, 0}, huh? Hmm...\\nThat's MID. Real mid. Who named this?\\rI can give it a BETTER name.\\nWhat you think? {YESNO 0}",
+  "3": "Aight. What's the new name gon' be?\\nDon't disappoint me AGAIN.\\r",
+  "4": "Done! How 'bout that?\\rFrom now on, this homie go by\\n{STRVAR_1 1, 0, 0}!\\rWAY better than before!\\nYou finally did somethin' right!",
+  "5": "Ah, aight. Keep that mid name then.\\nCome back when you got taste.",
+  "6": "Done! From now on, this homie go by\\n{STRVAR_1 1, 0, 0}!\\rIt's the SAME name?\\nNah, it hit different now.\\fThat'll be $40.",
+  "7": "{STRVAR_1 1, 0, 0}, huh?\\nThat name is FIRE. No notes! I'm jealous!\\rTake care of {STRVAR_1 1, 0, 0}!",
+  "8": "Bro. That's a EGG.\\nIt ain't even born yet. Let it live."
+}

@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0255_P01R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Fast Ship S.S. Aqua.\r...Except that the engine-maintenance\nteam is taking some time off, and we\fdon’t know when we can depart...</language>
+		<language name="English">Welcome to the Fast Ship S.S. Aqua.\r...Except the engine crew on vacation.\nIn Cancun. On the company card.</language>
 	</row>
 	<row id="msg_0255_P01R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Fast Ship S.S. Aqua.\nMay I see your S.S. Ticket?\r</language>
+		<language name="English">Welcome to the Fast Ship S.S. Aqua.\nCan I see your S.S. Ticket?\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} tried to show the\nS.S. Ticket...\r...But no Ticket here!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} tried to show the\nS.S. Ticket...\r...But there ain’t no Ticket!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry...\rAnother person without a Ticket\nwouldn’t make much of a difference,\fI think.\rBut a rule is a rule.\nSorry, kiddo.</language>
+		<language name="English">My bad...\rOne more stowaway wouldn’t make a\ndifference. We already got four.\rBut rules is rules.\nNo Ticket, no boat. Swim, kiddo.</language>
 	</row>
 	<row id="msg_0255_P01R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,46 +22,46 @@
 	</row>
 	<row id="msg_0255_P01R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, you have a Ticket!\rWe’re departing soon.\nGet on board quick!\r</language>
+		<language name="English">Aight, you got a Ticket!\rWe leavin’ soon. Get on board quick!\nLife jackets is under the seat.\fProb’ly.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou already showed me the Ticket.</language>
+		<language name="English">What? You ALREADY showed me the\nTicket. I got a memory. Barely, but I\fgot one.</language>
 	</row>
 	<row id="msg_0255_P01R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the S.S. Aqua!\rYour Ticket is...right there.\nPlease come through.\r</language>
+		<language name="English">Welcome to the S.S. Aqua!\rYour Ticket is...right there.\nC’mon through.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Operating a ship every day can wear\nyou out!\fIt’s not running today.\rIt leaves for Vermilion City on Mondays\nand Fridays!</language>
+		<language name="English">Runnin’ a ship every day WEAR you out!\fIt ain’t runnin’ today. I’m tired.\rIt leave for Vermilion on Mondays and\nFridays! If I feel like it!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup!\nYou are starting to have the\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Professor Oak: Wassup!\nYou startin’ to have the\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rTime for your Pokédex to match\nwho you.\fLemme see your Pokédex for a sec.\rI’ma upgrade your Pokédex with\nthe National Mode.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup!\nYou are starting to have the...\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Professor Oak: Wassup!\nYou startin’ to have the...\fattitude of a Kingpin, {STRVAR_1 3, 0, 0}!\rTime for your Pokédex to match\nwho you.\fLemme see your Pokédex for a sec.\rI’ma upgrade your Pokédex with\nthe National Mode.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokédex was upgraded\nwith the National Mode!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s Pokédex got upgraded\nwith the National Mode!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It won’t be easy to\ncomplete the National Pokédex...\rHowever, I’m sure you will make an\nhonest attempt on our behalf!\r</language>
+		<language name="English">Professor Oak: It ain’t gon’ be easy\nto finish the National Pokédex...\rBut I know you gon’ give it\nan honest shot for us!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, time flies!\rI have a radio show to record\nat Goldenrod Radio Tower.\rYou must be heading for Kanto.\rIf you come near Pallet Town, do drop\nby my Pokémon Research Lab!\r</language>
+		<language name="English">Oh, time flies!\rI got a radio show to record\nat the Goldenrod Radio Tower.\rYou must be headed to Kanto.\rIf you near Pallet Town, swing\nby my Pokémon Research Lab!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The S.S. Aqua uses jets to travel.\nIt skims over water!</language>
+		<language name="English">The S.S. Aqua run on JETS.\nIt skim right over the water!\fLike a jet ski for 300 people.</language>
 	</row>
 	<row id="msg_0255_P01R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve been to Kanto already?\rI hear many rare Pokémon live\nover there.\rSounds exciting.\nI’d love to visit!</language>
+		<language name="English">You been to Kanto?\rI heard MAD rare homies live there.\nAnd the rent is crazy.\fI’d love to visit. Not live.</language>
 	</row>
 </body>

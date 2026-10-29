@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0522_T10R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Big League, you’ll get\ntested by the Elite Four.\fYou have to beat them all.\rIf you lose, you have to start\nall over!</language>
+		<language name="English">At the Big League, the Elite Four\ngon’ test you. You gotta beat ALL of\f’em.\rLose ONCE and you start ALL over! No\ncheckpoints! No mercy! No refunds!</language>
 	</row>
 	<row id="msg_0522_T10R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Hustlers suddenly feel\ndiscouraged and leave.\rMy ABRA can take you home.\nBut...\rTrainers just Catch Flight home\nlately... I feel left out.\fI am sure my ABRA feels the same way.</language>
+		<language name="English">Some Hustlers get scared\nand just leave.\rMy ABRA can take you home.\nBut...\rHustlers just Catch Flight home\nnowadays... I feel left out.\fMy ABRA feel the same way.</language>
 	</row>
 	<row id="msg_0522_T10R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,23 +14,23 @@
 	</row>
 	<row id="msg_0522_T10R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hold it.\rYou’re finna take the Pokémon\nLeague challenge now?\rYou’ll have to give up on that.\rMy well-trained-beyond-recognition\nPokémon are finna pound you.\rRight now, right here!\nI challenge you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Hold up.\rYou finna take on the Big\nLeague right now?\rYou gon’ gotta forget that.\rMy trained-past-recognition\nhomies finna stomp you.\rRight here, right now!\nI’m callin’ you out!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Oh, no... I still can’t\nwin after all that training...\rI...I have to believe more in my\nPokémon...\r...No big deal.\nSorry to have got in the way.\rDon’t forget to rest your Pokémon\nbefore you challenge the Kingpin!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Oh, no... I still can’t\nwin after all that trainin’...\rI...I gotta believe more in my\nhomies...\r...It’s whatever.\nMy bad for gettin’ in the way.\rDon’t forget to heal your homies\nbefore you run up on the Kingpin!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once you enter this door, you will be\nfacing one of the Elite Four.\rThey are really tough!\nYou cannot exit once you enter.\fAre you ready?\fBe courageous and go for it!\r</language>
+		<language name="English">Through this door is the Elite Four.\rThey CRAZY tough! Once you in, you\ncan’t leave. Like a timeshare pitch.\fYou ready?\fBe brave! I’ll pray! I’ll pray HARD!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once you enter this door, you will be\nfacing one of the Elite Four.\rThey are really tough!\nYou cannot exit once you enter.\fAre you ready?\fBe courageous and go for it!</language>
+		<language name="English">Through this door is the Elite Four.\rThey CRAZY tough! Once you in, you\ncan’t leave. Like a timeshare pitch.\fYou ready?\fBe brave! I’ll pray! I’ll pray HARD!</language>
 	</row>
 	<row id="msg_0522_T10R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Ranking do you want to see? {YESNO 0}</language>
+		<language name="English">Which Ranking do you wanna see? {YESNO 0}</language>
 	</row>
 	<row id="msg_0522_T10R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0522_T10R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Ranking\ndo you want to see? {YESNO 0}</language>
+		<language name="English">What kinda Ranking\ndo you wanna see? {YESNO 0}</language>
 	</row>
 	<row id="msg_0522_T10R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

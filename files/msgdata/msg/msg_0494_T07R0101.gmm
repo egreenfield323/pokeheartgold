@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0494_T07R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup! Welcome to the Celadon\nDepartment Store!\rThe directory is on the wall next to\nthe elevator.</language>
+		<language name="English">Wassup! Welcome to the Celadon Dept.\nStore!\rThe directory on the wall by the\nelevator. Or just wander. Everybody\fwander.</language>
 	</row>
 	<row id="msg_0494_T07R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This department store is part of the\nsame chain as the one in Goldenrod City.\rThey were both renovated at the\nsame time.</language>
+		<language name="English">This store part of the same chain as\nthe one in Goldenrod.\rSame stuff. Different city. Same prices.\nHigh.</language>
 	</row>
 	<row id="msg_0494_T07R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is my first time here.\nIt’s so big...\fI’m afraid I’ll get lost.</language>
+		<language name="English">This my first time here. It’s SO big...\fI’m scared I’ma get lost.\fI been here three hours.</language>
 	</row>
 	<row id="msg_0494_T07R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

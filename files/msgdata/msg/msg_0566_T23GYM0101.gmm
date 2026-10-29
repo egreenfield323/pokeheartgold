@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0566_T23GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, challenger! Bugsy made this Block.\nIt’s a huge nest\fof Bug-type Pokémon.\rBugsy’s young, but he’s a master of\nBug-type Pokémon!\rIt’s finna be tough without my\nadvice.\rLet’s see... Bug-type Pokémon don’t\nlike fire.\rFlying-type moves are super effective,\ntoo.</language>
+		<language name="English">Yo, challenger! Bugsy built this\nBlock. It’s a giant bug nest. On\fpurpose.\rThe health inspector cried.\rBugsy young, but he a Bug MASTER. You\nneed my advice.\rBugs HATE fire. And Flyin’ moves. And\nme. They hate me too.</language>
 	</row>
 	<row id="msg_0566_T23GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well done! That was a great clash\nof talented young Hustlers.\rWith people like you, the future of\nPokémon is bright!</language>
+		<language name="English">Hard! That was a great scrap\nbetween young Hustlers.\rWith y’all comin’ up, the future\nlookin’ bright. Itchy, but bright.</language>
 	</row>
 	<row id="msg_0566_T23GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town block</language>
+		<language name="English">Azalea Town Block\nWatch Your Step. Bugs.</language>
 	</row>
 	<row id="msg_0566_T23GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town block\rLeader: Bugsy\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Azalea Town Block\rBoss: Bugsy\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

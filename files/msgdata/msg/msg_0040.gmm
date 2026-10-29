@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0040_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, I’ll take your Pokémon for a few\nseconds.</language>
+		<language name="English">Aight, gimme your homies for a sec.\nDon’t look at what I’m doin’.</language>
 	</row>
 	<row id="msg_0040_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r</language>
+		<language name="English">Good looks for waitin’.\rYour homies is back to full health. No\ninsurance needed. No questions asked.\r</language>
 	</row>
 	<row id="msg_0040_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please, come back again any time!</language>
+		<language name="English">Come back anytime, baby!\nWe ALWAYS open. We never close.</language>
 	</row>
 	<row id="msg_0040_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0040_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Th-that Trainer Card!\rThat wonderful shade!\nAnd all those stars!\rI’ve seen several Hustlers with\nViolet Trainer Cards up to now...\rBut you’re the first to top them\nwith that impressive Trainer Card.\rPlease, {STRVAR_1 3, 0, 0}, may I please\nheal your Pokémon? {YESNO 0}</language>
+		<language name="English">Th-that Trainer Card!\rThat GORGEOUS shade! All them stars!\rI seen a few Hustlers with Violet\ncards...\rBut you the first one to TOP ’em. You a\nCELEBRITY in here.\rPlease, {STRVAR_1 3, 0, 0}, can I heal your\nhomies? It would be an HONOR. {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great to see you, {STRVAR_1 3, 0, 0}!\nYou want the usual, right? {YESNO 0}</language>
+		<language name="English">Ayy, {STRVAR_1 3, 0, 0}! My favorite customer!\nYou want the usual, right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will be pleased to take your\nPokémon for a few seconds.</language>
+		<language name="English">Bet. Gimme your homies real quick.\nI’ll treat ’em like VIPs.</language>
 	</row>
 	<row id="msg_0040_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for waiting.</language>
+		<language name="English">Good looks for waitin’. VIP service.</language>
 	</row>
 	<row id="msg_0040_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0040_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon may be infected with\nthe Pokérus.\rLittle is known about the Pokérus\nexcept that they are microscopic\flife-forms that attach to Pokémon.\rWhile infected, Pokémon are said to\ngrow exceptionally well.</language>
+		<language name="English">Your homies might be infected with\nPokérus.\rNobody know much about it, except it’s\nlil microscopic stuff that stick to\fhomies.\rInfected homies grow EXTRA fast. It’s\nlike steroids. But a virus.</language>
 	</row>
 	<row id="msg_0040_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is out of battle-ready\nPokémon!\r{STRVAR_1 3, 0, 0}’s vision dimmed!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} ain’t got no homies left\nstandin’!\r{STRVAR_1 3, 0, 0} got JUMPED and blacked out!</language>
 	</row>
 	<row id="msg_0040_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
@@ -85,11 +85,11 @@
 	</row>
 	<row id="msg_0040_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is already a saved game file.\nIt is impossible to save.\rPlease refer to the Instruction\nBooklet for details.\rPress Up + SELECT + B Button on\nthe title screen if you want to erase\fthe current saved game file.</language>
+		<language name="English">There is already a saved game file.\nIt is impossible to save.\rPlease refer to the Instruction\nBooklet for details.\rPress Up + SELECT + B Button on\nthe title screen if you wanna erase\fthe current saved game file.</language>
 	</row>
 	<row id="msg_0040_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving a lot of data...\nDon’t turn off the power.</language>
+		<language name="English">Saving a lotta data...\nDon’t turn off the power.</language>
 	</row>
 	<row id="msg_0040_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
@@ -149,7 +149,7 @@
 	</row>
 	<row id="msg_0040_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon Storage System\nwas accessed.\r</language>
+		<language name="English">The Pokémon Storage System\ngot accessed. Bill say wassup.\r</language>
 	</row>
 	<row id="msg_0040_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -157,11 +157,11 @@
 	</row>
 	<row id="msg_0040_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak’s words echoed...\n{STRVAR_1 3, 0, 0}! There’s a time and\fplace for everything! But not now.</language>
+		<language name="English">Oak’s words echoed... {STRVAR_1 3, 0, 0}!\nThere’s a time and place for\feverythin’! But not now. Put that\naway.</language>
 	</row>
 	<row id="msg_0040_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup!\nWhatchu need?</language>
+		<language name="English">Wassup! Whatchu need?\nWe got it. Prob’ly.</language>
 	</row>
 	<row id="msg_0040_00039" index="39">
 		<attribute name="window_context_name">garbage</attribute>
@@ -170,35 +170,35 @@
 	</row>
 	<row id="msg_0040_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! All happy and healthy!\nGood luck and take care!</language>
+		<language name="English">THERE! All happy and healthy! Good luck\nout there. Stay outta the grass.</language>
 	</row>
 	<row id="msg_0040_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: {STRVAR_1 3, 0, 0}!\nWelcome home.\rIt sounds like you had quite the\nexperience out there.\rMaybe you should take a quick\nrest so you can relax.\r...\n...</language>
+		<language name="English">Mom: {STRVAR_1 3, 0, 0}! Welcome home, baby!\rSound like you been through it out\nthere. You eatin’? You look thin.\rTake a nap and relax. Your room still\nmessy, by the way.\r... ...</language>
 	</row>
 	<row id="msg_0040_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fTrap House.\rIf you’re finna travel far away,\nthe smart Hustler stocks up on\fPotions at the Corner Store.\rMake me proud, honey!\nTake care!</language>
+		<language name="English">Mom: Oh, good! You and your homies\nlookin’ GREAT.\rOh, Professor Elm called. At 3 AM.\nAgain.\rHe said a homie’s energy is called HP.\nHit Points. Like a video game.\rIf your homies lose HP, any Trap House\nwill fix ’em up for free.\rIf you goin’ far, stock up on Hennessy\nat the Corner Store. For THEM, not\fyou.\rMake me proud, baby! Take care! Call\nyour mama!</language>
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh yes, {STRVAR_1 3, 0, 0}, your Pokémon\nwill faint if it runs out of HP.\rIf your Pokémon loses its HP, come\nhome before it faints.\rIt will be healed to full health by\ntaking a rest.\rWell, honey, make me proud!\nTake care!</language>
+		<language name="English">Mom: Oh, good! You and your homies\nlookin’ GREAT.\rOh, {STRVAR_1 3, 0, 0}, your homie faint if it run\noutta HP.\rIf your homie low on HP, come home\nbefore it pass out. I’ll make soup.\rA nap at home fix EVERYTHING.\rMake me proud, baby! Take care! Call\nyour mama!</language>
 	</row>
 	<row id="msg_0040_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, let’s get your homies\npatched up.</language>
+		<language name="English">First, let’s get your homies patched\nup. Hold still. All of y’all.</language>
 	</row>
 	<row id="msg_0040_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon have been healed\nto perfect health.</language>
+		<language name="English">Your homies healed up to PERFECT\nhealth. Like brand new. Like they never\fgot jumped.</language>
 	</row>
 	<row id="msg_0040_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please visit a Trap House when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Corner Store.\rGood luck, Hustler!</language>
+		<language name="English">Hit a Trap House when your homies’ HP\ngo down.\rIf you travelin’ far, stock up on\nHennessy at a Corner Store.\rGood luck, Hustler! Don’t die!</language>
 	</row>
 	<row id="msg_0040_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no Mail in the Mailbox.\r</language>
+		<language name="English">There’s no Mail in the Mailbox.\nJust bills. And a coupon for pizza.\r</language>
 	</row>
 	<row id="msg_0040_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
@@ -207,23 +207,23 @@
 	</row>
 	<row id="msg_0040_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not even a nibble...</language>
+		<language name="English">Not even a nibble...\nThe fish is avoidin’ you personally.</language>
 	</row>
 	<row id="msg_0040_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon got away...</language>
+		<language name="English">The homie got away...\nIt ain’t wanna be your homie.</language>
 	</row>
 	<row id="msg_0040_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reeled it in too quickly...</language>
+		<language name="English">Reeled it in too quick...\nPatience, bro. Patience.</language>
 	</row>
 	<row id="msg_0040_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Landed a Pokémon!</language>
+		<language name="English">Landed a homie! Fresh catch!</language>
 	</row>
 	<row id="msg_0040_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} survived the poisoning.\nThe poison faded away!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} survived the bad tacos.\nIts stomach settled!\r</language>
 	</row>
 	<row id="msg_0040_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
@@ -240,11 +240,11 @@
 	</row>
 	<row id="msg_0040_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be nothing here...</language>
+		<language name="English">There ain’t nothin’ here...\nJust vibes.</language>
 	</row>
 	<row id="msg_0040_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sweet scent faded for some\nreason...</language>
+		<language name="English">The sweet scent faded for some\nreason... Like my cologne.</language>
 	</row>
 	<row id="msg_0040_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -256,7 +256,7 @@
 	</row>
 	<row id="msg_0040_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t dismount your Bike here!</language>
+		<language name="English">You can’t get off your Bike here!\nThe ground is LAVA. Or somethin’.</language>
 	</row>
 	<row id="msg_0040_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -264,7 +264,7 @@
 	</row>
 	<row id="msg_0040_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} hatched from the Egg!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} hatched from the Egg!\nWelcome to the world, lil homie!</language>
 	</row>
 	<row id="msg_0040_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -272,7 +272,7 @@
 	</row>
 	<row id="msg_0040_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Repel’s effect wore off...</language>
+		<language name="English">Opp Spray wore off...\nThe opps is comin’ back.</language>
 	</row>
 	<row id="msg_0040_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
@@ -286,7 +286,7 @@
 	</row>
 	<row id="msg_0040_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m very sorry.\rWe are working underground right now.\nIt’s off-limits to the public.\rPlease try later on.</language>
+		<language name="English">My bad.\rWe workin’ underground right now.\nOff-limits. Hard hats only.\rTry later. Like, much later.</language>
 	</row>
 	<row id="msg_0040_00069" index="69">
 		<attribute name="window_context_name">garbage</attribute>
@@ -316,7 +316,7 @@
 	</row>
 	<row id="msg_0040_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“Two make matter, and three make\nspirit, shaping the world.”\r</language>
+		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“Two make matter, and three make\nspirit, shapin’ the world.”\r</language>
 	</row>
 	<row id="msg_0040_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -332,7 +332,7 @@
 	</row>
 	<row id="msg_0040_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules can’t be used because\nyou don’t have any Seals.\r</language>
+		<language name="English">Ball Capsules can’t be used ’cause\nyou don’t have any Seals.\r</language>
 	</row>
 	<row id="msg_0040_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
@@ -357,7 +357,7 @@
 	</row>
 	<row id="msg_0040_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Azure Flute is making\na sound!\rWould you like to blow into the\nAzure Flute? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}’s Azure Flute is makin’\na sound!\rWould you like to blow into the\nAzure Flute? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
@@ -365,7 +365,7 @@
 	</row>
 	<row id="msg_0040_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A glowing stairway appeared!</language>
+		<language name="English">A glowin’ stairway appeared!</language>
 	</row>
 	<row id="msg_0040_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -391,7 +391,7 @@
 	</row>
 	<row id="msg_0040_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full.\rThe Griseous Orb could not be removed,\nso you cannot enter.</language>
+		<language name="English">Your Bag is full.\rThe Griseous Orb could not be removed,\nso you can’t enter.</language>
 	</row>
 	<row id="msg_0040_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
@@ -428,11 +428,11 @@
 	</row>
 	<row id="msg_0040_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} is feeling better, so you\ndecided to take {STRVAR_1 0, 0, 0} with you!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} is feelin’ better, so you\ndecided to take {STRVAR_1 0, 0, 0} with you!\r</language>
 	</row>
 	<row id="msg_0040_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\rCan you tell me how you feel right\nbefore a match? How you feel when you\fwin or lose? What it would be\flike to be number one? {YESNO 0}</language>
+		<language name="English">AYO!\rTell me how you feel right before a\nscrap! When you win! When you lose!\fWhat it’d be like bein’ number one!\fI’m writin’ a book. {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -452,19 +452,19 @@
 	</row>
 	<row id="msg_0040_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me? You won’t say?\nThat’s too bad...</language>
+		<language name="English">’Scuse me? You won’t say? That’s too\nbad... My book gon’ be short.</language>
 	</row>
 	<row id="msg_0040_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks! Will you tell me about\nanything else? {YESNO 0}</language>
+		<language name="English">Good looks! You gon’ tell me\nanythin’ else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it! Good looks!</language>
+		<language name="English">Got it! Good looks! That’s chapter\none.</language>
 	</row>
 	<row id="msg_0040_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it! Good looks!\n{STRVAR_1 28, 0, 0}, huh...</language>
+		<language name="English">Got it! Good looks!\n{STRVAR_1 28, 0, 0}, huh... Deep. Real deep.</language>
 	</row>
 	<row id="msg_0040_00112" index="112">
 		<attribute name="window_context_name">used</attribute>

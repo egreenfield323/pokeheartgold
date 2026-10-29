@@ -1,0 +1,12 @@
+{
+  "_comment": "S.S. Aqua: the grandpa finds his granddaughter.",
+  "0": "I see. So you playin' hide-and-seek\\nwith my granddaughter.\\rAs long as she on the ship, I ain't\\nworried. Ain't nowhere to go but the ocean.",
+  "1": "Oh, wassup... My granddaughter still\\nmissin'.\\rShe got MAD energy. She probably\\nbotherin' somebody. Or the engine.",
+  "2": "Grandpa, here I am!\\rI was playin' hide-and-seek\\nwith this guy!\\r",
+  "3": "Grandpa, here I am!\\rI was playin' hide-and-seek\\nwith this girl!\\r",
+  "4": "{STRVAR_1 3, 0, 0}, was it?\\nYou kept my granddaughter busy.\\rI ain't had peace in YEARS. That was\\nthe best hour of my life.\\rTake this. You earned it.\\r",
+  "5": "{STRVAR_1 3, 0, 0}, was it?\\nYou kept my granddaughter busy.\\rI ain't had peace in YEARS. That was\\nthe best hour of my life.\\rTake this. You earned it.\\r",
+  "6": "The Fast Ship S.S. Aqua\\njust pulled up to Vermilion City.",
+  "7": "We travelin' around the world.\\nSpendin' my retirement. All of it.\\fShe chose this. I'm along for the ride.",
+  "8": "I had SO much fun!"
+}

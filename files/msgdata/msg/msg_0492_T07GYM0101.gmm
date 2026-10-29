@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="msg_0492_T07GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Wassup...\nLovely weather, ain’t it?\rIt’s so pleasant...\nI’m afraid I might doze off...\rMy name is Erika.\nI am the Leader of Celadon Block.\r...Oh? You are from Johto, you say?\fHow nice...\rOh. I’m sorry, I didn’t realize that\nyou wished to challenge me.\rI know.\rI have been training myself on\nnot only flower arrangement\fbut also Pokémon battle.\rI shall not lose.\r</language>
+		<language name="English">Erika: Wassup... Nice weather, ain’t\nit?\rIt’s so pleasant... I might doze\noff... Again...\rMy name Erika. I’m the Boss of the\nCeladon Block.\r...Oh? You from Johto?\fHow nice...\rOh. My bad, I ain’t realize you\nwanted to challenge me. I was\fasleep. With my eyes open.\rI been trainin’ in flower arrangin’\nAND homie scrappin’.\rI ain’t gon’ lose. ...Zzz... Huh?\nWhere was I?\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh!\nI concede defeat...\rYou are remarkably strong...\nI shall give you the Rainbow Chain...\r</language>
+		<language name="English">Erika: Oh! I concede...\rYou remarkably strong... I’ma give\nyou the Rainbow Chain... Then\fI’ma take a nap.\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rainbow Chain.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Rainbow Chain.</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: That was a delightful match.\nI felt inspired.\rPlease, I wish you to have this TM19\nas a special token.\rIt is IRS Audit.\nIt is a wonderful move that drains\fhalf the damage it inflicts to heal\fyour Pokémon.\rIt is indeed a horrifying move.\r</language>
+		<language name="English">Erika: That was a delightful scrap.\nI feel inspired.\rPlease take this TM19\nas a special gift.\rIt’s IRS Audit.\nIt’s a wonderful move that drain\fhalf the damage it do to heal\fyour homie.\rIt’s a horrifyin’ move, truly.\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Losing leaves a\nbitter aftertaste...\rBut knowing that there are strong\nTrainers spurs me to do better...</language>
+		<language name="English">Erika: Losin’ leave a bitter\naftertaste...\rBut knowin’ there’s strong Hustlers\nout there push me to do better...\fAfter my nap.</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City block</language>
+		<language name="English">Celadon City Block\nSmells Like Flowers. And Sleep.</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City block\rBlock Boss: Erika\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Celadon City Block\rBlock Boss: Erika\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

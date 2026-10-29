@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0550_T21_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou wanna know who I am?\n...\rI’ma be the hardest\nhustler in the whole world.\r</language>
+		<language name="English">...\rYou wanna know who I’m?\n...\rI’ma be the hardest\nhustler in the whole world.\r</language>
 	</row>
 	<row id="msg_0550_T21_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

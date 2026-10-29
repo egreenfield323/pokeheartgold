@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0513_T08FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was hoping to buy some Safari Zone\nsouvenirs, but it’s not open!\rI thought it was closed today,\nbut actually it’s gone!\rI never saw it coming.</language>
+		<language name="English">I wanted Safari Zone souvenirs, but it\nain’t open!\rI thought it was just closed today,\nbut it’s GONE! Moved! To JOHTO!\rNever saw it comin’. I came from\nHoenn.</language>
 	</row>
 	<row id="msg_0513_T08FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Safari Zone has been moved\nto Johto...\rI hear that now the son of the Warden\nis finna run Pal Park!</language>
+		<language name="English">The Safari Zone moved to Johto...\rThe Warden’s son runnin’ Pal Park\nnow. Family business. Nepotism.</language>
 	</row>
 	<row id="msg_0513_T08FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Pal Park?\rThe Safari Zone Warden’s son is\nrunning it with his wife.\rIt must run in their family to\nmanage parks.</language>
+		<language name="English">You been to Pal Park?\rThe Warden’s son run it with his wife.\nRunnin’ parks in the family.\fParks and divorce. Big family.</language>
 	</row>
 </body>

@@ -2,147 +2,147 @@
 <body language="English">
 	<row id="msg_0581_T25_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They built the new Radio Tower to\nreplace the old, creaky one.</language>
+		<language name="English">They built a new Radio Tower to replace\nthe old janky one. The old one played\fnothin’ but smooth jazz. Dark times.</language>
 	</row>
 	<row id="msg_0581_T25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited the Pokéathlon Dome?\nIt is a huge sports facility where\fPokémon compete with each other.\rIt was quite a sight!</language>
+		<language name="English">You been to the Pokéathlon Dome?\nHomies compete in sports there!\rI bet on a SLOWPOKE in the relay.\nI lost my car.</language>
 	</row>
 	<row id="msg_0581_T25_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know there’s a new Bike Shop,\nbut I can’t find it anywhere.</language>
+		<language name="English">They opened a new Bike Shop, but I\ncan’t find it ANYWHERE.\rI think it’s a front. For what?\nI don’t know. Bikes, prob’ly.</language>
 	</row>
 	<row id="msg_0581_T25_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fact that you have a Bike...\nmeans you got it from a Bike Shop,\fright?\rAll right!\nI can say that there is a Bike Shop\fsomewhere in this city!</language>
+		<language name="English">You got a Bike...\nso there IS a Bike Shop somewhere!\rI KNEW it! Nobody believed me!\nNot my wife, not my therapist!</language>
 	</row>
 	<row id="msg_0581_T25_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that man in black dressed up\nlike a The Feds member?\fHow silly!</language>
+		<language name="English">That man in black dressed up like a\nFed? That’s corny! Who dress up as a\fCOP\ffor fun?!</language>
 	</row>
 	<row id="msg_0581_T25_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Was that man in black really part\nof The Feds?\fI can’t believe it!</language>
+		<language name="English">That man in black was DEADASS a Fed?!\nI just told him about my side hustle!</language>
 	</row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.</language>
+		<language name="English">The Radio Tower is the big landmark\nin Goldenrod City.\rThey runnin’ a promo\nright now.\rThey’ll mod your Pokégear so it\nwork as a radio too.</language>
 	</row>
 	<row id="msg_0581_T25_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.\rOh, your Pokégear works as a radio!</language>
+		<language name="English">The Radio Tower is the big landmark\nin Goldenrod City.\rThey runnin’ a promo\nright now.\rThey’ll mod your Pokégear so it\nwork as a radio too.\rOh, your Pokégear already a radio!</language>
 	</row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E-he-he-he...\nI got in trouble for playing in the\fbasement of the department store.</language>
+		<language name="English">Heh heh heh... I got in trouble for\nplayin’ in the Dept.\fStore basement. I’m banned for life.\fI’m nine.</language>
 	</row>
 	<row id="msg_0581_T25_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The man at that tent rates your\nPokémon names.\rHe can even rename your Pokémon.</language>
+		<language name="English">The man in that tent rate your homies’\nnames. He roasted mine for ten\fminutes.\fI went home and cried.</language>
 	</row>
 	<row id="msg_0581_T25_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I’ll give my Pokémon hard\nnicknames as a reward if they do\fwell in the Pokéathlon.</language>
+		<language name="English">I’ma give my homies HARD nicknames if\nthey do good in the Pokéathlon.\rIf they lose, they all gettin’ named\nKevin.</language>
 	</row>
 	<row id="msg_0581_T25_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew! This is one big town.\nI don’t know where anything is.</language>
+		<language name="English">Whew! This city HUGE. I been lost for\nthree days. I live here.</language>
 	</row>
 	<row id="msg_0581_T25_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know that you can find the\nPokéathlon Dome when you take\fRoute 35 north and go past the\fleft gate...\rBut I seem to get lost every time\nI come to this town...</language>
+		<language name="English">You find the Pokéathlon Dome if you go\nnorth on Route 35 past the left\fgate...\rBut I get lost EVERY time. I started\nleavin’ bread crumbs. Birds ate ’em.</language>
 	</row>
 	<row id="msg_0581_T25_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So this is the Radio Tower...\r</language>
+		<language name="English">So THIS the Radio Tower...\nWhere Buena at? I got flowers.\r</language>
 	</row>
 	<row id="msg_0581_T25_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you want, you pest?\nScram!\r</language>
+		<language name="English">What you want, lil bro?!\nScram! This a FEDERAL op! No tourists!\r</language>
 	</row>
 	<row id="msg_0581_T25_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are you doing?\nGet to your position right away!\r</language>
+		<language name="English">What you doin’?! Get to your post! You\non the CLOCK, rookie! Sarge watchin’!\r</language>
 	</row>
 	<row id="msg_0581_T25_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon? They’re nothing more than\ntools for making bread!</language>
+		<language name="English">Homies? Them ain’t homies.\nThat’s EVIDENCE. Seize all of ’em!\fBag it and tag it!</language>
 	</row>
 	<row id="msg_0581_T25_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are on guard here.\nDon’t you worry!</language>
+		<language name="English">We on guard out here. Totally normal.\nJust some regular dudes in matchin’\fblack fits. Nothin’ to see.</language>
 	</row>
 	<row id="msg_0581_T25_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take over the Radio Tower...\rWhat? It’s none of your business!</language>
+		<language name="English">Take over the Radio Tower...\rWhat? I ain’t SAY nothin’.\nThat was off the record! Strike it!</language>
 	</row>
 	<row id="msg_0581_T25_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You look awfully young...\nAre you new?</language>
+		<language name="English">You look mad young... You the new\nintern? Where your lanyard?\fYou can’t be on a raid with no lanyard!</language>
 	</row>
 	<row id="msg_0581_T25_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, brat! You don’t belong here!\fGet lost!</language>
+		<language name="English">Ayo, brat! This area RESTRICTED!\nBeat it before I write you up AND\fcall your mama!</language>
 	</row>
 	<row id="msg_0581_T25_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, hey!\nI’ve got this covered!\rWhy don’t you go to the Radio Tower?</language>
+		<language name="English">Ayo, ayo! I got this sector covered!\rGo report to the Radio Tower.\nAnd fill out your timesheet! In PEN!</language>
 	</row>
 	<row id="msg_0581_T25_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friendship with Pokémon?\rThat makes me laugh!</language>
+		<language name="English">Bein’ homies with homies?\rHAHA! That’s soft! Put that in the\nreport, Jenkins! Underline it!</language>
 	</row>
 	<row id="msg_0581_T25_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our dream will soon come true...\nIt was such a long struggle...</language>
+		<language name="English">Our dream finna come true... Three\nyears of paperwork... Three years\fof budget meetings... It’s all worth\nit.</language>
 	</row>
 	<row id="msg_0581_T25_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you? A newcomer?\rWe’ve run out of The Feds\nuniforms.\rOne of my guys is finna get more...\rWhat’s taking him so long?\rThe studio in the tunnel is just around\nthe corner.</language>
+		<language name="English">Who you? The new guy?\rWe outta Fed uniforms, bruh.\nBudget cuts.\rOne of the boys went to grab more...\rHe took the surveillance van.\nWhat’s takin’ him so long?!\rThe studio in the tunnel is right\naround the corner. Act natural.</language>
 	</row>
 	<row id="msg_0581_T25_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For a young one like you to decide\nto become a member of The Feds...\fThat’s great, kiddo!</language>
+		<language name="English">A young one like you joinin’\nThe Feds...\fYou got DENTAL now, lil bro!</language>
 	</row>
 	<row id="msg_0581_T25_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Get out of my way!\rWe, as Block Hustlers, will never\nallow The Feds to do nasty things here\fin our city!</language>
+		<language name="English">Move!\rWe Block Hustlers ain’t gon’\nlet The Feds do dirt here\fin OUR city!</language>
 	</row>
 	<row id="msg_0581_T25_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tee hee!\rYou Block Hustlers can be a problem.\nStay in the Block and stay out of\fthe way!</language>
+		<language name="English">Tee hee!\rY’all Block Hustlers is a problem.\nStay in your Block and stay outta\four way, sweetie!</language>
 	</row>
 	<row id="msg_0581_T25_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Block Boss, Whitney, went flying by\nsaying, “I have got to\fget a Radio Card!”</language>
+		<language name="English">The Block Boss Whitney ran by yellin’\n“I GOTTA GET A RADIO CARD!”\fShe was cryin’. She always cryin’.</language>
 	</row>
 	<row id="msg_0581_T25_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wh-what are you trying to do?\nCan’t you see this hard, pitch-black\funiform I’m wearing?\rYou’re not afraid of The Feds? Huh?</language>
+		<language name="English">Wh-what you tryna do?!\nYou don’t see this pitch-black\funiform?! It’s 100% POLYESTER!\rYou ain’t scared of The Feds? Huh?!</language>
 	</row>
 	<row id="msg_0581_T25_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t appear scary enough to be a\nThe Feds member in that uniform...\fMake a scarier face and say, “Yeee!”\rAll the while, clenching your teeth!</language>
+		<language name="English">You don’t look scary enough to be\na Fed in that uniform...\fSquint and say “FREEZE!”\rClench your teeth the whole time!</language>
 	</row>
 	<row id="msg_0581_T25_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you think you’re going?\nWe are right in the middle of\fthe mission!</language>
+		<language name="English">Where you think you goin’?!\nWe in the middle of a STING!\fThis tunnel is a crime scene!</language>
 	</row>
 	<row id="msg_0581_T25_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you think you are going?\nThe Radio Tower is not here!</language>
+		<language name="English">Where you think you goin’?\nThe Radio Tower ain’t over here.\fI think. I’m new.</language>
 	</row>
 	<row id="msg_0581_T25_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The GTS lets you trade Pokémon\nall over the world!\r...Except that we have something\nmore important to do right now!</language>
+		<language name="English">The GTS let you trade homies with the\nwhole world!\r...We read ALL them trades, btw.\nRight now we busy, though!</language>
 	</row>
 	<row id="msg_0581_T25_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you love to trade so much, wait until\nthe Radio Tower mission is over.\rThen you’ll have plenty of time!</language>
+		<language name="English">You love tradin’ so much? Wait till the\nRadio Tower op done.\rThen trade all you want. We’ll be\nlistenin’. Respectfully.</language>
 	</row>
 	<row id="msg_0581_T25_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow down!\rI’m the only one who was sent here.\fDon’t give me any more trouble, OK?\r</language>
+		<language name="English">SLOW DOWN!\rI’m the ONLY one they sent here!\fUnderstaffed! No overtime pay!\fDon’t make my day worse, OK?!\r</language>
 	</row>
 	<row id="msg_0581_T25_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -150,27 +150,27 @@
 	</row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Radio Tower\rA Network Providing Johto\nwith Interesting Information</language>
+		<language name="English">Goldenrod City Radio Tower\rJohto’s Number One Source\nfor Gossip</language>
 	</row>
 	<row id="msg_0581_T25_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City block\nLeader: Whitney\fThe Incredibly Pretty Girl!</language>
+		<language name="English">Goldenrod City Block\nBoss: Whitney\fCries When She Lose. Every Time.</language>
 	</row>
 	<row id="msg_0581_T25_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City\nA Happening Big City</language>
+		<language name="English">Goldenrod City\nThe Big City. Hold Your Wallet.</language>
 	</row>
 	<row id="msg_0581_T25_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bike Shop Goldenrod Branch\nThe World is a Cycling Path!</language>
+		<language name="English">Bike Shop Goldenrod Branch\nDon’t Ask Where We Get ’Em</language>
 	</row>
 	<row id="msg_0581_T25_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Game Corner\nA Safe and Sound Playground!</language>
+		<language name="English">Goldenrod City Game Corner\nA Safe and Sound Playground! (Lie)</language>
 	</row>
 	<row id="msg_0581_T25_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Name Rater\nGet Your Pokémon Nicknames Rated</language>
+		<language name="English">Name Rater\nGet Your Homies’ Names Rated</language>
 	</row>
 	<row id="msg_0581_T25_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -182,10 +182,10 @@
 	</row>
 	<row id="msg_0581_T25_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Global Terminal\rAn Amazing and Completely\nGlobal Terminal!\n</language>
+		<language name="English">The Global Terminal\rTrade With Strangers on\nthe Internet!\n</language>
 	</row>
 	<row id="msg_0581_T25_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod Flower Shop\rA Small Shop Providing\nLots of Beauty</language>
+		<language name="English">Goldenrod Flower Shop\rA Small Shop Providing\nLots of Beauty (and Mulch)</language>
 	</row>
 </body>

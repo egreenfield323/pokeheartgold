@@ -2,82 +2,82 @@
 <body language="English">
 	<row id="msg_0612_T27_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak used to have two towers,\none in the east and one in the west.</language>
+		<language name="English">Ecruteak used to have two towers, one\neast and one west.\rNow it’s one tower and a crispy one.\nInsurance ain’t cover it.</language>
 	</row>
 	<row id="msg_0612_T27_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard that they are talking\nabout rebuilding the Burned Tower?\rThere will be two towers again!\nI’m looking forward to it!</language>
+		<language name="English">They talkin’ about rebuildin’ the Burned\nTower? Two towers again!\rThey been sayin’ that since ’87.\nCity contract. You know how it go.</language>
 	</row>
 	<row id="msg_0612_T27_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nI thought I just heard a woman\fscreaming or something...\rIs that just me?</language>
+		<language name="English">Hmm... I think I just heard a woman\nscreamin’...\rIs that just me? It’s always just me.\nMy doctor say it’s “stress.”</language>
 	</row>
 	<row id="msg_0612_T27_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls are always rehearsing their\ndances at the Dance Theater there.</language>
+		<language name="English">The Dancers ALWAYS rehearsin’ at the\nDance Theater.\rI watched for six hours. I’m not a\ncreep. I’m a fan. There’s a difference.</language>
 	</row>
 	<row id="msg_0612_T27_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m finna rehearse at the\nDance Theater. Care to join me?</language>
+		<language name="English">I’m finna rehearse at the Dance\nTheater. Wanna come? I do interpretive\fdance.\fI interpret bills I can’t pay.</language>
 	</row>
 	<row id="msg_0612_T27_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The tower that used to be here...\nI heard that it used to be much taller\fbefore it was burned by a fire.</language>
+		<language name="English">The tower that used to be here...\nIt was WAY taller before it burned.\rNow it’s a fixer-upper. Big time.</language>
 	</row>
 	<row id="msg_0612_T27_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Three big Pokémon ran off in different\ndirections. What were they?</language>
+		<language name="English">Three big homies ran off in three\ndifferent directions!\rWhat WAS that?! Like a family reunion\nwhen the check come.</language>
 	</row>
 	<row id="msg_0612_T27_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that they will start the\nconstruction work to rebuild this\ftower soon!</language>
+		<language name="English">They gon’ start rebuildin’ this tower\nSOON! Any year now. Any decade.</language>
 	</row>
 	<row id="msg_0612_T27_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nThat’s a nice Pokémon you’re walking\fwith! They make you feel uplifted,\fdon’t they?\rThey give us the hope of the light,\nso to speak.\rSpeaking of the light, I heard something\nabout the Lighthouse in Olivine.\rThe Pokémon that serves as the\nbeacon has fallen ill.\fSounds like it’s in trouble.</language>
+		<language name="English">Oh! That’s a nice homie you walkin’\nwith! They lift you up, don’t they?\rLike a light in the dark.\rSpeakin’ of lights, the Lighthouse homie\nin Olivine got sick.\fNow the boats crashin’. Shipping\fdelayed. My package LATE.</language>
 	</row>
 	<row id="msg_0612_T27_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon at that Lighthouse in\nOlivine has fully recovered.\rI heard that boats can safely sail out\nto sea at night again.</language>
+		<language name="English">The Lighthouse homie in Olivine all\nbetter!\rBoats sailin’ at night again.\nMy package FINALLY came. It’s socks.</language>
 	</row>
 	<row id="msg_0612_T27_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go west from this city, you’ll\nreach a port called Olivine City.\rWhen your Pokémon learns Hydrant Wave,\nyou can go out to the ocean from\fRoute 40 without a ship!</language>
+		<language name="English">Go west from this city and you\nhit a port called Olivine City.\rWhen your homie learn Hydrant Wave,\nyou can hit the ocean from\fRoute 40 without no boat!</language>
 	</row>
 	<row id="msg_0612_T27_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City\nA Historical City</language>
+		<language name="English">Ecruteak City\nOld Town. Older Heads.</language>
 	</row>
 	<row id="msg_0612_T27_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City block\nLeader: Morty\fThe Mystic Seer of the Future</language>
+		<language name="English">Ecruteak City Block\nBoss: Morty\fSees the Future. Still Late Though.</language>
 	</row>
 	<row id="msg_0612_T27_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak Dance Theater</language>
+		<language name="English">Ecruteak Dance Theater\nNo Twerking</language>
 	</row>
 	<row id="msg_0612_T27_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Burned Tower\nIt was destroyed by a mysterious fire.\rPlease stay away, as it is unsafe.</language>
+		<language name="English">Burned Tower\nDestroyed by a mysterious fire.\rStay away, it’s unsafe.\nWe mean it this time.</language>
 	</row>
 	<row id="msg_0612_T27_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Barrier Station to Bell Tower\nNo Trespassing by the Unworthy</language>
+		<language name="English">Barrier Station to Bell Tower\nNo Trespassin’ for the Unworthy</language>
 	</row>
 	<row id="msg_0612_T27_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Thud!!</language>
+		<language name="English">{SIZE 200}BONK!!</language>
 	</row>
 	<row id="msg_0612_T27_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: How...? How is this\npossible? How can I lose to\fmere Kimono Girls...?\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: How...? How is this\npossible? How I lose to\fsome DANCERS...?\r</language>
 	</row>
 	<row id="msg_0612_T27_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: You were watching me,\n{STRVAR_1 3, 0, 0}...\rYeah, that’s right!\rI never thought defeating five Kimono\nGirls would be so hard...\rI got beaten to a pulp...\r...\rYou must have come here for the same\nreason, right?\rDon’t get cocky just because you\ndefeated The Feds!\rThese Kimono Girls are insanely strong.\rGo ahead! See if you can defeat them.\rBut I’m not going back.\nI don’t want to see you win.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: You was watchin’ me,\n{STRVAR_1 3, 0, 0}...\rYeah, that’s right!\rI never thought beatin’ five\nDancers would be this hard...\rThey beat me into the ground...\r...\rYou here for the same reason,\nright?\rDon’t get cocky just ’cause you\nbeat The Feds!\rThese Dancers is CRAZY strong.\rGo ahead! See if you can beat ’em.\rBut I ain’t goin’ back in there.\nI don’t wanna watch you win.\r</language>
 	</row>
 	<row id="msg_0612_T27_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the distant past...\rWhen this tower burned in a fire,\nthree nameless Pokémon perished in it.\rThen, a rainbow-hued Pokémon\ndescended from the sky and\fsomehow brought them back...\rThe people were afraid of power such as\nthe rainbow-hued Pokémon had shown.\rThey tried to control it by force.\rThe nameless Pokémon made no attempt\nto fight back. Instead, their\fgreat sorrow compelled them to leave.\rThis legend has been passed down\nby the Ecruteak Block Boss. Me?\rI was a Hustler way back when.\nHo ho ho!</language>
+		<language name="English">Way back in the day...\rWhen this tower burned down,\nthree nameless homies died in it.\rThen a rainbow-colored homie\ncame down from the sky and\fsomehow brought ’em back...\rPeople got scared of power like\nwhat that rainbow homie showed.\rThey tried to control it by force.\rThe nameless homies ain’t\nfight back. Instead, they was\fso sad they just left.\rThe Ecruteak Block Boss been\npassin’ down this legend. Me?\rI was a Hustler way back when.\nHo ho ho!</language>
 	</row>
 </body>

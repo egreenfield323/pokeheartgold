@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0604_T26_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou again?\rThere’s no need to be alert.\nI don’t bother with wimps like you.\rSpeaking of weaklings, the city’s\nBlock Boss ain’t here, and\fis supposedly taking care of a\fsick Pokémon at the Lighthouse.\rHumph! Boo-hoo!\nJust let sick Pokémon go!\rA Pokémon that can’t battle\nis worthless!\rWhy don’t you go train at\nthe Lighthouse?\rWho knows? It may make you a bit\nof a better Hustler!\r</language>
+		<language name="English">...\rYou again?\rRelax.\nI don’t waste time on scrubs.\rSpeakin’ of weak, the city’s\nBlock Boss ain’t here, and\fsupposedly she babysittin’ a\fsick homie at the Lighthouse.\rHmph! Boo-hoo!\nJust let sick homies go!\rA homie that can’t scrap\nis worthless!\rWhy don’t you go train at\nthe Lighthouse?\rWho knows? It might make you a lil\nbetter of a Hustler!\r</language>
 	</row>
 	<row id="msg_0604_T26_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark roads are dangerous at night.\rBut, in the pitch-black night,\nthe sea is even more treacherous!\rWithout the beacon of the Lighthouse\nto guide her, no ship can sail.</language>
+		<language name="English">Dark roads dangerous at night.\rBut a pitch-black night on the SEA?\nWorse. Way worse.\rWithout the Lighthouse, no boat sail.\nThat Lighthouse carryin’ this whole\feconomy.</language>
 	</row>
 	<row id="msg_0604_T26_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have--\nit’s a Pokégear, right?\fWow, that’s hard.</language>
+		<language name="English">That thing you got--a Pokégear,\nright? Sheesh, that’s hard.\rI still got a flip phone. It flip.</language>
 	</row>
 	<row id="msg_0604_T26_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you have a Pokémon!\nThat is just so awesome.</language>
+		<language name="English">Sheesh, you got a HOMIE!\nThat’s so hard. I got a goldfish.\fHe don’t scrap.</language>
 	</row>
 	<row id="msg_0604_T26_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You, young Hustler!\nThe sea is sweet!\rSing with me!\fThe sea is blue!\nThe sea is salty!</language>
+		<language name="English">You, young Hustler!\nThe SEA is SWEET!\rSING WITH ME!\fTHE SEA IS BLUE!\nTHE SEA IS SALTY! LIKE ME!\fLIKE MY DIVORCE!</language>
 	</row>
 	<row id="msg_0604_T26_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City\nThe Port with Sea Breezes</language>
+		<language name="English">Olivine City\nThe Port. Smells Like Fish.</language>
 	</row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,10 +30,10 @@
 	</row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City block\nLeader: Jasmine\fThe Steel-Clad Defense Girl</language>
+		<language name="English">Olivine City Block\nBoss: Jasmine\fThe Steel-Clad Defense Girl</language>
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine’s Lighthouse\rIt is also known as\nthe Glitter Lighthouse.</language>
+		<language name="English">Olivine’s Lighthouse\rThey Call It\nthe Glitter Lighthouse.</language>
 	</row>
 </body>

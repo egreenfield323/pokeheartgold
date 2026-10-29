@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0446_T01_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m raising Pokémon, too.\nThey serve as my private guards.</language>
+		<language name="English">I’m raisin’ homies too. They my\nprivate security. I pay ’em\fin Takis.</language>
 	</row>
 	<row id="msg_0446_T01_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Technology is incredible!\rYou can now trade Pokémon\noverseas like email.</language>
+		<language name="English">Technology is CRAZY!\rYou can trade homies overseas\nlike email now. I still print my\femails.</language>
 	</row>
 	<row id="msg_0446_T01_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pallet Town\nA Pure White Beginning</language>
+		<language name="English">Pallet Town\nWhere It All Started. Quiet.</language>
 	</row>
 	<row id="msg_0446_T01_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

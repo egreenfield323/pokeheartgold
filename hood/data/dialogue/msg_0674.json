@@ -1,0 +1,14 @@
+{
+  "_comment": "Phone: Huey (sailor).",
+  "1": "Dope! That's the first time I lost in\\na minute!\\rAyo, gimme your number.\\rYou'd be fun to scrap, so I'll call\\nyou when I get stronger! {YESNO 0}",
+  "2": "Ayo, let's scrap again!",
+  "3": "Look like you soft...",
+  "4": "Ayo, gimme your number.\\rYou'd be fun to scrap, so I'll call\\nyou when I get stronger! {YESNO 0}",
+  "5": "Man! You tough as ever!\\rI scrapped you over and over, but\\n{STRVAR_1 3, 0, 0}, I ain't won ONCE.\\rI copped tons of items to toughen up\\nmy homies, but it ain't work...\\rItems alone ain't the answer.\\nThat must be it...\\rHere, take this, {STRVAR_1 3, 0, 0}.\\nI ain't gon' need it no more...\\r",
+  "6": "Sheesh, when you call from inside the\\nLighthouse, your voice kinda\\fechoes. It's hard!",
+  "7": "How your homies doin'?\\nMine a lil TOO energetic.\\r{STRVAR_1 0, 10, 0}, especially.\\rEvery time it see a Hustler, it just\\ncharge straight into a scrap!\\rIt's a lot for me!\\nLater!",
+  "8": "My {STRVAR_1 0, 10, 0} lookin' tougher\\nthan ever.\\rIt look tougher than ME!\\nLater!",
+  "9": "Ayo, I challenge you to a scrap!\\nIt ain't gon' be like last time!\\r{STRVAR_1 4, 3, 0} is where I'm waitin'\\nfor you. Get over here pronto!",
+  "10": "Ayo, you better not forgot\\nabout our scrap!\\r{STRVAR_1 4, 3, 0}!\\nHurry up! I'm waitin'!",
+  "11": "We gotta scrap again sometime.\\nBet I'm finna keep\\fchallengin' you till I win."
+}

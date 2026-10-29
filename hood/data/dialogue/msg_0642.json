@@ -1,0 +1,6 @@
+{
+  "_comment": "Phone: Bike Shop (gives you the Stolen Bike for keeps).",
+  "1": "{STRVAR_1 3, 0, 0}...is that you?\\rYou somethin' else, ain't you?",
+  "2": "{STRVAR_1 3, 0, 0}...is that you?\\rYou somethin' else, ain't you?",
+  "3": "Ayo, this the Bike Shop! I been\\nsellin' a LOT of Bikes lately!\\rIt's 'cause you been ridin' around\\non that Bike advertisin' for me!\\rI was thinkin' how to say good\\nlooks, so I figured I'd just give you\\fthat Bike you been ridin' around on.\\rIt's yours! Don't ask where it's from!"
+}

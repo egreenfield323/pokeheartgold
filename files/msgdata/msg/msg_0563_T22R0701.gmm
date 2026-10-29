@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0563_T22R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately, nobody been comin’\nthrough from Goldenrod. Weird.</language>
+		<language name="English">Ain’t NOBODY comin’ through from\nGoldenrod lately. Somethin’\ffishy.\fProb’ly the government.</language>
 	</row>
 	<row id="msg_0563_T22R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It been busy lately, ’cause\nmad people comin’ through\ffrom Goldenrod and Ecruteak!</language>
+		<language name="English">Mad people comin’ through from\nGoldenrod and Ecruteak!\rI charge ’em a dollar to walk\nthrough. It ain’t legal but they\fpay.</language>
 	</row>
 	<row id="msg_0563_T22R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plants is alive too!\nThey wanna get up and move\faround sometimes!</language>
+		<language name="English">Plants is alive too! They wanna\nget up and move around\fsometimes!\rI talk to mine every day. They\ndon’t talk back. Rude.</language>
 	</row>
 </body>

@@ -2,39 +2,39 @@
 <body language="English">
 	<row id="msg_0601_T25R1202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why? It’s not fair!\nWhy are there only shots of Pokémon?\rWhy ain’t there any shots of ladies?\nI call discrimination!</language>
+		<language name="English">Why? It ain’t fair!\nWhy is it only pics of homies?\rWhy ain’t there no pics of ladies?\nThis discrimination!</language>
 	</row>
 	<row id="msg_0601_T25R1202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Climbing the mountain to enjoy\nits great view is one thing...\rBut sneaking a peek at other people’s\nPC Boxes fills me with a guilty glee.</language>
+		<language name="English">Climbin’ a mountain for the\nview is one thing...\rBut peekin’ at other people’s\nPC Boxes gimme a guilty thrill.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nAbout my PC Box, I mean.\rIt’s full of Pokémon everyone longs\nfor, like...\r...No, it would be immodest for me to\nsay. It would sound like bragging.\rIf you really must know, you can always\nfind out yourself.</language>
+		<language name="English">You know?\nAbout my PC Box, I mean.\rIt’s full of homies everybody\nwant, like...\r...Nah, I ain’t gon’ say. It’d\nsound like I’m braggin’.\rIf you REALLY gotta know, you can\nfind out yourself.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I visit every day to check on other\npeople’s Dress-Up Data.\rFor me, it’s like the first step to\nfashion!</language>
+		<language name="English">I come every day to check on other\npeople’s Dress-Up Data.\rFor me, it’s the first step to\nfashion! Drip research.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, dear me! Gracious!\nThis is almost scandalous!</language>
+		<language name="English">Oh, my! Good gracious!\nThis almost scandalous!</language>
 	</row>
 	<row id="msg_0601_T25R1202_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For combinations of Pokémon and\nAccessories, you can get ideas from\fothers by observing what they do.</language>
+		<language name="English">For homie and Accessory combos,\nyou can get ideas from\fothers by watchin’ what they do.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same kind of Accessory can create\nentirely different impressions.\rIt really depends on where and how\nit’s used.</language>
+		<language name="English">The same Accessory can give\ntotally different vibes.\rIt deadass depend on where and how\nyou use it.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I won a Backdrop drawing for\nAccessories in the Goldenrod Tunnel.</language>
+		<language name="English">I won a Backdrop drawin’ for\nAccessories in the Goldenrod Tunnel.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What I like to do...\rI like sneaking glances at the people\nchecking out Dress-Up Data.</language>
+		<language name="English">What I like to do...\rI like peepin’ the people\ncheckin’ out Dress-Up Data.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0601_T25R1202_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may post the Dress-Up Data\nof your Pokémon.\rThe Dress-Up Data can be set up and\nsaved in the Goldenrod Tunnel.\rThe Dress-Up Data posted by other\nTrainers may also be viewed here.\rThe data may be sorted by Pokémon\nfor convenient viewing.\r</language>
+		<language name="English">Here, you can post the Dress-Up Data\nof your homies.\rYou can set up and save Dress-Up\nData in the Goldenrod Tunnel.\rYou can also peep Dress-Up Data\nother Hustlers posted.\rYou can sort the data by homie\nto make it easy to browse.\r</language>
 	</row>
 	<row id="msg_0601_T25R1202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0601_T25R1202_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may post the Box Data\ncontaining your Pokémon.\rChoose a wallpaper, then place your\nPokémon on it to compose your scene.\rWhen you are done, post it for other\nTrainers to see.\rThe Box Data posted by other Hustlers\nmay also be viewed here.\r</language>
+		<language name="English">Here, you can post Box Data\nwith your homies in it.\rPick a wallpaper, then put your\nhomies on it to set the scene.\rWhen you done, post it for other\nHustlers to see.\rYou can also peep Box Data other\nHustlers posted.\r</language>
 	</row>
 	<row id="msg_0601_T25R1202_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

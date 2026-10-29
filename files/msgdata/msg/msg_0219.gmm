@@ -183,7 +183,7 @@
 	</row>
 	<row id="msg_0219_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nYou ready?\rYour come-up story is\nabout to start.\rGood times, bad times,\nthere’s so much waitin’ on you!\rDreams! Hustle! *SNIFF*\nLet’s go run the world of Pokémon!\rI’ll see you later! Don’t tell your\nmama what I was wearin’!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\nYou ready?\rYour come-up story is\n’bout to start.\rGood times, bad times,\nthere’s so much waitin’ on you!\rDreams! Hustle! *SNIFF*\nLet’s go run the world of Pokémon!\rI’ll see you later! Don’t tell your\nmama what I was wearin’!\r</language>
 	</row>
 	<row id="msg_0219_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

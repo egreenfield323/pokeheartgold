@@ -1,0 +1,22 @@
+{
+  "_comment": "Fuchsia block: Janine and her army of Janine cosplayers.",
+  "0": "Fufufufu... Sorry to disappoint you...\\rJust playin'! I'm the REAL one!\\rJanine of Fuchsia Block, that's me!\\nMy dad Koga taught me everything!\\fHe's a NINJA!\\r",
+  "1": "Janine: I see... You beat Koga, my DAD and\\na member of the Elite Four, to get here.\\rNo wonder you strong!\\rYou won... Here's the Soul Chain.\\nDon't tell my dad.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Soul Chain from Janine!",
+  "3": "Janine: You so tough!\\nI got a special gift!\\rIt's Dirty Shiv, a strong Poison-type\\nmove that might poison 'em.\\r",
+  "4": "Janine: I'ma DEADASS apply myself and get\\nbetter.\\rI wanna be WAY better than my dad AND you!\\nMostly my dad! He gloat!",
+  "5": "Yo, future legend!\\nWhoops! Look around you.\\rEvery Hustler in here dressed like the Block\\nBoss, Janine. It's a whole cult.\\rWhich one is the REAL Janine?",
+  "6": "That was a GREAT scrap, Hustler from Johto!\\nYou found the real one! Most don't.",
+  "7": "Fooled you!\\nHahaha!\\r",
+  "8": "Well? Wasn't my disguise perfect?",
+  "9": "Wahahaha!\\rYou bet! I'm Janine!\\r",
+  "10": "That's right, I'm a BOY!\\nWhat's wrong with a boy dressin' up as\\fJanine?! It's freedom of expression!",
+  "11": "Fufufu!\\rI'm Janine, the Block Boss!\\fWait, no I ain't! Gotcha!\\r",
+  "12": "Fooled you!\\nHahaha!\\r",
+  "13": "It's SO fun dressin' up as Janine, our idol!\\nI do it on weekends too.",
+  "14": "I'm Janine!\\nHow'd you know I was real?\\fLet's scrap!\\r",
+  "15": "...Or not!\\r",
+  "16": "I feel STRONGER dressed as Janine.\\nIt's the wig. The wig got power.",
+  "17": "Fuchsia City Block\\nWhich Janine Is Real? (Not That One)",
+  "18": "Fuchsia City Block\\rBoss: Janine\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

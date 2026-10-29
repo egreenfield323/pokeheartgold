@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0628_T29R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ain’t no way you just walked in\nhere like you pay rent!\rThe Lake of Rage is actually a crater\nmade by rampaging GYARADOS.\rThe crater filled up with rainwater,\nand the lake was formed.\rThat’s the story passed on from my\ngrandpa’s great-great-grandpa.\rIt used to be that you could catch\nlively MAGIKARP there, but...\rI don’t understand what’s happening.</language>
+		<language name="English">The Lake of Rage is DEADASS a crater\nfrom GYARADOS wildin’ out.\rRain filled it up, and BOOM, a lake.\rThat’s the story from my grandpa’s\ngreat-great-grandpa. He was there.\rYou used to catch lively MAGIKARP\nthere, but now...\rSomethin’ ain’t right.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lake of Rage hasn’t been normal\nsince those men wearing black arrived.</language>
+		<language name="English">The Lake of Rage ain’t been right\nsince them men in black showed up.\rSunglasses at night. Who DOES that?</language>
 	</row>
 	<row id="msg_0628_T29R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lake of Rage is back to normal.\nThe MAGIKARP have returned.\rI may yet achieve my dream of seeing\nthe world’s largest MAGIKARP.\rDo you have a Rod?\nPlease help me if you do.</language>
+		<language name="English">The Lake of Rage back to normal! The\nMAGIKARP came back!\rI might still see the WORLD’S BIGGEST\nMAGIKARP. My life dream. It’s a small\fdream.\rYou got a Rod? Help a old man out.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, you have a MAGIKARP!\nLet’s see how big that baby is.\r</language>
+		<language name="English">Ah, you got a MAGIKARP!\nLet’s see how big that baby is.\r</language>
 	</row>
 	<row id="msg_0628_T29R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\nA MAGIKARP of {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\rWow! This one is outstanding!\nI tip my hat to you!\rTake this as a memento!\r</language>
+		<language name="English">{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} INCHES!\nA MAGIKARP of {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\rSHEESH! This one is CRAZY! I’m cryin’!\nI tip my hat! My whole hat!\rTake this to remember it!\r</language>
 	</row>
 	<row id="msg_0628_T29R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The record is the important thing.\nThink of that as a bonus!</language>
+		<language name="English">The record is what matters.\nThat’s just a bonus!</language>
 	</row>
 	<row id="msg_0628_T29R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\rThat’s wonderful!\n...Or not.\fI’ve seen a MAGIKARP\fof the same size before.</language>
+		<language name="English">{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches!\rThat’s wonderful!\n...Or not.\fI seen a bigger one. In my dreams.\fBut still.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This MAGIKARP is {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches.\rBut I’ve already seen a MAGIKARP that\nwas {STRVAR_1 52, 2, 0}.{STRVAR_1 50, 3, 0} inches.</language>
+		<language name="English">This MAGIKARP is {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches.\rBut I already seen a MAGIKARP that\nwas {STRVAR_1 52, 2, 0}.{STRVAR_1 50, 3, 0} inches.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? That’s not a MAGIKARP!</language>
+		<language name="English">WHAT? That ain’t a MAGIKARP!\nI’m old, not BLIND!</language>
 	</row>
 	<row id="msg_0628_T29R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Your Bag is too full!\nNothing will fit...</language>
+		<language name="English">...Your Bag too full!\nNothin’ gon’ fit...</language>
 	</row>
 	<row id="msg_0628_T29R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... So you didn’t get one good\nenough to show me?\fMaybe next time.</language>
+		<language name="English">Oh... So you ain’t got a big one?\fMaybe next time. Maybe never.\fI’m old, I can wait.</language>
 	</row>
 </body>

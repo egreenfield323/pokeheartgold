@@ -1,0 +1,8 @@
+{
+  "_comment": "Viridian Forest: Bugsy on vacation.",
+  "0": "Bugsy: I came to Kanto lookin' for Bug\\nhomies! Kanto bugs hit DIFFERENT!\\rAyo, why don't we swap numbers?\\nI'll tell you about bugs. All day. {YESNO 0}",
+  "1": "{STRVAR_1 3, 0, 0} saved Bugsy's number\\nin the Pokégear!",
+  "2": "Bugsy: We can scrap around lunch\\non Thursdays!\\fHit me up!",
+  "3": "Bugsy: Oh, well... That's OK...\\nI'll just tell the bugs instead.",
+  "4": "Bugsy: You gon' give me your phone\\nnumber? {YESNO 0}"
+}

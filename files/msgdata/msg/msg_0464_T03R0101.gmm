@@ -2,71 +2,71 @@
 <body language="English">
 	<row id="msg_0464_T03R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rJust to let you know, all the large\nspecimens have been taken to the\fother museums for display.\rSo for now, admission is free\nof charge!\rPlease go ahead.</language>
+		<language name="English">Welcome!\rJust so you know, all the big exhibits\ngot sent to OTHER museums.\rSo admission is free!\n’cause there’s nothin’ here! Go ’head.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that you can\nextract Pokémon from Fossils?\rIf you ever need to, let me take care\nof it for you!\r</language>
+		<language name="English">You know you can get homies outta\nFossils? Jurassic Park style!\rIf you ever need it, lemme handle it!\nWhat could go wrong?\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come by again if you ever want to\nextract Pokémon.</language>
+		<language name="English">Come back anytime you wanna\nget homies outta Fossils.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll extract it for you.\rCome back after a while!</language>
+		<language name="English">I’ll get it out for you.\rCome back in a while!</language>
 	</row>
 	<row id="msg_0464_T03R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, there!\rI have extracted a Pokémon from\nyour Fossil!\rIt is called {STRVAR_1 0, 0, 0}.\nTake good care of it!\r</language>
+		<language name="English">Ayo!\rI got a homie outta\nyour Fossil!\rIt’s called {STRVAR_1 0, 0, 0}.\nTake good care of it!\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oops!\nYour party seems full.\rWhy don’t you go to the PC\nto make room for it?</language>
+		<language name="English">Oops!\nYour crew look full.\rWhy don’t you hit the PC\nto make room for it?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\nYou don’t have any Fossils.\rI heard that sometimes you find Fossils\nwhen you smash rocks at the\fRuins of Alph and other places.</language>
+		<language name="English">Ayo! You ain’t got no Fossils.\rYou find ’em smashin’ rocks at the Ruins\nof Alph and stuff. Bring a hammer.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to extract a Pokémon\nfrom the {STRVAR_1 8, 0, 0}? {YESNO 0}</language>
+		<language name="English">Wanna get a homie outta\nthe {STRVAR_1 8, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0464_T03R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe {STRVAR_1 0, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe {STRVAR_1 0, 1, 0}!</language>
 	</row>
 	<row id="msg_0464_T03R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname\nto the {STRVAR_1 0, 1, 0} you received? {YESNO 0}</language>
+		<language name="English">Wanna give a nickname\nto the {STRVAR_1 0, 1, 0} you got? {YESNO 0}</language>
 	</row>
 	<row id="msg_0464_T03R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that meteorites struck\nsomewhere near Pewter City.\rWe would love to display them here\nin our museum, but...\rThese meteorites are said to\nemit strange energy and cannot\fbe carried away...</language>
+		<language name="English">They say meteorites hit near Pewter\nCity.\rWe’d LOVE to show ’em here, but...\rThey give off weird energy and can’t be\nmoved. We tried. Two interns quit.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are two places that I love!\nOne is the Ruins of Alph in Johto...\rThe other is the Pewter Museum!\nIt’s so quiet and makes me feel calm.\rDo you feel its admirable history\nsilently creeping up on you?</language>
+		<language name="English">There’s two places I love! The Ruins of\nAlph in Johto...\rAnd the Pewter Museum! So quiet and\ncalm. ’cause there’s nothin’ in it.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should be grateful for my long life.\rNever did I think I would get to\nsee the bones of a dragon!</language>
+		<language name="English">I’m grateful for my long life.\rI never thought I’d see the bones of a\ndragon! Before my OWN bones went out.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">..................\rAll those shining stars at night are\nthe stones I’ll never get to know...</language>
+		<language name="English">..................\rAll them shinin’ stars at night is\nstones I’ll never get to know... I’m a\frock nerd.\fIt’s lonely.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: People who dedicate themselves\nto what they believe stand out in\fa crowd.\rBut, my passion is no less than yours.\r</language>
+		<language name="English">Steven: People who dedicate themselves\nto what they believe stand out in a\fcrowd.\rI’m dedicated to ROCKS. My passion just\nas big as yours.\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh!\nThe thing you have...\r</language>
+		<language name="English">Sheesh!\nThat thing you got...\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This stone is...so mysterious!\rSomething seems to be shining inside...\nThe stone is modest...yet hiding\fsomething wonderful!\rYou should have it studied\nby experts.\r</language>
+		<language name="English">This stone is...so mysterious!\rSomethin’ shinin’ inside it...\nThe stone humble...but hidin’\fsomethin’ wonderful!\rYou shoulda experts\nstudy it.\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,50 +74,50 @@
 	</row>
 	<row id="msg_0464_T03R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will check it.\nCan you hold on a second?\r</language>
+		<language name="English">I’ma check it.\nHold on a sec?\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for your patience!\nIt took me a little while,\fbut I have confirmed it!\rThis is an Orb that contains\nwhat is called {COLOR 2}Soul Dew{COLOR 0}.\r</language>
+		<language name="English">Good looks for waitin’!\nIt took a minute,\fbut I confirmed it!\rThis a Orb that hold\nwhat they call {COLOR 2}Soul Dew{COLOR 0}.\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Soul Dew is no ordinary thing\nand is rarely seen.\fI would love to study it closely.</language>
+		<language name="English">Soul Dew ain’t no regular thing\nand it’s rare to see.\fI’d love to study it close.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: Soul Dew is said to be the\nsolidified spirits of LATIAS and LATIOS.\rIt has the power to bring out the\ntrue potential of LATIAS and LATIOS.\rThe spirits of these Pokémon and\nSoul Dew are said to call out to\feach other...\rThe only thing that puzzles me is\nthe place Soul Dew was found.\fWhy Kanto?\r</language>
+		<language name="English">Steven: They say Soul Dew is the\nhardened spirits of LATIAS and LATIOS.\rIt got the power to bring out the\ntrue potential of LATIAS and LATIOS.\rThe spirits of those homies and\nSoul Dew supposedly call out to\feach other...\rOnly thing that puzzle me is\nwhere the Soul Dew got found.\fWhy Kanto?\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stringy and winding...\nIs this a plant Fossil?</language>
+		<language name="English">Stringy and twisty...\nIs this a plant Fossil?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a curving, sharp Fossil.\nThis may be...\fthe Fossil of a carnivore?</language>
+		<language name="English">It’s a curved, sharp Fossil.\nThis might be...\fthe Fossil of a meat-eater?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s flat and looks hard.\nThis may be...\fa part that protected its body?</language>
+		<language name="English">It’s flat and look hard.\nThis might be...\fa part that protected its body?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solid amber tree sap has\nsomething inside!\rIf you can take it out, you can\nextract a Pokémon from\fancient times...?</language>
+		<language name="English">Hard amber tree sap with\nsomethin’ inside!\rIf you can get it out, you can\nget a homie from\fancient times...?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Small bones are put together to form\nsome kind of a Pokémon!</language>
+		<language name="English">Lil bones put together into\nsome kinda homie!</language>
 	</row>
 	<row id="msg_0464_T03R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The rough stone has words etched\ninto it...\r“This is an unidentified object\nfound at Mt. Moon. It is possibly a\fmoon rock.”</language>
+		<language name="English">The rough stone got words carved\ninto it...\r“This a unknown object\nfound at Mt. Moon. Might be a\fmoon rock.”</language>
 	</row>
 	<row id="msg_0464_T03R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are thick and well-read books!\r“The Principles of Fossil Extraction”\f“Archaeology Manual”\f“Lost Pokémon”\f“Pokémon Ancestors”\f“Friendships of Hustlers and Pokémon”\f“Caring at the Loamy Layer of Kanto”</language>
+		<language name="English">Thick, well-read books!\r“The Principles of Fossil Extraction”\f“Archaeology Manual”\f“Lost Pokémon”\f“Pokémon Ancestors”\f“Friendships of Hustlers and Pokémon”\f“Caring at the Loamy Layer of Kanto”</language>
 	</row>
 	<row id="msg_0464_T03R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our museum mainly displays\nFossils and specimens from Kanto.\rPlease enjoy the extinct Pokémon\nthrough their remembrance, and\fstep through time to the ancient world.</language>
+		<language name="English">Our museum mostly show\nFossils and specimens from Kanto.\rEnjoy the extinct homies\nthrough their remains, and\fstep back into the ancient world.</language>
 	</row>
 </body>

@@ -1,0 +1,17 @@
+{
+  "_comment": "S.S. Aqua deck. The dramatic crewman, Sabrina.",
+  "0": "AIGHT! You the last passenger!\\nWe was about to leave you!\\r",
+  "1": "Huh? This ship don't look like it's\\nmovin' anytime soon. Captain asleep.",
+  "2": "If I make it back safe and step foot in\\nOlivine, will you move in with me?!\\rPLEASE! I'm BEGGIN' you!\\nI'll do the dishes!",
+  "3": "He work on a PARTY boat.\\fHe say that to everybody. Every trip.\\r",
+  "4": "Sabrina: Outta nowhere... I felt like\\nseein' the ocean... I already knew you'd\\fbe here.\\rIt might be fun to swap numbers...\\nYou want mine? You do. I know. {YESNO 0}",
+  "5": "{STRVAR_1 3, 0, 0} saved Sabrina's number\\nin the Pokégear!",
+  "6": "Sabrina: I keep my promises if you call\\non Sundays around noon.\\fI already know you will. 12:03.",
+  "7": "Sabrina: I see...\\nI thought you'd make a good homie.\\fI was wrong. That NEVER happen.",
+  "8": "Sabrina: Now you want\\nmy number?\\fI can see it in your eyes... {YESNO 0}",
+  "9": "Sabrina: It's you...\\rHow 'bout a pic here\\nin this nice sea breeze? {YESNO 0}",
+  "10": "Sabrina: You ready?\\r",
+  "11": "Sabrina: I think it look good.\\nI knew it would.",
+  "12": "Sabrina: I see...\\nI thought you'd make a good\\fpic...",
+  "13": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics."
+}

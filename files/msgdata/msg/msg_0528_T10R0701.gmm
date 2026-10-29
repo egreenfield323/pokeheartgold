@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0528_T10R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: It’s been a long time since I\nlast came here.\rThis is where we commemorate the\nLeague Champions for all eternity.\rTheir courageous Pokémon are\nalso inducted.\rHere today, we witnessed the rise\nof a new League Kingpin--\ra Hustler who feels compassion for,\nand trust toward, all Pokémon.\rA Hustler who succeeded through\nperseverance and determination.\rThe new League Kingpin who has\nall the makings of greatness!\r{STRVAR_1 3, 0, 0}, allow me to register you\nand your partners as Champions!\r</language>
+		<language name="English">Lance: *cape flutters\ndramatically* It’s been a long time\fsince I came in here.\rThis the HALL OF FAME. Where we\nhonor the League Kingpins FOREVER.\rTheir brave homies get inducted\ntoo. The confetti cannon is extra.\rToday, we witnessed the RISE of a\nnew Kingpin--\ra Hustler with love and trust for\nevery single homie.\rA Hustler who made it on PURE grind\nand PURE determination.\rThe new Kingpin with ALL the makings\nof GREATNESS! *single tear*\r{STRVAR_1 3, 0, 0}, lemme register you and\nyour homies as KINGPINS! FOREVER!\f*cape flutters*\r</language>
 	</row>
 	<row id="msg_0528_T10R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: It’s been a long time since I\nlast came here.\rThis is where we commemorate the\nLeague Champions for all eternity.\rTheir courageous Pokémon are\nalso inducted.\rHere today, we witnessed the rise\nof a new League Kingpin--\ra Hustler who feels compassion for,\nand trust toward, all Pokémon.\rA Hustler who succeeded through\nperseverance and determination.\rThe new League Kingpin who has\nall the makings of greatness!\r{STRVAR_1 3, 0, 0}, allow me to register you\nand your partners as Champions!\r</language>
+		<language name="English">Lance: *cape flutters\ndramatically* It’s been a long time\fsince I came in here.\rThis the HALL OF FAME. Where we\nhonor the League Kingpins FOREVER.\rTheir brave homies get inducted\ntoo. The confetti cannon is extra.\rToday, we witnessed the RISE of a\nnew Kingpin--\ra Hustler with love and trust for\nevery single homie.\rA Hustler who made it on PURE grind\nand PURE determination.\rThe new Kingpin with ALL the makings\nof GREATNESS! *single tear*\r{STRVAR_1 3, 0, 0}, lemme register you and\nyour homies as KINGPINS! FOREVER!\f*cape flutters*\r</language>
 	</row>
 </body>

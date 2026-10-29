@@ -2,51 +2,51 @@
 <body language="English">
 	<row id="msg_0611_T26R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You!\nHow is your Pokémon training\fcoming along?\rHave you ever noticed that in the\nmountains, sometimes there are round\fboulders right in your way...?\rYou can move them with the\nhidden move Muscle!\rHikers at Mt. Mortar sometimes have\nextra, or so I’ve heard...</language>
+		<language name="English">You! How your homie trainin’ comin’?\rYou ever notice big round boulders in\nthe mountains right in your way?\rMove ’em with Muscle!\rOld Heads at Mt. Mortar got extra,\nor so I heard. They got everythin’.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gobble...gobble...\r...Choke!\nAck... I’m choking!\rWhew! That was close.\nI should chew before I swallow my food.</language>
+		<language name="English">*gobble*...*gobble*...\r...*CHOKE*!\nAck... I’m chokin’! HELP!\rWhew! That was close.\nI should chew. Nah. I’m good.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I roll into Olivine, I always\nvisit the Olivine Café.\rEverything on the menu makes me feel\nstronger. I can’t stop eating!</language>
+		<language name="English">Whenever I roll through Olivine, I HIT\nthe Olivine Café.\rEverything on the menu make me feel\nSTRONGER. I’m on my ninth plate.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine Café’s menu is chock-full\nof hearty fare for beefy Sailors!</language>
+		<language name="English">The Olivine Café menu is BIG plates for\nBIG Dock Workers!\rI’m a accountant. I’m still eatin’ ’em.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Ayo!\n...!\rThese empty dishes in front of me\nare not all mine...\rEr...\rActually, the person who sat here\nahead of me ate a lot...\rAnyway, do you want to exchange\nphone numbers? {YESNO 0}</language>
+		<language name="English">Jasmine: AYO!\n...!\rThese... these empty plates ain’t\nall mine...\rEr...\rThe person who sat here before me\nate a LOT...\rAnyway, wanna swap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Jasmine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Jasmine’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Now we can contact each\nother anytime.\rI should be able to battle you around\nnoon on Wednesdays.\fI’ll be waiting for your call!</language>
+		<language name="English">Jasmine: Now we can hit each other up\nanytime.\rI can scrap around noon on\nWednesdays.\fRight after lunch. My SECOND lunch.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh... I understand...</language>
+		<language name="English">Jasmine: Oh... I understand...\nI’ll just eat my feelings.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Did you change your mind?\nWill you exchange numbers? {YESNO 0}</language>
+		<language name="English">Jasmine: You change your mind?\nWanna swap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: We seem to...bump into each\nother often.\rWhy don’t we take a picture\nto make this a memory? {YESNO 0}</language>
+		<language name="English">Jasmine: We seem to...run into each\nother a lot.\rWhy don’t we take a pic\nto remember it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Are you ready?\r</language>
+		<language name="English">Jasmine: You ready?\r</language>
 	</row>
 	<row id="msg_0611_T26R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: You did a fine job.\nWe look good.</language>
+		<language name="English">Jasmine: You did good. We look nice.\nThere’s food in my teeth, ain’t it?</language>
 	</row>
 	<row id="msg_0611_T26R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,6 +54,6 @@
 	</row>
 	<row id="msg_0611_T26R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC to delete\nsome pictures.</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.</language>
 	</row>
 </body>

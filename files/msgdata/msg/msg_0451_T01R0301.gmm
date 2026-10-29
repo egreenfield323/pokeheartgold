@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0451_T01R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Hustlers\nout here?\fPretty tough, huh?\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}! *sniff*\nGood of you to come all this way!\rWhat you think of the Kanto Hustlers?\nTough, huh? We built different over\fhere.\fPants optional.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}!\nIt’s good of you to come all this way\fto Kanto.\rWhat do you think of the Hustlers\nout here?\fPretty tough, huh?\r</language>
+		<language name="English">Professor Oak: Ah, {STRVAR_1 3, 0, 0}! *sniff*\nGood of you to come all this way!\rWhat you think of the Kanto Hustlers?\nTough, huh? We built different over\fhere.\fPants optional.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,79 +15,79 @@
 	</row>
 	<row id="msg_0451_T01R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re in the area, I hope you\ncome visit again.</language>
+		<language name="English">If you in the area, come visit again.\nKnock first. I’m usually... relaxed.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You never cease to amaze me!\rYour having completed the National\nPokédex far exceeded my expectations!\rMeeting you is something l will cherish\nall my life long!\r</language>
+		<language name="English">You never stop amazin’ me!\rYou finished the National\nPokédex? That’s WAY past what I hoped!\rMeetin’ you is somethin’ I’ma\ncherish my whole life!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You never cease to amaze me!\rYour having completed the National\nPokédex far exceeded my expectations!\rMeeting you is something l will cherish\nall my life long!\r</language>
+		<language name="English">You never stop amazin’ me!\rYou finished the National\nPokédex? That’s WAY past what I hoped!\rMeetin’ you is somethin’ I’ma\ncherish my whole life!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Those Chains are...\rWow! You have not only become the\nJohto Kingpin, but you’ve collected\fall the Kanto Chains! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
+		<language name="English">Professor Oak: Those Chains is...\rSheesh! You ain’t just the\nJohto Kingpin, you got\fall the Kanto Chains too! Well done!\rHmm... No wonder I sensed somethin’\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ma set it up so you can\ngo to Mt. Silver.\rMt. Silver a big mountain that’s\nhome to mad wild homies.\rIt’s too dangerous for your average\nHustler, so it’s off limits.\rBut we can make a exception for\nyou, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can get to Mt. Silver from there.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Those Chains are...\rWow! You have not only become the\nJohto Kingpin, but you’ve collected\fall the Kanto Chains! Well done!\rHmm... No wonder I sensed something\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ll make arrangements so that you can\ngo to Mt. Silver.\rMt. Silver is a big mountain that is\nhome to many wild Pokémon.\rIt’s too dangerous for your average\nTrainer, so it’s off limits.\rBut we can make an exception in your\ncase, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can reach Mt. Silver from there.</language>
+		<language name="English">Professor Oak: Those Chains is...\rSheesh! You ain’t just the\nJohto Kingpin, you got\fall the Kanto Chains too! Well done!\rHmm... No wonder I sensed somethin’\nin you when we met.\rTell you what, {STRVAR_1 3, 0, 0}.\rI’ma set it up so you can\ngo to Mt. Silver.\rMt. Silver a big mountain that’s\nhome to mad wild homies.\rIt’s too dangerous for your average\nHustler, so it’s off limits.\rBut we can make a exception for\nyou, {STRVAR_1 3, 0, 0}.\rGo to the Big League\nReception Gate.\rYou can get to Mt. Silver from there.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hmm? You’re not\ncollecting Kanto Block Chains?\rThe Block Bosses in Kanto are as tough\nas any you battled in Johto.\fI recommend that you challenge them.\r</language>
+		<language name="English">Professor Oak: Hmm? You ain’t\ncollectin’ Kanto Block Chains?\rKanto’s Block Bosses is just as tough\nas the ones in Johto.\fI recommend you challenge ’em.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Block Chains.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, you collectin’\nKanto Block Chains.\rI bet it’s hard, but the\nexperience gon’ help you.\rCome see me when you got ’em all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Ah, you’re collecting\nKanto Block Chains.\rI imagine that it’s hard, but the\nexperience will surely help you.\rCome see me when you get them all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Ah, you collectin’\nKanto Block Chains.\rI bet it’s hard, but the\nexperience gon’ help you.\rCome see me when you got ’em all.\nI’ll have a gift for you.\fKeep it up, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Oh, {STRVAR_1 3, 0, 0}!\nWhat brought you here?\r</language>
+		<language name="English">Professor Oak: Oh, {STRVAR_1 3, 0, 0}!\nWhat brings you here?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Oh, {STRVAR_1 3, 0, 0}!\nWhat brought you here?\r</language>
+		<language name="English">Professor Oak: Oh, {STRVAR_1 3, 0, 0}!\nWhat brings you here?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: The legendary Pokémon\nthat appear in the Hoenn myth?\rYou must be talking about KYOGRE\nand GROUDON!\r</language>
+		<language name="English">Professor Oak: The legendary homies\nfrom the Hoenn myth?\rYou must be talkin’ about KYOGRE\nand GROUDON!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: The Embedded Tower is\nprobably the ruins that has something\fto do with the Hoenn myth.\fIf so, the other one must be around.\rKYOGRE and GROUDON are said to have\nshaped the seas and lands!\rWhere those two are, the other Pokémon\nis said to appear as well...\fAll this is quite possible!\r</language>
+		<language name="English">Professor Oak: The Embedded Tower is\nprob’ly the ruins that got somethin’\fto do with the Hoenn myth.\fIf so, the other one gotta be around.\rThey say KYOGRE and GROUDON\nshaped the seas and the land!\rWhere those two at, the other homie\nsupposed to show up too...\fAll this is real possible!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It’s not hard to imagine\nthat the Red Orb will make GROUDON\fappear at the Embedded Tower...\rHowever, according to Mr. Pokémon,\nGROUDON does not show itself to\fTrainers with golden hearts, but only\fto those with shining-silver spirits.\rIt may be difficult for you alone to\naccomplish this, {STRVAR_1 3, 0, 0}.\rBut if you manage to obtain a GROUDON\nthat came from the Embedded Tower,\rplease do come and show me both\nlegendary Pokémon!\rI will then share with you the rest of\nthe Hoenn myth!\r</language>
+		<language name="English">Professor Oak: Easy to imagine the\nRed Orb gon’ make GROUDON\fshow up at the Embedded Tower...\rBut accordin’ to Mr. Pokémon,\nGROUDON don’t show itself to\fHustlers with golden hearts, only\fto ones with shinin’-silver spirits.\rIt might be hard for you alone to\npull this off, {STRVAR_1 3, 0, 0}.\rBut if you get a GROUDON\nfrom the Embedded Tower,\rcome show me both\nlegendary homies!\rThen I’ll tell you the rest of\nthe Hoenn myth!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It’s not hard to imagine\nthat the Red Orb will make GROUDON\fappear at the Embedded Tower...\rHowever, according to Mr. Pokémon,\nGROUDON does not show itself to\fTrainers with golden hearts, but only\fto those with shining-silver spirits.\rIt may be difficult for you alone to\naccomplish this, {STRVAR_1 3, 0, 0}.\rBut if you manage to obtain a GROUDON\nthat came from the Embedded Tower,\rplease do come and show me both\nlegendary Pokémon!\rI will then share with you the rest of\nthe Hoenn myth!\r</language>
+		<language name="English">Professor Oak: Easy to imagine the\nRed Orb gon’ make GROUDON\fshow up at the Embedded Tower...\rBut accordin’ to Mr. Pokémon,\nGROUDON don’t show itself to\fHustlers with golden hearts, only\fto ones with shinin’-silver spirits.\rIt might be hard for you alone to\npull this off, {STRVAR_1 3, 0, 0}.\rBut if you get a GROUDON\nfrom the Embedded Tower,\rcome show me both\nlegendary homies!\rThen I’ll tell you the rest of\nthe Hoenn myth!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It’s not hard to imagine\nthat the Blue Orb will make KYOGRE\fappear at the Embedded Tower...\rHowever, according to Mr. Pokémon,\nKYOGRE does not show itself to\fTrainers with shining-silver spirits,\fbut only to those with golden hearts.\rIt may be difficult for you alone to\naccomplish this, {STRVAR_1 3, 0, 0}.\rBut if you manage to obtain a KYOGRE\nthat came from the Embedded Tower,\rplease do come and show me both\nlegendary Pokémon!\rI will then share with you the rest\nof the Hoenn myth!\r</language>
+		<language name="English">Professor Oak: Easy to imagine the\nBlue Orb gon’ make KYOGRE\fshow up at the Embedded Tower...\rBut accordin’ to Mr. Pokémon,\nKYOGRE don’t show itself to\fHustlers with shinin’-silver spirits,\fonly to ones with golden hearts.\rIt might be hard for you alone to\npull this off, {STRVAR_1 3, 0, 0}.\rBut if you get a KYOGRE\nfrom the Embedded Tower,\rcome show me both\nlegendary homies!\rThen I’ll tell you the rest\nof the Hoenn myth!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It’s not hard to imagine\nthat the Blue Orb will make KYOGRE\fappear at the Embedded Tower...\rHowever, according to Mr. Pokémon,\nKYOGRE does not show itself to\fTrainers with shining-silver spirits,\fbut only to those with golden hearts.\rIt may be difficult for you alone to\naccomplish this, {STRVAR_1 3, 0, 0}.\rBut if you manage to obtain a KYOGRE\nthat came from the Embedded Tower,\rplease do come and show me both\nlegendary Pokémon!\rI will then share with you the rest\nof the Hoenn myth!\r</language>
+		<language name="English">Professor Oak: Easy to imagine the\nBlue Orb gon’ make KYOGRE\fshow up at the Embedded Tower...\rBut accordin’ to Mr. Pokémon,\nKYOGRE don’t show itself to\fHustlers with shinin’-silver spirits,\fonly to ones with golden hearts.\rIt might be hard for you alone to\npull this off, {STRVAR_1 3, 0, 0}.\rBut if you get a KYOGRE\nfrom the Embedded Tower,\rcome show me both\nlegendary homies!\rThen I’ll tell you the rest\nof the Hoenn myth!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You did it,\n{STRVAR_1 3, 0, 0}!\fYou caught both KYOGRE and GROUDON!\fOK!\fI would like to entrust this to you!\r</language>
+		<language name="English">Professor Oak: You did it,\n{STRVAR_1 3, 0, 0}!\fYou caught KYOGRE AND GROUDON!\fAight!\fI wanna trust you with this!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You did it,\n{STRVAR_1 3, 0, 0}!\fYou caught both KYOGRE and GROUDON!\fOK!\fI would like to entrust this to you!\r</language>
+		<language name="English">Professor Oak: You did it,\n{STRVAR_1 3, 0, 0}!\fYou caught KYOGRE AND GROUDON!\fAight!\fI wanna trust you with this!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It resembles the Orb\nyou received from Mr. Pokémon,\fdoesn’t it?\rIt is called the Jade Orb.\nIt has something to do with RAYQUAZA.\rLegend has it that the battle\nbetween GROUDON and KYOGRE\fshaped the lands and seas of Hoenn.\rVolcanic eruptions and giant waves are\nsaid to have completely changed the\fshape of the land there.\rBut then RAYQUAZA came down to\nhalt the battle.\rIt is a Pokémon that rules the skies!\rIf the Embedded Tower is related to\nKYOGRE and GROUDON,\rthen going there with that Jade Orb\nwill surely make something happen.\r</language>
+		<language name="English">Professor Oak: It look like the Orb\nyou got from Mr. Pokémon,\fdon’t it?\rIt’s called the Jade Orb.\nIt got somethin’ to do with RAYQUAZA.\rLegend say the beef\nbetween GROUDON and KYOGRE\fshaped the land and seas of Hoenn.\rVolcanoes and giant waves\nsupposedly changed the\fwhole shape of the land.\rBut then RAYQUAZA came down to\nbreak up the fight.\rIt’s a homie that run the skies!\rIf the Embedded Tower is tied to\nKYOGRE and GROUDON,\rthen goin’ there with that Jade Orb\ngon’ make somethin’ happen.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -95,15 +95,15 @@
 	</row>
 	<row id="msg_0451_T01R0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You have successfully\ncaught RAYQUAZA!\rThe strong power of the Jade Orb\nmust have attracted RAYQUAZA there!\rPokémon are sometimes greatly\nattracted by certain Orbs and Stones.\fNo one knows why.\rPerhaps memories from ancient times...\fwhen this planet was born...\fand Pokémon, also...\fare making Pokémon behave that way.\r</language>
+		<language name="English">Professor Oak: You caught\nRAYQUAZA!\rThe power of the Jade Orb\nmusta pulled RAYQUAZA there!\rHomies sometimes get real\nattracted to certain Orbs and Stones.\fNobody know why.\rMaybe memories from ancient times...\fwhen this planet was born...\fand homies too...\fmake homies act that way.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of homies never end.\rIt’s pure joy to work toward\nperfection!\rBy the way...\rHmm? Those homies!\fThey was at the Embedded Tower?\rThat’s KYOGRE and GROUDON--\nthe homies from the Hoenn myth!\rI never dreamed you’d catch\nhomies like that...\rYou proved yourself worthy!\nCongrats!\rI wanna trust you with this,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of Pokémon never ends.\rIt is such pure joy to work toward\nperfection!\rBy the way...\rHmm? Those Pokémon!\fThey were at the Embedded Tower?\rThey are KYOGRE and GROUDON--\nthe Pokémon from the Hoenn myth!\rI never dreamed you would catch\nsuch Pokémon...\rYou have proven yourself worthy!\nCongratulations!\rI would like to entrust this to you,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}!\nThe study of homies never end.\rIt’s pure joy to work toward\nperfection!\rBy the way...\rHmm? Those homies!\fThey was at the Embedded Tower?\rThat’s KYOGRE and GROUDON--\nthe homies from the Hoenn myth!\rI never dreamed you’d catch\nhomies like that...\rYou proved yourself worthy!\nCongrats!\rI wanna trust you with this,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -116,122 +116,122 @@
 	</row>
 	<row id="msg_0451_T01R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Say!\nDon’t you want to take a picture\fwith me for a change? {YESNO 0}</language>
+		<language name="English">Professor Oak: Say!\nWanna take a pic\fwith me for a change? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You will? Good!\nAre you ready?\r</language>
+		<language name="English">Professor Oak: You will? Good!\nYou ready?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Yes!\nIt’s a good memento!</language>
+		<language name="English">Professor Oak: Yes!\nThat’s a good memory!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Really?\nThere is no need to be reserved...</language>
+		<language name="English">Professor Oak: For real?\nNo need to be shy...</language>
 	</row>
 	<row id="msg_0451_T01R0301_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.\n</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.\n</language>
 	</row>
 	<row id="msg_0451_T01R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Professor’s Pokémon Talk\nradio show is aired here and\fin Johto as well.\rProfessor Oak is so...hard!</language>
+		<language name="English">The Professor’s Homie Talk radio show\nair here AND in Johto.\rProfessor Oak is SO...HARD! He just\ndon’t wear pants. Nobody perfect.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, thanks to your work on\nthe Pokédex, the Professor’s\fresearch is coming along well.</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, thanks to your Pokédex work,\nthe Professor’s research goin’ GREAT.\rHe even bought a new lab coat. Still no\npants.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you are {STRVAR_1 3, 0, 0}?\r...Just between you and me,\nThe Professor’s show, Pokémon Talk,\fis not live radio!</language>
+		<language name="English">So you {STRVAR_1 3, 0, 0}?\r...Just between us, the Professor’s\nshow, Homie Talk, ain’t live! It’s\fprerecorded!\fHe record it in his bathrobe.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many books.\nMost of the covers are worn out.</language>
+		<language name="English">MAD books. Most covers beat up.\nOne say “Advanced Pantless Living.”</language>
 	</row>
 	<row id="msg_0451_T01R0301_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s an email message on the PC.\r...\rHi, Professor Oak!\nHow is your research coming along?\rI’m...doing fine.\rI heard that {STRVAR_1 3, 0, 0} is getting\nquite a reputation.\rThat’s what we hear on the grapevine.\nI’m delighted to hear that.\f           Elm in New Bark Town 8-)</language>
+		<language name="English">There’s a email on the PC.\r...\rAyo, Professor Oak!\nHow your research comin’?\rI’m...doin’ fine. Barely sleepin’.\rI heard {STRVAR_1 3, 0, 0} gettin’\nquite a reputation.\rThat’s what we hear through the\ngrapevine. I’m hype to hear it.\f           Elm in New Bark Town 8-)</language>
 	</row>
 	<row id="msg_0451_T01R0301_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s an email message on the PC.\r...\rHi, Professor Oak!\nHow is your research coming along?\rI’m...doing fine.\rI heard that {STRVAR_1 3, 0, 0} is getting\nquite a reputation.\rThat’s what we hear on the grapevine.\nI’m delighted to hear that.\f           Elm in New Bark Town 8-)</language>
+		<language name="English">There’s a email on the PC.\r...\rAyo, Professor Oak!\nHow your research comin’?\rI’m...doin’ fine. Barely sleepin’.\rI heard {STRVAR_1 3, 0, 0} gettin’\nquite a reputation.\rThat’s what we hear through the\ngrapevine. I’m hype to hear it.\f           Elm in New Bark Town 8-)</language>
 	</row>
 	<row id="msg_0451_T01R0301_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex gotta be close\nto done?\rFor all your hard work,\nI wanna give you somethin’.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex must be close\nto complete?\rFor all your hard work,\nI would like to give you something.\r</language>
+		<language name="English">Professor Oak: Wassup, {STRVAR_1 3, 0, 0}.\nGood to see you.\fI heard a lot about you.\rYour Pokédex gotta be close\nto done?\rFor all your hard work,\nI wanna give you somethin’.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Haha!\rWhat’s behind me...\nYou must have figured it out right away.\rYes, it is a Pokémon!\r</language>
+		<language name="English">Professor Oak: Haha!\rWhat’s behind me...\nYou musta figured it out already.\rYes, it’s a homie!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You don’t see them\nvery often in Kanto.\fChoose one and it’ll be yours!\r...Go ahead!</language>
+		<language name="English">Professor Oak: You don’t see these\nmuch in Kanto.\fPick one and it’s yours!\r...Go ’head!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re claiming the\nFire Pokémon CHARMANDER? {YESNO 0}</language>
+		<language name="English">So you claimin’ the\nFire homie CHARMANDER? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’ve decided on the\nWater Pokémon SQUIRTLE? {YESNO 0}</language>
+		<language name="English">So you decided on the\nWater homie SQUIRTLE? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you want to go with\nthe Grass Pokémon BULBASAUR? {YESNO 0}</language>
+		<language name="English">So you goin’ with\nthe Grass homie BULBASAUR? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is really quite energetic!\r</language>
+		<language name="English">This homie got MAD energy!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No need to hurry.\nTake your time.</language>
+		<language name="English">No rush.\nTake your time.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the\n{STRVAR_1 0, 1, 0} from Professor Oak!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got the\n{STRVAR_1 0, 1, 0} from Professor Oak!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname to\nthe {STRVAR_1 0, 1, 0} you received? {YESNO 0}</language>
+		<language name="English">Wanna give a nickname to\nthe {STRVAR_1 0, 1, 0} you got? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is {STRVAR_1 1, 1, 0} the nickname\nyou want to give? {YESNO 0}</language>
+		<language name="English">Is {STRVAR_1 1, 1, 0} the nickname\nyou want? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nYou have no room for it right now.\rCome back when you’ve made room.</language>
+		<language name="English">Huh?\nYou ain’t got room for it right now.\rCome back when you made room.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: If a wild Pokémon\nappears, your Pokémon can battle it.\rWith it at your side, you should be able\nto reach the next town...\rWhat am I saying?\nYou already know all this!\fHahaha!</language>
+		<language name="English">Professor Oak: If a wild homie\nshow up, your homie can scrap it.\rWith it by your side, you should\nmake it to the next town...\rWhat am I sayin’?\nYou already know all this!\fHahaha!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: There is nothing more\nthat I can do for you.\rEnjoy the rest of your journey\nwith that new Pokémon!</language>
+		<language name="English">Professor Oak: Ain’t nothin’ else\nI can do for you.\rEnjoy the rest of your journey\nwith that new homie!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Professor Oak’s Pokémon.\n{STRVAR_1 3, 1, 0} will probably not\fsteal it like before...</language>
+		<language name="English">This Professor Oak’s homie.\r{STRVAR_1 3, 1, 0} PROBABLY won’t steal it like\nlast time... We got a lock now. And a\fdog.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Good to see you!\nThis is what I’ve wanted to\fgive to you!\r</language>
+		<language name="English">Professor Oak: Good to see you!\nThis what I been wantin’ to\fgive you!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: That Hidden Machine\ncontains the move Wall Climb!\rWhen you teach it to a Pokémon,\nyou can go up rock walls that have\fsteps carved in them.\r</language>
+		<language name="English">Professor Oak: That Hidden Machine\ngot the move Wall Climb!\rWhen you teach it to a homie,\nyou can climb rock walls that got\fsteps carved in ’em.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you use Wall Climb,\nyou can go up rock walls that have\fsteps carved in them.\rYou will discover all sorts\nof new things!</language>
+		<language name="English">When you use Wall Climb,\nyou can climb rock walls that got\fsteps carved in ’em.\rYou gon’ discover all kinds\nof new stuff!</language>
 	</row>
 </body>

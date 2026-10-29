@@ -1,0 +1,8 @@
+{
+  "_comment": "Burned Tower 1F. The rival, Eusine (SUICUNE's #1 stalker), Morty.",
+  "0": "{STRVAR_1 3, 0, 0}: ..................\\r......Oh, it's you.\\rYou here to catch the legendary homie\\nso you look hard?\\rThat's a pipe dream.\\rThe legendary homie belong to somebody\\nlike me who swore to be the strongest.\\rScrappin' Fed Agents is more your speed.\\nGo write a parking ticket.\\r",
+  "1": "{STRVAR_1 3, 0, 0}: ...Aw, whatever.\\rYou could never catch a\\nlegendary homie anyway.\\r",
+  "2": "Eusine: My name is Eusine.\\nI'm on the trail of SUICUNE.\\rAnd you...?\\n{STRVAR_1 3, 0, 0}? Charmed. Don't touch my cape.\\rI heard SUICUNE was here, so I came.\\nI follow it EVERYWHERE.\\rIt's down in the basement right now.\\nI could go down there...\\rBut it run off every time. I tried\\nfifty times. I got a restraining order.",
+  "3": "Eusine: There's more to you than meet\\nthe eye... SUICUNE noticed. I'm jealous.",
+  "4": "Morty: My name is Morty. Ecruteak's\\nBlock Boss. I see ghosts. Professionally.\\rMy old homie Eusine chasin' SUICUNE,\\nso I came to keep him out of trouble.\\rEcruteak got a legend: SUICUNE, ENTEI,\\nand RAIKOU.\\rAs Block Boss, I gotta understand it.\\nAlso Eusine owe me money."
+}

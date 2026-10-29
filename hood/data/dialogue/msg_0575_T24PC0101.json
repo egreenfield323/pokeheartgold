@@ -1,0 +1,10 @@
+{
+  "_comment": "Cianwood Trap House. The free TENTACOOL.",
+  "0": "You met the weirdo in this city?\\rHe ALWAYS braggin' about his rare\\nhomies. He showed me his PC Box\\ffor two hours. I cried.",
+  "1": "You can't help showin' off your homies,\\nright?\\rI wanna show mine to my homie in Violet.\\nHe ain't answerin'. He blocked me.",
+  "2": "The homies at this Block is ROUGH.\\rThey'd blow me away in a second.\\fLemme give you some advice.\\rThe Block Boss run Fightin' homies.\\nPsychic homies mess 'em up.\\rOr just hit 'em first. That's\\nmy whole life philosophy.\\rAlso, Chuck can't hear you under\\nthe waterfall. Turn it off. He hate that.",
+  "3": "{STRVAR_1 3, 0, 0}! You WON, didn't you?\\nYour face tellin' me. It's smug.",
+  "4": "Huh? You only got...ONE homie?\\nThat's sad. That's real sad.\\r...\\rI know! I'll give you a TENTACOOL!\\rI caught WAY too many. My bathtub full.\\nTake it! Go 'head!\\r",
+  "5": "{STRVAR_1 3, 0, 0} got\\nthe TENTACOOL!",
+  "6": "Wanna give a nickname to\\nthe TENTACOOL? {YESNO 0}"
+}

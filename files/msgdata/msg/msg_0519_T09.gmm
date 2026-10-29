@@ -2,67 +2,67 @@
 <body language="English">
 	<row id="msg_0519_T09_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\rMy name’s Blue.\nI was once the Kanto Kingpin.\rAlthough it was short-lived thanks\nto Red...\fAnyway, take a good look around you...\r</language>
+		<language name="English">Who you?\rMy name Blue.\nI used to be the Kanto Kingpin.\rIt lasted like a hour, thanks to Red...\fDon’t bring it up.\fAnyway, look around...\r</language>
 	</row>
 	<row id="msg_0519_T09_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: A volcano erupts, and just\nlike that, a whole town disappears.\rWe can go on winning and losing in\nPokémon, but if nature so much as\ftwitches, we can be overwhelmed\fin a second...\rThat’s the way it is...\nBut, anyway, I’m still a Hustler.\rIf I see a strong opponent, it makes me\nwant to battle.\r</language>
+		<language name="English">Blue: A volcano erupt, and just like\nthat, a whole town GONE.\rWe can win and lose with homies all\nday, but if nature even SNEEZE, we\fwiped out.\rThat’s life... But I’m still a Hustler.\rIf I see a strong opponent, I wanna\nscrap. Even in the ashes. Dramatic,\fright?\r</language>
 	</row>
 	<row id="msg_0519_T09_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\ncome to the Viridian Block.\r</language>
+		<language name="English">If you wanna scrap me...for real,\ncome to the Viridian Block.\r</language>
 	</row>
 	<row id="msg_0519_T09_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting for you!\r</language>
+		<language name="English">I’ll be waitin’ on you!\r</language>
 	</row>
 	<row id="msg_0519_T09_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\nshow me how many Kanto Chains\fyou’ve got.\r...\n{STRVAR_1 50, 0, 0}...\rYou’re not ready to battle me...</language>
+		<language name="English">If you wanna scrap me...for real,\nshow me how many Kanto Chains\fyou got.\r...\n{STRVAR_1 50, 0, 0}...\rYou ain’t ready to scrap me...</language>
 	</row>
 	<row id="msg_0519_T09_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: You are quite something!\nYou defeated Red!?\fThat’s great!\rLet’s take a picture together! {YESNO 0}</language>
+		<language name="English">Blue: You somethin’ ELSE!\nYou beat RED?!\fThat’s CRAZY! He beat ME!\rLet’s take a pic! For my wall! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: All right!\r</language>
+		<language name="English">Blue: Aight!\r</language>
 	</row>
 	<row id="msg_0519_T09_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Good looks for the nice picture!</language>
+		<language name="English">Blue: Good looks for the nice pic!</language>
 	</row>
 	<row id="msg_0519_T09_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Oh, well...</language>
+		<language name="English">Blue: Oh, well... Smell ya later.</language>
 	</row>
 	<row id="msg_0519_T09_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.</language>
 	</row>
 	<row id="msg_0519_T09_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Block!\rWhy not exchange numbers! {YESNO 0}</language>
+		<language name="English">Blaine: I ain’t givin’ up till the day\nI rebuild the Cinnabar Block!\rIn a cave. With a hammer.\rWhy not swap numbers?! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Blaine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Blaine’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0519_T09_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hmmm...\nWe should be able to battle\fon Tuesday evenings!</language>
+		<language name="English">Blaine: Hmmm...\nWe can scrap\fon Tuesday evenings!</language>
 	</row>
 	<row id="msg_0519_T09_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh...how disappointing!</language>
+		<language name="English">Blaine: Oh... how DISAPPOINTIN’!\nLike my insurance company!</language>
 	</row>
 	<row id="msg_0519_T09_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Do we want to exchange\nnumbers? {YESNO 0}</language>
+		<language name="English">Blaine: We swappin’\nnumbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, it is you!\nSay, do you want to take a picture\fwith me right here? {YESNO 0}</language>
+		<language name="English">Blaine: Oh, it’s YOU!\nSay, take a pic with me right here!\fIn front of the volcano that ruined my\flife! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,22 +70,22 @@
 	</row>
 	<row id="msg_0519_T09_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, this is a good picture!</language>
+		<language name="English">Blaine: Oh, this a GOOD pic! The ruins\ndeadass bring out my mustache.</language>
 	</row>
 	<row id="msg_0519_T09_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Noooo!</language>
+		<language name="English">Blaine: NOOOOO!</language>
 	</row>
 	<row id="msg_0519_T09_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC to delete\nsome pictures.</language>
+		<language name="English">Your Photo Album full.\rGo on your PC to delete\nsome pics.</language>
 	</row>
 	<row id="msg_0519_T09_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a notice here...\rThe Cinnabar Block has relocated\nto Seafoam Islands.\f           Blaine</language>
+		<language name="English">There’s a notice here...\rThe Cinnabar Block moved\nto Seafoam Islands.\f           Blaine</language>
 	</row>
 	<row id="msg_0519_T09_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Island\nThe Ravaged Town of the Past</language>
+		<language name="English">Cinnabar Island The Town That Got\nWrecked. By a Volcano.</language>
 	</row>
 </body>

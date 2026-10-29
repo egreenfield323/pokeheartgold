@@ -1,0 +1,12 @@
+{
+  "_comment": "Lavender Name Rater (another professional hater).",
+  "0": "WASSUP, WASSUP! I'm the official Name\\nRater! The Kanto branch!\\rWant me to ROAST your homies' names? {YESNO 0}",
+  "1": "Which homie's name should\\nI roast, youngblood?",
+  "2": "{STRVAR_1 1, 0, 0}, huh? MID!\\rWant me to give it a WAY better name?\\nWhat you think? {YESNO 0}",
+  "3": "Aight! Then what's the new\\nnickname gon' be?\\r",
+  "4": "There! From now on, this homie\\ngo by {STRVAR_1 1, 0, 0}!\\rThat's WAY better than before!\\nRight?",
+  "5": "Aight. Suit yourself.\\nKeep that mid name.",
+  "6": "There! From now on, this homie\\ngo by {STRVAR_1 1, 0, 0}!\\rIt ain't that different?\\nYour eyes trippin'!\\rThis one better.\\nLucky you!",
+  "7": "Hmm.\\n{STRVAR_1 1, 0, 0}, huh?\\rThat name is FIRE. No notes!\\rTake good care of {STRVAR_1 1, 0, 0}!",
+  "8": "Huh... That's just a Egg!\\nIt ain't even got a name! Let it LIVE!"
+}

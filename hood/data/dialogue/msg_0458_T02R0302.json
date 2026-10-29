@@ -1,0 +1,17 @@
+{
+  "_comment": "Hustler House Training Hall.",
+  "0": "Wassup, welcome to the Training Hall.\\rYou can scrap our best Hustlers and\\ntheir favorite homies once\\fa day.\\rWanna join? {YESNO 0}",
+  "2": "You ready!\\nGo right through.\\r",
+  "3": "I see...\\nCome back now.\\r",
+  "4": "You wanna leave? {YESNO 0}",
+  "5": "Good looks for playin'!\\r",
+  "6": "I see.\\nGood luck!\\r",
+  "7": "Oh, ayo!\\nRight this way!\\r",
+  "8": "This the Hustler House--\\nthe spot for Hustlers.\\rThe Pokéwalker bring your\\nhomies here!\\rYou can challenge Hustlers\\nonce a day.\\rYou earn Battle Points when you win.\\fBring your best!\\r",
+  "9": "Oh! Lemme borrow your Vs. Recorder\\nfor a sec.\\rLet's see... Slide this part open\\nhere, and ticka-tacka-kachunk there!\\rAll done!\\rNow you can check your Battle Points\\non your Vs. Recorder!\\r",
+  "10": "{STRVAR_1 3, 0, 0}'s Vs. Recorder got\\nupgraded.",
+  "11": "You can trade your Battle Points\\nfor hard prizes at the Johto\\fBattle Frontier!\\r",
+  "12": "Now that you ready,\\nyou wanna train? {YESNO 0}",
+  "13": "You wanna scrap? {YESNO 0}",
+  "14": "See you tomorrow!"
+}

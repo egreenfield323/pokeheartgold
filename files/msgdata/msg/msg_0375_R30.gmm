@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0375_R30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pull up, RATTATA!\rRun up on ’em!\r</language>
+		<language name="English">Pull up, RATTATA!\rRun up on ’em! Go for the ankles!\r</language>
 	</row>
 	<row id="msg_0375_R30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bro! This a BIG fight!\fGet outta here!\r</language>
+		<language name="English">Bro! This a PRIVATE scrap!\fGo watch somebody else’s beef!\r</language>
 	</row>
 	<row id="msg_0375_R30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homie can keep swingin’\nas long as it got PP.\rWhen a move run outta PP, your\nhomie can’t use it no more.\rThen take your homies to\nthe Trap House.</language>
+		<language name="English">Lemme drop some knowledge. Your homie\nswing as long as it got PP.\rPP run out, the move done. Like\nmy gym membership.\rThen roll your homies to the\nTrap House. Free healthcare, baby!</language>
 	</row>
 	<row id="msg_0375_R30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homie can keep swingin’\nas long as it got PP.\rWhen a move run outta PP, your\nhomie can’t use it no more.\rThen take your homies to\nthe Trap House.</language>
+		<language name="English">Lemme drop some knowledge. Your homie\nswing as long as it got PP.\rPP run out, the move done. Like\nmy gym membership.\rThen roll your homies to the\nTrap House. Free healthcare, baby!</language>
 	</row>
 	<row id="msg_0375_R30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I ain’t in no gang.\rBut if you look one in the eyes,\nbetter be ready to throw hands.</language>
+		<language name="English">I ain’t in no gang. I’m in a BOOK CLUB.\rBut if you look one of us in the eyes,\nyou better have read the chapter.</language>
 	</row>
 	<row id="msg_0375_R30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -55,6 +55,6 @@
 	</row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You got the Runnin’ Shoes on.\rFeel like you flyin’,\nright?\rBut watch out for opps\nin the grass!\rWhen you run, the noise\nbring ’em out.</language>
+		<language name="English">Oh, you got Runnin’ Shoes now?\nLook at you, all athletic.\rBut runnin’ make noise. The opps\nin the grass hear you comin’.\fWalk like you owe somebody bread.</language>
 	</row>
 </body>

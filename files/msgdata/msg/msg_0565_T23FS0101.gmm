@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0565_T23FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Block Chains you have\nshows how strong a Hustler you are.\rThe more Chains you have, the\nbetter the items you’ll see in shops!</language>
+		<language name="English">How many Chains you got show how\nhard you is.\rMore Chains, better stuff on our\nshelves. That’s how capitalism work.</language>
 	</row>
 	<row id="msg_0565_T23FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Great Ball is better for catching\nPokémon than a Hood Ball.\rBut Kurt’s might be better sometimes.</language>
+		<language name="English">Bando Balls recruit better than Hood\nBalls. But don’t tell Kurt I said\fthat.\fHe’ll throw a Apricorn at me.</language>
 	</row>
 </body>

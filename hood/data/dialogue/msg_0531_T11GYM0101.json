@@ -1,0 +1,13 @@
+{
+  "_comment": "Saffron block. Sabrina, who saw this coming.",
+  "0": "Sabrina: I knew you was comin'...\\rThree years ago I had a vision of you\\nshowin' up. In that exact outfit.\\rYou want my Chain.\\rI don't like scrappin', but it's my job to\\ngive Chains to anybody who prove they\\fworthy.\\rSince you want it, I'll show you my\\nPSYCHIC powers!\\r",
+  "1": "Sabrina: Your power...\\nIt's WAY past what I foresaw...\\rMaybe you can't fully predict the\\nfuture... That's terrifyin'. I'm shook.\\rAight, you win. You earned the Marsh\\nChain.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Marsh Chain!",
+  "3": "Sabrina: I couldn't predict your power\\nright. That mean it's beyond my psychic\\fability. That NEVER happen.\\rYou deserve this. Take this TM too!\\r",
+  "4": "Sabrina: It's Trade Spots!\\nIt swap Abilities between your\\fhomie and theirs.\\rYou gon' be a famous and\\nbeloved Kingpin!",
+  "5": "Sabrina: Your love for your homies broke\\nthrough my psychic powers...\\rThe ability to love, I think, is its own\\nkinda psychic power...\\fI should try it sometime.",
+  "6": "Yo, future legend!\\rA Hustler as nice as you don't need to be\\ntold how to handle Psychic homies, right?\\rI expect BIG things from you!\\nShe already know if you gon' win.",
+  "7": "That was ANOTHER crazy scrap!\\nSabrina didn't see it comin'. NOBODY did.",
+  "8": "Saffron City Block\\nTeleport Pads Not Refundable",
+  "9": "Saffron City Block\\rBoss: Sabrina\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

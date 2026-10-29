@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0602_T25R1203_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you see here is how much people\naround the world love Pokémon.\rWatching Battle Videos lets you share\nthe fun these people had.</language>
+		<language name="English">What you see here is how much people\naround the world love homies.\rWatchin’ Battle Videos let you share\nthe fun these people had.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a great idea.\nAnyone and everyone can participate.\rEven if you lose, that battle could still\nbecome an outstanding Battle Video.</language>
+		<language name="English">This a great idea.\nAnybody and everybody can join.\rEven if you lose, that scrap could\nstill be a fire Battle Video.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What stunning, gripping Battle Videos!\nShould I go home and retrain\fmy Pokémon?</language>
+		<language name="English">These Battle Videos is CRAZY!\nShould I go home and retrain\fmy homies?</language>
 	</row>
 	<row id="msg_0602_T25R1203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Battle Videos starring only cute\nlittle MARILL are the ones I like best.</language>
+		<language name="English">My Battle Videos with only cute\nlil MARILL is my faves.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What an amazing collection!\nI can see why this is so popular.\rJust seeing some of these Battle Videos\nmakes me feel tougher!</language>
+		<language name="English">What a crazy collection!\nI see why this so popular.\rJust seein’ some of these Battle\nVideos make me feel tougher!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To treat one’s self to Battle Videos\nevery day...\rI would consider that a hobby worthy\nof a true gentleman.</language>
+		<language name="English">To treat oneself to Battle Videos\nevery day...\rI’d call that a hobby worthy\nof a true gentleman.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0602_T25R1203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me attempt the alphabet rap using\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land is not where you’ll find\nthe Goldenrod Tunnel.\rL... Looking like criminals in their black\npajamas is The Feds.\rD... Um... D... is...\nYeah, I know, lame-o.\fYou give it a try!</language>
+		<language name="English">Lemme spit the alphabet rap with\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land ain’t where you’ll find\nthe Goldenrod Tunnel.\rL... Lookin’ like cops in their black\nwindbreakers is The Feds.\rD... Um... D... is...\nYeah, I know, that’s weak.\fYou try it!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Hiker enjoying the Box Data down\non 2F is my little brother.</language>
+		<language name="English">The Hiker peepin’ the Box Data down\non 2F is my lil brother.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0602_T25R1203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may post a Battle Video of\nyour Pokémon.\rYou may also view Battle Videos posted\nby other Hustlers.\rThe Battle Videos may be sorted by\nPokémon, battle facility, and so on.\rThe Battle Video you post will be\nassigned a 12-digit number.\rYour homies may view your Battle Video\nby entering this 12-digit code here.\r</language>
+		<language name="English">Here, you can post a Battle Video of\nyour homies.\rYou can also watch Battle Videos\nother Hustlers posted.\rYou can sort Battle Videos by\nhomie, battle facility, and all that.\rThe Battle Video you post get\na 12-digit number.\rYour homies can watch your video\nby enterin’ that 12-digit code here.\r</language>
 	</row>
 	<row id="msg_0602_T25R1203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

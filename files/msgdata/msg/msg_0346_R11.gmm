@@ -10,10 +10,10 @@
 	</row>
 	<row id="msg_0346_R11_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon\nsleeping peacefully.\fIt looks so content!</language>
+		<language name="English">There’s a BIG homie sleepin’\npeaceful.\fIt look SO comfortable. It’s\nsnorin’.\fIt’s blockin’ the whole road.</language>
 	</row>
 	<row id="msg_0346_R11_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...!\rThe SNORLAX opened its eyes wide!\r</language>
+		<language name="English">...!\rThe SNORLAX woke up wide-eyed!\r</language>
 	</row>
 </body>

@@ -1,0 +1,16 @@
+{
+  "_comment": "Phone: Alan (studies while walking).",
+  "1": "When I'm readin' and walkin',\\nI gotta look down, so I notice stuff\\fon the ground.\\rNext time I find somethin', I'll give\\nit to you.\\rCan I get your number? {YESNO 0}",
+  "2": "I'll call you as soon as I find\\nsomethin'. Bet on it!",
+  "3": "Oh... I thought it'd be a nice\\nbreak to call you while I study...",
+  "4": "If I find somethin', it's yours.\\nSo can I get your number? {YESNO 0}",
+  "5": "This, this! This yours! Ta-da!\\r",
+  "6": "Huh?\\nWait. Don't tell me you right nearby?\\rYou ain't notice 'cause you was\\ntoo busy lookin' at the ground too?",
+  "7": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nexactly like I calculated!\\rBy the way, we knocked out a wild\\n{STRVAR_1 0, 11, 0} just the other day.\\rStudyin' ahead of time worked!\\rLater!",
+  "8": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nexactly like I calculated!\\rBy the way, a wild {STRVAR_1 0, 11, 0} dipped\\non me yesterday.\\rA math error on my part...\\rLater!",
+  "9": "I studied a lot since then, and\\nI got WAY better!\\rI'm hangin' on {STRVAR_1 4, 3, 0}.\\nCan you come through for a scrap?",
+  "10": "If we don't scrap soon, I'mma\\nforget my strategy!\\rI'm waitin' on {STRVAR_1 4, 3, 0}!",
+  "11": "I ain't picked up nothin' yet.\\nI'll call you if I find somethin'.",
+  "12": "Heh heh. I found somethin' REAL\\nfire earlier!\\rI'll give it to you. Can you come to\\n{STRVAR_1 4, 3, 0} and grab it?",
+  "13": "I gotta do my homework, so can you\\ncome get your gift right now?\\rI'm waitin' on {STRVAR_1 4, 3, 0}!"
+}

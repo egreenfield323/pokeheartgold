@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0072_D24R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? That’s a Pokédex, ain’t it?\nLemme see it?\rDang, that’s a lotta homies.\nHm? What’s this?\rWhat kinda homie is THAT?\nIt look like the weird writin’ on the\fwalls of the ruins.\rIf them drawings really homies,\nthere gotta be way more.\rI got it! Lemme upgrade your Pokédex.\nFollow me.\r</language>
+		<language name="English">Hm? That’s a Pokédex, ain’t it?\nLemme see it?\rDang, that’s a lotta homies.\nHm? What’s this?\rWhat kinda homie is THAT?\nIt look like the weird writin’ on the\fwalls of the ruins.\rIf them drawings deadass homies,\nthere gotta be way more.\rI got it! Lemme upgrade your Pokédex.\nFollow me.\r</language>
 	</row>
 	<row id="msg_0072_D24R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

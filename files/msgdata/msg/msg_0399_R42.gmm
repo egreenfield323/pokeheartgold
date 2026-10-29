@@ -18,26 +18,26 @@
 	</row>
 	<row id="msg_0399_R42_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Thud!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}BONK!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0399_R42_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, boy!\rSorry that I bumped into you.\rDid I hurt you?\rPlease don’t cry.\nHere, take this.\r</language>
+		<language name="English">OH, BOY!\rMy bad for bumpin’ into you!\nI’m 300 pounds of pure apology!\rPlease don’t cry. Please don’t sue.\nHere, take this. We good?\r</language>
 	</row>
 	<row id="msg_0399_R42_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a move called Muscle!\rWhen a Pokémon learns it, it can move\nboulders out of your way.\fEnjoy a happy mountain-climbing life!\r</language>
+		<language name="English">It’s a move called Muscle!\rWhen a homie learn it, it can move\nboulders out your way.\fEnjoy a happy mountain-climbin’ life!\r</language>
 	</row>
 	<row id="msg_0399_R42_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: SUICUNE...\nHow brave it is!\fHow refreshing it is!\fHow beautiful it is!\fAnd how quickly it moves!\r</language>
+		<language name="English">Eusine: SUICUNE...\nSo brave!\fSo refreshin’!\fSo beautiful!\fAnd SO FAST! Why it always runnin’?!\r</language>
 	</row>
 	<row id="msg_0399_R42_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nYou seem to be around where\fSUICUNE would appear.\rWell, that’s OK.\nMy desire to search for SUICUNE is\ffar beyond yours...\rMy grandpa was...quite into myths.\nI’ve heard so many stories about\fSUICUNE from him.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! You KEEP showin’ up\nwherever SUICUNE show up.\fSuspicious.\rWell, that’s OK. My need for SUICUNE\nis WAY bigger.\rMy grandpa was obsessed with myths.\nNow I’m obsessed. It’s genetic.\r</language>
 	</row>
 	<row id="msg_0399_R42_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUICUNE...\rI won’t stop following you until\nI’ve found out what you’re after...\rYou hear me!\r</language>
+		<language name="English">SUICUNE...\rI ain’t gon’ stop followin’ you till\nI find out what you after...\rYou hear me?! I got a whole wall of\npictures and red string!\r</language>
 	</row>
 </body>

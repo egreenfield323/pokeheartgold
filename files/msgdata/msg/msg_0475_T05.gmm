@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0475_T05_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s quite some building, eh?\nIt’s Kanto’s Radio Tower.</language>
+		<language name="English">That’s some buildin’, huh? It’s\nKanto’s Radio Tower.\fThey play nothin’ but sad songs. It’s\nLavender.</language>
 	</row>
 	<row id="msg_0475_T05_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto has many good radio shows.</language>
+		<language name="English">Kanto got a lotta good radio shows.\rMostly ghost stories. It’s Lavender.</language>
 	</row>
 	<row id="msg_0475_T05_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">People come from all over to pay their\nrespects to the spirits of Pokémon.</language>
+		<language name="English">People come from all over to pay\nrespect to the spirits of homies.\rAnd to get spooked. Mostly that.</language>
 	</row>
 	<row id="msg_0475_T05_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Poké Flute to wake\nsleeping Pokémon.\fEvery Hustler has to know that!</language>
+		<language name="English">You need a Poké Flute to wake\nsleepin’ homies. Every Hustler gotta\fknow that!\fA air horn work too. Less polite.</language>
 	</row>
 	<row id="msg_0475_T05_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lavender Town\nThe Noble Town</language>
+		<language name="English">Lavender Town\nQuiet. Too Quiet.</language>
 	</row>
 	<row id="msg_0475_T05_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto Radio Station\nYour Best-Loved Shows On-Air\fAround the Clock!</language>
+		<language name="English">Kanto Radio Station\nYour Favorite Shows On Air\fAround the Clock!</language>
 	</row>
 	<row id="msg_0475_T05_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="msg_0475_T05_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">House of Memories\nMay Pokémon Spirits Rest Easy</language>
+		<language name="English">House of Memories\nMay Homie Spirits Rest Easy</language>
 	</row>
 </body>

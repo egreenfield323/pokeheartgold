@@ -1,0 +1,9 @@
+{
+  "_comment": "Route 16 house. The trendy-sayings guy.",
+  "0": "If you cruise down Cycling Road, you end up\\nin Fuchsia City.\\rOr in the hospital. 50/50.",
+  "1": "Wassup, wassup. Wanna hear a TRENDY\\nsayin'? I'm a influencer. {YESNO 0}",
+  "2": "Aight...\\rThe trendy thing for you to say would be...\\r{STRVAR_1 28, 0, 0}!\\rThat's mad trendy. Say it everywhere.\\nTo your mama. To the cops.",
+  "3": "Oh, c'MON! With a attitude like that, you\\ngon' fall off! You already fallin' off!",
+  "4": "I hope you use trendy sayin's in trendy\\nways. Don't be cringe with it.",
+  "5": "Wassup, wassup. You usin'\\ntrendy sayin's?"
+}

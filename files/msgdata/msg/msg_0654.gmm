@@ -6,27 +6,27 @@
 	</row>
 	<row id="msg_0654_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? I can’t hear you very well...\nWe must have a bad connection...\rTry calling me again from a different\nlocation, please.</language>
+		<language name="English">Wassup? I can’t hear you real good...\nThe connection trash...\rTry callin’ me again from a\ndifferent spot, please.</language>
 	</row>
 	<row id="msg_0654_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup... How are you?\nI’m doing well, thanks.\r</language>
+		<language name="English">Wassup... How you doin’?\nI’m doin’ well, thanks.\r</language>
 	</row>
 	<row id="msg_0654_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many other Hustlers out\nthere who are much stronger than me...\fYou should challenge them and see.</language>
+		<language name="English">There’s SO many other Hustlers out\nthere way stronger than me...\fYou should go try ’em.</language>
 	</row>
 	<row id="msg_0654_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see...\nI’m usually free on Wednesdays\faround noon. I could spare some time...\rWhy don’t you call me again then...</language>
+		<language name="English">Let’s see...\nI’m usually free Wednesdays\faround noon. I could spare a minute...\rWhy don’t you call me again then...</language>
 	</row>
 	<row id="msg_0654_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy’s gotten better lately. I’ve also\nbeen able to take some time to myself.\rWhat do you think? Would you like to\nbattle me again? {YESNO 0}</language>
+		<language name="English">Amphy been doin’ better lately. I also\nbeen able to take some me-time.\rWhat you think? You wanna\nscrap me again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0654_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it...\nWell, I’ll see you in Saffron City at the\fFighting Dojo, OK?</language>
+		<language name="English">Got it...\nSee you at the Saffron Dojo, OK?</language>
 	</row>
 	<row id="msg_0654_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,30 +34,30 @@
 	</row>
 	<row id="msg_0654_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\rBefore you battle me again, don’t you\nhave other appointments to keep?</language>
+		<language name="English">Huh?\rBefore you scrap me again, ain’t you\ngot other plans to keep?</language>
 	</row>
 	<row id="msg_0654_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it. I’ll be waiting at the Fighting\nDojo in Saffron City.\fI’ll see you there.</language>
+		<language name="English">Got it. I’ll be waitin’ at\nthe Saffron Dojo.\fI’ll see you there.</language>
 	</row>
 	<row id="msg_0654_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Jasmine.\nHow do I sound? Healthy?\r</language>
+		<language name="English">This Jasmine.\nHow I sound? Healthy?\r</language>
 	</row>
 	<row id="msg_0654_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You didn’t forget about your promise to\nmeet me for a battle, did you?\rI’m still waiting for you at the Fighting\nDojo in Saffron City...</language>
+		<language name="English">You ain’t forget your promise to\nmeet me for a scrap, did you?\rI’m still waitin’ at\nthe Saffron Dojo...</language>
 	</row>
 	<row id="msg_0654_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Lighthouse lately?\rI’ve been so busy myself. I haven’t\nbeen able to get over there to see\fAmphy much...\rBut...whenever I see the Lighthouse’s\nlights at night, I always think,\f“I hope you’re doing well, Amphy.”</language>
+		<language name="English">You been to the Lighthouse lately?\rI been so busy myself. I ain’t\nbeen able to get over there to see\fAmphy much...\rBut...whenever I see the Lighthouse\nlight at night, I always think,\f“I hope you good, Amphy.”</language>
 	</row>
 	<row id="msg_0654_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um...\nThere’s something I’ve been meaning to\fask you... What did you think of my Gym?\fWas the atmosphere a little strange?\rBut...I mean, steel always looks\npretty cold and uninviting, but I was\ftrying to make it at least a little cute.</language>
+		<language name="English">Um...\nThere’s somethin’ I been meanin’ to\fask you... What you think of my Block?\fWas the vibe a lil weird?\rBut...I mean, steel always look\npretty cold and unfriendly, but I was\ftryin’ to make it at least a lil cute.</language>
 	</row>
 	<row id="msg_0654_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba at the Safari Zone...\nHe came over to my Block once to\fintroduce himself...\rHe talks a little differently, doesn’t\nhe? I heard it’s called anastrophe...</language>
+		<language name="English">Warden Baoba at the Safari Zone...\nHe came by my Block once to\fintroduce himself...\rHe talk a lil different, don’t\nhe? I heard it’s called anastrophe...</language>
 	</row>
 </body>

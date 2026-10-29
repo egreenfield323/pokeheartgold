@@ -2,67 +2,67 @@
 <body language="English">
 	<row id="msg_0107_D32R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Hustler.\r</language>
+		<language name="English">Welcome to the Battle Factory!\rI run the Single and\nDouble Battle challenges.\rHeads up, these challenges\nis for one Hustler. Solo dolo.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge would\nyou like to take? {YESNO 0}</language>
+		<language name="English">Which challenge you\nwant? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Factory, you may take\nSingle or Double Battle challenges\fusing rental Pokémon.\rOnce entered, your challenge lasts\nuntil you lose.\rAfter each win, you may trade a rented\nPokémon for one of the opponent’s.\rThe Level 50 option starts you off with\nPokémon that only know weak moves.\rThe Open Level option gives you access\nto Lv. 100 Pokémon with powerful moves\ffrom the start.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">At the Battle Factory, you can run\nSingle or Double Battle challenges\fwith rental homies.\rOnce you in, the run keep goin’\ntill you take a L.\rAfter every W, you can swap a rental\nfor one of the other guy’s homies.\rLevel 50 start you off with\nhomies that only know weak moves.\rOpen Level give you\nLv. 100 homies with heavy moves\fright from the jump.\rWin seven in a row, and you\nget Battle Points (BP).\rIf you wanna dip mid-run,\nsave the game first.\rIf you don’t save, you\ngettin’ disqualified. No cap.\rDon’t say I ain’t warn you!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Hustlers.\r</language>
+		<language name="English">Welcome to the Battle Factory!\rI run the Multi Battle\nchallenge.\rHeads up, this challenge\nneed two Hustlers.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Battle\nFactory Multi Battle challenge? {YESNO 0}</language>
+		<language name="English">You tryna run the Battle Factory\nMulti Battle challenge? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a homie for a\nMulti Battle challenge using rental\fPokémon.\rBoth partners will be provided with two\nrental Pokémon each.\rOnce entered, you and your partner\nconduct Multi Battles until you lose.\rAfter each win, you or your partner\nmay trade a single rented Pokémon.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rThe Level 50 option starts with rental\nPokémon that only know weak moves.\rThe Open Level option lets you rent\nLv. 100 Pokémon with powerful moves\ffrom the start.\rPlease note: a Battle Factory Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">You can team up with a homie for a\nMulti Battle challenge with rental\fhomies.\rBoth partners get two rental\nhomies each.\rOnce you in, you and your partner\nscrap Multi Battles till you lose.\rAfter every W, you or your partner\ncan swap one rental homie.\rWin seven in a row, and you\nget Battle Points (BP).\rLevel 50 start you off with\nrentals that only know weak moves.\rOpen Level let you rent\nLv. 100 homies with heavy moves\fright from the jump.\rHeads up: a Battle Factory Multi\nBattle run can’t get paused.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Come back when you got the heart!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge level would you like\nto play? Level 50 or Open Level? {YESNO 0}</language>
+		<language name="English">Which level you wanna run?\nLevel 50 or Open Level? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Is that OK? {YESNO 0}</language>
+		<language name="English">I gotta save the game before I\nlet you in. That cool? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Right this way!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We look forward to your next visit.\r</language>
+		<language name="English">Come back soon, hear?\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve missed you!\rYou must save the game before you\nresume your challenge. Please wait.</language>
+		<language name="English">Look who back!\rI gotta save the game before you\npick up where you left off. Hold up.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Ayo!\rYou ain’t save before you dipped\nlast time.\rSo that run is DONE. You\ndisqualified. Them the rules!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn recognition of your victory, we\npresent you this commemorative print!\r</language>
+		<language name="English">Ayyy, congrats!\rFor that W, we givin’ you\nthis souvenir print!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">The Gold Print got added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">The Silver Print got added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -98,42 +98,42 @@
 	</row>
 	<row id="msg_0107_D32R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">One Hustler pick\n“BECOME LEADER.”\rThe other Hustler pick\n“JOIN GROUP.” {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We need to launch DS Wireless\nCommunications. {YESNO 0}\n</language>
+		<language name="English">We finna fire up DS Wireless\nCommunications. {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0107_D32R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Please wait.</language>
+		<language name="English">I gotta save the game before I\nlet you in. Hold up.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The staff tell you about the next\nTrainer you’ll face.\rThey’re very helpful here.\nDon’t you think?\n</language>
+		<language name="English">The staff tell you about the next\nHustler you gon’ face.\rThey real helpful here.\nAin’t they?\n</language>
 	</row>
 	<row id="msg_0107_D32R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They tell you about the next Hustler\nyou’ll face? That’s really nice.\rYou know, you can prepare for it\nonce you know what kind of Hustler\fthe next one is!</language>
+		<language name="English">They put you on to the next Hustler\nyou facin’? That’s real nice.\rYou know, you can prep for ’em\nonce you know what kinda Hustler\fthey! That’s scoutin’!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’ll help you choose a Pokémon when\nyou remember what kind of Pokémon\fthe other Hustler had and what moves\fthey used.</language>
+		<language name="English">It help you pick a homie when\nyou remember what homies\fthe other Hustler had and what\fmoves they used.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a place to battle with rental\nPokémon, right?\rIt is a good chance to try Pokémon\nyou’ve never trained.\rYou’ll learn about new Pokémon\nwhile having exciting battles!\rWhat more could you want?</language>
+		<language name="English">This the spot to scrap with rental\nhomies, right?\rIt’s a good chance to try homies\nyou ain’t never trained.\rYou learn about new homies\nwhile havin’ fire scraps!\rWhat more could you want?</language>
 	</row>
 	<row id="msg_0107_D32R0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have a lot of Pokémon?\rI’m not too proud to say this, but...\nI have only a few!\rBut there is nothing to worry about.\nDo you know why?\rThis facility, the Battle Factory, has\nyou use rental Pokémon for battles!</language>
+		<language name="English">You got a lotta homies?\rI ain’t too proud to say this, but...\nI only got a few!\rBut ain’t nothin’ to worry about.\nYou know why?\rThe Battle Factory make\nyou scrap with rentals! Free homies!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you have to battle with Pokémon\nyou just met instead of with your\fcherished Pokémon you’ve always\fbattled with?\rOh, I don’t know if I could...\nWill they be nice to me...?\fI’m a little worried.</language>
+		<language name="English">So you gotta scrap with homies\nyou just met instead of your\fday-one homies you always\fscrapped with?\rOh, I don’t know if I could...\nWill they be nice to me...?\fI’m kinda nervous.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Hustlers gathered at the\nBattle Frontier are nice,\fpleasant people!\rI’m patrolling here on duty, but\notherwise I would love to change\fmy uniform to participate!</language>
+		<language name="English">All the Hustlers at the\nBattle Frontier is nice,\fchill people!\rI’m on patrol duty, but\notherwise I’d change outta\fthis uniform and jump in!</language>
 	</row>
 </body>

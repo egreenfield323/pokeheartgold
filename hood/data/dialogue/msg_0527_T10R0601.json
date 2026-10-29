@@ -1,0 +1,15 @@
+{
+  "_comment": "The Kingpin: Lance. Cape, dragons, monologue. Then Oak and Mary crash it.",
+  "0": "Lance: *cape flutters, no wind*\\nI been waitin' on you.\\r{STRVAR_1 3, 0, 0}!\\rI KNEW you, with your skills,\\nwould end up right here.\\rNo need for words now.\\n...But I'ma say some anyway.\\rWe gon' scrap to see who the\\nhardest of the two of us.\\rAs the strongest Hustler and the\\nBig League KINGPIN...\\rI, Lance the dragon master, cape\\nmodel, accept your challenge!\\r",
+  "1": "Lance: *cape flutters, no wind*\\nI been waitin' on you.\\r{STRVAR_1 3, 0, 0}!\\rI KNEW you, with your skills,\\nwould end up right here.\\rNo need for words now.\\n...But I'ma say some anyway.\\rWe gon' scrap to see who the\\nhardest of the two of us.\\rAs the strongest Hustler and the\\nBig League KINGPIN...\\rI, Lance the dragon master, cape\\nmodel, accept your challenge!\\r",
+  "2": "...Whew. *cape stops flutterin'*\\rYou got REAL strong, {STRVAR_1 3, 0, 0}.\\nStronger than the CAPE.\\rYour homies ride for you 'cause you solid\\nand you REAL. That's somethin' a\\fcape can't buy. I tried.\\rAs a Hustler, you gon' keep gettin'\\nstronger. I'ma go cry in my cape.\\r",
+  "3": "...Whew. *cape stops flutterin'*\\rYou got REAL strong, {STRVAR_1 3, 0, 0}.\\nStronger than the CAPE.\\rYour homies ride for you 'cause you solid\\nand you REAL. That's somethin' a\\fcape can't buy. I tried.\\rAs a Hustler, you gon' keep gettin'\\nstronger. I'ma go cry in my cape.\\r",
+  "4": "......!\\r",
+  "5": "Mary: Oh, NO! We MISSED it!\\nProfessor Oak, if you wasn't so SLOW...\\fAnd if you ain't stop for snacks...\\r",
+  "6": "Professor Oak: Ah, {STRVAR_1 3, 0, 0}! Long time no see.\\nYou lookin' real impressive. *sniff*\\rYou ran the WHOLE League!\\nThat's INSANE! I'm hyperventilatin'!\\rYour dedication, trust, and love for\\nyour homies made it happen.\\rYour homies was OUTSTANDIN' too.\\nThey believed in you, so they kept goin'.\\rCongrats, {STRVAR_1 3, 0, 0}! *sniff* I'm cryin'.\\r",
+  "7": "Professor Oak: Ah, {STRVAR_1 3, 0, 0}! Long time no see.\\nYou lookin' real impressive. *sniff*\\rYou ran the WHOLE League!\\nThat's INSANE! I'm hyperventilatin'!\\rYour dedication, trust, and love for\\nyour homies made it happen.\\rYour homies was OUTSTANDIN' too.\\nThey believed in you, so they kept goin'.\\rCongrats, {STRVAR_1 3, 0, 0}! *sniff* I'm cryin'.\\r",
+  "8": "Mary: Let's interview the BRAND-NEW\\nKingpin! Mic check! One two! Is this on?!\\r",
+  "9": "Lance: This gettin' a lil too loud...\\rReporters. Paparazzi. Mary.\\n{STRVAR_1 3, 0, 0}, come with me. Quick. Through the\\fback. My cape can't handle flash photography.\\r",
+  "10": "Lance: This gettin' a lil too loud...\\rReporters. Paparazzi. Mary.\\n{STRVAR_1 3, 0, 0}, come with me. Quick. Through the\\fback. My cape can't handle flash photography.\\r",
+  "11": "Mary: Oh, WAIT!\\nWe ain't do the INTERVIEW! I did my HAIR!"
+}

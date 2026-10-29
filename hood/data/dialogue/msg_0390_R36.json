@@ -1,0 +1,22 @@
+{
+  "_comment": "Route 36. The weird tree (SUDOWOODO), Floria, the Smash n Grab (Rock Smash) guy.",
+  "0": "There's a weird tree!\\nUse the SquirtBottle? {YESNO 0}",
+  "1": "{STRVAR_1 3, 0, 0} used\\nthe SquirtBottle!\\r",
+  "2": "The weird tree hate the\\nSquirtBottle!\\rThe weird tree swung on you!\\r",
+  "3": "YO!\\rYou ever had a boulder blockin' your\\nway? Course you have! Life is boulders!\\rFor people like you, there's a HM that\\ngot your back!\\r",
+  "4": "You the one who handled the weird tree?!\\rYou a REAL Hustler!\\nTake this! I was gon' sell it, but\\fyou earned it!\\r",
+  "5": "It's got make-'em-faint\\nSmash n Grab.\\rYou can even smash boulders\\nonce you got the Violet City\\fBlock Chain!\\rBut watch out!\\nHidden moves like this hard for\\fyour homies to forget once they\\flearned 'em.\\rThink hard about which homie\\nshould learn it.",
+  "6": "Your Bag full!",
+  "7": "A weird tree blockin' the road to Ecruteak.\\rIt's stoppin' me from SHOPPIN'.\\fSomebody call the city! Call the mayor!",
+  "8": "The weird tree GONE! It just WALKED off!\\fWhat? It was a HOMIE?\\rI been yellin' at a homie for a week?\\nWell, finally I can go shoppin'!",
+  "9": "Rt. 36\\nNorth to Ecruteak City",
+  "10": "Ruins of Alph\\nNorth Entrance",
+  "11": "Hustler Tips\\rSame kind of homies might look the\\nsame, but they grow different.\\rThey might start out the\\nsame, but that changes\\fas they grow.",
+  "12": "Hustler Tips\\rUse Lay Low and it take you\\nright back to the entrance.\\rIf you explorin' a cave or\\nsomethin', a homie with\\fLay Low come in clutch.",
+  "13": "I'm Floria from the Flower Shop!\\rListen, listen! When I sprinkled water\\non that wiggly tree, it JUMPED!\\rIt GOTTA be a homie.\\rI bet it'd stop fakin' if you\\nsoaked it! Hose it down!",
+  "14": "I'm Floria from the Flower Shop!\\rListen, listen! When I sprinkled water\\non that wiggly tree, it JUMPED!\\fIt GOTTA be a homie.\\rOh! That's the SquirtBottle!\\rSoak that tree for me!\\nI wanna see what happen!",
+  "15": "That was the most fun I had all YEAR!\\rI wanna give you this for the\\nentertainment!\\r",
+  "16": "With the Berry Pots, you can grow\\nany Berry from anywhere\\fno problem!\\r",
+  "17": "Oh yeah!\\nI'll give you some Berries too.\\rBerry Pots ain't no good\\nwithout Berries.\\r",
+  "18": "You gotta plant Berries in the soil.\\nWater 'em every\\fnow and then. They'll grow up strong!\\rI gotta head back to Goldenrod.\\fYou goin' to Ecruteak?\\rThen go north here.\\nSee you around!\\r"
+}

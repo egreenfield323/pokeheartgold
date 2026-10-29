@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0060_D18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou must be here to catch the\nlegendary Pokémon to make yourself\flook strong.\rThat is only a dream.\rYou see, the legendary Pokémon suits a\nTrainer like me who has sworn to become\fthe strongest Hustler.\rA battle with Fed Agents\nis just right for you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou here to catch the legendary homie\nso you look hard?\rThat’s a pipe dream.\rThe legendary homie belong to somebody\nlike me who swore to be the strongest.\rScrappin’ Fed Agents is more your\nspeed. Go write a parkin’ ticket.\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Aw, whatever.\rYou would never be able to catch a\nlegendary Pokémon anyway.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Aw, whatever.\rYou could never catch a\nlegendary homie anyway.\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: My name is Eusine.\rI’m on the trail of a Pokémon named\nSUICUNE.\rAnd you are...?\n{STRVAR_1 3, 0, 0}? Glad to meet you.\rI heard rumors that SUICUNE is here,\nso I came to look.\rTake a look at the basement through\nthe hole in the floor.\rThere. SUICUNE is down there.\rI could go downstairs, but I know it\nwould run away in no time.\rI know.\nI have tried it many times...</language>
+		<language name="English">Eusine: My name is Eusine. I’m on the\ntrail of SUICUNE.\rAnd you...? {STRVAR_1 3, 0, 0}? Charmed. Don’t\ntouch my cape.\rI heard SUICUNE was here, so I came. I\nfollow it EVERYWHERE.\rIt’s down in the basement right now. I\ncould go down there...\rBut it run off every time. I tried\nfifty times. I got a restrainin’ order.</language>
 	</row>
 	<row id="msg_0060_D18R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: There seems to be more than\nmeets the eye with you...</language>
+		<language name="English">Eusine: There’s more to you than meet\nthe eye... SUICUNE noticed. I’m\fjealous.</language>
 	</row>
 	<row id="msg_0060_D18R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: My name is Morty.\nI am Ecruteak’s Block Boss.\rBecause my old homie Eusine is here\non the trail of SUICUNE, I decided to\finvestigate the Burned Tower.\rEcruteak has a legend about these\nlegendary Pokémon:\fSUICUNE, ENTEI, and RAIKOU.\rAs the Block Boss of Ecruteak, I must\nhave a proper understanding of it.</language>
+		<language name="English">Morty: My name is Morty. Ecruteak’s\nBlock Boss. I see ghosts.\fProfessionally.\rMy old homie Eusine chasin’ SUICUNE, so\nI came to keep him outta trouble.\rEcruteak got a legend: SUICUNE,\nENTEI, and RAIKOU.\rAs Block Boss, I gotta understand it.\nAlso Eusine owe me bread.</language>
 	</row>
 </body>

@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0608_T26R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How you get past the dog?!\nAight. Hands where I can see ’em.\rAyo, I’m looking for this Pokémon.\rIf you have a KRABBY, would you\ntrade it for my VOLTORB? {YESNO 0}</language>
+		<language name="English">Ayo, I’m lookin’ for this homie.\rYou got a KRABBY? Trade it for my\nVOLTORB? It only explode\fSOMETIMES. {YESNO 0}</language>
 	</row>
 	<row id="msg_0608_T26R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great! Good looks!\rI finally got a KRABBY!</language>
+		<language name="English">BET! Good looks!\rI FINALLY got a KRABBY! I’m finna\nmake some crab legs! JK! Mostly!</language>
 	</row>
 	<row id="msg_0608_T26R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have a KRABBY?\nThat’s too bad, then.</language>
+		<language name="English">You ain’t got a KRABBY?\nThat’s too bad, then.</language>
 	</row>
 	<row id="msg_0608_T26R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have one either?\rGee, that’s really disappointing...</language>
+		<language name="English">You ain’t got one either?\rMan, NOBODY got a KRABBY! What’s\ngoin’ on in this economy?!</language>
 	</row>
 	<row id="msg_0608_T26R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! The KRABBY you traded me is\ndoing great!</language>
+		<language name="English">Ayo! The KRABBY you traded me is\ndoin’ great! It pinched my\flandlord!</language>
 	</row>
 </body>

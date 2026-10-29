@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0568_T23PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do any of your Pokémon know...\nwhat they call the hidden moves?\rWhen a Pokémon faints, it just means\nit doesn’t have the power to battle.\rBut it can still use hidden moves\noutside of battle!</language>
+		<language name="English">Your homies know hidden moves?\rFainted just mean it ain’t got the\nenergy to scrap. Like me on Mondays.\rBut it can still use hidden moves\noutside battle! Like me on Fridays.</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill’s PC can store up to 30\nPokémon per Box.</language>
+		<language name="English">Bill’s PC hold 30 homies per Box.\nThat’s a lotta roommates.</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know what an Apricorn is?\rYou crack it open to discard the core\nand put it in this special machine...\fThen you can catch Pokémon!\rBefore Hood Balls became available,\neverybody used Apricorns to\fcatch Pokémon.\n</language>
+		<language name="English">You know what a Apricorn is?\rCrack it open, toss the guts, put\nit in a machine... BOOM, Hood Ball.\rBefore Hood Balls, everybody used\nApricorns. It was a simpler time.\fA dumber time.\n</language>
 	</row>
 </body>

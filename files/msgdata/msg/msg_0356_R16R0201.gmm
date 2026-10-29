@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0356_R16R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cycling Road starts here.\nIt’s all downhill, so it’s totally\fexhilarating.\rSome people prefer convenient and hard\ntransportation such as the Fast Ship\fand the Magnet Train.\fYou prefer the Bicycle, don’t you?</language>
+		<language name="English">Cycling Road start here.\rIt’s ALL downhill, so it’s a RUSH. No\nbrakes. Literally. They stole ’em.\rSome people like the Fast Ship and\nMagnet Train. You a Bike person, ain’t\fyou?</language>
 	</row>
 	<row id="msg_0356_R16R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You! Stop right there!\rYou have to be on a Bicycle to go on\nthe Cycling Road!\r</language>
+		<language name="English">AYO! STOP right there!\rYou gotta be on a Bike to go on\nCycling Road! No walkers! No\fskateboards! No\fheelys!\r</language>
 	</row>
 </body>

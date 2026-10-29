@@ -6,14 +6,14 @@
 	</row>
 	<row id="msg_0348_R12_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fishing Spot\rIt’s called the Silence Bridge, because\neveryone walks on tiptoe to avoid\fscaring the Water-type Pokémon.\n\n</language>
+		<language name="English">Fishin’ Spot\rThey Call It the Silence Bridge,\n’Cause Everybody Tiptoe So They\fDon’t Scare the Water Homies.\n\n</language>
 	</row>
 	<row id="msg_0348_R12_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon sleeping\npeacefully.\fIt looks so content!</language>
+		<language name="English">There’s a BIG homie sleepin’ peaceful.\fIt look SO comfortable. Jealous.</language>
 	</row>
 	<row id="msg_0348_R12_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...!\rThe SNORLAX opened its eyes wide!\r</language>
+		<language name="English">...!\rThe SNORLAX woke up wide-eyed!\r</language>
 	</row>
 </body>

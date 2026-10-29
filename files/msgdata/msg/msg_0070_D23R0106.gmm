@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0070_D23R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Archer: Oh? You managed to get\nthis far...?\fYou must be quite the Hustler.\rWe intend to take over this\nRadio Tower and officially announce\four comeback.\rThat should bring our boss Giovanni\nback from his solitary training.\rWe are finna regain our\nformer glory...\rI will not allow you to interfere with\nour meticulous plans!\r</language>
+		<language name="English">Archer: Ohhh, so YOU the lil\nmenace runnin’ through my troops?\fYou got heart, I give you that.\rWe done RAIDED this whole Radio\nTower, no warrant, no nothin’!\rWe ’bout to go LIVE and tell the\nwhole region The Feds is BACK!\rThat should get the Big Boss\nGiovanni to pull back up!\rWe finna be on top again,\nbruh! Plates on plates!\rAnd you just a lil speed bump!\nYou got the right to remain SILENT!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Archer: How could this be...?\rOur dreams have come to naught.\nI was not up to the task after all.\rLike Giovanni has done before me, I will\ndisband The Feds here today.\rFarewell...\r</language>
+		<language name="English">Archer: Nah... NAH...\rYou mean to tell me I got\nwashed by a CHILD?!\rThat’s it. I’m takin’ my badge,\nmy gun, and my lil lanyard...\rThe Feds is OFFICIALLY disbanded.\nI’m finna go sell insurance...\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Director: Oh...!\rYou have already defeated them?\nThank you!\rYour courageous actions have saved\nPokémon nationwide.\rYou are well worth this.\nPlease take it!\r</language>
+		<language name="English">Director: Oh...!\rYou already beat ’em?\nGood looks!\rYour bravery saved homies\nall over the country.\rYou deserve this.\nPlease take it!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rainbow Wing!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Rainbow Wing!</language>
 	</row>
 	<row id="msg_0070_D23R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Silver Wing!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Silver Wing!</language>
 	</row>
 	<row id="msg_0070_D23R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There used to be a tower right here.\rWhen the tower was replaced with the\nRadio Tower, that Rainbow Wing was\ffound at the top of the tower.\rI heard from a homie from Cianwood City\nthat you can climb the Bell Tower in \fEcruteak City when you have a\fRainbow Wing.\rI have to get back to my office.\nSee you!\r</language>
+		<language name="English">There used to be a tower right here.\rWhen they replaced it with the\nRadio Tower, they found that Rainbow\fWing at the top of the tower.\rA homie from Cianwood City told me\nyou can climb the Bell Tower in\fEcruteak City with a\fRainbow Wing.\rI gotta get back to my office.\nLater!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There used to be a tower right here.\rWhen the tower was replaced with the\nRadio Tower, that Silver Wing was found\fat the top of the tower.\rI heard from a homie from Cianwood City\nthat you can go down the cave at Whirl\fIslands when you have a Silver Wing.\rI have to get back to my office.\nSee you!\r</language>
+		<language name="English">There used to be a tower right here.\rWhen they replaced it with the\nRadio Tower, they found that Silver\fWing at the top of the tower.\rA homie from Cianwood City told me\nyou can go down the cave in the Whirl\fIslands with a Silver Wing.\rI gotta get back to my office.\nLater!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I almost forgot!\rAccording to my homie from Cianwood\nCity, the legendary Pokémon will not\fappear if you just go up to the top of\fthe Bell Tower with only that\fRainbow Wing.\rApparently there is something else\nyou need... Or something like that.\rI wonder what it was...\rI can’t remember.\r</language>
+		<language name="English">Oh, I almost forgot!\rMy homie from Cianwood City said\nthe legendary homie won’t\fshow up if you just go to the top of\fthe Bell Tower with only that\fRainbow Wing.\rYou need somethin’ else...\nOr somethin’ like that.\rWhat was it...\rI can’t remember.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I almost forgot!\rAccording to my homie from Cianwood\nCity, the legendary Pokémon will not\fappear if you just go down the cave at\fWhirl Islands with only that\fSilver Wing.\rApparently there is something else\nyou need... Or something like that.\rI wonder what it was...\rI can’t remember.\r</language>
+		<language name="English">Oh, I almost forgot!\rMy homie from Cianwood City said\nthe legendary homie won’t\fshow up if you just go down the cave\fin the Whirl Islands with only that\fSilver Wing.\rYou need somethin’ else...\nOr somethin’ like that.\rWhat was it...\rI can’t remember.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you expecting something?\nThis is what they call Ankle Break.\rI really must go back to my office this\ntime. See ya!\r</language>
+		<language name="English">You expectin’ somethin’?\nThis what they call Ankle Break.\rI REALLY gotta get back to my\noffice this time. Later!\r</language>
 	</row>
 </body>

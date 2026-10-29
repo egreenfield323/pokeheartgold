@@ -1,0 +1,5 @@
+{
+  "_comment": "Underground: the rival ambushes you, then has a crisis about Lance's lecture.",
+  "0": "{STRVAR_1 3, 0, 0}: Hold up!\\rWhat I told you before was a lie.\\nI thought I could tail you, and\\fyou'd lead me to Lance.\\rWell, he never showed.\\f...Don't matter.\\rI was gon' beat you after Lance,\\nbut since you here, I'ma settle\\fthe score!\\r",
+  "1": "{STRVAR_1 3, 0, 0}: ...I don't get it.\\rWas that Lance dude right?\\nThat I don't treat my homies right?\\rLove...\\rTrust...\\rThat's what I'm missin'?\\nThat's why I keep losin'?\\rI... I just don't get it. But\\nit ain't endin' here. Not now.\\fNot 'cause of this.\\rI ain't givin' up on bein'\\nthe best Hustler in the world!\\r"
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "Battle Salon: partners.",
+  "0": "Pick a partner from the Hustlers\\nposted up in here.\\r",
+  "1": "{STRVAR_1 3, 0, 0}, you still ain't got\\na partner for your tag team.\\rYou wanna quit lookin' and go\\nback to the front desk? {YESNO 0}",
+  "2": "Good looks for pickin' a partner.\\rAight, I'll walk you to your\\nMulti Battle Room.\\r",
+  "3": "Riley: My partners right now?\\rWell, my {STRVAR_1 0, 0, 0} NASTY with\\n{STRVAR_1 6, 1, 0}.\\rAnd my {STRVAR_1 0, 2, 0} got\\n{STRVAR_1 6, 3, 0} on lock.\\rYou wanna team up with me? {YESNO 0}",
+  "4": "Riley: ...Oh, word?\\nThat's too bad.",
+  "5": "Riley: Ahaha, good looks.\\nI'll be waitin' on you.\\r",
+  "6": "Cheryl: I got a {STRVAR_1 0, 0, 0} that\\nis real good with {STRVAR_1 6, 1, 0}\\rand a {STRVAR_1 0, 2, 0} that love to\\nshow off its {STRVAR_1 6, 3, 0}.\\rYou gon' team up with me? {YESNO 0}",
+  "7": "Cheryl: Oh...\\nToo bad...",
+  "8": "Cheryl: I'll go ahead, then.\\r",
+  "9": "Buck: Ayo, you tryna team up?\\nLemme tell you what I'm workin' with.\\rMy {STRVAR_1 0, 0, 0} top-tier\\nwith {STRVAR_1 6, 1, 0}.\\rAnd my {STRVAR_1 0, 2, 0} the GOAT when\\nit come to {STRVAR_1 6, 3, 0}.\\rYou wanna roll with me, right? {YESNO 0}",
+  "10": "Buck: Huh? What?\\nThat's COLD, bro!",
+  "11": "Buck: Hehehe! Smart choice!\\nAin't no problems when I'm around!\\r",
+  "12": "Marley: ...My {STRVAR_1 0, 0, 0} use\\n{STRVAR_1 6, 1, 0} good...\\rAnd my {STRVAR_1 0, 2, 0} like to use\\n{STRVAR_1 6, 3, 0}.\\r...What you want?\\nI'm supposed to roll with you? {YESNO 0}",
+  "13": "Marley: ...Whatever...",
+  "14": "Marley: ...I'll go ahead...\\r",
+  "15": "Mira: Ayo, hi!\\nI'm with my {STRVAR_1 0, 0, 0}!\\fIt's SO good with {STRVAR_1 6, 1, 0}!\\rThe other one my {STRVAR_1 0, 2, 0}.\\nIts {STRVAR_1 6, 3, 0} is fire!\\rYou wanna roll with me? {YESNO 0}",
+  "16": "Mira: Oh, OK.\\nNext time then!",
+  "17": "Mira: OK! I'll wait on you!\\n{STRVAR_1 3, 0, 0}, don't take forever!\\r"
+}

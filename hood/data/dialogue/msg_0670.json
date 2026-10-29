@@ -1,0 +1,14 @@
+{
+  "_comment": "Phone: Alfred (old man, NOCTOWL).",
+  "1": "Well, now that we acquainted,\\nshall we swap phone\\fnumbers? {YESNO 0}",
+  "2": "Lovely!\\nNow I can call you anytime.",
+  "3": "I see...\\rLike I figured, young folks rather\\nhang with people their own age...",
+  "4": "You don't really wanna swap\\nnumbers with me, do you? {YESNO 0}",
+  "5": "What's wrong? Ain't we on the same\\nfloor right now?\\rWhy not talk face-to-face?",
+  "6": "I was SO shook!\\nA few days ago, I got a NOCTOWL\\fin a trade.\\rTurns out that NOCTOWL was the same\\none I traded away to another\\fHustler years ago!\\rI guess that's “What goes\\naround, comes around,” 'cause it came\\fright back to me.\\rIt's a small world after all!",
+  "7": "It's kinda disappointin'.\\nA few days ago, I got a NOCTOWL\\fin a trade.\\rIt was such a familiar NOCTOWL...\\rI thought it was the NOCTOWL I\\noriginally raised!\\rIt somehow found its way back...\\nI was so moved...\\fBut when I looked closer, I saw\\fit wasn't the NOCTOWL I thought.\\rThat kinda thing can't really happen\\nin this world, right?",
+  "8": "You know, whenever I try to catch a\\nwild homie, they always run\\faway. Happened SO many times.\\rA couple days ago a RATTATA got away\\nfrom me...\\rYou know, whenever I meet a person or\\nhomie, I always take off\\fmy hat and introduce myself proper,\\fand that's when they dip.\\rRATTATA got NO manners...",
+  "9": "Ha ha, you wanna scrap again?\\nI think that's a fine idea!\\rI'll meet you at {STRVAR_1 4, 3, 0}!",
+  "10": "Everything aight?\\nYou forget our appointment?\\rI'm waitin' at {STRVAR_1 4, 3, 0}.\\nI'll see you there!",
+  "11": "Just like this, when I call a young\\nperson like you, we can swap\\finfo.\\rJust like this, homies bring people\\ntogether, don't they?\\rTruly, homies is some\\nextraordinary creatures."
+}

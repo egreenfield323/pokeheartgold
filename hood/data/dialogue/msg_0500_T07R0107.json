@@ -1,0 +1,14 @@
+{
+  "_comment": "Celadon Dept. Store elevator.",
+  "0": "Wassup.\\rWhat floor you goin' to? {YESNO 0}",
+  "1": "Can't wait to serve you again.",
+  "2": "Bet.\\nGoin' up!\\r",
+  "3": "Bet.\\nGoin' down!\\r",
+  "4": "Uh... We already on that floor?",
+  "5": "First floor got the Service Counter\\nand the main entrance.",
+  "6": "Second floor got the Hustler's Market\\nwhere you buy everything you need.",
+  "7": "Third floor got the TM Shop\\nto power up your homies.",
+  "8": "Fourth floor got Wiseman Gifts,\\nwith the perfect gifts.",
+  "9": "Fifth floor got the Battle Collection\\nto raise stats.",
+  "10": "Sixth floor got the Rooftop Atrium\\nfor a nice break."
+}

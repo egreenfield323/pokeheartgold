@@ -1,0 +1,9 @@
+{
+  "_comment": "Slowpoke Well B1F. Proton, the scariest Fed on the payroll. The tailless SLOWPOKE.",
+  "0": "Kurt: THAT'S how you do it, {STRVAR_1 3, 0, 0}!\\rThe Feds done ran off like roaches.\\rMy back feel better too.\\nLet's get outta here.\\r",
+  "1": "Proton: Well, well, well...\\nLook what crawled in the well.\\rThey call me the coldest,\\nmeanest Fed on the WHOLE payroll...\\rI'm finna tell you ONE time, lil bro:\\nmind your business!\\r",
+  "2": "Proton: Tch... Okay, real talk.\\nThe Feds DID get shut down\\fthree years back. Budget cuts.\\rBut we been movin' in the cut\\nsince then. Off the books.\\rA lil speed bump like you\\nain't stoppin' NOTHIN'.\\rWatch your back, bruh!\\nWe got your address!\\r",
+  "3": "A SLOWPOKE with no tail...\\rHuh? It got Mail. Read it? {YESNO 0}",
+  "4": "{STRVAR_1 3, 0, 0} read the Mail.\\rBe good and hold down the house\\nwith Grandpa and SLOWPOKE.\\f           Love, Dad",
+  "5": "A SLOWPOKE with no tail...\\nThat's foul."
+}

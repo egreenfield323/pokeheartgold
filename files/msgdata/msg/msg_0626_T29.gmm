@@ -10,71 +10,71 @@
 	</row>
 	<row id="msg_0626_T29_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That red GYARADOS wasn’t acting right.\nAs I feared, somebody must have forced\fit to evolve...\r</language>
+		<language name="English">That red GYARADOS wasn’t actin’ right.\nLike I thought, somebody FORCED it to\fevolve... Like a stage mom.\r</language>
 	</row>
 	<row id="msg_0626_T29_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you come here because of the\nwild tales?\rYou’re {STRVAR_1 3, 0, 0}?\nI’m Lance, a Hustler like you.\rI heard some rumblings, so I came to\ninvestigate...\rI saw the way you battled earlier,\n{STRVAR_1 3, 0, 0}.\rI can tell that you’re a Hustler\nwith considerable skill.\rIf you don’t mind, could you help me\ninvestigate? {YESNO 0}</language>
+		<language name="English">You came ’cause of the wild stories?\rYou {STRVAR_1 3, 0, 0}? I’m Lance. A Hustler like\nyou. But with a cape.\rI heard some rumblin’, so I came to\nlook into it...\rI saw how you scrapped, {STRVAR_1 3, 0, 0}. You\ngot REAL skill. Not as much as me.\rCould you help me investigate? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you come here because of the\nwild tales?\rYou’re {STRVAR_1 3, 0, 0}?\nI’m Lance, a Hustler like you.\rI heard some rumblings, so I came to\ninvestigate...\rI saw the way you battled earlier,\n{STRVAR_1 3, 0, 0}.\rI can tell that you’re a Hustler\nwith considerable skill.\rIf you don’t mind, could you help me\ninvestigate? {YESNO 0}</language>
+		<language name="English">You came ’cause of the wild stories?\rYou {STRVAR_1 3, 0, 0}? I’m Lance. A Hustler like\nyou. But with a cape.\rI heard some rumblin’, so I came to\nlook into it...\rI saw how you scrapped, {STRVAR_1 3, 0, 0}. You\ngot REAL skill. Not as much as me.\rCould you help me investigate? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Excellent!\rIt seems that the Lake of Rage’s\nMAGIKARP are being forced to evolve.\rA mysterious radio broadcast coming\nfrom Mahogany is probably the cause.\rAnd that suspicious souvenir shop...\rI’ll be waiting for you in Mahogany,\n{STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Lance: Excellent!\rLooks like the Lake of Rage’s\nMAGIKARP gettin’ forced to evolve.\rA weird radio signal comin’ outta\nMahogany is prob’ly why.\rAnd that “souvenir shop”...\rI’ll be waitin’ on you in Mahogany,\n{STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Excellent!\rIt seems that the Lake of Rage’s\nMAGIKARP are being forced\fto evolve.\rA mysterious radio broadcast coming\nfrom Mahogany is the cause.\rI’ll be waiting for you, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Lance: Excellent!\rLooks like the Lake of Rage’s\nMAGIKARP gettin’ forced\fto evolve.\rA weird radio signal comin’ outta\nMahogany is why.\rI’ll be waitin’ on you, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Well, if you change your mind,\nplease help me.</language>
+		<language name="English">Oh... Well, if you change your mind,\nhelp me out. I’ll be dramatically\fstarin’ at the lake.</language>
 	</row>
 	<row id="msg_0626_T29_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: What do you think?\nAre you finna help me? {YESNO 0}</language>
+		<language name="English">Lance: What you think?\nYou finna help me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The GYARADOS are angry!\nIt’s a bad omen!</language>
+		<language name="English">The GYARADOS is MAD!\nIt’s a bad omen! The end is near!\fI’m sellin’ my house!</language>
 	</row>
 	<row id="msg_0626_T29_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hahah! The MAGIKARP are biting!</language>
+		<language name="English">HAHAH! The MAGIKARP bitin’!\nThey useless, but they bitin’!</language>
 	</row>
 	<row id="msg_0626_T29_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard this lake was made by rampaging\nGYARADOS.\rI wonder if there is any connection\nto their mass outbreak now?</language>
+		<language name="English">They say this lake got made by\nGYARADOS wildin’ out.\rLike when my uncle get mad at the grill.\nSame energy. Big crater.</language>
 	</row>
 	<row id="msg_0626_T29_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did my eyes deceive me? I saw a \nred GYARADOS in the Lake of Rage...\rBut I thought GYARADOS were\nusually blue?</language>
+		<language name="English">Was I trippin’? I saw a RED GYARADOS!\rAin’t GYARADOS supposed to be BLUE?!\nI need to lay off the RageCandyBars.</language>
 	</row>
 	<row id="msg_0626_T29_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: The strong rain falling on the\nsurface seems to be agitating the\fraging lake.\rThis must have some purpose that we\nmeet again.\rWhy don’t we exchange our phone\nnumbers? {YESNO 0}\n</language>
+		<language name="English">Pryce: The hard rain got the lake all\nriled up. Like my knees.\rWe met again for a reason.\nLet’s swap numbers. {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0626_T29_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Pryce\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Pryce’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0626_T29_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: I make it a habit to train myself\non Monday mornings to give this lazy\fbody a spine.\rYou could be a good training partner.\nI’ll be waiting for your call!</language>
+		<language name="English">Pryce: I train Monday mornings to give\nthis lazy old body a spine.\rYou’d be a good trainin’ partner.\nI’ll be waitin’. By the phone. Always.</language>
 	</row>
 	<row id="msg_0626_T29_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: That’s OK, too.\nPeople ought to have their own ideas.\fThat’s the way it is.</language>
+		<language name="English">Pryce: That’s OK too.\nPeople should think for themselves.\fThat’s how it is.</language>
 	</row>
 	<row id="msg_0626_T29_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: So? Will you exchange\nnumbers with me? {YESNO 0}</language>
+		<language name="English">Pryce: So? You gon’ swap\nnumbers with me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle with the great catch\nI just got!</language>
+		<language name="English">Scrap the big catch I just got!\nIt’s a MAGIKARP. It’s still big!</language>
 	</row>
 	<row id="msg_0626_T29_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
@@ -88,7 +88,7 @@
 	</row>
 	<row id="msg_0626_T29_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can only land the same kind of\nPokémon. No matter how long I fish!</language>
+		<language name="English">I only catch the same kinda homie. No\nmatter HOW long I fish! It’s a curse!</language>
 	</row>
 	<row id="msg_0626_T29_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0626_T29_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you spot a Hustler, it’s time for\na challenge!\fThat’s the way of Hustlers!</language>
+		<language name="English">When you spot a Hustler, it’s time to\nscrap! That’s the Hustler way!\fI’m a Hustler. You a Hustler. SCRAP!</language>
 	</row>
 	<row id="msg_0626_T29_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -116,7 +116,7 @@
 	</row>
 	<row id="msg_0626_T29_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What happened to the red GYARADOS?\rIt’s gone?\nI came all the way for it...\rOK, I challenge you!</language>
+		<language name="English">What happened to the red GYARADOS?!\rIt’s GONE?!\nI drove six hours for it!\rAight, I’m scrappin’ YOU then!</language>
 	</row>
 	<row id="msg_0626_T29_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -130,11 +130,11 @@
 	</row>
 	<row id="msg_0626_T29_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage\nAlso Known As GYARADOS Lake</language>
+		<language name="English">Lake of Rage\nAlso Called GYARADOS Lake</language>
 	</row>
 	<row id="msg_0626_T29_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fishing Guru’s House</language>
+		<language name="English">Fishin’ Guru’s House</language>
 	</row>
 	<row id="msg_0626_T29_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -150,6 +150,6 @@
 	</row>
 	<row id="msg_0626_T29_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0, 0}!\rToo bad!\nThe Bag is full...</language>
+		<language name="English">Got the {STRVAR_1 8, 0, 0}!\rToo bad!\nThe Bag full...</language>
 	</row>
 </body>

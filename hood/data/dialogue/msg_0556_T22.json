@@ -1,14 +1,14 @@
 {
   "_comment": "Violet City. Earl drags you to school, the Shards-for-Berries flipper, the guy who checks your Egg's paperwork.",
   "0": "Ayo, {STRVAR_1 3, 0, 0}! We found out\\nsomethin' about the Egg!\\rMy assistant at the Trap House\\nin Violet City.\\fGo holla at him.",
-  "1": "Ayo! Ayo!\\nYou a Hustler?\\rYou beat the Block Boss yet? {YESNO 0}",
-  "2": "Ayyyy!\\nThat's what's UP!",
-  "3": "Nah? Then you need school, fam!\\fFollow me!\\r",
-  "4": "This my school. I run it.\\nNobody else wanted to.\\r",
-  "5": "Word is Ghost-type homies been\\nhauntin' Sprout Tower.\\rNormal-type moves go straight\\nthrough 'em. Spooky, bro.",
-  "6": "Ayo, you a Hustler?\\rIf you beat the Block Boss here,\\nyou ready for the big time!",
-  "7": "Falkner, the Violet City Block Boss,\\nis a real one!\\rHe took over his pops' block and\\nkept it runnin' clean.",
-  "8": "You can't have your homie out\\nwalkin' with you everywhere.\\rBuildings, caves, spots where\\nit's mad crowded...\\rJust throw it back in a\\nHood Ball. Easy.",
+  "1": "AYO! AYO! You a Hustler?\\nYou beat the Block Boss yet? {YESNO 0}",
+  "2": "AYYYY! That's what's UP!\\nPigeons in SHAMBLES!",
+  "3": "Nah?! Then you need SCHOOL, fam!\\fFollow me! It's free! Mostly!\\r",
+  "4": "This my school. I run it. Nobody else\\nwanted to. The last teacher ran away.\\r",
+  "5": "Word is Ghost homies been hauntin'\\nSprout Tower. Normal moves go right\\fthrough 'em. Like my child support.",
+  "6": "Ayo, you a Hustler?\\rBeat the Block Boss here and you\\nofficially better than pigeons.",
+  "7": "Falkner the Violet Block Boss. He\\ntook over his pops' block.\\rHe call his pigeons “birds of prey.”\\nBro, they eat bread crumbs.",
+  "8": "You can't have your homie out walkin'\\nwith you EVERYWHERE.\\rBuildings, caves, the club...\\rJust throw it back in the Hood\\nBall. It's like a car seat.",
   "9": "Violet City\\nThe City of Old Heads and Incense",
   "10": "Violet City Block\\nBoss: Falkner\\fBird Man of Violet. Feeds Pigeons.",
   "11": "Sprout Tower\\rCome Get Humbled by Some\\nOld Heads in Robes.",
@@ -26,6 +26,6 @@
   "23": "Berry set C for the\\nYellow Shard. Deal.\\r",
   "24": "Berry set D for the\\nGreen Shard. Deal.\\r",
   "25": "You already got a lot of\\nBerries from this set.\\rCome back when you run out.\\r",
-  "26": "We keep it traditional round here.\\nEven the Corner Store and Trap\\fHouse painted all dull to\\fblend in. Real bougie.",
-  "27": "You know the Pokégear let you put\\nmarks and memos on the Map?\\rI want one so bad, but my mama\\nsay I'll just lose it."
+  "26": "We keep it TRADITIONAL round here.\\nEven the Trap House painted beige.\\fBeige, bro. That's oppression.",
+  "27": "The Pokégear let you put marks on\\nthe Map? I want one SO bad.\\rMy mama say I'll lose it. I lost\\nmy LAST one. And the one before."
 }

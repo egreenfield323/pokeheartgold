@@ -1,0 +1,10 @@
+{
+  "_comment": "Celadon Condos elevator.",
+  "0": "Celadon Condos\\nThis elevator go straight to\\fthe roof.\\rGo to the roof? {YESNO 0}",
+  "1": "Celadon Condos\\nThis elevator go straight to the\\fsecond floor.\\rGo to the second floor? {YESNO 0}",
+  "2": "Come back now.",
+  "3": "Goin' up to the roof.\\r",
+  "4": "Goin' down to the second floor.\\r",
+  "5": "You at the roof.\\r",
+  "6": "You at the second floor.\\r"
+}

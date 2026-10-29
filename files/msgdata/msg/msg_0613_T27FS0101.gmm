@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0613_T27FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My EEVEE evolved into an ESPEON.\rBut my homie’s EEVEE turned into\nan UMBREON.\rI wonder why? We both were raising\nour EEVEE in the same way...</language>
+		<language name="English">My EEVEE turned into a ESPEON.\rMy homie’s EEVEE turned into a\nUMBREON.\rWe raised ’em EXACTLY the same! I\nthink he lyin’. He fed his after\fmidnight.</language>
 	</row>
 	<row id="msg_0613_T27FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you use Revive, a Pokémon that has\nfainted will wake right up.</language>
+		<language name="English">Use Smellin’ Salts and a fainted homie\nwake RIGHT up. It’s like ammonia\fand bad decisions.</language>
 	</row>
 </body>

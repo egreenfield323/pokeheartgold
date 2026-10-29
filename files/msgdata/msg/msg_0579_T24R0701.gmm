@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0579_T24R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rYou came from Olivine?\rDo you remember the four islands\nalong the way?\rI heard that a mythical sea creature is\nhiding in them.</language>
+		<language name="English">You came from Olivine?\rYou remember the four islands on the\nway?\rA mythical sea creature hidin’ in ’em.\nOr my ex. One of them two.</language>
 	</row>
 	<row id="msg_0579_T24R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-uh. Not in MY house.\nState your business. Quick.\rI heard that you can only see it if\nyou have a Silver Wing.\rIt must have the same scent as\nthe creature.</language>
+		<language name="English">I heard you can only see it if you got\na Silver Wing.\rIt smell like the creature. I sniffed\nit. Don’t ask.</language>
 	</row>
 	<row id="msg_0579_T24R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rI’ve heard that the whirlpools around\nthe islands are caused by the\fsea creature.\rYou might need a special move to\nget past them.</language>
+		<language name="English">Did you just walk in?! This a\nhouse, not a Poké Center!\rThe whirlpools round the islands come\nfrom the sea creature.\rIt’s just spinnin’ in there. Like me\nafter a breakup.</language>
 	</row>
 </body>

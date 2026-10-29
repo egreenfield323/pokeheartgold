@@ -1,0 +1,19 @@
+{
+  "_comment": "Mahogany souvenir shop / Fed hideout entrance. Grandma's whistling dentures.",
+  "0": "Huh?\\rYou hear wind blowin' in here?\\nThat's...just me whistlin'.\\rEnough about that.\\nWhy don't you buy somethin'? {YESNO 0}",
+  "1": "Arrgh...\\nYou found the secret stairs...\\rHOW?! We got these registered\\nwith the city as a BROOM CLOSET!",
+  "2": "Heheh! The experiment worked like\\na charm, bruh.\\rMAGIKARP worth nothin', but\\nGYARADOS? That's a BAG.\\fCash only. No taxes. We the Feds!",
+  "3": "Urrgh...\\rThat cape guy's Dragon-type homies\\nis TOUGH...",
+  "4": "Lance: DRAGONITE, Full Auto.\\r",
+  "5": "What took you so long, {STRVAR_1 3, 0, 0}?\\rJust like I thought, that weird radio\\nsignal comin' from here.\\r",
+  "6": "What took you so long, {STRVAR_1 3, 0, 0}?\\rJust like I thought, that weird radio\\nsignal comin' from here.\\r",
+  "7": "The stairs right here.\\r",
+  "8": "Lance: {STRVAR_1 3, 0, 0}, let's split up\\nand check this place. I'll go first.\\r",
+  "9": "Lance: {STRVAR_1 3, 0, 0}, let's split up\\nand check this place. I'll go first.\\r",
+  "10": "*whistle*...*whistle*...\\rThat noise botherin' you? That's\\nme. My false teeth don't fit right,\\fand the gap make that noise.\\rEnough about that.\\nWhy don't you buy somethin'?\\r",
+  "11": "The radio on.\\rThe variety show playin'\\nThe Pokémon Search Party!",
+  "12": "The radio on.\\rThe variety show playin'\\nThe Radio Miniseries!",
+  "13": "The radio on.\\rThe variety show playin'\\nBuena's Password!",
+  "14": "The Feds announcin' their comeback\\non the radio! Press conference style!",
+  "15": "You hear somethin' weird...!"
+}

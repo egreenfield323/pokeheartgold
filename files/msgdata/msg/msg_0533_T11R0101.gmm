@@ -2,146 +2,146 @@
 <body language="English">
 	<row id="msg_0533_T11R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup!\rKarate King, the Fighting Dojo’s\nmaster, is in a cave in Johto for\ffurther training.</language>
+		<language name="English">Wassup!\rThe Karate King, our master, is in a\ncave in Johto, trainin’ even harder.\rHe left us the Dojo. We just stand\nhere. In our gis. Sweatin’.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup!\rWe are letting the Block Bosss use the\nDojo while the Karate King is away.\rYou can give them a call when you\nregister their numbers.\rThey say they are happy to accept\nyour challenge as long as they are\fnot busy.</language>
+		<language name="English">Wassup!\rWe lettin’ the Block Bosses use the\nDojo while the Karate King gone.\rHit ’em up once you got their numbers.\nThey’ll scrap as long as they ain’t\fbusy.\fThey always busy.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Struggle for vengeance”</language>
+		<language name="English">“Struggle for Revenge”</language>
 	</row>
 	<row id="msg_0533_T11R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“A complicated fracture”</language>
+		<language name="English">“A Complicated Fracture”</language>
 	</row>
 	<row id="msg_0533_T11R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Hi! I’ve been waiting for you!\rIt’s a pleasure to be able to battle\nyou again!\r</language>
+		<language name="English">Falkner: AYO! I been waitin’ on you!\rIt’s a pleasure to scrap you again!\nMy dad would be proud!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Mmm...\nIt’s still a long way to become\fthe best Hustler...</language>
+		<language name="English">Falkner: Mmm...\nStill a long way to bein’ the best...\fLike my dad...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Good to see you again!\rBehold my bug research!\r</language>
+		<language name="English">Bugsy: Good to see you again!\rWitness my bug research!\nI got charts!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: You must have studied\na lot about Pokémon!</language>
+		<language name="English">Bugsy: You musta studied homies a LOT!\nMore than me? Impossible!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: I never break my promises!\nAre you ready?\r</language>
+		<language name="English">Whitney: I NEVER break my promises!\nYou ready? I’m ’bout to cry!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: You really are strong!\nBut I won’t lose next time!</language>
+		<language name="English">Whitney: You deadass strong!\nWAAAAH! I ain’t losin’ next time!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: There you are!\rTaste my 24-hour training!\r</language>
+		<language name="English">Chuck: THERE you!\rTaste my 24-HOUR trainin’! And my\ncake!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Wahaha!\nA battle with you is never boring!</language>
+		<language name="English">Chuck: WAHAHA!\nScrappin’ you never get borin’!\fMy wife think I’m at the gym. I’m.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: We’re here as we promised...\nAre you prepared?\r</language>
+		<language name="English">Jasmine: We here like we promised...\nYou ready? I ate before I came.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: True to your reputation...</language>
+		<language name="English">Jasmine: You live up to the hype...\nUm. Good job. Bye.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I was just talking about you...\nLet’s battle!\r</language>
+		<language name="English">Morty: I was just talkin’ about you...\nTo a ghost. Let’s scrap!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I’ve lost again...\rYou may have something more than\njust strength.</language>
+		<language name="English">Morty: I lost again...\rYou got somethin’ more than strength.\nThe ghosts told me. They gossip.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Finally.\rNo need for words.\nA Pokémon battle is the way for us\fto communicate.\r</language>
+		<language name="English">Pryce: FINALLY.\rNo need for words. A scrap is how we\ntalk. My hearin’ aid off.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Mmm...\nImpressive!</language>
+		<language name="English">Pryce: Mmm...\nIMPRESSIVE! I’ma go lay down.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: ...You are here.\nNow let’s battle!\r</language>
+		<language name="English">Clair: ...You here. FINALLY.\nNow let’s scrap! I look amazin’ today!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Way to go.\n...\fNow give it your all!</language>
+		<language name="English">Clair: Good job.\n...\fNow give it EVERYTHIN’! Next time I win!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Hey!\nThe promise we made!\fLet’s battle again!\r</language>
+		<language name="English">Lt. Surge: AYO, PRIVATE!\nThe promise we made!\fLet’s scrap again! HOO-RAH!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh no!\nYou are very strong!\fBut I will repay my debt someday.</language>
+		<language name="English">Lt. Surge: Oh NO!\nYou VERY strong!\fBut I’ma pay you back someday. Like a\fsalute. A violent salute.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I knew you’d come!\nI had a feeling.\rWhat? We promised each other,\nso it’s no surprise?\r...Well, you may be right.\r</language>
+		<language name="English">Sabrina: I knew you’d come!\nI had a feelin’.\rWhat? We PROMISED, so it ain’t a\nsurprise?\r...Well, you might be right.\nStop ruinin’ my mystique.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I know...you will give me a call\nagain sometime.</language>
+		<language name="English">Sabrina: I know...you gon’ call me\nagain. Tuesday. 4:15. I’m ready.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How are you?\nGood to see you again!\rThis place really doesn’t suit me,\fbut...let’s ignore that and battle!\r</language>
+		<language name="English">Erika: How you doin’? Good to see you!\rThis place DEADASS ain’t my style.\nIt smell like feet.\fBut let’s ignore that and scrap!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: You have grown even stronger...</language>
+		<language name="English">Erika: You got even stronger...\nI’ma go nap on the mats.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: So here you are...\nDon’t make me wait!\rI’ve heard a lot of good things\nabout you since our last battle.\rLet me test how good you are!\r</language>
+		<language name="English">Misty: So THERE you, you PEST...\nDon’t make me wait!\rI heard MAD good things about you since\nour last scrap.\rLemme see if the hype is real!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Sheesh!\nYou are getting stronger by\fthe battle!</language>
+		<language name="English">Misty: SHEESH!\nYou gettin’ stronger every scrap!\fUgh. Stop it.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: All right!\nTime to fulfill our promise!\fLet’s have a Pokémon battle!\r</language>
+		<language name="English">Brock: Aight! Time to keep our promise!\fLet’s scrap! The ladies watchin’!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I’ve lost again...\nYou ain’t adventuring around\ffor nothing!</language>
+		<language name="English">Brock: I lost again...\nYou ain’t adventurin’ for nothin’!\fNo ladies was watchin’.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I can’t use my ninja technique,\nbut I won’t let you win!\r</language>
+		<language name="English">Janine: I can’t use my ninja moves in\nhere, but I ain’t lettin’ you win!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I lost today,\nbut I’ll win next time!</language>
+		<language name="English">Janine: I lost today, but I’ma win next\ntime! Don’t tell my dad!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: You keep your word.\nThat’s a good thing, kiddo!\r</language>
+		<language name="English">Blaine: You keep your word. That’s\ngood, kiddo! Unlike volcanoes!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Waaah!\rIf I had known this Dojo was finna be\navailable, I wouldn’t have needed to\frebuild my Block.\rWait! I still did, didn’t I?</language>
+		<language name="English">Blaine: WAAAH!\rIf I knew this Dojo was gon’ be open, I\nwouldn’t have had to rebuild my Block!\rWait! I still did, didn’t I?\nIn a CAVE.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Good!\nThanks for coming to lose to me!\r</language>
+		<language name="English">Blue: GOOD!\nGood looks for comin’ to lose to me!\fSmell ya later!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Hahaha!\nMy scare tactic doesn’t scare you\fat all!</language>
+		<language name="English">Blue: HAHAHA! My scare tactics don’t\nscare you AT ALL!\fThat’s... concernin’.</language>
 	</row>
 </body>

@@ -11,7 +11,7 @@
 	</row>
 	<row id="msg_0441_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} will be fully\nrestored.</language>
+		<language name="English">{STRVAR_1 0, 0, 0} will be fully restored.\nIt deserve it. It’s the star.</language>
 	</row>
 	<row id="msg_0441_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0441_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
+		<language name="English">Delete your existin’ Battle Video and\nsave the last battle?</language>
 	</row>
 	<row id="msg_0441_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -39,7 +39,7 @@
 	</row>
 	<row id="msg_0441_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save and take a break\nfrom playing?</language>
+		<language name="English">Would you like to save and take a break\nfrom playin’?</language>
 	</row>
 	<row id="msg_0441_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -47,7 +47,7 @@
 	</row>
 	<row id="msg_0441_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} is choosin’.\nPlease wait.</language>
 	</row>
 	<row id="msg_0441_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
@@ -60,7 +60,7 @@
 	</row>
 	<row id="msg_0441_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have cleared your tenth Battle Hall\nmatch! Congratulations!\rFor your stupendous win streak, you\nand {STRVAR_1 0, 0, 0} are awarded BP!\r</language>
+		<language name="English">You cleared your TENTH Battle Hall\nmatch! Congratulations!\rFor that stupendous streak, you AND\n{STRVAR_1 0, 0, 0} get BP!\r</language>
 	</row>
 	<row id="msg_0441_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0441_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the type of Pokémon\nyou will battle.\r</language>
+		<language name="English">Pick the type of homie you wanna scrap.\nChoose wisely. Or don’t. It’s a show.\r</language>
 	</row>
 	<row id="msg_0441_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -140,23 +140,23 @@
 	</row>
 	<row id="msg_0441_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\nPlease hold on a moment.\rIn recognition of your remarkable\nwinning streak, our Frontier Brain is\fdemanding a match with you.\rActually, you have no choice.\nYou must battle our Hall Matron!\r</language>
+		<language name="English">’Scuse me! HOLD on!\rFor your REMARKABLE streak, our\nFrontier Brain is DEMANDING a match.\rYou ain’t got a choice. You MUST battle\nthe Hall Matron!\r</language>
 	</row>
 	<row id="msg_0441_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: My Battle Hall allows Hustlers\nto mount challenges with their one\fpreferred Pokémon.\rI imagine there were tense moments\ngetting here with your chosen one.\rBut understand that one shines the\nbrightest when a challenge is overcome.\rI am Argenta, and I am your final and\nmost daunting challenge.\rI dare you to overcome my challenge.\r</language>
+		<language name="English">Argenta: DARLING. My Battle Hall lets\nHustlers bring their ONE favorite homie.\rI imagine there were tense moments\ngettin’ here with your chosen one.\rBut one shines BRIGHTEST when a\nchallenge is overcome. Like ME in 1972.\rI’m Argenta. Your final and MOST\ndauntin’ challenge. And most fabulous.\rI DARE you to overcome me.\r</language>
 	</row>
 	<row id="msg_0441_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: Well!\nMy goodness, your Pokémon...\fIt’s got star power beyond belief.\rEven from inside its Hood Ball, I can\nfeel its charismatic brilliance.\rBut I’m the Hall Matron.\nI’ll be the judge of that.\rI must battle it for myself and see if\nthat brilliance is genuine.\rThat is why we must battle now.\r</language>
+		<language name="English">Argenta: Well! My GOODNESS, your\nhomie...\fIt’s got STAR POWER beyond belief.\rEven inside its Hood Ball, I can feel\nits charisma. It’s practically a diva.\rBut I’M the Hall Matron. I’LL be the\njudge of that.\rI must battle it and see if that\nbrilliance is real or if it’s just good\flightin’.\r</language>
 	</row>
 	<row id="msg_0441_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: A good Hustler doesn’t force\ntheir preferred Pokémon on anyone.\rA good one keeps with their favorite\nwithout drama or fanfare.\rThat is how I see it, at least.\rAnd, by the way I see it, you’re an\nexcellent Hustler!\rBe sure to visit the Battle Hall again\nwith a favorite Pokémon.\rUntil then, bye-bye!\r</language>
+		<language name="English">Argenta: A good Hustler don’t force\ntheir favorite homie on anybody.\rThey just keep it close. No drama. No\nfanfare. Unlike me. I LOVE fanfare.\rAnd you an EXCELLENT Hustler, darling!\rCome back with a favorite homie. Until\nthen, bye-bye! *air kiss*\r</language>
 	</row>
 	<row id="msg_0441_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: You must never forget there\nis a place where everyone can shine.\rThat goes for any and every kind of\nPokémon, too.\rSpread that message in your own words.\nIt’s one everyone should hear.\rAnd now, having lost, this lady has\nnothing left to say at all, but...\rBye-bye!\r</language>
+		<language name="English">Argenta: Never forget there’s a place\nwhere EVERYONE can shine. Even the\fugly homies.\rSpread that message in your own words.\rAnd now, havin’ lost, this lady has\nnothin’ left to say, but...\rBye-bye! *dramatic exit*\r</language>
 	</row>
 	<row id="msg_0441_00037" index="37">
 		<attribute name="window_context_name">used</attribute>

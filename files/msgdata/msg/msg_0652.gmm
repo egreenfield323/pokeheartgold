@@ -6,27 +6,27 @@
 	</row>
 	<row id="msg_0652_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? I can’t hear you very well.\nMaybe we’ve got a bad connection?\rTry calling again from somewhere else.</language>
+		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0652_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? What’s up?\nI’m doing great!\r</language>
+		<language name="English">Wassup? What’s good?\nI’m doin’ GREAT!\r</language>
 	</row>
 	<row id="msg_0652_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aren’t there any other Hustlers you’d\nlike to battle more than me?</language>
+		<language name="English">Ain’t there other Hustlers you’d\nrather scrap than me?</language>
 	</row>
 	<row id="msg_0652_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My free time?\nI’m usually available Friday mornings.\fTry calling me again then!</language>
+		<language name="English">My free time?\nI’m usually free Friday mornings.\fTry callin’ me then!</language>
 	</row>
 	<row id="msg_0652_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you!\rBattle me again!\nWhat do you say? {YESNO 0}</language>
+		<language name="English">Ayo, you!\rScrap me again!\nWhat you say? {YESNO 0}</language>
 	</row>
 	<row id="msg_0652_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\rI’ll be waiting for you in Saffron City’s\nFighting Dojo. Don’t be late!</language>
+		<language name="English">Aight!\rI’ll be waitin’ at the Saffron Dojo.\nDon’t be late, soldier!</language>
 	</row>
 	<row id="msg_0652_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,30 +34,30 @@
 	</row>
 	<row id="msg_0652_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nWell, I appreciate that you want to\fbattle me again, but didn’t you promise\fsomeone else?</language>
+		<language name="English">Hmm...\nWell, I appreciate you wanna\fscrap me again, but didn’t you promise\fsomebody else?</language>
 	</row>
 	<row id="msg_0652_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting for you at the Fighting\nDojo in Saffron City.\fDon’t forget! Come on!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\fDon’t forget! C’mon!</language>
 	</row>
 	<row id="msg_0652_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! This is Lt. Surge.\nHow are you?\r</language>
+		<language name="English">Yo! This Lt. Surge.\nHow you livin’?\r</language>
 	</row>
 	<row id="msg_0652_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you forget that I’m standing\nin the Fighting Dojo in Saffron City\fwaiting for you?\rI guess I got here before you.\nI’ll be waiting!</language>
+		<language name="English">Ayo, you forget I’m standin’\nin the Saffron Dojo\fwaitin’ on you?\rGuess I got here first.\nI’ll be waitin’!</language>
 	</row>
 	<row id="msg_0652_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, why do you think I put all those\ntraps in the Vermilion Block?\rThat’s right!\nIt’s to test the intellect of any\fTrainer who comes in to battle!\rPokémon battles ain’t just about\npower or stamina.\rIf you can balance power and\nintelligence, then you’ve got the\fmakings to become a great Hustler!</language>
+		<language name="English">So, why you think I put all them\ntraps in the Vermilion Block?\rThat’s right!\nTo test the brains of any\fHustler who come in to scrap!\rScraps ain’t just about\npower or stamina.\rIf you balance power and\nbrains, then you got the\fmakings of a great Hustler!</language>
 	</row>
 	<row id="msg_0652_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was fighting for my country,\nI helped raise a lot of Hustlers, taught\fthem the ropes.\rBut!\rBy the time you met me, you’d already\nperfected your abilities!\rWhere did you train? Who taught you how\nto battle?\rIt’s so strange and amazing!</language>
+		<language name="English">When I was fightin’ for my country,\nI raised a lotta Hustlers, showed\f’em the ropes.\rBut!\rBy the time you met me, you already\nhad your skills on lock!\rWhere you train? Who taught you how\nto scrap?\rIt’s so weird and amazin’!</language>
 	</row>
 	<row id="msg_0652_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been studying this region’s\ndialect during my time as Block Boss\fhere in Vermilion.\rBut there’s still so many sayings that\nI don’t understand.\rHey, will you talk with me some more?\nWe could teach each other some\fnew things to say!</language>
+		<language name="English">I been studyin’ how people talk\naround here since I became Block Boss\fin Vermilion.\rBut there’s still so much slang\nI don’t understand.\rAyo, will you talk with me some more?\nWe could teach each other some\fnew things to say! No cap!</language>
 	</row>
 </body>

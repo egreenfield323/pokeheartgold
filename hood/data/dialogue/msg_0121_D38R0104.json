@@ -1,0 +1,9 @@
+{
+  "_comment": "Mt. Mortar. The Karate King (Bouncer) and his TYROGUE.",
+  "0": "AYO!\\rI'm the KARATE KING! I train ALONE in this\\ncave! For YEARS! No snacks!\\rYou! Scrap with me!\\nHWAAARGGH!\\r",
+  "1": "I... I'm CRUSHED...\\rMy trainin' still ain't enough...\\nTen years in a cave for THIS?\\rAn L is an L. I admit it.\\rAs proof you beat me, here's a rare Fightin'\\nhomie. It's my only friend. Take care of it.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got TYROGUE from\\nthe Karate King!",
+  "3": "TYROGUE a Fightin' type. It evolve into\\nsomethin' TOUGHER.\\rKeep grindin'. I'll keep trainin' too.\\nFarewell! *kicks rock* *hurts foot* OW.",
+  "4": "You ain't got room in your crew!",
+  "5": "Give a nickname to the TYROGUE\\nyou got? {YESNO 0}"
+}

@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0382_R32R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ruins of Alph.\nLook, touch, don’t steal.\fTry the slidin’ stone panels!</language>
+		<language name="English">The Ruins of Alph. Old rocks.\nOlder than my grandma.\fThat’s OLD. She knew Lincoln.</language>
 	</row>
 	<row id="msg_0382_R32R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You studyin’ the ruins?\nA scientist on the come-up.</language>
+		<language name="English">You studyin’ the ruins? Look at\nyou. Scientist on the come-up.\fI’m just here ’cause it’s free AC.</language>
 	</row>
 	<row id="msg_0382_R32R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s drawings on the panels.\nI tried movin’ ’em.\fNo clue what they are.</language>
+		<language name="English">I tried movin’ the stone panels for\nthree hours. Ain’t figured nothin’\fout.\fI’m basically a archaeologist now.</language>
 	</row>
 </body>

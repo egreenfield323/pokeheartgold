@@ -1,0 +1,13 @@
+{
+  "_comment": "Route 42. The guy who bumps into you (Muscle/Strength), Eusine's SUICUNE poetry.",
+  "0": "Rt. 42 Ecruteak City\\nto Mahogany Town",
+  "1": "Mt. Mortar\\nWaterfall Cave Inside",
+  "2": "Mt. Mortar\\nWaterfall Cave Inside",
+  "3": "Rt. 42 Mahogany Town\\nto Ecruteak City",
+  "4": "{SIZE 200}BONK!{SIZE 100}\\r",
+  "5": "OH, BOY!\\rMy bad for bumpin' into you!\\nI'm 300 pounds of pure apology!\\rPlease don't cry. Please don't sue.\\nHere, take this. We good?\\r",
+  "6": "It's a move called Muscle!\\rWhen a homie learn it, it can move\\nboulders out your way.\\fEnjoy a happy mountain-climbin' life!\\r",
+  "7": "Eusine: SUICUNE...\\nSo brave!\\fSo refreshin'!\\fSo beautiful!\\fAnd SO FAST! Why it always runnin'?!\\r",
+  "8": "{STRVAR_1 3, 0, 0}! You KEEP showin' up wherever\\nSUICUNE show up. Suspicious.\\rWell, that's OK.\\nMy need for SUICUNE is WAY bigger.\\rMy grandpa was obsessed with myths.\\nNow I'm obsessed. It's genetic.\\r",
+  "9": "SUICUNE...\\rI ain't gon' stop followin' you till\\nI find out what you after...\\rYou hear me?! I got a whole wall of\\npictures and red string!\\r"
+}

@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0132_D46R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: I came to Kanto to look for\nBug-type Pokémon, so I can become\fa stronger Bug-type Pokémon Hustler!\rHey, why don’t we swap phone\nnumbers? {YESNO 0}</language>
+		<language name="English">Bugsy: I came to Kanto lookin’ for\nBug homies! Kanto bugs hit\fDIFFERENT!\rAyo, why don’t we swap numbers? I’ll\ntell you about bugs. All day. {YESNO 0}</language>
 	</row>
 	<row id="msg_0132_D46R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Bugsy\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Bugsy’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0132_D46R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: We can battle around lunch\non Thursdays!\fGive me a call!</language>
+		<language name="English">Bugsy: We can scrap around lunch\non Thursdays!\fHit me up!</language>
 	</row>
 	<row id="msg_0132_D46R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Oh, well...\nThat’s OK...</language>
+		<language name="English">Bugsy: Oh, well... That’s OK...\nI’ll just tell the bugs instead.</language>
 	</row>
 	<row id="msg_0132_D46R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Will you give me your phone\nnumber? {YESNO 0}</language>
+		<language name="English">Bugsy: You gon’ gimme your phone\nnumber? {YESNO 0}</language>
 	</row>
 </body>

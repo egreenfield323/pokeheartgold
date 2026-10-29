@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0489_T06R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rDo you know about the Magnet Train?\rIt’s a railway that connects\nKanto and Johto.</language>
+		<language name="English">You know about the Magnet Train?\rIt’s a railway connectin’ Kanto and\nJohto. It float. On MAGNETS.\fWitchcraft.</language>
 	</row>
 	<row id="msg_0489_T06R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron! Saffron!\nI want to go to Saffron City to see\fthe Magnet Train.\rMagnet Train!</language>
+		<language name="English">Saffron! Saffron!\nI wanna go to Saffron and see the\fMagnet Train!\rMAGNET TRAIN! MAGNET TRAIN!\nI’m 30.</language>
 	</row>
 </body>

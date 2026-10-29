@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0263_P01R0307_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, youngblood. Could I get you to\nlook for my buddy?\rHe’s taking it easy somewhere, that\ngood for nothing!\rI want to go find him, but I’m on guard\nduty and have to stay right here.\r</language>
+		<language name="English">Ayo, youngblood. Find my partner.\rHe chillin’ somewhere, that no-good\nlazy BUM! He owe me a shift!\rI’m on guard duty and can’t move.\nIf I move, I’m fired.\r</language>
 	</row>
 	<row id="msg_0263_P01R0307_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, youngblood. Could I get you to\nlook for my buddy?\rHe’s taking it easy somewhere, that\ngood for nothing!\fI want to go find him, but I’m on guard\fduty and have to stay right here.</language>
+		<language name="English">Ayo, youngblood. Find my partner.\rHe chillin’ somewhere, that no-good\nlazy BUM! He owe me a shift!\fI’m on guard duty and can’t move.\fIf I move, I’m fired.</language>
 	</row>
 	<row id="msg_0263_P01R0307_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks, youngblood!\nI yelled at him good so he’ll quit\fslacking off!</language>
+		<language name="English">Good looks, youngblood! I yelled at\nhim SO good. He cried.\fHe back to work now. Cryin’, but\nworkin’.</language>
 	</row>
 	<row id="msg_0263_P01R0307_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -29,6 +29,6 @@
 	</row>
 	<row id="msg_0263_P01R0307_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you found me!\rI better go back to my grandpa!\r</language>
+		<language name="English">Oh, you found me!\rI better get back to my grandpa!\r</language>
 	</row>
 </body>

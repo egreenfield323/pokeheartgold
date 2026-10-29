@@ -17,54 +17,54 @@
 	</row>
 	<row id="msg_0344_R10R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: My beloved generator!\rKeep pumping the electricity out to\nprovide a pleasant life for Kanto!</language>
+		<language name="English">Manager: My BELOVED generator!\rKeep pumpin’ out electricity!\nGive Kanto a GOOD life! I love you!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll have to beef up our security\npresence so something like this will\fnever happen again!</language>
+		<language name="English">We gotta beef up security so nothin’\nlike this EVER happen again!\rWe hired a guard. He sleep. Still.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The generator’s up and running.\nIt’s making electricity to spare.</language>
+		<language name="English">The generator up and runnin’.\nIt’s makin’ extra electricity.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The generator’s running again!</language>
+		<language name="English">The generator runnin’ again!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since the generator’s been fixed, the\nManager has been cheerful.</language>
+		<language name="English">Since they fixed the generator, the\nManager been in a GOOD mood.\rHe hug it. Every mornin’. It’s weird.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! We can finally get the\nMagnet Train running again.</language>
+		<language name="English">Aight! We can finally get the\nMagnet Train runnin’ again.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I collect Pokémon.\nDo you have a DUGTRIO?\rWant to trade it for my MAGNETON? {YESNO 0}</language>
+		<language name="English">I collect homies.\nYou got a DUGTRIO?\rWanna trade it for my MAGNETON? {YESNO 0}</language>
 	</row>
 	<row id="msg_0344_R10R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got myself a DUGTRIO!\nThanks!</language>
+		<language name="English">Yesss! I got me a DUGTRIO!\nGood looks!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? That’s not DUGTRIO.\nWhat a letdown...</language>
+		<language name="English">Huh? That ain’t DUGTRIO.\nYou tried to finesse me...</language>
 	</row>
 	<row id="msg_0344_R10R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade? Aww...</language>
+		<language name="English">You don’t wanna trade? Aww...</language>
 	</row>
 	<row id="msg_0344_R10R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how’s my old MAGNETON doing?</language>
+		<language name="English">Ayo, how my old MAGNETON doin’?</language>
 	</row>
 	<row id="msg_0344_R10R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Staff Mottos:\r1. Electricity is not infinite.\n2. Conserve wherever possible.\f3. Watch out for each other.\f4. Idle hands are not allowed.\f5. Wear shoes with rubber soles.\f6. The Manager is awesome.</language>
+		<language name="English">Staff Mottos:\r1. Electricity ain’t infinite.\n2. Save it wherever you can.\f3. Look out for each other.\f4. No standin’ around.\f5. Wear shoes with rubber soles.\f6. The Manager is AWESOME.\f(He wrote this list.)</language>
 	</row>
 	<row id="msg_0344_R10R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use electricity wisely\nfor a bright and pleasant life.\f           Kanto Power Plant</language>
+		<language name="English">Use electricity wisely\nfor a bright, good life.\f           Kanto Power Plant</language>
 	</row>
 </body>

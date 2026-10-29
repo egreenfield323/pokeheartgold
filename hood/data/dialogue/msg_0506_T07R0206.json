@@ -1,0 +1,11 @@
+{
+  "_comment": "Game Freak elevator.",
+  "0": "This elevator is for Game Freak only.\\rPick the floor you\\nwanna go to. {YESNO 0}",
+  "1": "Come back now.",
+  "2": "Goin' up.\\r",
+  "3": "Goin' down.\\r",
+  "4": "We already there.",
+  "5": "You at the first floor.\\r",
+  "6": "You at the third floor--\\nGame Freak.\\r",
+  "7": "You at the roof.\\r"
+}

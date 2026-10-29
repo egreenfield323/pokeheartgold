@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0127_D42R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa! You startled me there!\rI had my BlackGlasses on, so I didn’t\nnotice you at all.\rWhat am I doing here?\rHey, don’t you worry about it.\nI’ll give you a pair of BlackGlasses, so\fforget you saw me, OK?\r</language>
+		<language name="English">WHOA! You scared me!\rI had my BlackGlasses on, so I ain’t\nsee you. It’s DARK in here. Why I wear\fsunglasses?\fI don’t know. Looks cool.\rWhat am I doin’ here? Don’t worry\nabout it. Here, take some\fBlackGlasses.\fForget you saw me, OK? I wasn’t here.\r</language>
 	</row>
 	<row id="msg_0127_D42R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,10 +11,10 @@
 	</row>
 	<row id="msg_0127_D42R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BlackGlasses up the power of\nDark-type moves.</language>
+		<language name="English">BlackGlasses power up\nDark-type moves.</language>
 	</row>
 	<row id="msg_0127_D42R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have room for this...</language>
+		<language name="English">You ain’t got room for this...</language>
 	</row>
 </body>

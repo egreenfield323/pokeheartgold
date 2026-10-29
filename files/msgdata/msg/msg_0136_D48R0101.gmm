@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0136_D48R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nThey are constructing a Safari Zone\fjust around the corner.\rThey say it’ll be really fun!\nYou will see many different kinds of\fPokémon, and it’s all you can catch!\rThere is no reason not to go, right?\nI’m so looking forward to the\fSafari Zone!\rFinish the construction already!</language>
+		<language name="English">You KNOW? They buildin’ a Safari Zone\nRIGHT around\fthe corner!\rIt’s gon’ be SO fun! You gon’ see MAD\nhomies, and it’s all you\fcan catch! LIKE A BUFFET!\rAin’t no reason not to go, RIGHT?! I’m\nSO HYPE! I ain’t slept in DAYS!\rFINISH THE CONSTRUCTION ALREADY!</language>
 	</row>
 	<row id="msg_0136_D48R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know? There’s a Safari Zone\njust around the corner.\rIt’s really fun!\nYou will see many different kinds of\fPokémon, and it’s all you can catch!\rThere is no reason not to go, right?\nJust around the corner.\rIt won’t take too long.\nWhy don’t you drop by? Won’t you? {YESNO 0}</language>
+		<language name="English">You KNOW? There’s a Safari Zone RIGHT\naround the corner!\rIt’s SO fun! MAD homies, all you can\ncatch! LIKE A BUFFET!\rAin’t no reason not to go, RIGHT?!\nRight around the corner!\rIt won’t take long. Why don’t you\nstop by? Huh? HUH? {YESNO 0}</language>
 	</row>
 	<row id="msg_0136_D48R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nIt’s just over there.\rGo up the stairs, and you’ll be outside.\nThen it’s only a few paces away!</language>
+		<language name="English">AIGHT! It’s RIGHT over there!\rUp the stairs and outside.\nThen a few steps! You’ll LOVE it!</language>
 	</row>
 	<row id="msg_0136_D48R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s such a good deal, you know?</language>
+		<language name="English">It’s SUCH a good deal, you know? I get\ncommission. Not that that matters.</language>
 	</row>
 	<row id="msg_0136_D48R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See? The Safari Zone was fun?\nNo need to say anything!\fYour face says it was really fun!</language>
+		<language name="English">See?! The Safari Zone was FUN?\nDon’t say nothin’!\fYour face say it ALL!</language>
 	</row>
 	<row id="msg_0136_D48R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou want to go to the Safari Zone, too?\rIt’s still under construction.\nPlease come back later.</language>
+		<language name="English">What?\nYou wanna go to the Safari Zone too?\rIt’s still under construction.\nCome back later.</language>
 	</row>
 	<row id="msg_0136_D48R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I appreciate that everybody is looking\nforward to it. But the lady at the\freception seems a bit too dramatic...\fDon’t get your expectations too high!</language>
+		<language name="English">I appreciate everybody bein’ hype for\nit. But the lady at the desk a lil TOO\fdramatic... She been yellin’ for a\nmonth.</language>
 	</row>
 	<row id="msg_0136_D48R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Hey, {STRVAR_1 3, 0, 0}!\nGood to see you again! But I never\fexpected to see you around here.\rCould it be...that you are on the way\nto the Embedded Tower?\rThe Embedded Tower is a huge tower\npiercing the sky.\rIt is said to have something to do with\nthe mythical Pokémon that stretched\fthe seas and that Pokémon that widened\fthe lands.\rBut the tower no longer is standing.\r</language>
+		<language name="English">Chuck: Ayo, {STRVAR_1 3, 0, 0}!\nGood to see you again! But I never\fthought I’d see you out here.\rCould it be...you on the way\nto the Embedded Tower?\rThe Embedded Tower is a huge tower\npiercin’ the sky.\rThey say it got somethin’ to do with\nthe mythical homie that stretched\fthe seas and the homie that widened\fthe land.\rBut the tower ain’t standin’ no more.\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: The way to the Embedded Tower\nis harder than you can imagine.\rYou need to use Wall Climb\nas well as Hydrant Wave.\r</language>
+		<language name="English">Chuck: The way to the Embedded Tower\nis harder than you can imagine.\rYou need Wall Climb\nAND Hydrant Wave.\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: I see! So you’ve defeated all\nthe Block Bosses in Kanto as well!\rThen there’s nothing to worry about.\nBelieve in yourself and walk your path.\rYahaha!\r</language>
+		<language name="English">Chuck: I see! So you beat all\nthe Block Bosses in Kanto too!\rThen ain’t nothin’ to worry about.\nBelieve in yourself and keep walkin’.\rYahaha!\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything Is Thrilling!\nExplore to Find Wild Pokémon!\rWarden Baoba’s Safari Zone\nComing Soon!</language>
+		<language name="English">Everything Is Thrillin’!\nExplore to Find Wild Homies!\rWarden Baoba’s Safari Zone\nComin’ Soon!</language>
 	</row>
 	<row id="msg_0136_D48R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything Is Thrilling!\nExplore to Find Wild Pokémon!\rWarden Baoba’s Safari Zone\nUp and Running!</language>
+		<language name="English">Everything Is Thrillin’!\nExplore to Find Wild Homies!\rWarden Baoba’s Safari Zone\nUp and Runnin’!</language>
 	</row>
 </body>

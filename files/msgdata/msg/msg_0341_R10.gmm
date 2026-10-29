@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0341_R10_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh, yay!\nYou have the Pokémon I love best:\fPIKACHU!\rExcellent!\nI’ll give you my telephone number! {YESNO 0}</language>
+		<language name="English">Lt. Surge: OH, YAY!\nYou got my FAVORITE homie: PIKACHU!\rEXCELLENT, private!\nI’ma give you my number! {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Lt. Surge\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Lt. Surge’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0341_R10_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Give me a call on Friday\nmorning!\rWe can have an electrifying battle!</language>
+		<language name="English">Lt. Surge: Hit me up Friday mornin’!\rWe can have a ELECTRIC scrap!\nHOO-RAH!</language>
 	</row>
 	<row id="msg_0341_R10_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh no!\nHow disappointing!</language>
+		<language name="English">Lt. Surge: Oh NO! That’s\ndisappointin’, private! Drop and\fgimme twenty!</language>
 	</row>
 	<row id="msg_0341_R10_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Aha!\nNow you want to know my telephone\fnumber, don’t you? {YESNO 0}</language>
+		<language name="English">Lt. Surge: Aha!\nNow you want my\fnumber, don’t you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh! What are the chances\nof seeing you at a place like this?\rI can feel electric power around\nthe Power Plant.\rYou may want to catch a PIKACHU in\nthe Viridian Forest and bring it here!</language>
+		<language name="English">Lt. Surge: OH! What’s the chances of\nseein’ you out here?!\rI can feel ELECTRIC power around the\nPower Plant. It’s givin’ me\fgoosebumps.\rCatch a PIKACHU in Viridian Forest\nand bring it here! That’s an ORDER!</language>
 	</row>
 	<row id="msg_0341_R10_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon staring\nat you...!\r</language>
+		<language name="English">There’s a big homie starin’\nat you...!\r</language>
 	</row>
 	<row id="msg_0341_R10_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

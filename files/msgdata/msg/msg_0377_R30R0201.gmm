@@ -107,7 +107,7 @@
 	</row>
 	<row id="msg_0377_R30R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Orb got somethin’ to do with\nthe old ruins past\fCianwood City, called the\fEmbedded Tower.\rBut only a few hustlers can\nmake it out there...\rThat’s where you come in.\rOak think real high of you.\nHe think high of everything.\fBut you the Kingpin now.\rYou can figure out the Orb\nand what’s in them ruins.</language>
+		<language name="English">That Orb got somethin’ to do with\nthe old ruins past\fCianwood City, called the\fEmbedded Tower.\rBut only a few hustlers can\nmake it out there...\rThat’s where you come in.\rOak think real high of you.\nHe think high of everythin’.\fBut you the Kingpin now.\rYou can figure out the Orb\nand what’s in them ruins.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -123,6 +123,6 @@
 	</row>
 	<row id="msg_0377_R30R0201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A whole pile of weird coins!\fProbably from a laundromat...</language>
+		<language name="English">A whole pile of weird coins!\fProb’ly from a laundromat...</language>
 	</row>
 </body>

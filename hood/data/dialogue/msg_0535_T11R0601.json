@@ -1,0 +1,22 @@
+{
+  "_comment": "Saffron Magnet Train station. Lt. Surge's French PIKACHU trade.",
+  "0": "This a PROBLEM!\\rThe machine at the Power Plant broke, and\\nwe ain't gettin' electricity!\\rNo idea when the Magnet Train gon' run.\\nI'm stuck. I live here now.",
+  "1": "Thanks to whoever got the\\nPower Plant back runnin',\\fthe Magnet Train back!\\rPassengers gotta go through the\\ngate for the ticket check...\\r",
+  "2": "...Beep!\\rSo sorry, but you need\\na Magnet Train Pass to get on\\fthe train. No hoppin' the gate.\\r",
+  "3": "Passengers gotta go through the\\ngate for the ticket check...\\r",
+  "4": "Ping...fwip!\\nHere go your Pass back.\\rThis train about to leave\\nfor Goldenrod City.",
+  "5": "Enjoy the attractive and magnetic\\njourney!",
+  "6": "Now arrivin' at Saffron! Saffron!\\nThe accent on the “a”!",
+  "7": "Enjoy the attractive and magnetic\\njourney!\\r",
+  "8": "The Magnet Train is a SUPER-modern train\\nthat use electricity and magnets to go\\fcrazy fast.\\rBut there ain't no electricity.\\nIt's just a iron box right now. A expensive\\fbox.",
+  "9": "Whew... How many times I went back and\\nforth between Kanto and Johto?\\fI lost count. I live on this train.",
+  "10": "Before they built the station, there was\\na house here.\\rA lil girl they called Copycat lived here.\\nThey bulldozed it. Progress.",
+  "11": "Ayo. You got a Magnet Train Pass?\\nI got one.\\rEverybody in Saffron who ride got one.\\nYou ain't EVERYBODY though.",
+  "12": "Lt. Surge: OH! I never thought I'd see you\\nout here! What a coincidence!\\rI can feel BIG electric power around this\\nstation!\\rYou had a PIKACHU, didn't you, private?\\nTrade it for my FRENCH PIKACHU?\\fIt say “Pika-ooh-la-la.” {YESNO 0}",
+  "13": "Lt. Surge: My PIKACHU and\\nyour PIKACHU up for a trade,\\fwhat you think?",
+  "14": "Lt. Surge: Sheesh! ELECTRIFYIN'!\\nLet's trade 'em now!\\r",
+  "15": "Lt. Surge: SHOCKIN'!\\nI wanna share my PIKACHU love with you!\\rI'm ready anytime. Just bring a PIKACHU,\\nprivate. That's an order.",
+  "16": "Lt. Surge: YEAH!\\nI'm so hype! I'll see you around.\\fBye!\\r",
+  "17": "Lt. Surge: WHAT? That ain't the right\\nhomie!\\rI ain't tradin' my PIKACHU for nothin' but\\na PIKACHU! At EASE!",
+  "18": "Please keep your homies behaved or in their\\nHood Balls so they don't lick other\\fpassengers' faces.\\fThis happen DAILY. Good looks."
+}

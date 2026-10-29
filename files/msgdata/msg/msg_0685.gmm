@@ -6,90 +6,90 @@
 	</row>
 	<row id="msg_0685_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Is that thing a Pokédex? Have you\nmet Professor Oak?\rHuh? You have?\nThat’s way hard!\rI have a dream of becoming a Pokémon\nresearcher like Professor Oak.\rMay I please have your phone number?\rWe should chat about Professor Oak.\rI’m sure it will be loads of fun! {YESNO 0}</language>
+		<language name="English">Huh? Is that a Pokédex? You\nmet Professor Oak?\rHuh? You have?\nThat’s HARD!\rI dream of bein’ a homie\nresearcher like Professor Oak.\rCan I please get your number?\rWe should chat about Professor Oak.\rIt’s gon’ be mad fun! {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must listen to Professor Oak’s\nPokémon Talk, right?</language>
+		<language name="English">You listen to Professor Oak’s\nHomie Talk, right?</language>
 	</row>
 	<row id="msg_0685_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I wish I had a chance to meet\nProfessor Oak...</language>
+		<language name="English">Oh... I wish I could meet\nProfessor Oak...</language>
 	</row>
 	<row id="msg_0685_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">May I please have your phone number?\rWe should chat about Professor\nOak. It will be loads of fun! {YESNO 0}</language>
+		<language name="English">Can I please get your number?\rWe should chat about Professor\nOak. It’s gon’ be mad fun! {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, ain’t you nearby?\fDo you like the phone that much?</language>
+		<language name="English">Huh?\nWait, ain’t you right nearby?\fYou like the phone that much?</language>
 	</row>
 	<row id="msg_0685_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I recently began observing wild\n{STRVAR_1 0, 10, 0}.\rI’ve been learning all sorts of new\nthings through my observations.\rI wish I could become a Pokémon\nresearcher like Professor Oak soon.\rSee you later!</language>
+		<language name="English">I just started watchin’ wild\n{STRVAR_1 0, 10, 0}.\rI been learnin’ all kinds of new\nstuff from watchin’.\rI wish I could be a homie\nresearcher like Professor Oak soon.\rLater!</language>
 	</row>
 	<row id="msg_0685_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yes, I managed to knock out a wild\n{STRVAR_1 0, 11, 0} a while back.\rWell, considering all the Pokémon\nstudying I do every day,\fit was inevitable.\rSee you later!</language>
+		<language name="English">Oh yeah, I knocked out a wild\n{STRVAR_1 0, 11, 0} a while back.\rWell, with all the homie\nstudyin’ I do every day,\fit was bound to happen.\rLater!</language>
 	</row>
 	<row id="msg_0685_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yes, I came close to catching\na wild {STRVAR_1 0, 11, 0}, but it got away.\rFor the longest time, I’ve been wanting\nto observe {STRVAR_1 0, 11, 0}. Man...\rSee you later!\n</language>
+		<language name="English">Oh yeah, I almost caught\na wild {STRVAR_1 0, 11, 0}, but it dipped.\rI been wantin’ to study\n{STRVAR_1 0, 11, 0} FOREVER. Man...\rLater!\n</language>
 	</row>
 	<row id="msg_0685_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Blue?\rHe’s Professor Oak’s grandson and a\nformer Big League Kingpin!\fHe’s one super Pokémon Hustler!\rSee you later!</language>
+		<language name="English">You know Blue?\rHe Professor Oak’s grandson and a\nformer Big League Kingpin!\fHe one super Hustler!\rLater!</language>
 	</row>
 	<row id="msg_0685_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak has a granddaughter\nnamed Daisy.\rWhen she’s around, even the most\nferocious Pokémon calm right down.\rSee you later!</language>
+		<language name="English">Professor Oak got a granddaughter\nnamed Daisy.\rWhen she around, even the most\nferocious homies calm right down.\rLater!</language>
 	</row>
 	<row id="msg_0685_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone’s talking about\nProfessor Elm.\rHe used to be an assistant to the great\nProfessor Oak!\rThat is so hard! I envy him!\rSee you later!</language>
+		<language name="English">Everybody talkin’ about\nProfessor Elm.\rHe used to be a assistant to the great\nProfessor Oak!\rThat’s HARD! I’m jealous!\rLater!</language>
 	</row>
 	<row id="msg_0685_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s dream is to compile a\ncomprehensive Pokédex.\rI envy you for taking part in that\nproject...\rSee you later!</language>
+		<language name="English">Professor Oak’s dream is to put\ntogether a complete Pokédex.\rI’m jealous you part of that\nproject...\rLater!</language>
 	</row>
 	<row id="msg_0685_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Kurt, the Hood Ball\ncreator?\rHe and Professor Oak go back a long\nway. I guess great people attract\fone another!\rSee you later!</language>
+		<language name="English">You know Kurt, the Hood Ball\nmaker?\rHim and Professor Oak go WAY\nback. I guess greatness attract\fgreatness!\rLater!</language>
 	</row>
 	<row id="msg_0685_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Big League is the great\ngathering place for all Hustlers who\fwish to become the Kingpin.\rProfessor Oak acts as an advisor to\nthe Big League’s headquarters.\rHe really is a great man.\rSee you later!</language>
+		<language name="English">The Big League is where all\nHustlers come who\fwanna be Kingpin.\rProfessor Oak is a advisor to\nthe Big League’s headquarters.\rHe deadass a great man.\rLater!</language>
 	</row>
 	<row id="msg_0685_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s Pokémon Talk is a\npopular radio show, right?\rDid you know that he was finna turn\ndown the show at first?\rBut Mary’s energy and persistence wore\nhim down.\fSo we have Mary to thank for it!\rSee you later!</language>
+		<language name="English">Professor Oak’s Homie Talk is a\npopular radio show, right?\rYou know he almost\nturned the show down at first?\rBut Mary’s energy and persistence\nwore him down.\fSo we got Mary to thank for it!\rLater!</language>
 	</row>
 	<row id="msg_0685_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak used to be a Hustler a\nlong time ago.\rBut rather than battling, he found\nPokémon themselves to be interesting.\rSo he abandoned his training to focus\non becoming a researcher.\rSee you later!</language>
+		<language name="English">Professor Oak used to be a Hustler a\nlong time ago.\rBut instead of scrappin’, he found\nhomies themselves more interestin’.\rSo he quit trainin’ to focus\non bein’ a researcher.\rLater!</language>
 	</row>
 	<row id="msg_0685_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak has a granddaughter\nnamed Daisy.\rShe has tea every day for an hour from\nthree in the afternoon.\rI wish I could join her for tea and chat\nabout Professor Oak.\rSee you later!</language>
+		<language name="English">Professor Oak got a granddaughter\nnamed Daisy.\rShe have tea every day for a hour\nstartin’ at three in the afternoon.\rI wish I could join her for tea and\nchat about Professor Oak.\rLater!</language>
 	</row>
 	<row id="msg_0685_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile traveling, he must’ve learned\nabout Pokémon naturally.\rI envy him... I’d like to travel and\nlearn about things, too...\rSee you later!</language>
+		<language name="English">You know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile travelin’, he musta learned\nabout homies naturally.\rI’m jealous... I’d like to travel and\nlearn stuff too...\rLater!</language>
 	</row>
 	<row id="msg_0685_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile traveling, he must’ve learned\nabout Pokémon naturally.\rI envy him... I’d like to travel and\nlearn about things, too...\rSee you later!</language>
+		<language name="English">You know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile travelin’, he musta learned\nabout homies naturally.\rI’m jealous... I’d like to travel and\nlearn stuff too...\rLater!</language>
 	</row>
 	<row id="msg_0685_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to battle?\rI have to battle every so often to\navoid getting rusty.\rI’ll be on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Wanna scrap?\rI gotta scrap every now and then\nso I don’t get rusty.\rI’ll be on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0685_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you remember about our battle?\rThe place is {STRVAR_1 4, 3, 0}.\nHurry over--I’m waiting.</language>
+		<language name="English">You remember our scrap?\rThe spot is {STRVAR_1 4, 3, 0}.\nHurry up--I’m waitin’.</language>
 	</row>
 	<row id="msg_0685_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m finna study all about Pokémon so\nthat Professor Oak will make me his\fassistant!</language>
+		<language name="English">I’m finna study ALL about homies so\nProfessor Oak make me his\fassistant!</language>
 	</row>
 </body>

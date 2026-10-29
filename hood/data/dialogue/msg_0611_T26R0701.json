@@ -1,0 +1,17 @@
+{
+  "_comment": "Olivine Café. Jasmine definitely did not eat all those plates.",
+  "0": "You! How your homie trainin' comin'?\\rYou ever notice big round boulders in\\nthe mountains right in your way?\\rMove 'em with Muscle!\\rOld Heads at Mt. Mortar got extra,\\nor so I heard. They got everything.",
+  "1": "*gobble*...*gobble*...\\r...*CHOKE*!\\nAck... I'm chokin'! HELP!\\rWhew! That was close.\\nI should chew. Nah. I'm good.",
+  "2": "Whenever I roll through Olivine, I HIT\\nthe Olivine Café.\\rEverything on the menu make me feel\\nSTRONGER. I'm on my ninth plate.",
+  "3": "The Olivine Café menu is BIG plates for\\nBIG Dock Workers!\\rI'm a accountant. I'm still eatin' 'em.",
+  "4": "Jasmine: AYO!\\n...!\\rThese... these empty plates ain't\\nall mine...\\rEr...\\rThe person who sat here before me\\nate a LOT...\\rAnyway, wanna swap numbers? {YESNO 0}",
+  "5": "{STRVAR_1 3, 0, 0} saved Jasmine's number\\nin the Pokégear!",
+  "6": "Jasmine: Now we can hit each other up\\nanytime.\\rI can scrap around noon on Wednesdays.\\fRight after lunch. My SECOND lunch.",
+  "7": "Jasmine: Oh... I understand...\\nI'll just eat my feelings.",
+  "8": "Jasmine: You change your mind?\\nWanna swap numbers? {YESNO 0}",
+  "9": "Jasmine: We seem to...run into each\\nother a lot.\\rWhy don't we take a pic\\nto remember it? {YESNO 0}",
+  "10": "Jasmine: You ready?\\r",
+  "11": "Jasmine: You did good. We look nice.\\nThere's food in my teeth, ain't it?",
+  "12": "Jasmine: I see...",
+  "13": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics."
+}

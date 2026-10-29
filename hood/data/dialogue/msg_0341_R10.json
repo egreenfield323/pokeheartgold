@@ -1,0 +1,13 @@
+{
+  "_comment": "Route 10. Lt. Surge loves PIKACHU, ZAPDOS at the Power Plant.",
+  "0": "Lt. Surge: OH, YAY!\\nYou got my FAVORITE homie: PIKACHU!\\rEXCELLENT, private!\\nI'ma give you my number! {YESNO 0}",
+  "1": "{STRVAR_1 3, 0, 0} saved Lt. Surge's number\\nin the Pokégear!",
+  "2": "Lt. Surge: Hit me up Friday mornin'!\\rWe can have a ELECTRIC scrap!\\nHOO-RAH!",
+  "3": "Lt. Surge: Oh NO! That's disappointin',\\nprivate! Drop and gimme twenty!",
+  "4": "Lt. Surge: Aha!\\nNow you want my\\fnumber, don't you? {YESNO 0}",
+  "5": "Lt. Surge: OH! What's the chances of seein'\\nyou out here?!\\rI can feel ELECTRIC power around the Power\\nPlant. It's givin' me goosebumps.\\rCatch a PIKACHU in Viridian Forest and bring\\nit here! That's an ORDER!",
+  "6": "There's a big homie starin'\\nat you...!\\r",
+  "7": "ZAPDOS: Rorrrrrkoom!\\r",
+  "8": "Kanto Power Plant",
+  "9": "Rock Tunnel"
+}

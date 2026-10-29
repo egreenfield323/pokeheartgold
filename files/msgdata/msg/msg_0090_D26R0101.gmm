@@ -2,6 +2,6 @@
 <body language="English">
 	<row id="msg_0090_D26R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Hey there, {STRVAR_1 3, 0, 0}!\rThe guard up top took off when\nI shouted at him.\rBut then I took a tumble down the well.\rI slammed down hard on my back,\nso I can’t move.\rRats! If I were fit, my Pokémon\nwould’ve punished them...\rAh, it can’t be helped.\r{STRVAR_1 3, 0, 0}, show them how gutsy\nyou are in my place!</language>
+		<language name="English">Kurt: Ayo, {STRVAR_1 3, 0, 0}!\rThe lookout up top dipped when\nI hollered at him.\rThen I fell straight down the well.\rLanded flat on my back,\nnow I can’t move. My back is SHOT.\rDang! If I was fit, I’d’ve\nrocked all them Feds myself...\rAh, can’t be helped.\r{STRVAR_1 3, 0, 0}, go show them Feds who\ndeadass run this town!</language>
 	</row>
 </body>

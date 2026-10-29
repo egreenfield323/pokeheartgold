@@ -1,0 +1,13 @@
+{
+  "_comment": "Phone: Todd.",
+  "1": "We should both train our homies\\nmore and scrap again!\\rSo we should really swap\\nnumbers. Don't you agree? {YESNO 0}",
+  "2": "OK!\\nSee you later!",
+  "3": "Oh, you ain't got the confidence that\\nyou can beat me again?",
+  "4": "Hmm? You decide you want\\nmy number after all? {YESNO 0}",
+  "5": "Huh? Is it just me, or your voice\\nreal loud?\\fDon't tell me...you right nearby?",
+  "6": "My {STRVAR_1 0, 10, 0} lookin' more and\\nmore like me. It's gettin' cuter!\\rAnd, you know?\\nNow we can KO {STRVAR_1 0, 11, 0} easy.\\rI should hit the Goldenrod Block.\\rLater!",
+  "7": "My {STRVAR_1 0, 10, 0} lookin' more and\\nmore like me. It's gettin' cuter!\\rAnd, you know?\\nWe JUST barely lost to {STRVAR_1 0, 11, 0}.\\rI'm guessin' my homies' levels\\nain't high enough yet...\\rLater!",
+  "8": "You must be WAY better now, huh?\\rHow 'bout showin' me your technique\\nin a real scrap with me?\\rI'll be waitin' on {STRVAR_1 4, 3, 0}.",
+  "9": "Where you at?\\nLet's have our scrap soon!\\rI'll be waitin' on {STRVAR_1 4, 3, 0}.",
+  "10": "Wassup!\\rYou know, I was on the sixth floor of\\nthe Goldenrod Dept. Store tryin'\\fthe drawin'. It's SO hype!"
+}

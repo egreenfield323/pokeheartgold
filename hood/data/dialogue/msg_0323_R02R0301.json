@@ -1,0 +1,7 @@
+{
+  "_comment": "Route 2 house: Oak's aide with the Sacred Ash.",
+  "0": "So you {STRVAR_1 3, 0, 0}?\\nProfessor Oak waitin' on you in his\\flab in Pallet Town.\\rAlso, I got this from him.\\nHe want you to have it.\\r",
+  "1": "So you {STRVAR_1 3, 0, 0}?\\nProfessor Oak waitin' on you in his\\flab in Pallet Town.\\rAlso, I got this from him.\\nHe want you to have it.\\r",
+  "2": "Sacred Ash is crazy--it can\\nrevive ALL your fainted homies!",
+  "3": "North is Pewter City.\\nSouth is Viridian City.\\rI know, I know. I sound like a sign.\\nI AM a sign. Emotionally."
+}

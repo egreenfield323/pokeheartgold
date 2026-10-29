@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0649_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? Wassup? Wassup? Wassup?\n...I think we have a bad connection.\rCould you try again from another spot?</language>
+		<language name="English">Wassup? Wassup? Wassup? Wassup?\n...I think the connection trash.\rTry again from another spot?</language>
 	</row>
 	<row id="msg_0649_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nice to hear from you.\nHow is everything with you?\fI’m good.\r</language>
+		<language name="English">Nice to hear from you.\nHow everythin’ with you?\fI’m good. Obviously.\r</language>
 	</row>
 	<row id="msg_0649_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are a lot more stronger\nBlock Bosses than me...\fSo get tough or go home!</language>
+		<language name="English">There’s a lotta stronger\nBlock Bosses than me...\fSo get tough or go home!</language>
 	</row>
 	<row id="msg_0649_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s your point?\nIf you want to battle me again, fine.\fFriday nights, take it or leave it.\rCall me then... Maybe I’ll answer...</language>
+		<language name="English">What’s your point?\nIf you wanna scrap me again, fine.\fFriday nights, take it or leave it.\rCall me then... Maybe I’ll answer...</language>
 	</row>
 	<row id="msg_0649_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, well, you called at the right time!\nYou want to battle again?\rI’m up for it.{YESNO 0}</language>
+		<language name="English">Well, well, you called at the right\ntime! You wanna scrap again?\rI’m down.{YESNO 0}</language>
 	</row>
 	<row id="msg_0649_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha ha ha.\nIt’s great that you’re stepping up.\rI’ll be waiting for you at the\nFighting Dojo in Saffron City!</language>
+		<language name="English">Ha ha ha.\nIt’s great that you steppin’ up.\rI’ll be waitin’ at the Saffron Dojo!</language>
 	</row>
 	<row id="msg_0649_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What in the world?\nAre you trying to make fun of me?!</language>
+		<language name="English">What in the world?\nYou tryna clown me?!</language>
 	</row>
 	<row id="msg_0649_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You figure you want to battle me?\rI’m wondering if you have time enough\nto do me justice.\rI hear you made promises to meet some\nother people. You should respect those\ffirst, is what I think.</language>
+		<language name="English">You figure you wanna scrap me?\rI’m wonderin’ if you got enough time\nto do me justice.\rI hear you made plans to meet some\nother people. Respect those\ffirst, is what I think.</language>
 	</row>
 	<row id="msg_0649_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting for you at the Fighting Dojo\nin Saffron City...\fDon’t wuss out.</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo...\fDon’t punk out.</language>
 	</row>
 	<row id="msg_0649_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, it’s Clair here...\nOh, hi. How are you doing?\r</language>
+		<language name="English">Yes, it’s Clair here...\nOh, hi. How you doin’?\r</language>
 	</row>
 	<row id="msg_0649_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep in mind we’re meeting at the\nFighting Dojo in Saffron City.\fIt’s a promise I’m waiting to keep...</language>
+		<language name="English">Keep in mind we meetin’ at\nthe Saffron Dojo.\fIt’s a promise I’m waitin’ to keep...</language>
 	</row>
 	<row id="msg_0649_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately some people from the\nRadio Station came around, wanting to\fdo a piece on me, or something.\rMy fans definitely won’t want to\nmiss watching that!\rOh, no! I was confused! It’s radio!\nAll those people tuning in, and they\fwon’t be able to see my glorious face!\rWhat about TV?\nWhy hasn’t a TV crew come to do a piece\fon me?!</language>
+		<language name="English">Lately some people from the\nRadio Station came around, wantin’ to\fdo a piece on me, or somethin’.\rMy fans DEFINITELY won’t wanna\nmiss watchin’ that!\rOh, no! I got confused! It’s RADIO!\nAll them people tuned in, and they\fwon’t get to see my GLORIOUS face!\rWhat about TV?\nWhy ain’t no TV crew come do a piece\fon ME?!</language>
 	</row>
 	<row id="msg_0649_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately there seems to be some gossip\nrunning through town that I am the\flatest name in fashion.\rWell, if I’m that hard that people can’t\nstop talking about me, I can totally\funderstand that sentiment.</language>
+		<language name="English">Lately there’s gossip goin’ around\ntown that I’m the\flatest name in fashion.\rWell, if I’m so fly people can’t\nstop talkin’ about me, I can totally\funderstand that.</language>
 	</row>
 	<row id="msg_0649_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you seem like you’re a pretty\nbusy person, ain’t you? Even more than\fI am, if that could possibly be.\rI mean, I’ve got my Block work, and\nI’ve got to go see the Elder at the\fDragon Tamer’s shrine, too.\rWhat do you think? You’ve got\ntalent--you could become\fa Dragon Tamer, too. Think so?</language>
+		<language name="English">Sheesh, you seem like a pretty\nbusy person, huh? Even more than\fme, if that’s possible.\rI mean, I got my Block work, AND\nI gotta go see the Elder at the\fDrama Queen shrine.\rWhat you think? You got\ntalent--you could be\fa Drama Queen too. Think so?</language>
 	</row>
 </body>

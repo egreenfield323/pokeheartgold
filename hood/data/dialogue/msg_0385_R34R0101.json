@@ -1,0 +1,23 @@
+{
+  "_comment": "Day Care. Grandma knows exactly what's going on.",
+  "0": "Lyra: Grandma!\\rLemme introduce my homie.\\nThis {STRVAR_1 3, 0, 0}!\\r",
+  "1": "Ahhh, so THIS your lil boyfriend...\\nI mean “homie.” Mm-hmm.\\fI see you, baby. I SEE you.\\r",
+  "2": "Lyra: What? Grandma...!\\nWhat you talkin' about?!\\rHe just live down the street...\\r",
+  "3": "Grandma: Hahaha. I know. I know.\\rIf you brought him to MEET me, Lyra,\\nhe must be special.\\rRight, {STRVAR_1 3, 0, 0}? You eat? You look thin.\\nCome see us anytime, baby!\\r",
+  "4": "Lyra: Aight, I gotta go now...\\nLater!\\r",
+  "5": "Lyra: Oh! I almost forgot!\\r",
+  "6": "Lyra: Here!\\nThis my Pokégear number!\\r",
+  "7": "{STRVAR_1 3, 0, 0} saved Lyra's number\\nin the Pokégear!\\r",
+  "8": "Lyra: You know you can talk to your\\nhomie while it follow you?\\rThey do all kinda cute stuff on the\\nroad and in town.\\rI take notes every time they do\\nsomethin' funny.\\rHit my line and I'll tell you\\nsome of 'em.\\r",
+  "9": "Lyra: Grandma!\\rDon't say NOTHIN'.\\rWe both Hustlers, we supposed\\nto swap numbers.\\fThat's it.\\r",
+  "10": "Ethan: Grandma!\\rLemme introduce my homie.\\nThis {STRVAR_1 3, 0, 0}!\\r",
+  "11": "Ahhh, so THIS your lil girlfriend...\\nI mean “homie.” Mm-hmm.\\fI see you, baby. I SEE you.\\r",
+  "12": "Ethan: What? Grandma...!\\nWhat you talkin' about?!\\rShe just live down the street...\\r",
+  "13": "Hahaha. I know. I know.\\rIf you brought her to MEET me, Ethan,\\nshe must be special.\\rRight, {STRVAR_1 3, 0, 0}? You eat? You look thin.\\nCome see us anytime, baby!\\r",
+  "14": "Ethan: Aight, I gotta go now...\\nLater!\\r",
+  "15": "Ethan: Oh! I almost forgot!\\r",
+  "16": "Ethan: Here!\\nThis my Pokégear number!\\r",
+  "17": "{STRVAR_1 3, 0, 0} saved Ethan's number\\nin the Pokégear!\\r",
+  "18": "Ethan: You know you can talk to your\\nhomie while it follow you?\\rThey do all kinda cute stuff on the\\nroad and in town.\\rI take notes every time they do\\nsomethin' funny.\\rHit my line and I'll tell you\\nsome of 'em.\\r",
+  "19": "Ethan: Grandma!\\rDon't say NOTHIN'.\\rWe both Hustlers, we supposed\\nto swap numbers.\\fThat's it.\\r"
+}

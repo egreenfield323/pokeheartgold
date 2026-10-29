@@ -1,0 +1,14 @@
+{
+  "_comment": "Fed hideout B1F. Surveillance PERSIAN statues.",
+  "0": "AYO!\\nIntruder! INTRUDER! Code red!\\fSomebody call for backup!\\r",
+  "1": "My turn, lil bro!\\nYou under ARREST! Hands behind\\fyour back! Or whatever!\\r",
+  "2": "It's a PERSIAN statue...\\nIts eyes glowin' red...\\rYou feel like somebody\\nwatchin'... A Fed in the van, prob'ly.",
+  "3": "It's a PERSIAN statue...\\nIts eyes glowin' blue...\\rYou don't feel nobody\\nwatchin' you...",
+  "4": "The PERSIAN statue's eyes\\nain't glowin' no more...",
+  "5": "A secret switch!\\rThe red switch flashin' real\\nsuspicious.\\fYou gon' press it? {YESNO 0}",
+  "6": "A secret switch!\\rThe blue switch lit.\\fYou gon' press it? {YESNO 0}",
+  "7": "Better press it.\\r",
+  "8": "The secret switch ain't lit no more...",
+  "9": "The surveillance system off!",
+  "10": "The surveillance system on!"
+}

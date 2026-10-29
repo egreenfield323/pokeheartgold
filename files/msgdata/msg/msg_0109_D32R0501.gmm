@@ -2,43 +2,43 @@
 <body language="English">
 	<row id="msg_0109_D32R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Castle!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Hustler.\r</language>
+		<language name="English">Welcome to the Battle Castle!\rI run the Single and\nDouble Battle challenges.\rHeads up, these challenges\nis for one Hustler. Solo dolo.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge would you\nlike to take? {YESNO 0}</language>
+		<language name="English">Which challenge you\nwant? {YESNO 0}</language>
 	</row>
 	<row id="msg_0109_D32R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Castle, you may take a\nSingle or Double Battle challenge.\rHere, you are provided with Castle\nPoints (CP) that you must manage.\rThe CP are used for healing Pokémon,\nrenting items or Berries, and so on.\rCP are earned by winning matches.\nThe amount varies by how you win.\rThe objective is to keep a winning\nstreak alive while managing your CP.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">At the Battle Castle, you can run a\nSingle or Double Battle challenge.\rHere, you get Castle Points (CP)\nand you gotta budget ’em.\rCP is for healin’ homies,\nrentin’ items or Berries, all that.\rYou earn CP by winnin’ scraps.\nHow much depend on HOW you win.\rThe goal is to keep a win streak\nalive while you manage your CP.\rWin seven in a row, and you\nget Battle Points (BP).\rIf you wanna dip mid-run,\nsave the game first.\rIf you don’t save, you\ngettin’ disqualified. No cap.\rDon’t say I ain’t warn you!\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Castle!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Hustlers.\r</language>
+		<language name="English">Welcome to the Battle Castle!\rI run the Multi Battle\nchallenge.\rHeads up, this challenge\nneed two Hustlers.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Battle\nCastle Multi Battle challenge? {YESNO 0}</language>
+		<language name="English">You tryna run the Battle Castle\nMulti Battle challenge? {YESNO 0}</language>
 	</row>
 	<row id="msg_0109_D32R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a homie for a\nMulti Battle challenge.\rBoth Hustlers are provided with Castle\nPoints (CP) that must be managed.\rThe CP is used for healing Pokémon,\nrenting items or Berries, and so on.\rTrainers can use their CP on not only\ntheir own Pokémon, but also their\fpartner’s.\rBoth Hustlers earn CP by winning\nmatches.\rThe objective is to keep a winning\nstreak alive while managing your CP.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Castle Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">You can team up with a homie for a\nMulti Battle challenge.\rBoth Hustlers get Castle Points\n(CP) to budget.\rCP is for healin’ homies,\nrentin’ items or Berries, all that.\rHustlers can spend CP on their own\nhomies AND their partner’s.\rBoth Hustlers earn CP by winnin’\nscraps.\rThe goal is to keep a win streak\nalive while you manage your CP.\rWin seven in a row, and you\nget Battle Points (BP).\rHeads up: a Battle Castle Multi\nBattle run can’t get paused.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Come back when you got the heart!</language>
 	</row>
 	<row id="msg_0109_D32R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the Pokémon you wish\nto enter.\r</language>
+		<language name="English">Pick the homies you\nrollin’ in with.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 1, 0} different Pokémon\nto enter.\r</language>
+		<language name="English">Ayo!\rYou ain’t got {STRVAR_1 50, 0, 0} homies\nthat qualify.\rYou need {STRVAR_1 50, 1, 0} different homies\nto get in.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Also, Eggs are ineligible to enter.\r</language>
+		<language name="English">Also, Eggs can’t get in. Obviously.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -114,43 +114,43 @@
 	</row>
 	<row id="msg_0109_D32R0501_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come see me when you are ready.\r</language>
+		<language name="English">Come holla at me when you ready.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Hustlers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers picked the\nhomie {STRVAR_1 0, 0, 0}.\rTalk it out with your partner and\npick different homies.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Hustlers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Hustler\nand choose different Pokémon.\r</language>
+		<language name="English">Both Hustlers picked the homies\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rTalk it out with your partner and\npick different homies.\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Is that OK? {YESNO 0}</language>
+		<language name="English">I gotta save the game before I\nlet you in. That cool? {YESNO 0}</language>
 	</row>
 	<row id="msg_0109_D32R0501_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Right this way!</language>
 	</row>
 	<row id="msg_0109_D32R0501_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve missed you!\rYou must save the game before you\nresume your challenge. Please wait.</language>
+		<language name="English">Look who back!\rI gotta save the game before you\npick up where you left off. Hold up.</language>
 	</row>
 	<row id="msg_0109_D32R0501_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Ayo!\rYou ain’t save before you dipped\nlast time.\rSo that run is DONE. You\ndisqualified. Them the rules!\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn recognition of your victory, we\npresent you with a commemorative print!\r</language>
+		<language name="English">Ayyy, congrats!\rFor that W, we givin’ you\nthis souvenir print!\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">The Gold Print got added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">The Silver Print got added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
 	</row>
 	<row id="msg_0109_D32R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -174,42 +174,42 @@
 	</row>
 	<row id="msg_0109_D32R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Hustler should select\n“BECOME LEADER.”\rThe other Hustler must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">One Hustler pick\n“BECOME LEADER.”\rThe other Hustler pick\n“JOIN GROUP.” {YESNO 0}</language>
 	</row>
 	<row id="msg_0109_D32R0501_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We need to launch DS Wireless\nCommunications. {YESNO 0}</language>
+		<language name="English">We finna fire up DS Wireless\nCommunications. {YESNO 0}</language>
 	</row>
 	<row id="msg_0109_D32R0501_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before\nI show you in. Please wait.</language>
+		<language name="English">I gotta save the game before I\nlet you in. Hold up.</language>
 	</row>
 	<row id="msg_0109_D32R0501_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen carefully!\rIf your Pokémon win without taking\ndamage, you earn more CP.\fThe more, the merrier!\fLook at me. I don’t have much...</language>
+		<language name="English">Listen up!\rIf your homies win without takin’\ndamage, you earn more CP.\fThe more, the better!\fLook at me. I’m broke...</language>
 	</row>
 	<row id="msg_0109_D32R0501_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen!\rYou can earn more Castle Points or CP\nby facing higher-level opponents.\rThis is what they call high risk,\nhigh return!</language>
+		<language name="English">Listen!\rYou can earn more Castle Points, CP,\nby facin’ higher-level opps.\rThat’s what they call high risk,\nhigh reward!</language>
 	</row>
 	<row id="msg_0109_D32R0501_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Before every battle, you should check\nthe opponent’s lineup.\rDon’t be cheap with your CP.\nIt’s like that old saying goes about\fknowing your enemy.\r“Unless you enter the enemy’s lair,\nyou cannot take their prize.”\r...\fThat’s not the right old saying!</language>
+		<language name="English">Before every scrap, you should\ncheck the other side’s lineup.\rDon’t be cheap with your CP.\nIt’s like that old sayin’ about\fknowin’ your enemy.\r“Unless you run up in the opp’s\ntrap, you can’t take their pack.”\r...\fThat ain’t the right sayin’!</language>
 	</row>
 	<row id="msg_0109_D32R0501_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Darach...\rHis feelings for Lady Caitlin are\nall bottled up...\rOh, how I pine for him...</language>
+		<language name="English">Mr. Darach...\rHis feelings for Lady Caitlin is\nall bottled up...\rOh, how I simp for him...</language>
 	</row>
 	<row id="msg_0109_D32R0501_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At first, you can only use CP for\nrestoring HP.\rBut you can spend CP to rank up.\nThen, you can even restore PP!</language>
+		<language name="English">At first, CP only good for\nhealin’ HP.\rBut you can spend CP to rank up.\nThen, you can even heal PP!</language>
 	</row>
 	<row id="msg_0109_D32R0501_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you lose, your entire stock of CP\nis cleaned out to zero!\rThis is the rule at the Battle Castle.</language>
+		<language name="English">If you lose, ALL your CP\ngo straight to zero!\rThat’s the rule at the Battle Castle.\nRun it up or lose it all.</language>
 	</row>
 	<row id="msg_0109_D32R0501_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dream is to wear a beautiful dress\nand live in a castle!\rThat’s not what I meant to say...\rMy dream is to live in a castle with\nsomeone who wears a beautiful dress!</language>
+		<language name="English">My dream is to wear a beautiful dress\nand live in a castle!\rThat ain’t what I meant to say...\rMy dream is to live in a castle\nwith somebody who wear a beautiful\fdress! Big difference!</language>
 	</row>
 </body>

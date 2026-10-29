@@ -1,0 +1,8 @@
+{
+  "_comment": "Bike Shop. Business is slow, the merchandise is 'pre-owned'.",
+  "0": "*sigh*... I opened a branch here, but\\nnobody buyin' my Bikes. Why?\\rIs it 'cause they all got different\\npaint jobs? Fresh paint is a FEATURE.\\rCould you ride one around and\\nadvertise for me? {YESNO 0}",
+  "1": "For real? BET!\\rGimme your name and number, and I'll\\nloan you a Stolen Bike. Ride it\\fproud. Ride it FAST. {YESNO 0}",
+  "3": "Our main shop is in Cerulean, in Kanto.\\rTell the manager I said wassup!\\nActually don't. He owe me money.\\rOur Bikes top tier!\\nNobody gon' recognize 'em in Kanto.",
+  "4": "*sigh*... Where the kindness of people\\nat... I'm just tryna sell bikes. Mostly mine.",
+  "5": "A shiny new Bike!\\rThe serial number got scratched off.\\nAnd the lock still on the wheel."
+}

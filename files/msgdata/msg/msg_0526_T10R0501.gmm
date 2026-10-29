@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0526_T10R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am Karen of the Elite Four.\rYou’re {STRVAR_1 3, 0, 0}? How amusing.\nI love Dark-type Pokémon.\rI’m known for my overpowering tactics.\rThink you can take them?\nJust try to entertain me.\rLet’s go.\r</language>
+		<language name="English">*files nails*\rI’m Karen of the Elite Four.\nAnd no, I will NOT get the manager.\rYou {STRVAR_1 3, 0, 0}? Cute.\nI love Dark-type homies.\rI’m known for bein’ DISRESPECTFUL.\rThink you can handle that?\nEntertain me. I got a reservation\fat 8.\rLet’s go.\r</language>
 	</row>
 	<row id="msg_0526_T10R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong Pokémon.\rWeak Pokémon.\rThat is only the selfish perception\nof people.\rTruly skilled Hustlers should try to\nwin with the Pokémon they love best.\rI like your style.\nYou understand what’s important.\rGo on--the Kingpin is waiting.\r</language>
+		<language name="English">Strong homies.\rWeak homies.\rThat’s just people bein’ shallow.\rReal Hustlers win with the\nhomies they love the most.\rI like your style.\nYou get what’s important.\rGo on--the Kingpin waitin’.\nTell him I said he owe me $20.\r</language>
 	</row>
 	<row id="msg_0526_T10R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong Pokémon.\rWeak Pokémon.\rThat is only the selfish perception\nof people.\rTruly skilled Hustlers should try to\nwin with the Pokémon they love best.\rI like your style.\nYou understand what’s important.\rGo on--the Kingpin is waiting.</language>
+		<language name="English">Strong homies.\rWeak homies.\rThat’s just people bein’ shallow.\rReal Hustlers win with the\nhomies they love the most.\rI like your style.\nYou get what’s important.\rGo on--the Kingpin waitin’.\nTell him I said he owe me $20.</language>
 	</row>
 </body>

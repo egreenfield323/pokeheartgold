@@ -1,0 +1,8 @@
+{
+  "_comment": "Radio: Professor Oak's Homie Talk (the phrase table stays as is - it's assembled).",
+  "0": "Homie Talk",
+  "2": "Mary: We reachin' out to all you\\nhomie fans out there! Here go the\\nleadin' expert on homies, Professor\\nOak, and of course me, Mary!",
+  "3": "Homies! Homies!\\nHomie Channel...",
+  "4": "Professor Oak: {STRVAR_1 0, 1, 0} might be\\nseen around {STRVAR_1 4, 0, 0}!",
+  "32": "Mary: This BREAKIN' news!\\nA bunch of {STRVAR_1 0, 1, 0} decided to\\npull up at\\n{STRVAR_1 4, 0, 0}! If you a Hustler\\nwho REALLY been wantin' {STRVAR_1 0, 1, 0},\\nhurry over to {STRVAR_1 4, 0, 0}! That's\\nthe end of the breakin' news!"
+}

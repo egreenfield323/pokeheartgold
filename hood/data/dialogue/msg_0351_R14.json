@@ -1,0 +1,11 @@
+{
+  "_comment": "Route 14: the CHANSEY superfan, Eusine's clue.",
+  "0": "You know who the CUTEST homie in the world\\nis?\\fCHANSEY, obviously!\\fI said CHANSEY, and that's FINAL!\\fFight me!\\r",
+  "1": "I'll give you somethin' GOOD if you bring\\nme a CHANSEY! Just to look at! I won't touch!",
+  "2": "That homie is...CHANSEY!\\rWhat's the CHANCES of seein' CHANSEY this\\nclose?! Get it? CHANCES?\\rTake this as a thank-you! I'm cryin'!\\r",
+  "3": "Let a CHANSEY hold this Lucky Punch,\\nand it got a better chance at\\fcritical hits!\\rAin't that awesome?!",
+  "4": "Wassup, you LOVELY CHANSEY!\\nYou the prettiest egg-carrier in the world!",
+  "5": "You know who the CUTEST homie in the world\\nis?\\fCHANSEY, obviously!\\fI said CHANSEY, and that's FINAL!",
+  "6": "Eusine: {STRVAR_1 3, 0, 0}! Not AGAIN!\\nI'ma get there first next time!\\rFollowin' it here, I'm startin' to get\\nwhat SUICUNE is after.\\rTruth is, I'd like to keep this to myself.\\nI'm a gatekeeper.\\rBut I wanna be a HONEST Hustler in front\\nof SUICUNE! It's watchin'! Probably!\\rSo here's a clue.\\nLooks like...\\r...SUICUNE like a hilly spot near water...\\f...Somewhere north.\\rI don't know exactly where yet.\\nIt's just you and me!\\rWho find it first? It's ON!",
+  "7": "Eusine: What's wrong, {STRVAR_1 3, 0, 0}?\\nTruth is, I'd like to keep\\fthis to myself.\\rBut I wanna be a honest Hustler\\nin front of SUICUNE!\\rSo I'm sharin' a clue with you.\\rLooks like...\\n...SUICUNE like a hilly spot\\fnear water...\\f...Somewhere north.\\rI don't know exactly where yet.\\nIt's just you and me!"
+}

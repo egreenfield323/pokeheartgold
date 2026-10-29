@@ -35,7 +35,25 @@
       "Bro, I listen to political podcasts. I'm basically a genius. Square up!",
       "This block is a safe space. For ME. Not you.",
       "Boutta snatch that chain off you broke boy!",
-      "Aye boy I run this block! Check it"
+      "Aye boy I run this block! Check it",
+      "I'm pimpin' on welfare, baby! The government payin' for these gators AND this beatdown!",
+      "Ayo, you smell like a free trial. Let's see if you worth the subscription.",
+      "Deadass, I been standin' here since 6AM waitin' for SOMEBODY to disrespect me.",
+      "You lookin' real snackish right now, and I ain't ate since breakfast. Square up!",
+      "My EBT card got more balance than your whole squad. Run it!",
+      "Lil bro walked up with ZERO aura. I'm finna take what's left.",
+      "I got three baby mamas and one homie. Only one of 'em loyal. Let's go!",
+      "Ayo! Run me your Hood Balls, your snacks, AND your Wi-Fi password!",
+      "You see this corner? I pay rent on it. Spiritually.",
+      "My uncle did 10 years for a crime he ain't commit. I'm finna commit one right now.",
+      "Bruh, you got the walk of somebody who still use a Burner. Pull up!",
+      "Ayo, foenem said you was talkin' bout me! You tweakin'!",
+      "I'm finna cook you so bad your mama gon' ask for the recipe.",
+      "Lowkey you look like a NPC. Let's see if you got dialogue.",
+      "I ain't sayin' I'm the best on the block. The block sayin' it.",
+      "Pocket check! ...Nah I'm playin'. Unless?",
+      "Ayo, who dressed you? You gettin' cooked twice today.",
+      "My granny pulled up with the chancla. That mean it's time to SCRAP!"
     ],
     "TRMSG_LOSE": [
       "Bruh... that's crazy.",
@@ -57,7 +75,17 @@
       "I'll be back. My uncle know people.",
       "You fight like my grandma. That's a compliment.",
       "Yeah, yeah, take your little win and go.",
-      "TS PMO"
+      "TS PMO",
+      "Bruh. BRUH. I'm deleting my whole account.",
+      "Deadass got packed up in front of the WHOLE block...",
+      "That's it, I'm movin' back in with my mama.",
+      "I'm finna go cry in the Corner Store bathroom.",
+      "Ain't no way I lost to somebody with them shoes.",
+      "My homies just got sent to the Trap House on a stretcher...",
+      "I'm callin' my lawyer. He a Youngster but he good.",
+      "Lowkey that was disrespectful. Highkey too.",
+      "My welfare check comin' Friday. I'ma buy better homies.",
+      "Yo, chill, CHILL. I'm sayin' it was a tie."
     ],
     "TRMSG_AFTER": [
       "Don't come back around here. ...Unless you got snacks.",
@@ -81,25 +109,43 @@
       "My uncle voted for both parties in the same election. Respect.",
       "The mayor came through once. For a photo. Then he dipped.",
       "My liberal arts degree said I'd be a winner. Lies.",
-      "Taxes took half my bread and the pothole still there."
+      "Taxes took half my bread and the pothole still there.",
+      "I'm still the hardest on this block. You just passin' through.",
+      "Ayo, you got a dollar? For the bus. Deadass.",
+      "My cousin got a Clout. He used it on HIMSELF. Ain't work.",
+      "Don't go in the tall grass after dark. The opps be out.",
+      "I'm finna start a podcast about how you cheated.",
+      "If you see my baby mama, you ain't seen me.",
+      "Sheesh. You got the whole route shook.",
+      "Real talk, the Trap House nurse the only person who ever helped me.",
+      "Pimpin' on welfare ain't easy. Lose to you and STILL gotta stand in line Monday."
     ],
     "TRMSG_PHONE_REMATCH_INTRO": [
       "You thought I forgot? I been waitin' by the phone!",
       "Round two, let's get it!",
-      "I been practicing! Me and the homies hit the gym!"
+      "I been practicing! Me and the homies hit the gym!",
+      "You picked up! Bet. I got NEW homies and a NEW attitude!",
+      "Run it back! I been grindin' in the parking lot all week!"
     ],
     "TRMSG_WIN": [
       "Haha! Go home and tell your mama!",
       "That's what I thought. Stay off my block!",
-      "Too easy. Too easy!"
+      "Too easy. Too easy!",
+      "Pack it up! Go home and tell your mama you got COOKED!",
+      "Sit down, lil bro. Sit ALL the way down.",
+      "That's a L for you and a W for the block!"
     ],
     "TRMSG_LAST_POKE": [
       "It's just me and my last homie now. We ride together!",
-      "Last one standing. Don't count us out!"
+      "Last one standing. Don't count us out!",
+      "Last homie! If you lose, you sleepin' on the couch!",
+      "Down to my last one. This the one that do drive-bys!"
     ],
     "TRMSG_LAST_POKE_HALF": [
       "Stay up, homie! Stay up!",
-      "Nah, you good! Walk it off!"
+      "Nah, you good! Walk it off!",
+      "Don't you DARE faint! I ain't got no Narcan!",
+      "Lock in, homie! LOCK IN!"
     ],
     "TRMSG_DBL_INTRO_1": [
       "Me and my twin run this block!"
@@ -135,35 +181,48 @@
   "class_intros": {
     "TRAINERCLASS_BUG_CATCHER": [
       "I'm the lookout! I see EVERYTHING! ...I didn't see you though.",
-      "I'm watchin' the block for the big homies. Five-oh or YOU, same thing."
+      "I'm watchin' the block for the big homies. Five-oh or YOU, same thing.",
+      "Five-oh! Five-oh! ...Oh it's just you. Battle me anyway!"
     ],
     "TRAINERCLASS_YOUNGSTER": [
       "This corner is MINE. I been standin' here since 3rd grade!",
-      "My shorts are the coolest shorts on this block! Battle me!"
+      "My shorts are the coolest shorts on this block! Battle me!",
+      "My shorts got pockets now. I'm UNSTOPPABLE."
     ],
     "TRAINERCLASS_HIKER": [
       "Back in MY day, we battled uphill both ways!",
-      "Youngblood! Let the Old Head teach you somethin'."
+      "Youngblood! Let the Old Head teach you somethin'.",
+      "I been on this mountain since the '80s. I ain't payin' rent and I ain't leavin'!"
     ],
     "TRAINERCLASS_FISHERMAN": [
       "Shh! You're scarin' the fish. Now you gotta battle.",
-      "I been on this pier since '87. Respect the pier!"
+      "I been on this pier since '87. Respect the pier!",
+      "I caught a boot, a tire, and now I'm finna catch YOU!"
     ],
     "TRAINERCLASS_BIKER": [
       "VROOM VROOM! That's my mouth, the bike's in the shop.",
-      "Biker Gang don't stop for NOBODY!"
+      "Biker Gang don't stop for NOBODY!",
+      "This bike stolen and so is this attitude! Let's ride!"
     ],
     "TRAINERCLASS_TEAM_ROCKET": [
-      "FBI! Open up! ...Wait, we're outside. FBI! Stand still!",
-      "You have the right to remain silent. Your homies do NOT.",
-      "We been tappin' your Burner for WEEKS. We heard everything.",
-      "This is a federal investigation. Hand over your homies!",
-      "I'm undercover. Act natural. ...I said ACT NATURAL!",
-      "We know about the group chat. ALL of it."
+      "FBI! OPEN UP! ...Wait, we outside. FBI! STAND STILL, LIL BRO!",
+      "You got the right to remain silent. Your homies DON'T. Run it!",
+      "We been tappin' your Burner for WEEKS. We heard you sing in the shower.",
+      "This a federal investigation! Hand over your homies or catch these hands!",
+      "I'm undercover. Act natural. ...Bruh I said ACT NATURAL!",
+      "We know about the group chat. ALL of it. Even the deleted messages.",
+      "I'm a Fed but I'm from the hood. Got a badge AND a grill. Square up!",
+      "Freeze! ...Nah keep movin', I need the overtime.",
+      "Ayo, you on welfare? Then why you pimpin'? That's FRAUD! You under arrest!",
+      "My sergeant said bring in ONE perp today or I'm fired. You lookin' real perp-ish.",
+      "Federal agent! Show me your hands! ...Why your hands so ashy?",
+      "We got a whole van outside. It say FLOWER DELIVERY. We ain't got no flowers."
     ],
     "TRAINERCLASS_TEAM_ROCKET_F": [
-      "Federal agent! Your crew is under arrest!",
-      "I've been undercover as a mail lady for six months. Battle me!"
+      "Federal agent! Your whole crew under ARREST, sweetie!",
+      "I been undercover as a mail lady for six months. I read ALL your mail!",
+      "Hands where I can see 'em! ...Cute nails. Still under arrest!",
+      "I wrote 40 tickets today and I'm finna write you 41!"
     ],
     "TRAINERCLASS_SCIENTIST_GS": [
       "I'm cookin' up somethin' special in the lab. Battle me!"
@@ -178,10 +237,12 @@
       "I hacked the mainframe. Now I'ma hack YOUR crew."
     ],
     "TRAINERCLASS_GENTLEMAN": [
-      "Your rent is LATE. We settle this the old-fashioned way."
+      "Your rent is LATE. We settle this the old-fashioned way.",
+      "I own every building on this block. And I'm finna own your homies."
     ],
     "TRAINERCLASS_BEAUTY": [
-      "Ugh, you're blocking my lighting. Battle me."
+      "Ugh, you're blocking my lighting. Battle me.",
+      "I got 40K followers and a OnlyFans. You got NOTHIN'. Battle me!"
     ],
     "TRAINERCLASS_SAGE": [
       "Wise Guy say: man who walk into tower get WRECKED."
@@ -244,9 +305,29 @@
       "TRMSG_LOSE": "This is NOT happening right now!"
     },
     "Lance": {
-      "TRMSG_LAST_POKE": "My DRAGONITE has never been beaten. Never.",
+      "TRMSG_LAST_POKE": "My DRAGONITE has never been beaten. Never. *cape flutters*",
       "TRMSG_LAST_POKE_HALF": "Is this... fear? Nah. Couldn't be.",
-      "TRMSG_LOSE": "...It's over. You're the new Kingpin of Johto."
+      "TRMSG_LOSE": "...It's over. You the new Kingpin. The cape stay with me, though."
+    },
+    "Will": {
+      "TRMSG_LAST_POKE": "I foresaw this moment. ...I did NOT foresee this moment.",
+      "TRMSG_LAST_POKE_HALF": "My mask slippin'! Nobody look at me!",
+      "TRMSG_LOSE": "My passport... my backflips... all for NOTHIN'!"
+    },
+    "Koga": {
+      "TRMSG_LAST_POKE": "FWAHAHA! My last homie! ...I'm outta smoke bombs.",
+      "TRMSG_LAST_POKE_HALF": "Hold on! Lemme throw one more smoke bomb!",
+      "TRMSG_LOSE": "*smoke bomb* ...Why can you still see me?!"
+    },
+    "Bruno": {
+      "TRMSG_LAST_POKE": "LAST HOMIE! LAST REP! PUSH IT! HOO HAH!",
+      "TRMSG_LAST_POKE_HALF": "Pain just weakness leavin' the body! HOO HAH!",
+      "TRMSG_LOSE": "No protein shake for me tonight. I don't deserve it."
+    },
+    "Karen": {
+      "TRMSG_LAST_POKE": "My last homie. Don't make me miss my reservation.",
+      "TRMSG_LAST_POKE_HALF": "Ugh. Now you makin' me TRY.",
+      "TRMSG_LOSE": "Fine. You won. I'm still leavin' at 8."
     },
     "Red": {
       "TRMSG_LOSE": "......",
@@ -262,21 +343,29 @@
     "TRAINERCLASS_TEAM_ROCKET": [
       "Agent down! Agent down!",
       "I'm callin' for backup...",
-      "This is goin' in my report."
+      "This is goin' in my report.",
+      "AGENT DOWN! AGENT DOWN! Somebody call my mama!",
+      "Bruh... Sarge gon' take my lanyard for this.",
+      "I'm finna get demoted to parkin' tickets..."
     ],
     "TRAINERCLASS_TEAM_ROCKET_F": [
       "My supervisor is gonna kill me.",
-      "You'll be hearing from our lawyers."
+      "You'll be hearing from our lawyers.",
+      "Ugh! I'm reportin' this to HR AND your mama!"
     ]
   },
   "class_after": {
     "TRAINERCLASS_TEAM_ROCKET": [
       "The Feds always win in the end. Usually. Sometimes.",
       "Just so you know, we got a van parked outside your mama's house.",
-      "Don't look at the white van. There is no white van."
+      "Don't look at the white van. There is no white van.",
+      "Off the record? This job trash. They pay me in gift cards.",
+      "You ain't seen me. I ain't seen you. This conversation ain't happen. *writes it down*",
+      "My badge is real. The gun is a banana. Don't tell nobody."
     ],
     "TRAINERCLASS_TEAM_ROCKET_F": [
-      "We'll be watching you. Literally. Through your phone."
+      "We'll be watching you. Literally. Through your phone.",
+      "Your browser history? Girl... we SAW it."
     ]
   },
   "rename_trainers": {

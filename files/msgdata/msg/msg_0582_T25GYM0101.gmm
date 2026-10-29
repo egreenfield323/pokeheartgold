@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0582_T25GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Ayo! I’m Whitney!\r...You!\nI saw you at the Radio Tower just now.\rEveryone was into Pokémon, so I got\ninto it, too!\rPokémon are super cute!\rYou want to battle?\fI’m warning you--I’m good!\r</language>
+		<language name="English">Whitney: Ayooo! I’m Whitney!\r...You! I saw you at the Radio Tower!\rEverybody was into homies, so I got\ninto it too! I’m a trend follower!\rHomies are SO cute!\rYou wanna scrap?\fI’m warnin’ you--I’m NICE! And I bite!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sob...\r...Waaaaaaah!\nYou’re mean!\rYou shouldn’t be so serious!\nYou...you child, you!</language>
+		<language name="English">Whitney: *sob*...\r...WAAAAAAAH!\nYou MEAN! You SO MEAN!\rWhy you gotta be so serious?!\nYou...you CHILD, you! I’m tellin’!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Waaaaah!\rWaaaaah!\r...Snivel, hic.\n...You meanie!</language>
+		<language name="English">Whitney: WAAAAAH!\rWAAAAAH!\r...*sniffle*, *hic*.\n...You meanie! Bully! Hater!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sniff...\rWhat? What do you want? A Chain?\rOh, right. I forgot.\nHere’s the Plain Chain.\r</language>
+		<language name="English">Whitney: *sniff*...\rWhat? What you want? A Chain?\rOh. Right. I forgot. I was busy cryin’.\nHere’s the Plain Chain. Take it. Leave.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Plain Chain from Whitney.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Plain Chain from Whitney.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: The Plain Chain lets your\nPokémon use Muscle outside\fof battle.\rOh, you can have this, too!\r</language>
+		<language name="English">Whitney: The Plain Chain let your\nhomies use Muscle outside\fof battle.\rOh, you can have this too!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,30 +31,30 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: It’s Rizz Up!\nIt makes full use of a Pokémon’s charm.\rIsn’t it just perfect for a cutie\nlike me?\fThat’s right!\rI heard that this thing called the\nPokéathlon Dome is now open right next\fto the National Park.\rYou should go try it, since you’re\nso good at battling with your Pokémon!</language>
+		<language name="English">Whitney: It’s Rizz Up!\nIt use all a homie’s charm.\rPerfect for a cutie\nlike me, right?\fThat’s right!\rI heard this thing called the\nPokéathlon Dome just opened\fby the National Park.\rYou should go, since you\nSO good at scrappin’ with homies!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Ah, that was a good cry!\rCome for a visit again! Bye-bye!</language>
+		<language name="English">Whitney: Ahh, that was a GOOD cry!\rCome visit again! I’ll cry again!\nByeee!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no. You made Whitney cry.\rIt’s OK. She’ll stop soon.\nShe always cries when she loses.\r</language>
+		<language name="English">Oh, no. You made Whitney cry.\rShe’ll stop soon. She cry every time.\nWe got a Cry Room. It’s soundproof.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\rThis Block is home to Normal-type\nPokémon Hustlers.\rI recommend you use Fighting-type\nPokémon.</language>
+		<language name="English">Yo! Future Kingpin!\rThis Block full of Normal-type\nHustlers. VERY normal. Painfully\fnormal.\rRun Fightin’ homies in here. Trust me.\nAnd watch out for the cow.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You won? Great! I was busy admiring\nthe powerful Hustlers here.</language>
+		<language name="English">You WON?! Hard! I wasn’t watchin’.\nI was starin’ at Whitney’s MILTANK.\fThat cow gimme nightmares.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City block</language>
+		<language name="English">Goldenrod City Block\nCry Room Available</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City block\rLeader: Whitney\nCertified Hustler!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Goldenrod City Block\rBoss: Whitney\nGot Ran Through By:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

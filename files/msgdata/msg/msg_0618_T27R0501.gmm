@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0618_T27R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Hey! Hey!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}AYO! AYO!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop dancing such a serious dance!\nShow me something like a hula dance!\r</language>
+		<language name="English">Quit doin’ that serious dance!\nGimme somethin’ like a HULA! Or a\fTWERK! I got singles!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...You mustn’t push such a request\non me.\r</language>
+		<language name="English">...You can’t make that kinda request of\nme. This is ART. Sit down.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nAre you telling me you don’t respect\fwhat the customer wants?\r</language>
+		<language name="English">Huh?\nYou sayin’ you don’t respect what the\fCUSTOMER want? I’m callin’ corporate!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, then I’ll show you how to dance.\rI’ll show you a great one.\nWahahaha!\r</language>
+		<language name="English">Fine, I’ll show YOU how to dance.\rIt’s called the Federal Shuffle!\nWe learned it at the Christmas party!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Who are you?\rYou dare to get in my way?\r</language>
+		<language name="English">Huh? Who you?\rYou obstructin’ a FEDERAL dance\nroutine? That’s a felony! Prob’ly!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no!\nYou make me look like a villain!\r</language>
+		<language name="English">Oh, NO!\nYou makin’ ME look like the bad guy!\fI’m literally the bad guy!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oops!\nI have an important mission.\rIf they find out I was wasting time\nhere, they’ll make me start over\fas the lowest Fed Agent!\rI better leave now!\r</language>
+		<language name="English">Oops! I got a important mission!\rIf Sarge find out I was on break at\na dance theater, they’ll send me back\fto the mailroom!\rI’m OUT!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,59 +38,59 @@
 	</row>
 	<row id="msg_0618_T27R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}, correct?\nThat was indeed excellent.\fKind and strong...\fGood at raising Pokémon as well...\rThat person does know what to look for\nin people...\rOhoho! That was just me talking to\nmyself.\fNever mind.</language>
+		<language name="English">You must be {STRVAR_1 3, 0, 0}, correct?\nThat was EXCELLENT.\fKind and strong...\fGood at raisin’ homies too...\rThat person DEADASS know how to read\npeople...\rOhoho! I was talkin’ to myself.\fI do that. Never mind.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For Kimono Girls like me, dancing\nis everything.\rI have never gone a day without\na dance practice.\rPokémon are the same.\rThey grow with you little by little\neach day.</language>
+		<language name="English">For Dancers like me, dancin’ is\nEVERYTHING.\rI ain’t skipped a day of practice in\ntwelve years. My knees is GONE.\rHomies the same way. They grow a lil\nevery day. Unlike my knees.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back HO-OH, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Welcome.\nMy name is Zuki.\fWe met before in Violet City.\rTo bring back HO-OH, we needed\nsomebody with the right bond\fwith homies.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\freal potential.\rThe Egg went from Mr. Pokémon\nto Professor Elm, and then\fto you.\rBut bein’ pure alone ain’t\nenough to face the power of\fthis homie.\fI gotta test you.\rYou ready? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back LUGIA, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Welcome.\nMy name is Zuki.\fWe met before in Violet City.\rTo bring back LUGIA, we needed\nsomebody with the right bond\fwith homies.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\freal potential.\rThe Egg went from Mr. Pokémon\nto Professor Elm, and then\fto you.\rBut bein’ pure alone ain’t\nenough to face the power of\fthis homie.\fI gotta test you.\rYou ready? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will test you to see if you are a good\nPokémon Hustler.\rAre you ready? {YESNO 0}</language>
+		<language name="English">I’ma test you to see if you\na real Hustler.\rYou ready? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That is fine...\nI will wait for you to get ready.</language>
+		<language name="English">That’s fine...\nI’ll wait till you ready.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite strong.\rYou helped me in the Ilex Forest.\rMy name is Naoko. I’m the one that’s\nnot so good at directions.\rMy eyes witnessed you defeating\nThe Feds when Kurt was in trouble\fat the SLOWPOKE Well.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">You real strong.\rYou helped me in Ilex Forest.\rMy name is Naoko. I’m the one who\ncan’t read a map to save her life.\rI saw you put The Feds\nin their place when Kurt was\fin trouble at the SLOWPOKE Well.\rLemme challenge you and your\nhomies!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite the Hustler.\rI remember you chasing off\nthat Fed Agent\ffrom right here.\rI must good looks for that.\rAlthough, I am actually a Hustler\nmyself.\rShe who knows the most speaks\nthe least!\fI am Miki--the Kimono Girl!\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">You a real Hustler.\rI remember you runnin’ off\nthat Fed Agent\fright here.\rI gotta say good looks for that.\rI’m a Hustler too,\nfor real.\rThe one who know the most\ntalk the least!\fI’m Miki--the Dancer!\rLemme challenge you and your\nhomies!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent fighting spirit!\rYou got me off the ice by pushing me\nfrom the back.\rI am the one who skates in sandals.\fI am Sayo--the Kimono Girl!\rI was listening in the Dragon’s Den\nwhen you passed the test of the Elder.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">Hard fightin’ spirit!\rYou got me off the ice by pushin’\nme from behind.\rI’m the one who skate in sandals.\fI’m Sayo--the Dancer!\rI was listenin’ in the Dragon’s Den\nwhen you passed the Elder’s test.\rLemme challenge you and your\nhomies!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the last one.\rYou were so dependable at the\nGoldenrod Tunnel. I am the one who\ftwirls even underground.\rI am Kuni--the Kimono Girl!\rI looked at you in wonder when you\nthwarted The Feds’ mission\fto take over the Radio Tower.\fYou must show your strength to me now.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">I’m the last one.\rYou was so solid in the\nGoldenrod Tunnel. I’m the one who\fspin even underground.\rI’m Kuni--the Dancer!\rI watched you in awe when you\nshut down The Feds’ plan\fto take over the Radio Tower.\fNow show me your strength.\rLemme challenge you and your\nhomies!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talk to Zuki in the middle\nwhen you are ready.</language>
+		<language name="English">Talk to Zuki in the middle\nwhen you ready.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We were not wrong about you.\nYou are indeed worthy of this...\rPlease take it.\r</language>
+		<language name="English">We was right about you.\nYou worthy of this...\rPlease take it.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nover the Bell Tower!\rIt could be...\r</language>
+		<language name="English">Big sisters!\rI just saw the big shadow of a homie\nover the Bell Tower!\rIt could be...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nin the Whirl Islands’ waters!\rIt could be...\r</language>
+		<language name="English">Big sisters!\rI just saw the big shadow of a homie\nin the Whirl Islands’ waters!\rIt could be...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -102,11 +102,11 @@
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the deal with that The Feds\nGrunt, messing with my Kimono Girl?\rYou are a Hustler, ain’t you?\fPlease help her!</language>
+		<language name="English">WASSUP with that Fed, messin’ with my\nDancer?!\rYou a Hustler, ain’t you?\fGo help her! I would, but my back.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wonderful!\nYou were so courageous for your age!\rIt was a rare sight to see!\nI want you to have this.\fDon’t be shy--take it!\r</language>
+		<language name="English">WONDERFUL! You so brave for your age!\rI ain’t never seen nothin’ like it!\nI want you to have this.\fDon’t be shy--take it!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
@@ -115,11 +115,11 @@
 	</row>
 	<row id="msg_0618_T27R0501_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s Hydrant Wave.\nIt’s a move that lets Pokémon swim\facross water with ease.\r</language>
+		<language name="English">That’s Hydrant Wave.\nIt let homies swim\facross water easy.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not only are the Kimono Girls great\ndancers, they’re also skilled at\fPokémon.\rBut they battle only for good reasons.\rI don’t know if you could defeat them if\nthey showed what they can do...</language>
+		<language name="English">The Dancers ain’t just great dancers,\nthey NICE with homies too.\rThey only scrap for good reasons.\nIf they went all out? Lord help you.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -127,35 +127,35 @@
 	</row>
 	<row id="msg_0618_T27R0501_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That man’s always with his PSYDUCK.\rSays he wants a Pokémon that can\nSurf and dance.\rIs he trying to make a Pokémon\nthat stars at synchronized swimming?</language>
+		<language name="English">That man ALWAYS with his PSYDUCK.\rHe want a homie that can surf AND\ndance.\rIs he makin’ a synchronized swimmin’\nteam? With a DUCK?</language>
 	</row>
 	<row id="msg_0618_T27R0501_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis stomachache!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
+		<language name="English">Oh... Ow...! My STOMACH!\rI wouldn’t let this guy act like that if\nit wasn’t for this pain! I’d SMOKE him!\fI ate gas station sushi.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was supposed to be the hero...!\rSo much for getting close to\na Kimono Girl!\n</language>
+		<language name="English">I was supposed to be the hero...!\rThere go my chance to impress a\nDancer! Again! Fourth time this week!\n</language>
 	</row>
 	<row id="msg_0618_T27R0501_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis back pain!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
+		<language name="English">Oh... Ow...! My BACK!\rI’d SMOKE this guy if it wasn’t for this\npain! I’m 26, bro. Why my back hurt?</language>
 	</row>
 	<row id="msg_0618_T27R0501_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis toothache!\rI wouldn’t let this guy act like that\nwere it not for this pain...! </language>
+		<language name="English">Oh... Ow...! My TOOTH!\rI’d SMOKE this guy if it wasn’t for this\npain! I been eatin’ candy for dinner.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Kimono Girls are so beautiful...\rBut they have to go through rigorous\ntraining.\rAnd they have to learn to follow\ncustoms before appearing in public.\rBut if you love something, anything\nis possible.</language>
+		<language name="English">The Dancers is SO beautiful...\rBut they go through CRAZY trainin’.\nAnd learn all the customs before they\fperform.\rIf you love somethin’, anythin’ is\npossible. Except me gettin’ a date.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To do such a terrible thing to\na Kimono Girl!\rI don’t understand how young people\nbehave these days.</language>
+		<language name="English">Doin’ somethin’ that foul to a Dancer!\rI don’t understand young people\nnowadays! Back in my day we RESPECTED\fthe arts!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quite the Hustler for your age indeed!</language>
+		<language name="English">A real Hustler for your age!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -163,26 +163,26 @@
 	</row>
 	<row id="msg_0618_T27R0501_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.</language>
+		<language name="English">Good looks for your help the\nother day.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are rehearsing a dance.</language>
+		<language name="English">We rehearsin’ a dance.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks for your help the other day.\rYou have beautifully proven that the\nbond between people can be extended to\fthe bond between people and Pokémon...\rWe all appreciate that you have lived up\nto our expectations, {STRVAR_1 3, 0, 0}!\rIf you feel that this experience has\ntaught you anything, the people you\fshould thank are not us, but\fMr. Pokémon and Professor Elm...</language>
+		<language name="English">Good looks for helpin’ the other day.\rYou proved the bond\nbetween people can stretch to\fthe bond between people and homies...\rWe all appreciate you livin’ up\nto what we hoped, {STRVAR_1 3, 0, 0}!\rIf this taught you anythin’,\nthe ones you should\fthank ain’t us, it’s\fMr. Pokémon and Professor Elm...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are rehearsing a dance.</language>
+		<language name="English">We rehearsin’ a dance.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.</language>
+		<language name="English">Good looks for your help the\nother day.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will test how closely you’ve\nbonded with your Pokémon!\r</language>
+		<language name="English">I’ma test how tight you\nare with your homies!\r</language>
 	</row>
 </body>

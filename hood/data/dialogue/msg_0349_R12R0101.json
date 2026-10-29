@@ -1,0 +1,7 @@
+{
+  "_comment": "Route 12 house: the Fishing Guru's younger brother (Super Rod).",
+  "0": "I'm the Fishin' Guru's lil brother.\\nThe good-lookin' one.\\rYou look like you like fishin'.\\nAm I right, or am I right?\\fPeople say I got SHARP eyes! {YESNO 0}",
+  "1": "YEAH, YEAH. Just like I thought!\\rHere, fishin' fan!\\nTake this--it's a Super Rod.\\fIt's SUPER. It's in the name.\\r",
+  "2": "Try fishin' wherever there's\\nwater.\\rRemember--you catch different\\nhomies dependin' on the Rod.",
+  "3": "Huh? My own eyes LIED to me?\\nI need glasses. I been sayin' it."
+}

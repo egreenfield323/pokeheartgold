@@ -1,0 +1,13 @@
+{
+  "_comment": "Bell Tower top (after). Morty coping.",
+  "0": "Morty: The legendary homie ain't\\npick me...\\rBut that don't mean I lost\\nmy future.\\rI'ma keep trainin' till I\\nfind a new path.\\rSay, you wanna be part of my\\ntraining? {YESNO 0}",
+  "1": "{STRVAR_1 3, 0, 0} saved Morty's number\\nin the Pokégear!",
+  "2": "Morty: Hit me up Tuesday night if\\nyou want a scrap!",
+  "3": "Morty: Oh...\\nThat's a shame...",
+  "4": "Morty: So, you gon' be part of my\\ntraining? {YESNO 0}",
+  "5": "Morty: Ayo, it's you!\\rHow 'bout a pic\\nwith me to remember this? {YESNO 0}",
+  "6": "Morty: Aight!\\nCome stand next to me.\\r",
+  "7": "Morty: Mmmm...\\nThis a pretty good pic! Spooky.",
+  "8": "Morty: I get it...\\nyou must be busy.",
+  "9": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics."
+}

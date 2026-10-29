@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0491_T07_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is my trusted pal, POLIWRATH.\rI wonder if it will become a Frog\nPokémon someday.</language>
+		<language name="English">This my trusted homie, POLIWRATH.\rI wonder if it’ll turn into a Frog homie\nsomeday. It’s already got the\fattitude.</language>
 	</row>
 	<row id="msg_0491_T07_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,83 +10,83 @@
 	</row>
 	<row id="msg_0491_T07_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my!\nWere you staring at me?\rSeeing me come out of the Game Corner\nwith a whole pile of Coins...\fAnd grinning to myself?\fYou were, weren’t you?</language>
+		<language name="English">Oh, my! Was you STARIN’ at me?\rSeein’ me come outta the Game Corner\nwith a whole PILE of Coins...\fAnd grinnin’ to myself?\rDon’t tell my wife. She think I’m at\nchurch.</language>
 	</row>
 	<row id="msg_0491_T07_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GRIMER started to appear recently.\nYou see the pond in front of the house?\rIt has GRIMER, too.\nI wonder where they came from.\rSigh...</language>
+		<language name="English">GRIMER showin’ up everywhere lately.\nEven the pond in front of the house.\rWhere they come from?\nThe sewer. It’s the sewer. *sigh*...</language>
 	</row>
 	<row id="msg_0491_T07_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha ha! This Block is great!\nIt’s full of strong Hustlers!</language>
+		<language name="English">HA HA! This Block is GREAT!\nFull of strong Hustlers! And flowers!\fMy allergies is killin’ me!</language>
 	</row>
 	<row id="msg_0491_T07_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you a secret!\rThe Celadon Condominiums have some\nplaces you can only reach by taking the\felevator on the second floor!</language>
+		<language name="English">I’ma tell you a SECRET!\rThe Celadon Condos got spots you can\nonly get to from the elevator on 2F!\rI found a whole office in there. Game\ndevelopers. They ain’t slept since ’96.</language>
 	</row>
 	<row id="msg_0491_T07_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The restaurant there is having an\neating contest.\rI heard that we have a great\ncontestant from the Sinnoh region\fthis year.</language>
+		<language name="English">The restaurant havin’ a eatin’\ncontest.\rWe got a CRAZY contestant from Sinnoh\nthis year. She ate a whole table. The\ftable.</language>
 	</row>
 	<row id="msg_0491_T07_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Celadon Department Store offers\nthe widest range of items!\fYou can buy anything you want!\r...Do I sound like their\nsales representative?</language>
+		<language name="English">The Celadon Dept. Store got the\nBIGGEST selection! Buy anythin’ you\fwant!\r...Do I sound like I work for ’em? I do.\nThey make me say this.</language>
 	</row>
 	<row id="msg_0491_T07_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love this kind of place where\nthere are many buildings!\rI heard Johto also has a city called\nGoldenrod that has many\ftall buildings.\fI would love to visit there sometime.</language>
+		<language name="English">I love places with MAD buildings!\rJohto got a city called Goldenrod with\ntall buildings. I’d love to visit.\fI hear they got a cryin’ Block Boss.</language>
 	</row>
 	<row id="msg_0491_T07_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Ayo, Jasmine. I heard Whitney\nfrom Goldenrod Block said you were too\fplain and should look more fancy.\fIs that true?\r</language>
+		<language name="English">Erika: Ayo, Jasmine. I heard Whitney\nsaid you too plain and should dress\ffancier.\fIs that true? Spill.\r</language>
 	</row>
 	<row id="msg_0491_T07_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Yes...\rI’m thinking maybe I should\nparticipate in this Contest in Sinnoh\fto try and be more vibrant...\r</language>
+		<language name="English">Jasmine: Yes...\rI’m thinkin’ maybe I should enter that\nContest in Sinnoh to be\fmore...vibrant...\fUm. I’m scared.\r</language>
 	</row>
 	<row id="msg_0491_T07_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How did it go?\r</language>
+		<language name="English">Erika: How’d it go?\r</language>
 	</row>
 	<row id="msg_0491_T07_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I couldn’t bring myself to\ngo to the Contest.\r</language>
+		<language name="English">Jasmine: I couldn’t make myself\ngo to the Contest.\r</language>
 	</row>
 	<row id="msg_0491_T07_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh, I see...\rThen why don’t you try putting on\nsomething especially gorgeous?\r</language>
+		<language name="English">Erika: Oh, I see...\rThen why don’t you try wearin’\nsomethin’ extra gorgeous?\r</language>
 	</row>
 	<row id="msg_0491_T07_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Ah, yes!\nMaybe I can bring myself to\fenter the Contest!\r</language>
+		<language name="English">Jasmine: Ah, yes!\nMaybe then I can make myself\fenter the Contest!\r</language>
 	</row>
 	<row id="msg_0491_T07_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How about a fancy, light blue\noutfit with a cape over it?\r</language>
+		<language name="English">Erika: How ’bout a fancy, light blue\noutfit with a CAPE over it?\r</language>
 	</row>
 	<row id="msg_0491_T07_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: What?\nThat’s too embarrassing!\r</language>
+		<language name="English">Jasmine: WHAT?!\nThat’s TOO embarrassin’!\r</language>
 	</row>
 	<row id="msg_0491_T07_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: I see.\nYou think Clair from Blackthorn is a\flittle embarrassing...\fI’m just taking notes.\r</language>
+		<language name="English">Erika: I see. You think Clair from\nBlackthorn is embarrassin’...\fI’m just takin’ notes. For later.\fI’ll tell her.\r</language>
 	</row>
 	<row id="msg_0491_T07_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh, no!\nErika, that’s not what I meant!</language>
+		<language name="English">Jasmine: Oh, NO! Erika, that ain’t what\nI meant!\fPlease don’t tell her! She’ll key my\ncar!</language>
 	</row>
 	<row id="msg_0491_T07_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Ayo, {STRVAR_1 3, 0, 0}.\rWould you like to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Erika: Ayo, {STRVAR_1 3, 0, 0}.\rWanna swap\nnumbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Erika\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} saved Erika’s number\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0491_T07_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: I am often free in the morning\non Sunday.\rCall me around then.</language>
+		<language name="English">Erika: I’m usually free Sunday\nmornin’.\rCall me around then.</language>
 	</row>
 	<row id="msg_0491_T07_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,19 +94,19 @@
 	</row>
 	<row id="msg_0491_T07_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Would you like to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Erika: Wanna swap\nnumbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Ayo!\nGood to see you here.\rHow would you like to take a picture\nwith me? {YESNO 0}</language>
+		<language name="English">Erika: Ayo!\nGood to see you.\rWanna take a pic\nwith me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Try and look hard now.\r</language>
+		<language name="English">Erika: Try to look HARD now.\nLike you mean it. Squint.\r</language>
 	</row>
 	<row id="msg_0491_T07_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Good job.\nIt looks good!</language>
+		<language name="English">Erika: Good job.\nIt look good!</language>
 	</row>
 	<row id="msg_0491_T07_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0491_T07_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Your Photo Album full.\rGo on your PC and delete\nsome pics.</language>
 	</row>
 	<row id="msg_0491_T07_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Amphy is well thanks to you.</language>
+		<language name="English">Jasmine: Amphy good thanks to you.</language>
 	</row>
 	<row id="msg_0491_T07_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,22 +126,22 @@
 	</row>
 	<row id="msg_0491_T07_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City block\nLeader: Erika\fThe Nature-Loving Princess!</language>
+		<language name="English">Celadon City Block\nBoss: Erika\fFalls Asleep Mid-Sentence.</language>
 	</row>
 	<row id="msg_0491_T07_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Find what you need at the\nCeladon Dept. Store!</language>
+		<language name="English">Find What You Need at the\nCeladon Dept. Store!</language>
 	</row>
 	<row id="msg_0491_T07_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Condominiums</language>
+		<language name="English">Celadon Condos</language>
 	</row>
 	<row id="msg_0491_T07_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Game Corner\nA Fun Place for Everyone</language>
+		<language name="English">Celadon Game Corner\nA Fun Place for Everybody (Lie)</language>
 	</row>
 	<row id="msg_0491_T07_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustler Tips\rGuard Spec. protects Pokémon\nfrom status-reduction moves\fduring battle.\rGet your items at the\nCeladon Dept. Store!</language>
+		<language name="English">Hustler Tips\rGuard Spec. protect homies\nfrom stat-droppin’ moves\fin scraps.\rGet your stuff at the\nCeladon Dept. Store!</language>
 	</row>
 </body>

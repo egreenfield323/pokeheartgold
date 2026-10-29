@@ -1,0 +1,10 @@
+{
+  "_comment": "Celadon block. Erika, sleepy flower princess.",
+  "0": "Erika: Wassup...\\nNice weather, ain't it?\\rIt's so pleasant...\\nI might doze off... Again...\\rMy name Erika.\\nI'm the Boss of the Celadon Block.\\r...Oh? You from Johto?\\fHow nice...\\rOh. My bad, I ain't realize you wanted to\\nchallenge me. I was asleep. With my eyes open.\\rI been trainin' in flower arrangin'\\nAND homie scrappin'.\\rI ain't gon' lose. ...Zzz... Huh?\\nWhere was I?\\r",
+  "1": "Erika: Oh! I concede...\\rYou remarkably strong...\\nI'ma give you the Rainbow Chain... Then\\fI'ma take a nap.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Rainbow Chain.",
+  "3": "Erika: That was a delightful scrap.\\nI feel inspired.\\rPlease take this TM19\\nas a special gift.\\rIt's IRS Audit.\\nIt's a wonderful move that drain\\fhalf the damage it do to heal\\fyour homie.\\rIt's a horrifyin' move, truly.\\r",
+  "4": "Erika: Losin' leave a bitter aftertaste...\\rBut knowin' there's strong Hustlers out\\nthere push me to do better...\\fAfter my nap.",
+  "5": "Celadon City Block\\nSmells Like Flowers. And Sleep.",
+  "6": "Celadon City Block\\rBlock Boss: Erika\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

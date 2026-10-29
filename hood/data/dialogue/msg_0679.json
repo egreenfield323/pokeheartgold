@@ -1,0 +1,17 @@
+{
+  "_comment": "Phone: Kay & Tia (twins).",
+  "1": "You had fun scrappin' us, right?\\rSo how 'bout we swap phone\\nnumbers, and that way if we wanna\\fscrap again, we can just call\\feach other? {YESNO 0}",
+  "2": "Aight, now you got our number\\nand we got yours.",
+  "3": "Oh? But... Oh well.",
+  "4": "You decide you wanna swap\\nnumbers after all? {YESNO 0}",
+  "5": "Aight, here you go!\\nIt's a Oval Stone.\\r",
+  "6": "Huh?\\nWait, ain't you right nearby?\\rYou just REALLY like talkin' on the\\nphone or somethin'? Weird hobby.",
+  "7": "Our {STRVAR_1 0, 10, 0} WAY stronger now!\\rWe was scrappin' a {STRVAR_1 0, 11, 0}\\nrecently and it was over before we\\fknew it!\\rOh yeah, by the way, this Tia.",
+  "8": "Our {STRVAR_1 0, 10, 0} WAY stronger now!\\rWe was scrappin' a {STRVAR_1 0, 11, 0}\\nrecently and it was over before we\\fknew it!\\rOh yeah, by the way, this Kay.",
+  "9": "Earlier we saw a {STRVAR_1 0, 11, 0} on\\nRoute 15. Didn't we, Tia?\\rYeah, then outta nowhere a {STRVAR_1 0, 11, 0}\\npopped out. Didn't it, Kay?\\rYeah, and we was so shook we just\\nran. Didn't we, Tia?\\rI keep thinkin' about it, Kay, and\\nI think since we got homies,\\fwe shoulda just scrapped, right?\\rIs it hard to tell who's who when\\nyou on the phone with both of us?",
+  "10": "We should have another scrap, just\\nthe three of us.\\rWe on {STRVAR_1 4, 3, 0}, so come on\\nover when you get the chance.",
+  "11": "Didn't we make plans to have\\nanother scrap?\\rWe waitin' on {STRVAR_1 4, 3, 0}, so\\ndon't forget, OK?",
+  "12": "Well, since we on the phone, how\\nabout we give you a quiz?\\r...\\rSo, who talkin' right now? Kay or\\nTia?\\r...\\n...\\f...\\f...\\fThe correct answer is...\\rEleanor from the Homie Fan Club,\\nwho standin' next to the twins!",
+  "13": "Ayo, Tia found a Oval Stone.\\rIt's yours if you come find us\\non {STRVAR_1 4, 3, 0}. Got it?",
+  "14": "We waitin' on {STRVAR_1 4, 3, 0}.\\nWe'll give you a Oval Stone..."
+}

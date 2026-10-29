@@ -1,0 +1,13 @@
+{
+  "_comment": "Route 47: the Embedded Tower legend, Crasher Wake at the waterfall, Chuck's photo.",
+  "0": "Well, hello!\\rThey say past this hole used to be\\na huge tower reachin' into the sky.\\rThey say it was a real weird\\ntower with half of it stuck\\fin the cliff.\\rIt wasn't just a tall tower reachin'\\nup to the sky, but reachin' deep\\fdown underground too!\\rRumor is it even reached the\\nbottom of the ocean!\\rBasically, the ruins used to connect\\nthe sky, the land, and the\\fsea to each other...\\rMost of the tower crumbled now,\\nand all that's left is\\fthe entrance and the inside, where\\fyou see weird patterns.",
+  "1": "I think this building was built for homies\\nwith a strong connection to the sea,\\fland, and sky.\\fAnd a terrible architect.",
+  "2": "A MASKED MAN lookin' GREAT in front of a\\nCRASHIN' waterfall...\\fThat's ME, CRASHER WAKE!\\rWho DARE talk to me so casual?\\rOh! You that mask-crazy Hustler I saw at\\nthe Celadon Dept. Store! My mask buddy!\\r",
+  "3": "Wake: I heard about the big waterfall near\\nCianwood and came to SEE it!\\rThis waterfall is AWESOME! I'm takin'\\nselfies! In my mask!\\rNo person or homie can survive without\\nwater, but water can WRECK you too.\\fI learned that slippin' on these rocks.\\r",
+  "4": "Wake: You must be a Hustler from\\naround here, right?\\rI hope you become a Hustler\\nlike water--\\fstrong, hard to beat, but\\frefreshin'.\\rGood luck, mask-crazy {STRVAR_1 3, 0, 0}!\\r",
+  "5": "Chuck: OOOMPH!\\nYou came ALL this way just to see ME?\\rThen take a pic with me too!\\nFlex with me! Yes? {YESNO 0}",
+  "6": "Chuck: Say CHEESE!\\nDon't close your eyes! FLEX!\\r",
+  "7": "Chuck: GREAT pic!\\nI look HUGE. Don't show my wife.",
+  "8": "Chuck: NO? You came all the way out\\nhere to say NO?! That's cold!",
+  "9": "Your Photo Album full.\\rGo on your PC and delete\\nsome pics."
+}

@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0592_T25R1001_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Goldenrod\nDepartment Store.</language>
+		<language name="English">Welcome to the Goldenrod Dept.\nStore! No shopliftin’. We WATCHIN’.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The department store has a\ndecent selection.\rBut some items are only available\nas Game Corner prizes.</language>
+		<language name="English">Decent selection in here.\rBut some stuff you only get as Game\nCorner prizes. That’s how they get\fyou.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of business would a\nThe Feds member have here?\rWe ain’t selling sanity here.</language>
+		<language name="English">What business a Fed got in here?\nWe don’t sell warrants. Try aisle 9.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m raring to shop again today!</language>
+		<language name="English">I’m ready to shop again today! Retail\ntherapy, baby! My credit card cryin’!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be it The Feds, “Team Pocket,” or\nwhatever...leave me alone!\rI’m busy shopping and have no time\nto waste!</language>
+		<language name="English">The Feds, “Team Pocket,” whoever...\nleave me ALONE!\rI’m SHOPPIN’! I got coupons expirin’!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom’s good at bargain hunting.\rShe always buys stuff at lower prices.</language>
+		<language name="English">Mama a BEAST at bargain huntin’.\rShe argue with the cashier for twenty\nminutes over a dollar. Every time.\fI walk out embarrassed. Every time.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom told me to stay away from\npeople in black suits.</language>
+		<language name="English">Mama told me to stay away from people\nin black suits. And clowns. And my\funcle.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

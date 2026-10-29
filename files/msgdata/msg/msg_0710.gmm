@@ -6,50 +6,50 @@
 	</row>
 	<row id="msg_0710_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mostly I breathe fire, but want\nto exchange phone numbers? {YESNO 0}</language>
+		<language name="English">Mostly I breathe fire, but you wanna\nswap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0710_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\rDon’t worry. I’ll stop breathing fire\nwhile we’re talking on the phone...\fso give me a call sometime!</language>
+		<language name="English">Aight!\rDon’t trip. I’ll stop breathin’ fire\nwhile we on the phone...\fso gimme a call sometime!</language>
 	</row>
 	<row id="msg_0710_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew that us Firebreathers weren’t\nparticularly well liked...</language>
+		<language name="English">I knew us Firebreathers wasn’t\nexactly popular...</language>
 	</row>
 	<row id="msg_0710_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nWould you like to breathe fire with me?\r...Oh, you don’t.\rWould you like to exchange phone\nnumbers with me after all? {YESNO 0}</language>
+		<language name="English">Oh!\nYou wanna breathe fire with me?\r...Oh, you don’t.\rYou wanna swap numbers\nwith me after all? {YESNO 0}</language>
 	</row>
 	<row id="msg_0710_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s all right.\nI promise I won’t burn you, so you can\fcome talk to me in person.</language>
+		<language name="English">It’s aight.\nI promise I won’t burn you, so you can\fcome talk to me in person.</language>
 	</row>
 	<row id="msg_0710_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, a lot of people\nmisunderstand.\rIt may seem like we Firebreathers use\nfire to threaten our Pokémon while\ftraining them.\rBut that’s not the case at all!\nWe just train our Pokémon normally!\fIsn’t that right, {STRVAR_1 0, 10, 0}?\rBreathing fire is just a hobby!</language>
+		<language name="English">You know, a lotta people\nget it twisted.\rMight look like us Firebreathers use\nfire to scare our homies while\ftrainin’ ’em.\rBut that ain’t it at all!\nWe just train our homies normal!\fAin’t that right, {STRVAR_1 0, 10, 0}?\rBreathin’ fire just a hobby!</language>
 	</row>
 	<row id="msg_0710_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buoahhhbobobo!\rWhat do you think?\nI discovered a new technique\ffor breathing fire!\rWell, not like you can tell over\nthe phone...\rNever mind that. I caught a wild\n{STRVAR_1 0, 11, 0} yesterday.\rI think I’ll start training it soon.</language>
+		<language name="English">Buoahhhbobobo!\rWhat you think?\nI found a new technique\ffor breathin’ fire!\rWell, not like you can tell over\nthe phone...\rNever mind that. I caught a wild\n{STRVAR_1 0, 11, 0} yesterday.\rI think I’mma start trainin’ it soon.</language>
 	</row>
 	<row id="msg_0710_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you like {STRVAR_1 0, 11, 0}?\rAs for me...they’re all right. There’s\nall kinds of things in this world.</language>
+		<language name="English">You like {STRVAR_1 0, 11, 0}?\rAs for me...they aight. There’s\nall kinds of stuff in this world.</language>
 	</row>
 	<row id="msg_0710_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buoahhhbobobo!\nToday is a great day!\rYou should have another battle with me!\nI’m waiting and practicing on\f{STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Buoahhhbobobo!\nToday a GREAT day!\rYou should scrap me again!\nI’m waitin’ and practicin’ on\f{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0710_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m all ready, and waiting for you on\n{STRVAR_1 4, 3, 0}, so hurry up!</language>
+		<language name="English">I’m all ready, and waitin’ for you on\n{STRVAR_1 4, 3, 0}, so hurry up!</language>
 	</row>
 	<row id="msg_0710_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how there are so many\ndifferent types of Pokémon, right?\rEach type has good points and bad\npoints, so it’s not easy to say which\ftype is the best.\rHowever...\rMy choice has to be the Fire type!\fBuoahhhbobobo!!</language>
+		<language name="English">You know how there’s SO many\ndifferent types of homies, right?\rEvery type got good points and bad\npoints, so it ain’t easy to say which\ftype is the best.\rHowever...\rMy pick GOTTA be Fire!\fBuoahhhbobobo!!</language>
 	</row>
 	<row id="msg_0710_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that today’s the\nBug-Catching Competition?\rI’m not that into Bug-type Pokémon,\nbut the National Park ain’t that far\ffrom Route 35...\fI thought I might go check it out.</language>
+		<language name="English">You know today the\nBug-Catching Contest?\rI ain’t that into Bug types,\nbut the National Park ain’t that far\ffrom Route 35...\fI might go check it out.</language>
 	</row>
 </body>

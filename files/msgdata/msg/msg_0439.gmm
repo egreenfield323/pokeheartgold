@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0439_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Day-Care Man.\rWe look after the precious Pokémon\nof other Hustlers.\rIf you’d like us to raise your\nPokémon, have a word with my wife.</language>
+		<language name="English">I’m the Day-Care Man.\rWe look after other Hustlers’ precious\nhomies. Forty years in business.\rIf you want us to raise your homies,\nholla at my wife. She the brains.</language>
 	</row>
 	<row id="msg_0439_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you!\rWe were raising your Pokémon,\nand my goodness, were we surprised!\rYour Pokémon was holding an Egg!\rWe don’t know how it got there,\nbut your Pokémon had it.\rYou do want it, don’t you? {YESNO 0}</language>
+		<language name="English">Ah, it’s YOU!\rWe was raisin’ your homies, and my\ngoodness, was we SURPRISED!\rYour homie was holdin’ a EGG!\rWe don’t know how it got there.\nWe don’t WANT to know.\rYou want it, right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you! Good to see you.\nYour {STRVAR_1 0, 0, 0}’s doing just fine.</language>
+		<language name="English">Ah, it’s you! Good to see you.\nYour {STRVAR_1 0, 0, 0} doin’ just fine.\fIt’s been eatin’ good.</language>
 	</row>
 	<row id="msg_0439_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well then, I’ll hang on to it.\nThanks!</language>
+		<language name="English">Well then, I’ll hold on to it.\nGood looks! I’ll make a omelet. JK. JK.</language>
 	</row>
 	<row id="msg_0439_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0439_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You take good care of it.</language>
+		<language name="English">Take good care of it.\nAnd don’t ask questions.</language>
 	</row>
 	<row id="msg_0439_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -40,55 +40,55 @@
 	</row>
 	<row id="msg_0439_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you!\nGood to see you!\rYour {STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}\nare doing just fine.\r</language>
+		<language name="English">Ah, it’s you! Good to see you!\rYour {STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0} doin’\njust fine. VERY fine. Too fine.\r</language>
 	</row>
 	<row id="msg_0439_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really will keep it.\nYou do want this Egg, yes? {YESNO 0}</language>
+		<language name="English">I deadass will keep it.\nYou do want this Egg, yes? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take good care of it!\rThat is, I don’t think we’ll ever find\nanother...\rNo, no, I’m sure we’ll find another one.\nI’m definitely sure of it!\r</language>
+		<language name="English">Take good care of it!\rThat is, I don’t think we’ll EVER find\nanother one...\rNo, no, we’ll DEFINITELY find another\none. Them two... they busy. You know.\r</language>
 	</row>
 	<row id="msg_0439_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well all right then, I’ll take it.\nThank you.\rThat is, I don’t think we’ll ever find\nanother...\rNo, no, I’m sure we’ll find another one.\nI’m definitely sure of it!\r</language>
+		<language name="English">Well aight then, I’ll take it. Good\nlooks.\rThat is, I don’t think we’ll EVER find\nanother one...\rNo, no, we’ll DEFINITELY find another\none. Them two... they busy. You know.\r</language>
 	</row>
 	<row id="msg_0439_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...\nIf we are looking after your Pokémon\fand notice one is holding an Egg, would\fyou like me to contact you by\fphone? Would that be all right? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}...\nIf we lookin’ after your Pokémon\fand notice one is holdin’ an Egg, would\fyou like me to contact you by\fphone? Would that be all right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...\nIf we are looking after your Pokémon\fand notice one is holding an Egg, would\fyou like me to contact you by\fphone? Would that be all right? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}...\nIf we lookin’ after your Pokémon\fand notice one is holdin’ an Egg, would\fyou like me to contact you by\fphone? Would that be all right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can leave it up to us!\rAny Pokémon you’d like to have raised\nyou can leave in my wife’s care.</language>
+		<language name="English">Leave it to us!\rAny homie you want raised, leave it with\nmy wife. She raised six kids AND me.</language>
 	</row>
 	<row id="msg_0439_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see. Well, that’s fine.\rAny Pokémon you’d like to have raised\nyou can leave in my wife’s care.</language>
+		<language name="English">I see. Well, that’s fine.\rAny homie you want raised, leave it with\nmy wife. She the real boss.</language>
 	</row>
 	<row id="msg_0439_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along very well.</language>
+		<language name="English">Them two get along REAL well.\nToo well. I gotta chaperone.</language>
 	</row>
 	<row id="msg_0439_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along.</language>
+		<language name="English">Them two get along. It’s cordial.</language>
 	</row>
 	<row id="msg_0439_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two don’t seem to like each\nother much.</language>
+		<language name="English">Them two don’t deadass like each\nother. Like my in-laws.</language>
 	</row>
 	<row id="msg_0439_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two play with other\nPokémon rather than with each other...</language>
+		<language name="English">Them two play with other homies instead\nof each other... It’s a situationship.</language>
 	</row>
 	<row id="msg_0439_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Day-Care Lady.\nWe can raise Pokémon for you.\rWould you like us to raise your\nPokémon? {YESNO 0}</language>
+		<language name="English">I’m the Day-Care Lady. We raise homies\nfor you. Like a nanny. But cheaper.\rWant us to raise your homie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -96,15 +96,15 @@
 	</row>
 	<row id="msg_0439_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine, we’ll raise your {STRVAR_1 0, 0, 0}\nfor a while.\rCome back for it later.\r</language>
+		<language name="English">Fine, we’ll raise your {STRVAR_1 0, 0, 0} for a\nwhile.\rCome back for it later. We’ll feed it.\nWe’ll spoil it.\r</language>
 	</row>
 	<row id="msg_0439_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We can raise two of your Pokémon.\nWould you like us to raise another? {YESNO 0}</language>
+		<language name="English">We can raise TWO of your homies.\nWant us to raise another? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, there you are!\nMy husband was looking for you.</language>
+		<language name="English">Ah, there you! My husband been lookin’\nfor you. Somethin’\fabout a Egg. He get excited.</language>
 	</row>
 	<row id="msg_0439_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -112,15 +112,15 @@
 	</row>
 	<row id="msg_0439_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough bread...</language>
+		<language name="English">You ain’t got enough bread...\nRaisin’ homies ain’t free, baby.</language>
 	</row>
 	<row id="msg_0439_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to take back the other\none, too? {YESNO 0}</language>
+		<language name="English">Do you wanna take back the other\none, too? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very good.\nCome again.</language>
+		<language name="English">Hella good.\nCome again.</language>
 	</row>
 	<row id="msg_0439_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -128,7 +128,7 @@
 	</row>
 	<row id="msg_0439_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By level, your {STRVAR_1 0, 0, 0} has\ngrown by about {STRVAR_1 51, 1, 0}.\r</language>
+		<language name="English">Level-wise, your {STRVAR_1 0, 0, 0} grew by\nabout {STRVAR_1 51, 1, 0}.\fWe been feedin’ it GOOD.\r</language>
 	</row>
 	<row id="msg_0439_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -136,11 +136,11 @@
 	</row>
 	<row id="msg_0439_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want your {STRVAR_1 0, 0, 0} back,\nit will cost ${STRVAR_1 53, 1, 0}. {YESNO 0}</language>
+		<language name="English">If you want your {STRVAR_1 0, 0, 0} back, that’s\n${STRVAR_1 53, 1, 0}. Babysittin’ ain’t free. {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nHere’s your Pokémon.\r</language>
+		<language name="English">EXCELLENT! Here’s your homie.\nIt gained weight. That’s love.\r</language>
 	</row>
 	<row id="msg_0439_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -148,7 +148,7 @@
 	</row>
 	<row id="msg_0439_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? But you only have one\nPokémon with you.\rYou can’t go off without a Pokémon.\nCome back another time.</language>
+		<language name="English">Oh? But you only got one homie with\nyou.\rYou can’t go out there with NO homies.\nThat’s how you get jumped.</language>
 	</row>
 	<row id="msg_0439_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -156,7 +156,7 @@
 	</row>
 	<row id="msg_0439_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you leave me that Pokémon,\nwhat are you gonna battle with?\rCome back another time.</language>
+		<language name="English">If you leave me that homie, what you\ngon’ scrap with? Your FISTS?\rCome back another time.</language>
 	</row>
 	<row id="msg_0439_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -164,7 +164,7 @@
 	</row>
 	<row id="msg_0439_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, now.\nThat is merely an Egg!</language>
+		<language name="English">Now, now. That’s just a EGG.\nWe don’t raise eggs. We raise HOMIES.</language>
 	</row>
 	<row id="msg_0439_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -197,7 +197,7 @@
 	</row>
 	<row id="msg_0439_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along very well.\r</language>
+		<language name="English">The two seem to get along hella well.\r</language>
 	</row>
 	<row id="msg_0439_00048" index="48">
 		<attribute name="window_context_name">used</attribute>

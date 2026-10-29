@@ -2,43 +2,43 @@
 <body language="English">
 	<row id="msg_0482_T05R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rFeel free to look around anywhere\non this floor.</language>
+		<language name="English">Welcome!\rLook around ANYWHERE on this floor.\nOnly this floor.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, but you can only tour the\nground floor.\rEver since Johto’s Radio Tower was\ntaken over by a criminal gang,\fwe have had to step up our security.</language>
+		<language name="English">Sorry, you can only tour the ground\nfloor.\rEver since Johto’s Radio Tower got\nraided by The Feds, we stepped up\fsecurity.\fWe got a guard now. Ron. He 70.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many people are hard at work here\nin the Radio Tower.\rThey must be doing their best to put\non good shows.</language>
+		<language name="English">Mad people workin’ hard here in the\nRadio Tower. Puttin’ on good shows.\fAnd ghost stories. It’s Lavender.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no, no, no!\rWe’ve been off the air ever since the\nPower Plant shut down.\rAll my efforts to start this station\nwould be wasted if I can’t broadcast.\fI’ll be ruined!</language>
+		<language name="English">Oh, no, no, NO!\rWe been off air since the Power Plant\nshut down.\rAll my work startin’ this station...\nWASTED.\fI’m finished! I’m movin’ back in with\nmy\fmama!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! So you’re the {STRVAR_1 3, 0, 0} who\nsolved the Power Plant’s problem?\rThanks to you, I never lost my job.\nI tell you, you’re a real lifesaver!\fPlease take this as my thanks.\r</language>
+		<language name="English">Ah! So you the {STRVAR_1 3, 0, 0} who\nfixed the Power Plant?\rThanks to you, I kept my job.\nYou a real lifesaver!\fTake this as a thank-you.\r</language>
 	</row>
 	<row id="msg_0482_T05R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! So you’re the {STRVAR_1 3, 0, 0} who\nsolved the Power Plant’s problem?\rThanks to you, I never lost my job.\nI tell you, you’re a real lifesaver!\fPlease take this as my thanks.\r</language>
+		<language name="English">Ah! So you the {STRVAR_1 3, 0, 0} who\nfixed the Power Plant?\rThanks to you, I kept my job.\nYou a real lifesaver!\fTake this as a thank-you.\r</language>
 	</row>
 	<row id="msg_0482_T05R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Director loaded the EXPN Card\non {STRVAR_1 3, 0, 0}’s Pokégear!\r{STRVAR_1 3, 0, 0}’s Pokégear has been\nupgraded!</language>
+		<language name="English">The Director loaded the EXPN Card\non {STRVAR_1 3, 0, 0}’s Pokégear!\r{STRVAR_1 3, 0, 0}’s Pokégear got\nupgraded!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that thing, you can tune in to\neven more radio programs here in\fKanto.\fGahahahaha!</language>
+		<language name="English">With that, you can tune in to\neven more radio shows here in\fKanto.\fGahahahaha!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there!\nI am the super Music Director!\rHuh? Your Pokégear can’t tune in to my\nmusic shows.\rHow unfortunate!\rIf you upgrade it with the EXPN Card,\nyou can tune in.\fYou’d better get one!</language>
+		<language name="English">AYO! I’m the SUPER Music Director!\rHuh? Your Pokégear can’t pick up my\nshows. TRAGIC!\rUpgrade with the EXPN Card and tune\nin.\fYou NEED my music. Everybody need it.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there!\nI am the super Music Director!\rI’m responsible for the gorgeous\nmelodies that go out over the air.\rDon’t be square. Grab your music\noff the air!</language>
+		<language name="English">AYO! I’m the SUPER Music Director!\rI’m responsible for the GORGEOUS\nmelodies on the air.\rDon’t be square. Grab my music off the\nair! It’s free! Unlike my divorce!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0482_T05R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Perk Up Pokémon with Mellow Sounds\nof the Poké Flute.\rThe Poké Flute broadcast is only\navailable around the Kanto region.\rTry to tune in around the upper area\nof the radio!</language>
+		<language name="English">Perk Up Homies with the Smooth\nSounds of the Poké Flute.\rThe Poké Flute broadcast only\nplay around Kanto.\rTry tunin’ in around the top\nof the radio!</language>
 	</row>
 </body>

@@ -1,0 +1,13 @@
+{
+  "_comment": "Pewter block: Brock.",
+  "0": "Brock: Sheesh, ain't often we get a\\nchallenger from Johto.\\rI'm Brock, Pewter Block Boss.\\nRock homie expert. Rock ENTHUSIAST.\\rMy homies don't feel most physical hits.\\nThey too hard. Like my heart after Jenny.\\rYou gon' have a HARD time doin' damage.\\nC'mon!\\r",
+  "1": "Brock: Your homies broke through my\\nrock-hard defense...\\rLike the last ten girls I asked out.\\rYou stronger than I expected...\\fGo 'head--take this Chain.\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe Boulder Chain from Brock!",
+  "3": "Brock: I really enjoyed scrappin'\\nwith you, {STRVAR_1 3, 0, 0}!\\fI'll give you the move Brick Wall too.\\rIt can make the other homie\\nflinch sometimes.\\r",
+  "4": "Brock: I really enjoyed scrappin'\\nwith you, {STRVAR_1 3, 0, 0}!\\fI'll give you the move Brick Wall too.\\rIt can make the other homie\\nflinch sometimes.\\r",
+  "5": "Brock: The world HUGE. There's mad\\nstrong Hustlers like you.\\rJust wait. I'm finna get stronger too.\\nAnd find love. One of them two.",
+  "6": "Yo! Future legend! You look...\\fDEADASS rockin'.\\rYou scrappin' Kanto's Block Bosses?\\rThey strong and dedicated, just like\\nJohto's. And they all single. Weird.",
+  "7": "Yo! Future legend! That Block ain't give\\nyou NO trouble.\\rThe way you took charge was REAL\\ninspirin'. I mean that. I'm takin' notes.",
+  "8": "Pewter City Block\\nIt's Rocks. Just Rocks.",
+  "9": "Pewter City Block\\rBoss: Brock\\nGot Ran Through By:\\f{STRVAR_1 3, 0, 0}"
+}

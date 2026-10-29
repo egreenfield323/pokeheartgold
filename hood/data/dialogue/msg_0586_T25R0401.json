@@ -1,0 +1,18 @@
+{
+  "_comment": "Bill's house. Bill (doesn't like outside) and his family.",
+  "0": "Bill: Ayo, {STRVAR_1 3, 0, 0}! Do me a solid and\\ntake this EEVEE?\\rIt came through when I was messin'\\nwith the Wi-Fi. Don't ask.\\rSomebody gotta take care of it, but\\nI don't go outside. Sunlight hurt.\\rCan I count on you, {STRVAR_1 3, 0, 0}? {YESNO 0}",
+  "1": "Bill: I KNEW you'd come through!\\nYou the real deal!\\fTake care of it! It's allergic to nothin'!\\r",
+  "2": "{STRVAR_1 3, 0, 0} got\\nthe EEVEE!",
+  "3": "Bill: Professor Elm said EEVEE can\\nevolve into SEVEN kinds of homies!\\rIt's the most indecisive homie alive.",
+  "4": "Whoa, hold up. You can't carry\\nno more homies.",
+  "5": "Oh... Now what? I can't keep it.\\nMy mama said no more pets.\\fI'm 34.",
+  "6": "Bill: I used to experiment with\\nteleportin' stuff.\\rThe GTS and Wi-Fi came from my\\nteleport machine! I lost a sandwich in\\fthere once. Still lookin' for it.",
+  "7": "Give a nickname to\\nthe EEVEE you got? {YESNO 0}",
+  "9": "Oh, you collect homies?\\nMy son Bill an EXPERT.\\rHe just got called to the Trap House in\\nEcruteak. First time he left the house\\fin a year. I'm SO proud.",
+  "10": "Whatever happen, I'm just happy to see\\nmy baby. Outside. In the sun. Finally.",
+  "11": "My big brother Bill made the homie\\nStorage System.\\rHe still live in the basement.\\nGenius and broke. Classic.",
+  "12": "You a Hustler?\\rI got a useful number for you.\\nIt's my brother. He NEEDS friends. {YESNO 0}",
+  "13": "{STRVAR_1 3, 0, 0} saved Bill's number\\nin the Pokégear!",
+  "14": "My brother made the homie Storage\\nSystem.\\rI was gon' give you Bill's number...\\nHe gon' be sad. He waitin' by the phone.",
+  "15": "Call my brother and he'll tell you\\nALL about PC Boxes. ALL of it.\\fFor like three hours. Bring snacks."
+}

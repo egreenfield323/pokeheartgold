@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0483_T06_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion Port is Kanto’s\nseaside gateway.\rLuxury liners from around the world\ndock here.</language>
+		<language name="English">Vermilion Port is Kanto’s seaside\ngateway.\rFancy cruise ships from all over dock\nhere. I just watch. I can’t afford it.</language>
 	</row>
 	<row id="msg_0483_T06_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon is preparing the land\nfor construction.\rBut I have no bread to start\nthe project.</language>
+		<language name="English">My homie gettin’ the land ready for\nconstruction.\rBut I ain’t got the bread to start.\nBeen “gettin’ ready” for eight years.</language>
 	</row>
 	<row id="msg_0483_T06_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,43 +14,43 @@
 	</row>
 	<row id="msg_0483_T06_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are eight Blocks in Kanto.\rThat big building is Vermilion’s\nblock.</language>
+		<language name="English">There’s eight Blocks in Kanto.\rThat big buildin’ is Vermilion’s Block.\nThe Boss a army vet. He LOUD.</language>
 	</row>
 	<row id="msg_0483_T06_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skilled Hustlers gather in Kanto.\nBlock Bosses are especially strong.\rThey won’t be easy to defeat.</language>
+		<language name="English">Skilled Hustlers pull up in Kanto.\nThe Block Bosses EXTRA strong here.\rKanto don’t play.</language>
 	</row>
 	<row id="msg_0483_T06_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve started to collect Kanto\nGym Chains?\rDon’t you agree that the Hustlers\nhere are tough?</language>
+		<language name="English">You collectin’ Kanto Block Chains?\rKanto Hustlers TOUGH, right?\nWe raised on hard knocks.</language>
 	</row>
 	<row id="msg_0483_T06_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I guess you’ll be finished with your\nconquest of Kanto Blocks soon.\rLet me know if you get all\neight Chains.</language>
+		<language name="English">I bet you run all the Kanto Blocks\nsoon.\rLmk when you got all eight Chains. I\ngot a surprise. It’s legit.</language>
 	</row>
 	<row id="msg_0483_T06_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou got all the Kanto Block Chains.\rI’ve got a reward for your efforts.\r</language>
+		<language name="English">CONGRATS! You got ALL the Kanto\nChains!\rYour neck gotta be tired. Here’s a\nreward for the grind.\r</language>
 	</row>
 	<row id="msg_0483_T06_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Max is a powerful item that\nraises a move’s top PP to its maximum.\fIt can change the way you battle!</language>
+		<language name="English">A Drum Mag is a powerful item that\nraise a move’s top PP to the max.\fIt can change how you scrap!</language>
 	</row>
 	<row id="msg_0483_T06_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Max is a powerful item that\nraises a move’s top PP to its maximum.\fIt can change the way you battle!</language>
+		<language name="English">A Drum Mag is a powerful item that\nraise a move’s top PP to the max.\fIt can change how you scrap!</language>
 	</row>
 	<row id="msg_0483_T06_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City\nThe Port of Exquisite Sunsets</language>
+		<language name="English">Vermilion City\nSunsets and Sailors</language>
 	</row>
 	<row id="msg_0483_T06_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City block\nLeader: Lt. Surge\fThe Lightning American</language>
+		<language name="English">Vermilion City Block\nBoss: Lt. Surge\fThe Lightning American. Loud.</language>
 	</row>
 	<row id="msg_0483_T06_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Fan Club\nAll Pokémon Fans Welcome!</language>
+		<language name="English">Pokémon Fan Club\nAll Homie Fans Welcome!</language>
 	</row>
 	<row id="msg_0483_T06_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,42 +58,42 @@
 	</row>
 	<row id="msg_0483_T06_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: That was so close!\nI thought I could corner it by\fambushing it here...\rBut running on the water...\nis beyond me.\rStill, I am starting to see a pattern.\fSUICUNE prefers water!\fThat means...\r</language>
+		<language name="English">Eusine: That was SO close!\nI tried to AMBUSH it here...\rBut it ran on WATER...\nI can’t do that. I tried. I sank.\rStill, I see a pattern now.\fSUICUNE LIKE WATER!\fThat mean...\r</language>
 	</row>
 	<row id="msg_0483_T06_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, {STRVAR_1 3, 0, 0}!\nI’ve got to go!\r</language>
+		<language name="English">My bad, {STRVAR_1 3, 0, 0}! I gotta go!\nSUICUNE waits for no man!\r</language>
 	</row>
 	<row id="msg_0483_T06_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\nMy name is Steven.\fThe Kingpin from the Hoenn region.\rHave we met...before?\rThat’s not possible.\nAll the Hustlers I have battled\fseem to have the same look, anyway.\rEspecially the ones who gave me\ntough battles...\r</language>
+		<language name="English">Ayo! My name is Steven.\fThe Kingpin from Hoenn.\rHave we met...before?\rCan’t be. All the Hustlers I scrapped\nlook the same. I’m a rock guy. Faces is\fhard.\rEspecially the ones who gave me tough\nscraps...\r</language>
 	</row>
 	<row id="msg_0483_T06_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: By the way, have you heard of\na Pokémon called LATIAS?\rI am investigating why LATIAS,\na Pokémon from Hoenn, decided to\fleave Hoenn to come here.\r</language>
+		<language name="English">Steven: By the way, you heard of\na homie called LATIAS?\rI’m lookin’ into why LATIAS,\na homie from Hoenn, decided to\fleave Hoenn and come here.\r</language>
 	</row>
 	<row id="msg_0483_T06_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: By the way, have you heard of\na Pokémon called LATIOS?\rI am investigating why LATIOS,\na Pokémon from Hoenn, decided to\fleave Hoenn to come here.\r</language>
+		<language name="English">Steven: By the way, you heard of\na homie called LATIOS?\rI’m lookin’ into why LATIOS,\na homie from Hoenn, decided to\fleave Hoenn and come here.\r</language>
 	</row>
 	<row id="msg_0483_T06_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS is a Pokémon that has a lot\nto do with Soul Dew, a gemlike Orb.\rConsidering the fact that LATIAS is now\nin Kanto, it is possible to assume that\fthis has to do with the Soul Dew.\r</language>
+		<language name="English">LATIAS got a lot to do with\nthe Soul Dew, a gem-lookin’ Orb.\rSince LATIAS in Kanto now,\nit’s safe to say\fthis got to do with the Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS is a Pokémon that has a lot\nto do with Soul Dew, a gemlike Orb.\rConsidering the fact that LATIOS is now\nin Kanto, it is possible to assume that\fthis has to do with Soul Dew.\r</language>
+		<language name="English">LATIOS got a lot to do with\nthe Soul Dew, a gem-lookin’ Orb.\rSince LATIOS in Kanto now,\nit’s safe to say\fthis got to do with the Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Hustler will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIAS travel MAD far.\rIt’s hard to find without a tracker. Or\na lotta free time.\rBut every Hustler gon’ be drawn to it,\nright?\r</language>
 	</row>
 	<row id="msg_0483_T06_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Hustler will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIOS travel MAD far.\rIt’s hard to find without a tracker. Or\na lotta free time.\rBut every Hustler gon’ be drawn to it,\nright?\r</language>
 	</row>
 	<row id="msg_0483_T06_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: I must go.\nMay our journeys cross again.\r</language>
+		<language name="English">Steven: I gotta go. May our paths\ncross again. I’ll be lookin’ at rocks.\r</language>
 	</row>
 </body>

@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0544_T20R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, {STRVAR_1 3, 0, 0}...\rMy husband ain’t slept\nin like a week. I’m worried.\rWhen he deep in his “research,”\nhe forget to eat. And blink.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}...\rMy husband ain’t slept\nin like a week. I’m worried.\rWhen he deep in his “research,”\nhe forget to eat. And blink.</language>
 	</row>
 	<row id="msg_0544_T20R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, {STRVAR_1 3, 0, 0}...\rMy husband ain’t slept\nin like a week. I’m worried.\rWhen he deep in his “research,”\nhe forget to eat. And blink.</language>
+		<language name="English">Ayo, {STRVAR_1 3, 0, 0}...\rMy husband ain’t slept\nin like a week. I’m worried.\rWhen he deep in his “research,”\nhe forget to eat. And blink.</language>
 	</row>
 	<row id="msg_0544_T20R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0073_D24R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\rA promising youngblood about to start\nthe journey of archaeology just\fwalked in!\r</language>
+		<language name="English">BRAVO!\rA young archaeologist just\nwalked into my Research Center!\fFINALLY! Fresh blood! Cheap labor!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? Just a visitor?\nOh, aight...\fYou got me hype for nothin’.</language>
+		<language name="English">What? You just visitin’?\nOh. Aight...\fYou got me hype for NOTHIN’.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My staff here at the Research Center\nis top tier, and the research\fgoes good with zero effort\ffrom me.\rGot questions? Ask\nmy staff!</language>
+		<language name="English">My staff here is TOP tier. The research\ngo great with ZERO effort from me.\rI’m the boss. I mostly nap.\nGot questions? Ask my staff.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We cracked a lot of the UNOWN\nmystery thanks to you!\rGood looks, fr.\nGood looks again!</language>
+		<language name="English">We cracked the UNOWN mystery thanks\nto YOU! I’m takin’ all the credit, but\fgood looks, fr.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ruins is like 1,500 years old.\nThat’s all we know.\rNobody know why they got\nbuilt... or who built ’em.</language>
+		<language name="English">The ruins is like 1,500 years old.\nThat’s all we know.\rNobody know who built ’em. My theory?\nAliens. Rich aliens.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you caught a UNOWN?\nThat’s huge!\rNow that I think about it... why we\nall of a sudden seein’ UNOWN?</language>
+		<language name="English">Sheesh, you caught a UNOWN?!\rNow that I think about it, why we all\nof a sudden seein’ UNOWN?\fIs it the 5G? It’s the 5G.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll let you know if I find out\nanything else.</language>
+		<language name="English">I’ll let you know if I find out\nanythin’ else.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIt look like I’m doin’ nothin’?\rCome on!\nI might not look it, but I’m the one\fwho made the UNOWN Report!</language>
+		<language name="English">Huh? It LOOK like I’m doin’ nothin’?\rI’m thinkin’. Deep thinkin’.\nThis how science work. I made the\fUNOWN Report while sittin’ like this.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -94,10 +94,10 @@
 	</row>
 	<row id="msg_0073_D24R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph Research Report\rI dedicate this report to the\nResearch Center’s founder,\fProfessor Silktree... RIP.</language>
+		<language name="English">Ruins of Alph Research Report\rDedicated to the founder,\nProfessor Silktree... RIP.\fHe fell in a hole. Watch your step.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a bunch of nerd books.\r“Mysteries of the Ancients”\n“Code-Breaking for Dummies”\f“Weathering Ruins”</language>
+		<language name="English">A shelf of nerd books.\r“Mysteries of the Ancients”\n“Code-Breakin’ for Dummies”\f“How to Look Busy at Work”</language>
 	</row>
 </body>

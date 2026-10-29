@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0658_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well!\nI think we’ve got a bad connection.\rCall me back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0658_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? How are you?\nI’m doing great as usual!\r</language>
+		<language name="English">Wassup? How you doin’?\nI’m doin’ great as usual!\r</language>
 	</row>
 	<row id="msg_0658_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many stronger Block\nLeaders than me out there.\rYou’re trying to visit every Block\naround the region, ain’t you?\fThat’s great! Keep up the good work!</language>
+		<language name="English">There’s SO many stronger Block\nBosses than me out there.\rYou tryna hit every Block\naround the region, ain’t you?\fThat’s great! Keep it up!</language>
 	</row>
 	<row id="msg_0658_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On Thursdays around noon, I’m\nusually free.\fIf you want to see my Bug-type Pokémon\fagain, you should call me then!</language>
+		<language name="English">Thursdays around noon, I’m\nusually free.\fIf you wanna see my Bug-type homies\fagain, call me then!</language>
 	</row>
 	<row id="msg_0658_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you called at just the right time!\nI’m not doing anything right now.\fWanna battle again? {YESNO 0}</language>
+		<language name="English">Oh, you called at just the right time!\nI ain’t doin’ nothin’ right now.\fWanna scrap again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0658_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\rSee you at the Fighting Dojo in\nSaffron City!</language>
+		<language name="English">Aight!\rSee you at\nthe Saffron Dojo!</language>
 	</row>
 	<row id="msg_0658_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nWell, there’s no helping that...</language>
+		<language name="English">I see...\nWell, ain’t no helpin’ that...</language>
 	</row>
 	<row id="msg_0658_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIt’s great that you want to battle,\fbut don’t you have other plans?\rYou should take care of those plans\nfirst, and then give me a call.</language>
+		<language name="English">Huh?\nIt’s great you wanna scrap,\fbut ain’t you got other plans?\rHandle those plans\nfirst, then gimme a call.</language>
 	</row>
 	<row id="msg_0658_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, I’ll be waiting for you at the\nFighting Dojo in Saffron City!\fRace you there!</language>
+		<language name="English">Aight, I’ll be waitin’ for you at\nthe Saffron Dojo!\fRace you there!</language>
 	</row>
 	<row id="msg_0658_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, this is Bugsy...\nWhat’s up?\r</language>
+		<language name="English">Yeah, this Bugsy...\nWhat’s good?\r</language>
 	</row>
 	<row id="msg_0658_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, didn’t we make plans to meet at\nthe Fighting Dojo in Saffron City for a\fbattle? Did you forget or something?</language>
+		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo for a\fscrap? You forget or somethin’?</language>
 	</row>
 	<row id="msg_0658_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, everyone’s really into\nBug-type Pokémon when they’re kids.\rBut then for some reason, as people\ngrow up, at some point they all start\fto like Bug-type Pokémon less and less.\rHow about you?\nDo you still like Bug-type Pokémon?\rEven if I grow up I’ll never stop liking\nBug-type Pokémon, no way!</language>
+		<language name="English">You know, everybody deadass into\nBug types when they kids.\rBut then for some reason, as people\ngrow up, at some point they start\fto like Bug types less and less.\rWhat about you?\nYou still like Bug-type homies?\rEven if I grow up I’ll NEVER stop\nlikin’ Bug types, no way!</language>
 	</row>
 	<row id="msg_0658_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Block has such a different trick to\nit, doesn’t it?\rIt may seem like it was really difficult\nto get a trick like that set up...\fBut the truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the Gym,\nthen all the Pokémon helped us\ffinish everything else up!</language>
+		<language name="English">My Block got such a different trick\nto it, don’t it?\rMight seem like it was real hard\nto set up a trick like that...\fBut truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the\nBlock, then the homies helped us\ffinish everythin’ else!</language>
 	</row>
 	<row id="msg_0658_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I’ve already mentioned this to\nyou, but did you know I’m doing\fresearch on Bug-type Pokémon?\rThere’s so many different kinds, it’s a\nbit difficult, you know?\rI’m just studying Bug-type Pokémon,\nand yet it’s still this difficult.\rPeople like Professor Elm and\nProfessor Oak who study all the\fdifferent types of Pokémon are really\fsomething else, you know?</language>
+		<language name="English">I think I told you this already,\nbut you know I’m doin’\fresearch on Bug-type homies?\rThere’s SO many kinds, it’s\nkinda hard, you know?\rI’m ONLY studyin’ Bug types,\nand it’s still this hard.\rPeople like Professor Elm and\nProfessor Oak who study every\fkinda homie is deadass\fsomethin’ else, you know?</language>
 	</row>
 </body>

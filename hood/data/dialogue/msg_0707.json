@@ -1,0 +1,17 @@
+{
+  "_comment": "Phone: Tanner (Camper).",
+  "1": "Ayo, how 'bout we swap phone\\nnumbers before we eat?{YESNO 0}",
+  "2": "I always got my Pokégear close,\\nso if you call me, I'll answer\\fpretty quick!\\n",
+  "3": "Don't trip!\\rI'm a REAL nice Camper...",
+  "4": "You decide you wanna swap\\nnumbers with me after all?{YESNO 0}",
+  "5": "Yeah! Ayo, here you go!\\rI been holdin' this just for\\nyou. Don't be shy--go 'head and\\ftake it. It's a present!\\r",
+  "6": "Hm? Oh, you just around the corner?\\rIf you that close, why bother with\\na phone call? Humph!",
+  "7": "You know, it's fine to be all\\nlovey with your homies and let\\f'em live in your crib.\\rBut I'd rather go campin' with my\\nday one, {STRVAR_1 0, 10, 0},\\fwhich is why it's so strong!\\rThat reminds me--we knocked out a wild\\n{STRVAR_1 0, 11, 0}, whammo! Just like that,\\fthe other day. You shoulda seen it...",
+  "8": "About all this trainin' your homies\\njust so you can catch stronger\\fwild homies...\\rIt ain't smart to be throwin'\\nHood Balls around reckless, tryna\\fcatch any old thing.\\rYou gotta build a real bond\\nwith your homies.\\rMe and my {STRVAR_1 0, 10, 0} is\\na perfect example.\\r...Well, I say that, but the other day\\nwe had a wild {STRVAR_1 0, 11, 0} just barely\\fget away from us.\\rNo matter how much I try not to think\\nabout it, I can't let it go...",
+  "9": "Hear me out! Earlier, we met a wild\\n{STRVAR_1 0, 11, 0}!\\rIt kinda jumped out while we was\\nheadin' home from a campin' trip!\\fI was SO shook!\\rI guess it just show you shouldn't\\nlet your guard down when you out\\fin nature!",
+  "10": "I was gettin' ready to cook up some\\nfood, and I thought about you.\\rBefore I sit down to eat, you wanna\\nscrap again?\\rI'm on {STRVAR_1 4, 3, 0}, so bring your\\nbest homies!",
+  "11": "Huh? What's goin' on? You get lost\\nor somethin'?\\rStay calm... I'm RIGHT on\\n{STRVAR_1 4, 3, 0}, so you shouldn't\\fhave no trouble findin' me!",
+  "12": "You know the difference between\\ngoin' on a picnic and campin'?\\rIt's the song, obviously!\\rWhen you on a picnic, you sing a\\nhappy, upbeat lil tune while you hike\\fover hills and fields.\\rWhen you campin', you sing quiet,\\nsad songs of grief and loss while\\fsittin' and starin' at the campfire.\\rWhat? You don't believe me?\\rThen we should go campin' sometime\\nand sit around the fire and see what\\fkinda songs you feel like singin'!",
+  "13": "I was diggin' a fire pit in the\\nground to cook dinner, and\\fI found a weird item!\\rApparently it's called a\\nSun Stone.\\rI'll give it to you. I'm waitin' on\\n{STRVAR_1 4, 3, 0}!",
+  "14": "I still got that Sun Stone I said I'd\\ngive you!\\rI'm waitin' on {STRVAR_1 4, 3, 0}, so\\ncome get it ASAP!"
+}

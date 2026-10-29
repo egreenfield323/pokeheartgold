@@ -1,0 +1,12 @@
+{
+  "_comment": "Whirl Islands basin. Zuki and the Dancers summon LUGIA.",
+  "0": "Zuki: That's right.\\nThis where we welcome LUGIA.\\rWhen the dance we practiced for days\\nbecomes one with the sound of the\\fTidal Bell we gave you, then\\fLUGIA gon' rise up from the\\fwaterfall basin again!\\r",
+  "1": "That's all we can do for you...\\nWhat you do now is on you...",
+  "2": "That IS LUGIA...\\nThe guardian of these islands\\fsince forever...\\rSo many tried over and over,\\nand came up short...\\r{STRVAR_1 3, 0, 0}, your heart in total\\nsync with the Tidal Bell finally\\fmade it show up...\\r",
+  "3": "{STRVAR_1 3, 0, 0}, you see it?\\rLUGIA... It been waitin' for\\nsomebody like you this whole time.\\fRight...?",
+  "4": "LUGIA: Gyaaas!\\r",
+  "5": "You did amazing. Tell\\nProfessor Elm we said wassup.",
+  "6": "You ain't just got LUGIA to show,\\nyou caught it too...\\rYou incredible.\\nWe got nothin' else to say.\\rTake care of yourself out there...",
+  "7": "If that's what you believe, we\\nain't gon' try to change your mind.\\rStill, if you wanna see LUGIA again,\\nmaybe come back here\\fafter everything settle down...",
+  "8": "I think once you turn your back\\non it, LUGIA won't come back for\\fa while...\\rIf you wanna see LUGIA, maybe\\ncome back here after everything\\fsettle down..."
+}

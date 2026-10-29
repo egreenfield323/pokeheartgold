@@ -2,106 +2,106 @@
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hey, you!\rMy Block on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up! Take a look at\nthis cave.\rWe have turned it into a Block, and I\nam still acting as a Block Boss!\rI will give you the Block Chain if you\nmanage to defeat me!\rAre you ready? Here we go!\r</language>
+		<language name="English">Blaine: Ayo, you!\rMy Block on Cinnabar Island got burned\ndown by the volcano!\rBut I ain’t givin’ up! Look at\nthis cave.\rWe turned it into a Block, and I’m\nstill out here bein’ a Block Boss!\rI’ll give you the Block Chain if you\nbeat me!\rYou ready? Let’s go!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Awesome. I have burned out...\fTake this Volcano Chain!\r</language>
+		<language name="English">Blaine: Awesome. I’m burnt out...\fTake this Volcano Chain!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Volcano Chain from Blaine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got\nthe Volcano Chain from Blaine!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Here, I will give you this, too.\nIt’s called Overcook!\rIt has a slight drawback, but it’s\npowerful and well worth it!\r</language>
+		<language name="English">Blaine: Here, I’ll give you this too.\nIt’s called Overcook!\rIt got a lil drawback, but it’s\npowerful and worth it!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I did lose this time, but I’m\ngoing to win next time.\rWhen I rebuild my Cinnabar Block,\nwe have to hold a rematch.</language>
+		<language name="English">Blaine: I lost this time, but I’m\ngon’ win next time.\rWhen I rebuild my Cinnabar Block,\nwe gotta have a rematch.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: My Fire-type Pokémon will be\neven stronger! Just you watch!</language>
+		<language name="English">Blaine: My Fire-type homies gon’ be\neven stronger! Just watch!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, to see a Block in a cave like\nthis? I’d love to explore it.\r</language>
+		<language name="English">Sheesh, a Block in a CAVE? Blaine built\nthis with his bare hands. And a lotta\fduct tape.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitterness leads to improvement\ntomorrow.</language>
+		<language name="English">The pain of losin’ make you better\ntomorrow. I’m VERY good tomorrow.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitterness leads to improvement\ntomorrow.\r</language>
+		<language name="English">The pain of losin’ make you better\ntomorrow. I’m VERY good tomorrow.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am in the middle of collecting\nbattle records.\rCan you help me?\r</language>
+		<language name="English">I’m collectin’ battle records for\nscience. Lab coat and everythin’.\rHelp me out? By losin’?\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?</language>
+		<language name="English">I ain’t expect you to be THIS good!\nWho ARE you? Put that in the records!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?\r</language>
+		<language name="English">I ain’t expect you to be THIS good!\nWho ARE you? Put that in the records!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh!\nYou look easily defeated!\r</language>
+		<language name="English">Ooh! You look EASY to beat!\nNo offense!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon me!\nI failed to sense how strong you are.</language>
+		<language name="English">My bad! I ain’t sense how strong you.\nMy senses is off. It’s the volcano gas.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon me!\nI failed to sense how strong you are.\r</language>
+		<language name="English">My bad! I ain’t sense how strong you.\nMy senses is off. It’s the volcano gas.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A white lab coat is a researcher’s life.\nWe may be living in a cave like this, but\fwe never forget to do the laundry.\r</language>
+		<language name="English">Lab coat life is the researcher life.\nWe might live in a cave, but we\fnever forget to do the laundry.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.</language>
+		<language name="English">This white lab coat make me feel\nsmarter for some reason.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.\r</language>
+		<language name="English">This white lab coat make me feel\nsmarter for some reason.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine may have lost his Block, but he\nnever gives up. His perseverance\fis what motivates me!\r</language>
+		<language name="English">Blaine lost his Block, but he NEVER give\nup. He rebuilt it in a CAVE. With a\fhammer. And a dream.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Block!</language>
+		<language name="English">Together with Blaine, we gon’ rebuild\nour Block!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Block!\r</language>
+		<language name="English">Together with Blaine, we gon’ rebuild\nour Block!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We lost the Block on Cinnabar Island\nand felt lost before we came here.\r</language>
+		<language name="English">We lost the Block on Cinnabar and felt\nlost... Then Blaine said “cave.”\fWe ain’t argue.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.</language>
+		<language name="English">We take the L when we lose...\rAin’t we honest?\rDon’t EVER lump us in with the Cooks\nwho work for The Feds. We LEGIT.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.\r</language>
+		<language name="English">We take the L when we lose...\rAin’t we honest?\rDon’t EVER lump us in with the Cooks\nwho work for The Feds. We LEGIT.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making!\rThis Block has many Hustlers and rocks\nin the way from the rebuilding.\fIt sure won’t be easy to get to Blaine!\rBut keep your hard and defeat the\nTrainers one by one, and you will surely\ffind the path!</language>
+		<language name="English">Yo! Future legend!\rThis Block got MAD Hustlers and rocks\nin the way from the rebuild.\fIt ain’t easy to reach Blaine!\rBut keep your cool and beat the\nHustlers one by one. Bring a fan. It’s\fHOT.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Block Boss rebuilding his Gym and\nthe Hustler from Johto who has come to\fchallenge that Block Boss...\rI have witnessed a hot battle!</language>
+		<language name="English">The Block Boss rebuildin’ his Block,\nand the Johto Hustler who came\fto challenge him...\rI just witnessed a HOT scrap!</language>
 	</row>
 </body>

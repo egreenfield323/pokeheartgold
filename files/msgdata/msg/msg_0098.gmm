@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0098_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks so much for participating!\rPlease wait while I save the game.\nDon’t turn off the power.</language>
+		<language name="English">Good looks so much for scrappin’!\rHold up while I save.\nDon’t TOUCH that power button.</language>
 	</row>
 	<row id="msg_0098_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Hope to see you again! Bring snacks.</language>
 	</row>
 	<row id="msg_0098_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0098_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
+		<language name="English">Delete your existin’ Battle Video and\nsave the last battle?</language>
 	</row>
 	<row id="msg_0098_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0098_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have cleared your seventh match!\nCongratulations!\rIn honor of your talent, we present\nyou BP!\r</language>
+		<language name="English">You cleared your SEVENTH match!\nCongrats!\rIn honor of your talent, here’s BP!\r</language>
 	</row>
 	<row id="msg_0098_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

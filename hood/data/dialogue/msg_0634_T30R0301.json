@@ -1,0 +1,18 @@
+{
+  "_comment": "Blackthorn trade house (DRAGONAIR for DODRIO) and the Effort Ribbon lady.",
+  "0": "DRAGONAIR SO cute, but I ain't got one.\\nYou got a DRAGONAIR㊛?\\rTrade it for my DODRIO? It got three\\nheads, so it's like three homies. {YESNO 0}",
+  "1": "SHEESH! Good looks!\\nI ALWAYS wanted a DRAGONAIR!\\fI'm namin' it Princess.",
+  "2": "That ain't a DRAGONAIR㊛.\\nTrade with me if you get one.",
+  "3": "You don't wanna trade?\\nOh, DANG... DODRIO was hype for it.",
+  "4": "How that DODRIO doin'? It still argue\\nwith itself?\\rYour DRAGONAIR SO cute! Princess say hi!",
+  "5": "Oh?\\nYour {STRVAR_1 0, 0, 0}...\\r",
+  "6": "It been workin' SO hard, ain't it?\\rAs a reward, give it the Effort Ribbon.\\nIt's like a participation trophy but earned.\\r",
+  "7": "{STRVAR_1 3, 1, 0} got\\nthe Effort Ribbon.\\r",
+  "8": "{STRVAR_1 3, 1, 0} put the Effort Ribbon\\non {STRVAR_1 0, 0, 0}.",
+  "9": "It need to grind a lil harder.\\rIf it do, I'll give it somethin' nice.\\nRight now it's givin' lazy.",
+  "10": "It's grindin' a lil, I see.\\rBut it need MORE effort! Hustle!",
+  "11": "It's grindin', I see.\\rBut it need just a lil\\nmore effort!",
+  "12": "It's grindin' real hard, I see.\\rBut it need a tiny bit\\nmore effort!",
+  "13": "It's grindin' SO hard, I see.\\rIt's ALMOST there.\\nJust a smidge more and BOOM!",
+  "14": "Oh! That Effort Ribbon look\\ngood on your {STRVAR_1 0, 0, 0}!"
+}

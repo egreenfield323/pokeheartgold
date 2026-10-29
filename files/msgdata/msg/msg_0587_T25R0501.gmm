@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0587_T25R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The train hasn’t come in...\rI know! I’ll carry the passengers on\nmy back!\rThat won’t work.</language>
+		<language name="English">The train ain’t came...\rI got it! I’ll carry the passengers\non my back!\rThat won’t work. I’m 5’2“.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Magnet Train is back in service!\rPassengers need to go through the\ngate for the automatic ticket check...\r</language>
+		<language name="English">The Magnet Train back runnin’!\rPassengers gotta go through the\ngate for the ticket check...\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Beep!\rI am so sorry, but you need a\nMagnet Train Pass to get on\fthe Magnet Train...\r</language>
+		<language name="English">...Beep!\rSo sorry, but you need a\nMagnet Train Pass to get on\fthe train. No hoppin’ the gate.\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Passengers need to go through the\ngate for the automatic ticket check...\r</language>
+		<language name="English">Passengers gotta go through the\ngate for the ticket check...\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ping...fwip!\nHere is your Pass back.\rThis train is about to leave\nfor Saffron City.</language>
+		<language name="English">Ping...fwip!\nHere go your Pass back.\rThis train ’bout to leave\nfor Saffron City.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0587_T25R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are arriving at Goldenrod!\nGoldenrod! The accent is on the “o”!</language>
+		<language name="English">Now arrivin’ at Goldenrod!\nGoldenrod! The accent on the “o”!</language>
 	</row>
 	<row id="msg_0587_T25R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,10 +34,10 @@
 	</row>
 	<row id="msg_0587_T25R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the President.\rMy dream was to build a train that\nis faster than any Pokémon.\rIt really brings Johto much closer\nto Kanto.</language>
+		<language name="English">I’m the President of the Magnet Train.\rMy dream was a train faster than any\nhomie.\rNow I’m rich and I ride a Bike.\nLife is weird.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We request that you make sure you\nrefrain from keeping large Pokémon out\fat the station.</language>
+		<language name="English">Please don’t let big homies out at the\nstation. A ONIX ate the turnstile.\fWe still got the receipt.</language>
 	</row>
 </body>

@@ -1,0 +1,18 @@
+{
+  "_comment": "Phone: Gina (cheerleader).",
+  "1": "Whenever I see a strong Hustler,\\nI wanna be their cheerleader.\\rWhen I'm out on a walk,\\nI pick stuff up sometimes.\\rIf I find anything, it's yours!\\rWanna gimme your number?\\nI'll call whenever I get somethin'.{YESNO 0}",
+  "2": "I'll call as soon as I get somethin'!",
+  "3": "Fr? Well, I'm still cheerin'\\nfor you!",
+  "4": "If I find a item, it's yours!\\nWanna gimme your number?{YESNO 0}",
+  "5": "You FINALLY here!\\nI think this gon' make you happy.\\r",
+  "6": "You must REALLY like phone calls to be\\nright nearby and still callin'!",
+  "7": "Me and my {STRVAR_1 0, 10, 0} gettin' more\\nin sync with each other.\\rWe scrapped a wild {STRVAR_1 0, 11, 0} and\\nbarely beat it.\\fWe gettin' in the groove!\\rBye! Let's chat again!",
+  "8": "Me and my {STRVAR_1 0, 10, 0} gettin' more\\nin sync with each other.\\rBut, you know what?\\rI STILL ain't caught {STRVAR_1 0, 11, 0}.\\nIt's gettin' beyond frustratin'...\\rBye! Let's chat again!",
+  "9": "Would you be my practice partner again\\nsometime?\\rI'll be waitin' on {STRVAR_1 4, 3, 0}...\\rCould you go a lil easier on\\nme next time?",
+  "10": "How soon you comin'?\\nDon't forget, {STRVAR_1 4, 3, 0}!",
+  "11": "How soon you comin'?\\nDon't forget, {STRVAR_1 4, 3, 0}!",
+  "12": "My bad, I ain't found nothin' useful\\nyet... If I find anything, you\\fcan have it!",
+  "13": "I picked up somethin' nice today.\\nI want you to have it, so I called!\\rYou gon' come get it, right?\\n{STRVAR_1 4, 3, 0} is where I'm at.",
+  "14": "I'm gettin' REAL impatient waitin' to\\ngive you my present!\\rHurry over to {STRVAR_1 4, 3, 0}!",
+  "15": "You heard about The Feds?\\rThey done raided the Radio Tower in\\nGoldenrod. With a WARRANT.\\rIs the people inside OK?"
+}

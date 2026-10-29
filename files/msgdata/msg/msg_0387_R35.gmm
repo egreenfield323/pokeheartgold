@@ -107,7 +107,7 @@
 	</row>
 	<row id="msg_0387_R35_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon look pretty tough.\nYou could go anywhere safely.</language>
+		<language name="English">Your homies look TOUGH. You\ncould walk anywhere. Even\fGoldenrod\fafter dark. Even the tunnel.</language>
 	</row>
 	<row id="msg_0387_R35_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
