@@ -187,8 +187,34 @@ def threat_of(text):
     return None
 
 
+BREAK = re.compile(r"\\[nrf]")
+
+
+def signposts():
+    """{(bank, row): sign type} for the DirectionSignpostEx signs, and per type the (widest line px, line count) of
+    the originals. Sign windows don't scroll: a longer line or an extra box is cut off."""
+    sg = {}
+    for f in (te.ROOT / "files/fielddata/script/scr_seq").glob("*.s"):
+        for m in re.finditer(r"DirectionSignpostEx\s+(\d+),\s*\d+,\s*(msg_\w+?)_(\d+)", f.read_text(encoding="utf-8")):
+            sg[(m.group(2), int(m.group(3)))] = int(m.group(1))
+    base = te.base_banks(sorted({b for b, _ in sg}))
+    window = {}
+    for (b, i), t in sg.items():
+        parts = BREAK.split(base[b][i])
+        px, n = window.get(t, (0, 0))
+        window[t] = (max(px, max(te.line_px(te.parts(x)) for x in parts)), max(n, len(parts)))
+    return sg, window
+
+
+def sign_fits(text, window):
+    px, n = window
+    parts = BREAK.split(text)
+    return len(parts) <= n and max(te.line_px(te.parts(x)) for x in parts) <= px and not re.search(r"\\[rf]", text)
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    signs, windows = signposts()
     dry = "--dry-run" in sys.argv
     names = args or sorted(p.stem for p in DIALOGUE.glob("*.json"))
     gmm = {n: gmm_name(n) for n in names}                  # msg_0542.json -> msg_0542_T20.gmm
@@ -212,7 +238,7 @@ def main():
             if text == cur or tokens(text) != tokens(base[bank][i]):
                 continue
             final, errs = te.check(bank, base[bank][i], cur, text, limits)
-            if errs:
+            if errs or ((bank, i) in signs and not sign_fits(final, windows[signs[(bank, i)]])):
                 continue
             out[i] = final
             if edits.get(bank, {}).get(str(i)) is not None:
@@ -240,6 +266,9 @@ def main():
                     errors.append(f"{bank}[{i}]: line over {maxlen} chars ({len(ln)}): {ln!r}")
             final, errs = te.check(bank, orig, cur, text, limits)
             errors += [f"{bank}[{i}]: {e}" for e in errs]
+            if (bank, i) in signs and not sign_fits(final, windows[signs[(bank, i)]]):
+                px, n = windows[signs[(bank, i)]]
+                errors.append(f"{bank}[{i}]: a signpost (no scrolling): at most {n} lines of {px}px, no \\r/\\f")
             out[i] = final
             if over is not None:
                 edits[bank][str(i)] = final

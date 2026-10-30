@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0698_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not too shabby... You doin’\nsomethin’ right if you beat me,\feven by some dumb fluke...\rI fw you!\nGimme your number!\rYou can be my practice partner! {YESNO 0}</language>
+		<language name="English">Not too shabby... You doin’ somethin’\nright if you beat me, even by a DUMB\fFLUKE...\rI fw you!\nGimme your number!\rYou can be my practice partner! {YESNO 0}</language>
 	</row>
 	<row id="msg_0698_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t get too cocky about beatin’\nme! It was a FLUKE!</language>
+		<language name="English">Don’t get too cocky about beatin’ me!\nIt was a FLUKE! A big dumb fluke!</language>
 	</row>
 	<row id="msg_0698_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t believe it! You finna\nregret this!</language>
+		<language name="English">I don’t believe it! You finna REGRET\nthis! I’ll tell everybody it was a\ffluke!</language>
 	</row>
 	<row id="msg_0698_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -27,19 +27,19 @@
 	</row>
 	<row id="msg_0698_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you sayin’?\nYou REALLY like Route 27?\rMe too, obviously!\rI mean, I’m ALWAYS on Route 27!</language>
+		<language name="English">What you sayin’?\nYou REALLY like Route 27?\rMe too, obviously!\rI’m ALWAYS on Route 27!\fI live here. In a tent. By choice.</language>
 	</row>
 	<row id="msg_0698_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, my guy...\nYou remember my {STRVAR_1 0, 10, 0}?\rYes, exactly. That lovely {STRVAR_1 0, 10, 0}.\nWouldn’t you say it’s a perfect match\ffor me?\rFine, you can go.</language>
+		<language name="English">Listen, my guy...\nYou remember my {STRVAR_1 0, 10, 0}?\rYes. That LOVELY {STRVAR_1 0, 10, 0}.\nA perfect match for me, right?\fElegant. Powerful. Humble. Like me.\rFine, you can go.</language>
 	</row>
 	<row id="msg_0698_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have I ever faced a wild {STRVAR_1 0, 11, 0}?\nYou gotta ask?\rI done beat {STRVAR_1 0, 11, 0} MAD\ntimes!\rFine, you can go.</language>
+		<language name="English">Have I ever faced a wild {STRVAR_1 0, 11, 0}?\nYou gotta ASK?\rI done beat {STRVAR_1 0, 11, 0} MAD times!\fAll legit. No flukes. Unlike yours.\rFine, you can go.</language>
 	</row>
 	<row id="msg_0698_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have I ever failed to catch a wild\nhomie?\rYou gotta ask?\rI would NEVER fail to catch a wild\n{STRVAR_1 0, 11, 0}... Oh! Never mind!</language>
+		<language name="English">Have I ever failed to catch a wild\nhomie?\rYou gotta ask?\rI would NEVER fail to catch a wild\n{STRVAR_1 0, 11, 0}... Oh! Never mind!\fThat one was a fluke too.</language>
 	</row>
 	<row id="msg_0698_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -51,6 +51,6 @@
 	</row>
 	<row id="msg_0698_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t be too proud just ’cause you\nhappened to beat me...\fIt was a FLUKE!</language>
+		<language name="English">Don’t be too proud just ’cause you\nhappened to beat me...\fIt was a FLUKE!\fEvery time. All 14 times. Flukes.</language>
 	</row>
 </body>

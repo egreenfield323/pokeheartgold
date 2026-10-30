@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0658_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rThere’s a bug in the phone. A real\none. Call back from somewhere else!</language>
 	</row>
 	<row id="msg_0658_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? How you doin’?\nI’m doin’ great as usual!\r</language>
+		<language name="English">Wassup? How you doin’?\nI’m doin’ great as usual!\fI caught a beetle! It’s in my pocket!\r</language>
 	</row>
 	<row id="msg_0658_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s SO many stronger Block\nBosses than me out there.\rYou tryna hit every Block\naround the region, ain’t you?\fThat’s great! Keep it up!</language>
+		<language name="English">There’s SO many stronger Block Bosses\nthan me out there.\rYou tryna hit every Block in the\nregion, ain’t you?\fThat’s great! Keep it up!</language>
 	</row>
 	<row id="msg_0658_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thursdays around noon, I’m\nusually free.\fIf you wanna see my Bug-type homies\fagain, call me then!</language>
+		<language name="English">Thursdays around noon, I’m usually\nfree.\fIf you wanna see my Bug-type homies\fagain, call me then!\fThey miss you. They told me.</language>
 	</row>
 	<row id="msg_0658_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you called at just the right time!\nI ain’t doin’ nothin’ right now.\fWanna scrap again? {YESNO 0}</language>
+		<language name="English">Oh, you called at just the right time!\nI ain’t doin’ nothin’ right now.\fJust starin’ at an ant hill.\fWanna scrap again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0658_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\rSee you at\nthe Saffron Dojo!</language>
+		<language name="English">AIGHT!\rSee you at the Saffron Dojo!\fI’m bringin’ my beetle!</language>
 	</row>
 	<row id="msg_0658_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nWell, ain’t no helpin’ that...</language>
+		<language name="English">I see...\nWell, ain’t no helpin’ that...\fMy caterpillar is disappointed.</language>
 	</row>
 	<row id="msg_0658_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIt’s great you wanna scrap,\fbut ain’t you got other plans?\rHandle those plans\nfirst, then gimme a call.</language>
+		<language name="English">Huh?\nIt’s great you wanna scrap, but ain’t\fyou got other plans?\rHandle those plans first, then\ngimme a call.</language>
 	</row>
 	<row id="msg_0658_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, I’ll be waitin’ for you at\nthe Saffron Dojo!\fRace you there!</language>
+		<language name="English">Aight, I’ll be waitin’ for you at the\nSaffron Dojo!\fRace you there! I’m takin’ the bike!</language>
 	</row>
 	<row id="msg_0658_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, this Bugsy...\nWhat’s good?\r</language>
+		<language name="English">Yeah, this Bugsy...\nWhat’s good? I’m in a tree.\r</language>
 	</row>
 	<row id="msg_0658_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo for a\fscrap? You forget or somethin’?</language>
+		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo for a scrap?\fYou forget or somethin’?\fI been here with a jar of bugs.</language>
 	</row>
 	<row id="msg_0658_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, everybody deadass into\nBug types when they kids.\rBut then for some reason, as people\ngrow up, at some point they start\fto like Bug types less and less.\rWhat about you?\nYou still like Bug-type homies?\rEven if I grow up I’ll NEVER stop\nlikin’ Bug types, no way!</language>
+		<language name="English">You know, everybody into Bug types\nwhen they kids.\rBut as people grow up, they start\nlikin’ Bug types less and less.\fThey start screamin’ at ’em instead.\rWhat about you?\nYou still like Bug-type homies?\rEven if I grow up I’ll NEVER stop\nlikin’ Bug types! NEVER!</language>
 	</row>
 	<row id="msg_0658_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Block got such a different trick\nto it, don’t it?\rMight seem like it was real hard\nto set up a trick like that...\fBut truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the\nBlock, then the homies helped us\ffinish everythin’ else!</language>
+		<language name="English">My Block got such a different trick to\nit, don’t it?\rMight seem like it was real hard to\nset up...\fBut truth is, it was pretty easy.\rWe ran the ropes through, then the\nhomies finished everythin’ else!\fThe spiders did most of it. Union\fworkers. Respect.</language>
 	</row>
 	<row id="msg_0658_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I told you this already,\nbut you know I’m doin’\fresearch on Bug-type homies?\rThere’s SO many kinds, it’s\nkinda hard, you know?\rI’m ONLY studyin’ Bug types,\nand it’s still this hard.\rPeople like Professor Elm and\nProfessor Oak who study every\fkinda homie is deadass\fsomethin’ else, you know?</language>
+		<language name="English">I think I told you already, but I’m\ndoin’ research on Bug-type homies?\rThere’s SO many kinds, it’s hard.\nI ONLY study Bug types, and it’s\fstill this hard.\rProfessor Elm and Professor Oak study\nEVERY kinda homie...\fThey somethin’ else. Or they lyin’.</language>
 	</row>
 </body>

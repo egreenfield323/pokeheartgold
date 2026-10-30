@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0644_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um, ’scuse me? I can’t hear you\nreal good. The connection trash.\rTry callin’ from somewhere else!</language>
+		<language name="English">Um, ’scuse me? I can’t hear you real\ngood. The connection TRASH.\rCall from somewhere else! I’m hangin’\nup! I’m hangin’ up NOW! ...OK bye!</language>
 	</row>
 	<row id="msg_0644_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nUm, ayo, what’s good?\fI’m doin’ great over here...totally!\r</language>
+		<language name="English">Wassup...\nUm, ayo, what’s good?\fI’m doin’ great over here... TOTALLY!\fI ain’t cryin’. Allergies.\r</language>
 	</row>
 	<row id="msg_0644_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s SO many Block Bosses that’s\nstronger than me... Um, I deadass need\fto work harder and get better!</language>
+		<language name="English">There’s SO many Block Bosses stronger\nthan me...\fUm, I deadass gotta work harder!\fStartin’ tomorrow. After lunch.</language>
 	</row>
 	<row id="msg_0644_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I be bored Saturdays at noon.\nAin’t nothin’ to do...\fUm... So, call me Saturday, OK?</language>
+		<language name="English">I be bored Saturdays at noon.\nLike, SO bored. Staring-at-the-wall\fbored.\fSo call me Saturday, OK? PLEASE?</language>
 	</row>
 	<row id="msg_0644_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, I’m bored! Nothin’ to do!\nOh, yeah!\fYou wanna scrap me again? {YESNO 0}</language>
+		<language name="English">Yeah, I’m BORED! Nothin’ to do!\nOh, yeah!\fYou wanna scrap me again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0644_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For sure! I deadass wanna scrap too.\rUm, you know where to find me...\nthe Saffron Dojo.</language>
+		<language name="English">For SURE! I deadass wanna scrap too!\rUm, you know where to find me...\nthe Saffron Dojo. I’ll bring snacks.</language>
 	</row>
 	<row id="msg_0644_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s that?\nUm, BO-RING...</language>
+		<language name="English">What’s that?\nUm, BO-RING... You so borin’.\fI’m tellin’ everybody.</language>
 	</row>
 	<row id="msg_0644_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um, deadass?\nYou REALLY got time to scrap me?\rDon’t break a promise you made to\nsomebody else--that ain’t fair!</language>
+		<language name="English">Um, deadass?\nYou REALLY got time to scrap me?\rDon’t break a promise you made to\nsomebody else! That ain’t fair!\fI’ll cry. I’ll cry so hard.</language>
 	</row>
 	<row id="msg_0644_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ at the Saffron Dojo.\fBroken promises is unforgivable,\fyou feel me?</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo.\fBroken promises is UNFORGIVABLE,\fyou feel me? I’ll tell my MILTANK.</language>
 	</row>
 	<row id="msg_0644_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um, this Whitney.\nHow you doin’?\r</language>
+		<language name="English">Um, this Whitney.\nHow you doin’? I’m eatin’.\r</language>
 	</row>
 	<row id="msg_0644_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t forget you promised to meet\nme at the Saffron Dojo.\fYou ain’t gon’ make me wait, are you?</language>
+		<language name="English">Don’t forget you PROMISED to meet me\nat the Saffron Dojo.\fYou ain’t gon’ make me wait, are you?\fI get HANGRY.</language>
 	</row>
 	<row id="msg_0644_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um, you ever been to the\nMoomoo Farm off Route 39?\rMy Milky...\nUm, I mean, my MILTANK, stayin’ over\fthere right now...</language>
+		<language name="English">Um, you ever been to the Moomoo Farm\noff Route 39?\rMy Milky...\nUm, I mean, my MILTANK, stayin’ over\fthere right now...\rShe on vacation. She deserve it.</language>
 	</row>
 	<row id="msg_0644_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um, I gotta tell you, I’m SO\nhungry... You know how that feel?\rI ain’t no overeater or nothin’! This\nis totally normal for my age!</language>
+		<language name="English">Um, I gotta tell you, I’m SO hungry...\nYou know how that feel?\rI ain’t no overeater or nothin’!\nThis is totally normal for my age!\fI just ate. Twice. It’s normal.</language>
 	</row>
 	<row id="msg_0644_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The coolest member of the Elite Four?\nUmm... I’d have to say...\fBruno?\rI ain’t the only one. EVERYBODY say\nthat, fr.\fHe look like a whole snack...</language>
+		<language name="English">The coolest member of the Elite Four?\nUmm... I’d have to say...\fBruno?\rI ain’t the only one. EVERYBODY say\nthat, fr.\fThem ARMS. Them SHOULDERS. Sheesh.</language>
 	</row>
 </body>

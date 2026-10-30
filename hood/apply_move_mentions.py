@@ -107,12 +107,12 @@ REWRITES = {
                         r"duration of the holder’s barrier moves\nlike Riot Shield and Bulletproof."),
     ("msg_0390_R36", 5): ("It contains make-’em-faint Smash n Grab.", r"It contains make-’em-faint\nSmash n Grab."),
     ("msg_0704", 14): ("If your opponent is Flying, your Fan Blast", "If your foe is Flying, your Fan Blast"),
-    ("msg_0744_W40", 16): (r"I see... You don’t have Hydrant Wave yet...\nThis is just between you and me...\r"
-                           r"I got Hydrant Wave from a man at Ecruteak,\nand I think he’s still there.",
-                           r"I see... No Hydrant Wave yet...\nThis is just between you and me...\r"
-                           r"A man in Ecruteak gave me\nHydrant Wave. I bet he’s still there."),
-    ("msg_0744_W40", 17): (r"you and me.\nI got Hydrant Wave from a man at Ecruteak.\fI think he’s still there.",
-                           r"you and me.\fA man in Ecruteak gave me\nHydrant Wave. I bet he’s still there."),
+    ("msg_0744_W40", 16): (r"I see... You don’t have Ride Da Wave yet...\nThis is just between you and me...\r"
+                           r"I got Ride Da Wave from a man at Ecruteak,\nand I think he’s still there.",
+                           r"I see... No Ride Da Wave yet...\nThis is just between you and me...\r"
+                           r"A man in Ecruteak gave me\nRide Da Wave. I bet he’s still there."),
+    ("msg_0744_W40", 17): (r"you and me.\nI got Ride Da Wave from a man at Ecruteak.\fI think he’s still there.",
+                           r"you and me.\fA man in Ecruteak gave me\nRide Da Wave. I bet he’s still there."),
 }
 
 START = r"(?:(?<![A-Za-z])|(?<=\\[nrf]))"       # a word start - also right after a \n / \r / \f code

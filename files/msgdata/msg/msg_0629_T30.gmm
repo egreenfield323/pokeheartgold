@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0629_T30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City\nA Quiet Mountain Spot. Dragons.</language>
+		<language name="English">Blackthorn City\nMountain Spot. Dragons.</language>
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

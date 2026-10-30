@@ -84,7 +84,7 @@
 	</row>
 	<row id="msg_0460_T03_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City\nRocks. Mountains. More Rocks.</language>
+		<language name="English">Pewter City\nRocks. Mountains. Rocks.</language>
 	</row>
 	<row id="msg_0460_T03_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

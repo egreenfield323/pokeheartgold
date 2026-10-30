@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0605_T26FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homies know the move for\ncarryin’ people on water yet?\fHydrant Wave?\rYou gon’ need it. Uber don’t go on\nwater.</language>
+		<language name="English">Your homies know the move for\ncarryin’ people on water yet? Ride\fDa Wave?\rYou gon’ need it. Uber don’t go on\nwater.</language>
 	</row>
 	<row id="msg_0605_T26FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

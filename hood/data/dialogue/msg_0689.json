@@ -1,16 +1,16 @@
 {
   "_comment": "Phone: Alan (studies while walking).",
-  "1": "When I'm readin' and walkin',\\nI gotta look down, so I notice stuff\\fon the ground.\\rNext time I find somethin', I'll give\\nit to you.\\rCan I get your number? {YESNO 0}",
-  "2": "I'll call you as soon as I find\\nsomethin'. Bet on it!",
-  "3": "Oh... I thought it'd be a nice\\nbreak to call you while I study...",
+  "1": "I read while I walk, so I look down\\nand notice stuff on the ground.\\fI also walk into poles.\\rNext time I find somethin', it's yours.\\nCan I get your number? {YESNO 0}",
+  "2": "I'll call you as soon as I find somethin'.\\nThe odds is 73% in my favor.",
+  "3": "Oh... I thought it'd be a nice study break\\nto call you...\\fI'll just do calculus. Alone.",
   "4": "If I find somethin', it's yours.\\nSo can I get your number? {YESNO 0}",
-  "5": "This, this! This yours! Ta-da!\\r",
-  "6": "Huh?\\nWait. Don't tell me you right nearby?\\rYou ain't notice 'cause you was\\ntoo busy lookin' at the ground too?",
-  "7": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nexactly like I calculated!\\rBy the way, we knocked out a wild\\n{STRVAR_1 0, 11, 0} just the other day.\\rStudyin' ahead of time worked!\\rLater!",
-  "8": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nexactly like I calculated!\\rBy the way, a wild {STRVAR_1 0, 11, 0} dipped\\non me yesterday.\\rA math error on my part...\\rLater!",
+  "5": "This, this! This yours! Ta-da!\\nFound it by a pole. I walked into the pole.\\r",
+  "6": "Huh?\\nWait. Don't tell me you right nearby?\\rYou ain't notice 'cause you was lookin'\\nat the ground too? Welcome to the club.",
+  "7": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nEXACTLY like I calculated!\\rWe knocked out a wild {STRVAR_1 0, 11, 0} just\\nthe other day.\\rStudyin' ahead of time WORKED!\\fMy spreadsheet is beautiful.\\rLater!",
+  "8": "My {STRVAR_1 0, 10, 0} gettin' stronger,\\nEXACTLY like I calculated!\\rBut a wild {STRVAR_1 0, 11, 0} dipped on me\\nyesterday.\\rA math error on my part...\\nI carried the one wrong.\\rLater!",
   "9": "I studied a lot since then, and\\nI got WAY better!\\rI'm hangin' on {STRVAR_1 4, 3, 0}.\\nCan you come through for a scrap?",
-  "10": "If we don't scrap soon, I'mma\\nforget my strategy!\\rI'm waitin' on {STRVAR_1 4, 3, 0}!",
+  "10": "If we don't scrap soon, I'mma forget\\nmy strategy!\\fIt's 40 pages.\\rI'm waitin' on {STRVAR_1 4, 3, 0}!",
   "11": "I ain't picked up nothin' yet.\\nI'll call you if I find somethin'.",
   "12": "Heh heh. I found somethin' REAL\\nfire earlier!\\rI'll give it to you. Can you come to\\n{STRVAR_1 4, 3, 0} and grab it?",
-  "13": "I gotta do my homework, so can you\\ncome get your gift right now?\\rI'm waitin' on {STRVAR_1 4, 3, 0}!"
+  "13": "I gotta do my homework, so can you come\\nget your gift right now?\\rI'm waitin' on {STRVAR_1 4, 3, 0}!\\fThe homework is for FUN. I do extra."
 }

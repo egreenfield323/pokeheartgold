@@ -1,13 +1,13 @@
 {
-  "_comment": "Route 32 Trap House. The Old Rod guy, the Apricorn superfan with the Lure Balls.",
+  "_comment": "Route 32 Trap House. The Old Rod guy, the Apricorn superfan with the Croc Bags.",
   "0": "Ayo, I'm the Fishin' Guru. Self-titled.\\rI been fishin' off this pier 30 years\\nand caught a fish TWICE.\\rYou want one of my Rods? I got\\nlike forty. Don't ask why. {YESNO 0}",
   "3": "When you wanna fish, face\\nthe water and use the Rod.\\rThen lock in and watch\\nthe water close!\\rWhen a “!” pop up, a homie\\ngot on the line!\\rSmash the A Button quick to\\nreel it in.\\rThen you'll see what's up.\\rIf there's water, ocean or\\ncreek, throw that Rod in.",
   "4": "No Rod? Bro, you scared of fish?\\nThey can't even walk.",
   "5": "When you wanna fish, face\\nthe water and use the Rod.\\rThen lock in and watch\\nthe water close!\\rWhen a “!” pop up, a homie\\ngot on the line!\\rSmash the A Button quick to\\nreel it in.\\rThen you'll see what's up.\\n",
   "6": "What should my homie hold?\\rMaybe somethin' that pump\\nup its Attack. Or a gun.\\fThey make those small?",
-  "7": "Ayo. You pickin' Apricorns? Say\\nyes. Please. I need this. {YESNO 0}",
-  "8": "AYYY! A FELLOW APRICORN ENJOYER!\\rI'm so hype I'm givin' you this.\\nDon't tell my wife.\\r",
-  "9": "Nah? You don't pick Apricorns?\\nThat's cool. I'll CONVERT you.\\rApricorns changed my LIFE.\\nTake this first. It's a gateway.\\r",
-  "10": "Lure Ball!\\nThis Hood Ball make it easy to\\frecruit the homies that bite\\fwhen you go fishin'!\\rIt's made outta Apricorns, by\\nthe way. Take them two, on me.\\rWant more? Go to Azalea Town.\\nA man named Kurt make custom\\fHood Balls outta Apricorns.\\rApricorns run this!",
-  "11": "Kurt the Michael Jordan of Apricorns.\\nI got his poster over my bed.\\rIf you hit Azalea Town, tell\\nhim I said... Nah, he'll know.\\rApricorn, Apricorner, APRICORNEST!"
+  "7": "Ayo. You dig through bushes? Say\\nyes. Please. I need this. {YESNO 0}",
+  "8": "AYYY! A FELLOW BUSH DIGGER!\\rI'm so hype I'm givin' you this.\\nDon't tell my wife.\\r",
+  "9": "Nah? You don't dig through bushes?\\nThat's cool. I'll CONVERT you.\\rBushes changed my LIFE.\\nTake this first. It's a gateway.\\r",
+  "10": "Croc Bag!\\nThis bag make it easy to\\frecruit the homies that bite\\fwhen you go fishin'!\\rIt's made outta croc hide I found in\\na bush, by the way. Take two, on me.\\rWant more? Go to Azalea Town.\\nA man named Kurt make custom\\fbags outta bush scraps.\\rBushes run this!",
+  "11": "Kurt the Michael Jordan of bags.\\nI got his poster over my bed.\\rIf you hit Azalea Town, tell\\nhim I said... Nah, he'll know.\\rBush, Busher, BUSHIEST!"
 }

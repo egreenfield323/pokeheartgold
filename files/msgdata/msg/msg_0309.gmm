@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0309_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokéathlon!\rToday’s event--\nthe {STRVAR_4 1, 0, 0}!\rWho will shine brightest today?\nLet’s meet the competitors!\r</language>
+		<language name="English">WELCOME to the Pokéathlon!\rToday’s event--\nthe {STRVAR_4 1, 0, 0}!\rWho gon’ shine brightest? Who gon’\ntrip? Let’s meet the competitors!\r</language>
 	</row>
 	<row id="msg_0309_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,15 +10,15 @@
 	</row>
 	<row id="msg_0309_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, we ready!\nAim for the top! Let’s\r{ALN_CENTER}{SIZE 200}POKéATHLON!\r</language>
+		<language name="English">AIGHT, we READY!\nAim for the top! Let’s\r{ALN_CENTER}{SIZE 200}POKéATHLON!\r</language>
 	</row>
 	<row id="msg_0309_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great job, athletes!\rWhich team fought the hardest?\nWe’ve got the results!\rBut first...\nwho’s overflowin’ with fightin’ spirit?\r</language>
+		<language name="English">GREAT job, athletes!\rWhich team went the hardest?\nWe got the results!\rBut first...\nwho overflowin’ with fightin’ spirit?\r</language>
 	</row>
 	<row id="msg_0309_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Challenge Bonus for\nPokémon and Team!\r</language>
+		<language name="English">A Challenge Bonus for\nthe homies AND the team!\r</language>
 	</row>
 	<row id="msg_0309_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0309_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Continuing on, the individual prizes...\r</language>
+		<language name="English">Movin’ on, the individual prizes...\nParticipation trophies NOT included.\r</language>
 	</row>
 	<row id="msg_0309_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The No-Miss Bonus!\r</language>
+		<language name="English">The No-Miss Bonus!\nFor not messin’ up. Basic stuff.\r</language>
 	</row>
 	<row id="msg_0309_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0309_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There wasn’t one this time.\r</language>
+		<language name="English">There wasn’t one this time.\nEverybody messed up. Beautiful.\r</language>
 	</row>
 	<row id="msg_0309_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0309_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moving on...\nthe points leader!\r</language>
+		<language name="English">Movin’ on...\nthe points leader! The GOAT!\r</language>
 	</row>
 	<row id="msg_0309_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,27 +58,27 @@
 	</row>
 	<row id="msg_0309_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next up...\nthe prize for effort!\r</language>
+		<language name="English">Next up...\nthe prize for effort! For tryin’!\r</language>
 	</row>
 	<row id="msg_0309_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The homie that jumped the most...\r</language>
+		<language name="English">The homie that jumped the most...\nLike it owe somebody bread...\r</language>
 	</row>
 	<row id="msg_0309_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The homie that hit the most...\r</language>
+		<language name="English">The homie that hit the most...\nViolence! In sports! Love it!\r</language>
 	</row>
 	<row id="msg_0309_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The homie that failed the most...\r</language>
+		<language name="English">The homie that failed the most...\nWe still love you. Barely.\r</language>
 	</row>
 	<row id="msg_0309_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The homie that dashed the most...\r</language>
+		<language name="English">The homie that dashed the most...\nWhere it goin’? Nobody know!\r</language>
 	</row>
 	<row id="msg_0309_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The homie that missed collectin’\nthe most points...\r</language>
+		<language name="English">The homie that missed collectin’\nthe most points... It tried. Kinda.\r</language>
 	</row>
 	<row id="msg_0309_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0309_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finally...\nwe’ll add up the event points!\r</language>
+		<language name="English">Finally...\nwe add up the event points! Math!\r</language>
 	</row>
 	<row id="msg_0309_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0309_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? We have a tie!?\nWell, we settle ties by a drawin’!\rNo, no, hmm...\n...\r...\nGot it!\r</language>
+		<language name="English">WHAT? A TIE!?\nWe settle ties by a drawin’!\rNo, no, hmm...\n...\r...\nRock, paper, scissors. Got it!\r</language>
 	</row>
 	<row id="msg_0309_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The overall winner, with {STRVAR_1 52, 0, 0} points...\r</language>
+		<language name="English">The overall winner, with {STRVAR_1 52, 0, 0} points...\nDrumroll... I ain’t got drums...\r</language>
 	</row>
 	<row id="msg_0309_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -126,11 +126,11 @@
 	</row>
 	<row id="msg_0309_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nThat was a wonderful Performance!\rKeep aimin’ to be the top Pokéathlete!\rThat is...\nPokéathlon\r{ALN_CENTER}{SIZE 200}FOREVER!\r</language>
+		<language name="English">CONGRATULATIONS!\nThat was a WONDERFUL Performance!\rKeep aimin’ to be the top Pokéathlete!\rThat is...\nPokéathlon\r{ALN_CENTER}{SIZE 200}FOREVER!\r</language>
 	</row>
 	<row id="msg_0309_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA new name in Pokéathletes!\r</language>
+		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nThe new kid on the block!\r</language>
 	</row>
 	<row id="msg_0309_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -142,7 +142,7 @@
 	</row>
 	<row id="msg_0309_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA Pokéathlete galaxy-sized explosion!\r</language>
+		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nTouch grass. Respectfully.\r</language>
 	</row>
 	<row id="msg_0309_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -150,95 +150,95 @@
 	</row>
 	<row id="msg_0309_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon is yours!\r</language>
+		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon is YOURS!\r</language>
 	</row>
 	<row id="msg_0309_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nTomorrow, seize the Pokéathlon!\r</language>
+		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nTomorrow? Run it back!\r</language>
 	</row>
 	<row id="msg_0309_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon is mine!\r</language>
+		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon belong to ME!\r</language>
 	</row>
 	<row id="msg_0309_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you try your best and don’t fail...\nyou sure to do better!\r</language>
+		<language name="English">Try your best and don’t mess up...\nyou’ll do better! That’s science!\r</language>
 	</row>
 	<row id="msg_0309_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s all right. I’ll keep tryin’!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s aight. I’ll keep tryin’!\r</language>
 	</row>
 	<row id="msg_0309_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat don’t matter at all!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nIt don’t matter! (It matters.)\r</language>
 	</row>
 	<row id="msg_0309_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nNobody’s seen my back yet!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nNobody ever seen my back! Ever!\r</language>
 	</row>
 	<row id="msg_0309_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aim for number one!\nIt starts today!\r</language>
+		<language name="English">Aim for number one!\nIt start TODAY!\r</language>
 	</row>
 	<row id="msg_0309_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nAll right! Will you come with me?\r</language>
+		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nAight! You comin’ with me?\r</language>
 	</row>
 	<row id="msg_0309_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nWere you still deadass countin’ this time?\r</language>
+		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nY’all still countin’? I ain’t.\r</language>
 	</row>
 	<row id="msg_0309_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nDon’t tell me, another First Place?!\r</language>
+		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nAnother one?! Leave some for us!\r</language>
 	</row>
 	<row id="msg_0309_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t worry about failure!\nFalling down is not the end!\r</language>
+		<language name="English">Don’t trip about failure!\nFallin’ down ain’t the end!\r</language>
 	</row>
 	<row id="msg_0309_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nFall down seven times. Get up eight!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nFall down seven. Get up eight!\r</language>
 	</row>
 	<row id="msg_0309_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s my distinguishin’ feature!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s my signature move!\r</language>
 	</row>
 	<row id="msg_0309_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThis record is what I’m famous for!\r</language>
+		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nI’m FAMOUS for this record!\r</language>
 	</row>
 	<row id="msg_0309_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winning with true strength?\nOr just winnin’ with luck?!\r</language>
+		<language name="English">Winnin’ with true strength?\nOr just lucky?! We’ll never know!\r</language>
 	</row>
 	<row id="msg_0309_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Closing-ceremony bonus awards.\nLucky {STRVAR_1 55, 1, 0} times?!\r</language>
+		<language name="English">Closin’-ceremony bonus awards. Lucky\n{STRVAR_1 55, 1, 0} times?! Buy a lottery ticket!\r</language>
 	</row>
 	<row id="msg_0309_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Closing-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. That’s true strength!\r</language>
+		<language name="English">Closin’-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. That’s TRUE strength!\r</language>
 	</row>
 	<row id="msg_0309_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Closing-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. Luck and true strength!\r</language>
+		<language name="English">Closin’-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. Luck AND strength!\r</language>
 	</row>
 	<row id="msg_0309_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Always givin’ instructions to homie!\nHowl for heaps of championships!\r</language>
+		<language name="English">Always yellin’ at your homie!\nHowl for a heap of championships!\r</language>
 	</row>
 	<row id="msg_0309_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will that teamwork be enough to\nchange history?\r</language>
+		<language name="English">Will that teamwork be enough to\nchange history? Or just Tuesday?\r</language>
 	</row>
 	<row id="msg_0309_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look at this! This teamwork! It’s\namazin’! You can feel the friendship!\r</language>
+		<language name="English">Look at this TEAMWORK! It’s\nAMAZIN’! You can feel the friendship!\r</language>
 	</row>
 	<row id="msg_0309_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right. We can read\neach other’s minds!\r</language>
+		<language name="English">That’s right. We can read\neach other’s minds! Mostly!\r</language>
 	</row>
 	<row id="msg_0309_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="msg_0309_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Failed {STRVAR_1 55, 1, 0} times! Only the number\nof times you’ve fainted has increased!\r</language>
+		<language name="English">Failed {STRVAR_1 55, 1, 0} times! Only thing goin’\nup is how many times you fainted!\r</language>
 	</row>
 	<row id="msg_0309_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -254,7 +254,7 @@
 	</row>
 	<row id="msg_0309_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Failed {STRVAR_1 55, 1, 0} times!\nFailure is the source of success!\r</language>
+		<language name="English">Failed {STRVAR_1 55, 1, 0} times!\nThe GOAT of messin’ up!\r</language>
 	</row>
 	<row id="msg_0309_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -262,39 +262,39 @@
 	</row>
 	<row id="msg_0309_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly high!\nYou can fly anywhere!\r</language>
+		<language name="English">Fly high!\nYou can fly anywhere! Legally!\r</language>
 	</row>
 	<row id="msg_0309_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a tomorrow only you can see.\nLeap for it!\r</language>
+		<language name="English">There’s a tomorrow only you can see.\nLeap for it! Don’t trip!\r</language>
 	</row>
 	<row id="msg_0309_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other side of the sky is a glittery\ntomorrow! You were born to catch it!\r</language>
+		<language name="English">The other side of the sky is a shiny\ntomorrow! You was born to catch it!\r</language>
 	</row>
 	<row id="msg_0309_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those points and these points--let’s go\nget ’em!\r</language>
+		<language name="English">Them points and these points--\nlet’s go GET ’em!\r</language>
 	</row>
 	<row id="msg_0309_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One point ain’t useless! It’s the\nshortcut to success!\r</language>
+		<language name="English">One point ain’t useless! It’s the\nshortcut to success! Or a point!\r</language>
 	</row>
 	<row id="msg_0309_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t overlook one point! Always be\nlookin’ one step ahead!\r</language>
+		<language name="English">Don’t sleep on one point! Always be\nlookin’ one step ahead!\r</language>
 	</row>
 	<row id="msg_0309_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! The Pokéathlon Point King!\nAll points are mine!\r</language>
+		<language name="English">AIGHT! The Pokéathlon Point King!\nAll points is MINE!\r</language>
 	</row>
 	<row id="msg_0309_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take that! And that! I’ll tackle\nanythin’ that comes my way!\r</language>
+		<language name="English">Take that! And THAT! I’ll tackle\nanythin’ that come my way!\r</language>
 	</row>
 	<row id="msg_0309_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right all right! The tackle fiend!\nThe number of times: {STRVAR_1 55, 1, 0}!\r</language>
+		<language name="English">AIGHT AIGHT! The tackle fiend!\nTackles: {STRVAR_1 55, 1, 0}! Somebody call a medic!\r</language>
 	</row>
 	<row id="msg_0309_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -302,27 +302,27 @@
 	</row>
 	<row id="msg_0309_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing can stand in my way!\nTackled {STRVAR_1 55, 1, 0} times!\r</language>
+		<language name="English">NOTHIN’ can stand in my way!\nTackled {STRVAR_1 55, 1, 0} times!\r</language>
 	</row>
 	<row id="msg_0309_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why did you fall down so far?! Is there\na hole over there or somethin’?\r</language>
+		<language name="English">Why you fall down so far?! Is there\na hole over there or somethin’?\r</language>
 	</row>
 	<row id="msg_0309_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To fall from such heights!\nThat thrillin’ feelin’ has got me!\r</language>
+		<language name="English">To fall from such heights!\nThat thrillin’ feelin’ got me!\r</language>
 	</row>
 	<row id="msg_0309_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokéathlete that fights even on the\nedge of the ring! Truly serious!\r</language>
+		<language name="English">A Pokéathlete that fights even on the\nedge of the ring! Locked in!\r</language>
 	</row>
 	<row id="msg_0309_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s always a last stand!\nThat’s why I’m always serious!\r</language>
+		<language name="English">It’s always a last stand!\nThat’s why I’m always locked in!\r</language>
 	</row>
 	<row id="msg_0309_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Such runnin’ ability! Dash around the\nPokéathlon!\r</language>
+		<language name="English">Such runnin’ ability! Dash around the\nPokéathlon! Cardio KING!\r</language>
 	</row>
 	<row id="msg_0309_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -330,123 +330,123 @@
 	</row>
 	<row id="msg_0309_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Think you can keep up?\nFast...faster...the fastest!\r</language>
+		<language name="English">Think you can keep up?\nFast... faster... gone!\r</language>
 	</row>
 	<row id="msg_0309_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Running as fast as lightnin’!\nCan your eyes keep up?!\r</language>
+		<language name="English">Runnin’ fast as lightnin’!\nCan your eyes keep up?!\r</language>
 	</row>
 	<row id="msg_0309_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strength ain’t everythin’! Strategy is\nanother important factor to success!\r</language>
+		<language name="English">Strength ain’t everythin’! Strategy\nis a big part of success!\r</language>
 	</row>
 	<row id="msg_0309_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything comes down to brains!\nYou can manipulate the world!\r</language>
+		<language name="English">Everything come down to BRAINS!\nBig brain moves only!\r</language>
 	</row>
 	<row id="msg_0309_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Always be prepared! That strategy\ncan be overturned!\r</language>
+		<language name="English">Always be prepared! That strategy\ncan get flipped!\r</language>
 	</row>
 	<row id="msg_0309_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you know everythin’ about homie,\nyou can get the best Performance!\r</language>
+		<language name="English">If you know EVERYTHING about your\nhomie, you get the best Performance!\r</language>
 	</row>
 	<row id="msg_0309_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You not alone!\nEverybody is here competin’ against you!\r</language>
+		<language name="English">You ain’t alone!\nEverybody here is against you!\r</language>
 	</row>
 	<row id="msg_0309_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You always competin’ against\neverybody! That’s true strength!\r</language>
+		<language name="English">You always competin’ against\neverybody! That’s TRUE strength!\r</language>
 	</row>
 	<row id="msg_0309_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll get stronger by fightin’ others,\nso use their strength to fight!\r</language>
+		<language name="English">You get stronger fightin’ others,\nso use their strength! Steal it!\r</language>
 	</row>
 	<row id="msg_0309_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Within you many homies, and\nmany homie!\r</language>
+		<language name="English">Within you is many homies,\nand many MORE homies!\r</language>
 	</row>
 	<row id="msg_0309_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you fight a true warrior, victory\nis within your grasp!\r</language>
+		<language name="English">When you face a TRUE warrior,\nvictory is within your grasp!\r</language>
 	</row>
 	<row id="msg_0309_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Outside are many strong homie!\nThey’ve come to compete!\r</language>
+		<language name="English">Out there is MAD strong homies!\nThey came to compete!\r</language>
 	</row>
 	<row id="msg_0309_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t lose to them! You’ve won too\nmany times!\r</language>
+		<language name="English">You can’t lose to them! You won too\nmany times! Don’t get humbled!\r</language>
 	</row>
 	<row id="msg_0309_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aim to be a stronger Pokéathlete!\nThen you’ll win more!\r</language>
+		<language name="English">Aim to be a stronger Pokéathlete!\nThen you’ll win more! Simple!\r</language>
 	</row>
 	<row id="msg_0309_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your total losses prove your strength!\nThey show when you’ve faced a warrior!\r</language>
+		<language name="English">Your Ls prove your strength!\nThey show you faced real ones!\r</language>
 	</row>
 	<row id="msg_0309_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many strong people out\nthere. You know that more than anybody!\r</language>
+		<language name="English">There’s MAD strong people out there.\nYou know that better than anybody!\r</language>
 	</row>
 	<row id="msg_0309_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Always compete with somebody!\nAnd share in that competition!\r</language>
+		<language name="English">Always compete with somebody!\nShare the competition! And snacks!\r</language>
 	</row>
 	<row id="msg_0309_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t worry about winnin’ or losin’,\njust that I compete against the best!\r</language>
+		<language name="English">I don’t care about winnin’ or losin’,\njust facin’ the best! (I care.)\r</language>
 	</row>
 	<row id="msg_0309_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leave Hurdles to me! I’m a Pokéathlete\nthat loves Hurdles more than anythin’!\r</language>
+		<language name="English">Leave Hurdles to me! I’m a Pokéathlete\nthat LOVE Hurdles more than anythin’!\r</language>
 	</row>
 	<row id="msg_0309_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no Hurdle I can’t jump! Watch\nmy beautiful footwork!\r</language>
+		<language name="English">No Hurdle I can’t jump! Watch\nmy beautiful footwork!\r</language>
 	</row>
 	<row id="msg_0309_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can climb over any obstacle, I can\njump any Hurdle!\r</language>
+		<language name="English">I can climb any obstacle, I can\njump any Hurdle! I can’t do taxes.\r</language>
 	</row>
 	<row id="msg_0309_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hurdles are not obstacles! You can\njust run around them!\r</language>
+		<language name="English">Hurdles ain’t obstacles! You can\njust run around ’em! Big brain!\r</language>
 	</row>
 	<row id="msg_0309_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was born to snatch Pennants! I’m\nthe ruler of this beach!\r</language>
+		<language name="English">Born to snatch Pennants! I’m\nthe ruler of this beach!\r</language>
 	</row>
 	<row id="msg_0309_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you see Pennants, you think of me!\nI’m a Pennant-capturin’ hero!\r</language>
+		<language name="English">See Pennants? Think of ME!\nThe Pennant-snatchin’ hero!\r</language>
 	</row>
 	<row id="msg_0309_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sandy beach is my field!\nI run about it freely!\r</language>
+		<language name="English">The sandy beach is MY field!\nI run around it freely!\r</language>
 	</row>
 	<row id="msg_0309_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no Pennant I can’t capture!\nI’ll even capture the championship!\r</language>
+		<language name="English">No Pennant I can’t capture!\nI’ll capture the championship too!\r</language>
 	</row>
 	<row id="msg_0309_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Push! Push! Push!\nPush it aside!\r</language>
+		<language name="English">Push! Push! PUSH!\nPush it to the side!\r</language>
 	</row>
 	<row id="msg_0309_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s nothin’ I can’t push! I’ll push\nyou outta the Circle to be alone!\r</language>
+		<language name="English">Nothin’ I can’t push! I’ll push you\noutta the Circle and you’ll be alone!\r</language>
 	</row>
 	<row id="msg_0309_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m in a whole new dimension when it\ncomes to pushin’! I was born to push!\r</language>
+		<language name="English">A whole new dimension of pushin’!\nI was BORN to push!\r</language>
 	</row>
 	<row id="msg_0309_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s with the intimidation you might\nfeel? I can push without touchin’!\r</language>
+		<language name="English">You feelin’ intimidated? Good.\nI can push without touchin’!\r</language>
 	</row>
 	<row id="msg_0309_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -454,23 +454,23 @@
 	</row>
 	<row id="msg_0309_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s nothin’ I can’t smash! I’m the\nPokéathlon Destruction King!\r</language>
+		<language name="English">Nothin’ I can’t smash! I’m the\nPokéathlon Destruction King!\r</language>
 	</row>
 	<row id="msg_0309_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a huge wall over there I’m\nsure! It’s just there for me to smash!\r</language>
+		<language name="English">There’s a huge wall over there!\nIt’s just there for me to smash!\r</language>
 	</row>
 	<row id="msg_0309_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep breakin’ Blocks...and you’ll\nnotice the mountain over there.\r</language>
+		<language name="English">Keep breakin’ Blocks... and you’ll\nnotice the mountain over there.\r</language>
 	</row>
 	<row id="msg_0309_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My body just automatically catches any\nDiscs that come my way!\r</language>
+		<language name="English">My body just automatically catches\nany Disc that come my way!\r</language>
 	</row>
 	<row id="msg_0309_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve come to catch Discs and catch the\nPokéathlon!\r</language>
+		<language name="English">I came to catch Discs AND catch the\nPokéathlon!\r</language>
 	</row>
 	<row id="msg_0309_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -478,11 +478,11 @@
 	</row>
 	<row id="msg_0309_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bring it on. I’ll catch it! I’ll catch\nany Disc that comes my way!\r</language>
+		<language name="English">Bring it on. I’ll catch it! I’ll catch\nany Disc that come my way!\r</language>
 	</row>
 	<row id="msg_0309_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The jump was like the wind!\nThe form was like a cloud!\r</language>
+		<language name="English">The jump was like the WIND!\nThe form was like a CLOUD!\r</language>
 	</row>
 	<row id="msg_0309_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -490,79 +490,79 @@
 	</row>
 	<row id="msg_0309_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokéathlete that can read the\nflow of the wind and control the air.\r</language>
+		<language name="English">A Pokéathlete that can read the\nwind and control the air!\r</language>
 	</row>
 	<row id="msg_0309_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no border between the ground\nand the sky within me!\r</language>
+		<language name="English">No border between the ground\nand the sky inside me!\r</language>
 	</row>
 	<row id="msg_0309_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s nobody who can stop me!\nI was born to run!\r</language>
+		<language name="English">Can’t NOBODY stop me!\nI was born to run! Mostly late!\r</language>
 	</row>
 	<row id="msg_0309_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve never seen strength like this!\nJust runnin’ all day long!\r</language>
+		<language name="English">Never seen stamina like this!\nJust runnin’ all day long!\r</language>
 	</row>
 	<row id="msg_0309_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once I get movin’, I can’t stop!\nI’m in a perpetual Pokéathlon!\r</language>
+		<language name="English">Once I get movin’, I can’t stop!\nNo brakes! Perpetual Pokéathlon!\r</language>
 	</row>
 	<row id="msg_0309_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My engine is friendship, and my motor\nis victory!\r</language>
+		<language name="English">My engine is friendship, and my\nmotor is VICTORY!\r</language>
 	</row>
 	<row id="msg_0309_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no chance! I’ll knock down all\nPokémon competition!\r</language>
+		<language name="English">No chance! I’ll knock down ALL\nthe competition!\r</language>
 	</row>
 	<row id="msg_0309_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Getting in the Ring is the end! Fight to\nbe the last homie standin’!\r</language>
+		<language name="English">Gettin’ in the Ring is the end! Fight\nto be the last homie standin’!\r</language>
 	</row>
 	<row id="msg_0309_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruler of the Ring!\nEnter another’s Ring at your own risk!\r</language>
+		<language name="English">Ruler of the Ring!\nEnter my Ring at your own risk!\r</language>
 	</row>
 	<row id="msg_0309_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What exactly are you anyway?\nThat’s what the Ring will tell you!\r</language>
+		<language name="English">What exactly ARE you anyway?\nThe Ring gon’ tell you!\r</language>
 	</row>
 	<row id="msg_0309_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throwing Snow is the best in the world!\nWith that kinda accuracy, you can win!\r</language>
+		<language name="English">Best Snow thrower in the WORLD!\nWith that aim, you can win!\r</language>
 	</row>
 	<row id="msg_0309_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Snowballs we throwin’ are\nrolled-up balls of friendship!\r</language>
+		<language name="English">The Snowballs we throwin’ is\nrolled-up balls of friendship!\r</language>
 	</row>
 	<row id="msg_0309_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Such rapid-fire throwin’! Who’s that\nSnowball for?!\r</language>
+		<language name="English">Such rapid-fire throwin’! Who that\nSnowball for?! YOU!\r</language>
 	</row>
 	<row id="msg_0309_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t know where it will leap from\nnext! The Snowballs seem to split!\r</language>
+		<language name="English">Don’t know where it’s comin’ from\nnext! The Snowballs is splittin’!\r</language>
 	</row>
 	<row id="msg_0309_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nobody can stop this ball! It will hit\nany Goal I aim for!\r</language>
+		<language name="English">Nobody can stop this ball! It hit\nany Goal I aim for!\r</language>
 	</row>
 	<row id="msg_0309_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use that wonderful teamwork and make\nthe Goal!\r</language>
+		<language name="English">Use that teamwork and\nmake the Goal!\r</language>
 	</row>
 	<row id="msg_0309_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Such splendid footwork!\nAim for success!\r</language>
+		<language name="English">Such SPLENDID footwork!\nAim for success!\r</language>
 	</row>
 	<row id="msg_0309_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Live with the ball.\nLive inside the ball!\r</language>
+		<language name="English">Live with the ball.\nBE the ball!\r</language>
 	</row>
 	<row id="msg_0309_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give the points as a gift to them. It’s\nthe embodiment of fair play.\r</language>
+		<language name="English">Give the points as a gift.\nThat’s fair play. Or bad play.\r</language>
 	</row>
 	<row id="msg_0309_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -570,27 +570,27 @@
 	</row>
 	<row id="msg_0309_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t hesitate to aim for your\nown Goal!\r</language>
+		<language name="English">You don’t hesitate to aim for\nyour OWN Goal! Bold!\r</language>
 	</row>
 	<row id="msg_0309_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t fight over who rolled the ball\ninto your Goal! It’s your friendship!\r</language>
+		<language name="English">Don’t fight over who rolled it in\nyour Goal! It’s friendship!\r</language>
 	</row>
 	<row id="msg_0309_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why do you stand out like that? Winning\nis not the only thing in the Pokéathlon.\r</language>
+		<language name="English">Why you stand out like that?\nWinnin’ ain’t everythin’! Mostly is.\r</language>
 	</row>
 	<row id="msg_0309_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here it is! What you’ve all been waitin’\nfor! Autographs after the competition!\r</language>
+		<language name="English">Here it is! What y’all been waitin’\nfor! Autographs after! $5 each!\r</language>
 	</row>
 	<row id="msg_0309_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you wanna see me win, I’ll show you\njust how I win!\r</language>
+		<language name="English">Wanna see me win? I’ll show you\nexactly how I win! Watch close!\r</language>
 	</row>
 	<row id="msg_0309_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I do my best and win, I make\neverybody happy!\r</language>
+		<language name="English">When I do my best and win, I make\neverybody happy! Except y’all!\r</language>
 	</row>
 	<row id="msg_0309_00148" index="148">
 		<attribute name="window_context_name">garbage</attribute>
@@ -992,183 +992,183 @@
 	</row>
 	<row id="msg_0309_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! Results of the first event!?\r</language>
+		<language name="English">AIGHT! Results of the first event!?\r</language>
 	</row>
 	<row id="msg_0309_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So excitin’! How was the second event?!\r</language>
+		<language name="English">SO excitin’! How the second event go?!\r</language>
 	</row>
 	<row id="msg_0309_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The end! How was the third event?!\r</language>
+		<language name="English">That’s a wrap! How the third event go?!\r</language>
 	</row>
 	<row id="msg_0309_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! Results of the first event!?\r</language>
+		<language name="English">AIGHT! Results of the first event!?\r</language>
 	</row>
 	<row id="msg_0309_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So excitin’! How was the second event?!\r</language>
+		<language name="English">SO excitin’! How the second event go?!\r</language>
 	</row>
 	<row id="msg_0309_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not over yet! The third event!?\r</language>
+		<language name="English">It ain’t over yet! The third event!?\r</language>
 	</row>
 	<row id="msg_0309_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The end! How was the fourth event?!\r</language>
+		<language name="English">That’s a wrap! How the fourth event go?!\r</language>
 	</row>
 	<row id="msg_0309_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Team {STRVAR_1 3, 0, 0}!{SIZE 100}\rCongratulations on First Place!\r</language>
+		<language name="English">{SIZE 200}Team {STRVAR_1 3, 0, 0}!{SIZE 100}\rCongrats on First Place! Ice ’em out!\r</language>
 	</row>
 	<row id="msg_0309_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This...\nwas a hella close competition!\r</language>
+		<language name="English">This...\nwas a HELLA close competition!\r</language>
 	</row>
 	<row id="msg_0309_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This event’s results will be determined\nby points!\r</language>
+		<language name="English">This event’s results come down to\npoints! Do the math, y’all!\r</language>
 	</row>
 	<row id="msg_0309_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aim to score the most points in the next\ncompetition as well!\r</language>
+		<language name="English">Aim to score the MOST points in the\nnext event too! Stay hungry!\r</language>
 	</row>
 	<row id="msg_0309_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s only just begun!\nGet ready for the next competition!\r</language>
+		<language name="English">It’s only just begun!\nGet ready for the next one! Stretch!\r</language>
 	</row>
 	<row id="msg_0309_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kinda competition will we see in\nthe next event?!\r</language>
+		<language name="English">What kinda chaos we gon’ see in the\nnext event?! I’m SO hype!\r</language>
 	</row>
 	<row id="msg_0309_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are they still tryna judge others’\npotential? Can’t wait for the next one!\r</language>
+		<language name="English">They still sizin’ each other up?\nCan’t wait for the next one!\r</language>
 	</row>
 	<row id="msg_0309_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The first event is finished!\nFrom here on out, it’s for real!\r</language>
+		<language name="English">The first event is DONE!\nFrom here on out, it’s for real!\r</language>
 	</row>
 	<row id="msg_0309_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suddenly, it’s the final event! Will the\ntables be turned this time?!\r</language>
+		<language name="English">Suddenly, it’s the FINAL event! Will\nthe tables get flipped?!\r</language>
 	</row>
 	<row id="msg_0309_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next is the final event!\nDo your best!\r</language>
+		<language name="English">Next is the final event!\nLeave it ALL on the field!\r</language>
 	</row>
 	<row id="msg_0309_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suddenly, we at the final event!\nVictory could be in anyone’s grasp!\r</language>
+		<language name="English">Suddenly, we at the final event!\nAnybody could take this!\r</language>
 	</row>
 	<row id="msg_0309_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything comes down to the final\nevent! Give it all you’ve got!\r</language>
+		<language name="English">It all come down to the final event!\nGive it EVERYTHING you got!\r</language>
 	</row>
 	<row id="msg_0309_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody in the stadium’s excited! This\nis the final event!\r</language>
+		<language name="English">The whole stadium is LIT! This the\nfinal event!\r</language>
 	</row>
 	<row id="msg_0309_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nI’ll announce the final results!\r</language>
+		<language name="English">AIGHT!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will it be what we expect?!\nI’ll announce the final results!\r</language>
+		<language name="English">Will it be what we expect?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody gave it their best!\nI’ll announce the final results!\r</language>
+		<language name="English">Everybody went HARD!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which team is number one?!\nI’ll announce the final results!\r</language>
+		<language name="English">Which team is number one?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which team will take the championship?!\nI’ll announce the final results!\r</language>
+		<language name="English">Who takin’ the championship home?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aim for the highest point total in the\nnext event!\r</language>
+		<language name="English">Aim to score the MOST points in the\nnext event too! Stay hungry!\r</language>
 	</row>
 	<row id="msg_0309_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s only just begun!\nGet ready for the next competition!\r</language>
+		<language name="English">It’s only just begun!\nGet ready for the next one! Stretch!\r</language>
 	</row>
 	<row id="msg_0309_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kinda competition will we see in\nthe next event?!\r</language>
+		<language name="English">What kinda chaos we gon’ see in the\nnext event?! I’m SO hype!\r</language>
 	</row>
 	<row id="msg_0309_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are they still tryna judge others’\npotential? Can’t wait for the next one!\r</language>
+		<language name="English">They still sizin’ each other up?\nCan’t wait for the next one!\r</language>
 	</row>
 	<row id="msg_0309_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The first event is finished!\nFrom here on out, it’s for real!\r</language>
+		<language name="English">The first event is DONE!\nFrom here on out, it’s for real!\r</language>
 	</row>
 	<row id="msg_0309_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s just the second event!\nWhat kinda drama awaits?\r</language>
+		<language name="English">It’s just the second event!\nWhat drama we got comin’?\r</language>
 	</row>
 	<row id="msg_0309_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have any strength left?\nThe third event is ’bout to start!\r</language>
+		<language name="English">Y’all got any strength left?\nThe third event ’bout to start!\r</language>
 	</row>
 	<row id="msg_0309_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We ain’t seen competition yet!\nNext is the third event!\r</language>
+		<language name="English">We ain’t even seen nothin’ yet!\nNext up, the third event!\r</language>
 	</row>
 	<row id="msg_0309_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The last-place team still has a chance!\nThis is the third event!\r</language>
+		<language name="English">Last-place team still got a shot!\nThis the third event! Believe!\r</language>
 	</row>
 	<row id="msg_0309_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The stadium is full of suspense! Here\ncomes the third event!\r</language>
+		<language name="English">The stadium is ON EDGE! Here come\nthe third event!\r</language>
 	</row>
 	<row id="msg_0309_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suddenly, it’s the final event! Will the\ntables be turned this time?!\r</language>
+		<language name="English">Suddenly, it’s the FINAL event! Will\nthe tables get flipped?!\r</language>
 	</row>
 	<row id="msg_0309_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next is the final event!\nDo your best!\r</language>
+		<language name="English">Next is the final event!\nLeave it ALL on the field!\r</language>
 	</row>
 	<row id="msg_0309_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suddenly, we at the final event!\nVictory could be in anyone’s hands!\r</language>
+		<language name="English">Suddenly, we at the final event!\nAnybody could take this!\r</language>
 	</row>
 	<row id="msg_0309_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything comes down to the final\nevent! Give it all you’ve got!\r</language>
+		<language name="English">It all come down to the final event!\nGive it EVERYTHING you got!\r</language>
 	</row>
 	<row id="msg_0309_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody in the stadium’s excited! This\nis the final event!\r</language>
+		<language name="English">The whole stadium is LIT! This the\nfinal event!\r</language>
 	</row>
 	<row id="msg_0309_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nI’ll announce the final results!\r</language>
+		<language name="English">AIGHT!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will it be what we expect?!\nI’ll announce the final results!\r</language>
+		<language name="English">Will it be what we expect?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody gave it their best!\nI’ll announce the final results!\r</language>
+		<language name="English">Everybody went HARD!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which team is number one?!\nI’ll announce the final results!\r</language>
+		<language name="English">Which team is number one?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which team will take the championship?\nI’ll announce the final results!\r</language>
+		<language name="English">Who takin’ the championship home?!\nTime for the final results!\r</language>
 	</row>
 	<row id="msg_0309_00291" index="291">
 		<attribute name="window_context_name">used</attribute>

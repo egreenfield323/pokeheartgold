@@ -1,17 +1,17 @@
 {
   "_comment": "Phone: Aiden (Biker).",
-  "1": "Ayo!\\nSwap numbers with\\fme, old buddy! {YESNO 0}",
+  "1": "AYO!\\nSwap numbers with me, old buddy! {YESNO 0}",
   "2": "Call me sometime!\\nI'll call you sometimes too!\\n",
   "3": "No way!",
   "4": "Ayo, ayo!\\nThis time, let's get our\\fnumbers swapped, old buddy! {YESNO 0}",
-  "5": "Wah ha ha! {STRVAR_1 3, 0, 0}!\\nHere go that Dawn Stone you wanted.\\rHere you go.\\r...And now that you got what you\\ncame for, SCRAM!\\r",
-  "6": "It's dangerous to talk on the phone\\nwhile ridin' Cycling Road, but\\fsometimes I ain't got no choice!\\rIf you nearby, let's talk in person!",
-  "7": "My {STRVAR_1 0, 10, 0} got WAY strong!\\rIt knocked out a wild {STRVAR_1 0, 11, 0} in,\\nlike, two seconds!\\fWahahahahahahaha!\\r...What?\\nYou think I'm cappin'?\\rPut a lid on it! Nothin' but facts!",
+  "5": "Wah ha ha! {STRVAR_1 3, 0, 0}!\\nHere go that Dawn Stone you wanted.\\rHere you go.\\r...And now that you got what you came\\nfor, SCRAM! I got a BIKE to ride!\\r",
+  "6": "It's dangerous to talk on the phone\\nwhile ridin' Cycling Road, but\\fsometimes I ain't got no choice!\\fI'm doin' it RIGHT NOW!\\rIf you nearby, let's talk in person!",
+  "7": "My {STRVAR_1 0, 10, 0} got WAY strong!\\rIt knocked out a wild {STRVAR_1 0, 11, 0} in, like,\\ntwo seconds!\\fWAHAHAHAHAHAHAHA!\\r...What?\\nYou think I'm cappin'?\\rPut a lid on it! Nothin' but facts!",
   "8": "My {STRVAR_1 0, 10, 0} got\\nCRAZY strong!\\rWe can go catch {STRVAR_1 0, 11, 0} now!",
-  "9": "Recently, I came across a wild\\n{STRVAR_1 0, 11, 0} on the road.\\rOutta nowhere, out it jump! I fell off\\nmy Bike tryna not hit it!\\rBut it's all good, even though I got\\nkinda scraped up.\\rIt's all good 'cause I'm nice to\\nwild homies!",
+  "9": "I came across a wild {STRVAR_1 0, 11, 0} on the\\nroad.\\rOutta nowhere, out it jump! I fell off\\nmy Bike tryna not hit it!\\rI got scraped up, but it's all good.\\nI'm nice to wild homies!\\fMy bike ain't. It's in a tree.",
   "10": "Ayo! Right now, I'm\\non {STRVAR_1 4, 3, 0}!\\rDon't run, don't hide, just get over\\nhere and fight me!",
   "11": "Listen! Here I wait on good ol'\\n{STRVAR_1 4, 3, 0}!\\rTime for us to scrap again,\\nfair and square, so come alone!\\rWait...\\nBring your homies with you!\\fWithout homies, we can't scrap!",
-  "12": "You...\\nYou got a homie with you, right?\\rThat's...\\nThat's pretty sweet, ain't it?\\rIf you was flyin' up and down the\\nroad fast as you could, like me, you\\fwouldn't be able to have your homies\\fwith you.\\rMake me kinda jealous of you, to tell\\nthe truth.",
+  "12": "You...\\nYou got a homie with you, right?\\rThat's... pretty sweet, ain't it?\\rIf you was flyin' down the road fast as\\nyou could, like me, your homies\\fcouldn't keep up.\\rMakes me kinda jealous, to tell the truth.\\fMy homie took the bus.",
   "13": "Ayo! I picked up somethin' FIRE!\\rI checked with somebody who know\\nthis stuff. They said Dawn Stone.\\rIf you want it, I'm on\\n{STRVAR_1 4, 3, 0}, so come get it!",
   "14": "Listen! Pick up the pace and pick up\\nthis Dawn Stone! On {STRVAR_1 4, 3, 0}!"
 }

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0101_D32FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Hustlers just rely on a homie’s\nnatural talent. But you can use items\fand medicine to help level up\fa homie’s game.</language>
+		<language name="English">Some Hustlers rely on a homie’s\nnatural talent. Me? I use items,\fmedicine, vitamins, energy drinks...\fwhatever the pharmacist lemme buy.</language>
 	</row>
 	<row id="msg_0101_D32FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mountain climbin’ and homies is\nkinda the same.\rIt all come down to potential!\rI don’t need no items or medicine,\njust potential and trainin’\ffor scraps! All natural, baby!</language>
+		<language name="English">Mountain climbin’ and homies is\nbasically the same.\rIt all come down to potential!\rI don’t need no items or medicine.\nJust trainin’ and vibes!\fAll natural, baby! ...Mostly.</language>
 	</row>
 </body>

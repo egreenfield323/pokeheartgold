@@ -6,323 +6,323 @@
 	</row>
 	<row id="msg_0663_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Yo, I straight forgot!\nWe gotta swap numbers!</language>
+		<language name="English">Lyra: Yo, I straight FORGOT!\nWe gotta swap numbers! Gimme!</language>
 	</row>
 	<row id="msg_0663_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hit my line whenever! We can\nswap homie info!</language>
+		<language name="English">Lyra: Hit my line whenever! We can\nswap homie info! And memes!</language>
 	</row>
 	<row id="msg_0663_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, {STRVAR_1 3, 0, 0}?\rYou right here, but the phone make\nyou feel far. Maybe if you\fyell, you’ll feel closer!</language>
+		<language name="English">Wassup, {STRVAR_1 3, 0, 0}?\rYou RIGHT here, but the phone make you\nfeel far. Maybe if you YELL, you’ll\ffeel closer! ...Ow. Not that loud.</language>
 	</row>
 	<row id="msg_0663_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}?\nMornin’!\r</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}?\nMornin’! You up early. Weird.\r</language>
 	</row>
 	<row id="msg_0663_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nHow you livin’?\r</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nHow you livin’? I’m eatin’ chips.\r</language>
 	</row>
 	<row id="msg_0663_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}?\nEvenin’!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}?\nEvenin’! I’m in bed. On the phone.\r</language>
 	</row>
 	<row id="msg_0663_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? This Lyra...\nMornin’!\r</language>
+		<language name="English">Wassup? This Lyra...\nMornin’! Mom made pancakes!\r</language>
 	</row>
 	<row id="msg_0663_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? This Lyra...\nHow you livin’?\r</language>
+		<language name="English">Wassup? This Lyra...\nHow you livin’? I’m bored.\r</language>
 	</row>
 	<row id="msg_0663_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? This Lyra...\nEvenin’!\r</language>
+		<language name="English">Wassup? This Lyra...\nEvenin’! Can’t sleep!\r</language>
 	</row>
 	<row id="msg_0663_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my pops think you gon’ be\na legendary Hustler one day,\f{STRVAR_1 3, 0, 0}!</language>
+		<language name="English">You know, my dad thinks you gon’ be a\nINCREDIBLE Hustler someday, {STRVAR_1 3, 0, 0}!\fHe got a whole vision board.\rWhat am I sayin’?\nI’m startin’ to sound like the\fprofessor! Ew!\rWell, do your best! I’ll call you\nagain soon!</language>
 	</row>
 	<row id="msg_0663_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I caught a whiff of MARILL’s\nscent once. Smelled like a dust mop!\fI was SO shook!</language>
+		<language name="English">I once caught a whiff of MARILL’s\nscent. It smelled like a DUST MOP!\fA wet one!\rThat’s why I give it baths more often\nnow. It hates me for it.\rWell, talk to you later! Bye-bye!</language>
 	</row>
 	<row id="msg_0663_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was walkin’ with MARILL by my\nside, turned to look, and saw\fit evolvin’, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">I was walkin’ with MARILL when I turned\nto look at it and saw it EVOLVIN’ into\fAZUMARILL!\rI SCREAMED. In public. A man dropped\nhis groceries.\rWell, talk to you later, {STRVAR_1 3, 0, 0}!\nBye-bye!</language>
 	</row>
 	<row id="msg_0663_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a BULBASAUR for a walk on\nRoute 1 the other day!\rIt was lowkey vibin’ the whole time!</language>
+		<language name="English">I took a BULBASAUR for a walk on\nRoute 1 the other day!\rIt was lowkey vibin’ the whole time!\fIt sniffed EVERY flower. Took 4 hours.</language>
 	</row>
 	<row id="msg_0663_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I wonder how it’d be\nwalkin’ a CHARMANDER down\fRoute 2...\rI heard CHARMANDER be lovin’\nthat area.</language>
+		<language name="English">You know, I wonder how it’d be\nwalkin’ a CHARMANDER down\fRoute 2...\rI heard CHARMANDER be lovin’\nthat area.\fDon’t walk it near your curtains.</language>
 	</row>
 	<row id="msg_0663_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I heard people who\nwalk a SQUIRTLE on Route 3\fbe fallin’ on they face!</language>
+		<language name="English">You know, I heard people who\nwalk a SQUIRTLE on Route 3\fbe fallin’ on they face!\fI fell too. It wasn’t the SQUIRTLE.</language>
 	</row>
 	<row id="msg_0663_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speakin’ of... Mt. Moon on Route 4,\nain’t it?\rIf I remember right, CLEFAIRY be\nlovin’ Mt. Moon!</language>
+		<language name="English">Speakin’ of... Mt. Moon on Route 4,\nain’t it?\rIf I remember right, CLEFAIRY be\nlovin’ Mt. Moon!\fThey do a dance. It’s a lil cult-y.</language>
 	</row>
 	<row id="msg_0663_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s a Fighting Dojo in\nSaffron City? The homies I had with me\fwas all shook!</language>
+		<language name="English">You know there’s a Fighting Dojo in\nSaffron City? The homies I had with me\fwas all shook!\fMy MAGIKARP fainted. From the vibes.</language>
 	</row>
 	<row id="msg_0663_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I went to the port in\nVermilion City.\fAll my homies had SO much fun ridin’\fon the S.S. Aqua!</language>
+		<language name="English">You know, I went to the port in\nVermilion City.\fAll my homies had SO much fun ridin’\fon the S.S. Aqua!\fMy GEODUDE got seasick. Rocks.</language>
 	</row>
 	<row id="msg_0663_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I walked a PORYGON in\nCeladon City...and I heard this weird\f“Jijiji...” sound.\fIt was like it was tryna talk!</language>
+		<language name="English">You know, I walked a PORYGON in\nCeladon City...and I heard this weird\f“Jijiji...” sound.\fIt was like it was tryna talk!\fThen it ordered a pizza. On my card.</language>
 	</row>
 	<row id="msg_0663_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s a dude named\nMr. Psychic in Saffron City?\rI wonder what happen if you took\nPsychic-type homies there?</language>
+		<language name="English">You know there’s a dude named\nMr. Psychic in Saffron City?\rI wonder what happen if you took\nPsychic-type homies there?\fHe already knew I was comin’. Rude.</language>
 	</row>
 	<row id="msg_0663_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you been to the Rock Tunnel\nyet?\rIf you bring a ONIX in there,\nit get SO happy!</language>
+		<language name="English">Ayo, you been to the Rock Tunnel\nyet?\rIf you bring a ONIX in there,\nit get SO happy!\fIt cried a lil. Happy tears. Rock tears.</language>
 	</row>
 	<row id="msg_0663_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, if you ever get the\nchance to hit the Power Plant, you\fshould take a PIKACHU with you.\rIt’s mad fun!</language>
+		<language name="English">Ayo, if you ever get the\nchance to hit the Power Plant, you\fshould take a PIKACHU with you.\rIt’s mad fun!\fMy hair still standin’ up.</language>
 	</row>
 	<row id="msg_0663_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you know that DIGLETT’s Cave by\nRoute 11?\rSpeakin’ of the homie you\nshould bring there...\fWell, I prob’ly ain’t gotta tell you!</language>
+		<language name="English">Ayo, you know that DIGLETT’s Cave by\nRoute 11?\rSpeakin’ of the homie you should bring\nthere...\fWell, I prob’ly ain’t gotta tell you!\fIt’s a DIGLETT. Obviously. It’s the\ncave name.</language>
 	</row>
 	<row id="msg_0663_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at right now?\nRoute 12?\rI see... Oh!\nYou should hit the Homie House in\fLavender Town!</language>
+		<language name="English">Where you at right now?\nRoute 12?\rI see... Oh!\nYou should hit the Homie House in\fLavender Town!\fBring tissues. Trust me.</language>
 	</row>
 	<row id="msg_0663_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Route 13?\rAin’t that where the road turn into\na lil maze?\rMight be why the homies over\nthere always look kinda lost.</language>
+		<language name="English">Where you at? Route 13?\rAin’t that where the road turn into\na lil maze?\rMight be why the homies over\nthere always look kinda lost.\fI got lost too. For a day.</language>
 	</row>
 	<row id="msg_0663_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you round Route 14 right now,\nright?\rThere’s a huge windmill over in that\narea, so it’s hella pretty, ain’t it?</language>
+		<language name="English">So, you round Route 14 right now,\nright?\rThere’s a huge windmill over in that\narea, so it’s hella pretty, ain’t it?\fI tried to ride the windmill. Don’t.</language>
 	</row>
 	<row id="msg_0663_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Route 15?\rWhy not slide by the Pal Park\nWarden’s crib in Fuchsia?\rThere’s SO many AIPOM there.\nIt’s a vibe!</language>
+		<language name="English">Where you at? Route 15?\rWhy not slide by the Pal Park\nWarden’s crib in Fuchsia?\rThere’s SO many AIPOM there.\nIt’s a vibe!\fOne stole my sandwich. AIPOM is a thief.</language>
 	</row>
 	<row id="msg_0663_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You on Route 16 right now?\nSo, you right by Cycling Road\fthen, huh?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You on Route 16 right now?\nSo, you right by Cycling Road\fthen, huh?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You on Route 17 right now?\nSo that mean...\fyou on Cycling Road!\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You on Route 17 right now?\nSo that mean...\fyou on Cycling Road!\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You on Route 18 right now?\nSo, you right by Cycling Road\fthen, huh?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You on Route 18 right now?\nSo, you right by Cycling Road\fthen, huh?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, whenever I’m by\nRoute 19, I always wanna play in\fthe water with my homies, don’t you?\fI bet it’d be mad fun...</language>
+		<language name="English">You know, whenever I’m by\nRoute 19, I always wanna play in\fthe water with my homies, don’t you?\fI bet it’d be mad fun...\fI can’t swim though. I just splash.</language>
 	</row>
 	<row id="msg_0663_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come to think of it...when you by\nwater with Fire-type homies, they\fdeadass hate it...\fI feel ’em!</language>
+		<language name="English">Come to think of it...when you by\nwater with Fire-type homies, they\fdeadass hate it...\fI feel ’em!\fMy CYNDAQUIL won’t even take a bath.</language>
 	</row>
 	<row id="msg_0663_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chillin’ on Route 21 with your homies,\nwatchin’ the sunset on the beach...\fWhat you think about that?\fKinda weird to me, ’cause that’s\fmore of a couples thing!</language>
+		<language name="English">Chillin’ on Route 21 with your homies,\nwatchin’ the sunset on the beach...\fWhat you think about that?\fKinda weird to me, ’cause that’s\fmore of a couples thing!\fI went alone. It was sad. Don’t.</language>
 	</row>
 	<row id="msg_0663_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 22 the road to the\nBig League, so I bet it got your\fhomies feelin’ nervous, huh?</language>
+		<language name="English">You know, Route 22 the road to the\nBig League, so I bet it got your\fhomies feelin’ nervous, huh?\fMine threw up. Nerves.</language>
 	</row>
 	<row id="msg_0663_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, the bridge on Route 24\nis called the “Gold Grill Bridge.”\rIt ain’t official, but\nmad people call it that.\rThe sun bounce off the water\nthere, so it’s kinda blindin’...</language>
+		<language name="English">You know, the bridge on Route 24 is\ncalled the “Gold Grill Bridge.”\rIt ain’t official, but mad people call it\nthat.\rThe sun bounce off the water there, so\nit’s kinda blindin’...\fWear shades. I didn’t. Still seein’\nspots.</language>
 	</row>
 	<row id="msg_0663_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I think most homies ain’t\nnever seen their own face.\rSo if you take ’em to a puddle on\nRoute 25 and let ’em see their\freflection, I wonder what\fthey gon’ think...</language>
+		<language name="English">You know, I think most homies ain’t\nnever seen their own face.\rSo if you take ’em to a puddle on Route\n25 and let ’em see their\freflection, I wonder what\fthey gon’ think...\fMy SLOWPOKE stared at itself for 3\nhours.</language>
 	</row>
 	<row id="msg_0663_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 SO pretty,\nI bet it’s a real nice\fspot for homies.\rBut it’s also the road to the\nBig League, so it prob’ly got\f’em anxious too.</language>
+		<language name="English">You know, Route 26 SO pretty,\nI bet it’s a real nice\fspot for homies.\rBut it’s also the road to the\nBig League, so it prob’ly got\f’em anxious too.\fMine kept lookin’ at me like “why.”</language>
 	</row>
 	<row id="msg_0663_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I heard sometimes homies\nfind stuff along Route 27.\rProb’ly smart to bring\nthe homie you\fclosest with.</language>
+		<language name="English">You know, I heard sometimes homies\nfind stuff along Route 27.\rProb’ly smart to bring\nthe homie you\fclosest with.\fMine found a sock. Just one.</language>
 	</row>
 	<row id="msg_0663_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one that go to\nMt. Silver, ain’t it?\rI bet that got your homies\nlowkey worried too.</language>
+		<language name="English">Route 28, that’s the one that go to\nMt. Silver, ain’t it?\rI bet that got your homies\nlowkey worried too.\fMine wrote a will. Just in case.</language>
 	</row>
 	<row id="msg_0663_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How ’bout takin’\nCHIKORITA with you to Route 29?\rI bet it’d be havin’ the time\nof its life!</language>
+		<language name="English">Oh, that’s right. How ’bout takin’\nCHIKORITA with you to Route 29?\rI bet it’d be havin’ the time\nof its life!\fIt rolled in the grass for an hour.</language>
 	</row>
 	<row id="msg_0663_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How ’bout takin’\nTOTODILE with you to Route 30?\rI bet it’d be havin’ the time\nof its life!</language>
+		<language name="English">Oh, that’s right. How ’bout takin’\nTOTODILE with you to Route 30?\rI bet it’d be havin’ the time\nof its life!\fIt bit a Bug Catcher. My bad, sir.</language>
 	</row>
 	<row id="msg_0663_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I bet it’d be real\ninterestin’ to take CYNDAQUIL with you\fto Route 31!\rI heard CYNDAQUIL be lovin’\nthat area!</language>
+		<language name="English">You know, I bet it’d be real\ninterestin’ to take CYNDAQUIL with you\fto Route 31!\rI heard CYNDAQUIL be lovin’\nthat area!\fIt set a bush on fire. Small one.</language>
 	</row>
 	<row id="msg_0663_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you can find UNOWN in the\nRuins of Alph, right? I wonder what\fhappen if you already had one and\fwalked it through the ruins?</language>
+		<language name="English">Ayo, you can find UNOWN in the\nRuins of Alph, right? I wonder what\fhappen if you already had one and\fwalked it through the ruins?\fBet it’s like a family reunion.</language>
 	</row>
 	<row id="msg_0663_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s ALWAYS rainin’ on\nRoute 33. It don’t never stop!\rRainy days be gettin’ me down, but I\nknow there’s homies out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">You know, it’s ALWAYS rainin’ on\nRoute 33. It don’t never stop!\rRainy days be gettin’ me down, but I\nknow there’s homies out there that\flove the rain!\r...Like TOTODILE!\fI bring two umbrellas now.</language>
 	</row>
 	<row id="msg_0663_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, FARFETCH’D be weirdly\nobsessed with Ilex Forest.\fWhen they in there, it’s like they\fdon’t even hear you.\rI might take a FARFETCH’D there\nto see for myself sometime.</language>
+		<language name="English">You know, FARFETCH’D be weirdly\nobsessed with Ilex Forest.\fWhen they in there, it’s like they\fdon’t even hear you.\rI might take a FARFETCH’D there\nto see for myself sometime.\fIt ignored me for a WHOLE day.</language>
 	</row>
 	<row id="msg_0663_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you know?\nWhen homies go to the Pokéathlon,\fthey get HYPE!\rI think I’mma take my homies over\nthere soon too!</language>
+		<language name="English">Ayo, you know?\nWhen homies go to the Pokéathlon,\fthey get HYPE!\rI think I’mma take my homies over\nthere soon too!\fMine came back with a headband.</language>
 	</row>
 	<row id="msg_0663_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know somethin’ real\ninterestin’ happen if you take a\fSUDOWOODO to Route 36?\rWhat kinda interestin’?\nWell, you just gotta try it\fand see!</language>
+		<language name="English">You know somethin’ real\ninterestin’ happen if you take a\fSUDOWOODO to Route 36?\rWhat kinda interestin’?\nWell, you just gotta try it\fand see!\fIt’s a tree. That’s all I’mma say.</language>
 	</row>
 	<row id="msg_0663_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you meet the twins over on\nRoute 37?\rThey SO cute, and their homies\nhella popular.</language>
+		<language name="English">Ayo, you meet the twins over on\nRoute 37?\rThey SO cute, and their homies\nhella popular.\fThey beat me. Both of ’em. At once.</language>
 	</row>
 	<row id="msg_0663_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a TAUROS to Moomoo Farm\nrecently. It was straight CHAOS,\fI ain’t know what to do!</language>
+		<language name="English">I took a TAUROS to Moomoo Farm\nrecently. It was straight CHAOS,\fI ain’t know what to do!\fIt ran through a fence. I paid for it.</language>
 	</row>
 	<row id="msg_0663_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, you should take a MILTANK\nwith you over to Route 39.\rIt’ll find mad homies over there.\nIt’s gon’ be fun!</language>
+		<language name="English">You know, you should take a MILTANK\nwith you over to Route 39.\rIt’ll find mad homies over there.\nIt’s gon’ be fun!\fThen it ate everythin’ in the fridge.</language>
 	</row>
 	<row id="msg_0663_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should take a POLIWAG to\nRoute 40 sometime and see what\fgo down!\rYou gon’ see somethin’ interestin’.\nThat’s on foenem!</language>
+		<language name="English">You should take a POLIWAG to\nRoute 40 sometime and see what\fgo down!\rYou gon’ see somethin’ interestin’.\nThat’s on foenem!\fBring a towel. It’s gon’ get wet.</language>
 	</row>
 	<row id="msg_0663_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Water-type homies REALLY\nlove the sea...\rWatchin’ your homies have fun and\nbe happy is enough to make\fyou happy too!</language>
+		<language name="English">You know, Water-type homies REALLY\nlove the sea...\rWatchin’ your homies have fun and\nbe happy is enough to make\fyou happy too!\fI got sunburned though. Bad.</language>
 	</row>
 	<row id="msg_0663_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 42 a mountain road.\nIf you take a Rock-type homie\fthrough there, bet they’d love it.</language>
+		<language name="English">You know, Route 42 a mountain road.\nIf you take a Rock-type homie\fthrough there, bet they’d love it.\fMy GEODUDE called it “home.”</language>
 	</row>
 	<row id="msg_0663_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you wanna see MAGIKARP\nget real hype, you should take it\fover to the Lake of Rage and see\fwhat happen!</language>
+		<language name="English">You know, if you wanna see MAGIKARP\nget real hype, you should take it\fover to the Lake of Rage and see\fwhat happen!\fMine bit a fisherman. Again, my bad.</language>
 	</row>
 	<row id="msg_0663_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right now you...on Route 44!\rWas I right? Aight!\rIt’s mad cold around there, right?\nI feel bad for the homies that’s\fsensitive to cold...\rBut I bet Ice-type homies feel\nright at home!</language>
+		<language name="English">Right now you...on Route 44!\rWas I right? Aight!\rIt’s mad cold around there, right?\nI feel bad for the homies that’s\fsensitive to cold...\rBut I bet Ice-type homies feel\nright at home!\fI lost a toe. Kiddin’. Almost though.</language>
 	</row>
 	<row id="msg_0663_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s that river that\nwind around near Route 45.\fIt’s a fun route.\rI went recently, and my homies\nwas real into the river.\fThey kept starin’ at it.</language>
+		<language name="English">You know, there’s that river that\nwind around near Route 45.\fIt’s a fun route.\rI went recently, and my homies\nwas real into the river.\fThey kept starin’ at it.\fThey tried to drink it. All of it.</language>
 	</row>
 	<row id="msg_0663_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you know how there’s mad tall\ngrass on Route 46?\fWell, the homies with you\fbe stressin’ about when a wild\fhomie gon’ jump out!</language>
+		<language name="English">Ayo, you know how there’s mad tall\ngrass on Route 46?\fWell, the homies with you\fbe stressin’ about when a wild\fhomie gon’ jump out!\fI’m scared too, honestly.</language>
 	</row>
 	<row id="msg_0663_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 47 got such a\nbeautiful, natural view!\r...That said, you heard of DITTO?\rDITTO get real hype around\nRoute 47. It’s kinda weird...</language>
+		<language name="English">You know, Route 47 got such a\nbeautiful, natural view!\r...That said, you heard of DITTO?\rDITTO get real hype around\nRoute 47. It’s kinda weird...\fIt turned into my mom. I screamed.</language>
 	</row>
 	<row id="msg_0663_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo...\nYou know that REAL tall\fcliff near Route 48?\rWhen you walkin’ around there, the\nhomies with you get kinda\fscared too...\rMe?\nMe, I’m...always shakin’!</language>
+		<language name="English">Ayo...\nYou know that REAL tall\fcliff near Route 48?\rWhen you walkin’ around there, the\nhomies with you get kinda\fscared too...\rMe?\nMe, I’m...always shakin’!\fI ain’t scared. I do backflips off it.</language>
 	</row>
 	<row id="msg_0663_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at now?\nPallet Town... That mean you over\fby Professor Oak’s spot!\rThe professor REALLY love homies.\rYou should take a homie over to\nProfessor Oak’s Lab sometime!</language>
+		<language name="English">Where you at now?\nPallet Town... That mean you over\fby Professor Oak’s spot!\rThe professor REALLY love homies.\rYou should take a homie over to\nProfessor Oak’s Lab sometime!\fHe gave mine a cookie. Then a DNA test.</language>
 	</row>
 	<row id="msg_0663_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Viridian City? That’s\nwhere the Hustler House at, right?\rWhen homies go over there, they get\nreal fired up, you know!</language>
+		<language name="English">Where you at? Viridian City? That’s\nwhere the Hustler House at, right?\rWhen homies go over there, they get\nreal fired up, you know!\fMine started doin’ push-ups.</language>
 	</row>
 	<row id="msg_0663_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at? Viridian City?\nOh, you in Pewter City!\rPewter got a museum, right?\rYou can take homies over to the\nmuseum with you for a field trip!</language>
+		<language name="English">So, where you at? Viridian City?\nOh, you in Pewter City!\rPewter got a museum, right?\rYou can take homies over to the\nmuseum with you for a field trip!\fMine tried to eat a fossil.</language>
 	</row>
 	<row id="msg_0663_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nCerulean City, you say?\rSo...you meet the Cerulean Block\nBoss, Misty?\rOh, nothin’. Just wonderin’.</language>
+		<language name="English">So, where you at now?\nCerulean City, you say?\rSo...you meet the Cerulean Block\nBoss, Misty?\rOh, nothin’. Just wonderin’.\f...She’s cute though. JUST wonderin’!</language>
 	</row>
 	<row id="msg_0663_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at now?\nLavender Town?\fYou went pretty far, huh?\rIn that town, there’s a place called\nthe House of Memories where they got\fhomie graves, you know.\rAs a Hustler, you should go at least\nonce outta respect. Rest up, homies.</language>
+		<language name="English">Where you at now?\nLavender Town?\fYou went pretty far, huh?\rIn that town, there’s a place called\nthe House of Memories where they got\fhomie graves, you know.\rAs a Hustler, you should go at least\nonce outta respect. Rest up, homies.\fI left flowers. It felt right.</language>
 	</row>
 	<row id="msg_0663_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Vermilion City?\rThat’s where the Homie Fan Club at\nif I remember right!\rIf you got a BAYLEEF, you should\ntake it over there and say wassup!</language>
+		<language name="English">Where you at? Vermilion City?\rThat’s where the Homie Fan Club at\nif I remember right!\rIf you got a BAYLEEF, you should\ntake it over there and say wassup!\fThey gave it a hat. It’s so proud.</language>
 	</row>
 	<row id="msg_0663_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nCeladon City? I see...\rThat reminds me. I took a TANGELA\nto Celadon once. It was SO happy...\fand somethin’ happened!\rYou should try it too, and see what\ngo down!</language>
+		<language name="English">So, where you at now?\nCeladon City? I see...\rThat reminds me. I took a TANGELA\nto Celadon once. It was SO happy...\fand somethin’ happened!\rYou should try it too, and see what\ngo down!\fI ain’t sayin’ what. You gotta see.</language>
 	</row>
 	<row id="msg_0663_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at? Fuchsia City?\nYou just pop up in the weirdest\fplaces, huh?\rThat reminds me. I heard if you\ntake a TAUROS to Fuchsia, they get\freal heated!\rI wonder why... I don’t get it.\nBut I bet it’d be interestin’ to try\fit and see what go down!</language>
+		<language name="English">So, where you at? Fuchsia City?\nYou just pop up in the weirdest\fplaces, huh?\rThat reminds me. I heard if you\ntake a TAUROS to Fuchsia, they get\freal heated!\rI wonder why... I don’t get it.\nBut I bet it’d be interestin’ to try\fit and see what go down!\fMine charged a vendin’ machine.</language>
 	</row>
 	<row id="msg_0663_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now? Cinnabar?\nYou went pretty far, ain’t you?\rStandin’ with your homies, lookin’\nout at the sea in a town\fthat got buried in lava...\rThat’s like the last scene\nfrom a movie or somethin’!</language>
+		<language name="English">So, where you at now? Cinnabar?\nYou went pretty far, ain’t you?\rStandin’ with your homies, lookin’\nout at the sea in a town\fthat got buried in lava...\rThat’s like the last scene\nfrom a movie or somethin’!\fI cried. Not gon’ lie.</language>
 	</row>
 	<row id="msg_0663_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, when a homie of mine went to\nthe Indigo Plateau, the homies with\fmy homie got so hype they was\fsnortin’ all loud!</language>
+		<language name="English">You know, when a homie of mine went to\nthe Indigo Plateau, the homies with\fmy homie got so hype they was\fsnortin’ all loud!\fMine snorted so hard it sneezed fire.</language>
 	</row>
 	<row id="msg_0663_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nOh, you in Saffron City?\rThat’s where the Copycat’s crib\nat, right?\rYou should take a MIME JR. over there\nand see what go down.\rBet it’s somethin’ interestin’!</language>
+		<language name="English">So, where you at now?\nOh, you in Saffron City?\rThat’s where the Copycat’s crib\nat, right?\rYou should take a MIME JR. over there\nand see what go down.\rBet it’s somethin’ interestin’!\fIt copied ME. I didn’t like it.</language>
 	</row>
 	<row id="msg_0663_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at now?\nWhat you doin’ in New Bark Town?\rYou went back home?\nYou should flex your homies on\fyour mom. Bet she’d be happy!</language>
+		<language name="English">Where you at now?\nWhat you doin’ in New Bark Town?\rYou went back home?\nYou should flex your homies on\fyour mom. Bet she’d be happy!\fAnd eat her food. That’s the real move.</language>
 	</row>
 	<row id="msg_0663_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Cherrygrove City?\nDon’t Cherrygrove got that\fnice windin’ path?\rIt’s mad fun runnin’ with your\nhomies along the beach, listenin’ to\fthe waves!</language>
+		<language name="English">Where you at? Cherrygrove City?\nDon’t Cherrygrove got that\fnice windin’ path?\rIt’s mad fun runnin’ with your\nhomies along the beach, listenin’ to\fthe waves!\fMine ate sand. Don’t let ’em eat sand.</language>
 	</row>
 	<row id="msg_0663_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where you at? Violet City?\nIf you in Violet, that mean...\fYou by Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go! I heard they dance!\rI wonder if it’s true...\nWill you try it and lmk?</language>
+		<language name="English">Where you at? Violet City?\nIf you in Violet, that mean...\fYou by Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go! I heard they dance!\rI wonder if it’s true...\nWill you try it and lmk?\fMine danced so hard it pulled a leaf.</language>
 	</row>
 	<row id="msg_0663_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, whereabouts you at now?\rYou in...Cianwood!\rNo? You in Azalea Town?\rAzalea’s Block go HARD,\nain’t it?\fYou rode the SPINARAK yet?\rI wonder what’d happen if you took\na real SPINARAK to that Block?\rI think that’d be interestin’!</language>
+		<language name="English">So, whereabouts you at now?\rYou in...Cianwood!\rNo? You in Azalea Town?\rAzalea’s Block go HARD, ain’t it?\fYou rode the SPINARAK yet?\rI wonder what’d happen if you took a\nreal SPINARAK to that Block?\rI think that’d be interestin’!\fI’m scared of SPINARAK. Don’t tell\nnobody.</language>
 	</row>
 	<row id="msg_0663_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\rLemme guess...Cianwood!\rYup! I’m right!\nIf you in Cianwood, you should try\fwalkin’ a KRABBY around with you.\rHow it go? Well, you gotta try it\nand see for yourself!</language>
+		<language name="English">So, where you at now?\rLemme guess...Cianwood!\rYup! I’m right!\nIf you in Cianwood, you should try\fwalkin’ a KRABBY around with you.\rHow it go? Well, you gotta try it\nand see for yourself!\fIt pinched me. On purpose.</language>
 	</row>
 	<row id="msg_0663_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nGoldenrod City?\rYou know, if you look close at that\nBlock, it’s shaped like a CLEFAIRY.\rNo cap!\nYou should take a CLEFAIRY there!\rBet whatever happen, it’s gon’ be\nSO cute!</language>
+		<language name="English">So, where you at now?\nGoldenrod City?\rYou know, if you look close at that\nBlock, it’s shaped like a CLEFAIRY.\rNo cap!\nYou should take a CLEFAIRY there!\rBet whatever happen, it’s gon’ be\nSO cute!\fWhitney gave it a snack. Then cried.</language>
 	</row>
 	<row id="msg_0663_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, when you say Olivine City,\nall I think of is the Lighthouse!\rYou should take a AMPHAROS there\nand see what happen!\fBet it’s gon’ be bright...</language>
+		<language name="English">You know, when you say Olivine City,\nall I think of is the Lighthouse!\rYou should take a AMPHAROS there\nand see what happen!\fBet it’s gon’ be bright...\fWear shades. I’m serious this time.</language>
 	</row>
 	<row id="msg_0663_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nYou in Ecruteak City?\rYou should take a PICHU over\nto the Ecruteak Dance Theater!\rIt’s such a nice spot. Whenever\nI’m there, I feel like dancin’!</language>
+		<language name="English">So, where you at now?\nYou in Ecruteak City?\rYou should take a PICHU over\nto the Ecruteak Dance Theater!\rIt’s such a nice spot. Whenever\nI’m there, I feel like dancin’!\fIt danced better than me. Rude.</language>
 	</row>
 	<row id="msg_0663_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...you caught any\nIce-type homies yet?\rIce types LOVE playin’ on\nthe ice. They look like they havin’\fso much fun!</language>
+		<language name="English">That reminds me...you caught any\nIce-type homies yet?\rIce types LOVE playin’ on\nthe ice. They look like they havin’\fso much fun!\fMine slid into a wall. It was fine.</language>
 	</row>
 	<row id="msg_0663_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go to the Lake of Rage,\nyou can see how hype\fMAGIKARP can get!\rIf you got a MAGIKARP, you should\ntake it there and see for yourself!</language>
+		<language name="English">If you go to the Lake of Rage,\nyou can see how hype\fMAGIKARP can get!\rIf you got a MAGIKARP, you should\ntake it there and see for yourself!\fMine got so mad it splashed me.</language>
 	</row>
 	<row id="msg_0663_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -330,291 +330,291 @@
 	</row>
 	<row id="msg_0663_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I ain’t been to Mt. Silver.\rBet it’s a spot that make even\nhomies nervous.</language>
+		<language name="English">You know, I ain’t been to Mt. Silver.\rBet it’s a spot that make even\nhomies nervous.\fI’m too scared. I’ll go when I’m 40.</language>
 	</row>
 	<row id="msg_0663_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nOh, you at the National Park!\fI deadass like that Park too.\rMight just be me, but I\nthink the Bug-type homies do too!</language>
+		<language name="English">So, where you at now?\nOh, you at the National Park!\fI deadass like that Park too.\rMight just be me, but I\nthink the Bug-type homies do too!\fI still got a bee sting from last year.</language>
 	</row>
 	<row id="msg_0663_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you at the Ruins of Alph now?\rThat’s where you find UNOWN, right?\nYou catch any yet?\rYou know, if you got a UNOWN, you\nshould take it there.</language>
+		<language name="English">So, you at the Ruins of Alph now?\rThat’s where you find UNOWN, right?\nYou catch any yet?\rYou know, if you got a UNOWN, you\nshould take it there.\fBet it’s like a family reunion.</language>
 	</row>
 	<row id="msg_0663_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where you at now?\nThe Safari Zone?\rIt’s a lil far to walk there, but\nit’s DEFINITELY worth it. There’s SO\fmany different homies there!</language>
+		<language name="English">So, where you at now?\nThe Safari Zone?\rIt’s a lil far to walk there, but\nit’s DEFINITELY worth it. There’s SO\fmany different homies there!\fBring snacks. It’s a hike.</language>
 	</row>
 	<row id="msg_0663_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you ever get the chance to\ngo to Route 1, take a BULBASAUR\falong with you!\rIt’s gon’ have SO much fun!</language>
+		<language name="English">If you ever get the chance to\ngo to Route 1, take a BULBASAUR\falong with you!\rIt’s gon’ have SO much fun!\fIt sniffed EVERY flower. Took 4 hours.</language>
 	</row>
 	<row id="msg_0663_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you headed to Route 2,\nyou should take a CHARMANDER along\fwith you...\rI heard CHARMANDER be lovin’\nthat area.</language>
+		<language name="English">You know, if you headed to Route 2,\nyou should take a CHARMANDER along\fwith you...\rI heard CHARMANDER be lovin’\nthat area.\fDon’t walk it near your curtains.</language>
 	</row>
 	<row id="msg_0663_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you been to Route 3 yet?\rI heard people who take a\nSQUIRTLE there be fallin’ down!</language>
+		<language name="English">Ayo, you been to Route 3 yet?\rI heard people who take a\nSQUIRTLE there be fallin’ down!\fI fell too. It wasn’t the SQUIRTLE.</language>
 	</row>
 	<row id="msg_0663_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Mt. Moon on Route 4.\rI heard CLEFAIRY be lovin’\nMt. Moon!</language>
+		<language name="English">You know, Mt. Moon on Route 4.\rI heard CLEFAIRY be lovin’\nMt. Moon!\fThey do a dance. It’s a lil cult-y.</language>
 	</row>
 	<row id="msg_0663_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s a Fighting Dojo in\nSaffron City?\rIt’s a spot just for scraps. All the\nhomies I had with me was shook!</language>
+		<language name="English">You know there’s a Fighting Dojo in\nSaffron City?\rIt’s a spot just for scraps. All the\nhomies I had with me was shook!\fMy MAGIKARP fainted. From the vibes.</language>
 	</row>
 	<row id="msg_0663_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I went to the port in\nVermilion City.\fAll my homies had SO much fun ridin’\fon the S.S. Aqua!</language>
+		<language name="English">You know, I went to the port in\nVermilion City.\fAll my homies had SO much fun ridin’\fon the S.S. Aqua!\fMy GEODUDE got seasick. Rocks.</language>
 	</row>
 	<row id="msg_0663_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You been to Celadon City?\rYou know, I walked a PORYGON in\nCeladon City...and I heard this weird\f“Jijiji...” sound.\fIt was like it was tryna talk!</language>
+		<language name="English">You been to Celadon City?\rYou know, I walked a PORYGON in\nCeladon City...and I heard this weird\f“Jijiji...” sound.\fIt was like it was tryna talk!\fThen it ordered a pizza. On my card.</language>
 	</row>
 	<row id="msg_0663_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s a dude named\nMr. Psychic in Saffron City?\rI wonder what happen if you took\nPsychic-type homies there?</language>
+		<language name="English">You know there’s a dude named\nMr. Psychic in Saffron City?\rI wonder what happen if you took\nPsychic-type homies there?\fHe already knew I was comin’. Rude.</language>
 	</row>
 	<row id="msg_0663_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, if you ever get the chance to go\nto Rock Tunnel, take a\fONIX with you.\rIf you bring a ONIX in there,\nit get SO happy!</language>
+		<language name="English">Ayo, if you ever get the chance to go\nto Rock Tunnel, take a\fONIX with you.\rIf you bring a ONIX in there,\nit get SO happy!\fIt cried a lil. Happy tears. Rock tears.</language>
 	</row>
 	<row id="msg_0663_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you hit the Power Plant yet?\rYou should take a PIKACHU with you to\nthe Power Plant. It’s mad fun!</language>
+		<language name="English">Ayo, you hit the Power Plant yet?\rYou should take a PIKACHU with you to\nthe Power Plant. It’s mad fun!\fMy hair still standin’ up.</language>
 	</row>
 	<row id="msg_0663_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You been to DIGLETT’s Cave yet?\rSpeakin’ of the homie you\nshould bring there...\fWell, I prob’ly ain’t gotta\ftell you!</language>
+		<language name="English">You been to DIGLETT’s Cave yet?\rSpeakin’ of the homie you should bring\nthere...\fWell, I prob’ly ain’t gotta\ftell you!\fIt’s a DIGLETT. Obviously. It’s the\ncave name.</language>
 	</row>
 	<row id="msg_0663_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a Homie House in\nLavender Town. You should take your\fhomies there. I think they’d\fenjoy it.</language>
+		<language name="English">There’s a Homie House in\nLavender Town. You should take your\fhomies there. I think they’d\fenjoy it.\fBring tissues. Trust me.</language>
 	</row>
 	<row id="msg_0663_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, Route 13 the one that’s kinda\na maze, ain’t it?\rMight be why the homies over\nthere always look kinda lost.</language>
+		<language name="English">Ayo, Route 13 the one that’s kinda\na maze, ain’t it?\rMight be why the homies over\nthere always look kinda lost.\fI got lost too. For a day.</language>
 	</row>
 	<row id="msg_0663_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, if you ain’t been to Route 14\nyet, you GOTTA go over\fthere and see it!\rThere’s a huge windmill over in that\narea. It’s deadass breathtakin’...</language>
+		<language name="English">Ayo, if you ain’t been to Route 14\nyet, you GOTTA go over\fthere and see it!\rThere’s a huge windmill over in that\narea. It’s deadass breathtakin’...\fI tried to ride the windmill. Don’t.</language>
 	</row>
 	<row id="msg_0663_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You been to the Pal Park Warden’s\ncrib in Fuchsia yet?\rThere’s SO many AIPOM there.\nIt’s crazy!</language>
+		<language name="English">You been to the Pal Park Warden’s\ncrib in Fuchsia yet?\rThere’s SO many AIPOM there.\nIt’s crazy!\fOne stole my sandwich. AIPOM is a thief.</language>
 	</row>
 	<row id="msg_0663_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!</language>
+		<language name="English">You rode Cycling Road yet?\rIt’s mad fun ridin’ with your\nhomies...but deadass, that’d be\fkinda dangerous there!\fI fell off twice. Then a third time.</language>
 	</row>
 	<row id="msg_0663_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s mad fun playin’ with homies\nby the water!\rIf I remember right, you can see the\nsea from Route 19...</language>
+		<language name="English">It’s mad fun playin’ with homies\nby the water!\rIf I remember right, you can see the\nsea from Route 19...\fI can’t swim though. I just splash.</language>
 	</row>
 	<row id="msg_0663_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come to think of it...when you by\nwater with Fire-type homies, they\fdeadass hate it...\fI feel ’em!</language>
+		<language name="English">Come to think of it...when you by\nwater with Fire-type homies, they\fdeadass hate it...\fI feel ’em!\fMy CYNDAQUIL won’t even take a bath.</language>
 	</row>
 	<row id="msg_0663_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you headed to Route 21,\nI got a suggestion.\rYou could chill with your homies,\nwatchin’ the sunset on the beach...\rWhat you think...? That’s more of a\ncouples thing though, ain’t it!</language>
+		<language name="English">You know, if you headed to Route 21,\nI got a suggestion.\rYou could chill with your homies,\nwatchin’ the sunset on the beach...\rWhat you think...? That’s more of a\ncouples thing though, ain’t it!\fI went alone. It was sad. Don’t.</language>
 	</row>
 	<row id="msg_0663_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 22 the road to the Big\nLeague, ain’t it?\rBet that got your homies feelin’\nnervous, huh?</language>
+		<language name="English">Route 22 the road to the Big\nLeague, ain’t it?\rBet that got your homies feelin’\nnervous, huh?\fMine threw up. Nerves.</language>
 	</row>
 	<row id="msg_0663_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s a real big bridge\non Route 24 called the\f“Gold Grill Bridge.”\rIt ain’t official, but\nmad people call it that.\rThe sun bounce off the water\nthere, so it’s kinda blindin’...</language>
+		<language name="English">You know, there’s a real big bridge on\nRoute 24 called the\f“Gold Grill Bridge.”\rIt ain’t official, but mad people call it\nthat.\rThe sun bounce off the water there, so\nit’s kinda blindin’...\fWear shades. I didn’t. Still seein’\nspots.</language>
 	</row>
 	<row id="msg_0663_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you know that big puddle\non Route 25? I think most\fhomies ain’t never seen their\fown face.\rI wonder what they’d think if they\nsaw their reflection in that puddle...</language>
+		<language name="English">Ayo, you know that big puddle on Route\n25? I think most\fhomies ain’t never seen their\fown face.\rI wonder what they’d think if they saw\ntheir reflection in that puddle...\fMy SLOWPOKE stared at itself for 3\nhours.</language>
 	</row>
 	<row id="msg_0663_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 SO pretty.\nI bet it’s a real nice\fspot for homies.\rBut it’s also the road to the\nBig League, so it prob’ly got\f’em nervous too.</language>
+		<language name="English">You know, Route 26 SO pretty.\nI bet it’s a real nice\fspot for homies.\rBut it’s also the road to the\nBig League, so it prob’ly got\f’em nervous too.\fMine kept lookin’ at me like “why.”</language>
 	</row>
 	<row id="msg_0663_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I heard sometimes homies\nfind stuff along Route 27.\rProb’ly smart to bring\nthe homie you\fclosest with.</language>
+		<language name="English">You know, I heard sometimes homies\nfind stuff along Route 27.\rProb’ly smart to bring\nthe homie you\fclosest with.\fMine found a sock. Just one.</language>
 	</row>
 	<row id="msg_0663_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one that go to\nMt. Silver, right?\rYour homies prob’ly act all\nbrave, but I bet they\flowkey worried too...</language>
+		<language name="English">Route 28, that’s the one that go to\nMt. Silver, right?\rYour homies prob’ly act all\nbrave, but I bet they\flowkey worried too...\fMine wrote a will. Just in case.</language>
 	</row>
 	<row id="msg_0663_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you think about takin’\nCHIKORITA with you to Route 29?\rI bet it’d be havin’ the time\nof its life!</language>
+		<language name="English">What you think about takin’\nCHIKORITA with you to Route 29?\rI bet it’d be havin’ the time\nof its life!\fIt rolled in the grass for an hour.</language>
 	</row>
 	<row id="msg_0663_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you think about takin’\nTOTODILE with you to Route 30?\rI bet it’d be havin’ the time\nof its life!</language>
+		<language name="English">What you think about takin’\nTOTODILE with you to Route 30?\rI bet it’d be havin’ the time\nof its life!\fIt bit a Bug Catcher. My bad, sir.</language>
 	</row>
 	<row id="msg_0663_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you think about takin’\nCYNDAQUIL with you to Route 31?\rI bet it’d be havin’ the time\nof its life!</language>
+		<language name="English">What you think about takin’\nCYNDAQUIL with you to Route 31?\rI bet it’d be havin’ the time\nof its life!\fIt set a bush on fire. Small one.</language>
 	</row>
 	<row id="msg_0663_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard from somebody you can find\na homie called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had a\fUNOWN and took ’em with you to\fthe Ruins of Alph...</language>
+		<language name="English">I heard from somebody you can find\na homie called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had a\fUNOWN and took ’em with you to\fthe Ruins of Alph...\fBet it’s like a family reunion.</language>
 	</row>
 	<row id="msg_0663_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s ALWAYS rainin’ on\nRoute 33. It don’t never stop!\rRainy days be gettin’ me down, but I\nknow there’s homies out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">You know, it’s ALWAYS rainin’ on\nRoute 33. It don’t never stop!\rRainy days be gettin’ me down, but I\nknow there’s homies out there that\flove the rain!\r...Like TOTODILE!\fI bring two umbrellas now.</language>
 	</row>
 	<row id="msg_0663_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, FARFETCH’D be weirdly\nobsessed with Ilex Forest.\fWhen they in there, it’s like they\fdon’t even hear you.\rI might take a FARFETCH’D there\nto see for myself sometime.</language>
+		<language name="English">You know, FARFETCH’D be weirdly\nobsessed with Ilex Forest.\fWhen they in there, it’s like they\fdon’t even hear you.\rI might take a FARFETCH’D there\nto see for myself sometime.\fIt ignored me for a WHOLE day.</language>
 	</row>
 	<row id="msg_0663_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you heard of the Pokéathlon?\nWhen homies go to the Pokéathlon,\fthey get SO hype!\rI think I’mma take my homies there\nsometime too!</language>
+		<language name="English">Ayo, you heard of the Pokéathlon?\nWhen homies go to the Pokéathlon,\fthey get SO hype!\rI think I’mma take my homies there\nsometime too!\fMine came back with a headband.</language>
 	</row>
 	<row id="msg_0663_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know somethin’ real\ninterestin’ happen if you take a\fSUDOWOODO to Route 36?\rWhat kinda interestin’?\nWell, you just gotta try it\fand see!</language>
+		<language name="English">You know somethin’ real\ninterestin’ happen if you take a\fSUDOWOODO to Route 36?\rWhat kinda interestin’?\nWell, you just gotta try it\fand see!\fIt’s a tree. That’s all I’mma say.</language>
 	</row>
 	<row id="msg_0663_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you meet the twins over on\nRoute 37?\rThey SO cute, and their homies\nhella popular.</language>
+		<language name="English">Ayo, you meet the twins over on\nRoute 37?\rThey SO cute, and their homies\nhella popular.\fThey beat me. Both of ’em. At once.</language>
 	</row>
 	<row id="msg_0663_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a TAUROS to Moomoo Farm\non Route 39 recently. It was\fCHAOS, I ain’t know what to do!</language>
+		<language name="English">I took a TAUROS to Moomoo Farm\non Route 39 recently. It was\fCHAOS, I ain’t know what to do!\fIt ran through a fence. I paid for it.</language>
 	</row>
 	<row id="msg_0663_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you goin’ to\nRoute 39, take a MILTANK\falong with you.\rIt’ll find mad homies over there,\nit’s gon’ be fun!</language>
+		<language name="English">You know, if you goin’ to\nRoute 39, take a MILTANK\falong with you.\rIt’ll find mad homies over there,\nit’s gon’ be fun!\fThen it ate everythin’ in the fridge.</language>
 	</row>
 	<row id="msg_0663_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you headed to\nRoute 40, take a POLIWAG\fwith you and see what go down!\rYou gon’ see somethin’ interestin’.\nThat’s on foenem!</language>
+		<language name="English">You know, if you headed to\nRoute 40, take a POLIWAG\fwith you and see what go down!\rYou gon’ see somethin’ interestin’.\nThat’s on foenem!\fBring a towel. It’s gon’ get wet.</language>
 	</row>
 	<row id="msg_0663_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I went to Route 41 recently to\nhave fun. You know, Water-type homies\fREALLY love the sea...\rWatchin’ your homies have fun and\nbe happy is enough to make\fyou happy too!</language>
+		<language name="English">I went to Route 41 recently to\nhave fun. You know, Water-type homies\fREALLY love the sea...\rWatchin’ your homies have fun and\nbe happy is enough to make\fyou happy too!\fI got sunburned though. Bad.</language>
 	</row>
 	<row id="msg_0663_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 42 a mountain road.\nIf you take a Rock-type homie\fthrough there, bet they’d love it.</language>
+		<language name="English">You know, Route 42 a mountain road.\nIf you take a Rock-type homie\fthrough there, bet they’d love it.\fMy GEODUDE called it “home.”</language>
 	</row>
 	<row id="msg_0663_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you wanna see MAGIKARP\nget real hype, you should take it\fover to the Lake of Rage and see\fwhat happen!</language>
+		<language name="English">You know, if you wanna see MAGIKARP\nget real hype, you should take it\fover to the Lake of Rage and see\fwhat happen!\fMine bit a fisherman. Again, my bad.</language>
 	</row>
 	<row id="msg_0663_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speakin’ of Route 44, it’s SO cold\nthere. I feel bad for homies that’s\fsensitive to cold...\rBut I bet Ice-type homies feel\nright at home!</language>
+		<language name="English">Speakin’ of Route 44, it’s SO cold\nthere. I feel bad for homies that’s\fsensitive to cold...\rBut I bet Ice-type homies feel\nright at home!\fI lost a toe. Kiddin’. Almost though.</language>
 	</row>
 	<row id="msg_0663_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s that river that\nwind around near Route 45.\fIt’s a fun route.\rI went recently, and my homies\nwas real into the river.\fThey kept starin’ at it.</language>
+		<language name="English">You know, there’s that river that\nwind around near Route 45.\fIt’s a fun route.\rI went recently, and my homies\nwas real into the river.\fThey kept starin’ at it.\fThey tried to drink it. All of it.</language>
 	</row>
 	<row id="msg_0663_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you know how there’s mad tall\ngrass on Route 46?\fWell, the homies with you\fbe stressin’ about when a wild\fhomie gon’ jump out!</language>
+		<language name="English">Ayo, you know how there’s mad tall\ngrass on Route 46?\fWell, the homies with you\fbe stressin’ about when a wild\fhomie gon’ jump out!\fI’m scared too, honestly.</language>
 	</row>
 	<row id="msg_0663_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You been to Route 47?\nIt got such a beautiful, natural view!\r...That said, you heard of DITTO?\rDITTO get real hype around\nRoute 47. It’s kinda weird...</language>
+		<language name="English">You been to Route 47?\nIt got such a beautiful, natural view!\r...That said, you heard of DITTO?\rDITTO get real hype around\nRoute 47. It’s kinda weird...\fIt turned into my mom. I screamed.</language>
 	</row>
 	<row id="msg_0663_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know that REAL tall\ncliff near Route 47?\rWhen you walkin’ around there, the\nhomies with you get kinda\fscared too...\rMe?\nMe, I’m...always shakin’!</language>
+		<language name="English">You know that REAL tall\ncliff near Route 47?\rWhen you walkin’ around there, the\nhomies with you get kinda\fscared too...\rMe?\nMe, I’m...always shakin’!\fI ain’t scared. I do backflips off it.</language>
 	</row>
 	<row id="msg_0663_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pallet Town’s Professor Oak REALLY\nlove homies.\rYou should take a homie over to\nProfessor Oak’s Lab sometime!</language>
+		<language name="English">Pallet Town’s Professor Oak REALLY\nlove homies.\rYou should take a homie over to\nProfessor Oak’s Lab sometime!\fHe gave mine a cookie. Then a DNA test.</language>
 	</row>
 	<row id="msg_0663_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a Hustler House in Viridian.\nYou know?\rWhen homies go over there, they get\nreal fired up, you know!</language>
+		<language name="English">There’s a Hustler House in Viridian.\nYou know?\rWhen homies go over there, they get\nreal fired up, you know!\fMine started doin’ push-ups.</language>
 	</row>
 	<row id="msg_0663_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City got a museum, right?\rYou can take homies over to the\nmuseum with you for a field trip!</language>
+		<language name="English">Pewter City got a museum, right?\rYou can take homies over to the\nmuseum with you for a field trip!\fMine tried to eat a fossil.</language>
 	</row>
 	<row id="msg_0663_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So...you meet the Cerulean City\nBlock Boss, Misty...?\rOh, it’s nothin’! Just wonderin’!</language>
+		<language name="English">So...you meet the Cerulean City\nBlock Boss, Misty...?\rOh, it’s nothin’! Just wonderin’!\f...She’s cute though. JUST wonderin’!</language>
 	</row>
 	<row id="msg_0663_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Lavender Town, there’s a place\ncalled the House of Memories where\fthey got homie graves, you know.\rAs a Hustler, you should go at least\nonce outta respect. Rest up, homies.</language>
+		<language name="English">In Lavender Town, there’s a place\ncalled the House of Memories where\fthey got homie graves, you know.\rAs a Hustler, you should go at least\nonce outta respect. Rest up, homies.\fI left flowers. It felt right.</language>
 	</row>
 	<row id="msg_0663_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City where the Homie Fan\nClub at if I remember right!\rIf you got a BAYLEEF, you should\ntake it over there and say wassup!</language>
+		<language name="English">Vermilion City where the Homie Fan\nClub at if I remember right!\rIf you got a BAYLEEF, you should\ntake it over there and say wassup!\fThey gave it a hat. It’s so proud.</language>
 	</row>
 	<row id="msg_0663_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I took a TANGELA with me\nto Celadon City Block once. It was SO\fhappy, and somethin’ happened!\rYou should try it too, and see what\ngo down!\n</language>
+		<language name="English">You know, I took a TANGELA with me\nto Celadon City Block once. It was SO\fhappy, and somethin’ happened!\rYou should try it too, and see what\ngo down!\fI ain’t sayin’ what. You gotta see.\n</language>
 	</row>
 	<row id="msg_0663_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I heard if you take a\nTAUROS to Fuchsia, they get\freal heated!\rI wonder why... I don’t get it.\nBut I bet it’d be interestin’ to try\fit and see what go down!</language>
+		<language name="English">You know, I heard if you take a\nTAUROS to Fuchsia, they get\freal heated!\rI wonder why... I don’t get it.\nBut I bet it’d be interestin’ to try\fit and see what go down!\fMine charged a vendin’ machine.</language>
 	</row>
 	<row id="msg_0663_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you in Cinnabar with your\nhomies, lookin’ out at the sea while\fstandin’ in a town that got buried\fin lava...\rThat’s like the last scene\nfrom a movie or somethin’!</language>
+		<language name="English">If you in Cinnabar with your\nhomies, lookin’ out at the sea while\fstandin’ in a town that got buried\fin lava...\rThat’s like the last scene\nfrom a movie or somethin’!\fI cried. Not gon’ lie.</language>
 	</row>
 	<row id="msg_0663_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, the Indigo Plateau real\nclose to the Big League. Your\fhomies prob’ly gon’ yell to hype\fthemselves up!</language>
+		<language name="English">You know, the Indigo Plateau real\nclose to the Big League. Your\fhomies prob’ly gon’ yell to hype\fthemselves up!\fMine snorted so hard it sneezed fire.</language>
 	</row>
 	<row id="msg_0663_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City where the Copycat’s\ncrib at, right?\rYou should take a MIME JR. over there\nand see what go down.\rBet it’s somethin’ interestin’!</language>
+		<language name="English">Saffron City where the Copycat’s\ncrib at, right?\rYou should take a MIME JR. over there\nand see what go down.\rBet it’s somethin’ interestin’!\fIt copied ME. I didn’t like it.</language>
 	</row>
 	<row id="msg_0663_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go back home to New Bark Town,\nyou should flex your homies on\fyour mom. Bet she’d be happy!</language>
+		<language name="English">If you go back home to New Bark Town,\nyou should flex your homies on\fyour mom. Bet she’d be happy!\fAnd eat her food. That’s the real move.</language>
 	</row>
 	<row id="msg_0663_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I deadass like that nice windin’\npath in Cherrygrove City.\rIt’s mad fun runnin’ with your\nhomies along the beach, listenin’ to\fthe waves!</language>
+		<language name="English">I deadass like that nice windin’\npath in Cherrygrove City.\rIt’s mad fun runnin’ with your\nhomies along the beach, listenin’ to\fthe waves!\fMine ate sand. Don’t let ’em eat sand.</language>
 	</row>
 	<row id="msg_0663_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you in Violet City, that mean\nyou by Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go! I heard they dance!\rI wonder if it’s true...\nWill you try it and lmk?</language>
+		<language name="English">If you in Violet City, that mean\nyou by Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go! I heard they dance!\rI wonder if it’s true...\nWill you try it and lmk?\fMine danced so hard it pulled a leaf.</language>
 	</row>
 	<row id="msg_0663_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town’s Block go HARD,\ndon’t you think?\rYou rode the SPINARAK yet?\rI wonder what’d happen if you took\na real SPINARAK to that Block?\rI think it’d be interestin’!</language>
+		<language name="English">Azalea Town’s Block go HARD, don’t you\nthink?\rYou rode the SPINARAK yet?\rI wonder what’d happen if you took a\nreal SPINARAK to that Block?\rI think it’d be interestin’!\fI’m scared of SPINARAK. Don’t tell\nnobody.</language>
 	</row>
 	<row id="msg_0663_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you goin’ to Cianwood, you should\ntry walkin’ a KRABBY with you.\rHow it go? Well, you gotta try it\nand see for yourself!</language>
+		<language name="English">If you goin’ to Cianwood, you should\ntry walkin’ a KRABBY with you.\rHow it go? Well, you gotta try it\nand see for yourself!\fIt pinched me. On purpose.</language>
 	</row>
 	<row id="msg_0663_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you look close at the\nGoldenrod City Block, it’s shaped like\fa CLEFAIRY?\rNo cap!\nYou should take a CLEFAIRY there!\rBet whatever happen, it’s gon’ be\nSO cute!</language>
+		<language name="English">You know, if you look close at the\nGoldenrod City Block, it’s shaped like\fa CLEFAIRY?\rNo cap!\nYou should take a CLEFAIRY there!\rBet whatever happen, it’s gon’ be\nSO cute!\fWhitney gave it a snack. Then cried.</language>
 	</row>
 	<row id="msg_0663_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you say Olivine City, all I\nthink of is the Lighthouse!\rYou should take a AMPHAROS there\nand see what happen!\fBet it’s gon’ be bright...</language>
+		<language name="English">When you say Olivine City, all I\nthink of is the Lighthouse!\rYou should take a AMPHAROS there\nand see what happen!\fBet it’s gon’ be bright...\fWear shades. I’m serious this time.</language>
 	</row>
 	<row id="msg_0663_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you got a PICHU, you should take\nit over to the Ecruteak Dance\fTheater!\rIt’s such a nice spot. Whenever\nI’m there, I feel like dancin’!</language>
+		<language name="English">If you got a PICHU, you should take\nit over to the Ecruteak Dance\fTheater!\rIt’s such a nice spot. Whenever\nI’m there, I feel like dancin’!\fIt danced better than me. Rude.</language>
 	</row>
 	<row id="msg_0663_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...you caught any\nIce-type homies yet?\rIce types LOVE playin’ on\nthe ice. They look like they havin’\fso much fun!</language>
+		<language name="English">That reminds me...you caught any\nIce-type homies yet?\rIce types LOVE playin’ on\nthe ice. They look like they havin’\fso much fun!\fMine slid into a wall. It was fine.</language>
 	</row>
 	<row id="msg_0663_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go to the Lake of Rage,\nyou can see how hype\fMAGIKARP can get!</language>
+		<language name="English">If you go to the Lake of Rage,\nyou can see how hype\fMAGIKARP can get!\fMine got so mad it splashed me.</language>
 	</row>
 	<row id="msg_0663_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
@@ -622,18 +622,18 @@
 	</row>
 	<row id="msg_0663_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You heard of a place called\nMt. Silver?\rI ain’t been there yet.\rBet it’s a spot that make even\nhomies nervous.</language>
+		<language name="English">You heard of a place called\nMt. Silver?\rI ain’t been there yet.\rBet it’s a spot that make even\nhomies nervous.\fI’m too scared. I’ll go when I’m 40.</language>
 	</row>
 	<row id="msg_0663_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s a big\nBug-Catching Contest in the\fNational Park?\rThat’s why there’s SO many Bug-type\nhomies there. If you took your\fBug-type homies there too, I bet\fthey’d love it!</language>
+		<language name="English">You know there’s a big\nBug-Catching Contest in the\fNational Park?\rThat’s why there’s SO many Bug-type\nhomies there. If you took your\fBug-type homies there too, I bet\fthey’d love it!\fI still got a bee sting from last year.</language>
 	</row>
 	<row id="msg_0663_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard from somebody you can find\na homie called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had a\fUNOWN and took it with you to\fthe Ruins of Alph...</language>
+		<language name="English">I heard from somebody you can find\na homie called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had a\fUNOWN and took it with you to\fthe Ruins of Alph...\fBet it’s like a family reunion.</language>
 	</row>
 	<row id="msg_0663_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a lil far to walk to the\nSafari Zone, but it’s DEFINITELY worth\fit. There’s SO many different\fhomies there!</language>
+		<language name="English">It’s a lil far to walk to the\nSafari Zone, but it’s DEFINITELY worth\fit. There’s SO many different\fhomies there!\fBring snacks. It’s a hike.</language>
 	</row>
 </body>

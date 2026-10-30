@@ -105,7 +105,7 @@
 	</row>
 	<row id="msg_0537_T11R0701_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna give a nickname\nto {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
+		<language name="English">Wanna give {STRVAR_1 0, 1, 0}\na street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

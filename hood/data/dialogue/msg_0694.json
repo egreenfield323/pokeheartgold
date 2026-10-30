@@ -1,16 +1,16 @@
 {
   "_comment": "Phone: Tully (fisherman).",
-  "1": "Ayo, you tryna be the ultimate\\nHustler too? That make us comrades!\\rIf I find more stuff by the water,\\nI'll give you some.\\rJust gimme your number. {YESNO 0}",
+  "1": "Ayo, you tryna be the ultimate Hustler\\ntoo? That make us COMRADES!\\rIf I find more stuff by the water,\\nI'll give you some.\\rJust gimme your number. {YESNO 0}",
   "2": "You gon' hear from me if I find\\nsomethin' good.",
-  "3": "That's how it is? Then I'll just\\nuse 'em myself.",
+  "3": "That's how it is? Then I'll just use 'em\\nmyself. And not tell you what it was.",
   "4": "If I find more stuff by the water,\\nI'll give you some.\\rJust gimme your number.{YESNO 0}",
-  "5": "Ayo, there you are!\\nHere's a gift, like I promised!\\r",
+  "5": "Ayo, THERE you!\\nHere's a gift, like I promised!\\fIt was THIS big when I found it.\\fIt shrunk.\\r",
   "6": "Ayo, if you right nearby, come chat\\nwith me in person!",
-  "7": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only this big when I caught\\nit, but now it's WAY bigger.\\rOh yeah, I KO'd a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big, even.\\rHeh, I guess you can't tell over\\nthe phone...\\rWell, I'll see you.",
-  "8": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only this big when I caught\\nit, but now it's WAY bigger.\\rOh yeah, I lost a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big, even.\\rHeh, I guess you can't tell over\\nthe phone...\\rWell, I'll see you.",
+  "7": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only THIS big when I caught it,\\nnow it's WAY bigger.\\rI KO'd a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big!\\rHeh, you can't tell over the phone...\\nI'm holdin' my arms out. Trust me.\\rWell, I'll see you.",
+  "8": "My {STRVAR_1 0, 10, 0} grew AGAIN.\\rIt was only THIS big when I caught it,\\nnow it's WAY bigger.\\rI lost a wild {STRVAR_1 0, 11, 0}.\\nIt was HUGE--like THIS big!\\rHeh, you can't tell over the phone...\\nI'm holdin' my arms out. Trust me.\\rWell, I'll see you.",
   "9": "We should get a scrap goin'!\\rI'll be fishin' on {STRVAR_1 4, 3, 0}.\\nSwing by if you got time.",
   "10": "What? You lost or somethin'?\\nOur scrap is on {STRVAR_1 4, 3, 0}!",
-  "11": "I found anything good?\\nNope, not yet.\\rIt's like fishin'--you need patience.",
+  "11": "I found anythin' good?\\nNope, not yet.\\rIt's like fishin'--you need patience.\\nI have none. I'm vibratin'.",
   "12": "I picked up a hard lil thing by the\\nwater. Like I promised, it's yours.\\fI'll be waitin' on {STRVAR_1 4, 3, 0}.",
   "13": "I got somethin' good for you.\\nHurry over to {STRVAR_1 4, 3, 0}."
 }

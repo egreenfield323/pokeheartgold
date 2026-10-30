@@ -12,5 +12,22 @@
   "41": "The Jump & Skill Course consists of\\nfour events that require good\\fJump and Skill Performance.\\r“Lamp Jump”\\nShow your skill in jumping to\\ftouch the Lamps!\\r“Disc Catch”\\nJump and catch the Discs!\\r“Pennant Capture”\\nShow your moves and collect Pennants!\\r“Snow Throw”\\nAim with accuracy!\\rWhen you win, you will be awarded\\nthe Jump Medal and the Skill Medal.\\rChoose three homie with good\\nJump and Skill for these events, and\\fbring your homies as well.\\r",
   "42": "The Skill & Power Course consists of\\nfour events that require good\\fSkill and Power Performance.\\r“Goal Roll”\\nAim at the Goal and shoot!\\r“Snow Throw”\\nSteady, aim, and fire away!\\r“Pennant Capture”\\nShow your moves and collect Pennants!\\r“Block Smash”\\nBlocks keep coming! Smash them all!\\rWhen you win, you will be awarded\\nthe Skill Medal and the Power Medal.\\rChoose three homie with good\\nSkill and Power for these events, and\\fbring your homies as well.\\r",
   "43": "The Power & Stamina Course consists\\nof four events that require good\\fPower and Stamina Performance.\\r“Block Smash”\\nBlocks keep coming! Smash them all!\\r“Circle Push”\\nPush them away and stay in the Circle!\\r“Goal Roll”\\nKeep rolling until your energy\\fruns out!\\r“Ring Drop”\\nDrop them off the Ring and stay on top!\\rWhen you win, you will be awarded\\nthe Power Medal and the Stamina Medal.\\rChoose three homie with good\\nPower and Stamina for these events,\\fand bring your homies as well.\\r",
-  "44": "The Stamina & Speed Course consists\\nof four events that require good\\fStamina and Speed Performance.\\r“Relay Run”\\nBoth Stamina and Speed are key!\\r“Ring Drop”\\nDrop them from high while you survive!\\r“Hurdle Dash”\\nOver you go! Aim for number one!\\r“Circle Push”\\nPush them away and stay in the Circle!\\rWhen you win, you will be awarded\\nthe Stamina Medal and the Speed Medal.\\rChoose three homie with good Stamina\\nand Speed for these events, and\\fbring your homies as well.\\r"
+  "44": "The Stamina & Speed Course consists\\nof four events that require good\\fStamina and Speed Performance.\\r“Relay Run”\\nBoth Stamina and Speed are key!\\r“Ring Drop”\\nDrop them from high while you survive!\\r“Hurdle Dash”\\nOver you go! Aim for number one!\\r“Circle Push”\\nPush them away and stay in the Circle!\\rWhen you win, you will be awarded\\nthe Stamina Medal and the Speed Medal.\\rChoose three homie with good Stamina\\nand Speed for these events, and\\fbring your homies as well.\\r",
+  "0": "WELCOME!\\nThis the sign-up desk.\\rYou tryin' the Pokéathlon?\\nWaivers is optional. {YESNO 0}",
+  "1": "Welcome. This the sign-up for the\\nSupreme Cup.\\rThe top Pokéathletes is waitin' on you.\\nThey VERY sweaty.\\fYou wanna take the challenge? {YESNO 0}",
+  "2": "Anything else?\\nWe got waters. They $5.",
+  "3": "Which course you tryin'? {YESNO 0}",
+  "4": "You wanna try\\n{STRVAR_4 1, 3, 0}? {YESNO 0}",
+  "5": "Right this way.\\nWatch your step. It's wet. It's sweat.\\r",
+  "6": "The Pokéathlon startin' RIGHT now.\\nYour team color is red.\\rGood luck!\\fDon't throw up!\\r",
+  "10": "Come back next time.\\nStretch first. Trust me.",
+  "11": "What you wanna know about? {YESNO 0}",
+  "19": "Good job!\\rYou get Athlete Points based on\\nyour score. Spend 'em wisely.\\r",
+  "23": "Considerin' your performance this time,\\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\\fthe “Trust” room.\\fCONGRATS! The snacks in there free!\\r",
+  "24": "Considerin' your performance this time,\\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\\fthe “Potential” room.\\fCONGRATS! Don't touch nothin'!\\r",
+  "25": "Considerin' your performance this time,\\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\\fthe “Friendship” room.\\fCONGRATS! You a LEGEND!\\r",
+  "26": "Welcome.\\nThis the sign-up for the Link\\fPokéathlon.\\rYou and your homies on the same\\ncourse. Bring the whole crew!\\rYou wanna try it? {YESNO 0}",
+  "27": "Decide which one of y'all is the\\ngroup leader.\\rThe other players pick “JOIN GROUP.”\\nNo fightin' over it. {YESNO 0}",
+  "29": "Connection error.\\rRedo the registration from the top.\\nThe Wi-Fi is cursed.",
+  "36": "Right this way, please!\\nThe floor is slippery. Sweat."
 }

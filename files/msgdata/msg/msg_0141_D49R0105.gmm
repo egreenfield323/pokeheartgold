@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0141_D49R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To win Medals with different kinds\nof homies, you GOTTA believe in\fyour homies.</language>
+		<language name="English">To win Medals with different kinds\nof homies, you GOTTA believe in\fyour homies.\fEven the SLOWPOKE. ESPECIALLY him.</language>
 	</row>
 	<row id="msg_0141_D49R0105_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’d love to see my own shoes in here!</language>
+		<language name="English">I’d LOVE to see my own shoes in here!\nThey a size 14. They’d fill the case.</language>
 	</row>
 	<row id="msg_0141_D49R0105_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Dome got SO many\nother Domes inside it...</language>
+		<language name="English">This Dome got SO many other Domes\ninside it...\fIt’s Domes all the way down.\fI’m scared.</language>
 	</row>
 	<row id="msg_0141_D49R0105_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -54,14 +54,14 @@
 	</row>
 	<row id="msg_0141_D49R0105_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon Medals...\rThat’s proof of the grind\nof Pokéathletes AND homies.\rHomies that won all five\nMedals get called “Medalist Pokémon”\fto honor the trust they\fearned from their Pokéathlete.</language>
+		<language name="English">Pokéathlon Medals...\rProof of the grind of Pokéathletes\nAND homies.\rHomies that won all five Medals get\ncalled “Medalist Pokémon” to honor\fthe trust they earned.\fThey also get free parkin’.</language>
 	</row>
 	<row id="msg_0141_D49R0105_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABRA: ...\n...\f...\rIt must be sleep!</language>
+		<language name="English">ABRA: ...\n...\f...\rIt’s asleep. It’s always asleep.\fIt still won three Medals.</language>
 	</row>
 	<row id="msg_0141_D49R0105_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRATINI: Achoo!</language>
+		<language name="English">DRATINI: ACHOO!\n(Bless you.)</language>
 	</row>
 </body>

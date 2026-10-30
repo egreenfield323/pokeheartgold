@@ -357,5 +357,17 @@
   "1249": "The opp’s {STRVAR_1 1, 0, 0} became\\ntrapped by swirling magma!",
   "1253": "The opp’s {STRVAR_1 1, 0, 0} became fully\\ncharged due to its {STRVAR_1 8, 1, 0}!",
   "1256": "The opp’s {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 8, 1, 0} let it move first!",
-  "1259": "The opp’s {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} wore off!"
+  "1259": "The opp’s {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} wore off!",
+  "847": "Announcer: You outta\\nZoo Sacks!\\fGame over!\\r",
+  "848": "{STRVAR_1 3, 0, 0} threw\\na Zoo Sack!",
+  "850": "Announcer: You outta\\nZoo Sacks! Game over!",
+  "859": "The Hustler blocked the sack!",
+  "861": "It dodged the thrown sack!\\nThis Pokémon can’t be caught!",
+  "931": "SACK",
+  "950": "ZOO SACKS",
+  "1220": "PARK SACKS",
+  "1223": "SACK",
+  "1270": "SACK",
+  "868": "Give the {STRVAR_1 1, 0, 0} you just\\nsnatched a street name?{YESNO 0}",
+  "916": "The fuh?\\r"
 }

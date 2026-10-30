@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0416_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ben: This your DJ Ben, bringin’ you the\nHomie Music Channel!</language>
+		<language name="English">Ben: This your DJ Ben, bringin’ you the\nHomie Music Channel! Smooth vibes only!</language>
 	</row>
 	<row id="msg_0416_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today a happy Sunday! This a fire\nalbum with some classic songs that always\ntake me back to great memories of\nmy best homie!</language>
+		<language name="English">Today a happy Sunday! This a FIRE album\nof classics that take me back to my\nbest homie! ...He moved to Sinnoh.\nWe don’t talk. This song’s for him!</language>
 	</row>
 	<row id="msg_0416_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0416_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today Tuesday! Time to put your\nhomies to sleep with a smooth homie\nlullaby!</language>
+		<language name="English">Today Tuesday! Time to put your\nhomies to sleep with a smooth homie\nlullaby! Works on babies too.</language>
 	</row>
 	<row id="msg_0416_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0416_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today Thursday! Time to put your\nhomies to sleep with a smooth homie\nlullaby!</language>
+		<language name="English">Today Thursday! Time to put your\nhomies to sleep with a smooth homie\nlullaby! Not while drivin’.</language>
 	</row>
 	<row id="msg_0416_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0416_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today Saturday! Time to put your\nhomies to sleep with a smooth homie\nlullaby!</language>
+		<language name="English">Today Saturday! Time to put your\nhomies to sleep with a smooth homie\nlullaby! Party’s over, y’all.</language>
 	</row>
 	<row id="msg_0416_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

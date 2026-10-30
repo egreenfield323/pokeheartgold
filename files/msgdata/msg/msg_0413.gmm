@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0413_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Johto Case Notes: File Number One\nOur Radio Crew saw it! Heard it!\nWhile diggin’ in the ruins, we\nfound stone panels with some\nweird writin’ carved in!\nIs this a message from the past? Or\njust somebody’s prank?\nThis program gon’ shine a spotlight on\nstuff like this by doin’ a deep\ninvestigation. No Feds involved.\nTune in!</language>
+		<language name="English">Johto Case Notes: File Number One\nOur Radio Crew saw it! Heard it!\nWhile diggin’ in the ruins, we\nfound stone panels with weird\nwritin’ carved in!\nA message from the past? Or just\nsomebody’s prank? Prob’ly Kevin.\nNo Feds involved. Tune in!</language>
 	</row>
 	<row id="msg_0413_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0413_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Johto Case Notes: File Number Four\nOur Radio Crew saw it! Heard it!\nIn the dead of night, a empty Magnet\nTrain pulled into Goldenrod Station!\nIs this a ghost train?\nOr just a reflection of a train?\nThis show gon’ shine a spotlight on\nstuff like this by doin’ a deep\ninvestigation.\nTune in!</language>
+		<language name="English">Johto Case Notes: File Number Four\nOur Radio Crew saw it! Heard it!\nIn the dead of night, a EMPTY Magnet\nTrain pulled into Goldenrod Station!\nA ghost train?\nOr the conductor on his lunch break?\nThis show gon’ shine a spotlight on\nstuff like this. Tune in!</language>
 	</row>
 	<row id="msg_0413_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0413_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West: Eek! East! H-help!\nNarrator: The young couple came to\nthe Lake of Rage. West accidentally sat\non a GYARADOS, which is now swimmin’\naround the lake with West on its back!\nEast: Oh no! West! I can’t swim! And I\nain’t got no homies that know\nHydrant Wave!\nNarrator: The GYARADOS West\nridin’ on ain’t listenin’ to\nNOTHIN’ East sayin’!\nIt’s crashin’ through the waves on\nthe lake!\nThe Serial Radio Drama: Waves of Love!\nTheir love gon’ last forever!</language>
+		<language name="English">West: Eek! East! H-help!\nNarrator: The young couple came to\nthe Lake of Rage. West accidentally sat\non a GYARADOS, which is now swimmin’\naround the lake with West on its back!\nEast: Oh no! West! I can’t swim! And I\nain’t got no homies that know\nRide Da Wave!\nNarrator: The GYARADOS West\nridin’ on ain’t listenin’ to\nNOTHIN’ East sayin’!\nIt’s crashin’ through the waves on\nthe lake!\nThe Serial Radio Drama: Waves of Love!\nTheir love gon’ last forever!</language>
 	</row>
 	<row id="msg_0413_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

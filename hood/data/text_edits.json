@@ -126,7 +126,7 @@
     "0": "A homie you get in a trade come up\\nquick, but if you ain’t got the\\fright\\fChain, it might ignore you.\\rLike my son. Without the Chains."
   },
   "msg_0571_T23R0501": {
-    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rHm? Who you?\\r{STRVAR_1 3, 0, 0}, huh? You want me to make\\nsome Balls?\\rSorry, that gotta wait.\\rYou know The Feds?\\nAh, don’t trip. I’ll tell you anyway.\\rThe Feds a evil gang that\\nuse homies for their dirty work.\\rThey supposedly got shut down\\nthree years ago.\\rAnyway, they at the well choppin’\\noff SlowpokeTails to sell!\\rSo I’m finna go teach ’em\\na lesson!\\rHang on, SLOWPOKE!\\nOld Kurt on the way!"
+    "0": "I got cameras, homie. Smile.\\nNow what you want?\\rHm? Who you?\\r{STRVAR_1 3, 0, 0}, huh? You want me to stitch\\nyou a bag?\\rSorry, that gotta wait.\\rYou know The Feds?\\nAh, don’t trip. I’ll tell you anyway.\\rThe Feds a evil gang that\\nuse homies for their dirty work.\\rThey supposedly got shut down\\nthree years ago.\\rAnyway, they at the well choppin’\\noff SlowpokeTails to sell!\\rSo I’m finna go teach ’em\\na lesson!\\rHang on, SLOWPOKE!\\nOld Kurt on the way!"
   },
   "msg_0578_T24R0601": {
     "0": "Hi! You must be a tourist! I can\\nSMELL it.\\rTake a pic here! You saw the camera\\noutside? I put it there! Illegally!\\rYou might run into my family around.\\nWe EVERYWHERE. Like pigeons.\\rCheck the camera and it’ll take a\\npic. A memory of your trip with your\\fhomies!"
@@ -149,7 +149,7 @@
     "1": "Sometimes a healthy homie can’t use\\nits moves. No PP. Like me with no\\fcoffee.\\rHeal it at a Trap House or use\\nsomethin’."
   },
   "msg_0591_T25R0901": {
-    "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rWASSUP, WASSUP! I’m the official\\nName Rater! I roast names for a\\flivin’!\\rWant me to rate your homies’\\nnicknames? I’m brutal. {YESNO 0}"
+    "0": "Who let you in?! You got five\\nseconds before I call my cousin.\\rWASSUP, WASSUP! I’m the official\\nName Rater! I roast names for a\\flivin’!\\rWant me to rate your homies’\\nstreet names? I’m brutal. {YESNO 0}"
   },
   "msg_0608_T26R0301": {
     "0": "Ayo, I’m lookin’ for this homie.\\rYou got a KRABBY? Trade it for my\\nVOLTORB? It only explode\\fSOMETIMES. {YESNO 0}"
@@ -225,10 +225,10 @@
     "4": "Lance: DRAGONITE, Full Auto.\\r"
   },
   "msg_0113_D35R0103": {
-    "17": "Lance: That’s Jacuzzi.\\rTeach it to a homie to get across\\nwild water. But remember this.\\rYou can only use it outside of battle\\nwith the Chain from Mahogany Block.\\r"
+    "17": "Lance: That’s Flush It.\\rTeach it to a homie to get across\\nwild water. But remember this.\\rYou can only use it outside of battle\\nwith the Chain from Mahogany Block.\\r"
   },
   "msg_0115_D36R0101": {
-    "8": "That’s the HM Shank. Teach it to a\\nhomie to clear lil trees.\\rYou gotta have the Block Chain\\nfrom Azalea to use it, though.",
+    "8": "That’s the HM Box Cutter. Teach it to a\\nhomie to clear lil trees.\\rYou gotta have the Block Chain\\nfrom Azalea to use it, though.",
     "11": "What am I doin’?\\rI’m shakin’ trees with Dome Check.\\rIt’s fun. Here, try it with your\\nhomie too! {YESNO 0}",
     "16": "My bad...\\nThat homie can’t learn Dome Check.\\r",
     "17": "{STRVAR_1 1, 0, 0} tryna learn\\nDome Check.\\rBut {STRVAR_1 1, 0, 0} can’t hold more\\nthan four moves.\\rForget an old move to make\\nroom for Dome Check? {YESNO 0}",
@@ -238,14 +238,14 @@
     "26": "{STRVAR_1 1, 0, 0} learned Dome Check!"
   },
   "msg_0122_D39R0101": {
-    "2": "That thing you picked up over there...\\nit was a HM, wasn’t it?\\rI’m the one who dropped it...but I\\nwant you to keep it.\\fYou put in the work, right?\\rIt’s Wet Ya Up.\\nHave fun climbin’ waterfalls!\\rMe?\\rI need new shoes before I\\ncan enjoy no waterfalls."
+    "2": "That thing you picked up over there...\\nit was a HM, wasn’t it?\\rI’m the one who dropped it...but I\\nwant you to keep it.\\fYou put in the work, right?\\rIt’s Beam Me Up.\\nHave fun climbin’ waterfalls!\\rMe?\\rI need new shoes before I\\ncan enjoy no waterfalls."
   },
   "msg_0129_D44R0102": {
     "3": "That’s Dragon Beam.\\rWell, Dragon Beam is like... er...\\nnever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r",
-    "5": "What’s the matter?\\nIf you headed to the Big\\fLeague, go back to New Bark Town\\fand Hydrant Wave along Route 27.\\rYour face...tellin’ me you got\\nsome unfinished business...\\rC’mon!\\rWhatever you gotta face now,\\ndon’t you DARE give up!\\rIf you do, I’ma feel even worse\\nabout losin’ to you!\\fGive it everythin’.\\r"
+    "5": "What’s the matter?\\nIf you headed to the Big\\fLeague, go back to New Bark Town\\fand Ride Da Wave along Route 27.\\rYour face...tellin’ me you got\\nsome unfinished business...\\rC’mon!\\rWhatever you gotta face now,\\ndon’t you DARE give up!\\rIf you do, I’ma feel even worse\\nabout losin’ to you!\\fGive it everythin’.\\r"
   },
   "msg_0136_D48R0101": {
-    "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Wall Climb\\nAND Hydrant Wave.\\r"
+    "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Wall Climb\\nAND Ride Da Wave.\\r"
   },
   "msg_0168": {
     "42": "No. of Go Out Loud used",
@@ -290,7 +290,7 @@
     "1242": "The Lucky Charm shielded the opp\\nfrom critical hits!"
   },
   "msg_0211": {
-    "1": "{STRVAR_1 0, 0, 0} used Shank!\\r",
+    "1": "{STRVAR_1 0, 0, 0} used Box Cutter!\\r",
     "3": "This rock appears to be breakable.\\nWould you like to use Smash n Grab? {YESNO 0}",
     "5": "{STRVAR_1 0, 0, 0} used Smash n Grab!\\r",
     "7": "It’s a big boulder, but a Pokémon\\nmay be able to push it aside.\\rWould you like to use Muscle? {YESNO 0}",
@@ -298,19 +298,19 @@
     "10": "Muscle made it possible to move\\nboulders around.",
     "11": "{STRVAR_1 0, 0, 0} used Muscle!\\r",
     "12": "{STRVAR_1 0, 0, 0}’s Muscle made it\\npossible to move boulders around!",
-    "15": "{STRVAR_1 0, 0, 0} used Hydrant Wave!\\r",
-    "16": "Hydrant Wave can’t be used if you\\nhave someone with you.",
+    "15": "{STRVAR_1 0, 0, 0} used Ride Da Wave!\\r",
+    "16": "Ride Da Wave can’t be used if you\\nhave someone with you.",
     "17": "A deep fog drapes the area...\\nWould you like to use Clear Air? {YESNO 0}",
     "18": "{STRVAR_1 0, 0, 0} used Clear Air!\\r",
     "20": "The wall is very rocky...\\nWould you like to use Wall Climb? {YESNO 0}",
     "21": "{STRVAR_1 0, 0, 0} used Wall Climb!\\r",
     "23": "Wall Climb can’t be used if you have\\nsomeone with you.",
-    "24": "It’s a large waterfall.\\nWould you like to use Wet Ya Up? {YESNO 0}",
-    "25": "{STRVAR_1 0, 0, 0} used Wet Ya Up.\\r",
+    "24": "It’s a large waterfall.\\nWould you like to use Beam Me Up? {YESNO 0}",
+    "25": "{STRVAR_1 0, 0, 0} used Beam Me Up.\\r",
     "27": "Dip Out to {STRVAR_1 4, 0, 0}, the last\\nplace you or your Pokémon rested?",
     "28": "{STRVAR_1 0, 0, 0} used Flashbang!\\r",
-    "29": "It’s a huge swirl of water.\\nWould you like to use Jacuzzi? {YESNO 0}",
-    "30": "{STRVAR_1 0, 0, 0} used Jacuzzi.\\r",
+    "29": "It’s a huge swirl of water.\\nWould you like to use Flush It? {YESNO 0}",
+    "30": "{STRVAR_1 0, 0, 0} used Flush It.\\r",
     "32": "It’s a moderately sized tree.\\nWould you like to use Dome Check? {YESNO 0}",
     "33": "{STRVAR_1 0, 0, 0} used Dome Check.\\r"
   },
@@ -360,13 +360,13 @@
     "6": "It’s got Stink Bomb!\\rIt hit ’em AND sometimes\\npoisons ’em.\\fSee!\\rDon’t that make you feel\\nuncomfortable too?"
   },
   "msg_0413": {
-    "21": "West: Eek! East! H-help!\\nNarrator: The young couple came to\\nthe Lake of Rage. West accidentally sat\\non a GYARADOS, which is now swimmin’\\naround the lake with West on its back!\\nEast: Oh no! West! I can’t swim! And I\\nain’t got no homies that know\\nHydrant Wave!\\nNarrator: The GYARADOS West\\nridin’ on ain’t listenin’ to\\nNOTHIN’ East sayin’!\\nIt’s crashin’ through the waves on\\nthe lake!\\nThe Serial Radio Drama: Waves of Love!\\nTheir love gon’ last forever!"
+    "21": "West: Eek! East! H-help!\\nNarrator: The young couple came to\\nthe Lake of Rage. West accidentally sat\\non a GYARADOS, which is now swimmin’\\naround the lake with West on its back!\\nEast: Oh no! West! I can’t swim! And I\\nain’t got no homies that know\\nRide Da Wave!\\nNarrator: The GYARADOS West\\nridin’ on ain’t listenin’ to\\nNOTHIN’ East sayin’!\\nIt’s crashin’ through the waves on\\nthe lake!\\nThe Serial Radio Drama: Waves of Love!\\nTheir love gon’ last forever!"
   },
   "msg_0419": {
-    "4": "At the end of the day, our search\\nparty came up empty.\\nThey eventually had to leave the deep\\ndark Union Cave.\\n“If only we had Flashbang!” the leader\\ncried.\\nTune in next time for the crazy\\nconclusion of the special,\\n“The Cave That Went Pitch Black”!"
+    "4": "At the end of the day, our search\\nparty came up empty.\\nThey had to leave the deep dark\\nUnion Cave. They also lost Gary.\\n“If only we had Flashbang!” the leader\\ncried. Gary is still in there.\\nTune in next time for the crazy\\nconclusion, “The Cave That Went Black”!"
   },
   "msg_0430": {
-    "48": "You can place it using Hydrant Wave.\\nThe Pokémon by the\\nwater seem to like it."
+    "48": "You can place it using Ride Da Wave.\\nThe Pokémon by the\\nwater seem to like it."
   },
   "msg_0451_T01R0301": {
     "56": "Professor Oak: That Hidden Machine\\ngot the move Wall Climb!\\rWhen you teach it to a homie,\\nyou can climb rock walls that got\\fsteps carved in ’em.\\r",
@@ -422,7 +422,7 @@
     "16": "If your homie passed out, it can\\nonly use moves like Dream Talk and\\fLoud Snore.\\rA passed-out homie don’t wake up\\nafter the scrap.\\fWake it up with a Red Bull.\\r"
   },
   "msg_0567_T23GYM0102": {
-    "3": "Bugsy: You know what the\\nHive Chain do?\\rWith it, homies up to Lv. 30\\nlisten to you, even traded ones.\\rHomies that know Shank can use\\nit outside of battle too.\\rHere, I want you to have this too.\\r",
+    "3": "Bugsy: You know what the\\nHive Chain do?\\rWith it, homies up to Lv. 30\\nlisten to you, even traded ones.\\rHomies that know Box Cutter can use\\nit outside of battle too.\\rHere, I want you to have this too.\\r",
     "5": "Bugsy: TM89 is U-Turn.\\rYour homie hit ’em, then tag\\nout with the next homie\\fin your crew.\\rAin’t that hard?"
   },
   "msg_0572_T24": {
@@ -447,24 +447,24 @@
     "0": "You! How your homie trainin’ comin’?\\rYou ever notice big round boulders in\\nthe mountains right in your way?\\rMove ’em with Muscle!\\rOld Heads at Mt. Mortar got extra,\\nor so I heard. They got everythin’."
   },
   "msg_0612_T27": {
-    "10": "Go west from this city and you\\nhit a port called Olivine City.\\rWhen your homie learn Hydrant Wave,\\nyou can hit the ocean from\\fRoute 40 without no boat!"
+    "10": "Go west from this city and you\\nhit a port called Olivine City.\\rWhen your homie learn Ride Da Wave,\\nyou can hit the ocean from\\fRoute 40 without no boat!"
   },
   "msg_0614_T27GYM0101": {
-    "3": "Morty: With the Fog Chain,\\nhomies up to Lv. 50, even traded\\fones, listen to you.\\rAnd your homies can use\\nHydrant Wave.\\rOne more thing...\\nI want you to have this too.\\r",
+    "3": "Morty: With the Fog Chain,\\nhomies up to Lv. 50, even traded\\fones, listen to you.\\rAnd your homies can use\\nRide Da Wave.\\rOne more thing...\\nI want you to have this too.\\r",
     "5": "Morty: It’s Magic 8-Ball. It hit\\nand might drop Special Defense.\\fUse it if you feel it."
   },
   "msg_0618_T27R0501": {
-    "28": "That’s Hydrant Wave.\\nIt let homies swim\\facross water easy.\\r"
+    "28": "That’s Ride Da Wave.\\nIt let homies swim\\facross water easy.\\r"
   },
   "msg_0622_T28GYM0101": {
-    "3": "Pryce: That Chain raise your\\nhomies’ Special stats.\\rIt also let your homies use\\nJacuzzi to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
+    "3": "Pryce: That Chain raise your\\nhomies’ Special stats.\\rIt also let your homies use\\nFlush It to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
     "4": "Pryce: That TM is Ice Storm.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice."
   },
   "msg_0631_T30GYM0101": {
     "7": "Clair: That’s Dragon Beam.\\rWell, Dragon Beam is like...umm...\\nNever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r"
   },
   "msg_0666": {
-    "50": "If you Dome Check a tree, sometimes\\na homie might fall out!\\r"
+    "50": "If you Dome Check a tree, sometimes a\\nhomie might fall out!\\fOn your head. Wear a helmet.\\r"
   },
   "msg_0691": {
     "24": "I heard, I heard!\\rYou got a Magnet Train Pass!\\rWhen I saw you leavin’ on the ship, I\\nwas sad I wouldn’t see\\fyou for a while.\\rBut since you got that Pass, you can\\nzip back anytime!\\fThat’s a relief!\\rWhat? You can Catch Flight back\\nanytime?\\rWhat’s that?\\rCall you later!",
@@ -481,11 +481,11 @@
     "18": "You know...?\\rRock, Ground, and Steel types\\ncan’t get hurt by Dust Up."
   },
   "msg_0724": {
-    "102": "Do the monster Moon Punch!\\nIt’s my catchphrase!",
-    "103": "My Moon Punch goes to your heart!\\r"
+    "102": "Do the MONSTER Moon Punch!\\nIt’s my catchphrase!",
+    "103": "My Moon Punch go straight to\\nyour heart!\\r"
   },
   "msg_0744_W40": {
-    "16": "I see... No Hydrant Wave yet...\\nThis just between you and me...\\rA man in Ecruteak gave me\\nHydrant Wave. Bet he still there.\\rWhy don’t you go check?\\r",
-    "17": "This just between you and me.\\fA man in Ecruteak gave me\\nHydrant Wave. Bet he still there.\\rWhy don’t you go check?"
+    "16": "I see... No Ride Da Wave yet...\\nThis just between you and me...\\rA man in Ecruteak gave me\\nRide Da Wave. Bet he still there.\\rWhy don’t you go check?\\r",
+    "17": "This just between you and me.\\fA man in Ecruteak gave me\\nRide Da Wave. Bet he still there.\\rWhy don’t you go check?"
   }
 }

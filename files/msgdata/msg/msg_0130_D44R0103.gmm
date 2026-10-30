@@ -130,6 +130,6 @@
 	</row>
 	<row id="msg_0130_D44R0103_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the\nDRATINI you got? {YESNO 0}</language>
+		<language name="English">Give the DRATINI you got\na street name? {YESNO 0}</language>
 	</row>
 </body>

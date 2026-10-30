@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back when you got the heart!</language>
+		<language name="English">Come back when you got the heart!\nOr at least a snack. We hungry.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Also, Eggs can’t get in. Obviously.\r</language>
+		<language name="English">Also, no Eggs. Obviously.\nEggs can’t fight. They just sit there.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0110_D32R0601_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come holla at me when you ready.\r</language>
+		<language name="English">Come holla at me when you ready.\nI’ll be right here. Standin’. Forever.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -138,11 +138,11 @@
 	</row>
 	<row id="msg_0110_D32R0601_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rYou ain’t save before you dipped\nlast time.\rSo that run is DONE. You\ndisqualified. Them the rules!\r</language>
+		<language name="English">AYO!\rYou ain’t save before you dipped\nlast time.\rSo that run is DEAD. You\ndisqualified. Them the rules!\fI don’t make ’em. I just enjoy ’em.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayyy, congrats!\rFor that W, we givin’ you\nthis souvenir print!\r</language>
+		<language name="English">AYYY, congrats!\rFor that W, we givin’ you this\nsouvenir print! Frame it!\fOr don’t. It’s your life.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -186,42 +186,42 @@
 	</row>
 	<row id="msg_0110_D32R0601_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game board is like your life.\rIt go round and round\nas your luck go up and down...\fHow that sound?\rIt almost made sense,\ndidn’t it?</language>
+		<language name="English">The game board is like your life.\rIt go round and round while your\nluck go up and down...\fDeep, right?\rIt ALMOST made sense.\nI’m workin’ on it. I got a podcast.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s some luck in\nscraps...\rThe Battle Arcade remind me of that,\nhard. VERY hard...</language>
+		<language name="English">There’s some luck in scraps...\rThe Battle Arcade remind me of that\nreal hard.\fI lost on a coin flip. Three times.\fSame coin.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you need most here?\nStrength?\fBrains?\fLuck?\fNah. The answer is...bein’ flexible.\fThat’s what my gut tellin’ me.</language>
+		<language name="English">What you need most here?\nStrength?\fBrains?\fLuck?\fNah. The answer is... bein’ flexible.\fI do yoga now. It ain’t helpin’.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what I mean by\n“stop on the spot”?\rIt’s the skill of stoppin’ the\ngame board at the right time!\rBut, remember...\fIf you don’t stop it in 30 seconds,\nit stop by itself.</language>
+		<language name="English">You know “stop on the spot”?\rIt’s the skill of stoppin’ the board\nat the right time!\rBut remember...\fDon’t stop it in 30 seconds, it stop\fby itself. Like my last relationship.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I thought I was locked in with my\nbest homies, but I had to swap ’em\fand use the other guy’s instead!\fI gotta rethink my whole game plan.</language>
+		<language name="English">I thought I was locked in with my\nday-one homies...\fThen the board made me swap ’em for\fthe opp’s homies!\fNow I’m scrappin’ with strangers.\fThey don’t even know my name.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I picked homies that hit hard.\fBut the other guy went for speed!\rNext time, I’mma run homies\nthat’s FAST.</language>
+		<language name="English">I picked homies that hit HARD.\fBut the other guy went for SPEED!\rI ain’t land one hit.\nNext time I’m runnin’ FAST homies.\fAnd new shoes. For me.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Stop on the spot” skills\ngot advantages!\rBut there’s a lotta fun in lettin’\nluck decide... Like a scratch-off.</language>
+		<language name="English">“Stop on the spot” skills got\nadvantages!\rBut there’s a lotta fun in lettin’\nluck decide...\fLike a scratch-off.\fI got 400 scratch-offs in my car.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game board show better options\nthe more you win...\rCould this board be ALIVE...?</language>
+		<language name="English">The game board show better options\nthe more you win...\rIs this board... ALIVE?\nIt’s watchin’ me. I can feel it.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You figure this one out?\rParalysis events here don’t\naffect Ground-type homies.\rTell everybody!</language>
+		<language name="English">You figure this one out?\rParalysis events don’t touch\nGround-type homies!\rTell everybody!\nActually, don’t. Keep it between us.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme tell you somethin’.\rPoison or freeze events can get\nshut down.\r...If the homie’s type or ability\nprotect it from that status.\rMight be worth knowin’!</language>
+		<language name="English">Lemme tell you somethin’.\rPoison or freeze events can get\nshut down...\r...if the homie’s type or ability\nprotect it.\fKnowledge is power. Also free.</language>
 	</row>
 </body>

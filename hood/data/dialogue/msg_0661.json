@@ -1,16 +1,16 @@
 {
   "_comment": "Phone: Day-Care Man.",
-  "1": "Wassup?\\nOh, hello. How you doin'?\\rKids these days just call even when\\nthey right nearby...\\rI'd rather talk face-to-face...",
+  "1": "Wassup?\\nOh, wassup. How you doin'?\\rKids these days call even when they\\nright outside...\\fI'm lookin' at you. Wave.",
   "2": "Wassup?\\nOh, it's you!\\r",
-  "3": "One of the homies we raisin' is\\nholdin' a Egg!\\rBet you wanna know what kinda\\nEgg it is, right? Come get it!",
+  "3": "One of the homies we raisin' is holdin'\\na Egg!\\rWe ain't sure how that happened.\\fWe ain't askin' questions.\\rBet you wanna know what kinda Egg it\\nis, right? Come get it!",
   "4": "We ain't raisin' no homies for you\\nright now...\\r",
   "5": "Your {STRVAR_1 0, 10, 0} doin' just fine.\\r",
   "6": "Your {STRVAR_1 0, 10, 0} and {STRVAR_1 0, 11, 0}\\nis doin' just fine.\\r",
-  "7": "Them two get along real good.\\r",
+  "7": "Them two get along REAL good.\\fLike, a lil too good.\\r",
   "8": "Them two get along.\\r",
-  "9": "Them two don't really like each\\nother much.\\r",
-  "10": "Them two rather do their own thing\\nthan hang with each other...\\r",
-  "11": "Stop by anytime, you hear?",
-  "12": "Wassup? It's me, the Day-Care Man.\\rWe was raisin' your homies,\\nand my goodness, was we surprised!\\rYour homie was holdin' a Egg!\\rWe don't know how it got there,\\nbut your homie had it. Don't ask us.\\rBet you wanna know what kinda\\nEgg it is, right? Come get it!",
+  "9": "Them two don't deadass like each other.\\nThey on opposite sides of the yard.\\r",
+  "10": "Them two rather do their own thing than\\nhang with each other...\\fLike me and my wife on Sundays.\\r",
+  "11": "Stop by anytime, you hear?\\nBring snacks. For us.",
+  "12": "Wassup? It's me, the Day-Care Man.\\rWe was raisin' your homies, and my\\ngoodness, was we SURPRISED!\\rYour homie was holdin' a EGG!\\rWe don't know how it got there.\\nWe was watchin' TV. Don't ask us.\\rBet you wanna know what kinda Egg it\\nis, right? Come get it!",
   "13": "Wassup? It's me, the Day-Care Man.\\rYour homie holdin' a Egg!\\rBet you wanna know what kinda\\nEgg it is, right? Come get it!"
 }

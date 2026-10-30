@@ -6,19 +6,19 @@
 	</row>
 	<row id="msg_0646_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rCall back from somewhere else!\fMy plants is blockin’ the signal.</language>
 	</row>
 	<row id="msg_0646_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, hiya, what’s good?\fThings sweet over here!\r</language>
+		<language name="English">Wassup...\nOh, hiya, what’s good?\fThings sweet over here!\fI’m talkin’ to my ferns.\r</language>
 	</row>
 	<row id="msg_0646_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a lotta Block Bosses who\nway stronger than me.\fWe both gotta work harder!</language>
+		<language name="English">There’s a lotta Block Bosses way\nstronger than me.\fWe both gotta work harder!\fAfter my nap.</language>
 	</row>
 	<row id="msg_0646_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My schedule pretty open Sunday\nmornings.\rTry callin’ me then, OK?</language>
+		<language name="English">My schedule pretty open Sunday\nmornings.\rTry callin’ me then, OK?\nI’ll be waterin’. Talk to me\fwhile I water.</language>
 	</row>
 	<row id="msg_0646_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,38 +26,38 @@
 	</row>
 	<row id="msg_0646_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay, I’m happy! I got somethin’ else\nto look forward to now.\rI’ll be waitin’ at the Saffron Dojo.</language>
+		<language name="English">Yay, I’m happy! I got somethin’ to look\nforward to now.\rI’ll be waitin’ at the Saffron Dojo.\nI’ll bring a plant. For the vibes.</language>
 	</row>
 	<row id="msg_0646_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see...</language>
+		<language name="English">Oh, I see...\nMy cactus is disappointed in you.</language>
 	</row>
 	<row id="msg_0646_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, didn’t you already make enough\fother plans before you called?</language>
+		<language name="English">Huh?\nWait, didn’t you already make other\fplans before you called?\fYou overcommit. Like a vine.</language>
 	</row>
 	<row id="msg_0646_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waitin’ at the Saffron Dojo.\nDon’t forget!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\nDon’t forget! I’ll be sleep if you\flate. Wake me up gently.</language>
 	</row>
 	<row id="msg_0646_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Erika.\nHow you doin’?\r</language>
+		<language name="English">This Erika. How you doin’? Speak softly.\nThe plants is sleepin’.\r</language>
 	</row>
 	<row id="msg_0646_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ at the Saffron Dojo...\fYou ain’t forget, did you?</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo...\fYou ain’t forget, did you?\fI dozed off twice already.</language>
 	</row>
 	<row id="msg_0646_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You like plants?\nPlants is so delicate.\rHow much water,\nthe soil,\fthe temperature,\fthe weather...\fAll them lil things we don’t think\fabout can have a HUGE effect.\fI’m talkin’ ’bout flowers. Mostly.</language>
+		<language name="English">You like plants?\nPlants is so delicate.\rHow much water,\nthe soil,\fthe temperature,\fthe weather...\fAll them lil things can have a HUGE\feffect.\fI’m talkin’ ’bout flowers. Mostly.\fMostly flowers.</language>
 	</row>
 	<row id="msg_0646_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You like tellin’ fortunes?\rMe...\nI don’t deadass like the kind where you\fpull petals off flowers...\rOh, but it ain’t that I don’t like the\nfortune-teller in Lavender Town.</language>
+		<language name="English">You like tellin’ fortunes?\rMe... I don’t like the kind where you\npull petals off flowers.\fTHAT’S VIOLENCE.\rOh, but I ain’t knockin’ the\nfortune-teller in Lavender Town.</language>
 	</row>
 	<row id="msg_0646_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you do on your days off?\rI like to tend the plants in my\nBlock, transplantin’ ’em and dustin’\fthe flowers and leaves with a brush.\fIt keep me pretty busy...</language>
+		<language name="English">What you do on your days off?\rI tend the plants in my Block, re-pot\n’em, and dust the leaves with a lil\fbrush.\rI also read ’em bedtime stories.\nIt keep me pretty busy...</language>
 	</row>
 </body>

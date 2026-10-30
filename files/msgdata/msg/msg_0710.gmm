@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0710_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\rDon’t trip. I’ll stop breathin’ fire\nwhile we on the phone...\fso gimme a call sometime!</language>
+		<language name="English">AIGHT!\rDon’t trip. I’ll stop breathin’ fire\nwhile we on the phone...\fI melted my last two phones.\fSo call me sometime!</language>
 	</row>
 	<row id="msg_0710_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew us Firebreathers wasn’t\nexactly popular...</language>
+		<language name="English">I knew us Firebreathers wasn’t exactly\npopular... No eyebrows. It’s a look.</language>
 	</row>
 	<row id="msg_0710_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0710_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s aight.\nI promise I won’t burn you, so you can\fcome talk to me in person.</language>
+		<language name="English">It’s aight.\nI promise I won’t burn you, so you can\fcome talk in person.\fStand a lil back though.</language>
 	</row>
 	<row id="msg_0710_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, a lotta people\nget it twisted.\rMight look like us Firebreathers use\nfire to scare our homies while\ftrainin’ ’em.\rBut that ain’t it at all!\nWe just train our homies normal!\fAin’t that right, {STRVAR_1 0, 10, 0}?\rBreathin’ fire just a hobby!</language>
+		<language name="English">A lotta people get it twisted.\rLook like us Firebreathers use fire to\nscare our homies while trainin’.\rThat ain’t it AT ALL!\nWe train our homies normal!\fAin’t that right, {STRVAR_1 0, 10, 0}?\rBreathin’ fire is just a HOBBY!\nLike knittin’. But hotter.</language>
 	</row>
 	<row id="msg_0710_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0710_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how there’s SO many\ndifferent types of homies, right?\rEvery type got good points and bad\npoints, so it ain’t easy to say which\ftype is the best.\rHowever...\rMy pick GOTTA be Fire!\fBuoahhhbobobo!!</language>
+		<language name="English">There’s SO many different types of\nhomies, right?\rEvery type got good points and bad\npoints, so it ain’t easy to say which\ftype is best.\rHowever...\rMy pick GOTTA be Fire!\fBUOAHHHBOBOBO!!\f...Sorry. Was that your curtains?</language>
 	</row>
 	<row id="msg_0710_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

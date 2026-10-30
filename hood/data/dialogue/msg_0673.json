@@ -1,14 +1,14 @@
 {
   "_comment": "Phone: Torin (schoolkid).",
-  "1": "You know, I'm finna practice a whole\\nbunch so we can scrap again next\\ftime we meet.\\rThat's right! Gimme your phone\\nnumber so I can call you! {YESNO 0}",
-  "2": "Aight, you saved!\\nLater!",
-  "3": "That's too bad...",
-  "4": "Ayo! You REALLY wanna swap\\nnumbers with me, don't you? {YESNO 0}",
-  "5": "Huh?\\nI can hear a windmill...\\rThat mean you nearby,\\nain't you?\\rSo come talk for real!",
-  "6": "My {STRVAR_1 0, 10, 0} go HARD!\\rEverything I learn at school, it help\\nme repeat it right away.\\rYour homies listen to what you say?",
-  "7": "Yesterday we scrapped a {STRVAR_1 0, 11, 0}!\\rWe practiced all the stuff I learned\\nin school!\\rWhere you go to school?\\nFr, you don't go to my school?\\fThat can't be true, can it?",
-  "8": "Recently I was tryna catch a\\n{STRVAR_1 0, 11, 0}, but it dipped!\\fSO disappointin'!\\rSo I don't forget how disappointin'\\nit was, I'm writin' the name of the\\fhomie that got away in my notebook.\\rThere's homie names ALL over\\nmy notebook!",
-  "9": "Ayo, come scrap me again.\\nI'll be waitin' at {STRVAR_1 4, 3, 0}!",
-  "10": "Wassup? I'm at {STRVAR_1 4, 3, 0}. We\\nwas finna scrap, wasn't we?\\fHurry up!",
-  "11": "Huh? The only time you ever see me is\\nwhen I'm walkin' home from school?\\rI guess you right...\\rBut when I'm walkin' TO school, I'm\\nalways rushin' so I ain't late.\\rI ain't got no time for\\nscraps then!"
+  "1": "I'm finna practice a WHOLE bunch so we\\ncan scrap again next time.\\rGimme your number so I can call you!\\fI'll call after homework. Maybe. {YESNO 0}",
+  "2": "Aight, you saved!\\nLater! I got a quiz tomorrow.",
+  "3": "That's too bad...\\nI'm tellin' my teacher.",
+  "4": "Ayo! You REALLY wanna swap numbers\\nwith me, don't you? {YESNO 0}",
+  "5": "Huh?\\nI can hear a windmill...\\rThat mean you nearby, ain't you?\\nCome talk for real! Recess is short!",
+  "6": "My {STRVAR_1 0, 10, 0} go HARD!\\rEverything I learn at school, it\\nrepeat it right away.\\fIncludin' the bad words. Mom's mad.\\rYour homies listen to what you say?",
+  "7": "Yesterday we scrapped a {STRVAR_1 0, 11, 0}!\\rWe practiced all the stuff I learned\\nin school!\\rWhere you go to school?\\nYou don't go to MY school?\\fThere's other schools?!",
+  "8": "I was tryna catch a {STRVAR_1 0, 11, 0}, but it\\ndipped! SO disappointin'!\\rSo I don't forget, I write the name of\\nevery homie that got away in my\\fnotebook.\\rThere's homie names ALL over my\\nnotebook! My math notes is GONE.",
+  "9": "Ayo, come scrap me again.\\nI'll be waitin' at {STRVAR_1 4, 3, 0}!\\fAfter school. I mean it.",
+  "10": "Wassup? I'm at {STRVAR_1 4, 3, 0}. We was finna\\nscrap, wasn't we?\\fHurry up! Bedtime is 8!",
+  "11": "Huh? The only time you see me is when\\nI'm walkin' HOME from school?\\rWhen I'm walkin' TO school, I'm always\\nrushin' so I ain't late.\\rI ain't got time for scraps then!\\fI'm late anyway. Every day."
 }

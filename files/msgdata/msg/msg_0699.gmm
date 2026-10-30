@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0699_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see... Well, that’s fine by me.\nI always got my mountain!</language>
+		<language name="English">I see... Well, that’s fine by me.\nI always got my mountain!\fThe mountain never rejects me.</language>
 	</row>
 	<row id="msg_0699_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,15 +26,15 @@
 	</row>
 	<row id="msg_0699_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Homies take a likin’ to us\nnature-lovin’ Hikers easy!\rNah, nah, it ain’t just in my head!\nI got proof! Fr, my\f{STRVAR_1 0, 10, 0} NEVER disobey me!</language>
+		<language name="English">Homies take a likin’ to us nature-lovin’\nHikers easy!\rNah, nah, it ain’t in my head!\nI got PROOF! My {STRVAR_1 0, 10, 0}\fNEVER disobey me!\fIt’s afraid of me. Same thing.</language>
 	</row>
 	<row id="msg_0699_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, listen up!\rYesterday, I ran into a wild\n{STRVAR_1 0, 11, 0}! Just out in nature!\rOf course, my homies was in top form\nfor the scrap. It was great.\fIt all happened so natural!\rHow do I describe this wonderful\nfeelin’... How do I put it into words?\fWell, for now, how ’bout...\rHOOOORAY!</language>
+		<language name="English">Ayo, listen up!\rYesterday I ran into a wild {STRVAR_1 0, 11, 0}!\nJust out in nature!\rMy homies was in top form. It all\nhappened so NATURAL!\rHow do I describe this feelin’...\nHow do I put it into words?\fWell, for now...\rHOOOORAY!</language>
 	</row>
 	<row id="msg_0699_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A few days ago, hikin’ in the\nmountains, a wild {STRVAR_1 0, 11, 0}\fjumped out at me outta nowhere.\rI wasn’t ready AT ALL,\nand it dipped.\rThey say us Hikers bet our life on\nbein’ ready for anythin’, so I gotta\fcount this as a L as a Hiker!</language>
+		<language name="English">A few days ago, hikin’, a wild\n{STRVAR_1 0, 11, 0} jumped out at me!\rI wasn’t ready AT ALL, and it dipped.\rHikers bet our LIFE on bein’ ready, so\nI gotta count this as a L.\fI’m takin’ a nap on a rock to recover.</language>
 	</row>
 	<row id="msg_0699_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0699_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right... I’m on this mountain\nbasically the whole year...\rBaths?\rAin’t no such thing on a mountain!\rInstead, I just find a flowin’\nriver, and wash off in that.\rThat’s right! A few days ago, when\nI was bathin’ in the river, somebody\fthought I was a Swimmer♂!</language>
+		<language name="English">That’s right... I’m on this mountain\nbasically the whole year...\rBaths?\rAin’t no such thing on a mountain!\rI just find a river and wash off.\rA few days ago, when I was bathin’ in\nthe river, somebody thought I was a\fSwimmer♂!\fThey gave me a medal. I kept it.</language>
 	</row>
 </body>

@@ -326,7 +326,7 @@
 	</row>
 	<row id="msg_0191_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL CAPSULES</language>
+		<language name="English">SACK PATCHES</language>
 	</row>
 	<row id="msg_0191_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -355,7 +355,7 @@
 	</row>
 	<row id="msg_0191_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of the Pokémon Storage\nSystem.</language>
+		<language name="English">Log outta the Pokémon Storage\nSystem.</language>
 	</row>
 	<row id="msg_0191_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -363,11 +363,11 @@
 	</row>
 	<row id="msg_0191_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may set or edit Capsules for\ndecorating Hood Balls.</language>
+		<language name="English">You may set or edit Capsules for\ndecoratin’ Nap Sacks.</language>
 	</row>
 	<row id="msg_0191_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of your PC.</language>
+		<language name="English">Log outta your PC.</language>
 	</row>
 	<row id="msg_0191_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
@@ -1765,27 +1765,27 @@
 	</row>
 	<row id="msg_0191_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Attack gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes Attack gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Defense gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes Defense gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Sp. Atk gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes Sp. Atk gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Sp. Def gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes Sp. Def gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Speed gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes Speed gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes HP gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Promotes HP gain on levelin’, but\nreduces the Speed stat.</language>
 	</row>
 	<row id="msg_0191_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
@@ -1809,11 +1809,11 @@
 	</row>
 	<row id="msg_0191_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This headband ups Attack but allows\nthe use of only one kind of move.</language>
+		<language name="English">This headband ups Attack but allows\nthe use of only one kinda move.</language>
 	</row>
 	<row id="msg_0191_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The holder may endure a potential KO\nattack, leaving it with just 1 HP.</language>
+		<language name="English">The holder may endure a potential KO\nattack, leavin’ it with just 1 HP.</language>
 	</row>
 	<row id="msg_0191_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
@@ -1825,11 +1825,11 @@
 	</row>
 	<row id="msg_0191_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With full HP, the holder will endure\none potential KO attack, leaving 1 HP.</language>
+		<language name="English">With full HP, the holder will endure\none potential KO attack, leavin’ 1 HP.</language>
 	</row>
 	<row id="msg_0191_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Speed, but allows the use of\nonly one kind of move.</language>
+		<language name="English">Boosts Speed, but allows the use of\nonly one kinda move.</language>
 	</row>
 	<row id="msg_0191_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
@@ -1849,11 +1849,11 @@
 	</row>
 	<row id="msg_0191_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After attacking, the user rushes back\nto switch places with a party Pokémon.</language>
+		<language name="English">After attackin’, the user rushes back\nto switch places with a party Pokémon.</language>
 	</row>
 	<row id="msg_0191_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user slashes at the foe by crossing\nits claws as if they were scissors.</language>
+		<language name="English">The user slashes at the foe by crossin’\nits claws as if they were scissors.</language>
 	</row>
 	<row id="msg_0191_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
@@ -1877,7 +1877,7 @@
 	</row>
 	<row id="msg_0191_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is attacked with a shock wave\ngenerated by the user’s gaping mouth.</language>
+		<language name="English">The foe is attacked with a shock wave\ngenerated by the user’s gapin’ mouth.</language>
 	</row>
 	<row id="msg_0191_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
@@ -1897,7 +1897,7 @@
 	</row>
 	<row id="msg_0191_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user tenses up its body, boosting\nboth its Attack and Defense stats.</language>
+		<language name="English">The user tenses up its body, boostin’\nboth its Attack and Defense stats.</language>
 	</row>
 	<row id="msg_0191_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
@@ -2041,7 +2041,7 @@
 	</row>
 	<row id="msg_0191_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It extends the time ripened Berries\nremain on their plants before falling.</language>
+		<language name="English">It extends the time ripened Berries\nremain on their plants before fallin’.</language>
 	</row>
 	<row id="msg_0191_00472" index="472">
 		<attribute name="window_context_name">used</attribute>

@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0689_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I’m readin’ and walkin’,\nI gotta look down, so I notice stuff\fon the ground.\rNext time I find somethin’, I’ll give\nit to you.\rCan I get your number? {YESNO 0}</language>
+		<language name="English">I read while I walk, so I look down\nand notice stuff on the ground.\fI also walk into poles.\rNext time I find somethin’, it’s yours.\nCan I get your number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0689_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll call you as soon as I find\nsomethin’. Bet on it!</language>
+		<language name="English">I’ll call you as soon as I find\nsomethin’. The odds is 73% in my favor.</language>
 	</row>
 	<row id="msg_0689_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I thought it’d be a nice\nbreak to call you while I study...</language>
+		<language name="English">Oh... I thought it’d be a nice study\nbreak to call you...\fI’ll just do calculus. Alone.</language>
 	</row>
 	<row id="msg_0689_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0689_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This, this! This yours! Ta-da!\r</language>
+		<language name="English">This, this! This yours! Ta-da! Found it\nby a pole. I walked into the pole.\r</language>
 	</row>
 	<row id="msg_0689_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait. Don’t tell me you right nearby?\rYou ain’t notice ’cause you was\ntoo busy lookin’ at the ground too?</language>
+		<language name="English">Huh? Wait. Don’t tell me you right\nnearby?\rYou ain’t notice ’cause you was lookin’\nat the ground too? Welcome to the\fclub.</language>
 	</row>
 	<row id="msg_0689_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ stronger,\nexactly like I calculated!\rBy the way, we knocked out a wild\n{STRVAR_1 0, 11, 0} just the other day.\rStudyin’ ahead of time worked!\rLater!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ stronger,\nEXACTLY like I calculated!\rWe knocked out a wild {STRVAR_1 0, 11, 0} just\nthe other day.\rStudyin’ ahead of time WORKED!\fMy spreadsheet is beautiful.\rLater!</language>
 	</row>
 	<row id="msg_0689_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ stronger,\nexactly like I calculated!\rBy the way, a wild {STRVAR_1 0, 11, 0} dipped\non me yesterday.\rA math error on my part...\rLater!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ stronger,\nEXACTLY like I calculated!\rBut a wild {STRVAR_1 0, 11, 0} dipped on me\nyesterday.\rA math error on my part...\nI carried the one wrong.\rLater!</language>
 	</row>
 	<row id="msg_0689_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0689_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If we don’t scrap soon, I’mma\nforget my strategy!\rI’m waitin’ on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">If we don’t scrap soon, I’mma forget\nmy strategy!\fIt’s 40 pages.\rI’m waitin’ on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0689_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,6 +54,6 @@
 	</row>
 	<row id="msg_0689_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I gotta do my homework, so can you\ncome get your gift right now?\rI’m waitin’ on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">I gotta do my homework, so can you\ncome get your gift right now?\rI’m waitin’ on {STRVAR_1 4, 3, 0}!\fThe homework is for FUN. I do extra.</language>
 	</row>
 </body>

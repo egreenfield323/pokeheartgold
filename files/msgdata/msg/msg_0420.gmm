@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0420_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Droppin’ a line in the cold water, in\nhopes of catchin’ somethin’ big.\nThe line get yanked. The float drop\nunderwater. What he catch? Some\nlively rubber boots! Poor Fisherman!</language>
+		<language name="English">Droppin’ a line in the cold water, in\nhopes of catchin’ somethin’ big.\nThe line get yanked. The float drop!\nWhat he catch? Some lively rubber\nboots! Again! Third time this week!\nPoor Fisherman!</language>
 	</row>
 	<row id="msg_0420_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0420_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo kid, outta my way! If you hang\naround, I’mma smack you! Move\noutta the way. Outta the way. My Bike\ncomin’ through! It’s SO loud, you’ll\ncover your ears! We line up and block\nthe road. Try to stop us Bikers!</language>
+		<language name="English">Ayo kid, outta my way! If you hang\naround, I’mma... hold the door for\nyou, actually. Move outta the way.\nMy Bike comin’ through! It’s SO loud,\nyou’ll cover your ears! Then we pick\nup our trash. The Bikers!</language>
 	</row>
 	<row id="msg_0420_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

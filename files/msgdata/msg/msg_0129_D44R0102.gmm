@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the matter?\nIf you headed to the Big\fLeague, go back to New Bark Town\fand Hydrant Wave along Route 27.\rYour face...tellin’ me you got\nsome unfinished business...\rC’mon!\rWhatever you gotta face now,\ndon’t you DARE give up!\rIf you do, I’ma feel even worse\nabout losin’ to you!\fGive it everythin’.\r</language>
+		<language name="English">What’s the matter?\nIf you headed to the Big\fLeague, go back to New Bark Town\fand Ride Da Wave along Route 27.\rYour face...tellin’ me you got\nsome unfinished business...\rC’mon!\rWhatever you gotta face now,\ndon’t you DARE give up!\rIf you do, I’ma feel even worse\nabout losin’ to you!\fGive it everythin’.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

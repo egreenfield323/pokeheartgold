@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0405_R45_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 45\nMountain Road Ahead. Leg Day.</language>
+		<language name="English">Rt. 45\nMountain Road. Leg Day.</language>
 	</row>
 	<row id="msg_0405_R45_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

@@ -298,7 +298,7 @@
 	</row>
 	<row id="msg_0168_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Immediate incoming call</language>
+		<language name="English">♡Immediate incomin’ call</language>
 	</row>
 	<row id="msg_0168_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -358,31 +358,31 @@
 	</row>
 	<row id="msg_0168_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Red Apricorn</language>
+		<language name="English">♡Gator Hide</language>
 	</row>
 	<row id="msg_0168_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Blu Apricorn</language>
+		<language name="English">♡Croc Hide</language>
 	</row>
 	<row id="msg_0168_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Ylw Apricorn</language>
+		<language name="English">♡Satin Scrap</language>
 	</row>
 	<row id="msg_0168_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Grn Apricorn</language>
+		<language name="English">♡Suede Scrap</language>
 	</row>
 	<row id="msg_0168_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Pnk Apricorn</language>
+		<language name="English">♡Velvet Scrap</language>
 	</row>
 	<row id="msg_0168_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Wht Apricorn</language>
+		<language name="English">♡Nylon Scrap</language>
 	</row>
 	<row id="msg_0168_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Blk Apricorn</language>
+		<language name="English">♡Denim Scrap</language>
 	</row>
 	<row id="msg_0168_00096" index="96">
 		<attribute name="window_context_name">used</attribute>

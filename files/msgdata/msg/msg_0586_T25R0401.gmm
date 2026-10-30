@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0586_T25R0401_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to\nthe EEVEE you got? {YESNO 0}</language>
+		<language name="English">Give the EEVEE you got\na street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0586_T25R0401_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>

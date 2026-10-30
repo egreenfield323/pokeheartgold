@@ -200,11 +200,11 @@
 	</row>
 	<row id="msg_0451_T01R0301_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna give a nickname to\nthe {STRVAR_1 0, 1, 0} you got? {YESNO 0}</language>
+		<language name="English">Wanna give the {STRVAR_1 0, 1, 0}\nyou got a street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is {STRVAR_1 1, 1, 0} the nickname\nyou want? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 1, 0}? That’s the street\nname you want? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00051" index="51">
 		<attribute name="window_context_name">used</attribute>

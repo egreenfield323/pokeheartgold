@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0121_D38R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the TYROGUE\nyou got? {YESNO 0}</language>
+		<language name="English">Give the TYROGUE you got\na street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0121_D38R0104_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>

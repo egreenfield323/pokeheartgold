@@ -4,10 +4,10 @@
   "2": "If I feel like scrappin' again, I'll\\ndefinitely give you a call!",
   "3": "I see... That's too bad.\\nWell, if you decide you wanna scrap\\fme again, just holla!",
   "4": "You decide you wanna\\nswap numbers after all? {YESNO 0}",
-  "5": "Yup, I can REALLY hear you!\\nThis area open to the sky, so you\\fget a great signal here!",
+  "5": "Yup, I can REALLY hear you!\\nThis area open to the sky, so you get\\fa GREAT signal here!\\fFive bars. I counted. I count stuff.",
   "6": "I'm always with my {STRVAR_1 0, 10, 0}!\\nIt's SO cute! I just love it!\\rSwitchin' topics, I saw this\\n{STRVAR_1 0, 11, 0} for the first time.\\fIt was easy to beat, actually.\\rLet's talk again, huh?",
   "7": "I'm always with my {STRVAR_1 0, 10, 0}!\\nIt's SO cute! I just love it!\\rI was wonderin', you happen to\\nhave {STRVAR_1 0, 11, 0}?\\rI can't seem to catch one. What's\\nits weakness, I wonder.\\rLet's talk again, huh?",
   "8": "Ayo, let's scrap!\\rI'm on {STRVAR_1 4, 3, 0}, so lmk\\nwhen you get here!\\rIf you check the Town Map on your\\nPokégear, you can touch\\f{STRVAR_1 4, 3, 0} and a “!” gon' show up\\fso you won't forget the spot!",
   "9": "Let's scrap. I'll be waitin' on\\n{STRVAR_1 4, 3, 0}!\\rIf you don't know where I'm at, just\\ncheck the Town Map on\\fyour Pokégear!",
-  "10": "If it's for Bug-type homies, I'll go\\nANYWHERE!\\rWell, I say that, but I'm always on\\nRoute 35.\\rBut there's a pond near here, and\\nthere's mad grass, and best of all,\\fit's 28 steps to the National Park.\\fThis spot is FIRE!"
+  "10": "If it's for Bug-type homies, I'll go\\nANYWHERE!\\rWell, I say that, but I'm always on\\nRoute 35.\\rThere's a pond, MAD grass, and best of\\nall, it's 28 steps to the National Park.\\fI counted. Every day. It's still 28.\\fThis spot is FIRE!"
 }

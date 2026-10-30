@@ -1,13 +1,13 @@
 {
   "_comment": "Phone: Day-Care Lady.",
-  "1": "Wassup...\\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\\rWhat's wrong?\\nWhy you callin' when\\fyou right nearby?",
-  "2": "Wassup...\\nOh hello there. Is this {STRVAR_1 3, 0, 0}?\\rWhat's wrong?\\nWhy you callin' when\\fyou right nearby?",
+  "1": "Wassup...\\nOh, wassup there. Is this {STRVAR_1 3, 0, 0}?\\rWhy you callin'? I see you outside.",
+  "2": "Wassup...\\nOh, wassup there. Is this {STRVAR_1 3, 0, 0}?\\rWhy you callin'? I see you outside.",
   "3": "Wassup...\\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\\r",
   "4": "Wassup...\\nOh, hello there. Is this {STRVAR_1 3, 0, 0}?\\r",
-  "5": "Your homies doin' real good.\\r",
+  "5": "Your homies doin' real good.\\nThey ate. They napped. They ate again.\\r",
   "6": "Level-wise, your {STRVAR_1 0, 10, 0}\\ngrew by about {STRVAR_1 52, 11, 0}.\\r",
   "7": "Level-wise, your {STRVAR_1 0, 12, 0}\\ngrew by about {STRVAR_1 52, 13, 0}.\\r",
   "8": "We can raise two of your homies.\\rIf you want us to raise another, stop\\nby anytime.",
-  "9": "You should stop by and check on your\\nhomies sometime.",
+  "9": "You should stop by and check on your\\nhomies sometime.\\fThey ask about you. Kinda.",
   "10": "If you want us to watch your\\nhomies, stop by anytime."
 }

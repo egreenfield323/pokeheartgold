@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0655_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rI already knew it would be.\nCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0655_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nAnything new goin’ on with you?\fI’m the same as usual. I already knew.\r</language>
+		<language name="English">Wassup...\nAnythin’ new goin’ on with you?\fDon’t answer. I already know.\r</language>
 	</row>
 	<row id="msg_0655_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s stronger Block Bosses\nthan me, you know. That’s no good!</language>
+		<language name="English">There’s stronger Block Bosses than me,\nyou know.\fThat’s no good!\fI saw it in a dream. I’m still mad.</language>
 	</row>
 	<row id="msg_0655_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I got some free time on\nSundays around noon.\rCould you call me back then?</language>
+		<language name="English">I think I got some free time on Sundays\naround noon.\rCould you call me back then?\nYou will. I know you will.</language>
 	</row>
 	<row id="msg_0655_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, wonderful!\nI got some free time right now.\rYou wanna scrap again? {YESNO 0}</language>
+		<language name="English">Ah, wonderful!\nI got some free time right now.\rYou wanna scrap again?\nYou gon’ say yes. {YESNO 0}</language>
 	</row>
 	<row id="msg_0655_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it. That’s just like you.\rSo, I’ll see you at\nthe Saffron Dojo then!</language>
+		<language name="English">I knew it. That’s just like you.\rSo, I’ll see you at the Saffron Dojo!\fYou’ll be four minutes late. It’s fine.</language>
 	</row>
 	<row id="msg_0655_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nYou got the right to say no.\fI shouldn’t have got my hopes up.\fBut I’m still a lil disappointed...</language>
+		<language name="English">I see...\nYou got the right to say no.\fI shouldn’t have got my hopes up.\fI knew you’d say no. It still hurt.</language>
 	</row>
 	<row id="msg_0655_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You deadass got free time to\nscrap me?\rIf you got plans with other people,\nyou should do that first.</language>
+		<language name="English">You deadass got free time to scrap me?\rIf you got plans with other people,\nyou should do that first.\fYou know who I mean. I know too.</language>
 	</row>
 	<row id="msg_0655_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waitin’ at the Saffron Dojo.\nDon’t forget!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\nDon’t forget!\fYou won’t. I checked.</language>
 	</row>
 	<row id="msg_0655_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, this Sabrina.\nI knew you’d call.\r</language>
+		<language name="English">Yeah, this Sabrina.\nI knew you’d call.\fI picked up before it rang.\r</language>
 	</row>
 	<row id="msg_0655_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, I’m pretty sure we made plans to\nmeet at the Fighting Dojo in\fSaffron City... You REALLY forgot?</language>
+		<language name="English">So, I’m pretty sure we made plans to\nmeet at the Fighting Dojo in Saffron...\fYou REALLY forgot?\fI didn’t see that comin’. Impressive.</language>
 	</row>
 	<row id="msg_0655_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme tell you a lil about a Psychic’s\ntrainin’.\rPsychic ability is the power to\ninfluence people.\rYou close your eyes and clear your\nmind of extra thoughts...then you look\fhard at your sleepin’ self.\rThat’s it.\rReal Psychics ain’t the kind who\nmove stuff with their minds.\rIt’s about controllin’ your own mind.</language>
+		<language name="English">Lemme tell you about a Psychic’s\ntrainin’.\rPsychic ability is the power to\ninfluence people.\rClose your eyes, clear your mind...\nthen look hard at your sleepin’ self.\rThat’s it.\rReal Psychics don’t move stuff with\ntheir minds.\fI tried. I moved a spoon once.\fOne inch. Took all day.</language>
 	</row>
 	<row id="msg_0655_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You... You gon’ get even stronger\nthan you now, I know it...\rYou gon’ beat every Hustler you face\nand eventually reach the\fglowin’ glory...\rI just wanted to tell you that.\nTalk to you later!</language>
+		<language name="English">You... You gon’ get even stronger than\nyou now. I know it...\rYou gon’ beat every Hustler you face\nand reach the glowin’ glory...\rI just wanted to tell you that.\fAlso, bring an umbrella Thursday.\fTalk to you later!</language>
 	</row>
 	<row id="msg_0655_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You a great Hustler, with a good\nbalance of brains, power, and\fheart.\rBut above all, the power of your heart\nis what’s special.\rWhat you think about honestly tryin’\nto study bein’ a Psychic once?\rBet you could be a better Psychic\nthan me if you tried...</language>
+		<language name="English">You a great Hustler, with a good\nbalance of brains, power, and heart.\rBut above all, your heart is what’s\nspecial.\rYou ever think about studyin’ to be\na Psychic?\fBet you’d be better than me...\fI already know you won’t. But still.</language>
 	</row>
 </body>

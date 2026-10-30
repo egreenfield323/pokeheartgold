@@ -194,7 +194,7 @@
 	</row>
 	<row id="msg_0300_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set this\ncustom Ball?</language>
+		<language name="English">Set this\ncustom sack?</language>
 	</row>
 	<row id="msg_0300_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -252,7 +252,7 @@
 	</row>
 	<row id="msg_0300_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach\n{STRVAR_1 6, 1, 0}?</language>
+		<language name="English">Stop tryna teach\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0300_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
@@ -294,7 +294,7 @@
 	</row>
 	<row id="msg_0300_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisonin’.\r</language>
 	</row>
 	<row id="msg_0300_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
@@ -326,7 +326,7 @@
 	</row>
 	<row id="msg_0300_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} snapped out of its\nconfusion.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} snapped outta its\nconfusion.\r</language>
 	</row>
 	<row id="msg_0300_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -346,7 +346,7 @@
 	</row>
 	<row id="msg_0300_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is already holding\n{STRVAR_1 8, 1, 0}.\rWould you like to switch the\ntwo items?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is already holdin’\n{STRVAR_1 8, 1, 0}.\rWould you like to switch the\ntwo items?</language>
 	</row>
 	<row id="msg_0300_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
@@ -360,7 +360,7 @@
 	</row>
 	<row id="msg_0300_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} ain’t holding\nanything.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ain’t holdin’\nanythin’.\r</language>
 	</row>
 	<row id="msg_0300_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -444,7 +444,7 @@
 	</row>
 	<row id="msg_0300_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re already surfing.\r</language>
+		<language name="English">You already surfin’.\r</language>
 	</row>
 	<row id="msg_0300_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -512,11 +512,11 @@
 	</row>
 	<row id="msg_0300_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is holding an item.\nIt cannot hold Mail.\r</language>
+		<language name="English">This Pokémon is holdin’ an item.\nIt can’t hold Mail.\r</language>
 	</row>
 	<row id="msg_0300_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule was set.\r</language>
+		<language name="English">The Sack Patch was set.\r</language>
 	</row>
 	<row id="msg_0300_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -715,7 +715,7 @@
 	</row>
 	<row id="msg_0300_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Pokémon are holding identical\nitems.\r</language>
+		<language name="English">Some Pokémon are holdin’ identical\nitems.\r</language>
 	</row>
 	<row id="msg_0300_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
@@ -767,11 +767,11 @@
 	</row>
 	<row id="msg_0300_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will be detached.\nWill that be OK?</language>
+		<language name="English">The Sack Patch will be detached.\nWill that be OK?</language>
 	</row>
 	<row id="msg_0300_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t use that when you have\nsomeone with you.\r</language>
+		<language name="English">You can’t use that when you have\nsomebody with you.\r</language>
 	</row>
 	<row id="msg_0300_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
@@ -808,14 +808,14 @@
 	</row>
 	<row id="msg_0300_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cannot hold\n{STRVAR_1 8, 1, 0}!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} can’t hold\n{STRVAR_1 8, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0300_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} cannot be\ngiven here.\r</language>
+		<language name="English">The {STRVAR_1 8, 0, 0} can’t be\ngiven here.\r</language>
 	</row>
 	<row id="msg_0300_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon holding a Soul Dew cannot be\nentered in the GS Cup.\r</language>
+		<language name="English">Pokémon holdin’ a Soul Dew can’t be\nentered in the GS Cup.\r</language>
 	</row>
 </body>

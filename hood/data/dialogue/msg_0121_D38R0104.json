@@ -5,5 +5,5 @@
   "2": "{STRVAR_1 3, 0, 0} got TYROGUE from\\nthe Karate King!",
   "3": "TYROGUE a Fightin' type. It evolve into\\nsomethin' TOUGHER.\\rKeep grindin'. I'll keep trainin' too.\\nFarewell! *kicks rock* *hurts foot* OW.",
   "4": "You ain't got room in your crew!",
-  "5": "Give a nickname to the TYROGUE\\nyou got? {YESNO 0}"
+  "5": "Give the TYROGUE you got\\na street name? {YESNO 0}"
 }

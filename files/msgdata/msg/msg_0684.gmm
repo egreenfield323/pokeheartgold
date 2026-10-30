@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0684_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You hard! I fw you!\nI look for homies here every day.\rWhen I’m in the tall grass, I find all\nkinds of Berries.\rIf you want, I’ll share some.\nCan I get your number? {YESNO 0}</language>
+		<language name="English">You hard! I fw you!\nI look for homies here every day.\rIn the tall grass, I find all kinds\nof Berries.\fAnd ticks. Mostly ticks.\rIf you want, I’ll share some.\nCan I get your number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0684_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You gon’ hear from me as soon as I\nfind somethin’ you might like.</language>
+		<language name="English">You gon’ hear from me as soon as I\nfind somethin’ you’d like.\fBerry-wise.</language>
 	</row>
 	<row id="msg_0684_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0684_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good to see you!\nSee? This what I found.\fIt’s yours!\r</language>
+		<language name="English">Good to see you!\nSee? This what I found.\fIt’s yours! Wash it first.\r</language>
 	</row>
 	<row id="msg_0684_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0684_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homies growin’?\rMine growin’ a lil TOO\nfast for me. It’s a lot!\r{STRVAR_1 0, 10, 0} growin’ extra\nfast. I think it’s gon’ get tough.\rLater!</language>
+		<language name="English">Your homies growin’?\rMine growin’ a lil TOO fast.\nIt outgrew my backpack.\r{STRVAR_1 0, 10, 0} growin’ extra fast.\nI think it’s gon’ get TOUGH.\rLater!</language>
 	</row>
 	<row id="msg_0684_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, we knocked out a wild\n{STRVAR_1 0, 11, 0} with one hit a while back.\rIt went down so easy, I felt\nkinda bad for it.\rLater!</language>
+		<language name="English">We knocked out a wild {STRVAR_1 0, 11, 0} with\none hit a while back.\rIt went down so easy, I felt bad. I\ngave it a Berry. It took two.\rLater!</language>
 	</row>
 	<row id="msg_0684_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, a wild {STRVAR_1 0, 11, 0} got\naway from me at the last second.\rI know it’s a common homie...\rBut it still bug me that it dipped\nwhen I almost had it.\rLater!</language>
+		<language name="English">A wild {STRVAR_1 0, 11, 0} got away from me at\nthe last second.\rI know it’s a common homie...\rBut it still bug me that it dipped. I\nthink about it in the shower.\rLater!</language>
 	</row>
 	<row id="msg_0684_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0684_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Berries?\rMy bad, I ain’t found none yet.\nI’ll call you if I find some.\fCan you wait?</language>
+		<language name="English">Huh? Berries?\rMy bad, I ain’t found none yet. I\nfound a shoe though. You want a\fshoe?\rI’ll call if I find some. Can you\nwait?</language>
 	</row>
 	<row id="msg_0684_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

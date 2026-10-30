@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0543_T20R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}! Finally!\nI been up since... what day is it?\rYou know about my research?\nNo? Good. Don’t tell nobody.\rSee, these days everybody keep\ntheir homies in a Hood Ball.\rBut back in the day, people just\nwalked around WITH their homies.\fLike your lil homie Lyra do!\rHood Balls is great ’cause you can\ncarry a whole crew in your pocket.\rBut walkin’ with ’em? That gotta\ndo somethin’. I can FEEL it.\rMaybe it’s how they grow. Or\nevolve. Or... *scratches arm*\rSo I’ma give you a homie!\rWalk it around outside its\nHood Ball. See if y’all\fbond or whatever. I’ll take\fnotes. I don’t sleep anyway.\rThe machine over there got some\nhomies. Pick one. Quick. QUICK.\r</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}! Finally!\nI been up since... what day is it?\rYou know about my research?\nNo? Good. Don’t tell nobody.\rSee, these days everybody keep\ntheir homies in a Nap Sack.\rBut back in the day, people just\nwalked around WITH their homies.\fLike your lil homie Lyra do!\rNap Sacks is great ’cause you can\ncarry a whole crew in your pocket.\rBut walkin’ with ’em? That gotta\ndo somethin’. I can FEEL it.\rMaybe it’s how they grow. Or\nevolve. Or... *scratches arm*\rSo I’ma give you a homie!\rWalk it around outside its\nNap Sack. See if y’all\fbond or whatever. I’ll take\fnotes. I don’t sleep anyway.\rThe machine over there got some\nhomies. Pick one. Quick. QUICK.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}! Finally!\nI been up since... what day is it?\rYou know about my research?\nNo? Good. Don’t tell nobody.\rSee, these days everybody keep\ntheir homies in a Hood Ball.\rBut back in the day, people just\nwalked around WITH their homies.\fLike your lil homie Ethan do!\rHood Balls is great ’cause you can\ncarry a whole crew in your pocket.\rBut walkin’ with ’em? That gotta\ndo somethin’. I can FEEL it.\rMaybe it’s how they grow. Or\nevolve. Or... *scratches arm*\rSo I’ma give you a homie!\rWalk it around outside its\nHood Ball. See if y’all\fbond or whatever. I’ll take\fnotes. I don’t sleep anyway.\rThe machine over there got some\nhomies. Pick one. Quick. QUICK.\r</language>
+		<language name="English">Professor Elm: {STRVAR_1 3, 0, 0}! Finally!\nI been up since... what day is it?\rYou know about my research?\nNo? Good. Don’t tell nobody.\rSee, these days everybody keep\ntheir homies in a Nap Sack.\rBut back in the day, people just\nwalked around WITH their homies.\fLike your lil homie Ethan do!\rNap Sacks is great ’cause you can\ncarry a whole crew in your pocket.\rBut walkin’ with ’em? That gotta\ndo somethin’. I can FEEL it.\rMaybe it’s how they grow. Or\nevolve. Or... *scratches arm*\rSo I’ma give you a homie!\rWalk it around outside its\nNap Sack. See if y’all\fbond or whatever. I’ll take\fnotes. I don’t sleep anyway.\rThe machine over there got some\nhomies. Pick one. Quick. QUICK.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -250,11 +250,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The OG Ball is the best!\rIt’s the ultimate Hood Ball! It’ll\nrecruit ANY Pokémon. No questions.\rThey only give ’em to real\nresearchers. Like me. Allegedly.\rYou’ll use it better than me,\n{STRVAR_1 3, 0, 0}. I’d sell it.\r</language>
+		<language name="English">The Whole Gang is the best!\rIt’s the ultimate Nap Sack! It’ll\nrecruit ANY Pokémon. No questions.\rThey only give ’em to real\nresearchers. Like me. Allegedly.\rYou’ll use it better than me,\n{STRVAR_1 3, 0, 0}. I’d sell it.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The OG Ball is the best!\rIt’s the ultimate Hood Ball! It’ll\nrecruit ANY Pokémon. No questions.\rThey only give ’em to real\nresearchers. Like me. Allegedly.\rYou’ll use it better than me,\n{STRVAR_1 3, 0, 0}. I’d sell it.\r</language>
+		<language name="English">The Whole Gang is the best!\rIt’s the ultimate Nap Sack! It’ll\nrecruit ANY Pokémon. No questions.\rThey only give ’em to real\nresearchers. Like me. Allegedly.\rYou’ll use it better than me,\n{STRVAR_1 3, 0, 0}. I’d sell it.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>

@@ -1,15 +1,14 @@
 {
   "_comment": "Phone: Ian (schoolkid in shorts).",
-  "1": "Hmm. If you transferred into my class,\\nI'd be the second-best student\\fin my class, wouldn't I?\\rI wanna get stronger before that\\nhappen, so would you swap\\fnumbers with me?\\rThen we can have\\nscraps together! {YESNO 0}",
+  "1": "Hmm. If you transferred into my class,\\nI'd be the SECOND-best student,\\fwouldn't I?\\rI wanna get stronger before that\\nhappens. Swap numbers?\\rThen we can scrap! {YESNO 0}",
   "2": "Dope. I'll hit you when I'm\\nready to scrap again!\\rYou can call me too!",
-  "3": "Wait...don't tell me you serious\\nabout transferrin' to my school?!",
+  "3": "Wait... don't tell me you serious about\\ntransferrin' to my school?!\\fI'll change schools. I'll MOVE.",
   "4": "Hmm. If you transferred into my class,\\nI'd be the second-best student\\fin my class, wouldn't I!\\rBefore that happen, I wanna scrap\\nyou more so I can get WAY\\fstronger! Let's swap numbers.\\rThen we can have\\nscraps together! {YESNO 0}",
-  "5": "Here's somethin' to say thanks\\nfor scrappin' me!\\fHere you go--have a Berry!\\r",
-  "6": "Hm? Wait, where you at?\\nI'm pretty sure you right nearby.\\rIf you gon' come all the way over\\nhere, feel free to walk up!",
-  "7": "You know, I learned a lot from\\nwatchin' you scrap, and I been\\fpracticin' with my {STRVAR_1 0, 10, 0}.\\rThanks to you, we got WAY better!\\rBut even though we got stronger,\\nyou prob'ly got stronger at\\fthe same time, I guess.\\rSo...that mean we still can't\\nbeat you, I guess!",
+  "5": "Here's somethin' to say thanks for\\nscrappin' me!\\fHere you go--have a Berry!\\fIt's from the cafeteria.\\r",
+  "7": "You know, I learned a lot from watchin'\\nyou scrap, and I been practicin' with\\fmy {STRVAR_1 0, 10, 0}.\\rWe got WAY better!\\rBut you prob'ly got stronger too.\\nSo... we still can't beat you!\\fThis is so unfair.",
   "8": "I used tips I got from watchin'\\nyou scrap to take down a wild\\f{STRVAR_1 0, 11, 0} the other day!\\rThanks to you, my homie WAY\\nstronger!\\rIf we get to meet again,\\nI hope you show me more tricks!",
-  "9": "Ayo, ayo, listen up!\\rA few days ago, I was tryna catch a\\nwild {STRVAR_1 0, 11, 0}...\\rIt went down to the wire, but it\\nended up dippin'!\\rI REALLY shoulda had a bunch of\\nHood Balls ready, I know...",
+  "9": "Ayo, ayo, listen up!\\rA few days ago, I was tryna catch a\\nwild {STRVAR_1 0, 11, 0}...\\rIt went down to the wire, but it\\nended up dippin'!\\rI REALLY shoulda had a bunch of\\nNap Sacks ready, I know...",
   "10": "You know, lately I been wantin' to\\nscrap you again... What you say?\\rYou down?\\nI'm waitin' on {STRVAR_1 4, 3, 0}!",
   "11": "Wassup? Didn't we make plans to meet\\non {STRVAR_1 4, 3, 0} for a scrap?\\rNo way you forgot!\\nGet movin', already!",
-  "12": "You know why I'm always in shorts?\\rIt's 'cause they HARD!\\rYou know how, if you scrape your knees\\nand you wearin' shorts, everybody\\fcan see the bandages?\\fIt make me look wild and dangerous!"
+  "12": "You know why I'm ALWAYS in shorts?\\rIt's 'cause they HARD!\\rIf you scrape your knees, everybody can\\nsee the bandages!\\fIt make me look WILD and DANGEROUS!\\fMy mom says I look like I fall a lot."
 }

@@ -1,68 +1,68 @@
 {
   "_comment": "Original item name (as in msg_0222) -> [hood name, plural]. Max 12 chars. Article bank (msg_0223) is regenerated.",
   "Master Ball": [
-    "OG Ball",
-    "OG Balls"
+    "Whole Gang",
+    "Whole Gangs"
   ],
   "Ultra Ball": [
-    "Plug Ball",
-    "Plug Balls"
+    "Rug Roll",
+    "Rug Rolls"
   ],
   "Great Ball": [
-    "Bando Ball",
-    "Bando Balls"
+    "Duffel Bag",
+    "Duffel Bags"
   ],
   "Poké Ball": [
-    "Hood Ball",
-    "Hood Balls"
+    "Nap Sack",
+    "Nap Sacks"
   ],
   "Safari Ball": [
-    "Zoo Ball",
-    "Zoo Balls"
+    "Zoo Sack",
+    "Zoo Sacks"
   ],
   "Net Ball": [
-    "Trap Ball",
-    "Trap Balls"
+    "Trap Sack",
+    "Trap Sacks"
   ],
   "Dive Ball": [
-    "Pool Ball",
-    "Pool Balls"
+    "Pool Sack",
+    "Pool Sacks"
   ],
   "Nest Ball": [
-    "Crib Ball",
-    "Crib Balls"
+    "Crib Sack",
+    "Crib Sacks"
   ],
   "Repeat Ball": [
-    "Re-Up Ball",
-    "Re-Up Balls"
+    "Re-Up Sack",
+    "Re-Up Sacks"
   ],
   "Timer Ball": [
-    "Late Ball",
-    "Late Balls"
+    "Late Sack",
+    "Late Sacks"
   ],
   "Luxury Ball": [
-    "Drip Ball",
-    "Drip Balls"
+    "Drip Sack",
+    "Drip Sacks"
   ],
   "Premier Ball": [
-    "VIP Ball",
-    "VIP Balls"
+    "VIP Sack",
+    "VIP Sacks"
   ],
   "Dusk Ball": [
-    "Night Ball",
-    "Night Balls"
+    "Night Sack",
+    "Night Sacks"
   ],
   "Heal Ball": [
-    "Henny Ball",
-    "Henny Balls"
+    "Henny Sack",
+    "Henny Sacks"
   ],
   "Quick Ball": [
-    "Dash Ball",
-    "Dash Balls"
+    "Dash Sack",
+    "Dash Sacks"
   ],
   "Cherish Ball": [
-    "Day1 Ball",
-    "Day1 Balls"
+    "Day1 Sack",
+    "Day1 Sacks"
   ],
   "Potion": [
     "Hennessy",
@@ -287,5 +287,73 @@
   "Bicycle": [
     "Stolen Bike",
     "Stolen Bikes"
+  ],
+  "Fast Ball": [
+    "Nylon Bag",
+    "Nylon Bags"
+  ],
+  "Level Ball": [
+    "Gator Bag",
+    "Gator Bags"
+  ],
+  "Lure Ball": [
+    "Croc Bag",
+    "Croc Bags"
+  ],
+  "Heavy Ball": [
+    "Denim Bag",
+    "Denim Bags"
+  ],
+  "Love Ball": [
+    "Velvet Bag",
+    "Velvet Bags"
+  ],
+  "Friend Ball": [
+    "Suede Bag",
+    "Suede Bags"
+  ],
+  "Moon Ball": [
+    "Satin Bag",
+    "Satin Bags"
+  ],
+  "Sport Ball": [
+    "Sport Sack",
+    "Sport Sacks"
+  ],
+  "Park Ball": [
+    "Park Sack",
+    "Park Sacks"
+  ],
+  "Red Apricorn": [
+    "Gator Hide",
+    "Gator Hides"
+  ],
+  "Ylw Apricorn": [
+    "Satin Scrap",
+    "Satin Scraps"
+  ],
+  "Blu Apricorn": [
+    "Croc Hide",
+    "Croc Hides"
+  ],
+  "Grn Apricorn": [
+    "Suede Scrap",
+    "Suede Scraps"
+  ],
+  "Pnk Apricorn": [
+    "Velvet Scrap",
+    "Velvet Scraps"
+  ],
+  "Wht Apricorn": [
+    "Nylon Scrap",
+    "Nylon Scraps"
+  ],
+  "Blk Apricorn": [
+    "Denim Scrap",
+    "Denim Scraps"
+  ],
+  "Apricorn Box": [
+    "Stash Box",
+    "Stash Boxes"
   ]
 }

@@ -268,7 +268,7 @@
 	</row>
 	<row id="msg_0040_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname to the\nnewly hatched {STRVAR_1 0, 0, 0}?</language>
+		<language name="English">Wanna give the newly hatched\n{STRVAR_1 0, 0, 0} a street name?</language>
 	</row>
 	<row id="msg_0040_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
@@ -332,7 +332,7 @@
 	</row>
 	<row id="msg_0040_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules can’t be used ’cause\nyou don’t have any Seals.\r</language>
+		<language name="English">Sack Patches can’t be used ’cause\nyou don’t have any Seals.\r</language>
 	</row>
 	<row id="msg_0040_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>

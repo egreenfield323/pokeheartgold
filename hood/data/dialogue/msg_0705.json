@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Gaven (obsessed with beating you).",
   "1": "Sheesh, you tough. I ain't\\nscrapped that serious in a minute.\\rCould I get your number?\\rI'd like to scrap again after I heal\\nmy homies. {YESNO 0}",
-  "2": "How do I beat you? Them thoughts\\nhauntin' me ALL the time...",
+  "2": "How do I beat you? Them thoughts\\nhauntin' me ALL the time...\\fI see your face when I close my eyes.",
   "3": "OK... I get it...\\nBut if you change your mind, holla\\fanytime.",
   "4": "Could I get your number?\\rI'd like to scrap again after I\\nheal my homies. {YESNO 0}",
   "6": "Huh? This voice...\\nYou right nearby, ain't you?\\fLet's talk in person.",
-  "7": "My {STRVAR_1 0, 10, 0} might be greater than\\nI imagined.\\rI doubt I'll see a wild {STRVAR_1 0, 10, 0}\\nthat's better than mine.",
-  "8": "A while back, I tried to catch a wild\\n{STRVAR_1 0, 11, 0}.\\rIt got away.\\rOne wrong move could mean total\\nfailure... You be careful too.",
+  "7": "My {STRVAR_1 0, 10, 0} might be greater than I\\nimagined.\\rI doubt I'll see a wild {STRVAR_1 0, 10, 0} better\\nthan mine.\\fI've looked. For months.",
+  "8": "A while back, I tried to catch a wild\\n{STRVAR_1 0, 11, 0}.\\rIt got away.\\rOne wrong move could mean TOTAL\\nfailure... You be careful too.\\fI think about this a lot.",
   "9": "I BARELY beat a\\n{STRVAR_1 0, 11, 0} the other day.\\rI ain't never seen a wild {STRVAR_1 0, 11, 0}\\nget that strong...\\rDon't let your guard down, even\\nagainst a homie you used\\fto seein'.",
   "10": "Let's scrap!\\rI'll be waitin' on {STRVAR_1 4, 3, 0}.\\nHolla when you close.",
   "11": "{STRVAR_1 3, 0, 0}, why ain't you here?\\rI'mma take you down on\\n{STRVAR_1 4, 3, 0}!",
   "12": "{STRVAR_1 3, 0, 0}, why ain't you here?\\rI'mma take you down on\\n{STRVAR_1 4, 3, 0}!",
-  "13": "You know, I just can't get over how\\nstrong you are...\\rI obsess over how to beat you every\\nsingle day..."
+  "13": "You know, I just can't get over how\\nstrong you...\\rI obsess over how to beat you EVERY\\nsingle day...\\fI made a wall. With string. And photos.\\fIt's normal. It's research."
 }

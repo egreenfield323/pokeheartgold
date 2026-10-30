@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0312_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\nThis is the reception for admission.\rWill you try the Pokéathlon? {YESNO 0}</language>
+		<language name="English">WELCOME!\nThis the sign-up desk.\rYou tryin’ the Pokéathlon?\nWaivers is optional. {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome. This is the reception for the\nSupreme Cup.\rTop Pokéathletes are waitin’ for you.\nWould you like to try\fthe challenge? {YESNO 0}</language>
+		<language name="English">Welcome. This the sign-up for the\nSupreme Cup.\rThe top Pokéathletes is waitin’ on you.\nThey VERY sweaty.\fYou wanna take the challenge? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anything else?</language>
+		<language name="English">Anything else?\nWe got waters. They $5.</language>
 	</row>
 	<row id="msg_0312_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which course would you like\nto try? {YESNO 0}</language>
+		<language name="English">Which course you tryin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0312_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come this way.\r</language>
+		<language name="English">Right this way.\nWatch your step. It’s wet. It’s sweat.\r</language>
 	</row>
 	<row id="msg_0312_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokéathlon will begin right now.\nYour team color is red.\rGood luck!\r</language>
+		<language name="English">The Pokéathlon startin’ RIGHT now.\nYour team color is red.\rGood luck!\fDon’t throw up!\r</language>
 	</row>
 	<row id="msg_0312_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -44,11 +44,11 @@
 	</row>
 	<row id="msg_0312_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please join us next time.</language>
+		<language name="English">Come back next time.\nStretch first. Trust me.</language>
 	</row>
 	<row id="msg_0312_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to know about? {YESNO 0}</language>
+		<language name="English">What you wanna know about? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -80,7 +80,7 @@
 	</row>
 	<row id="msg_0312_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good job!\rYou will receive Athlete Points\nbased on your score.\r</language>
+		<language name="English">Good job!\rYou get Athlete Points based on\nyour score. Spend ’em wisely.\r</language>
 	</row>
 	<row id="msg_0312_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -97,23 +97,23 @@
 	</row>
 	<row id="msg_0312_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Considering the performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} will be\fpermitted to go to the “Trust” room.\fCongratulations!\r</language>
+		<language name="English">Considerin’ your performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\fthe “Trust” room.\fCONGRATS! The snacks in there free!\r</language>
 	</row>
 	<row id="msg_0312_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Considering the performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} will be\fpermitted to go to the\f“Potential” room.\fCongratulations!\r</language>
+		<language name="English">Considerin’ your performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\fthe “Potential” room.\fCONGRATS! Don’t touch nothin’!\r</language>
 	</row>
 	<row id="msg_0312_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Considering the performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} will be\fpermitted to go to the\f“Friendship” room.\fCongratulations!\r</language>
+		<language name="English">Considerin’ your performance this time,\nPokéathlete {STRVAR_1 3, 0, 0} gets to go to\fthe “Friendship” room.\fCONGRATS! You a LEGEND!\r</language>
 	</row>
 	<row id="msg_0312_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\nThis is the reception for the\fLink Pokéathlon.\rYou can compete with your homies\non the same course.\rWould you like to try it? {YESNO 0}</language>
+		<language name="English">Welcome.\nThis the sign-up for the Link\fPokéathlon.\rYou and your homies on the same\ncourse. Bring the whole crew!\rYou wanna try it? {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please decide which of you\nwill become the group leader.\rThe other players must then choose\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">Decide which one of y’all is the\ngroup leader.\rThe other players pick “JOIN GROUP.”\nNo fightin’ over it. {YESNO 0}</language>
 	</row>
 	<row id="msg_0312_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -121,7 +121,7 @@
 	</row>
 	<row id="msg_0312_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication error.\rPlease repeat the registration\nprocess from the beginnin’.</language>
+		<language name="English">Connection error.\rRedo the registration from the top.\nThe Wi-Fi is cursed.</language>
 	</row>
 	<row id="msg_0312_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -149,7 +149,7 @@
 	</row>
 	<row id="msg_0312_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Right this way, please!\nThe floor is slippery. Sweat.</language>
 	</row>
 	<row id="msg_0312_00037" index="37">
 		<attribute name="window_context_name">used</attribute>

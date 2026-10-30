@@ -167,3 +167,38 @@ def set_texture(b, index, texels, palette=None):
     if palette is not None:
         pal = list(palette)[:psz // 2] + [0] * max(0, psz // 2 - len(palette))
         b[o + poff:o + poff + psz] = struct.pack(f"<{psz // 2}H", *pal)
+
+
+def replace_texture(spa, index, fmt, w, h, texels, palette):
+    """A copy of the file with texture `index` swapped for a new one of any size/format (the texture blocks after
+    it move; resources refer to textures by index, so nothing else changes). palette: BGR555 ints."""
+    o, *_ = textures(spa)[index]
+    bsz = struct.unpack_from("<I", spa, o + 28)[0]
+    s, t = (w.bit_length() - 4), (h.bit_length() - 4)
+    assert 8 << s == w and 8 << t == h
+    param = fmt | s << 4 | t << 8 | 1 << 16
+    pal = struct.pack(f"<{len(palette)}H", *palette)
+    pal += bytes(-len(pal) % 4)
+    total = 0x20 + len(texels) + len(pal)
+    block = struct.pack("<4sIIIIIII", b" TPS", param, len(texels), 0x20 + len(texels), len(pal), total, 0, total)
+    out = bytearray(spa[:o] + block + bytes(texels) + pal + spa[o + bsz:])
+    struct.pack_into("<I", out, 20, struct.unpack_from("<I", spa, 20)[0] - bsz + total)    # texture section size
+    return bytes(out)
+
+
+def add_texture(spa, fmt, w, h, texels, palette):
+    """A copy of the file with one more texture at the end; returns (data, its index)."""
+    _, n = header(spa)
+    last = textures(spa)[-1]
+    end = last[0] + struct.unpack_from("<I", spa, last[0] + 28)[0]
+    s, t = (w.bit_length() - 4), (h.bit_length() - 4)
+    assert 8 << s == w and 8 << t == h
+    param = fmt | s << 4 | t << 8 | 1 << 16
+    pal = struct.pack(f"<{len(palette)}H", *palette)
+    pal += bytes(-len(pal) % 4)
+    total = 0x20 + len(texels) + len(pal)
+    block = struct.pack("<4sIIIIIII", b" TPS", param, len(texels), 0x20 + len(texels), len(pal), total, 0, total)
+    out = bytearray(spa[:end] + block + bytes(texels) + pal + spa[end:])
+    struct.pack_into("<H", out, 10, n + 1)
+    struct.pack_into("<I", out, 20, struct.unpack_from("<I", spa, 20)[0] + total)
+    return bytes(out), n

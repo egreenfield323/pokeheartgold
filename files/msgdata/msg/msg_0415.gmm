@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0415_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcin’ the top 3 in New Bark Town!\nNumber three is... Ta-da!\nThe wind that blow through town!\nThere’s a wind that’ll suddenly blast\nthrough town, like residents know.\nMovin’ on, number two is... Ta-da!\nThe weather vanes!\nThe weather vanes posted around\ntown let us stay ready for\nwhen the wind gon’ blow\nthrough town.\nAnd number one is... Ta-da!\nProfessor Elm’s Lab!\nProfessor Elm doin’ great research on\nhomies as companions, so we\nlistin’ his Lab as splendid number one!</language>
+		<language name="English">Announcin’ the top 3 in New Bark Town!\nNumber three is... Ta-da!\nThe wind that blow through town!\nIt’ll suddenly blast through town\nand steal your hat. Every time.\nMovin’ on, number two is... Ta-da!\nThe weather vanes!\nThe weather vanes posted around\ntown let us know when the wind\ngon’ come steal our hats.\nAnd number one is... Ta-da!\nProfessor Elm’s Lab!\nProfessor Elm doin’ great research on\nhomies, and sweatin’ while he do it,\nso he our splendid number one!</language>
 	</row>
 	<row id="msg_0415_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0415_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcin’ the top 3 in Azalea Town!\nNumber three is... Ta-da!\nFARFETCH’D’s charcoal!\nThis town famous for the charcoal\nthe FARFETCH’D make with stuff they\ngather themselves.\nMovin’ on, number two is... Ta-da!\nSLOWPOKE Well!\nAlso known as Rainmaker Well, SLOWPOKE\nWell a popular sightseein’ spot.\nAnd number one is... Ta-da!\nKurt!\nKurt a REAL talented Hood Ball\nmaker, usin’ old-school techniques.\nHe a great carver, and that’s why he\nour splendid number one!</language>
+		<language name="English">Announcin’ the top 3 in Azalea Town!\nNumber three is... Ta-da!\nFARFETCH’D’s charcoal!\nThis town famous for the charcoal\nthe FARFETCH’D make with stuff they\ngather themselves.\nMovin’ on, number two is... Ta-da!\nSLOWPOKE Well!\nAlso known as Rainmaker Well, SLOWPOKE\nWell a popular sightseein’ spot.\nAnd number one is... Ta-da!\nKurt!\nKurt a REAL talented Nap Sack\nmaker, usin’ old-school techniques.\nHe a great carver, and that’s why he\nour splendid number one!</language>
 	</row>
 	<row id="msg_0415_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0415_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcin’ the top 3 in Pallet Town!\nNumber three is... Ta-da!\nRed’s House!\nRed out on a journey right now and\nbeen away from his house a minute,\nbut his house still our number three!\nI wonder where he went...\nMovin’ on, number two is... Ta-da!\nBlue’s House!\nThe Hustler Blue got real skills,\nand they say he don’t lose to Red, which\nis why he in our number two spot!\nAnd number one is... Ta-da!\nProfessor Oak’s Lab!\nObviously, if you talkin’ Pallet\nTown, you can’t leave out the top\nhomie research spot, Professor\nOak’s Lab! It’s only natural\nthis our number one!</language>
+		<language name="English">Announcin’ the top 3 in Pallet Town!\nNumber three is... Ta-da!\nRed’s House!\nRed been gone a minute. His mama\nstill cookin’ for two. Every night.\nWe wonder where he went...\nMovin’ on, number two is... Ta-da!\nBlue’s House!\nThe Hustler Blue got real skills,\nand he TOLD us to say he don’t lose\nto Red. So we sayin’ it.\nAnd number one is... Ta-da!\nProfessor Oak’s Lab!\nThe top homie research spot! He\nwas also nappin’ when we called.\nIt’s only natural this our number one!</language>
 	</row>
 	<row id="msg_0415_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0415_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcin’ the top 3 in Vermilion City!\nNumber three is... Ta-da!\nThe construction site!\nIt might just be a old man with\nMACHOP, smoothin’ out the dirt, but this\nlot been empty SO long,\nwith no sign of buildin’, that it\ngot real famous in Vermilion for\nsome reason.\nMovin’ on, number two is... Ta-da!\nVermilion Pier Gate!\nThe pier gate at the boat dock got\nthis floor you can see through to the\nsea below.\nAnd number one is... Ta-da!\nThe Homie Fan Club!\nObviously this number one! And\nonce the fan club President hear\nit, he gon’ talk ANYBODY’S ear off,\nwon’t he!</language>
+		<language name="English">Announcin’ the top 3 in Vermilion City!\nNumber three is... Ta-da!\nThe construction site!\nIt’s just a old man with MACHOP\nsmoothin’ out dirt. For YEARS.\nNo buildin’. Ever. It’s art now.\nIt got real famous for that.\nMovin’ on, number two is... Ta-da!\nVermilion Pier Gate!\nThe floor at the boat dock is glass\nso you can see the sea below. Or\nfall in. Your choice.\nAnd number one is... Ta-da!\nThe Homie Fan Club!\nOnce the President hear this, he gon’\ntalk ANYBODY’S ear off, won’t he!</language>
 	</row>
 	<row id="msg_0415_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0415_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcin’ the top 3 in Cinnabar!\nNumber three is... Ta-da!\nThe volcano!\nSince the day the volcano erupted\nand washed away the town, the mouth of\nthe volcano still open.\nMovin’ on, number two is... Ta-da!\n...\n...\n...Huh?\nThere ain’t no number two?\n...What?\nAin’t no number one either?\nWell, I guess that make sense. I bet\nas they rebuild the town, new popular\nspots gon’ pop up. We’ll be watchin’\nCinnabar, waitin’ to see what\nhappen!</language>
+		<language name="English">Announcin’ the top 3 in Cinnabar!\nNumber three is... Ta-da!\nThe volcano!\nSince the day it erupted and washed\naway the town, it’s still open.\nLike, the hole. Don’t go in.\nMovin’ on, number two is... Ta-da!\n...\n...\n...Huh?\nThere ain’t no number two?\n...What?\nAin’t no number one either?\nThe town is... gone. Right.\nWe’ll be watchin’ Cinnabar.\nFrom far away. Hella far away.</language>
 	</row>
 	<row id="msg_0415_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

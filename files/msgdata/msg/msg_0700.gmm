@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0700_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You real good with homies!\rBoys gimme stuff after scraps, but\nsometimes they gimme TOO much.\rNext time, I can share some if you\nwant. Lemme get your\fnumber. {YESNO 0}</language>
+		<language name="English">You real good with homies!\rBoys gimme stuff after scraps, but\nsometimes it’s TOO much.\fI got four toasters.\rNext time I’ll share. Lemme get your\nnumber. {YESNO 0}</language>
 	</row>
 	<row id="msg_0700_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next time a boy gimme somethin’ after\na scrap, I’ll share with you!\rDoes that make me sound ungrateful?</language>
+		<language name="English">Next time a boy gimme somethin’, I’ll\nshare with you!\rDoes that make me sound ungrateful?\fDon’t answer that.</language>
 	</row>
 	<row id="msg_0700_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww, you don’t want nothin’?\nBut it’s all FREE...</language>
+		<language name="English">Aww, you don’t want nothin’?\nBut it’s all FREE... and kinda used.</language>
 	</row>
 	<row id="msg_0700_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0700_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! You here for your gift?\rThis should deadass make your day!\r</language>
+		<language name="English">Ayo! You here for your gift?\rThis should DEFINITELY make your day!\fSome boy named Kevin gave it to me.\r</language>
 	</row>
 	<row id="msg_0700_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, tell me, ain’t a girl on the\nphone just charmin’?\rIt’s not?\rHa ha ha, you right nearby, ain’t you?\nWhy not come over here and talk in\fperson?</language>
+		<language name="English">Ayo, tell me, ain’t a girl on the phone\njust charmin’?\rIt’s not?\rHa ha ha, you right nearby, ain’t you?\nCome talk in person!</language>
 	</row>
 	<row id="msg_0700_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ prettier!\nI been takin’ TONS of pics!\rIt only took a second to beat a wild\n{STRVAR_1 0, 11, 0}.\r...Prob’ly ’cause you gave me some\nscrap tips last time!\rLater!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} gettin’ PRETTIER!\nI been takin’ TONS of pics!\rIt only took a second to beat a wild\n{STRVAR_1 0, 11, 0}.\r...Prob’ly ’cause you gave me tips!\nI’ll tag you. Later!</language>
 	</row>
 	<row id="msg_0700_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0700_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You wanted a gift, right?\nI got one, but I wanna keep this one.\rCan you wait a lil longer?</language>
+		<language name="English">Oh! You wanted a gift, right?\nI got one, but I wanna keep this one.\fIt’s from a cute boy. Can you wait?</language>
 	</row>
 	<row id="msg_0700_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,6 +54,6 @@
 	</row>
 	<row id="msg_0700_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rIf you don’t come get your present\nsoon, I’mma give it to somebody else.\rI’m waitin’ on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Wassup?\rIf you don’t come get your present\nsoon, I’mma give it to somebody else.\fI got a LINE of boys. Hurry.\rI’m waitin’ on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

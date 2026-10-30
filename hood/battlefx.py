@@ -45,7 +45,18 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
            "vwhip": 2123, "vwhip2": 2127, "psting": 1905, "psting2": 2120, "twhip": 1844, "absorb": 1956,
            "absorb2": 2003, "sshot": 1919, "sshot2": 1964, "bubble": 1997,
            "sdestruct": 1993, "kaboom": 2113, "rollout": 1920, "rollout2": 1954, "focus": 1965, "swipe": 1908,
-           "aring": 2085, "mlook": 1948, "mlook2": 1985, "sucker": 1849, "disable": 1840, "sleep": 1960}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
+           "aring": 2085, "mlook": 1948, "mlook2": 1985, "sucker": 1849, "disable": 1840, "sleep": 1960,
+           "flop": 1826, "flail": 1833, "flail2": 1920, "raindance": 2044, "assure": 1926, "wfall": 1995,
+           "wfall2": 2060, "peck": 1926, "harden": 2038, "curse": 1830, "curse2": 2016,
+           "bbeam2": 2024, "wsport": 2118, "horn": 1926, "mudshot": 2045, "dslap": 1828, "acid": 1999,
+           "hpump": 2109, "wslap": 1977, "brine": 2070, "tspikes": 1922, "sludge": 2060, "constrict": 1918,
+           "twister": 1837, "dcharge": 1969, "dcurl": 1864, "dcurl2": 2006, "explo": 2096, "astonish": 2008,
+           "astonish2": 2056, "bdrum": 2017, "sbomb": 1998, "dedge": 1846, "amnesia": 1991, "rest": 2013,
+           "aslash": 1884, "bslam": 1927, "mbomb": 2093, "sunny": 1531, "sface": 1933, "sface2": 1948,
+           "sboom": 1851, "smog": 1985, "lscreen": 1990, "sbeam": 1530, "reflect": 1990, "nshade": 1877,
+           "acutter": 1913, "spark": 1971, "spark2": 2031, "mdrain": 1999, "msport": 1976, "msport2": 2046,
+           "psych": 1950, "gyro": 2066, "gyro2": 2068, "yawn": 2047, "yawn2": 2057, "sscent": 2037,
+           "rspin": 1883}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
 #                                            Screech, Earthquake, Bone Club, ...
 
 
@@ -54,13 +65,22 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   6 drive-by, 7 chain swing, 8 chain dangle, 9 make it rain, 10 full auto, 11 RPG (legendaries),
 #   12 Molotov, 13 brick toss, 14 egg ya house, 15 hose down, 16 bat swing, 17 taser, 18 car alarm,
 #   19 bass drop, 20 hot shot, 21 stare down, 22 talk trash, 23 pocket sand, 24 fan blast, 25 catch flight,
-#   26 hydrant wave, 27 power line, 28 road rage, 29 fire breath (Molotov), 30 zaza leaf, 31 stomp out,
+#   26 ride da wave (Surf), 27 power line, 28 road rage, 29 fire breath (Molotov), 30 zaza leaf, 31 stomp out,
 #   32 grill chomp, 33 hollow point, 34 switchblade, 35 hot box, 36 burnout, 37 hi-yah chop, 38 magic 8-ball,
 #   39 loyalty, 40 flashlight, 41 stun taser, 42 bass boost, 43 squad up, 44 water bomb, 45 sneak diss,
 #   46 dirty sprite, 47 duck n cover, 48 smackdown, 49 big taser, 50 clock it, 51 belt whip, 52 shiv,
 #   53 twerk on em, 54 tax, 55 silly string, 56 spit, 57 lace up, 58 go out loud, 59 roll out, 60 lock in,
 #   61 dome check, 62 pickpocket, 63 pool float, 64 block off, 65 cheap shot, 66 jam the gun, 67 sleeper,
-#   68 reload
+#   68 reload, 69 flop, 70 windmill, 71 make it rain (money gun), 72 insurance, 73 body bag, 74 beam me up,
+#   75 poke, 76 duct tape, 77 kevlar, 78 curse out, 79 spit stream, 80 sprinkler, 81 horn blast, 82 mud pie,
+#   83 backhand, 84 battery acid, 85 fire hose, 86 rise n slap, 87 dirty shiv, 88 salty, 89 dirty nails,
+#   90 stun gun (tranq dart), 91 gutter slop, 92 pebble spray, 93 live socket, 94 fetal pos., 95 choke hold,
+#   96 tornado, 98 kaboom, 100 jumpscare (97 / 99 are test variants, 101-114 effect animations),
+#   120 irs audit, 121 beat the box, 122 stink bomb, 123 kamikaze, 124 splash whip, 125 didnt see it, 126 nap,
+#   127 chase down, 128 paper cut, 129 pepper spray, 130 belly flop, 131 pigeon drop, 132 heat lamp,
+#   133 grill flash, 134 trunk rattle, 135 exhaust, 136 riot shield, 137 full bars, 138 bulletproof (glass),
+#   139 night shift, 140 wind shank (ceiling fan), 141 spark up, 142 big tax, 143 mud bath, 144 hype up,
+#   145 fidget spin, 146 neon beam, 147 snooze (terms & conditions), 148 cologne, 149 spin the block (bmx)
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
@@ -87,7 +107,23 @@ MOVES = {
     "Vine Whip": 51, "Poison Sting": 52, "Tail Whip": 53, "Absorb": 54, "String Shot": 55, "Bubble": 56,
     "Agility": 57, "Selfdestruct": 58, "Rollout": 59, "Focus Energy": 60, "Headbutt": 61, "Fury Swipes": 62,
     "Aqua Ring": 63, "Mean Look": 64, "Sucker Punch": 65, "Disable": 66, "Sleep Powder": 67, "Recover": 68,
+    "Splash": 69, "Flail": 70, "Rain Dance": 71, "Assurance": 72, "Slam": 73, "Waterfall": 74, "Peck": 75,
+    "Wrap": 76, "Harden": 77, "Curse": 78,
+    "BubbleBeam": 79, "Water Sport": 80, "Horn Attack": 81, "Mud Shot": 82, "DoubleSlap": 83, "Acid": 84,
+    "Hydro Pump": 85, "Wake-Up Slap": 86, "Poison Jab": 87, "Brine": 88,
+    "Toxic Spikes": 89, "Stun Spore": 90, "Sludge": 91, "Rock Blast": 92, "Discharge": 93, "Defense Curl": 94,
+    "Constrict": 95, "Twister": 96, "Explosion": 98, "Astonish": 100,
+    "Giga Drain": 120, "Belly Drum": 121, "Sludge Bomb": 122, "Double-Edge": 123, "Aqua Tail": 124, "Amnesia": 125,
+    "Rest": 126, "Pursuit": 127, "Air Slash": 128, "PoisonPowder": 129,
+    "Body Slam": 130, "Mud Bomb": 131, "Sunny Day": 132, "Scary Face": 133, "SonicBoom": 134, "Smog": 135,
+    "Light Screen": 136, "Signal Beam": 137, "Reflect": 138, "Night Shade": 139, "Air Cutter": 140, "Spark": 141,
+    "Mega Drain": 142, "Mud Sport": 143, "Psych Up": 144,
+    "Gyro Ball": 145, "Aurora Beam": 146, "Yawn": 147, "Sweet Scent": 148, "Rapid Spin": 149,
 }
+
+
+# effect animation (a/0/6/1, BATTLE_ANIMATION_*) -> gunfx variant: 100 + the effect id
+EFFECTS = {1: 101, 2: 102, 3: 103, 4: 104, 5: 105, 6: 106, 7: 107, 8: 108, 9: 109, 10: 110, 12: 112, 13: 113, 14: 114}
 
 
 def move_ids():
@@ -156,15 +192,52 @@ def patch(rom):
         w = gunfx.variant(k, seqs)
         anims.files[ids[name]] = struct.pack(f"<{len(w)}I", *w)
     rom.setFileByName("a/0/1/0", anims.save())
+    effects = ndspy.narc.NARC(rom.getFileByName("a/0/6/1"))
+    for eid, k in EFFECTS.items():
+        w = gunfx.variant(k, seqs)
+        effects.files[eid] = struct.pack(f"<{len(w)}I", *w)
+    rom.setFileByName("a/0/6/1", effects.save())
+    import ballfx
+    import evofx
+    ballfx.patch(rom)
+    evofx.patch(rom)
     print(f"battle effects: {len(MOVES)} moves, {len(gunfx.DONOR)} particle kits, {len(seqs)} sounds")
 
 
 # the showcase pads these archives (with a trailing filler member nothing loads) to fixed sizes
 SDAT_SIZE = 9_200_000
-FIXED_SIZE = {"a/0/1/0": 700_000, "a/0/2/9": 3_300_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
-              "a/0/8/1": 5_832_704,
+FIXED_SIZE = {"a/0/1/0": 700_000, "a/0/2/9": 4_000_000, "a/0/0/4": 14_745_600, "a/1/1/4": 1_310_720,
+              "a/0/8/1": 5_832_704, "a/0/0/8": 262_144, "a/0/9/5": 1_048_576, "a/0/6/1": 131_072, "a/1/1/9": 65_536,
               # everything else the build touches (text, learnsets, trainers, icons, title, intro, item icons)
               "a/0/2/7": 5_111_808, "a/0/0/2": 65_536, "a/0/3/3": 65_536, "a/0/5/8": 1_835_008, "a/2/5/6": 655_360, "a/2/4/8": 196_608, "a/0/2/0": 655_360, "a/0/4/6": 917_504, "a/1/7/4": 589_824, "a/0/1/8": 524_288, "a/1/2/0": 196_608}
+
+
+def pad(rom, only=None):
+    """Pad the archives the build touches (or just `only`) to fixed sizes, so tweaks never move the ROM layout
+    (savestates). The padding is an extra all-zero member at the end (re-padding replaces it)."""
+    for path, target in FIXED_SIZE.items():
+        if only is not None and path not in only:
+            continue
+        narc = ndspy.narc.NARC(rom.getFileByName(path))
+        if len(narc.files) > 1 and narc.files[-1] and not any(narc.files[-1]):
+            narc.files.pop()                   # already padded once: redo it
+        if target is None:                     # sprite archives: today's size plus a quarter of headroom, rounded
+            target = (len(rom.getFileByName(path)) * 5 // 4 + 0xFFFF) & ~0xFFFF
+            FIXED_SIZE[path] = target
+        narc.files.append(b"")
+        room = target - len(narc.save())
+        assert room >= 0, f"{path} outgrew its fixed showcase size; raise FIXED_SIZE"
+        narc.files[-1] = bytes(room)
+        assert len(narc.save()) == target
+        rom.setFileByName(path, narc.save())
+    if only is not None:
+        return
+    sdat = rom.getFileByName(SDAT)           # the sound archive is read by its internal offsets: pad the tail
+    assert len(sdat) <= SDAT_SIZE, "sound archive outgrew its fixed showcase size; raise SDAT_SIZE"
+    rom.setFileByName(SDAT, sdat + bytes(SDAT_SIZE - len(sdat)))
+    size = len(rom.save())                   # the padding can push it past the chip size in the header (128 MB):
+    while 0x20000 << rom.deviceCapacity < size:   # DeSmuME then calls the header invalid
+        rom.deviceCapacity += 1
 
 
 def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
@@ -178,7 +251,8 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     names = [n for n, _ in sdat.sequences]
     seqs = {**{k: names.index(f"SEQ_SE_HOOD_{k.upper()}") for k in SOUNDS}, **BUILTIN}
     narc = ndspy.narc.NARC(rom.getFileByName("a/0/2/9"))
-    first = len(narc.files) - len(gunfx.DONOR)
+    real = len(narc.files) - (1 if narc.files[-1] and not any(narc.files[-1]) else 0)   # skip pad()'s filler member
+    first = real - len(gunfx.DONOR)
     for i, ps in enumerate(gunfx.DONOR):
         gunfx.LOAD[ps] = first + i
     head, calls, subs = [], [], []
@@ -207,23 +281,7 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
         assert len(words) <= pad_to, (len(words), pad_to)   # not in the script (big scripts overflow the heap)
         anims.files[400] = anims.files[400] + bytes(4 * (pad_to - len(words)))
     rom.setFileByName("a/0/1/0", anims.save())
-    for path, target in FIXED_SIZE.items():    # fixed archive sizes: tweaks never move the ROM layout (savestates)
-        narc = ndspy.narc.NARC(rom.getFileByName(path))
-        if target is None:                     # sprite archives: today's size plus a quarter of headroom, rounded
-            target = (len(rom.getFileByName(path)) * 5 // 4 + 0xFFFF) & ~0xFFFF
-            FIXED_SIZE[path] = target
-        narc.files.append(b"")
-        room = target - len(narc.save())
-        assert room >= 0, f"{path} outgrew its fixed showcase size; raise FIXED_SIZE"
-        narc.files[-1] = bytes(room)
-        assert len(narc.save()) == target
-        rom.setFileByName(path, narc.save())
-    sdat = rom.getFileByName(SDAT)           # the sound archive is read by its internal offsets: pad the tail
-    assert len(sdat) <= SDAT_SIZE, "sound archive outgrew its fixed showcase size; raise SDAT_SIZE"
-    rom.setFileByName(SDAT, sdat + bytes(SDAT_SIZE - len(sdat)))
-    size = len(rom.save())                   # the padding can push it past the chip size in the header (128 MB):
-    while 0x20000 << rom.deviceCapacity < size:   # DeSmuME then calls the header invalid
-        rom.deviceCapacity += 1
+    pad(rom)
     rom.saveToFile(out_path)
     print("showcase:", order, len(words), "words ->", out_path)
 

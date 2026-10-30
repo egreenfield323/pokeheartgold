@@ -557,7 +557,7 @@
 	</row>
 	<row id="msg_0010_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hood Ball Pocket\nFor all different types of Hood Balls.</language>
+		<language name="English">Snatch Gear Pocket\nFor all different types of snatch gear.</language>
 	</row>
 	<row id="msg_0010_00123" index="123">
 		<attribute name="window_context_name">used</attribute>

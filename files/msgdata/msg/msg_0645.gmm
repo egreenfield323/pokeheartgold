@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0645_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rCall back from somewhere else!\fA ninja don’t do bad signal.</language>
 	</row>
 	<row id="msg_0645_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, wassup, wassup...\nOh, ayo, what you up to?\fI’m good, thanks!\r</language>
+		<language name="English">Wassup, wassup, wassup...\nOh, ayo, what you up to?\fI’m good! I’m hangin’ from the\fceilin’ right now. Ninja stuff.\r</language>
 	</row>
 	<row id="msg_0645_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A lotta the Block Bosses way\nstronger than me. We just gotta\fwork harder!</language>
+		<language name="English">A lotta Block Bosses way stronger\nthan me. We just gotta work harder!\fDad says sweat is weakness leavin’\fthe body. He says a LOT.</language>
 	</row>
 	<row id="msg_0645_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m usually free Monday\nafternoons. Mind callin’\fme back then?</language>
+		<language name="English">I’m usually free Monday afternoons.\nMind callin’ me back then?\fI’ll be in the bushes outside your\fhouse. Ninja trainin’. Normal.</language>
 	</row>
 	<row id="msg_0645_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can hear you clear now.\nSay, my schedule just opened up.\fYou wanna link up for\fa scrap or somethin’? {YESNO 0}</language>
+		<language name="English">I can hear you clear now.\nMy schedule just opened up.\fYou wanna link up for a\fscrap or somethin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0645_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet!\nI’m fired up, ready to fight!\rI’ll be waitin’ for you at\nthe Saffron Dojo!</language>
+		<language name="English">BET!\nI’m fired up, ready to fight!\rI’ll be waitin’ at the Saffron Dojo!\nYou won’t see me. I’ll be invisible.</language>
 	</row>
 	<row id="msg_0645_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see...\nYou scared to face me...\fNah, that ain’t true, right?</language>
+		<language name="English">Oh, I see...\nYou scared to face me...\fNah, that ain’t true, right?\fI’ll tell my dad. He’s VERY scary.</language>
 	</row>
 	<row id="msg_0645_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You sure you wanna meet me for\na scrap?\rAin’t your schedule kinda full\nwith other plans?</language>
+		<language name="English">You sure you wanna meet me for a\nscrap?\rAin’t your schedule kinda full with\nother plans?\fNinjas know EVERYTHING.</language>
 	</row>
 	<row id="msg_0645_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ at the Saffron Dojo!\fC’mon! Move like the wind!</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo!\fC’mon! Move like the wind!\fNot that wind. Faster wind.</language>
 	</row>
 	<row id="msg_0645_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Janine.\nHow you doin’?\r</language>
+		<language name="English">This Janine.\nHow you doin’? Don’t look up.\r</language>
 	</row>
 	<row id="msg_0645_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Remember, you promised to meet me at\nthe Saffron Dojo.\fI’m ready when you...like, NOW!</language>
+		<language name="English">Remember, you promised to meet me at\nthe Saffron Dojo.\fI’m ready when you... like, NOW!\fI been there three days.</language>
 	</row>
 	<row id="msg_0645_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, can I talk to you about my dad?\nOnly if you wanna hear, though.\rFr? I might talk your ear off\nif I ain’t careful!</language>
+		<language name="English">Ayo, can I talk to you about my dad?\nOnly if you wanna hear, though.\rFr? I might talk your ear off\nif I ain’t careful!\fI WON’T be careful.</language>
 	</row>
 	<row id="msg_0645_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See, I been trainin’ with my dad\nsince I was lil--to be a Block Boss.\rI ain’t even thought about takin’\nno other path, honestly.\rMy dream is to one day be a\nbetter Block Boss than Dad!</language>
+		<language name="English">I been trainin’ with my dad since I was\nlil--to be a Block Boss.\rNever even thought about another\npath. He never lemme.\rMy dream is to one day be a better\nBlock Boss than Dad!\fDon’t tell him. He’ll cry.</language>
 	</row>
 	<row id="msg_0645_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner in Violet City...\nHe ALWAYS talkin’ about his dad!\rFr, he such a daddy’s boy,\nhe need to be his own person\fsometime, you know?\rWhat you mean, look who talkin’?\fHa ha--mind your business!</language>
+		<language name="English">Falkner in Violet City...\nHe ALWAYS talkin’ about his dad!\rFr, he such a daddy’s boy, he need to\nbe his own person, you know?\rWhat you mean, look who talkin’?\fHa ha--mind your business!</language>
 	</row>
 </body>

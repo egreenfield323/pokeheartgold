@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0661_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\nOh, wassup. How you doin’?\rKids these days just call even when\nthey right nearby...\rI’d rather talk face-to-face...</language>
+		<language name="English">Wassup?\nOh, wassup. How you doin’?\rKids these days call even when they\nright outside...\fI’m lookin’ at you. Wave.</language>
 	</row>
 	<row id="msg_0661_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0661_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One of the homies we raisin’ is\nholdin’ a Egg!\rBet you wanna know what kinda\nEgg it is, right? Come get it!</language>
+		<language name="English">One of the homies we raisin’ is holdin’\na Egg!\rWe ain’t sure how that happened.\fWe ain’t askin’ questions.\rBet you wanna know what kinda Egg it\nis, right? Come get it!</language>
 	</row>
 	<row id="msg_0661_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0661_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Them two get along real good.\r</language>
+		<language name="English">Them two get along REAL good.\fLike, a lil too good.\r</language>
 	</row>
 	<row id="msg_0661_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,19 +38,19 @@
 	</row>
 	<row id="msg_0661_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Them two don’t deadass like each\nother much.\r</language>
+		<language name="English">Them two don’t deadass like each other.\nThey on opposite sides of the yard.\r</language>
 	</row>
 	<row id="msg_0661_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Them two rather do their own thing\nthan hang with each other...\r</language>
+		<language name="English">Them two rather do their own thing than\nhang with each other...\fLike me and my wife on Sundays.\r</language>
 	</row>
 	<row id="msg_0661_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop by anytime, you hear?</language>
+		<language name="English">Stop by anytime, you hear?\nBring snacks. For us.</language>
 	</row>
 	<row id="msg_0661_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? It’s me, the Day-Care Man.\rWe was raisin’ your homies,\nand my goodness, was we surprised!\rYour homie was holdin’ a Egg!\rWe don’t know how it got there,\nbut your homie had it. Don’t ask us.\rBet you wanna know what kinda\nEgg it is, right? Come get it!</language>
+		<language name="English">Wassup? It’s me, the Day-Care Man.\rWe was raisin’ your homies, and my\ngoodness, was we SURPRISED!\rYour homie was holdin’ a EGG!\rWe don’t know how it got there.\nWe was watchin’ TV. Don’t ask us.\rBet you wanna know what kinda Egg it\nis, right? Come get it!</language>
 	</row>
 	<row id="msg_0661_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

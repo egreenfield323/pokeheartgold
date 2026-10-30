@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0669_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! You like CLEFAIRY too?\nThey SO cute, ain’t they?\rI think we could be real homies!\nI need your number!\rLet’s talk CLEFAIRY! {YESNO 0}</language>
+		<language name="English">AYO! You like CLEFAIRY too?\nThey SO cute, ain’t they?\rI think we could be real homies!\nI need your number!\rLet’s talk CLEFAIRY! For hours! {YESNO 0}</language>
 	</row>
 	<row id="msg_0669_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ain’t my CLEFAIRY SUPER adorable?</language>
+		<language name="English">Ain’t my CLEFAIRY SUPER adorable?\nSay yes. There’s only one answer.</language>
 	</row>
 	<row id="msg_0669_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... Oh well. Find me if you\nwanna talk CLEFAIRY.</language>
+		<language name="English">Aww... Oh well.\nFind me if you wanna talk CLEFAIRY.\fI’ll be here. Talkin’ to CLEFAIRY.</language>
 	</row>
 	<row id="msg_0669_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,47 +22,47 @@
 	</row>
 	<row id="msg_0669_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, there you!\nI’ll give you this then.\fIt’s a CLEFAIRY Poké Doll!\r</language>
+		<language name="English">Oh, THERE you!\nI’ll give you this then.\fIt’s a CLEFAIRY Poké Doll!\fI got eleven. This one’s the ugly one.\r</language>
 	</row>
 	<row id="msg_0669_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um... Well...\nIs it that hard to talk to me?\rI mean, the phone is aight, but if\nwe this close, you ain’t gotta\fstay away.\fJust come talk to me.</language>
+		<language name="English">Um... Well... Is it that hard to talk\nto me?\rThe phone is aight, but if we this\nclose, just come talk to me.\fCLEFAIRY wants to see you. It’s\nstarin’.</language>
 	</row>
 	<row id="msg_0669_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s TERRIBLE. My CLEFAIRY...\rHuh? This {STRVAR_1 3, 0, 0}?\rOh, my bad! I was in a rush, and I...\nI gotta go! Bye-bye!</language>
+		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s TERRIBLE. My CLEFAIRY...\rHuh? This {STRVAR_1 3, 0, 0}?\rOh, my bad! I thought this was the\nhomie hospital! I gotta go! Bye-bye!</language>
 	</row>
 	<row id="msg_0669_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s TERRIBLE. My CLEFAIRY...\rHuh? This {STRVAR_1 3, 0, 0}?\rOh, my bad! I was in a rush, and I...\nI gotta go! Bye-bye!</language>
+		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s TERRIBLE. My CLEFAIRY...\rHuh? This {STRVAR_1 3, 0, 0}?\rOh, my bad! I thought this was the\nhomie hospital! I gotta go! Bye-bye!</language>
 	</row>
 	<row id="msg_0669_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} adorable, don’t you\nthink?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to scrap a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY almost fainted!\nAin’t that awful?\rI HATE them nasty {STRVAR_1 0, 11, 0}!\nBye-bye!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} adorable, don’t you think?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to scrap a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY almost fainted!\nAin’t that AWFUL?\rI HATE them nasty {STRVAR_1 0, 11, 0}!\nI wrote a letter to the city. Bye-bye!</language>
 	</row>
 	<row id="msg_0669_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} adorable, don’t you\nthink?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to scrap a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY got scared, so we\nran as fast as we could!\rI can’t help bein’ protective of\nmy CLEFAIRY. That’s my baby.\rBye-bye!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} adorable, don’t you think?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we ran into a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY got scared, so we RAN!\nI carried it. It’s heavy.\rI can’t help it. That’s my BABY.\nBye-bye!</language>
 	</row>
 	<row id="msg_0669_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know this might shock you, but\nyou wanna scrap?\rI’ll be waitin’ with CLEFAIRY on\n{STRVAR_1 4, 3, 0}.</language>
+		<language name="English">I know this might shock you, but\nyou wanna scrap?\rI’ll be waitin’ with CLEFAIRY on\n{STRVAR_1 4, 3, 0}. It’s wearin’ its scrap outfit.</language>
 	</row>
 	<row id="msg_0669_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? You can’t come?\rCLEFAIRY got tired and fell asleep.\nI don’t know if I can wake it up...\rHurry to {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">What’s wrong? You can’t come?\rCLEFAIRY got tired and fell asleep.\nI can’t wake it. It’s too cute.\rHurry to {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0669_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I LOVE dressin’ up my CLEFAIRY!</language>
+		<language name="English">I LOVE dressin’ up my CLEFAIRY!\nToday it’s a cowboy. Yeehaw.</language>
 	</row>
 	<row id="msg_0669_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While I was at the Goldenrod Dept.\nStore recently, I found these\fSUPER cute Poké Dolls!\fI’ll give you one!\rCome grab it on {STRVAR_1 4, 3, 0}.</language>
+		<language name="English">I was at the Goldenrod Dept. Store\nand found these SUPER cute Poké\fDolls!\fI’ll give you one!\fI bought out the whole shelf.\rCome grab it on {STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0669_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? You can’t come?\rThis Poké Doll SO cute too!\nHurry to {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">What’s wrong? You can’t come?\rThis Poké Doll SO cute too! Hurry to\n{STRVAR_1 4, 3, 0}! CLEFAIRY is jealous.</language>
 	</row>
 	<row id="msg_0669_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

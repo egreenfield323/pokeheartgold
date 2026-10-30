@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0695_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I see a strong Hustler,\nI wanna be their cheerleader.\rWhen I’m out on a walk,\nI pick stuff up sometimes.\rIf I find anythin’, it’s yours!\rWanna gimme your number?\nI’ll call whenever I get somethin’.{YESNO 0}</language>
+		<language name="English">Whenever I see a strong Hustler, I\nwanna be their CHEERLEADER!\rWhen I’m out walkin’, I pick stuff up\nsometimes.\rIf I find anythin’, it’s yours!\rWanna gimme your number? I’ll call when\nI get somethin’! {YESNO 0}</language>
 	</row>
 	<row id="msg_0695_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll call as soon as I get somethin’!</language>
+		<language name="English">I’ll call as soon as I get somethin’!\nGIMME A P! ...for Present!</language>
 	</row>
 	<row id="msg_0695_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fr? Well, I’m still cheerin’\nfor you!</language>
+		<language name="English">Fr? Well, I’m STILL cheerin’ for you!\nGO, YOU! ...Bye.</language>
 	</row>
 	<row id="msg_0695_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0695_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You FINALLY here!\nI think this gon’ make you happy.\r</language>
+		<language name="English">You FINALLY here!\nI think this gon’ make you happy.\fIf it don’t, I’ll do a cheer.\r</language>
 	</row>
 	<row id="msg_0695_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must REALLY like phone calls to be\nright nearby and still callin’!</language>
+		<language name="English">You must REALLY like phone calls to be\nright nearby and still callin’!\fI’m doin’ a cheer about it.</language>
 	</row>
 	<row id="msg_0695_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me and my {STRVAR_1 0, 10, 0} gettin’ more\nin sync with each other.\rWe scrapped a wild {STRVAR_1 0, 11, 0} and\nbarely beat it.\fWe gettin’ in the groove!\rBye! Let’s chat again!</language>
+		<language name="English">Me and my {STRVAR_1 0, 10, 0} gettin’ more in\nsync!\rWe scrapped a wild {STRVAR_1 0, 11, 0} and\nbarely beat it.\fWe gettin’ in the GROOVE!\fWe did a victory dance. In the grass.\rBye! Let’s chat again!</language>
 	</row>
 	<row id="msg_0695_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0695_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you be my practice partner again\nsometime?\rI’ll be waitin’ on {STRVAR_1 4, 3, 0}...\rCould you go a lil easier on\nme next time?</language>
+		<language name="English">Would you be my practice partner again\nsometime?\rI’ll be waitin’ on {STRVAR_1 4, 3, 0}...\rCould you go a lil easier on me next\ntime? My pom-poms is ruined.</language>
 	</row>
 	<row id="msg_0695_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -62,6 +62,6 @@
 	</row>
 	<row id="msg_0695_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You heard about The Feds?\rThey done raided the Radio Tower in\nGoldenrod. With a WARRANT.\rIs the people inside OK?</language>
+		<language name="English">You heard about The Feds?\rThey done raided the Radio Tower in\nGoldenrod. With a WARRANT.\rIs the people inside OK?\fI’m makin’ a cheer for ’em. “RE-SIST!”</language>
 	</row>
 </body>

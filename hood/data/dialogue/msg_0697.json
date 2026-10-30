@@ -5,10 +5,10 @@
   "3": "I see...\\nToo bad...",
   "4": "Oh! I see you changed your mind\\nabout swappin' numbers\\fwith me!{YESNO 0}",
   "5": "Hm? Wait, lemme guess. You right\\nnearby, ain't you?\\rIf you wanna talk to me, why don't\\nyou do it in person?",
-  "6": "My {STRVAR_1 0, 10, 0} go HARD!\\rEnd of report!",
-  "7": "You know... Yesterday, we beat a\\n{STRVAR_1 0, 11, 0}!\\rEnd of report!",
-  "8": "Oh no... Just a lil while ago, a\\n{STRVAR_1 0, 11, 0} dipped...\\rEnd of report!",
-  "9": "You remember?\\rThe moment we first scrapped!\\rI wanna scrap you again, to\\nrelive that tense moment!\\rI'm waitin' on {STRVAR_1 4, 3, 0}.",
+  "6": "My {STRVAR_1 0, 10, 0} go HARD!\\rEnd of report!\\fThis has been Kyle.",
+  "7": "You know... Yesterday we beat a\\n{STRVAR_1 0, 11, 0}!\\rEnd of report!\\fNo questions.",
+  "8": "Oh no... Just a lil while ago, a\\n{STRVAR_1 0, 11, 0} dipped...\\rEnd of report!\\f...It hurt. Report over.",
+  "9": "You remember?\\rThe moment we first scrapped!\\rI wanna scrap again, to relive that\\ntense moment! I got goosebumps!\\rI'm waitin' on {STRVAR_1 4, 3, 0}.",
   "10": "You remember?\\nWe had plans to scrap!\\rI'm waitin' for you on\\n{STRVAR_1 4, 3, 0}, so hurry up!",
   "11": "So, at last...\\nYou FINALLY decided you wanna learn\\ffrom the best fisherman.\\rThat's great.\\nI'll teach you.\\rTo start...\\nLook out at the top of the water.\\fBreathe in deep.\\fHold your fishin' rod and stand still.\\fAim at a spot real quiet.\\fAnd, SHOO-OOOP! Cast your line!\\rWhen you cast, keep a good\\ngrip, or your Rod gon' go with it.\\fHold on TIGHT!\\rThe hook and line gon' sink into\\nthe water, and you just wait\\fwithout movin'.\\rWell, if your nose itch or somethin',\\nI guess it's OK to move a lil bit.\\rAnd then, YOINK--you get a bite!\\nYANK on the line and pull it out of\\fthe water!\\rGot it? YOINK and YANK!\\nIf you YANK without a YOINK,\\fyou gon' look dumb, pullin' up\\fnothin'! Might not be a YOINK,\\fmight be a BLOOP or a PLOOSH or a\\fBLOOSH, or even a SPLOOSH-SPLOOSH...\\f...Huh? I think we losin' conn...\\fction... Can...hear... Yo...? He..."
 }

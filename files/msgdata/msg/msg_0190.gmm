@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0190_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Tap a Hood Ball to see\nwho you rollin’ with! Quick!</language>
+		<language name="English">Professor Elm: Tap a Nap Sack to see\nwho you rollin’ with! Quick!</language>
 	</row>
 	<row id="msg_0190_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0190_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 3}CHIKORITA{COLOR 0}, strapped with a .22,\nis in this Hood Ball!</language>
+		<language name="English">{COLOR 3}CHIKORITA{COLOR 0}, strapped with a .22,\nis in this Nap Sack!</language>
 	</row>
 	<row id="msg_0190_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}CYNDAQUIL{COLOR 0}, strapped with a 9,\nis in this Hood Ball!</language>
+		<language name="English">{COLOR 1}CYNDAQUIL{COLOR 0}, strapped with a 9,\nis in this Nap Sack!</language>
 	</row>
 	<row id="msg_0190_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}TOTODILE{COLOR 0}, strapped with a Glock,\nis in this Hood Ball!</language>
+		<language name="English">{COLOR 2}TOTODILE{COLOR 0}, strapped with a Glock,\nis in this Nap Sack!</language>
 	</row>
 	<row id="msg_0190_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,6 +34,6 @@
 	</row>
 	<row id="msg_0190_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch the Hood Ball button to select.\nTouch elsewhere to change your selection.</language>
+		<language name="English">Touch the Nap Sack button to select.\nTouch elsewhere to change your selection.</language>
 	</row>
 </body>

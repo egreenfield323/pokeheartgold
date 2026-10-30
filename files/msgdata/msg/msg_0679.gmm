@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0679_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You had fun scrappin’ us, right?\rSo how ’bout we swap phone\nnumbers, and that way if we wanna\fscrap again, we can just call\feach other? {YESNO 0}</language>
+		<language name="English">You had fun scrappin’ us, right?\rSwap numbers, so if we wanna scrap\nagain we can just call?\fWe share a phone. Don’t ask which one\fyou talkin’ to. {YESNO 0}</language>
 	</row>
 	<row id="msg_0679_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, now you got our number\nand we got yours.</language>
+		<language name="English">Aight, now you got our number and we\ngot yours. We’ll fight over who calls.</language>
 	</row>
 	<row id="msg_0679_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? But... Oh well.</language>
+		<language name="English">Oh? But... Oh well.\nTia’s mad. I’m Kay. Or I’m Tia.</language>
 	</row>
 	<row id="msg_0679_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0679_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, here you go!\nIt’s a Oval Stone.\r</language>
+		<language name="English">Aight, here you go!\nIt’s a Oval Stone.\fTia found it. Or Kay did. One of us.\r</language>
 	</row>
 	<row id="msg_0679_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, ain’t you right nearby?\rYou just REALLY like talkin’ on the\nphone or somethin’? Weird hobby.</language>
+		<language name="English">Huh?\nWait, ain’t you right nearby?\rYou just REALLY like talkin’ on the\nphone? Weird hobby. We love it.</language>
 	</row>
 	<row id="msg_0679_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our {STRVAR_1 0, 10, 0} WAY stronger now!\rWe was scrappin’ a {STRVAR_1 0, 11, 0}\nrecently and it was over before we\fknew it!\rOh yeah, by the way, this Tia.</language>
+		<language name="English">Our {STRVAR_1 0, 10, 0} WAY stronger now!\rWe scrapped a {STRVAR_1 0, 11, 0} and it was\nover before we knew it!\rOh yeah, by the way, this Tia.\fProb’ly.</language>
 	</row>
 	<row id="msg_0679_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our {STRVAR_1 0, 10, 0} WAY stronger now!\rWe was scrappin’ a {STRVAR_1 0, 11, 0}\nrecently and it was over before we\fknew it!\rOh yeah, by the way, this Kay.</language>
+		<language name="English">Our {STRVAR_1 0, 10, 0} WAY stronger now!\rWe scrapped a {STRVAR_1 0, 11, 0} and it was\nover before we knew it!\rOh yeah, by the way, this Kay.\fWe think.</language>
 	</row>
 	<row id="msg_0679_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,22 +42,22 @@
 	</row>
 	<row id="msg_0679_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We shoulda another scrap, just\nthe three of us.\rWe on {STRVAR_1 4, 3, 0}, so c’mon\nover when you get the chance.</language>
+		<language name="English">We shoulda another scrap, just\nthe three of us.\rWe on {STRVAR_1 4, 3, 0}, so c’mon over!\nWe’ll be the ones that look the same.</language>
 	</row>
 	<row id="msg_0679_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Didn’t we make plans to have\nanother scrap?\rWe waitin’ on {STRVAR_1 4, 3, 0}, so\ndon’t forget, OK?</language>
+		<language name="English">Didn’t we make plans to scrap again?\rWe waitin’ on {STRVAR_1 4, 3, 0},\nso don’t forget, OK? Both of us.</language>
 	</row>
 	<row id="msg_0679_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, since we on the phone, how\nabout we give you a quiz?\r...\rSo, who talkin’ right now? Kay or\nTia?\r...\n...\f...\f...\fThe correct answer is...\rEleanor from the Homie Fan Club,\nwho standin’ next to the twins!</language>
+		<language name="English">Since we on the phone, how ’bout a\nquiz?\r...\rWho talkin’ right now? Kay or Tia?\r... ...\f...\f...\fThe correct answer is...\rEleanor from the Homie Fan Club, who\nstandin’ next to the twins!\fWe let her use the phone sometimes.</language>
 	</row>
 	<row id="msg_0679_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, Tia found a Oval Stone.\rIt’s yours if you come find us\non {STRVAR_1 4, 3, 0}. Got it?</language>
+		<language name="English">Ayo, Tia found a Oval Stone.\rIt’s yours if you find us on\n{STRVAR_1 4, 3, 0}. Got it? Kay says hi.</language>
 	</row>
 	<row id="msg_0679_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We waitin’ on {STRVAR_1 4, 3, 0}.\nWe’ll give you a Oval Stone...</language>
+		<language name="English">We waitin’ on {STRVAR_1 4, 3, 0}.\nWe’ll give you a Oval Stone...\fKay is holdin’ it. Or Tia.</language>
 	</row>
 </body>

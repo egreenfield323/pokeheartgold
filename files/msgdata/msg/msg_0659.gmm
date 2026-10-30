@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0659_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? I can’t hear you real good.\nI think the connection trash.\rWell, if you got somethin’ you wanna\ntalk to me about, go somewhere else\fand try callin’ again.</language>
+		<language name="English">What? I can’t hear you real good.\nI think the connection trash.\rOr my hearin’ aid. Hold on...\nYou still there? Call back, sonny.</language>
 	</row>
 	<row id="msg_0659_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, hi, how you doin’?\fI’m fine, thanks.\r</language>
+		<language name="English">Wassup...\nOh, hi, how you doin’?\fI’m fine, thanks. My knee hurts.\fIt’s gon’ snow.\r</language>
 	</row>
 	<row id="msg_0659_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s Block Bosses out\nthere stronger than me.\fYou should try scrappin’ ’em.\fI don’t think you’d lose.</language>
+		<language name="English">You know, there’s Block Bosses out\nthere stronger than me.\fYou should try scrappin’ ’em.\fI don’t think you’d lose. I would.</language>
 	</row>
 	<row id="msg_0659_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I usually get up real early...\nIf we gon’ scrap, I’m at my best\fin the mornin’... How ’bout you give\fme a call Monday mornin’!</language>
+		<language name="English">I usually get up real early...\nI’m at my best in the mornin’...\fHow ’bout you call me Monday mornin’!\fLike 5 AM. I’m up at 4.</language>
 	</row>
 	<row id="msg_0659_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, perfect timin’!\nI was gettin’ bored...\fYou wanna scrap again? {YESNO 0}</language>
+		<language name="English">Oh, perfect timin’!\nI was gettin’ bored... I already did my\fcrossword.\fYou wanna scrap again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0659_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honesty is good.\rSo, I’ll meet you at\nthe Saffron Dojo, then?</language>
+		<language name="English">Honesty is good.\rSo, I’ll meet you at the Saffron Dojo,\nthen? I’ll take the bus.</language>
 	</row>
 	<row id="msg_0659_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see. Well, that’s how it’s gotta\nbe...\rIf you ever change your mind, gimme\na call.\rRemember, I’m free Monday mornings.</language>
+		<language name="English">I see. Well, that’s how it’s gotta be...\rIf you ever change your mind, call.\nI’m free Monday mornings.\fI’m free every mornin’. I’m retired.</language>
 	</row>
 	<row id="msg_0659_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. You deadass got time to\nscrap me right now?\rIf you got plans with other people,\nhandle those first,\fdon’t you think?</language>
+		<language name="English">Hmm. You deadass got time to scrap me\nright now?\rIf you got plans with other people,\nhandle those first, don’t you think?\fIn my day we kept our word.</language>
 	</row>
 	<row id="msg_0659_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, I’ll see you at\nthe Saffron Dojo.\fI won’t be late. Don’t worry!</language>
+		<language name="English">Aight, I’ll see you at the Saffron Dojo.\fI won’t be late. Don’t worry!\fI’m always 40 minutes early.</language>
 	</row>
 	<row id="msg_0659_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, this Pryce.\nHow you doin’?\r</language>
+		<language name="English">Yes, this Pryce.\nHow you doin’? Speak up.\r</language>
 	</row>
 	<row id="msg_0659_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to scrap at\nthe Saffron Dojo.\fYou ain’t forget, did you?\fI’m waitin’ there for you.</language>
+		<language name="English">We made plans to scrap at the Saffron\nDojo.\fYou ain’t forget, did you?\fI’m waitin’ there. I brought a chair.</language>
 	</row>
 	<row id="msg_0659_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like one of my kids...\rNo.\rYou more like one of my\ngrandkids...\rThere’s such a age gap between\nme and the Hustlers who beat me\fthese days...\rBut you know, the weird thing is\nwhen I lose, I ain’t disappointed.\rI just feel happy.\rJust happy such talented Hustlers\ncame to see me.\r...I just wanted to talk to somebody\nabout that, so I called you.\rThat’s all.</language>
+		<language name="English">Just like one of my kids...\rNo.\rYou more like one of my grandkids...\rThe Hustlers who beat me these days is\nSO young...\rBut when I lose, I ain’t disappointed.\rI just feel happy.\rHappy talented Hustlers came to see\nme.\r...I just wanted to tell somebody, so I\ncalled you.\fThat’s all. Wear a jacket.</language>
 	</row>
 	<row id="msg_0659_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know why they call me the winter\nHustler? You remember my middle\fname is “Willow”?\rThe willow tree look like it wither in\nwinter’s cold. But deadass, it sprout\fdozens of new buds.\rMy fightin’ style strong just\nlike that...\rIt’s in old books, you know.\nLook it up sometime.</language>
+		<language name="English">You know why they call me the winter\nHustler? My middle name is “Willow.”\rThe willow look like it wither in the\ncold. But it sprouts new buds.\rMy fightin’ style just like that...\rIt’s in old books, you know.\fLook it up. In a BOOK. Not your phone.</language>
 	</row>
 	<row id="msg_0659_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me, you kept The Feds’\nfederal overreach in check, right?\rHumph...\nThat’s a praiseworthy deed and\fthe right move for a Hustler\fwho could beat me.\rI think there’s still a few things I\ncould learn from you.\rI’m lookin’ forward to it.</language>
+		<language name="English">That reminds me, you kept The Feds’\nfederal overreach in check, right?\rHumph...\nPraiseworthy. The right move.\rI think there’s still a few things I\ncould learn from you.\fLike how to use this phone.</language>
 	</row>
 </body>

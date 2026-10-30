@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0656_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Wha...? I can’t hear you.\nConnection must be trash.\rGo somewhere else and try\ncallin’ again!</language>
+		<language name="English">HUH? WHA...? I CAN’T HEAR YOU!\nConnection must be TRASH!\rGo somewhere else and try callin’\nagain! I’M YELLIN’ ’CAUSE I CARE!</language>
 	</row>
 	<row id="msg_0656_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WASSUP?!\nOh, ayo, my bad for yellin’!\rI’m doin’ GREAT!\r</language>
+		<language name="English">WASSUP?!\nOh, ayo, my bad for yellin’!\rI’m doin’ GREAT!\fI just did 400 push-ups!\r</language>
 	</row>
 	<row id="msg_0656_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know there’s some stronger\nBlock Bosses around.\fDon’t lose heart! Keep goin’!</language>
+		<language name="English">You know there’s some stronger Block\nBosses around.\fDON’T LOSE HEART! KEEP GOIN’!\fWHOOOO!</language>
 	</row>
 	<row id="msg_0656_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see... I’m free most Wednesday\nnights. Gimme a call then, OK?</language>
+		<language name="English">Let’s see... I’m free most Wednesday\nnights.\fGimme a call then, OK?\fMY WIFE GO TO BED AT 9.</language>
 	</row>
 	<row id="msg_0656_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh ayo! I just finished trainin’.\nYou wanna scrap again? {YESNO 0}</language>
+		<language name="English">Oh ayo! I just finished trainin’!\nI’m DRIPPIN’!\fYou wanna scrap again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0656_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\rI’ll be waitin’ over at\nthe Saffron Dojo!</language>
+		<language name="English">AIGHT!\rI’ll be waitin’ over at the Saffron\nDojo!\fDON’T TELL MY WIFE WHERE I AM!</language>
 	</row>
 	<row id="msg_0656_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Noooooo!\nThat’s TERRIBLE!</language>
+		<language name="English">NOOOOOO!\nThat’s TERRIBLE!\fI’m gon’ go punch a waterfall.</language>
 	</row>
 	<row id="msg_0656_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm... You just scrappin’ me, right?\nAin’t you got other plans?</language>
+		<language name="English">Hmm... You just scrappin’ me, right?\nAin’t you got other plans?\fI can see through you. I trained my\feyes under a waterfall.</language>
 	</row>
 	<row id="msg_0656_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waitin’ at the Saffron Dojo.\fLook forward to it!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\fLook forward to it! I’ll bring\fsnacks! Secret snacks!</language>
 	</row>
 	<row id="msg_0656_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Chuck here!\nWhat’s good?\r</language>
+		<language name="English">YO! CHUCK HERE!\nWHAT’S GOOD?\r</language>
 	</row>
 	<row id="msg_0656_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo?\fDon’t tell me you forgot?\fC’mon, man! I’m waitin’!</language>
+		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo?\fDon’t tell me you forgot?\fC’mon, man! I been stretchin’ for an\fhour!</language>
 	</row>
 	<row id="msg_0656_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I spend mad time trainin’\nunder a poundin’ waterfall every day.\rGuess that’s why me and my wife\nbeen beefin’ a lot lately.\rI was thinkin’ of takin’ her on a trip\nto say sorry, but I can’t think of\fany good spots.\r...That’s it!\rI’ll take her to Tohjo Falls! What\nyou think? Another waterfall!</language>
+		<language name="English">You know, I train under a poundin’\nwaterfall every day.\rGuess that’s why me and my wife been\nbeefin’ a lot lately.\rI was thinkin’ of takin’ her on a trip\nto say sorry...\r...THAT’S IT!\rI’ll take her to Tohjo Falls! What\nyou think? ANOTHER waterfall!\fShe’ll love it. She’ll hate it.</language>
 	</row>
 	<row id="msg_0656_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’m only gon’ say this\nonce, but I...\rI REALLY like sweets. They the best.\rAfter trainin’ every day, the thing\nI look forward to more\fthan anythin’ is sneakin’ behind my\fwife’s back to eat somethin’ sweet.\rLuckily, I ain’t been packin’ on\ntoo many pounds...\rOh! Don’t tell my wife! PLEASE!</language>
+		<language name="English">You know, I’m only gon’ say this once,\nbut I...\rI REALLY like sweets. They the BEST.\rAfter trainin’, I sneak behind my wife’s\nback and eat somethin’ sweet.\fI got cake hid in the Block. In the\fwaterfall. It’s waterproof cake.\rOh! Don’t tell my wife! PLEASE!\nSHE’S RIGHT HERE! ...Hi, honey!</language>
 	</row>
 	<row id="msg_0656_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lately my Block’s waterfall machine\nbeen glitchin’... Aaaaahh!\rBoomwhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh...!\r...Haa haaa haaaaa. My bad.\nWhile I was on the phone with you, the\fmachine broke and I got soaked.\rI’ll call you back once things\ncalm down a bit here!</language>
+		<language name="English">Lately my Block’s waterfall machine\nbeen glitchin’... AAAAAHH!\rBoomwhooshoowhooshoowhoosh\foowhooshoowhooshoowhoosh...!\r...Haa haaa haaaaa. My bad. The machine\nbroke and I got SOAKED.\fMy cake’s ruined. Don’t tell my wife.\rI’ll call you back!</language>
 	</row>
 </body>

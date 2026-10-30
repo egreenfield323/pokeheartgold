@@ -1,15 +1,15 @@
 {
   "_comment": "second pass",
   "0": "DING-DING! Time's UP!\\nThe Bug-Catching Contest is OVER!\\fPut the nets down!\\r",
-  "1": "DING-DING! You out of Sport Balls!\\nThe Bug-Catching Contest over for YOU!\\r",
+  "1": "DING-DING! You out of Sport Sacks!\\nThe Bug-Catching Contest over for YOU!\\r",
   "4": "Today Tuesday.\\rThat mean the Bug-Catching Contest is ON!\\rRules is simple.\\rUse one homie to catch a Bug-type\\nhomie. Judges rate it.\\rBiggest, baddest bug wins.\\nYou wanna try? {YESNO 0}",
   "5": "Today Thursday.\\rThat mean the Bug-Catching Contest is ON!\\rRules is simple.\\rUse one homie to catch a Bug-type\\nhomie. Judges rate it.\\rBiggest, baddest bug wins.\\nYou wanna try? {YESNO 0}",
   "6": "Today Saturday.\\rThat mean the Bug-Catching Contest is ON!\\rRules is simple.\\rUse one homie to catch a Bug-type\\nhomie. Judges rate it.\\rBiggest, baddest bug wins.\\nYou wanna try? {YESNO 0}",
   "7": "The Bug-Catching Contest happen Tuesday,\\nThursday, and Saturday.\\rYou get a prize just for showin' up, AND\\nyou keep the last bug you catch.\\fIt's basically free bugs.",
   "10": "Uh-oh... You got more than one homie.\\rYou gotta use {STRVAR_1 1, 0, 0}, the first homie\\nin your crew.\\rThat cool with you? {YESNO 0}",
   "13": "Fine, we'll hold your other homies while\\nyou compete. They safe with us. Mostly.\\r{STRVAR_1 3, 0, 0}'s homies got left with the\\nContest Helper.\\r",
-  "14": "Here go the Sport Balls for the Contest.\\r{STRVAR_1 3, 0, 0} got 20 Sport Balls.\\nDon't throw 'em at people.\\r",
-  "15": "Whoever get the STRONGEST bug wins.\\rYou got 20 minutes.\\rRun out of Sport Balls, you done.\\rYou keep the last homie you catch.\\nGo out there and catch the BADDEST\\fBug-type homie you can find!\\r",
+  "14": "Here go the Sport Sacks for the Contest.\\r{STRVAR_1 3, 0, 0} got 20 Sport Sacks.\\nDon't throw 'em at people.\\r",
+  "15": "Whoever get the STRONGEST bug wins.\\rYou got 20 minutes.\\rRun out of Sport Sacks, you done.\\rYou keep the last homie you catch.\\nGo out there and catch the BADDEST\\fBug-type homie you can find!\\r",
   "16": "Oh no!\\rMy bad, you ain't got room to catch no\\nmore homies. Your PC is FULL. Wow.",
   "17": "OK. Hope you join next time.\\nThe bugs'll be here.",
   "18": "Today's Bug-Catching Contest is OVER.\\rCome back next time! Bring a bigger net.",
@@ -32,7 +32,7 @@
   "60": "Benny: ...... ...... ......\\n...... ...... SSSSH!\\rYou gon' scare off SCYTHER.\\nTalk to me later. Whisper.",
   "61": "Benny: Listen, I caught a SCYTHER once,\\nand I STILL ain't win. The judges is crooked.",
   "62": "Benny: I just came to see how things\\nwas goin', you know?\\rI'll REALLY try next time. Maybe.",
-  "63": "Barry: Rough the bug up first, then throw\\nthe Hood Ball. That's just manners.",
+  "63": "Barry: Rough the bug up first, then throw\\nthe Nap Sack. That's just manners.",
   "64": "Barry: High-level bugs help. But they\\njudge other stuff too. Vibes, probably.",
   "65": "Barry: That homie you caught...\\nIt's AWESOME! Can I touch it?",
   "66": "Cindy: I REALLY love Bug-type homies!",
@@ -46,5 +46,6 @@
   "74": "Samuel: It's SO disappointin'...\\nI won't forget this. Ever. I'm petty.",
   "75": "Kipp: I studied bugs at a REAL college.\\nI'm finna win for sure. I got loans.",
   "76": "Kipp: I study a LOT, but it ain't enough.\\nEducation is a scam.",
-  "77": "Kipp: Could you give me tips? PLEASE?\\nI'll pay you in bugs."
+  "77": "Kipp: Could you give me tips? PLEASE?\\nI'll pay you in bugs.",
+  "43": "Give the {STRVAR_1 0, 1, 0} you caught\\na street name? {YESNO 0}"
 }

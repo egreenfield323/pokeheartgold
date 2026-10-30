@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0134_D47PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">People who come to a Trap House\ntake good care of their homies.\fAin’t that right?</language>
+		<language name="English">People who come to a Trap House\ntake good care of their homies.\fAin’t that right?\fI’m here for the free water fountain.</language>
 	</row>
 	<row id="msg_0134_D47PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After a long hike in the mountains\nlookin’ for a Trap House, when you\f’bout to fall flat...\rThen it feel like paradise!</language>
+		<language name="English">After a long hike in the mountains\nlookin’ for a Trap House, right when\fyou ’bout to pass out...\rThen it feel like paradise!\nAir conditionin’. A couch. Free Wi-Fi.</language>
 	</row>
 </body>

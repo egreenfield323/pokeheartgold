@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Joey (top percentage RATTATA).",
   "1": "Ayo, can I get your number?\\nI'll ring you up to scrap. {YESNO 0}",
-  "2": "I'll ring you whenever I get the urge\\nto scrap!",
-  "3": "Oh, aight...\\nBut I ain't losin' to you again!",
+  "2": "I'll ring you whenever I get the urge\\nto scrap! Which is ALWAYS.",
+  "3": "Oh, aight...\\nBut I ain't losin' to you again!\\fPROBABLY!",
   "4": "Can I get your number?\\rI ain't tryna lose to you again!\\nWe gotta scrap again, OK? {YESNO 0}",
-  "5": "And ANOTHER L...\\nNo doubt about it--you tough.\\rGettin' beat this much actually feel\\ngood now!\\rHere, take this.\\nUse it to get even tougher. That'll\\ftoughen me up too!\\r",
+  "5": "And ANOTHER L...\\nNo doubt about it--you tough.\\rGettin' beat this much actually feel\\ngood now. Is that weird?\\rHere, take this.\\nUse it to get tougher!\\r",
   "6": "Ayo, you right nearby, ain't you?\\nWhy you callin'? Come talk to me!",
-  "7": "Ayo, you remember my super-hard\\n{STRVAR_1 0, 10, 0}?\\rMy {STRVAR_1 0, 10, 0} different from\\nregular {STRVAR_1 0, 10, 0}.\\rIt's like my {STRVAR_1 0, 10, 0} in the top\\npercentage of {STRVAR_1 0, 10, 0}.\\rYou feel what I'm sayin'?",
-  "8": "Oh yeah, I took down a {STRVAR_1 0, 11, 0}\\nin the wild the other day.\\rIt was light work. Well, I guess\\nit can't be helped, us bein' so tough.\\rAight. Later!",
-  "9": "Oh yeah, I saw a wild {STRVAR_1 0, 11, 0}!\\nI thought about goin' for it, but\\fthen I fumbled!\\rOh well. That's just how\\nit go. I ain't real good at catchin'\\fhomies...",
-  "10": "Let's link up and scrap!\\nI promise it's gon' be different!\\r{STRVAR_1 4, 3, 0} is where I'll be.\\nHolla when you get here.\\rAight. Later!",
-  "11": "What's takin' so long, {STRVAR_1 3, 0, 0}?\\rLet's get down and scrap already!\\nI'm waitin' on {STRVAR_1 4, 3, 0}!",
-  "12": "I'm studyin' {STRVAR_1 0, 10, 0}'s moves\\nand cookin' up some strategies.\\rWhen I come up with a good one,\\nlet's scrap!\\rAight. Later!"
+  "7": "Ayo, you remember my super-hard\\n{STRVAR_1 0, 10, 0}?\\rMy {STRVAR_1 0, 10, 0} different from\\nregular {STRVAR_1 0, 10, 0}.\\rIt's like my {STRVAR_1 0, 10, 0} in the\\nTOP PERCENTAGE of {STRVAR_1 0, 10, 0}.\\rYou feel what I'm sayin'?",
+  "8": "Oh yeah, I took down a wild {STRVAR_1 0, 11, 0}\\nthe other day.\\rLight work. Can't be helped, us bein'\\nso tough. Top percentage.\\rAight. Later!",
+  "9": "Oh yeah, I saw a wild {STRVAR_1 0, 11, 0}!\\nI went for it, but I fumbled!\\rThat's just how it go. I ain't good\\nat catchin' homies...\\fTop percentage at fumblin' though.",
+  "10": "Let's link up and scrap!\\nIt's gon' be DIFFERENT this time!\\r{STRVAR_1 4, 3, 0} is where I'll be.\\nHolla when you get here.\\rAight. Later!",
+  "11": "What's takin' so long, {STRVAR_1 3, 0, 0}?\\rLet's scrap already!\\nI'm waitin' on {STRVAR_1 4, 3, 0}!\\fMy homie is gettin' cold.",
+  "12": "I'm studyin' {STRVAR_1 0, 10, 0}'s moves and\\ncookin' up strategies.\\rWhen I come up with a good one,\\nlet's scrap!\\fIt's gonna be Tackle. It's always Tackle.\\rAight. Later!"
 }

@@ -6,67 +6,67 @@
 	</row>
 	<row id="msg_0221_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The OG of all Balls. Nobody says no\nto the OG. Recruits any homie\noff the street, guaranteed.</language>
+		<language name="English">The Whole Gang. Throw it and the\nwhole squad jumps out the bushes.\nNobody escapes the gang.</language>
 	</row>
 	<row id="msg_0221_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Plug Ball. Better pitch than a\nBando Ball. Homies hear “plug”\nand they come runnin’.</language>
+		<language name="English">The Rug Roll. Roll ’em up in a\ncarpet like the movies. Better\nodds than a Duffel Bag.</language>
 	</row>
 	<row id="msg_0221_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Bando Ball. Better odds than a\nregular Hood Ball. Smells like the\ntrap but it works.</language>
+		<language name="English">A Duffel Bag. Zip a homie right\nup. Better odds than a Nap Sack.\nSmells like the gym.</language>
 	</row>
 	<row id="msg_0221_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Hood Ball. Toss it at a homie\nthat ain’t claimed and make your\npitch. Welcome to the gang.</language>
+		<language name="English">A burlap sack. Throw it over a homie\nthat ain’t claimed and tie it up.\nThey in the gang now. No refunds.</language>
 	</row>
 	<row id="msg_0221_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Zoo Ball, only used in the\nGreat Marsh. Camo print so the\nopps don’t see it comin’.</language>
+		<language name="English">A Zoo Sack, only used in the\nGreat Marsh. Camo print so the\nopps don’t see it comin’.</language>
 	</row>
 	<row id="msg_0221_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Trap Ball. Real good on Water-\nand Bug-type homies. They walk\nright into it every time.</language>
+		<language name="English">A Trap Sack. Real good on Water-\nand Bug-type homies. They walk\nright into it every time.</language>
 	</row>
 	<row id="msg_0221_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pool Ball. Works best on homies\nthat live in the ocean.\nSmells like chlorine.</language>
+		<language name="English">A Pool Sack. Works best on homies\nthat live in the ocean.\nSmells like chlorine.</language>
 	</row>
 	<row id="msg_0221_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Crib Ball. Works best on weaker\nhomies. Offer ’em a couch and\nthey yours.</language>
+		<language name="English">A Crib Sack. Works best on weaker\nhomies. Offer ’em a couch and\nthey yours.</language>
 	</row>
 	<row id="msg_0221_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Re-Up Ball. Works best on\nhomies you already got.\nLoyalty program.</language>
+		<language name="English">A Re-Up Sack. Works best on\nhomies you already got.\nLoyalty program.</language>
 	</row>
 	<row id="msg_0221_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Late Ball. Gets better the\nlonger the fight go.\nAlways on CP time.</language>
+		<language name="English">A Late Sack. Gets better the\nlonger the fight go.\nAlways on CP time.</language>
 	</row>
 	<row id="msg_0221_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Drip Ball. Homies recruited\nwith this ride for you faster.\nIt’s the leather interior.</language>
+		<language name="English">A Drip Sack. Homies recruited\nwith this ride for you faster.\nIt’s the leather interior.</language>
 	</row>
 	<row id="msg_0221_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A VIP Ball. Real rare. Made for\nsome event nobody remembers.\nStill fly though.</language>
+		<language name="English">A VIP Sack. Real rare. Made for\nsome event nobody remembers.\nStill fly though.</language>
 	</row>
 	<row id="msg_0221_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Night Ball. Works best at night\nor in dark spots like caves.\nThe best deals happen at night.</language>
+		<language name="English">A Night Sack. Works best at night\nor in dark spots like caves.\nThe best deals happen at night.</language>
 	</row>
 	<row id="msg_0221_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Henny Ball. Homies recruited\nwith it come out patched up\nand feelin’ good.</language>
+		<language name="English">A Henny Sack. Homies recruited\nwith it come out patched up\nand feelin’ good.</language>
 	</row>
 	<row id="msg_0221_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Dash Ball. Works best if you\nthrow it before they even\nknow what’s goin’ on.</language>
+		<language name="English">A Dash Sack. Works best if you\nthrow it before they even\nknow what’s goin’ on.</language>
 	</row>
 	<row id="msg_0221_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Day1 Ball. Real rare.\nFor the ones that been\nthere since the beginnin’.</language>
+		<language name="English">A Day1 Sack. Real rare.\nFor the ones that been\nthere since the beginnin’.</language>
 	</row>
 	<row id="msg_0221_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -1761,7 +1761,7 @@
 	</row>
 	<row id="msg_0221_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A case for storin’ Seals that can be\napplied to the Capsule cases of\nHood Balls.</language>
+		<language name="English">A case for storin’ Seals that can be\napplied to the Patch cases of\nNap Sacks.</language>
 	</row>
 	<row id="msg_0221_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
@@ -1769,7 +1769,7 @@
 	</row>
 	<row id="msg_0221_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tiny bag that can hold ten Seals for\ndecoratin’ Hood Balls.</language>
+		<language name="English">A tiny bag that can hold ten Seals for\ndecoratin’ Nap Sacks.</language>
 	</row>
 	<row id="msg_0221_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
@@ -1897,7 +1897,7 @@
 	</row>
 	<row id="msg_0221_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A handy box where you can store up to\n99 Apricorns of each kind.</language>
+		<language name="English">A handy box for everythin’ you dug\noutta bushes. Holds 99 of each kind.</language>
 	</row>
 	<row id="msg_0221_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
@@ -1965,67 +1965,67 @@
 	</row>
 	<row id="msg_0221_00485" index="485">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A red Apricorn.\nIt assails your nostrils.</language>
+		<language name="English">Real gator. Boss-level leather.\nKurt makes Gator Bags outta it.</language>
 	</row>
 	<row id="msg_0221_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A yellow Apricorn.\nIt has an invigoratin’ scent.</language>
+		<language name="English">A silky satin scrap. Shines in\nthe moonlight. Kurt wants it.</language>
 	</row>
 	<row id="msg_0221_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A blue Apricorn.\nIt smells a bit like grass.</language>
+		<language name="English">Croc hide, still a lil damp.\nSmells like the river.</language>
 	</row>
 	<row id="msg_0221_00488" index="488">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A green Apricorn.\nIt has a mysterious, aromatic scent.</language>
+		<language name="English">A soft suede scrap. Don’t get it\nwet. Seriously.</language>
 	</row>
 	<row id="msg_0221_00489" index="489">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pink Apricorn.\nIt has a nice, sweet scent.</language>
+		<language name="English">A velvet scrap. Smells like\nsomebody’s cologne. Too much of it.</language>
 	</row>
 	<row id="msg_0221_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A white Apricorn.\nIt don’t smell like anythin’.</language>
+		<language name="English">A nylon tracksuit scrap. Swishes\nwhen you move it.</language>
 	</row>
 	<row id="msg_0221_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A black Apricorn\nIt has an indescribable scent.</language>
+		<language name="English">A denim scrap. Heavy-duty. Somebody’s\nuncle’s jorts, prob’ly.</language>
 	</row>
 	<row id="msg_0221_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball that makes it easier to\ncatch fast Pokémon.</language>
+		<language name="English">A Nap Sack that makes it easier to\ncatch fast Pokémon.</language>
 	</row>
 	<row id="msg_0221_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catchin’ Pokémon that\nare a lower level than your own.</language>
+		<language name="English">A Nap Sack for catchin’ Pokémon that\nare a lower level than your own.</language>
 	</row>
 	<row id="msg_0221_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catchin’ Pokémon hooked\nby a Rod when fishin’.</language>
+		<language name="English">A Nap Sack for catchin’ Pokémon hooked\nby a Rod when fishin’.</language>
 	</row>
 	<row id="msg_0221_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catchin’ hella heavy\nPokémon.</language>
+		<language name="English">A Nap Sack for catchin’ hella heavy\nPokémon.</language>
 	</row>
 	<row id="msg_0221_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hood Ball for catchin’ Pokémon that are\nthe opposite gender of your Pokémon.</language>
+		<language name="English">Nap Sack for catchin’ Pokémon that are\nthe opposite gender of your Pokémon.</language>
 	</row>
 	<row id="msg_0221_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball that makes caught Pokémon\nmore friendly.</language>
+		<language name="English">A Nap Sack that makes caught Pokémon\nmore friendly.</language>
 	</row>
 	<row id="msg_0221_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hood Ball for catchin’ Pokémon that\nevolve using the Moon Stone.</language>
+		<language name="English">A Nap Sack for catchin’ Pokémon that\nevolve using the Moon Stone.</language>
 	</row>
 	<row id="msg_0221_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Hood Ball for the\nBug-Catching Contest.</language>
+		<language name="English">A special Nap Sack for the\nBug-Catching Contest.</language>
 	</row>
 	<row id="msg_0221_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Hood Ball for the Pal Park.</language>
+		<language name="English">A special Nap Sack for the Pal Park.</language>
 	</row>
 	<row id="msg_0221_00501" index="501">
 		<attribute name="window_context_name">used</attribute>

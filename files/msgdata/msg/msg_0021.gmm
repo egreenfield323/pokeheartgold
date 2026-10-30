@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0021_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Apricorn Box</language>
+		<language name="English">Stash Box</language>
 	</row>
 	<row id="msg_0021_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,31 +30,31 @@
 	</row>
 	<row id="msg_0021_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Apricorn</language>
+		<language name="English">Gator Hide</language>
 	</row>
 	<row id="msg_0021_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ylw Apricorn</language>
+		<language name="English">Satin Scrap</language>
 	</row>
 	<row id="msg_0021_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blu Apricorn</language>
+		<language name="English">Croc Hide</language>
 	</row>
 	<row id="msg_0021_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grn Apricorn</language>
+		<language name="English">Suede Scrap</language>
 	</row>
 	<row id="msg_0021_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pnk Apricorn</language>
+		<language name="English">Velvet Scrap</language>
 	</row>
 	<row id="msg_0021_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wht Apricorn</language>
+		<language name="English">Nylon Scrap</language>
 	</row>
 	<row id="msg_0021_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blk Apricorn</language>
+		<language name="English">Denim Scrap</language>
 	</row>
 	<row id="msg_0021_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -111,15 +111,15 @@
 	</row>
 	<row id="msg_0021_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Collected Apricorns are inside.</language>
+		<language name="English">Everything you dug outta bushes.</language>
 	</row>
 	<row id="msg_0021_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Put the Apricorn in the Apriblender.</language>
+		<language name="English">Put the scrap in the Apriblender.</language>
 	</row>
 	<row id="msg_0021_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Haven’t blended enough yet...</language>
+		<language name="English">Ain’t blended enough yet...</language>
 	</row>
 	<row id="msg_0021_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -135,11 +135,11 @@
 	</row>
 	<row id="msg_0021_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can still put in {STRVAR_1 50, 0, 0} Apricorns.</language>
+		<language name="English">Can still put in {STRVAR_1 50, 0, 0} scraps.</language>
 	</row>
 	<row id="msg_0021_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot put in any more Apricorns.</language>
+		<language name="English">Can’t fit no more scraps.</language>
 	</row>
 	<row id="msg_0021_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -151,7 +151,7 @@
 	</row>
 	<row id="msg_0021_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select which Apricorns to give.</language>
+		<language name="English">Select which scraps to give.</language>
 	</row>
 	<row id="msg_0021_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -163,31 +163,31 @@
 	</row>
 	<row id="msg_0021_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Apricorn\nA red Apricorn.\nIt assails your nostrils.</language>
+		<language name="English">Gator Hide\nReal gator. Boss-level leather.\nSmells like a swamp and bread.</language>
 	</row>
 	<row id="msg_0021_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ylw Apricorn\nA yellow Apricorn.\nIt has an invigorating scent.</language>
+		<language name="English">Satin Scrap\nSilky smooth. Shines in the\nmoonlight. Kinda fancy, ngl.</language>
 	</row>
 	<row id="msg_0021_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blu Apricorn\nA blue Apricorn.\nIt smells a bit like grass.</language>
+		<language name="English">Croc Hide\nStill a lil damp.\nSmells a bit like the river.</language>
 	</row>
 	<row id="msg_0021_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grn Apricorn\nA green Apricorn.\nIt has a mysterious, aromatic scent.</language>
+		<language name="English">Suede Scrap\nSoft and friendly.\nDon’t get it wet. Seriously.</language>
 	</row>
 	<row id="msg_0021_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pnk Apricorn\nA pink Apricorn.\nIt has a nice, sweet scent.</language>
+		<language name="English">Velvet Scrap\nRomantic. Smells like cologne\nsomebody wore WAY too much of.</language>
 	</row>
 	<row id="msg_0021_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wht Apricorn\nA white Apricorn.\nIt doesn’t smell like anything.</language>
+		<language name="English">Nylon Scrap\nTracksuit material. Swishes\nwhen you move. Built for speed.</language>
 	</row>
 	<row id="msg_0021_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blk Apricorn\nA black Apricorn.\nIt has an indescribable scent.</language>
+		<language name="English">Denim Scrap\nHeavy-duty. Somebody’s uncle’s\njorts, prob’ly.</language>
 	</row>
 	<row id="msg_0021_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -199,7 +199,7 @@
 	</row>
 	<row id="msg_0021_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">~How to Make Aprijuice~\nCollect Apricorns and put them\nin the Apriblender!\rYou can make a drink with one,\nbut the more Apricorns,\nthe better the taste!\rPut the Apricorns in and blend\nby running to the next town!</language>
+		<language name="English">~How to Make Aprijuice~\nCollect scraps and put them\nin the Apriblender!\rDon’t ask what’s in it.\nIt’s better if you don’t know.\rPut the scraps in and blend\nby runnin’ to the next town!</language>
 	</row>
 	<row id="msg_0021_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -211,7 +211,7 @@
 	</row>
 	<row id="msg_0021_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Aprijuice is not done!\nPut Apricorns in the Apriblender\nand blend by walking!</language>
+		<language name="English">The Aprijuice ain’t done!\nPut scraps in the Apriblender\nand blend by walkin’!</language>
 	</row>
 	<row id="msg_0021_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -219,11 +219,11 @@
 	</row>
 	<row id="msg_0021_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice is being made!\nShake by walking!</language>
+		<language name="English">Aprijuice is being made!\nShake by walkin’!</language>
 	</row>
 	<row id="msg_0021_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Improving the Aprijuice!\nShake by walking!</language>
+		<language name="English">Improving the Aprijuice!\nShake by walkin’!</language>
 	</row>
 	<row id="msg_0021_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -239,11 +239,11 @@
 	</row>
 	<row id="msg_0021_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So spicy, it causes coughing!</language>
+		<language name="English">So spicy, it causes coughin’!</language>
 	</row>
 	<row id="msg_0021_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A resounding spiciness!</language>
+		<language name="English">A resoundin’ spiciness!</language>
 	</row>
 	<row id="msg_0021_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -255,7 +255,7 @@
 	</row>
 	<row id="msg_0021_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An invigorating flavor.</language>
+		<language name="English">An invigoratin’ flavor.</language>
 	</row>
 	<row id="msg_0021_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -315,7 +315,7 @@
 	</row>
 	<row id="msg_0021_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sinking bitterness!</language>
+		<language name="English">A sinkin’ bitterness!</language>
 	</row>
 	<row id="msg_0021_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -331,7 +331,7 @@
 	</row>
 	<row id="msg_0021_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very sweet!</language>
+		<language name="English">Hella sweet!</language>
 	</row>
 	<row id="msg_0021_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -427,7 +427,7 @@
 	</row>
 	<row id="msg_0021_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very faint spiciness.</language>
+		<language name="English">A hella faint spiciness.</language>
 	</row>
 	<row id="msg_0021_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -439,7 +439,7 @@
 	</row>
 	<row id="msg_0021_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very faint sourness.</language>
+		<language name="English">A hella faint sourness.</language>
 	</row>
 	<row id="msg_0021_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -451,7 +451,7 @@
 	</row>
 	<row id="msg_0021_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very faint dry taste.</language>
+		<language name="English">A hella faint dry taste.</language>
 	</row>
 	<row id="msg_0021_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -463,7 +463,7 @@
 	</row>
 	<row id="msg_0021_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very faint bitterness.</language>
+		<language name="English">A hella faint bitterness.</language>
 	</row>
 	<row id="msg_0021_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -475,7 +475,7 @@
 	</row>
 	<row id="msg_0021_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very faint sweetness.</language>
+		<language name="English">A hella faint sweetness.</language>
 	</row>
 	<row id="msg_0021_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -487,11 +487,11 @@
 	</row>
 	<row id="msg_0021_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A disgusting aftertaste.</language>
+		<language name="English">A disgustin’ aftertaste.</language>
 	</row>
 	<row id="msg_0021_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A refreshing aftertaste!</language>
+		<language name="English">A refreshin’ aftertaste!</language>
 	</row>
 	<row id="msg_0021_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
@@ -515,19 +515,19 @@
 	</row>
 	<row id="msg_0021_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The flavor is still quite weak. It\nwould be good to put in some\nApricorns with color...</language>
+		<language name="English">The flavor still weak. It’d be\ngood to put in some scraps\nwith color...</language>
 	</row>
 	<row id="msg_0021_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unspeakably incredible flavor!\nIts tastes are evenly balanced.\nI can’t tell what kind of flavor!</language>
+		<language name="English">Unspeakably incredible flavor!\nIts tastes are evenly balanced.\nI can’t tell what kinda flavor!</language>
 	</row>
 	<row id="msg_0021_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incredibly unspeakable flavor!\nIts tastes are all competing.\nI can’t tell what kind of flavor!</language>
+		<language name="English">Incredibly unspeakable flavor!\nIts tastes are all competin’.\nI can’t tell what kinda flavor!</language>
 	</row>
 	<row id="msg_0021_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s absolutely no flavor!\nIt seems like you need to put in\na colored Apricorn.</language>
+		<language name="English">There’s absolutely no flavor!\nYou need a colored scrap in there.\nDon’t think about it too hard.</language>
 	</row>
 	<row id="msg_0021_00132" index="132">
 		<attribute name="window_context_name">used</attribute>

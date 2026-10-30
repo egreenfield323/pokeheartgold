@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0682_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was fun scrappin’ you!\nI’d love to swap numbers with\fyou, please?\fC’mon, let’s swap numbers! {YESNO 0}</language>
+		<language name="English">It was fun scrappin’ you!\nI’d LOVE to swap numbers, please?\fI’d do ANYTHING. I’d sell a kidney.\fC’mon, let’s swap numbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0682_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good looks! Let’s scrap\nagain sometime!\rJust hit me when you ready.</language>
+		<language name="English">Good looks! Let’s scrap again sometime!\rJust hit me when you ready.\nI’ll answer on the first ring. ALWAYS.</language>
 	</row>
 	<row id="msg_0682_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ulp!\rYou sayin’ you think I’m so weak,\nI ain’t even worth scrappin’?</language>
+		<language name="English">ULP!\rYou sayin’ I’m so weak I ain’t even\nworth scrappin’?\fI’m gon’ go lay in the street.</language>
 	</row>
 	<row id="msg_0682_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0682_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah.\nThis a Shiny Stone.\rIt’s aight, don’t be shy! You can\nhave it. Go ’head!\r</language>
+		<language name="English">Oh yeah.\nThis a Shiny Stone.\rIt’s aight, don’t be shy!\nIt’s worth a MILLION dollars. Maybe.\fTake it. Go ’head!\r</language>
 	</row>
 	<row id="msg_0682_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0682_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m still a lightweight, as usual...\rMy day one, {STRVAR_1 0, 10, 0},\nis grindin’ hard!\rIt even knocked out a {STRVAR_1 0, 11, 0} in\nunder two seconds in a recent scrap!\rOK, OK, two seconds is a lil\ncap... It was actually five\fminutes and 37 seconds...</language>
+		<language name="English">I’m still a lightweight, as usual...\rMy day one, {STRVAR_1 0, 10, 0}, is grindin’\nhard!\rIt knocked out a {STRVAR_1 0, 11, 0} in under two\nseconds in a scrap!\rOK, OK, two seconds is a lil cap...\nIt was five minutes and 37 seconds...\fAnd I helped. With a stick.</language>
 	</row>
 	<row id="msg_0682_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} got pretty\nstrong!\rWell, it got strong, but this\n{STRVAR_1 0, 11, 0} it was scrappin’ dipped\fbefore the fight was over...\rThat was {STRVAR_1 0, 10, 0}’s fault, right?\rIt was MY fault?\rI guess that’s possible!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} got pretty strong!\rBut this {STRVAR_1 0, 11, 0} it was scrappin’\ndipped before the fight was over...\rThat was {STRVAR_1 0, 10, 0}’s fault, right?\rIt was MY fault?\nI guess that’s possible! Unlikely!\fBut possible!</language>
 	</row>
 	<row id="msg_0682_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0682_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah... Ah... Achoo!\rAh... Ah... Ah... Achoo!\rOh, it’s nothin’. It’s just my bird\nhomie started flappin’ its\fwings...so there’s dust and stuff from\ftheir wings floatin’ ’round my face...\fAh... Ah... Now my nose itchy...\rAchoooo!</language>
+		<language name="English">Ah... Ah... ACHOO!\rAh... Ah... Ah... ACHOO!\rIt’s nothin’. My bird homie flappin’ its\nwings, so there’s dust EVERYWHERE...\fI’m DYIN’. I’m deathly allergic.\fNot deadass. But it FEELS like it.\rACHOOOO!</language>
 	</row>
 	<row id="msg_0682_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My homie had somethin’ in its\nmouth recently.\rI was like “What in the world?” and\npulled it out... A Shiny Stone!\fI was shook. Wouldn’t you be?\r...But what’s a Shiny Stone?\rI ain’t got no use for it, and\nI don’t know what it’s worth...so I’ll\fjust give it to you!\rI’ll wait for you on {STRVAR_1 4, 3, 0}.\nCome get it!</language>
+		<language name="English">My homie had somethin’ in its mouth\nrecently.\rI pulled it out... A Shiny Stone!\fI SCREAMED. The neighbors called the\fcops.\r...But what IS a Shiny Stone?\rNo clue what it’s worth, so I’ll just\ngive it to you!\rI’ll wait for you on {STRVAR_1 4, 3, 0}.\nCome get it!</language>
 	</row>
 	<row id="msg_0682_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

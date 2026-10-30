@@ -11,23 +11,23 @@
 	</row>
 	<row id="msg_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Always where you need it!\nYour local Trap House! Open 24/7!</language>
+		<language name="English">Commercial: Always where you need it!\nYour local Trap House! Open 24/7!\nFree healin’! No ID required!</language>
 	</row>
 	<row id="msg_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Full of smilin’ faces!\nYour Corner Store! No loiterin’!</language>
+		<language name="English">Commercial: Full of smilin’ faces!\nYour Corner Store! No loiterin’!\nSeriously. Stop loiterin’.</language>
 	</row>
 	<row id="msg_0412_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Your homie for adventure,\nyour Pokégear...Pokégear...Pokégear!\nYour Pokégear from Silph Co. Take our\nnewest model on your next adventure!</language>
+		<language name="English">Commercial: Your homie for adventure,\nyour Pokégear...Pokégear...Pokégear!\nFrom Silph Co. Now with 2% less\nexplodin’! Take it on your next trip!</language>
 	</row>
 	<row id="msg_0412_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Catch that Hustler’s eye for\na crazy scrap! But don’t pick fights\nwith people who ain’t Hustlers. This\nmessage from the Big League. Be smart.</language>
+		<language name="English">Commercial: Catch that Hustler’s eye for\na crazy scrap! But don’t pick fights\nwith people who ain’t Hustlers.\nThat’s assault. This message from\nthe Big League. Be smart.</language>
 	</row>
 	<row id="msg_0412_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Whenever you turn around,\nthere it is. Your day one through\nlife’s journey. Your homie always got\nyour back. This been a message\nfrom the Big League.</language>
+		<language name="English">Commercial: Whenever you turn around,\nthere it is. Your day one through\nlife’s journey. Your homie always got\nyour back. Even when your ex don’t.\nA message from the Big League.</language>
 	</row>
 	<row id="msg_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0412_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A ancient message bein’\ndug up RIGHT NOW in the Ruins of\nAlph! This message brought to you by\nthe Johto Bureau of Tourism.</language>
+		<language name="English">Commercial: A ancient message bein’\ndug up RIGHT NOW in the Ruins of\nAlph! Experts say it reads “WiFi\npassword: ABC123.” Brought to you by\nthe Johto Bureau of Tourism.</language>
 	</row>
 	<row id="msg_0412_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -43,15 +43,15 @@
 	</row>
 	<row id="msg_0412_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The light of hope shine over\nthis port city’s landmark!\nCome see the Lighthouse! It’s lit!\nThis message brought to you by the\nJohto Bureau of Tourism.</language>
+		<language name="English">Commercial: The light of hope shine over\nthis port city’s landmark!\nCome see the Lighthouse! It’s lit!\nLiterally. That’s the whole point.\nJohto Bureau of Tourism.</language>
 	</row>
 	<row id="msg_0412_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Gulp gulp! Yum! Aprijuice!\nAprijuice! Run and shake, make Aprijuice!\nGulp gulp! Drink it up! Aprijuice!\nEverybody love Aprijuice! Just for\nhomies! None for humans! Aprijuice!</language>
+		<language name="English">Commercial: Gulp gulp! Yum! Aprijuice!\nAprijuice! Run and shake, make Aprijuice!\nGulp gulp! Drink it up! Aprijuice!\nIngredients: scraps from a bush!\nJust for homies! None for humans!</language>
 	</row>
 	<row id="msg_0412_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A clean design, a fly\nsilhouette. A cloud of dust risin’ up.\nRunnin’ with your homies in your\nX Sneakers! Just do it. Or don’t.</language>
+		<language name="English">Commercial: A clean design, a fly\nsilhouette. A cloud of dust risin’ up.\nRunnin’ with your homies in your\nX Sneakers! Just do it. Or don’t.\nWe already got your bread.</language>
 	</row>
 	<row id="msg_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -75,7 +75,7 @@
 	</row>
 	<row id="msg_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Between scraps, why not\ntake a break and blow your bread at\nthe Goldenrod Game Corner?</language>
+		<language name="English">Commercial: Between scraps, why not\ntake a break and blow your bread at\nthe Goldenrod Game Corner? Your mama\ndon’t gotta know. We won’t tell.</language>
 	</row>
 	<row id="msg_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -95,11 +95,11 @@
 	</row>
 	<row id="msg_0412_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Pa pa pa pa da dum pa pa pa pa\nda dum homies! Catch as many homies\nas you want till the Hood Balls run\nout at Baoba’s Safari Zone...zone...</language>
+		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Catch as many homies\nas you want till the Zoo Sacks run\nout at Baoba’s Safari Zone! Now 70%\nfinished! Admission non-refundable!</language>
 	</row>
 	<row id="msg_0412_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Mahogany Town’s famous Rage\nCandy Bar! They grind SO hard every\nday makin’ these famous RageCandyBars!\nWhy not take one home to your\nhomies--a RageCandyBar! No questions!</language>
+		<language name="English">Commercial: Mahogany Town’s famous Rage\nCandy Bar! They grind SO hard every\nday makin’ these! What’s in ’em?\nDon’t worry about it! RageCandyBar!\nNo questions! NO QUESTIONS!</language>
 	</row>
 	<row id="msg_0412_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -127,7 +127,7 @@
 	</row>
 	<row id="msg_0412_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Ride the lightnin’-fast\ntrip between Olivine and Vermilion\non a speedboat ride! Life jackets\nsold separately!</language>
+		<language name="English">Commercial: Ride the lightnin’-fast\ntrip between Olivine and Vermilion\non a speedboat ride! Life jackets\nsold separately! Swimming lessons\nalso sold separately!</language>
 	</row>
 	<row id="msg_0412_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -139,7 +139,7 @@
 	</row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The man who brought back a\ntown wrecked by a volcano. That\nman was none other than Blaine! He\nlost his Cinnabar Block, but he\nreopened it on Seafoam Islands!</language>
+		<language name="English">Commercial: The man who brought back a\ntown wrecked by a volcano. That\nman was none other than Blaine! He\nreopened his Block in a CAVE! Bring\na jacket! And a flashlight!</language>
 	</row>
 	<row id="msg_0412_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -147,7 +147,7 @@
 	</row>
 	<row id="msg_0412_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Silph Co. is a special\nhigh-tech company dedicated\nto makin’ people’s lives better and\nbringin’ a wonderful future. No\nfurther comment on The Feds.</language>
+		<language name="English">Commercial: Silph Co. is a special\nhigh-tech company dedicated\nto makin’ people’s lives better.\nNo further comment on The Feds.\nNo comment. NO COMMENT.</language>
 	</row>
 	<row id="msg_0412_00037" index="37">
 		<attribute name="window_context_name">used</attribute>

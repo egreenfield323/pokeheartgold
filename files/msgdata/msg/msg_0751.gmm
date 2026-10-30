@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0751_cut" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHANK</language>
+		<language name="English">BOX CUTTER</language>
 	</row>
 	<row id="msg_0751_gust" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0751_sonic_boom" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUBWOOFER</language>
+		<language name="English">TRUNK RATTLE</language>
 	</row>
 	<row id="msg_0751_disable" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -226,11 +226,11 @@
 	</row>
 	<row id="msg_0751_hydro_pump" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIRE HYDRANT</language>
+		<language name="English">FIRE HOSE</language>
 	</row>
 	<row id="msg_0751_surf" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HYDRANT WAVE</language>
+		<language name="English">RIDE DA WAVE</language>
 	</row>
 	<row id="msg_0751_ice_beam" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="msg_0751_stun_spore" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STUN GUN</language>
+		<language name="English">THE BOOT</language>
 	</row>
 	<row id="msg_0751_sleep_powder" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -510,7 +510,7 @@
 	</row>
 	<row id="msg_0751_waterfall" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WET YA UP</language>
+		<language name="English">BEAM ME UP</language>
 	</row>
 	<row id="msg_0751_clamp" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -1002,7 +1002,7 @@
 	</row>
 	<row id="msg_0751_whirlpool" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JACUZZI</language>
+		<language name="English">FLUSH IT</language>
 	</row>
 	<row id="msg_0751_beat_up" index="251">
 		<attribute name="window_context_name">used</attribute>
@@ -1298,7 +1298,7 @@
 	</row>
 	<row id="msg_0751_signal_beam" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BAT SIGNAL</language>
+		<language name="English">FULL BARS</language>
 	</row>
 	<row id="msg_0751_shadow_punch" index="325">
 		<attribute name="window_context_name">used</attribute>
@@ -1706,7 +1706,7 @@
 	</row>
 	<row id="msg_0751_mud_bomb" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DIRT BOMB</language>
+		<language name="English">PIGEON DROP</language>
 	</row>
 	<row id="msg_0751_psycho_cut" index="427">
 		<attribute name="window_context_name">used</attribute>

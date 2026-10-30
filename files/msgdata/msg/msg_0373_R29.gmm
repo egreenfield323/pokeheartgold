@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0373_R29_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Aye pimp! {STRVAR_1 3, 0, 0}!\nYou can recruit homies off the street\fwith Hood Balls.\rWatch how I do it! Follow me!\r</language>
+		<language name="English">Lyra: Aye pimp! {STRVAR_1 3, 0, 0}!\nYou can recruit homies off the street\fwith Nap Sacks.\rWatch how I do it! Follow me!\r</language>
 	</row>
 	<row id="msg_0373_R29_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Ayo! {STRVAR_1 3, 0, 0}!\nYou can recruit homies off the street\fwith Hood Balls.\rWatch how I do it! Follow me!\r</language>
+		<language name="English">Ethan: Ayo! {STRVAR_1 3, 0, 0}!\nYou can recruit homies off the street\fwith Nap Sacks.\rWatch how I do it! Follow me!\r</language>
 	</row>
 	<row id="msg_0373_R29_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

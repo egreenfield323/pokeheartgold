@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0702_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-huh? Where you callin’ from?\rIf you right nearby, you might as well\ncome over and talk in person, ya know?</language>
+		<language name="English">Uh-huh? Where you callin’ from?\rIf you right nearby, come over and\ntalk in person, ya know?\fTim’s makin’ sandwiches.</language>
 	</row>
 	<row id="msg_0702_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Sue!\rHow you been since we last talked?\fYou doin’ a good job trainin’ your\nhomies? We doin’ great!\r{STRVAR_1 0, 10, 0} grindin’ hard.\rYou got a good homie too. After a\nwhile, you’ll see it become a\fsensational partner! Hee hee!</language>
+		<language name="English">This Sue!\rHow you been since we last talked?\nYour homies doin’ good? We GREAT!\r{STRVAR_1 0, 10, 0} grindin’ hard.\rYou got a good homie too. After a\nwhile, it’ll become a sensational\fpartner! Like Tim! Hee hee!</language>
 	</row>
 	<row id="msg_0702_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0702_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this Sue!\nI’m so, so, SO bored right now.\rTim stepped out, but he should\nbe back soon. That reminds me!\rWe recently saw a REAL fly guy.\rHe was wearin’ a purple tuxedo and a\nred bowtie. It looked FIRE on him.\rOh--my boyfriend back!\nTalk to you later!</language>
+		<language name="English">Ayo, this Sue!\nI’m so, so, SO bored right now.\rTim stepped out, but he should be back\nsoon. That reminds me!\rWe saw a REAL fly guy.\rPurple tuxedo, red bowtie. FIRE.\fTim’s never wore a bowtie. Ever.\rOh--Tim’s back!\nTalk to you later!</language>
 	</row>
 </body>

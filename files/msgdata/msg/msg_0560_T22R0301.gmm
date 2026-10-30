@@ -78,11 +78,11 @@
 	</row>
 	<row id="msg_0560_T22R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s this youngblood’s notebook...\r“Recruit homies with Hood Balls.\nYou can roll with six max.”\rKeep readin’? {YESNO 0}</language>
+		<language name="English">It’s this youngblood’s notebook...\r“Recruit homies with Nap Sacks.\nYou can roll with six max.”\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Before you throw a Hood Ball,\nrough ’em up first.”\r“A food poisoned or burnt homie\nis easier to recruit.”\rKeep readin’? {YESNO 0}</language>
+		<language name="English">“Before you throw a Nap Sack,\nrough ’em up first.”\r“A food poisoned or burnt homie\nis easier to recruit.”\rKeep readin’? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

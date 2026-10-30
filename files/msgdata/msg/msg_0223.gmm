@@ -6,67 +6,67 @@
 	</row>
 	<row id="msg_0223_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an {COLOR 255}OG Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Whole Gang{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Plug Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Rug Roll{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Bando Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Duffel Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Hood Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Nap Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Zoo Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Zoo Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Trap Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Trap Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Pool Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Pool Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Crib Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Crib Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Re-Up Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Re-Up Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Late Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Late Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Drip Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Drip Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}VIP Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}VIP Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Night Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Night Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Henny Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Henny Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Dash Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Dash Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Day1 Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Day1 Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -1874,7 +1874,7 @@
 	</row>
 	<row id="msg_0223_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an {COLOR 255}Apricorn Box{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Stash Box{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
@@ -1942,67 +1942,67 @@
 	</row>
 	<row id="msg_0223_00485" index="485">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Red Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Gator Hide{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Ylw Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Satin Scrap{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Blu Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Croc Hide{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00488" index="488">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Grn Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Suede Scrap{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00489" index="489">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Pnk Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Velvet Scrap{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Wht Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Nylon Scrap{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Blk Apricorn{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Denim Scrap{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Fast Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Nylon Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Level Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Gator Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Lure Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Croc Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Heavy Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Denim Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Love Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Velvet Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Homie Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Suede Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Moon Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Satin Bag{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Sport Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Sport Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Park Ball{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Park Sack{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00501" index="501">
 		<attribute name="window_context_name">used</attribute>

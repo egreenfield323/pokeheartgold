@@ -3,9 +3,9 @@
   "0": "This the “Trust” room.\\rIt show how homies and people\\nrely on each other.",
   "1": "Only Pokéathletes who came\\nfirst in five courses with\\fone homie can come in here.",
   "2": "This the “Potential” room.\\nGo on ahead.",
-  "3": "To win Medals with different kinds\\nof homies, you GOTTA believe in\\fyour homies.",
-  "4": "I'd love to see my own shoes in here!",
-  "5": "This Dome got SO many\\nother Domes inside it...",
+  "3": "To win Medals with different kinds\\nof homies, you GOTTA believe in\\fyour homies.\\fEven the SLOWPOKE. ESPECIALLY him.",
+  "4": "I'd LOVE to see my own shoes in here!\\nThey a size 14. They'd fill the case.",
+  "5": "This Dome got SO many other Domes\\ninside it...\\fIt's Domes all the way down.\\fI'm scared.",
   "6": "{STRVAR_1 3, 0, 0} checked the Medal!\\r",
   "7": "People who entered the Pokéathlon\\n50 times get honored here\\ffor their never-quit spirit.",
   "8": "It's your jersey with\\nyour autograph on it!",
@@ -13,6 +13,7 @@
   "10": "Clean shoes!\\nAnd they your model!",
   "11": "People who switched 200 times\\nget honored here for great\\fteamwork and their bond with\\ftheir homies.",
   "12": "It's a hard flag!\\nAnd it's yours!",
-  "13": "Pokéathlon Medals...\\rThat's proof of the grind\\nof Pokéathletes AND homies.\\rHomies that won all five\\nMedals get called “Medalist Pokémon”\\fto honor the trust they\\fearned from their Pokéathlete.",
-  "14": "ABRA: ...\\n...\\f...\\rIt must be sleep!"
+  "13": "Pokéathlon Medals...\\rProof of the grind of Pokéathletes\\nAND homies.\\rHomies that won all five Medals get\\ncalled “Medalist Pokémon” to honor\\fthe trust they earned.\\fThey also get free parkin'.",
+  "14": "ABRA: ...\\n...\\f...\\rIt's asleep. It's always asleep.\\fIt still won three Medals.",
+  "15": "DRATINI: ACHOO!\\n(Bless you.)"
 }

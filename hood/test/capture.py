@@ -1,6 +1,7 @@
 """Capture a move animation from the user's running DeSmuME (window messages only - no keyboard).
 
     python -I hood/test/capture.py [--frames N] [--step S] [--lead L] [--slot 2] [--crop x0,y0,x1,y1]
+                               [--cmds FILE]   (runner.lua steps instead of FIGHT -> move 1)
 
 Reopens hood-soulsilver.nds, loads the battle savestate (slot 2: at the FIGHT menu), picks move 1 and
 screenshots every S frames after a lead-in of L frames; writes out/sheet.png (and the frames).
@@ -31,9 +32,9 @@ def main():
     out.mkdir(exist_ok=True)
     for f in out.glob("*"):
         f.unlink()
-    (HERE / "cmds.txt").write_text(
-        f"keepopen\nwait 20\npress A\nwait 30\npress A\nwait 90\npress A\nwait {lead}\n"
-        f"burst f {frames} {step}\ndone\n")
+    steps = (Path(opt("--cmds", "")).read_text() if "--cmds" in sys.argv else   # e.g. bag -> ball -> use
+             "press A\nwait 30\npress A\nwait 90\npress A\n")
+    (HERE / "cmds.txt").write_text(f"keepopen\nwait 20\n{steps}wait {lead}\nburst f {frames} {step}\ndone\n")
     res = subprocess.run(["tasklist", "/FI", "IMAGENAME eq DeSmuME_0.9.13_x64.exe", "/FO", "CSV", "/NH"],
                          capture_output=True, text=True).stdout
     pid = int(res.split(",")[1].strip('"'))

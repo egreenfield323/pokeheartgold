@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You a real Pokéathlete to\nmake it in here!\rBut you still got a long way\nto be the Top Pokéathlete.\rWant me to show you some special\ntechniques? {YESNO 0}</language>
+		<language name="English">You a REAL Pokéathlete to make it\nin here!\rBut you still got a long way to be\nthe Top Pokéathlete.\rWant me to put you on to some\nspecial techniques? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pennant Capture...\rThis event ain’t just about the\nPennants on the beach, but also\fthe ones other homies done grabbed.\rIf you run into ’em from behind,\nthey get knocked down and your\fhomie snatch their Pennants.\rThat’s how the pros do it.\nSmash n Grab.\r</language>
+		<language name="English">Pennant Capture...\rIt ain’t just the Pennants on the\nbeach, it’s the ones other homies\falready grabbed.\rRun into ’em from behind, they fall,\nyou snatch their Pennants.\rThat’s how the pros do it.\nSmash n Grab. Totally legal here.\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Block Smash ain’t just about smashin’.\rYou ever notice sometimes there’s\nlil cracks in the Blocks?\rWell, if you hit those cracks,\nthey break real fast!\rIf you hit cracks back to back,\nyour homies feel great and\fshow big potential.\rOne more thing...\rWhen you make ’em switch,\nflick your homie upward\ffor a quicker switch.\r</language>
+		<language name="English">Block Smash ain’t just smashin’.\rYou ever notice lil cracks in the\nBlocks?\rHit them cracks and they break\nREAL fast!\rHit cracks back to back and your\nhomies feel GREAT.\rOne more thing...\rWhen you switch, flick your homie\nupward. Quicker switch.\fLike a skateboard trick. Kinda.\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It ain’t easy to get to the top\njust tacklin’ a lot in Ring Drop.\fYou know what a “Body Attack” is?\rThat’s what I call it, anyway...\rYour homie can actually jump\nwhile it move forward.\rIf your homie can\nBody Attack others, you can drop\f’em off the Ring completely!\r</language>
+		<language name="English">You ain’t gettin’ to the top just\ntacklin’ a lot in Ring Drop.\fYou know a “Body Attack”?\rThat’s what I call it, anyway...\rYour homie can jump while movin’\nforward.\rBody Attack the others and drop\n’em right off the Ring!\fWWE style. Respect the elbow.\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hope you become a Top Pokéathlete.\nGood luck!</language>
+		<language name="English">Hope you become a Top Pokéathlete.\nGood luck! Stretch! Hydrate!\fCall your mama!</language>
 	</row>
 	<row id="msg_0142_D49R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0142_D49R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a fire Hood Ball to\nhonor your 50th W\fin every Pokéathlon event.\rIt’s your model Hood Ball!\nThe engravin’ say, “Stay on Top.”</language>
+		<language name="English">It’s a FIRE Nap Sack to honor your\n50th W in every Pokéathlon event.\rIt’s your model Nap Sack!\nThe engravin’ say, “Stay on Top.”\fBurlap never looked this good.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -98,6 +98,6 @@
 	</row>
 	<row id="msg_0142_D49R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DODRIO: Keewn!</language>
+		<language name="English">DODRIO: KEEWN!\n(All three heads agree: you sweaty.)</language>
 	</row>
 </body>

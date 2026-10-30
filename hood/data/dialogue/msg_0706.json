@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Kenji (karate guy).",
-  "1": "Our scrap was remarkable!\\rI wish for somethin' to remember\\nyou by!\\rPerhaps your number will do?\\rMy trainin' make it impossible to\\nchat much, but... {YESNO 0}",
-  "2": "I must train harder to become\\nthe mightiest!",
+  "1": "Our scrap was REMARKABLE!\\rI wish for somethin' to remember you\\nby!\\rPerhaps your number will do?\\rMy trainin' make it impossible to chat\\nmuch, but... HAI! {YESNO 0}",
+  "2": "I must train harder to become the\\nMIGHTIEST! HIYAAAH!",
   "3": "If you decide you want my number, come\\nfind me.",
   "4": "My trainin' make chattin' tough.\\nSo, take down my number? {YESNO 0}",
-  "5": "Today, I wanna say good looks,\\n{STRVAR_1 3, 0, 0}!\\rI been trainin' all alone...\\nI was happy that you cared to call...\\r{STRVAR_1 3, 0, 0}! I want you to have this!\\r",
+  "5": "Today I say good looks, {STRVAR_1 3, 0, 0}!\\rI train alone... Nobody calls.\\nNot even my mom.\\r{STRVAR_1 3, 0, 0}! Take this! HAI!\\r",
   "6": "Your strength can't let you carry\\nanother thing! I'll hold this till you\\flighten your Bag!",
   "7": "'Scuse me?\\nIf you right nearby, I'd appreciate\\fthe respect of talkin' face-to-face!",
-  "8": "You still on your journey?\\nI remain locked in on my trainin'.\\fOooooaaarrrgh!",
-  "9": "My apologies, but I ain't got time to\\nchat while I'm trainin'!\\rI'll have time to chat tomorrow!\\nYiiihah!",
-  "10": "I'm finna take a lunch break, so come\\nvisit me then!\\fAyiiiyah!",
+  "8": "You still on your journey?\\nI remain locked in on my trainin'.\\fOOOOOOAAARRRGH!\\f...Sorry. That was a punch.",
+  "9": "My apologies, but I ain't got time to\\nchat while I'm trainin'!\\rI'll have time tomorrow!\\nYIIIHAH! ...I hit the phone. Hold on.",
+  "10": "I'm finna take a lunch break, so come\\nvisit me then!\\fAYIIIYAH! That's how I order lunch.",
   "11": "I'm takin' a break on Route 45!\\nWhy not slide through? We can scrap!",
-  "12": "I rested up on my lunch break.\\nNow, back to trainin'!\\fOooryaah!"
+  "12": "I rested up on my lunch break.\\nNow, back to trainin'!\\fOOORYAAH! I'm full. I'm VERY full."
 }

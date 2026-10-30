@@ -181,15 +181,44 @@
     "_name": "Rattata: gold fangs",
     "front": [
       {
+        "type": "fitcap",
+        "style": "beanie",
+        "cx": 33,
+        "band": 37,
+        "w": 10,
+        "color": "r",
+        "side": 1
+      },
+      {
         "type": "grill",
-        "x1": 26,
-        "x2": 31,
-        "y": 47
+        "x1": 30,
+        "x2": 35,
+        "y": 51
+      },
+      {
+        "type": "shoe",
+        "x": 35,
+        "y": 56,
+        "w": 8,
+        "style": "jordan"
+      },
+      {
+        "type": "shoe",
+        "x": 51,
+        "y": 54,
+        "w": 8,
+        "style": "jordan",
+        "scale": 0.7
       }
     ],
     "head_front": [
       30,
       40
+    ],
+    "auto_front": false,
+    "hand_front": [
+      22,
+      48
     ]
   },
   "52": {
@@ -7540,10 +7569,11 @@
       },
       {
         "type": "chain",
-        "x1": 19,
-        "x2": 31,
+        "x1": 20,
+        "x2": 32,
         "y": 41,
-        "sag": 3
+        "sag": 3,
+        "scale": 0.8
       },
       {
         "type": "shoe",

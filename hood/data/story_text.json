@@ -113,6 +113,11 @@
     },
     {
       "bank": "msg_0197",
+      "index": 916,
+      "text": "The fuh?\\r"
+    },
+    {
+      "bank": "msg_0197",
       "index": 917,
       "text": "{STRVAR_1 1, 0, 0} is glowin' up!"
     },
@@ -154,7 +159,7 @@
     {
       "bank": "msg_0190",
       "index": 0,
-      "text": "Professor Elm: Tap a Hood Ball to see\\nwho you rollin' with! Quick!"
+      "text": "Professor Elm: Tap a Nap Sack to see\\nwho you rollin' with! Quick!"
     },
     {
       "bank": "msg_0190",
@@ -174,17 +179,17 @@
     {
       "bank": "msg_0190",
       "index": 4,
-      "text": "{COLOR 3}CHIKORITA{COLOR 0}, strapped with a .22,\\nis in this Hood Ball!"
+      "text": "{COLOR 3}CHIKORITA{COLOR 0}, strapped with a .22,\\nis in this Nap Sack!"
     },
     {
       "bank": "msg_0190",
       "index": 5,
-      "text": "{COLOR 1}CYNDAQUIL{COLOR 0}, strapped with a 9,\\nis in this Hood Ball!"
+      "text": "{COLOR 1}CYNDAQUIL{COLOR 0}, strapped with a 9,\\nis in this Nap Sack!"
     },
     {
       "bank": "msg_0190",
       "index": 6,
-      "text": "{COLOR 2}TOTODILE{COLOR 0}, strapped with a Glock,\\nis in this Hood Ball!"
+      "text": "{COLOR 2}TOTODILE{COLOR 0}, strapped with a Glock,\\nis in this Nap Sack!"
     },
     {
       "bank": "msg_0190",
@@ -377,7 +382,7 @@
     },
     {
       "find": "POKé BALLS",
-      "text": "HOOD BALLS"
+      "text": "SNATCH GEAR"
     },
     {
       "find": "POKé BALL",
@@ -385,11 +390,11 @@
     },
     {
       "find": "Poké Balls",
-      "text": "Hood Balls"
+      "text": "Nap Sacks"
     },
     {
       "find": "Poké Ball",
-      "text": "Hood Ball"
+      "text": "Nap Sack"
     },
     {
       "find": "Pokémon Gym",

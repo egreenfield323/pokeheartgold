@@ -35,5 +35,7 @@
   "108": "'Scuse me? You won't say?\\nThat's too bad... My book gon' be short.",
   "109": "Good looks! You gon' tell me\\nanything else? {YESNO 0}",
   "110": "Got it! Good looks! That's chapter one.",
-  "111": "Got it! Good looks!\\n{STRVAR_1 28, 0, 0}, huh... Deep. Real deep."
+  "111": "Got it! Good looks!\\n{STRVAR_1 28, 0, 0}, huh... Deep. Real deep.",
+  "79": "Sack Patches can’t be used ’cause\\nyou don’t have any Seals.\\r",
+  "64": "Wanna give the newly hatched\\n{STRVAR_1 0, 0, 0} a street name?"
 }

@@ -6,5 +6,5 @@
   "3": "{STRVAR_1 3, 0, 0}! You WON, didn't you?\\nYour face tellin' me. It's smug.",
   "4": "Huh? You only got...ONE homie?\\nThat's sad. That's real sad.\\r...\\rI know! I'll give you a TENTACOOL!\\rI caught WAY too many. My bathtub full.\\nTake it! Go 'head!\\r",
   "5": "{STRVAR_1 3, 0, 0} got\\nthe TENTACOOL!",
-  "6": "Wanna give a nickname to\\nthe TENTACOOL? {YESNO 0}"
+  "6": "Wanna give the TENTACOOL\\na street name? {YESNO 0}"
 }

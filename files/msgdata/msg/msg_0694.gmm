@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0694_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you tryna be the ultimate\nHustler too? That make us comrades!\rIf I find more stuff by the water,\nI’ll give you some.\rJust gimme your number. {YESNO 0}</language>
+		<language name="English">Ayo, you tryna be the ultimate Hustler\ntoo? That make us COMRADES!\rIf I find more stuff by the water,\nI’ll give you some.\rJust gimme your number. {YESNO 0}</language>
 	</row>
 	<row id="msg_0694_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0694_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s how it is? Then I’ll just\nuse ’em myself.</language>
+		<language name="English">That’s how it is? Then I’ll just use\n’em myself. And not tell you what it\fwas.</language>
 	</row>
 	<row id="msg_0694_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0694_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, there you!\nHere’s a gift, like I promised!\r</language>
+		<language name="English">Ayo, THERE you!\nHere’s a gift, like I promised!\fIt was THIS big when I found it.\fIt shrunk.\r</language>
 	</row>
 	<row id="msg_0694_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0694_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} grew AGAIN.\rIt was only this big when I caught\nit, but now it’s WAY bigger.\rOh yeah, I KO’d a wild {STRVAR_1 0, 11, 0}.\nIt was HUGE--like THIS big, even.\rHeh, I guess you can’t tell over\nthe phone...\rWell, I’ll see you.</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} grew AGAIN.\rIt was only THIS big when I caught it,\nnow it’s WAY bigger.\rI KO’d a wild {STRVAR_1 0, 11, 0}.\nIt was HUGE--like THIS big!\rHeh, you can’t tell over the phone...\nI’m holdin’ my arms out. Trust me.\rWell, I’ll see you.</language>
 	</row>
 	<row id="msg_0694_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} grew AGAIN.\rIt was only this big when I caught\nit, but now it’s WAY bigger.\rOh yeah, I lost a wild {STRVAR_1 0, 11, 0}.\nIt was HUGE--like THIS big, even.\rHeh, I guess you can’t tell over\nthe phone...\rWell, I’ll see you.</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} grew AGAIN.\rIt was only THIS big when I caught it,\nnow it’s WAY bigger.\rI lost a wild {STRVAR_1 0, 11, 0}.\nIt was HUGE--like THIS big!\rHeh, you can’t tell over the phone...\nI’m holdin’ my arms out. Trust me.\rWell, I’ll see you.</language>
 	</row>
 	<row id="msg_0694_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0694_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I found anythin’ good?\nNope, not yet.\rIt’s like fishin’--you need patience.</language>
+		<language name="English">I found anythin’ good?\nNope, not yet.\rIt’s like fishin’--you need patience.\nI have none. I’m vibratin’.</language>
 	</row>
 	<row id="msg_0694_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0211_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Shank!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Box Cutter!\r</language>
 	</row>
 	<row id="msg_0211_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -62,11 +62,11 @@
 	</row>
 	<row id="msg_0211_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Hydrant Wave!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Ride Da Wave!\r</language>
 	</row>
 	<row id="msg_0211_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hydrant Wave can’t be used if you\nhave someone with you.</language>
+		<language name="English">Ride Da Wave can’t be used if you\nhave someone with you.</language>
 	</row>
 	<row id="msg_0211_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0211_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a large waterfall.\nWould you like to use Wet Ya Up? {YESNO 0}</language>
+		<language name="English">It’s a large waterfall.\nWould you like to use Beam Me Up? {YESNO 0}</language>
 	</row>
 	<row id="msg_0211_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Wet Ya Up.\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Beam Me Up.\r</language>
 	</row>
 	<row id="msg_0211_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -118,11 +118,11 @@
 	</row>
 	<row id="msg_0211_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a huge swirl of water.\nWould you like to use Jacuzzi? {YESNO 0}</language>
+		<language name="English">It’s a huge swirl of water.\nWould you like to use Flush It? {YESNO 0}</language>
 	</row>
 	<row id="msg_0211_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Jacuzzi.\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Flush It.\r</language>
 	</row>
 	<row id="msg_0211_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

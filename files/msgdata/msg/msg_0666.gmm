@@ -6,59 +6,59 @@
 	</row>
 	<row id="msg_0666_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak...\rHmm... It’s weird.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fsomehow hearin’ it over the phone\fmake you sound SO different.</language>
+		<language name="English">Wassup, this Professor Oak...\rHmm... It’s weird.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fover the phone you sound SO different.\fLike a younger me. Or a raccoon.</language>
 	</row>
 	<row id="msg_0666_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak...\rHmm... It’s weird.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fsomehow hearin’ it over the phone\fmake you sound SO different.</language>
+		<language name="English">Wassup, this Professor Oak...\rHmm... It’s weird.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fover the phone you sound SO different.\fLike a younger me. Or a raccoon.</language>
 	</row>
 	<row id="msg_0666_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\rYou catchin’ a LOT of homies,\nain’t you?</language>
+		<language name="English">Wassup, this Professor Oak!\rYou catchin’ a LOT of homies,\nain’t you?\fI can hear ’em in the background.</language>
 	</row>
 	<row id="msg_0666_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\nYour Pokédex fillin’ up for real!</language>
+		<language name="English">Wassup, this Professor Oak!\nYour Pokédex fillin’ up for REAL!\fI’m so proud I could take a nap.</language>
 	</row>
 	<row id="msg_0666_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\rYou movin’ at a\ncrazy pace! You remind me of\fme when I was young!</language>
+		<language name="English">Wassup, this Professor Oak!\rYou movin’ at a CRAZY pace!\nYou remind me of me when I was young!\fI was fast. Now I’m a professor.</language>
 	</row>
 	<row id="msg_0666_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\rIf you get tired, you should\ntake a break. Don’t push yourself\ftoo hard!</language>
+		<language name="English">Wassup, this Professor Oak!\rIf you get tired, take a break.\nDon’t push yourself too hard!\fI’m takin’ a nap right after this.</language>
 	</row>
 	<row id="msg_0666_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Professor Oak...\rWhen I’m recordin’ my radio show, I\ngotta go back and forth between\fKanto and Johto. It’s tirin’...\rOh, but forget that! You doin’ a\ngreat job fillin’ your Pokédex!</language>
+		<language name="English">This Professor Oak...\rWhen I record my radio show, I gotta go\nback and forth between Kanto and\fJohto. It’s TIRIN’...\fMy back hurts. My knees hurt.\rOh, but forget that! You doin’ a great\njob fillin’ your Pokédex!</language>
 	</row>
 	<row id="msg_0666_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\rLook like you found some homies\nthat ain’t from Johto or\fKanto, huh?\rYou a strong Hustler, and you\ndeadass makin’ some discoveries!</language>
+		<language name="English">Wassup, this Professor Oak!\rLook like you found some homies that\nain’t from Johto OR Kanto, huh?\rYou a strong Hustler, and you makin’\nreal discoveries!\fI’m gon’ put my name on ’em. Kiddin’.</language>
 	</row>
 	<row id="msg_0666_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...This Professor Oak.\nI been so busy with research\fthat I ain’t got much\fsleep lately...\rOh, but forget that!\nYou made such good progress on your\fPokédex. I can’t wait to see it!</language>
+		<language name="English">...This Professor Oak.\nI been so busy with research I ain’t\fslept in three days...\fI think I’m seein’ colors.\rOh, but forget that!\nYou made such good progress!\fI can’t wait to see it!</language>
 	</row>
 	<row id="msg_0666_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\rYou notice your circle of\nhomies got bigger since you\fstarted on the Pokédex?\fThat’s the best thing about homies!</language>
+		<language name="English">Wassup, this Professor Oak!\rYou notice your circle of homies got\nbigger since you started?\fThat’s the best thing about homies!\fBetter than people, honestly.</language>
 	</row>
 	<row id="msg_0666_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\nYou know, I don’t see many great\fHustlers like you hella\foften these days!\rI gotta thank Professor Elm for\nputtin’ us in touch!</language>
+		<language name="English">Wassup, this Professor Oak!\nYou know, I don’t see many great\fHustlers like you these days!\rI gotta thank Professor Elm for\nputtin’ us in touch!\fHe owes me bread, but still.</language>
 	</row>
 	<row id="msg_0666_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak!\nOh, you ain’t gotta say nothin’!\fI know better than anybody how\fhard you workin’!\rI figured I should get you a present\nor somethin’ to say thanks...\fWell, I picked somethin’ up, but I\fstraight forgot to give it to you!\fHa ha ha!\rOh, you ain’t gotta wonder about it\nat all. I know it’s somethin’ that’ll\fbe real helpful to you. Just\fcome here and grab it!\rI’ll be waitin’ at my Lab\nin Pallet Town!\n</language>
+		<language name="English">Wassup, this Professor Oak!\nOh, you ain’t gotta say nothin’!\fI know how hard you workin’!\rI figured I’d get you a present...\fWell, I picked somethin’ up, but I\fstraight FORGOT to give it to you!\fHa ha ha! I’m old!\rIt’s somethin’ real helpful.\nJust come grab it!\rI’ll be waitin’ at my Lab in Pallet\nTown! Don’t come before noon.\n</language>
 	</row>
 	<row id="msg_0666_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak...\nOh, wassup, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup, this Professor Oak...\nOh, wassup, {STRVAR_1 3, 0, 0}!\fI just woke up. Talk slow.\r</language>
 	</row>
 	<row id="msg_0666_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup, this Professor Oak...\nOh, wassup, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup, this Professor Oak...\nOh, wassup, {STRVAR_1 3, 0, 0}!\fI just woke up. Talk slow.\r</language>
 	</row>
 	<row id="msg_0666_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -86,23 +86,23 @@
 	</row>
 	<row id="msg_0666_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me your Pokédex again anytime!</language>
+		<language name="English">Show me your Pokédex again anytime!\nI’ll be here. Prob’ly asleep.</language>
 	</row>
 	<row id="msg_0666_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh!\nThat’s a COMPLETE Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is complete!\rSheesh...\nYou did a crazy job!</language>
+		<language name="English">SHEESH!\nThat’s a COMPLETE Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is DONE!\rSheesh...\nYou did a CRAZY job!\fI’m gon’ cry. Hold on.</language>
 	</row>
 	<row id="msg_0666_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh!\nThat’s a COMPLETE Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is complete!\rSheesh...\nYou did a crazy job!</language>
+		<language name="English">SHEESH!\nThat’s a COMPLETE Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is DONE!\rSheesh...\nYou did a CRAZY job!\fI’m gon’ cry. Hold on.</language>
 	</row>
 	<row id="msg_0666_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nThat’s a AMAZIN’ National Pokédex!\rSheesh...\nYou lived up to my expectations\fwonderfully!\rNah, you blew past ’em,\n{STRVAR_1 3, 0, 0}. You became a\fGOAT Hustler!\rGood looks, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">EXCELLENT!\nThat’s a AMAZIN’ National Pokédex!\rSheesh...\nYou lived up to my expectations!\rNah, you BLEW PAST ’em, {STRVAR_1 3, 0, 0}.\nYou a GOAT Hustler!\rGood looks, {STRVAR_1 3, 0, 0}!\fI’m namin’ a wing of the lab after you.\fIt’s a closet. But it’s yours.</language>
 	</row>
 	<row id="msg_0666_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nThat’s a AMAZIN’ National Pokédex!\rSheesh...\nYou lived up to my expectations\fwonderfully!\rNah, you blew past ’em,\n{STRVAR_1 3, 0, 0}. You became a\fGOAT Hustler!\rGood looks, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">EXCELLENT!\nThat’s a AMAZIN’ National Pokédex!\rSheesh...\nYou lived up to my expectations!\rNah, you BLEW PAST ’em, {STRVAR_1 3, 0, 0}.\nYou a GOAT Hustler!\rGood looks, {STRVAR_1 3, 0, 0}!\fI’m namin’ a wing of the lab after you.\fIt’s a closet. But it’s yours.</language>
 	</row>
 	<row id="msg_0666_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -114,15 +114,15 @@
 	</row>
 	<row id="msg_0666_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look for homies in the grass!\r</language>
+		<language name="English">Look for homies in the grass!\nThey hidin’. They always hidin’.\r</language>
 	</row>
 	<row id="msg_0666_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good. I see you know how to use\nHood Balls.\r</language>
+		<language name="English">Good. I see you know how to use\nNap Sacks.\r</language>
 	</row>
 	<row id="msg_0666_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You gettin’ good at this,\nbut you got a long way to go.\r</language>
+		<language name="English">You gettin’ good at this, but you got\na long way to go.\fLike, LONG long.\r</language>
 	</row>
 	<row id="msg_0666_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -134,11 +134,11 @@
 	</row>
 	<row id="msg_0666_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You trainin’ ’em good. You know\nsome homies don’t evolve just from\fscrappin’, right?\r</language>
+		<language name="English">You trainin’ ’em good. You know some\nhomies don’t evolve just from\fscrappin’, right?\fSome need a stone. Or a trade.\fOr a vibe.\r</language>
 	</row>
 	<row id="msg_0666_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You got a Fishin’ Rod?\nThere’s some homies you can only\ffind by fishin’!\r</language>
+		<language name="English">You got a Fishin’ Rod?\nSome homies you can ONLY find by\ffishin’!\fBring snacks. Fishin’ is borin’.\r</language>
 	</row>
 	<row id="msg_0666_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -158,7 +158,7 @@
 	</row>
 	<row id="msg_0666_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you learn how to use the custom\nHood Balls Kurt make,\fyou’ll catch homies way better!\r</language>
+		<language name="English">If you learn how to use the custom\nNap Sacks Kurt make,\fyou’ll catch homies way better!\r</language>
 	</row>
 	<row id="msg_0666_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0666_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnificent! You got what it take\nto be a great Homie Professor\fone day!\r</language>
+		<language name="English">MAGNIFICENT! You got what it take to\nbe a great Homie Professor one day!\fYou’ll need a lab coat. And no sleep.\r</language>
 	</row>
 	<row id="msg_0666_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="msg_0666_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you Dome Check a tree, sometimes\na homie might fall out!\r</language>
+		<language name="English">If you Dome Check a tree, sometimes a\nhomie might fall out!\fOn your head. Wear a helmet.\r</language>
 	</row>
 	<row id="msg_0666_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -214,7 +214,7 @@
 	</row>
 	<row id="msg_0666_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, you got so far...!\nI’m actually kinda shook!\r</language>
+		<language name="English">Sheesh, you got so far...!\nI’m actually kinda SHOOK!\fI need to sit down.\r</language>
 	</row>
 	<row id="msg_0666_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -226,7 +226,7 @@
 	</row>
 	<row id="msg_0666_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I ain’t NEVER in all my years\nseen a Hustler this crazy!\r</language>
+		<language name="English">I ain’t NEVER in all my years seen a\nHustler this crazy!\fAnd I’m REAL old!\r</language>
 	</row>
 	<row id="msg_0666_00057" index="57">
 		<attribute name="window_context_name">used</attribute>

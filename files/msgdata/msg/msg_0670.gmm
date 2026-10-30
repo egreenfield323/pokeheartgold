@@ -6,46 +6,46 @@
 	</row>
 	<row id="msg_0670_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, now that we acquainted,\nshall we swap phone\fnumbers? {YESNO 0}</language>
+		<language name="English">Well, now that we acquainted, shall we\nexchange telephonic numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0670_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lovely!\nNow I can call you anytime.</language>
+		<language name="English">Lovely!\nNow I can call you anytime.\fI shall call at a respectable hour.</language>
 	</row>
 	<row id="msg_0670_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\rLike I figured, young folks rather\nhang with people their own age...</language>
+		<language name="English">I see...\rLike I figured, young folks rather\nhang with people their own age...\fI’ll go feed the pigeons. Alone.</language>
 	</row>
 	<row id="msg_0670_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t deadass wanna swap\nnumbers with me, do you? {YESNO 0}</language>
+		<language name="English">You don’t deadass wanna swap numbers\nwith an old man, do you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0670_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? Ain’t we on the same\nfloor right now?\rWhy not talk face-to-face?</language>
+		<language name="English">What’s wrong? Ain’t we on the same\nfloor right now?\rWhy not talk face-to-face, like\ngentlemen?</language>
 	</row>
 	<row id="msg_0670_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was SO shook!\nA few days ago, I got a NOCTOWL\fin a trade.\rTurns out that NOCTOWL was the same\none I traded away to another\fHustler years ago!\rI guess that’s “What goes\naround, comes around,” ’cause it came\fright back to me.\rIt’s a small world after all!</language>
+		<language name="English">I was SO shook!\nA few days ago I got a NOCTOWL in\fa trade.\rTurns out it was the SAME NOCTOWL I\ntraded away years ago!\rWhat goes around comes around!\nIt’s a small world after all!\fIt’s mad at me though. It remembers.</language>
 	</row>
 	<row id="msg_0670_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s kinda disappointin’.\nA few days ago, I got a NOCTOWL\fin a trade.\rIt was such a familiar NOCTOWL...\rI thought it was the NOCTOWL I\noriginally raised!\rIt somehow found its way back...\nI was so moved...\fBut when I looked closer, I saw\fit wasn’t the NOCTOWL I thought.\rThat kinda thing can’t deadass happen\nin this world, right?</language>
+		<language name="English">It’s kinda disappointin’.\nA few days ago I got a NOCTOWL in\fa trade.\rIt looked SO familiar...\nI thought it was my NOCTOWL!\rI was so moved... I cried.\fThen I looked closer. Different owl.\rThat kinda thing can’t happen, right?\nI cried for nothin’.</language>
 	</row>
 	<row id="msg_0670_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, whenever I try to catch a\nwild homie, they always run\faway. Happened SO many times.\rA couple days ago a RATTATA got away\nfrom me...\rYou know, whenever I meet a person or\nhomie, I always take off\fmy hat and introduce myself proper,\fand that’s when they dip.\rRATTATA got NO manners...</language>
+		<language name="English">Whenever I try to catch a wild homie,\nthey always run away.\rA RATTATA got away just the other day.\rI always take off my hat and introduce\nmyself proper, and THAT’S when they\fdip.\rRATTATA got NO manners...\fNone. Zero. Raised by wolves.</language>
 	</row>
 	<row id="msg_0670_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha ha, you wanna scrap again?\nI think that’s a fine idea!\rI’ll meet you at {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Ha ha, you wanna scrap again?\nI think that’s a FINE idea!\rI’ll meet you at {STRVAR_1 4, 3, 0}!\fI’ll wear my good hat.</language>
 	</row>
 	<row id="msg_0670_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything aight?\nYou forget our appointment?\rI’m waitin’ at {STRVAR_1 4, 3, 0}.\nI’ll see you there!</language>
+		<language name="English">Everything aight?\nYou forget our appointment?\rI’m waitin’ at {STRVAR_1 4, 3, 0}.\nPunctuality is a virtue!</language>
 	</row>
 	<row id="msg_0670_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like this, when I call a young\nperson like you, we can swap\finfo.\rJust like this, homies bring people\ntogether, don’t they?\rTruly, homies is some\nextraordinary creatures.</language>
+		<language name="English">When I call a young person like you, we\ncan swap info.\rHomies bring people together, don’t\nthey?\fTruly extraordinary creatures.\fBetter than my grandkids. They don’t\ncall.</language>
 	</row>
 </body>

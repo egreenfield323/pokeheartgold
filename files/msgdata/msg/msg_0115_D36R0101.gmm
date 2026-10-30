@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s the HM Shank. Teach it to a\nhomie to clear lil trees.\rYou gotta have the Block Chain\nfrom Azalea to use it, though.</language>
+		<language name="English">That’s the HM Box Cutter. Teach it to a\nhomie to clear lil trees.\rYou gotta have the Block Chain\nfrom Azalea to use it, though.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
@@ -180,11 +180,11 @@
 	</row>
 	<row id="msg_0115_D36R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} got the Hood Ball!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got the Nap Sack!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna give the Spiky-eared PICHU\na nickname? {YESNO 0}</language>
+		<language name="English">Wanna give the Spiky-eared PICHU\na street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -212,11 +212,11 @@
 	</row>
 	<row id="msg_0115_D36R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, here it is! Young Hustler, I’ma give\nyou this Hood Ball.\rI used these back in my day. In 1952.\rDon’t trip. It still work fine. Mostly.\r</language>
+		<language name="English">Oh, here it is! Young Hustler, I’ma give\nyou this Nap Sack.\rI used these back in my day. In 1952.\rDon’t trip. It still work fine. Mostly.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Looks like Spiky-eared PICHU\nwanna stay in your Hood Ball.\r</language>
+		<language name="English">Looks like Spiky-eared PICHU\nwanna stay in your Nap Sack.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>

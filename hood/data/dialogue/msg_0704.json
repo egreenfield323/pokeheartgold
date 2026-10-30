@@ -1,13 +1,13 @@
 {
   "_comment": "Phone: Jack (battle-tips nerd).",
-  "1": "Your knowledge impressive!\\nI fw that!\\rWanna swap scrap tips?\\nI'll call if I get good info.\\rYou gon' tell me your number?{YESNO 0}",
+  "1": "Your knowledge IMPRESSIVE!\\nI fw that!\\rWanna swap scrap tips?\\nI'll call if I get good info.\\rYou gon' tell me your number? {YESNO 0}",
   "2": "I'll call you if I hear anything!",
   "3": "Oh, OK. Too bad...\\rWell, if you ever want my number,\\ncome see me, OK?",
   "4": "Wanna swap scrap tips?\\nI'll call if I get good info.\\rYou gon' tell me your number?{YESNO 0}",
   "6": "What's goin' on?\\nWe pretty close... Why not just come\\fand talk in person?",
-  "7": "My {STRVAR_1 0, 10, 0}'s IQ keep\\nrisin'. Might be smarter than yours!\\rLater!",
+  "7": "My {STRVAR_1 0, 10, 0}'s IQ keep risin'.\\nMight be smarter than yours!\\fMight be smarter than ME.\\rLater!",
   "8": "The other day, I EASILY beat a wild\\n{STRVAR_1 0, 11, 0}.\\rI think swappin' tips with you\\nstartin' to pay off.\\rLater!",
-  "9": "I just BARELY missed catchin' a wild\\n{STRVAR_1 0, 11, 0}.\\rIf I had better info, I\\nKNOW I woulda caught it...\\rLater!",
+  "9": "I just BARELY missed catchin' a wild\\n{STRVAR_1 0, 11, 0}.\\rIf I had better info, I KNOW I woulda\\ncaught it...\\rLater!",
   "10": "You know...?\\rWhen it's rainin', Power Line\\nALWAYS hit.",
   "11": "You know...?\\rIf you use Fetal Pos., Roll Out's\\npower go WAY up.",
   "12": "You know...?\\rIf the sun is harsh, Solarbeam\\ndon't need to charge up.",
@@ -19,8 +19,8 @@
   "18": "You know...?\\rRock, Ground, and Steel types\\ncan't get hurt by Dust Up.",
   "19": "You know...?\\rIf the sun is harsh, Water-type\\nmoves get WAY weaker.",
   "20": "You know...?\\rWhen it's rainin', Fire-type moves\\nget WAY weaker than usual.",
-  "21": "You wanna scrap? I'll show you\\nhow to scrap logically.\\rI'll be in {STRVAR_1 4, 3, 0}.\\rHolla if you nearby.",
+  "21": "You wanna scrap? I'll show you how to\\nscrap LOGICALLY.\\rI'll be in {STRVAR_1 4, 3, 0}.\\rHolla if you nearby. Bring a notebook.",
   "22": "Ayo, {STRVAR_1 3, 0, 0}!\\rYou remember your promise?\\nWe gotta scrap soon!\\rI'll be at {STRVAR_1 4, 3, 0}.",
   "23": "Ayo, {STRVAR_1 3, 0, 0}!\\rYou remember your promise?\\nWe gotta scrap soon!\\rI'll be at {STRVAR_1 4, 3, 0}.",
-  "24": "My homie heard some fire tips.\\nHe finna put me on.\\rWhen he tell me, I'll call you."
+  "24": "My homie heard some FIRE tips.\\nHe finna put me on.\\rWhen he tell me, I'll call you.\\fHe's a PORYGON. It's on the internet."
 }

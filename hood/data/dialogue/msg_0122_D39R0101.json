@@ -1,8 +1,8 @@
 {
-  "_comment": "Ice Path. The guy with no soles (Wet Ya Up/Waterfall HM), Sayo the Dancer frozen to the ice.",
+  "_comment": "Ice Path. The guy with no soles (Beam Me Up/Waterfall HM), Sayo the Dancer frozen to the ice.",
   "0": "You see that over there?\\rI dropped it, but I can't get to it.\\rWhy? Walkin' on ice FREEZE your feet!\\rMy shoes so beat up the soles GONE.\\nI'm walkin' on socks. On ICE.",
   "1": "You see that over there?\\rI dropped it, but I can't get to it.\\rWhy? Walkin' on ice FREEZE your feet!\\rMy shoes so beat up the soles GONE.\\nI'm walkin' on socks. On ICE.\\r",
-  "2": "That thing you picked up over there...\\nit was a HM, wasn't it?\\rI'm the one who dropped it...but I\\nwant you to keep it.\\fYou put in the work, right?\\rIt's Wet Ya Up.\\nHave fun climbin' waterfalls!\\rMe?\\rI need new shoes before I\\ncan enjoy no waterfalls.",
+  "2": "That thing you picked up over there...\\nit was a HM, wasn't it?\\rI'm the one who dropped it...but I\\nwant you to keep it.\\fYou put in the work, right?\\rIt's Beam Me Up.\\nHave fun climbin' waterfalls!\\rMe?\\rI need new shoes before I\\ncan enjoy no waterfalls.",
   "3": "Oh my... Is that you, {STRVAR_1 3, 0, 0}?\\fFancy seein' you here!\\rTruth is...my sandals is frozen to the\\nice. I'm stuck. Been stuck since Tuesday.\\rI wore flip-flops to a ICE CAVE.\\nI know. I KNOW.\\rTee hee.\\rWell, it ain't funny. Could you come\\naround and push me?",
   "4": "Oh my... Is that you, {STRVAR_1 3, 0, 0}?\\fFancy seein' you here!\\rTruth is...my sandals is frozen to the\\nice. I'm stuck. Been stuck since Tuesday.\\rI wore flip-flops to a ICE CAVE.\\nI know. I KNOW.\\rTee hee.\\rWell, it ain't funny. Could you push me? {YESNO 0}",
   "5": "{SIZE 200}SHOVE!{SIZE 100}\\r",

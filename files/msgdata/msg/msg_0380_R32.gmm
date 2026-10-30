@@ -72,11 +72,11 @@
 	</row>
 	<row id="msg_0380_R32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 32\nSouth to Azalea. Watch Your Pockets.</language>
+		<language name="English">Rt. 32\nSouth to Azalea. Watch It.</language>
 	</row>
 	<row id="msg_0380_R32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nEast Entrance. Old Rocks. Free.</language>
+		<language name="English">Ruins of Alph\nEast Entrance. Old Rocks.</language>
 	</row>
 	<row id="msg_0380_R32_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

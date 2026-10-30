@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Jamie.",
-  "1": "You real good at scrappin'.\\nWe should scrap again sometime.\\rTakin' on a tough Hustler like you,\\nI think I can get better too.\\rSo what's up?\\nYou gon' give me your\\fnumber? {YESNO 0}",
-  "2": "Let's scrap again sometime!",
-  "3": "That's too bad...\\nLmk if you change your mind.",
+  "1": "You real good at scrappin'.\\nWe should scrap again sometime.\\rTakin' on a tough Hustler like you,\\nI'll get better too.\\rSo wassup?\\nYou gon' gimme your number? {YESNO 0}",
+  "2": "Let's scrap again sometime!\\nI'll get there FAST.",
+  "3": "That's too bad...\\nLmk if you change your mind.\\fQuickly. I don't wait.",
   "4": "Takin' on a tough Hustler like you,\\nI think I can get better too.\\rSo what's up? You gon' give me\\nyour number? {YESNO 0}",
-  "6": "Huh? You... Ain't you right nearby?\\rWhy not come here and just talk\\nface-to-face?",
-  "7": "You remember my\\nsweet {STRVAR_1 0, 10, 0}?\\r{STRVAR_1 0, 10, 0} run SO fast.\\rIt's a rush ridin' on its\\nback when it really get goin'.\\rBye-bye!",
-  "8": "Oh, you ever seen a {STRVAR_1 0, 11, 0}\\nbefore?\\rI just scrapped one...\\nIt was WAY faster than I expected.\\rI was kinda shook.\\nI still won, obviously.\\rBye-bye!",
-  "9": "Oh, I just saw a wild {STRVAR_1 0, 11, 0}.\\nI was tryna catch it when I\\fnoticed I was all out of\\fHood Balls.\\rIf you don't check your items, you\\nmight run out at the worst time.\\fLearn from my mistake.\\rBye-bye!",
-  "10": "You wanna scrap? I'm finna win\\nthis time!\\rI'll be waitin' for you around\\n{STRVAR_1 4, 3, 0}. Look for me, OK?",
-  "11": "Um... {STRVAR_1 3, 0, 0}? What's wrong?\\nYou forget our deal?\\r{STRVAR_1 4, 3, 0}.\\nThat's where I'm waitin'.",
-  "12": "Um... {STRVAR_1 3, 0, 0}? What's wrong?\\nYou forget our deal?\\r{STRVAR_1 4, 3, 0}.\\nThat's where I'm waitin'.",
-  "13": "Let's scrap again\\nsometime!"
+  "6": "Huh? You... Ain't you right nearby?\\rWhy not come here and just talk\\nface-to-face? I'll race you over!",
+  "7": "You remember my sweet {STRVAR_1 0, 10, 0}?\\r{STRVAR_1 0, 10, 0} run SO fast.\\rIt's a RUSH ridin' on its back\\nwhen it get goin'.\\fI got a speedin' ticket. On a homie.\\rBye-bye!",
+  "8": "You ever seen a {STRVAR_1 0, 11, 0}?\\rI just scrapped one...\\nIt was WAY faster than I expected.\\rI was kinda shook.\\nI still won, obviously. I'm faster.\\rBye-bye!",
+  "9": "I just saw a wild {STRVAR_1 0, 11, 0}.\\nI went to catch it and I was all outta\\fNap Sacks.\\rCheck your items or you'll run out at\\nthe worst time. Learn from me.\\fI threw my shoe at it instead.\\rBye-bye!",
+  "10": "You wanna scrap? I'm finna win this\\ntime!\\rI'll be waitin' around {STRVAR_1 4, 3, 0}.\\nLook for me! I'll be a blur!",
+  "11": "Um... {STRVAR_1 3, 0, 0}? What's wrong?\\nYou forget our deal?\\r{STRVAR_1 4, 3, 0}.\\nThat's where I'm waitin'. Impatiently.",
+  "12": "Um... {STRVAR_1 3, 0, 0}? What's wrong?\\nYou forget our deal?\\r{STRVAR_1 4, 3, 0}.\\nThat's where I'm waitin'. Impatiently.",
+  "13": "Let's scrap again sometime!\\nSoon! Like, NOW soon!"
 }

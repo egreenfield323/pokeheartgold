@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0647_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wha... I can’t make out what you\nsayin’! This connection is trash!\rCall from somewhere better, OK?</language>
+		<language name="English">Wha... I can’t make out what you\nsayin’! This connection is TRASH!\rCall from somewhere better.\nI only take calls in HD.</language>
 	</row>
 	<row id="msg_0647_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nWhatever... Don’t worry about me.\fI’m doin’ peachy over here!\r</language>
+		<language name="English">Wassup...\nWhatever... Don’t worry about me.\fI’m doin’ PEACHY over here!\fTotally not thinkin’ about Red.\r</language>
 	</row>
 	<row id="msg_0647_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There any Block Bosses you ain’t\nscrapped yet?\fMake your move! Show some initiative!</language>
+		<language name="English">There any Block Bosses you ain’t\nscrapped yet?\fMake your move! Show some initiative!\fLike me. I’m all initiative.</language>
 	</row>
 	<row id="msg_0647_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it ain’t Sunday night, I ain’t\navailable. Call then or forget it!</language>
+		<language name="English">If it ain’t Sunday night, I ain’t\navailable.\fCall then or forget it!\fI’m VERY busy. Doin’ stuff.</language>
 	</row>
 	<row id="msg_0647_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was just lookin’ for somethin’\nto do!\fWanna scrap me again? {YESNO 0}</language>
+		<language name="English">I was just lookin’ for somethin’ to do!\nNot that I’m bored. I’m never bored.\fWanna scrap me again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0647_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whatever!\nI ain’t losin’ to you again, got that?\rI’ll be waitin’ at the Saffron Dojo.</language>
+		<language name="English">Whatever!\nI ain’t losin’ to you again, got that?\rI’ll be waitin’ at the Saffron Dojo.\nI’m already winnin’. In my head.</language>
 	</row>
 	<row id="msg_0647_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whatever. Sound like you pretty\nbusy yourself.</language>
+		<language name="English">Whatever. Sound like you pretty busy\nyourself.\fI ain’t hurt. I’m never hurt.</language>
 	</row>
 	<row id="msg_0647_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wha...?\nOh, c’mon... Ain’t you made plans\fwith enough other people?</language>
+		<language name="English">Wha...?\nOh, c’mon... Ain’t you made plans\fwith enough other people?\fYou more popular than me? Impossible.</language>
 	</row>
 	<row id="msg_0647_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ at the Saffron Dojo.\fC’mon, show a lil initiative!</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo.\fC’mon, show a lil initiative!\fSmell ya there!</language>
 	</row>
 	<row id="msg_0647_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Blue.\r</language>
+		<language name="English">I’m Blue.\nYou know. THE Blue.\r</language>
 	</row>
 	<row id="msg_0647_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Remember we made plans to scrap at\nthe Saffron Dojo?\fWha...! You FORGOT?\fC’mon, I ain’t got all day!</language>
+		<language name="English">Remember we made plans to scrap at\nthe Saffron Dojo?\fWha...! You FORGOT?\fNobody forgets ME! C’mon!</language>
 	</row>
 	<row id="msg_0647_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I look at homies, I get a weird\nfeelin’--you ever get that?\rThere’s round ones, square ones,\nflyin’ ones, swimmin’ ones,\fflamin’ ones, freezin’ ones,\nshiny ones, dark ones--\fthere’s SO many types, and\fyet, they all homies.\rI mean, like homies, there ain’t\njust one type of person either...\rBut it’s still kinda weird when you\nthink about it.</language>
+		<language name="English">When I look at homies, I get a weird\nfeelin’--you ever get that?\rRound ones, square ones,\nflyin’ ones, swimmin’ ones,\fflamin’ ones, freezin’ ones,\fshiny ones, dark ones...\fSO many types, and they all homies.\rLike people, I guess.\nThere ain’t just one type.\rThere’s just one BEST type. Me.</language>
 	</row>
 	<row id="msg_0647_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anyway, you somethin’ else.\rTravelin’ all by yourself, hittin’ all\nthese different Blocks and\fbeatin’ ’em all...\rWell, you ain’t deadass alone...\nYou got homies with you!</language>
+		<language name="English">Anyway, you somethin’ else.\rTravelin’ by yourself, hittin’ all\nthese Blocks, beatin’ ’em all...\rWell, you ain’t REALLY alone...\nYou got homies with you!\fI’m not jealous. Why would I be.</language>
 	</row>
 	<row id="msg_0647_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Man, this guy called Red took\nme out in a heartbeat.\rI ain’t seen him in a minute...\nI wonder where he at and what he\fup to...\rCome to think of it, you look a lil\nlike Red. Yeah, you do.\rJust...\nJust a lil bit. Whatever...</language>
+		<language name="English">Man, this guy Red took me out in a\nheartbeat.\rI ain’t seen him in a minute...\nI wonder where he at...\fNot that I care. I don’t care.\rCome to think of it, you look a lil\nlike Red. Yeah, you do.\rJust... a lil bit. Whatever...\fI’m hangin’ up. I ain’t sad.</language>
 	</row>
 </body>

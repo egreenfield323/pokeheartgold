@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0750_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shank</language>
+		<language name="English">Box Cutter</language>
 	</row>
 	<row id="msg_0750_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0750_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Subwoofer</language>
+		<language name="English">Trunk Rattle</language>
 	</row>
 	<row id="msg_0750_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -226,11 +226,11 @@
 	</row>
 	<row id="msg_0750_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire Hydrant</language>
+		<language name="English">Fire Hose</language>
 	</row>
 	<row id="msg_0750_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hydrant Wave</language>
+		<language name="English">Ride Da Wave</language>
 	</row>
 	<row id="msg_0750_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="msg_0750_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stun Gun</language>
+		<language name="English">The Boot</language>
 	</row>
 	<row id="msg_0750_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -510,7 +510,7 @@
 	</row>
 	<row id="msg_0750_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wet Ya Up</language>
+		<language name="English">Beam Me Up</language>
 	</row>
 	<row id="msg_0750_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -1002,7 +1002,7 @@
 	</row>
 	<row id="msg_0750_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jacuzzi</language>
+		<language name="English">Flush It</language>
 	</row>
 	<row id="msg_0750_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
@@ -1298,7 +1298,7 @@
 	</row>
 	<row id="msg_0750_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bat Signal</language>
+		<language name="English">Full Bars</language>
 	</row>
 	<row id="msg_0750_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
@@ -1706,7 +1706,7 @@
 	</row>
 	<row id="msg_0750_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dirt Bomb</language>
+		<language name="English">Pigeon Drop</language>
 	</row>
 	<row id="msg_0750_00427" index="427">
 		<attribute name="window_context_name">used</attribute>

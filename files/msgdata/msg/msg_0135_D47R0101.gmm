@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0135_D47R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Safari Zone!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch whatever you want.\fYou wanna play? {YESNO 0}</language>
+		<language name="English">Welcome to the Safari Zone!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game.\rRoam the wide-open Safari Zone and\ncatch whatever you want.\fNo huntin’ license needed. Prob’ly.\fYou wanna play? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boss!\nWelcome to the Safari Zone!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch whatever you want.\fYou wanna play? {YESNO 0}\n</language>
+		<language name="English">BOSS! Welcome back!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game. Yes, you still pay.\rRoam the Safari Zone and catch\nwhatever you want.\fYou wanna play? {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0135_D47R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,39 +14,39 @@
 	</row>
 	<row id="msg_0135_D47R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight.\nCome back soon!</language>
+		<language name="English">Aight.\nCome back soon! Bring homies!\fBring homies with bread!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here go your Safari Balls!\r</language>
+		<language name="English">Here go your Zoo Sacks!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} got {STRVAR_1 51, 1, 0} Safari Balls\nfrom the attendant.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got {STRVAR_1 51, 1, 0} Zoo Sacks\nfrom the attendant.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll call you when you run outta\nSafari Balls.\fAight, have a good one!\rGo on, have fun!\r</language>
+		<language name="English">We’ll call you when you run outta\nZoo Sacks.\fAight, have a good one!\rDon’t feed the GEODUDE. They bite.\nRocks bite here. Don’t ask.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You still got Safari Balls left.\nLeave the Safari Zone? {YESNO 0}</language>
+		<language name="English">You still got Zoo Sacks left.\nLeave the Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet.\rHand over any Safari Balls you\ngot left.\r</language>
+		<language name="English">Bet.\rHand over any Zoo Sacks you got\nleft. ALL of ’em. I’m countin’.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have fun?\nCome back soon!</language>
+		<language name="English">You have fun?\nCome back soon! Tell your mama!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My bad.\nYou ain’t got enough bread.\rHope you slide back through.</language>
+		<language name="English">My bad.\nYou ain’t got enough bread.\rCome back when you got the bag.\nNot the Zoo Sack. The bread bag.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boss!\nYou ain’t got enough bread.\rHope you slide back through.</language>
+		<language name="English">BOSS!\nYou... ain’t got enough bread?\rHow you own the place and you broke?\nCome back with the bread, Boss.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Safari Zone, you play the\nSafari Game, where you get {STRVAR_1 51, 1, 0}\fSafari Balls to catch homies.\rWhen you run outta Safari Balls,\nthe game over.\rWhen you see a homie, you can\nthrow Bait or Mud.\rThrow Bait, and homies usually stay\nbut get harder to catch.\rThrow Mud, and they easier\nto catch, but they might dip.\rHave fun at the Safari Zone!</language>
+		<language name="English">At the Safari Zone, you play the\nSafari Game. You get {STRVAR_1 51, 1, 0}\fZoo Sacks to catch homies.\rRun outta sacks, game over.\rSee a homie? Throw Bait or Mud.\rThrow Bait: they stay, but get\nharder to catch. They full now.\rThrow Mud: they easier to catch,\nbut they might dip. They offended.\rHave fun at the Safari Zone!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba got somethin’ important\nto tell you!</language>
+		<language name="English">Warden Baoba got somethin’ important\nto tell you!\fHe always say that. It’s never\fimportant. Go anyway.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My bad, but this can’t be used yet.\nWarden Baoba got a big plan for this\fmachine...or so he say. Even we\fdon’t know what it is. It’s a secret.</language>
+		<language name="English">My bad, but this can’t be used yet.\nWarden Baoba got a big plan for this\fmachine... or so he say.\fEven WE don’t know what it is.\fI think he don’t know either.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -114,71 +114,71 @@
 	</row>
 	<row id="msg_0135_D47R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s still in the works.</language>
+		<language name="English">It’s still in the works.\nLike everythin’ Baoba builds.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, I been waitin’ on you!\nWhat you think?\rThis a brand-new Safari Zone.\nBy the way...\rI just had a idea.\nYou wanna take the Owner\fAptitude Test? {YESNO 0}</language>
+		<language name="English">AYO, I been waitin’ on you!\nWhat you think?\rBrand-new Safari Zone!\nBy the way...\rI just had a idea. My best one yet.\nWanna take the Owner Aptitude\fTest? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right on!\nLemme explain how the test work.\fIt’s real easy.\rAll you gotta do is catch one\nGEODUDE in the Safari and show me.\rThey in the grass closest to the\nentrance. Shouldn’t take long\fto catch one.\rGood luck!</language>
+		<language name="English">RIGHT ON!\nLemme explain how the test work.\fIt’s real easy.\rAll you gotta do is catch one\nGEODUDE and show me.\rThey in the grass closest to the\nentrance. Shouldn’t take long.\fUnless you bad at this. Good luck!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, I never thought anybody\nwould say no!\rYou could be the Safari Zone Owner,\ndon’t you see?\rOwner...\nGot a nice ring to it, don’t it?\rYou should take the test! {YESNO 0}</language>
+		<language name="English">Sheesh, I never thought anybody\nwould say no!\rYou could be the Safari Zone OWNER!\nDon’t you see?\rOwner...\nYour name on the sign! Business cards!\rYou should take the test! {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wonderful!\nYou caught a GEODUDE!\fYou passed the first test.\r..................\rHuh? I ain’t tell you there’s\ntwo tests?\rThat’s right!\nBecomin’ a owner ain’t that easy.\rThe second test is...\nWell, I’m still settin’ it up.\rI’ll let you know when it’s ready.\nYou just gotta wait a lil.\fI’ll call you on the Pokégear.</language>
+		<language name="English">Oh, WONDERFUL!\nYou caught a GEODUDE!\fYou passed the first test.\r..................\rHuh? I ain’t tell you there’s TWO\ntests?\rThat’s right!\nOwnership ain’t that easy.\rThe second test is...\nWell, I’m still makin’ it up.\rI’ll let you know when it’s ready.\fI’ll call you on the Pokégear.\fAt 3 AM. Keep it on.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me the GEODUDE once you\ncatch one.\rThey in the grass closest to the\nentrance. Shouldn’t take long.\rGood luck!</language>
+		<language name="English">Show me the GEODUDE once you catch\none.\rThey in the grass by the entrance.\nIt’s a rock. With arms.\fYou can’t miss it. Literally.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I been waitin’ on you!\nThe test ready.\rThis time, can you catch a SANDSHREW\nand show it to me?\rSound easy, right? Nope!\nSANDSHREW don’t show up with the\fcurrent Safari Zone setup.\rAnd that’s where this come in clutch!\r</language>
+		<language name="English">I been waitin’ on you!\nThe test READY.\rThis time, catch a SANDSHREW\nand show it to me.\rSound easy, right? NOPE!\nSANDSHREW don’t show up with the\fcurrent setup.\rAnd that’s where THIS come in!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This fancy, high-tech machine\nlet you customize Safari Zone Areas.\fI call it the Area Customizer!\rYou wanna know how it work,\ndon’t you?\fIt’s a...secret!\rNah, you shouldn’t have trouble\nworkin’ it. Just holla at the staff\fnext to me!\r</language>
+		<language name="English">This fancy, high-tech machine let\nyou customize Safari Zone Areas.\fI call it... the Area Customizer!\rYou wanna know how it work?\fIt’s a... SECRET!\rNah, I’m playin’. Just holla at the\nstaff next to me. They know.\fI don’t. I just named it.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I almost forgot!\rI was in the middle of explainin’\nthe second test, wasn’t I?\rYou won’t see SANDSHREW\nwith the current Safari Zone Areas,\rso you gotta use the Area Customizer\nto switch ’em up.\rSANDSHREW live in the desert!\nGood luck!</language>
+		<language name="English">I almost forgot!\rI was explainin’ the second test,\nwasn’t I?\rYou won’t see SANDSHREW with the\ncurrent Areas,\rso use the Area Customizer and\nswitch ’em up.\rSANDSHREW live in the desert!\nGood luck! Bring water!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You did it!\rYou caught a SANDSHREW!\nI knew you could do it.\rYou passed the test!\nYou the Safari Zone Owner now!\r</language>
+		<language name="English">You DID it!\rYou caught a SANDSHREW!\nI KNEW you could do it.\fI bet against you, but I knew.\rYou passed the test!\nYou the Safari Zone OWNER now!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I always wanted to see young people\nplayin’ at the safari!\rI figured I’d get some new ideas.\nThat should help you finish your\fPokédex.\rThat’s what I been thinkin’.\r</language>
+		<language name="English">I always wanted to see young people\nplayin’ at the safari!\rI figured I’d get new ideas. Help you\nfinish your Pokédex.\fAlso you work for free now.\fThat’s what bein’ owner mean.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, even though you the\nSafari Zone Owner now, could you\fkeep payin’ to get in?\fWe got our reasons.\rDon’t be mad. I’mma keep thinkin’ of\nnew fun ways to\fhelp you finish your Pokédex.\rGo have fun at the Safari Zone!</language>
+		<language name="English">By the way, even though you the\nOwner now, could you keep payin’ to\fget in?\fWe got our reasons.\fThe reason is bread.\rDon’t be mad. I’mma keep thinkin’\nof new ways to help you finish\fyour Pokédex.\rGo have fun at YOUR Safari Zone!\nThat you pay for!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll hit your Pokégear as soon as I\ncome up with somethin’ new!</language>
+		<language name="English">I’ll hit your Pokégear as soon as\nI come up with somethin’ new!\fProb’ly soon. My brain don’t stop.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me the SANDSHREW once you\ncatch one. SANDSHREW live in the\fdesert! Good luck!</language>
+		<language name="English">Show me the SANDSHREW once you\ncatch one. They live in the desert!\fThe desert we got. In a buildin’.\fDon’t think about it.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow down.\rOnce the next test ready, I’ll\ncall you on the Pokégear.\rGimme some time, OK?</language>
+		<language name="English">Slow down.\rOnce the next test ready, I’ll call\nyou on the Pokégear.\rGimme some time, OK?\nGenius take time. And snacks.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, I been waitin’ on you!\rI had a epiphany!\nA new attraction!\rI’mma call it...\nObject Arrangement!\rThis finna be fun!\nYou can put objects on the field as\fyou play in the Safari Zone!\r</language>
+		<language name="English">AYO, I been waitin’ on you!\rI had a EPIPHANY!\nA new attraction!\rI’mma call it...\nObject Arrangement!\rYou put objects on the field while\nyou play!\fRocks! Trees! Furniture!\fI found most of it on the curb.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not only that, but the kinds of\nhomies you see change dependin’\fon what objects you put down.\rAin’t that amazin’?\nI’ll call you on the Pokégear if\fanythin’ else come up!\r</language>
+		<language name="English">And the homies you see change\ndependin’ on what you put down!\rAin’t that AMAZIN’?\nI’m basically a scientist.\fI’ll call you if anythin’ else\fcome up!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -210,15 +210,15 @@
 	</row>
 	<row id="msg_0135_D47R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Watch out!\rOnce you swap Areas, all the\nobjects you put down get removed.\rYou wanna know anythin’\nelse? {YESNO 0}</language>
+		<language name="English">Watch out!\rOnce you swap Areas, all the\nobjects you put down get removed.\fBaoba take ’em home. Don’t ask.\rYou wanna know anythin’ else? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hope you enjoy it!\nGo on, have fun!</language>
+		<language name="English">Hope you enjoy it!\nGo on, have fun! It’s YOUR zoo!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to {STRVAR_1 3, 0, 0}’s Safari Zone!\rFor just $500, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch whatever you want.\fYou wanna play? {YESNO 0}</language>
+		<language name="English">Welcome to {STRVAR_1 3, 0, 0}’s Safari Zone!\rFor just $500, you can play the\nSafari Game. The owner get nothin’.\rRoam the Safari Zone and catch\nwhatever you want.\fYou wanna play? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
@@ -226,19 +226,19 @@
 	</row>
 	<row id="msg_0135_D47R0101_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight.\nCome back soon!</language>
+		<language name="English">Aight.\nCome back soon! Bring homies!\fBring homies with bread!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here go your Safari Balls.\r</language>
+		<language name="English">Here go your Zoo Sacks.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} got {STRVAR_1 51, 1, 0} Safari Balls.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} got {STRVAR_1 51, 1, 0} Zoo Sacks.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll call you when you run outta\nSafari Balls.\rAight, best of luck!\r</language>
+		<language name="English">We’ll call you when you run outta\nZoo Sacks.\rAight, best of luck!\nDon’t feed the GEODUDE.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -250,15 +250,15 @@
 	</row>
 	<row id="msg_0135_D47R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet.\rHand over any Safari Balls\nyou got left.\r</language>
+		<language name="English">Bet.\rHand over any Zoo Sacks\nyou got left.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have fun?\nCome back soon!</language>
+		<language name="English">You have fun?\nCome back soon! Tell your mama!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My bad.\nYou ain’t got enough bread.\rHope you slide back through.</language>
+		<language name="English">My bad.\nYou ain’t got enough bread.\rCome back when you got the bag.\nNot the Zoo Sack. The bread bag.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
@@ -342,7 +342,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back soon.</language>
+		<language name="English">Come back soon.\nWe’ll be here. The rocks too.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
@@ -371,7 +371,7 @@
 	</row>
 	<row id="msg_0135_D47R0101_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This the front desk for the\nSafari Zone Link.\r...Or should I say...it’s finna be.\rWe still ain’t ready.\nCome back later.</language>
+		<language name="English">This the front desk for the Safari\nZone Link.\r...Or it’s finna be.\rWe still ain’t ready.\nBaoba spent the budget on a statue.\fOf himself.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00093" index="93">
 		<attribute name="window_context_name">used</attribute>

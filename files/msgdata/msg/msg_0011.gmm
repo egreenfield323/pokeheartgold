@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0011_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Capsule.</language>
+		<language name="English">Choose a Patch.</language>
 	</row>
 	<row id="msg_0011_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0011_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finished editing the Capsule.</language>
+		<language name="English">Finished editin’ the Patch.</language>
 	</row>
 	<row id="msg_0011_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0011_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit without changing the\nCapsule design?</language>
+		<language name="English">Quit without changin’ the\nCapsule design?</language>
 	</row>
 	<row id="msg_0011_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

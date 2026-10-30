@@ -32,6 +32,6 @@
   "29": "You pickin' GIRATINA? {YESNO 0}",
   "30": "This spot don't seem to respond...",
   "31": "Looks like only one ARCEUS\\ncan stand here...",
-  "32": "Wanna give a nickname\\nto the {STRVAR_1 0, 1, 0}? {YESNO 0}",
+  "32": "Wanna give the {STRVAR_1 0, 1, 0}\\na street name? {YESNO 0}",
   "33": "Looks like it don't respond\\nto this ARCEUS no more..."
 }

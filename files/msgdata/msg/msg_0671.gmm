@@ -6,43 +6,43 @@
 	</row>
 	<row id="msg_0671_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tweet! Tweeeeeet!\rIf my FARFETCH’D see anythin’ shiny,\nit go snatch it.\rYou like shiny things?\nI could share if it get some more.\rHow ’bout we swap numbers?\nI’ll call if it find anythin’. {YESNO 0}</language>
+		<language name="English">Tweet! Tweeeeeet!\rIf my FARFETCH’D see anythin’ shiny,\nit SNATCH it.\fFrom stores. From cops.\rYou like shiny things?\nI could share if it get some more.\rSwap numbers? I’ll call if it\n“finds” anythin’. {YESNO 0}</language>
 	</row>
 	<row id="msg_0671_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll hit you as soon as I get\nsomethin’ shiny.</language>
+		<language name="English">I’ll hit you as soon as I get somethin’\nshiny. Don’t ask where it’s from.</language>
 	</row>
 	<row id="msg_0671_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You sure? Well, lmk if you\nchange your mind.</language>
+		<language name="English">You sure? Well, lmk if you change\nyour mind. The offer’s hot. Like the\fmerchandise.</language>
 	</row>
 	<row id="msg_0671_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tweet! Tweeeeeet!\nYou like shiny things?\rI could share if FARFETCH’D go\nsnatch more.\rYou gon’ gimme your\nnumber? {YESNO 0}</language>
+		<language name="English">Tweet! Tweeeeeet!\nYou like shiny things?\rI could share if FARFETCH’D go snatch\nmore. It’s always snatchin’.\rYou gon’ gimme your number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0671_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tweet! Tweeeeeet!\rHuh?\r...Oh, I see.\nI thought you came over ’cause\fyou was feelin’ my whistlin’.\rThat ain’t it. You just came for the\nStar Piece, didn’t you? Here you go!\r</language>
+		<language name="English">Tweet! Tweeeeeet!\rHuh?\r...Oh, I see.\nI thought you came over ’cause you\ffeelin’ my whistlin’.\rNah. You came for the Star Piece.\nHere you go! Don’t tell nobody.\r</language>
 	</row>
 	<row id="msg_0671_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tweet! Tweeeeeet!\r...Huh? Wait, don’t tell me you\ncallin’ from right nearby?\rWell, come closer and\ntalk in person!</language>
+		<language name="English">Tweet! Tweeeeeet!\r...Huh? Don’t tell me you callin’ from\nright nearby?\rCome closer and talk in person!\nPhones can be tapped.</language>
 	</row>
 	<row id="msg_0671_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo listen, my {STRVAR_1 0, 10, 0}’s stalk\ngot this REAL delicious smell.\rThat smell get me hungry!\rLater!</language>
+		<language name="English">Ayo listen, my {STRVAR_1 0, 10, 0}’s stalk\ngot this REAL delicious smell.\rThat smell get me hungry!\fI almost ate it. Again.\rLater!</language>
 	</row>
 	<row id="msg_0671_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A while ago, my FARFETCH’D knocked out\nthis {STRVAR_1 0, 11, 0}. You shoulda\fseen FARFETCH’D swing that stalk.\rCrazy stuff!\nLater!</language>
+		<language name="English">A while ago, my FARFETCH’D knocked out\na {STRVAR_1 0, 11, 0}.\rYou shoulda seen it swing that stalk.\nLike a bat. In an alley.\rLater!</language>
 	</row>
 	<row id="msg_0671_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I ran into a wild {STRVAR_1 0, 11, 0}...\rI was tryna catch it, but it\ndipped faster than I thought.\fKinda disappointin’.\rLater!</language>
+		<language name="English">I ran into a wild {STRVAR_1 0, 11, 0}...\rI was tryna catch it, but it dipped\nfaster than I thought.\fFARFETCH’D tried to steal its wallet.\rLater!</language>
 	</row>
 	<row id="msg_0671_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna scrap again?\rFor some reason, my FARFETCH’D all\nworked up and ready to go.\r{STRVAR_1 4, 3, 0} is where I’m at.\nKeep a eye out for me, OK?</language>
+		<language name="English">Wanna scrap again?\rMy FARFETCH’D all worked up.\nIt saw a shiny car.\r{STRVAR_1 4, 3, 0} is where I’m at.\nKeep a eye out for me, OK?</language>
 	</row>
 	<row id="msg_0671_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,14 +54,14 @@
 	</row>
 	<row id="msg_0671_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I ain’t got what I promised\nyou yet.\rI’ll hit you as soon as I get it, so\ncould you wait a lil longer?</language>
+		<language name="English">I ain’t got what I promised you yet.\rFARFETCH’D is still “shoppin’.”\nCould you wait a lil longer?</language>
 	</row>
 	<row id="msg_0671_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My FARFETCH’D had somethin’ shiny in\nits beak.\rLike I promised, you can have it.\rCatch me on {STRVAR_1 4, 3, 0},\nand it’s yours.</language>
+		<language name="English">My FARFETCH’D came back with somethin’\nshiny in its beak.\rLike I promised, it’s yours.\fNo receipt.\rCatch me on {STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0671_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong?\nYou don’t want this gift?\rCatch me on {STRVAR_1 4, 3, 0},\nand it’s yours.</language>
+		<language name="English">What’s wrong?\nYou don’t want this gift?\rIt’s hot. Like, popular hot. Not\nstolen hot.\rCatch me on {STRVAR_1 4, 3, 0}.</language>
 	</row>
 </body>

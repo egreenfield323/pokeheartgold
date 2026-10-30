@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0025_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you want to do?</language>
+		<language name="English">What do you wanna do?</language>
 	</row>
 	<row id="msg_0025_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
@@ -127,7 +127,7 @@
 	</row>
 	<row id="msg_0025_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please detach the Ball Capsule.</language>
+		<language name="English">Please detach the Sack Patch.</language>
 	</row>
 	<row id="msg_0025_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -237,11 +237,11 @@
 	</row>
 	<row id="msg_0025_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail cannot be moved!</language>
+		<language name="English">Mail can’t be moved!</language>
 	</row>
 	<row id="msg_0025_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot hold {STRVAR_1 8, 0, 0}!</language>
+		<language name="English">Can’t hold {STRVAR_1 8, 0, 0}!</language>
 	</row>
 	<row id="msg_0025_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -249,15 +249,15 @@
 	</row>
 	<row id="msg_0025_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a Ball Capsule!</language>
+		<language name="English">It has a Sack Patch!</language>
 	</row>
 	<row id="msg_0025_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re out of Pokémon that can fight!</language>
+		<language name="English">You outta Pokémon that can fight!</language>
 	</row>
 	<row id="msg_0025_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail cannot be moved!</language>
+		<language name="English">Mail can’t be moved!</language>
 	</row>
 	<row id="msg_0025_00060" index="60">
 		<attribute name="window_context_name">used</attribute>

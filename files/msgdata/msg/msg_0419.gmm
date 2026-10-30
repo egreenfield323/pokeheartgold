@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0419_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the end of the day, our search\nparty came up empty.\nThey eventually had to leave the deep\ndark Union Cave.\n“If only we had Flashbang!” the leader\ncried.\nTune in next time for the crazy\nconclusion of the special,\n“The Cave That Went Pitch Black”!</language>
+		<language name="English">At the end of the day, our search\nparty came up empty.\nThey had to leave the deep dark\nUnion Cave. They also lost Gary.\n“If only we had Flashbang!” the leader\ncried. Gary is still in there.\nTune in next time for the crazy\nconclusion, “The Cave That Went Black”!</language>
 	</row>
 	<row id="msg_0419_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0419_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The leader of the search party looked\nout at the Lake of Rage, quietly\nmumblin’ “Ain’t no rain that\ndon’t stop.”\nHe held the Fishin’ Rod that got\nsnapped in two tight in his hand, and\nheaded back to headquarters.\nTune in next time for the crazy\nconclusion of the special,\n“Look! A Red Gyarados!”</language>
+		<language name="English">The leader of the search party looked\nout at the Lake of Rage, mumblin’\n“Ain’t no rain that don’t stop.”\nHe held his snapped Fishin’ Rod and\nheaded back. The GYARADOS laughed.\nTune in next time for the crazy\nconclusion of the special,\n“Look! A Red Gyarados!”</language>
 	</row>
 	<row id="msg_0419_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

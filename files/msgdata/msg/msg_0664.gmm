@@ -6,91 +6,91 @@
 	</row>
 	<row id="msg_0664_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? {STRVAR_1 3, 0, 0}?\rI’m so used to hearin’ your\nvoice, but you sound like\fa whole different person on the phone.\fIt’s so weird...</language>
+		<language name="English">Wassup? {STRVAR_1 3, 0, 0}?\rI’m so used to your voice, but you\nsound like a whole different person on\fthe phone.\fAre you eatin’? You sound skinny.</language>
 	</row>
 	<row id="msg_0664_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? {STRVAR_1 3, 0, 0}?\rI’m so used to hearin’ your\nvoice, but you sound like\fa whole different person on the phone.\fIt’s so weird...</language>
+		<language name="English">Wassup? {STRVAR_1 3, 0, 0}?\rI’m so used to your voice, but you\nsound like a whole different person on\fthe phone.\fAre you eatin’? You sound skinny.</language>
 	</row>
 	<row id="msg_0664_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nThat sound real tough.\rBut, {STRVAR_1 3, 0, 0}, I know you\nlocked in. You gon’ be OK, right?</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nThat sound real tough.\rBut, {STRVAR_1 3, 0, 0}, I know you locked in.\nYou gon’ be OK, right?\fSay yes. I need to hear yes.</language>
 	</row>
 	<row id="msg_0664_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nAin’t Professor Elm waitin’ on you?</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nAin’t Professor Elm waitin’ on you?\fDon’t make that man wait. He sweats.</language>
 	</row>
 	<row id="msg_0664_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nSo, how that errand goin’ you\fhelpin’ Professor Elm with?\rI know you locked in. You gon’ be OK!</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nHow that errand goin’ for Professor\fElm?\rI know you locked in. You gon’ be OK!\fCall more. I’m just sayin’.</language>
 	</row>
 	<row id="msg_0664_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rAyo, {STRVAR_1 3, 0, 0}! If you done with\nyour errand, c’mon home, baby.</language>
+		<language name="English">Wassup?\rAyo, {STRVAR_1 3, 0, 0}! If you done with your\nerrand, c’mon home, baby.\fI made too much spaghetti.</language>
 	</row>
 	<row id="msg_0664_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nWhat’s goin’ on? How you gettin’\falong with your homies?\rYou know, I found if you show\nyour homies love, they\fshow it right back.\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}!\nHow you gettin’ along with your\fhomies?\rI found if you show your homies love,\nthey show it right back.\fLike you should do for your MOTHER.\r</language>
 	</row>
 	<row id="msg_0664_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nYou in Cherrygrove City?\rYou know, you real close...\nWhy not come home for a bit?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nYou in Cherrygrove City?\rYou REAL close...\nWhy not come home for a bit?\fI’ll make your favorite. Come home.\r</language>
 	</row>
 	<row id="msg_0664_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Violet City...\rAin’t that where Sprout Tower\nat? You go check it out?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Violet City...\rThat’s where Sprout Tower at?\nThe monks over there is cute.\fI mean... the TOWER is cute.\r</language>
 	</row>
 	<row id="msg_0664_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Azalea Town...\rAin’t that where the SLOWPOKE Well\nat? You go check it out?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Azalea Town...\rThat’s where the SLOWPOKE Well at?\nDon’t fall in. I mean it.\r</language>
 	</row>
 	<row id="msg_0664_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Cianwood City...\rAin’t that where they buildin’ that\nSafari Zone? It open yet?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Cianwood City...\rThey buildin’ a Safari Zone there?\nDon’t let them zoo people scam you.\r</language>
 	</row>
 	<row id="msg_0664_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Goldenrod City...\rAin’t that where the Radio Tower\nat? You go check it out?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Goldenrod City...\rThat’s where the Radio Tower at?\nTell Mary I said hi! We go way back!\fWe don’t. But tell her.\r</language>
 	</row>
 	<row id="msg_0664_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Olivine City...\rAin’t that where that big Lighthouse\nat? You go check it out?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Olivine City...\rThat big Lighthouse there?\nYou check it out? Take a picture!\fSend it to me! I’ll frame it!\r</language>
 	</row>
 	<row id="msg_0664_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Ecruteak City...\rAin’t that where the Bell Tower\nat? You go check it out?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nOh, so you in Ecruteak City...\rThat’s where the Bell Tower at?\nRing the bell for me! Once!\r</language>
 	</row>
 	<row id="msg_0664_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nSheesh, you in {STRVAR_1 4, 2, 0}?\rGood luck on your homie quest!\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nSheesh, you in {STRVAR_1 4, 2, 0}?\rGood luck on your homie quest!\nWear clean drawers!\r</language>
 	</row>
 	<row id="msg_0664_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\rSheesh, you in {STRVAR_1 4, 2, 0}?\rWell, as your mama, I know you doin’\nyour best wherever you go!\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\rSheesh, you in {STRVAR_1 4, 2, 0}?\rWell, as your mama, I know you doin’\nyour best wherever you go!\fAnd your laundry? You doin’ that?\r</language>
 	</row>
 	<row id="msg_0664_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! You sound happy!\nI feel SO much better!\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! You sound happy!\nI feel SO much better!\fI was up all night worryin’. Again.\r</language>
 	</row>
 	<row id="msg_0664_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nThat sound real tough.\rBut, {STRVAR_1 3, 0, 0}, I know you\nlocked in. You gon’ be OK, right?\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\nThat sound real tough.\rBut, {STRVAR_1 3, 0, 0}, I know you locked in.\nYou gon’ be OK, right?\fCall your mama more.\r</language>
 	</row>
 	<row id="msg_0664_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\rYou in KANTO?! Sheesh, that’s\nwonderful, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! Grindin’?\rYou in KANTO?! Sheesh, that’s\nwonderful, {STRVAR_1 3, 0, 0}!\fBring me back a souvenir!\fA nice one! Not a keychain!\r</language>
 	</row>
 	<row id="msg_0664_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! You tryin’\nthe Pokéathlon? Do your best!\fMama cheerin’ you on!\r</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! You tryin’ the\nPokéathlon? Do your best!\fMama cheerin’ you on! I made a sign!\fIt’s got glitter on it!\r</language>
 	</row>
 	<row id="msg_0664_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You ain’t picked up that stuff\nI bought you yet, have you?\rDon’t forget to hit the Corner\nStore and holla at the delivery guy.</language>
+		<language name="English">You ain’t picked up that stuff I bought\nyou yet, have you?\rDon’t forget to hit the Corner Store\nand holla at the delivery guy.\fHe’s SO nice. Ask him if he single.</language>
 	</row>
 	<row id="msg_0664_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\r...{STRVAR_1 3, 0, 0}?\rProfessor Elm told me you\nwent on a long trip.\rI wish you woulda told me...\nWhat about your bread? Want me to\fstash it?</language>
+		<language name="English">Wassup?\r...{STRVAR_1 3, 0, 0}?\rProfessor Elm told me you went on a\nLONG trip.\rI wish you woulda told me...\nI had to find out from ELM.\fWhat about your bread? Want me to\fstash it? I’m good with bread.</language>
 	</row>
 	<row id="msg_0664_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -102,15 +102,15 @@
 	</row>
 	<row id="msg_0664_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. I’ll stash your bread.\r{STRVAR_1 3, 0, 0}, keep goin’! I’m rootin’\nfor you, baby!</language>
+		<language name="English">OK. I’ll stash your bread.\nIt’s SAFE with me. Totally safe.\r{STRVAR_1 3, 0, 0}, keep goin’! I’m rootin’ for\nyou, baby!</language>
 	</row>
 	<row id="msg_0664_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. I won’t stash your bread.\r{STRVAR_1 3, 0, 0}, keep goin’! I’m rootin’\nfor you, baby!</language>
+		<language name="English">OK. I won’t stash your bread.\nYou don’t trust me? Your own MAMA?\r{STRVAR_1 3, 0, 0}, keep goin’! I’m rootin’ for\nyou anyway, baby!</language>
 	</row>
 	<row id="msg_0664_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s important to\nstack your bread.</language>
+		<language name="English">It’s important to stack your bread.\nEspecially for your mama’s birthday.</language>
 	</row>
 	<row id="msg_0664_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -118,6 +118,6 @@
 	</row>
 	<row id="msg_0664_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! How you livin’?\rI found somethin’ useful shoppin’,\nso I copped it with YOUR bread. Sorry!\rBut I told the delivery guy to drop it\nto you, so stop by the\fclosest Corner Store or Dept. Store\fand grab it! It’s gon’ be useful!</language>
+		<language name="English">Wassup?\rOh, ayo, {STRVAR_1 3, 0, 0}! How you livin’?\rI found somethin’ useful shoppin’, so I\ncopped it with YOUR bread. Sorry!\fAlso some shoes. For me. Sorry!\rIt’s at the closest Corner Store or\nDept. Store. Go grab it!</language>
 	</row>
 </body>

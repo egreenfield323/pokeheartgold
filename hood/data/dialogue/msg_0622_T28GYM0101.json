@@ -3,7 +3,7 @@
   "0": "Pryce: Homies go through a lot in life.\\nJust like us.\\rI been through a LOT. Three wars. Two\\nwives. One hip replacement.\\rSince I'm your elder, lemme show you\\nwhat I mean.\\rI been trainin' homies since BEFORE your\\nparents was a thought.\\rI don't lose easy. I, Pryce--the Winter\\nHustler--will show you COLD!\\r",
   "1": "Pryce: I'm impressed by your skill.\\rWith that strong will, I know you\\ngon' get past anything life throw.\\fYou worthy of this Chain!\\r",
   "2": "{STRVAR_1 3, 0, 0} got\\nthe Glacier Chain from Pryce!",
-  "3": "Pryce: That Chain raise your\\nhomies' Special stats.\\rIt also let your homies use\\nJacuzzi to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
+  "3": "Pryce: That Chain raise your\\nhomies' Special stats.\\rIt also let your homies use\\nFlush It to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
   "4": "Pryce: That TM is Ice Storm.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice.",
   "5": "Pryce: When the ice melt, spring come.\\rYou and your homies gon' be together a\\nlong time. Cherish it.\\fAnd call your grandparents.",
   "6": "Pryce: It's you...\\rSince you here, why don't we\\ntake a pic together? {YESNO 0}",

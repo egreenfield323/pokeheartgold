@@ -75,7 +75,7 @@
 	</row>
 	<row id="msg_0026_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered with\nfriends</language>
+		<language name="English">No. of Contests entered with\nhomies</language>
 	</row>
 	<row id="msg_0026_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -83,7 +83,7 @@
 	</row>
 	<row id="msg_0026_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered with\nfriends and won</language>
+		<language name="English">No. of Contests entered with\nhomies and won</language>
 	</row>
 	<row id="msg_0026_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -133,7 +133,7 @@
 	</row>
 	<row id="msg_0026_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Hustler battles excluding\nUnion Room and Frontier</language>
+		<language name="English">No. of Hustler battles excludin’\nUnion Room and Frontier</language>
 	</row>
 	<row id="msg_0026_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -141,7 +141,7 @@
 	</row>
 	<row id="msg_0026_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon caught fishing</language>
+		<language name="English">No. of Pokémon caught fishin’</language>
 	</row>
 	<row id="msg_0026_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="msg_0026_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The total bread spent shopping</language>
+		<language name="English">The total bread spent shoppin’</language>
 	</row>
 	<row id="msg_0026_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -258,7 +258,7 @@
 	</row>
 	<row id="msg_0026_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Premier Balls received</language>
+		<language name="English">No. of VIP Sacks received</language>
 	</row>
 	<row id="msg_0026_00059" index="59">
 		<attribute name="window_context_name">used</attribute>

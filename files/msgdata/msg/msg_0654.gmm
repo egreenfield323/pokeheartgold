@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0654_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? I can’t hear you real good...\nThe connection trash...\rTry callin’ me again from a\ndifferent spot, please.</language>
+		<language name="English">Wassup? I can’t hear you real good...\nThe connection trash...\rTry callin’ me again from a different\nspot, please... Sorry... Good looks...</language>
 	</row>
 	<row id="msg_0654_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup... How you doin’?\nI’m doin’ well, thanks.\r</language>
+		<language name="English">Wassup... How you doin’?\nI’m doin’ well, thanks.\fSorry. I’m whisperin’. Habit.\r</language>
 	</row>
 	<row id="msg_0654_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s SO many other Hustlers out\nthere way stronger than me...\fYou should go try ’em.</language>
+		<language name="English">There’s SO many Hustlers out there way\nstronger than me...\fYou should go try ’em.\fSorry. I’m not tryin’ to get rid of you.</language>
 	</row>
 	<row id="msg_0654_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see...\nI’m usually free Wednesdays\faround noon. I could spare a minute...\rWhy don’t you call me again then...</language>
+		<language name="English">Let’s see...\nI’m usually free Wednesdays around\fnoon. I could spare a minute...\rWhy don’t you call me again then...\nIf that’s OK... Sorry.</language>
 	</row>
 	<row id="msg_0654_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy been doin’ better lately. I also\nbeen able to take some me-time.\rWhat you think? You wanna\nscrap me again? {YESNO 0}</language>
+		<language name="English">Amphy been doin’ better lately.\nI also been able to take some me-time.\fI took a bath. It was nice.\rWhat you think? You wanna scrap me\nagain? {YESNO 0}</language>
 	</row>
 	<row id="msg_0654_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it...\nSee you at the Saffron Dojo, OK?</language>
+		<language name="English">Got it...\nSee you at the Saffron Dojo, OK?\fI’ll try not to be nervous.</language>
 	</row>
 	<row id="msg_0654_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...</language>
+		<language name="English">I see...\nThat’s OK... It’s fine... I’m fine...</language>
 	</row>
 	<row id="msg_0654_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\rBefore you scrap me again, ain’t you\ngot other plans to keep?</language>
+		<language name="English">Huh?\rBefore you scrap me again, ain’t you\ngot other plans to keep?\fIt’s rude to double-book. Sorry.</language>
 	</row>
 	<row id="msg_0654_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it. I’ll be waitin’ at\nthe Saffron Dojo.\fI’ll see you there.</language>
+		<language name="English">Got it. I’ll be waitin’ at the Saffron\nDojo.\fI’ll see you there. I’ll bring tea.</language>
 	</row>
 	<row id="msg_0654_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Jasmine.\nHow I sound? Healthy?\r</language>
+		<language name="English">This Jasmine.\nHow I sound? Healthy?\fI’m askin’ ’cause I worry.\r</language>
 	</row>
 	<row id="msg_0654_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You ain’t forget your promise to\nmeet me for a scrap, did you?\rI’m still waitin’ at\nthe Saffron Dojo...</language>
+		<language name="English">You ain’t forget your promise to meet\nme for a scrap, did you?\rI’m still waitin’ at the Saffron Dojo...\nIt’s been a while... It’s fine...</language>
 	</row>
 	<row id="msg_0654_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You been to the Lighthouse lately?\rI been so busy myself. I ain’t\nbeen able to get over there to see\fAmphy much...\rBut...whenever I see the Lighthouse\nlight at night, I always think,\f“I hope you good, Amphy.”</language>
+		<language name="English">You been to the Lighthouse lately?\rI been so busy I ain’t been able to\nget over there to see Amphy much...\rBut whenever I see the Lighthouse\nlight at night, I always think,\f“I hope you good, Amphy.”\rI text it. It can’t text back.</language>
 	</row>
 	<row id="msg_0654_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um...\nThere’s somethin’ I been meanin’ to\fask you... What you think of my Block?\fWas the vibe a lil weird?\rBut...I mean, steel always look\npretty cold and unfriendly, but I was\ftryin’ to make it at least a lil cute.</language>
+		<language name="English">Um...\nThere’s somethin’ I been meanin’ to\fask... What you think of my Block?\fWas the vibe a lil weird?\rSteel always look cold and mean, but\nI was tryin’ to make it a lil cute.\fI put a doily on the Steelix.\fHe hates it.</language>
 	</row>
 	<row id="msg_0654_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba at the Safari Zone...\nHe came by my Block once to\fintroduce himself...\rHe talk a lil different, don’t\nhe? I heard it’s called anastrophe...</language>
+		<language name="English">Warden Baoba at the Safari Zone...\nHe came by my Block once to\fintroduce himself...\rHe tried to sell me “zoo shares.”\nI bought three. Was that bad?\fPlease tell me that wasn’t bad.</language>
 	</row>
 </body>

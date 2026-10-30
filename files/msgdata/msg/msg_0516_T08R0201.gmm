@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0516_T08R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park is where you get\ntimed catchin’ six homies.\rYou get six special\nHood Balls for the challenge.\rHustlers enterin’ gotta\nbring the six homies that\fget caught.\rIf you don’t bring six\nhomies, you can’t enter\fthe Catching Show.\rYou wanna know anythin’\nelse? {YESNO 0}</language>
+		<language name="English">Pal Park is where you get\ntimed catchin’ six homies.\rYou get six special\nNap Sacks for the challenge.\rHustlers enterin’ gotta\nbring the six homies that\fget caught.\rIf you don’t bring six\nhomies, you can’t enter\fthe Catching Show.\rYou wanna know anythin’\nelse? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the start of the Catching Show,\nyou get six Park Balls.\rUse the Park Balls to catch the\nsix homies you brought.\rYou wanna know anythin’\nelse? {YESNO 0}</language>
+		<language name="English">At the start of the Catching Show,\nyou get six Park Sacks.\rUse the Park Sacks to catch the\nsix homies you brought.\rYou wanna know anythin’\nelse? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0516_T08R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, here go your Park Balls!\r{STRVAR_1 3, 0, 0} got\nsix Park Balls.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rAight, go on, {STRVAR_1 3, 0, 0}.\rShow us some masterful\nhomie catchin’!\r</language>
+		<language name="English">Aight, here go your Park Sacks!\r{STRVAR_1 3, 0, 0} got\nsix Park Sacks.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rAight, go on, {STRVAR_1 3, 0, 0}.\rShow us some masterful\nhomie catchin’!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, here go your Park Balls!\r{STRVAR_1 3, 0, 0} got\nsix Park Balls.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rAight, go on, {STRVAR_1 3, 0, 0}.\rShow us some masterful\nhomie catchin’!\r</language>
+		<language name="English">Aight, here go your Park Sacks!\r{STRVAR_1 3, 0, 0} got\nsix Park Sacks.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rAight, go on, {STRVAR_1 3, 0, 0}.\rShow us some masterful\nhomie catchin’!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0516_T08R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry you had to tap out.\nI’ll take back whatever Park Balls\fyou got left.\rNext time, stick around and catch\nall six homies.</language>
+		<language name="English">Sorry you had to tap out.\nI’ll take back whatever Park Sacks\fyou got left.\rNext time, stick around and catch\nall six homies.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

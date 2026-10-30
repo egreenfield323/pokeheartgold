@@ -32,22 +32,22 @@
 	</row>
 	<row id="msg_0381_R32PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo. You pickin’ Apricorns? Say\nyes. Please. I need this. {YESNO 0}</language>
+		<language name="English">Ayo. You dig through bushes? Say\nyes. Please. I need this. {YESNO 0}</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AYYY! A FELLOW APRICORN ENJOYER!\rI’m so hype I’m givin’ you this.\nDon’t tell my wife.\r</language>
+		<language name="English">AYYY! A FELLOW BUSH DIGGER!\rI’m so hype I’m givin’ you this.\nDon’t tell my wife.\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nah? You don’t pick Apricorns?\nThat’s cool. I’ll CONVERT you.\rApricorns changed my LIFE.\nTake this first. It’s a gateway.\r</language>
+		<language name="English">Nah? You don’t dig through bushes?\nThat’s cool. I’ll CONVERT you.\rBushes changed my LIFE.\nTake this first. It’s a gateway.\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lure Ball!\nThis Hood Ball make it easy to\frecruit the homies that bite\fwhen you go fishin’!\rIt’s made outta Apricorns, by\nthe way. Take them two, on me.\rWant more? Go to Azalea Town.\nA man named Kurt make custom\fHood Balls outta Apricorns.\rApricorns run this!</language>
+		<language name="English">Croc Bag!\nThis bag make it easy to\frecruit the homies that bite\fwhen you go fishin’!\rIt’s made outta croc hide I found in\na bush, by the way. Take two, on me.\rWant more? Go to Azalea Town.\nA man named Kurt make custom\fbags outta bush scraps.\rBushes run this!</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt the Michael Jordan of Apricorns.\nI got his poster over my bed.\rIf you hit Azalea Town, tell\nhim I said... Nah, he’ll know.\rApricorn, Apricorner, APRICORNEST!</language>
+		<language name="English">Kurt the Michael Jordan of bags.\nI got his poster over my bed.\rIf you hit Azalea Town, tell\nhim I said... Nah, he’ll know.\rBush, Busher, BUSHIEST!</language>
 	</row>
 </body>

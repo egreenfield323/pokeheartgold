@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Walt (Firebreather).",
   "1": "Mostly I breathe fire, but you wanna\\nswap numbers? {YESNO 0}",
-  "2": "Aight!\\rDon't trip. I'll stop breathin' fire\\nwhile we on the phone...\\fso gimme a call sometime!",
-  "3": "I knew us Firebreathers wasn't\\nexactly popular...",
+  "2": "AIGHT!\\rDon't trip. I'll stop breathin' fire while\\nwe on the phone...\\fI melted my last two phones.\\fSo call me sometime!",
+  "3": "I knew us Firebreathers wasn't exactly\\npopular... No eyebrows. It's a look.",
   "4": "Oh!\\nYou wanna breathe fire with me?\\r...Oh, you don't.\\rYou wanna swap numbers\\nwith me after all? {YESNO 0}",
-  "5": "It's aight.\\nI promise I won't burn you, so you can\\fcome talk to me in person.",
-  "6": "You know, a lotta people\\nget it twisted.\\rMight look like us Firebreathers use\\nfire to scare our homies while\\ftrainin' 'em.\\rBut that ain't it at all!\\nWe just train our homies normal!\\fAin't that right, {STRVAR_1 0, 10, 0}?\\rBreathin' fire just a hobby!",
+  "5": "It's aight.\\nI promise I won't burn you, so you can\\fcome talk in person.\\fStand a lil back though.",
+  "6": "A lotta people get it twisted.\\rLook like us Firebreathers use fire to\\nscare our homies while trainin'.\\rThat ain't it AT ALL!\\nWe train our homies normal!\\fAin't that right, {STRVAR_1 0, 10, 0}?\\rBreathin' fire is just a HOBBY!\\nLike knittin'. But hotter.",
   "7": "Buoahhhbobobo!\\rWhat you think?\\nI found a new technique\\ffor breathin' fire!\\rWell, not like you can tell over\\nthe phone...\\rNever mind that. I caught a wild\\n{STRVAR_1 0, 11, 0} yesterday.\\rI think I'mma start trainin' it soon.",
   "8": "You like {STRVAR_1 0, 11, 0}?\\rAs for me...they aight. There's\\nall kinds of stuff in this world.",
   "9": "Buoahhhbobobo!\\nToday a GREAT day!\\rYou should scrap me again!\\nI'm waitin' and practicin' on\\f{STRVAR_1 4, 3, 0}!",
   "10": "I'm all ready, and waitin' for you on\\n{STRVAR_1 4, 3, 0}, so hurry up!",
-  "11": "You know how there's SO many\\ndifferent types of homies, right?\\rEvery type got good points and bad\\npoints, so it ain't easy to say which\\ftype is the best.\\rHowever...\\rMy pick GOTTA be Fire!\\fBuoahhhbobobo!!",
+  "11": "There's SO many different types of\\nhomies, right?\\rEvery type got good points and bad\\npoints, so it ain't easy to say which\\ftype is best.\\rHowever...\\rMy pick GOTTA be Fire!\\fBUOAHHHBOBOBO!!\\f...Sorry. Was that your curtains?",
   "12": "You know today the\\nBug-Catching Contest?\\rI ain't that into Bug types,\\nbut the National Park ain't that far\\ffrom Route 35...\\fI might go check it out."
 }

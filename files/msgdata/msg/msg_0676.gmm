@@ -6,54 +6,54 @@
 	</row>
 	<row id="msg_0676_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, that was a real interestin’\nscrap, wasn’t it?\rWhen I’m fishin’ here, I sometimes\ncatch stuff people dropped.\fIf I find anythin’, it’s yours.\rYou gon’ gimme your\nnumber? {YESNO 0}</language>
+		<language name="English">Well, that was a interestin’ scrap,\nwasn’t it?\rWhen I’m fishin’, sometimes I catch\nstuff people dropped.\fBoots. Phones. A whole bike once.\rIf it’s good, it’s yours.\nGimme your number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0676_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I snag anythin’ good, I’ll\nhit you up.</language>
+		<language name="English">If I snag anythin’ good, I’ll hit you\nup. Prob’ly a boot.</language>
 	</row>
 	<row id="msg_0676_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight... Come back if you\nchange your mind.</language>
+		<language name="English">Aight... Come back if you change your\nmind. The fish ain’t goin’ nowhere.</language>
 	</row>
 	<row id="msg_0676_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I snag a item while I’m fishin’,\nit’s yours. Swap numbers? {YESNO 0}</language>
+		<language name="English">If I snag a item while fishin’, it’s\nyours. Swap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0676_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! Here it is!\rC’mon!\nI caught a Hood Ball!\rIt’s kinda covered in algae and\nseaweed. I can’t deadass tell what kind\fof Hood Ball it is, but bet you know!\r</language>
+		<language name="English">Ah! Here it is!\rC’mon!\nI caught a Nap Sack!\rIt’s covered in algae and seaweed.\nCan’t tell what kinda Nap Sack it is,\fbut bet you know!\fIt smells like a crime scene.\r</language>
 	</row>
 	<row id="msg_0676_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shhh!!!\nThe POLIWHIRL gon’ dip!\rDon’t call me, come talk to me\nin person, that way we can whisper!</language>
+		<language name="English">SHHH!!!\nThe POLIWHIRL gon’ dip!\rDon’t CALL me, come talk to me in\nperson so we can whisper!</language>
 	</row>
 	<row id="msg_0676_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} grew up nice!\nMy fishin’ skills got better too!\rWe beat a wild {STRVAR_1 0, 11, 0}...\nYou know, I have more fun fishin’\fthan beatin’ wild homies.\rAight, later.</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} grew up nice!\nMy fishin’ skills got better too!\rWe beat a wild {STRVAR_1 0, 11, 0}...\nBut I’d rather fish than fight.\fFish don’t hit back. Usually.\rAight, later.</language>
 	</row>
 	<row id="msg_0676_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} grew up nice!\nMy fishin’ skills got better too!\rBut a while back, we came THIS close\nto landin’ a wild {STRVAR_1 0, 11, 0}.\fI’m tellin’ you, it was HUGE. No cap.\rAight, later.</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} grew up nice!\nMy fishin’ skills got better too!\rWe came THIS close to landin’ a\nwild {STRVAR_1 0, 11, 0}.\fIt was HUGE. Like, car-sized.\fNo cap. ...Some cap.\rAight, later.</language>
 	</row>
 	<row id="msg_0676_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m fishin’ on {STRVAR_1 4, 3, 0}, but\nnothin’ bitin’ today.\rHelp me pass the time--come over\nfor a scrap.</language>
+		<language name="English">I’m fishin’ on {STRVAR_1 4, 3, 0}, but nothin’\nbitin’ today.\rHelp me pass the time--come over\nfor a scrap. Bring sandwiches.</language>
 	</row>
 	<row id="msg_0676_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh...They ain’t bitin’ like before\non {STRVAR_1 4, 3, 0}...\rYou gotta come scrap!</language>
+		<language name="English">Sigh... They ain’t bitin’ like before on\n{STRVAR_1 4, 3, 0}...\rYou gotta come scrap! I’m SO bored!</language>
 	</row>
 	<row id="msg_0676_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nah, I ain’t found nothin’ that’s\nworth your time.\rYou gotta be patient.</language>
+		<language name="English">Nah, I ain’t found nothin’ worth your\ntime. Just a boot.\fYou gotta be patient.</language>
 	</row>
 	<row id="msg_0676_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I snagged a item while fishin’.\nCome grab it on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">I snagged a item while fishin’!\nCome grab it on {STRVAR_1 4, 3, 0}! It’s not\fa boot this time! I checked!</language>
 	</row>
 	<row id="msg_0676_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want this item?\nHuh? You don’t know where?\r{STRVAR_1 4, 3, 0}...\nJust head from Mahogany toward\fBlackthorn!</language>
+		<language name="English">You don’t want this item?\nHuh? You don’t know where?\r{STRVAR_1 4, 3, 0}...\nJust head from Mahogany toward\fBlackthorn! Follow the fish smell!</language>
 	</row>
 </body>

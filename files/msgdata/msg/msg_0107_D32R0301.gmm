@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0107_D32R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back when you got the heart!</language>
+		<language name="English">Come back when you got the heart!\nOr at least a snack. We hungry.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0107_D32R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back soon, hear?\r</language>
+		<language name="English">Come back soon, hear?\nThe chairs miss you.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0107_D32R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rYou ain’t save before you dipped\nlast time.\rSo that run is DONE. You\ndisqualified. Them the rules!\r</language>
+		<language name="English">AYO!\rYou ain’t save before you dipped\nlast time.\rSo that run is DEAD. You\ndisqualified. Them the rules!\fI don’t make ’em. I just enjoy ’em.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayyy, congrats!\rFor that W, we givin’ you\nthis souvenir print!\r</language>
+		<language name="English">AYYY, congrats!\rFor that W, we givin’ you this\nsouvenir print! Frame it!\fOr don’t. It’s your life.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -110,30 +110,30 @@
 	</row>
 	<row id="msg_0107_D32R0301_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The staff tell you about the next\nHustler you gon’ face.\rThey real helpful here.\nAin’t they?\n</language>
+		<language name="English">The staff tell you about the next\nHustler you gon’ face.\rThey real helpful here.\nThey also gossip. A LOT.\n</language>
 	</row>
 	<row id="msg_0107_D32R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They put you on to the next Hustler\nyou facin’? That’s real nice.\rYou know, you can prep for ’em\nonce you know what kinda Hustler\fthey! That’s scoutin’!</language>
+		<language name="English">They put you on to the next Hustler\nyou facin’? That’s real nice.\rKnow your opps, prep for ’em.\nThat’s scoutin’!\fOr snitchin’. Depends who you ask.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It help you pick a homie when\nyou remember what homies\fthe other Hustler had and what\fmoves they used.</language>
+		<language name="English">Remember what homies the other\nHustler had and what moves they\fused, and you pick better.\fI remember nothin’. I lose a lot.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This the spot to scrap with rental\nhomies, right?\rIt’s a good chance to try homies\nyou ain’t never trained.\rYou learn about new homies\nwhile havin’ fire scraps!\rWhat more could you want?</language>
+		<language name="English">This the spot to scrap with rental\nhomies, right?\rTry homies you ain’t never\ntrained! Learn new stuff!\rIt’s like test-drivin’ a car,\nexcept the car could bite you.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You got a lotta homies?\rI ain’t too proud to say this, but...\nI only got a few!\rBut ain’t nothin’ to worry about.\nYou know why?\rThe Battle Factory make\nyou scrap with rentals! Free homies!</language>
+		<language name="English">You got a lotta homies?\rI ain’t too proud to say it...\nI only got like two!\rBut ain’t nothin’ to worry about.\nYou know why?\rThe Battle Factory give you\nrentals! FREE homies!\fWell. Borrowed. They want ’em back.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you gotta scrap with homies\nyou just met instead of your\fday-one homies you always\fscrapped with?\rOh, I don’t know if I could...\nWill they be nice to me...?\fI’m kinda nervous.</language>
+		<language name="English">So you gotta scrap with homies you\njust met instead of your day-ones?\rWhat if they don’t like me?\nWhat if they talk about me?\fWhat if they tell my real homies?\fI’m too nervous for this.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Hustlers at the\nBattle Frontier is nice,\fchill people!\rI’m on patrol duty, but\notherwise I’d change outta\fthis uniform and jump in!</language>
+		<language name="English">All the Hustlers at the Frontier\nis nice, chill people!\rI’m on patrol, but if I wasn’t\nI’d take off this uniform and\fjump in.\fThe uniform itchy too. Real itchy.</language>
 	</row>
 </body>

@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0693_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, let’s be homies!\nI figure nobody who like homies\fcould be a bad person.\rLet’s chat about PIKACHU and SLOWPOKE\nand TENTACRUEL and all kinds of\fother homies. It’s gon’ be fun!\fWhat you think?\rCan I get your number?{YESNO 0}</language>
+		<language name="English">Ayo, let’s be homies!\nNobody who like homies could be a bad\fperson.\rLet’s chat about PIKACHU and PIKACHU\nand ALSO PIKACHU. It’s gon’ be fun!\fWhat you think?\rCan I get your number? {YESNO 0}</language>
 	</row>
 	<row id="msg_0693_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bet! If anythin’ homie-related\ncome up, I’ll call!</language>
+		<language name="English">Bet! If anythin’ homie-related come\nup, I’ll call! It’ll be about PIKACHU.</language>
 	</row>
 	<row id="msg_0693_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nI bet you don’t even LIKE homies...</language>
+		<language name="English">You...\nI bet you don’t even LIKE homies...\fI bet you don’t like PIKACHU.\fMonster.</language>
 	</row>
 	<row id="msg_0693_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0693_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I been lookin’ for you!\nHere, see this? This it!\rI KNOW your homies gon’ love my\ngift too!\r</language>
+		<language name="English">I been lookin’ for you!\nHere, see this? This it!\rI KNOW your homies gon’ love my gift!\nPIKACHU picked it. Obviously.\r</language>
 	</row>
 	<row id="msg_0693_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s that?\nWait, you right by me, ain’t you?\rI can tell.\rHow? ’Cause you give off this aura of\nlove for homies!\rIf you nearby, c’mon and talk to\nme in person about homie stuff!</language>
+		<language name="English">What’s that?\nWait, you right by me, ain’t you?\rI can tell.\rHow? ’Cause you give off this aura of\nlove for homies!\fAnd I can see you. You RIGHT there.</language>
 	</row>
 	<row id="msg_0693_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, listen to this.\nMy {STRVAR_1 0, 10, 0} straight grin when\fI pinch its cheek.\rBut it never grin like that for\nnobody else. I must be special.\rOh, and just now, my PIKACHU beat a\nwild {STRVAR_1 0, 11, 0}!\fA wild {STRVAR_1 0, 11, 0}, I’m sayin’!\rYeah, crazy, ain’t it?\rMy PIKACHU is fire!\rMy PIKACHU the GOAT!\nTalk to you later.</language>
+		<language name="English">Ayo, listen to this. My {STRVAR_1 0, 10, 0} grin\nwhen I pinch its cheek.\rIt never grin like that for nobody\nelse. I must be SPECIAL.\rAnd just now, my PIKACHU beat a wild\n{STRVAR_1 0, 11, 0}!\fA wild {STRVAR_1 0, 11, 0}, I’m sayin’!\rMy PIKACHU the GOAT! Talk to you\nlater.</language>
 	</row>
 	<row id="msg_0693_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, listen to this.\nMy {STRVAR_1 0, 10, 0} straight grin when\fI pinch its cheek.\rBut it never grin like that for\nnobody else. I must be special.\rOh, and I saw a wild {STRVAR_1 0, 11, 0} a\nlil while ago. But it wasn’t that\fcute, so I left it...\rHomies gotta be cute. They\nain’t no good otherwise.\rTalk to you later.</language>
+		<language name="English">Ayo, listen to this. My {STRVAR_1 0, 10, 0} grin\nwhen I pinch its cheek.\rIt never grin like that for nobody\nelse.\rI saw a wild {STRVAR_1 0, 11, 0} a lil while ago. But\nit wasn’t cute, so I left it...\rHomies gotta be cute. Like PIKACHU.\nTalk to you later.</language>
 	</row>
 	<row id="msg_0693_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0693_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want you to have a Gold Grill.\rMy PIKACHU LOVE it.\rI KNOW your homies gon’ love\nit too!</language>
+		<language name="English">I want you to have a Gold Grill.\rMy PIKACHU LOVE it. It wears one.\nIt look like a rapper.\rYour homies gon’ love it too!</language>
 	</row>
 	<row id="msg_0693_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0693_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You remember?\nThe Bug-Catching Contest is today.\rYou finna go, ain’t you?\rI think I’mma enter with PIKACHU to\nshow off how cute it is.</language>
+		<language name="English">You remember?\nThe Bug-Catching Contest is today.\rYou finna go, ain’t you?\rI’mma enter with PIKACHU to show off\nhow cute it is. It’s not a bug. Rules\fis rules. I don’t care.</language>
 	</row>
 	<row id="msg_0693_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

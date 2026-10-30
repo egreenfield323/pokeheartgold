@@ -74,11 +74,11 @@
 	</row>
 	<row id="msg_0744_W40_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see... No Hydrant Wave yet...\nThis just between you and me...\rA man in Ecruteak gave me\nHydrant Wave. Bet he still there.\rWhy don’t you go check?\r</language>
+		<language name="English">I see... No Ride Da Wave yet...\nThis just between you and me...\rA man in Ecruteak gave me\nRide Da Wave. Bet he still there.\rWhy don’t you go check?\r</language>
 	</row>
 	<row id="msg_0744_W40_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This just between you and me.\fA man in Ecruteak gave me\nHydrant Wave. Bet he still there.\rWhy don’t you go check?</language>
+		<language name="English">This just between you and me.\fA man in Ecruteak gave me\nRide Da Wave. Bet he still there.\rWhy don’t you go check?</language>
 	</row>
 	<row id="msg_0744_W40_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

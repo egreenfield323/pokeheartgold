@@ -55,7 +55,7 @@
 	</row>
 	<row id="msg_0273_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautiful city with flowing\nwater and blooming flowers.</language>
+		<language name="English">A beautiful city with flowin’\nwater and bloomin’ flowers.</language>
 	</row>
 	<row id="msg_0273_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -63,7 +63,7 @@
 	</row>
 	<row id="msg_0273_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A southern city that is bathed\nin orange by the setting sun.</language>
+		<language name="English">A southern city that is bathed\nin orange by the settin’ sun.</language>
 	</row>
 	<row id="msg_0273_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -79,15 +79,15 @@
 	</row>
 	<row id="msg_0273_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fate of many Hustlers aiming for\nthe top rests here.</language>
+		<language name="English">The fate of many Hustlers aimin’ for\nthe top rests here.</language>
 	</row>
 	<row id="msg_0273_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The biggest city in Kanto, shining\nwith a golden light.</language>
+		<language name="English">The biggest city in Kanto, shinin’\nwith a golden light.</language>
 	</row>
 	<row id="msg_0273_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town where the wind blows and\ntells of impending change.</language>
+		<language name="English">A town where the wind blows and\ntells of impendin’ change.</language>
 	</row>
 	<row id="msg_0273_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -107,7 +107,7 @@
 	</row>
 	<row id="msg_0273_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A developing city where people and\nPokémon come and go as they like.</language>
+		<language name="English">A developin’ city where people and\nPokémon come and go as they like.</language>
 	</row>
 	<row id="msg_0273_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -119,7 +119,7 @@
 	</row>
 	<row id="msg_0273_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town with a suspicious air to it.\nIt’s a hiding place for ninjas.</language>
+		<language name="English">A town with a suspicious air to it.\nIt’s a hidin’ place for ninjas.</language>
 	</row>
 	<row id="msg_0273_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -131,11 +131,11 @@
 	</row>
 	<row id="msg_0273_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mountain where something mysterious\nawaits you underfoot.</language>
+		<language name="English">A mountain where somethin’ mysterious\nawaits you underfoot.</language>
 	</row>
 	<row id="msg_0273_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tunnel dug by DIGLETT connecting\nVermilion City to Pewter City.</language>
+		<language name="English">A tunnel dug by DIGLETT connectin’\nVermilion City to Pewter City.</language>
 	</row>
 	<row id="msg_0273_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -155,7 +155,7 @@
 	</row>
 	<row id="msg_0273_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two small islands lightly floating in\nthe ocean.</language>
+		<language name="English">Two small islands lightly floatin’ in\nthe ocean.</language>
 	</row>
 	<row id="msg_0273_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -171,7 +171,7 @@
 	</row>
 	<row id="msg_0273_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tower that was hit by lightning, and\nsubsequently caught fire and burned.</language>
+		<language name="English">A tower that was hit by lightnin’, and\nsubsequently caught fire and burned.</language>
 	</row>
 	<row id="msg_0273_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -179,7 +179,7 @@
 	</row>
 	<row id="msg_0273_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An old building that has been reused\nas a radio broadcasting tower.</language>
+		<language name="English">An old buildin’ that has been reused\nas a radio broadcastin’ tower.</language>
 	</row>
 	<row id="msg_0273_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -241,7 +241,7 @@
 	</row>
 	<row id="msg_0273_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that tests Hustlers\naiming at the Big League.</language>
+		<language name="English">A road that tests Hustlers\naimin’ at the Big League.</language>
 	</row>
 	<row id="msg_0273_00060" index="60">
 		<attribute name="window_context_name">garbage</attribute>
@@ -304,11 +304,11 @@
 	</row>
 	<row id="msg_0273_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road running north of Saffron City\nconnecting to the Underground Path.</language>
+		<language name="English">A road runnin’ north of Saffron City\nconnectin’ to the Underground Path.</language>
 	</row>
 	<row id="msg_0273_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road running south of Saffron City\nconnecting to the Underground Path.</language>
+		<language name="English">A road runnin’ south of Saffron City\nconnectin’ to the Underground Path.</language>
 	</row>
 	<row id="msg_0273_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -320,7 +320,7 @@
 	</row>
 	<row id="msg_0273_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that forms a maze crossing a\nsmall, rocky mountain.</language>
+		<language name="English">A road that forms a maze crossin’ a\nsmall, rocky mountain.</language>
 	</row>
 	<row id="msg_0273_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -328,11 +328,11 @@
 	</row>
 	<row id="msg_0273_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A grassy path with a gentle,\nrefreshing breeze.</language>
+		<language name="English">A grassy path with a gentle,\nrefreshin’ breeze.</language>
 	</row>
 	<row id="msg_0273_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bridge known for its fishing.\nIt’s also called “Silence Bridge.”</language>
+		<language name="English">A bridge known for its fishin’.\nIt’s also called “Silence Bridge.”</language>
 	</row>
 	<row id="msg_0273_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -348,15 +348,15 @@
 	</row>
 	<row id="msg_0273_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The northern starting point of\nCycling Road.</language>
+		<language name="English">The northern startin’ point of\nCycling Road.</language>
 	</row>
 	<row id="msg_0273_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An easy path of Cycling Road running\nabove the sea.</language>
+		<language name="English">An easy path of Cycling Road runnin’\nabove the sea.</language>
 	</row>
 	<row id="msg_0273_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The southern ending point of\nCycling Road.</language>
+		<language name="English">The southern endin’ point of\nCycling Road.</language>
 	</row>
 	<row id="msg_0273_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -385,7 +385,7 @@
 	</row>
 	<row id="msg_0273_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that winds through the forest\nand comes out overlooking the sea.</language>
+		<language name="English">A path that winds through the forest\nand comes out overlookin’ the sea.</language>
 	</row>
 	<row id="msg_0273_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
@@ -409,7 +409,7 @@
 	</row>
 	<row id="msg_0273_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short, nostalgic path winding\nthrough nature.</language>
+		<language name="English">A short, nostalgic path windin’\nthrough nature.</language>
 	</row>
 	<row id="msg_0273_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -433,7 +433,7 @@
 	</row>
 	<row id="msg_0273_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A popular route for Hustlers, marked\nby three Apricorn trees.</language>
+		<language name="English">A popular route for Hustlers, marked\nby three suspicious bushes.</language>
 	</row>
 	<row id="msg_0273_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -453,7 +453,7 @@
 	</row>
 	<row id="msg_0273_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small path opened at the base of\nchallenging Mt. Mortar.</language>
+		<language name="English">A small path opened at the base of\nchallengin’ Mt. Mortar.</language>
 	</row>
 	<row id="msg_0273_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -465,7 +465,7 @@
 	</row>
 	<row id="msg_0273_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winding road by a river, but called\n“Mountain Road.”</language>
+		<language name="English">A windin’ road by a river, but called\n“Mountain Road.”</language>
 	</row>
 	<row id="msg_0273_00115" index="115">
 		<attribute name="window_context_name">used</attribute>

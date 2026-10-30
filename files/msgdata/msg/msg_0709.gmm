@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0709_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\nSwap numbers with\fme, old buddy! {YESNO 0}</language>
+		<language name="English">AYO!\nSwap numbers with me, old buddy! {YESNO 0}</language>
 	</row>
 	<row id="msg_0709_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0709_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wah ha ha! {STRVAR_1 3, 0, 0}!\nHere go that Dawn Stone you wanted.\rHere you go.\r...And now that you got what you\ncame for, SCRAM!\r</language>
+		<language name="English">Wah ha ha! {STRVAR_1 3, 0, 0}!\nHere go that Dawn Stone you wanted.\rHere you go.\r...And now that you got what you came\nfor, SCRAM! I got a BIKE to ride!\r</language>
 	</row>
 	<row id="msg_0709_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s dangerous to talk on the phone\nwhile ridin’ Cycling Road, but\fsometimes I ain’t got no choice!\rIf you nearby, let’s talk in person!</language>
+		<language name="English">It’s dangerous to talk on the phone\nwhile ridin’ Cycling Road, but\fsometimes I ain’t got no choice!\fI’m doin’ it RIGHT NOW!\rIf you nearby, let’s talk in person!</language>
 	</row>
 	<row id="msg_0709_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} got WAY strong!\rIt knocked out a wild {STRVAR_1 0, 11, 0} in,\nlike, two seconds!\fWahahahahahahaha!\r...What?\nYou think I’m cappin’?\rPut a lid on it! Nothin’ but facts!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} got WAY strong!\rIt knocked out a wild {STRVAR_1 0, 11, 0} in, like,\ntwo seconds!\fWAHAHAHAHAHAHAHA!\r...What?\nYou think I’m cappin’?\rPut a lid on it! Nothin’ but facts!</language>
 	</row>
 	<row id="msg_0709_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0709_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Recently, I came across a wild\n{STRVAR_1 0, 11, 0} on the road.\rOutta nowhere, out it jump! I fell off\nmy Bike tryna not hit it!\rBut it’s all good, even though I got\nkinda scraped up.\rIt’s all good ’cause I’m nice to\nwild homies!</language>
+		<language name="English">I came across a wild {STRVAR_1 0, 11, 0} on the\nroad.\rOutta nowhere, out it jump! I fell off\nmy Bike tryna not hit it!\rI got scraped up, but it’s all good.\nI’m nice to wild homies!\fMy bike ain’t. It’s in a tree.</language>
 	</row>
 	<row id="msg_0709_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0709_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nYou got a homie with you, right?\rThat’s...\nThat’s pretty sweet, ain’t it?\rIf you was flyin’ up and down the\nroad fast as you could, like me, you\fwouldn’t be able to have your homies\fwith you.\rMake me kinda jealous of you, to tell\nthe truth.</language>
+		<language name="English">You... You got a homie with you, right?\rThat’s... pretty sweet, ain’t it?\rIf you was flyin’ down the road fast as\nyou could, like me, your homies\fcouldn’t keep up.\rMakes me kinda jealous, to tell the\ntruth.\fMy homie took the bus.</language>
 	</row>
 	<row id="msg_0709_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

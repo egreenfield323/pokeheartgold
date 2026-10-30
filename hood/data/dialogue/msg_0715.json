@@ -1,14 +1,14 @@
 {
   "_comment": "Phone: Krise.",
-  "1": "You...\\nYou think I'm fine, right?\\rSo how 'bout we swap\\nnumbers? {YESNO 0}",
-  "2": "Don't trip, you can call me anytime!",
-  "3": "Oh, I see...\\nMaybe I was overthinkin'...",
-  "4": "I knew it! I KNEW you thought I\\nwas fine!\\rSo, shall we swap\\nnumbers now? {YESNO 0}",
-  "5": "You must be REAL shy.\\nIf you nearby, you can come talk to\\fme in person. It's aight.",
+  "1": "You...\\nYou think I'm fine, right?\\fI can tell. Everybody does.\\rSo how 'bout we swap numbers? {YESNO 0}",
+  "2": "Don't trip, you can call me anytime!\\nI know you will. You can't help it.",
+  "3": "Oh, I see...\\nMaybe I was overthinkin'...\\fNah. You'll be back.",
+  "4": "I KNEW it! I KNEW you thought I was\\nfine!\\rSo, shall we swap numbers now? {YESNO 0}",
+  "5": "You must be REAL shy.\\nIf you nearby, come talk to me in\\fperson. It's aight. I don't bite.",
   "6": "My prized {STRVAR_1 0, 10, 0} doin' great.\\rWhich homie you like best?\\nYou should show me sometime.",
-  "7": "Ayo, listen up!\\nYesterday we was fightin' a wild\\f{STRVAR_1 0, 11, 0}.\\rI used a Hennessy at the\\nwrong moment, and it looked like we\\fgon' lose.\\rMy homie went SO hard. I really\\nwanted to win, you know?\\rWell, stuff like that happen,\\nI guess.",
-  "8": "You keep all the homies you\\ncatch in PC Boxes?\\rMe, I usually just let 'em go...\\rThat reminds me, I recently let this\\n{STRVAR_1 0, 11, 0} go...\\rThat's kinda a waste, ain't it?",
+  "7": "Ayo, listen up!\\nYesterday we fought a wild {STRVAR_1 0, 11, 0}.\\rI used a Hennessy at the WRONG moment,\\nand it looked like we gon' lose.\\fI drank half of it. My bad.\\rMy homie went SO hard!\\nWell, stuff like that happen, I guess.",
+  "8": "You keep all the homies you catch in\\nPC Boxes?\\rMe, I usually just let 'em go...\\nI'm a catch-and-release kinda girl.\\rI recently let a {STRVAR_1 0, 11, 0} go...\\nThat's kinda a waste, ain't it?",
   "9": "Ayo, what you think about scrappin'\\nme again?\\rI'm at the {STRVAR_1 4, 3, 0}\\nright now.\\rCome on over!",
   "10": "Wassup?\\nYou remember your promise?\\rWe gotta scrap soon!\\nI'll be at the {STRVAR_1 4, 3, 0}.",
-  "11": "It wasn't real smart to come to\\nthe Park in a miniskirt, was it...?\\rI mean, these leaves keep scratchin'\\nmy legs..."
+  "11": "It wasn't real smart to come to the Park\\nin a miniskirt, was it...?\\rThese leaves keep scratchin' my legs...\\fBut I look GOOD though."
 }

@@ -19,7 +19,7 @@
   "22": "Steven: Take care of it.\\nYou carin' for it gon' make me\\fvery happy.\\r",
   "23": "Steven: I see...\\nFor the choice you made,\\fI wanna give you this homie.\\rBut your crew full.\\rWhy don't you hit the PC to make\\nsome room? I'll wait here.",
   "24": "Steven: I'ma ask again.\\nWhich color you pick? {YESNO 0}",
-  "25": "Wanna give a nickname\\nto {STRVAR_1 0, 1, 0}? {YESNO 0}",
+  "25": "Wanna give {STRVAR_1 0, 1, 0}\\na street name? {YESNO 0}",
   "26": "Steven: You named it GREAT!\\r",
   "28": "Steven: You real careful.\\rYou dodgin' any chance somebody\\nmight trick you?\\fYou smarter than I thought."
 }

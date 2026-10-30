@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0102_D32PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The karate gi is the uniform\nof fighters!\rAin’t NOTHIN’ better to wear to the\nBattle Frontier than this!</language>
+		<language name="English">The karate gi is the uniform of\nfighters!\rAin’t NOTHIN’ better to wear to\nthe Battle Frontier.\fI ain’t washed it since 2004.\fThat’s the power. Smell it.</language>
 	</row>
 	<row id="msg_0102_D32PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some people shocked to see a lil\ngirl like me at the Battle Frontier\fall by herself.\rIt ain’t like I gotta scrap myself,\nyou know?\n</language>
+		<language name="English">People shocked to see a lil girl\nlike me at the Battle Frontier\fall by herself.\rI don’t do the scrappin’. My homies\ndo. I just yell.\fI’m VERY good at yellin’.\n</language>
 	</row>
 	<row id="msg_0102_D32PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My lifelong hobby is\nscrappin’ with homies.\rA scrap after breakfast,\na scrap after lunch,\fand after dinner...\fI just take a bath and go to bed.</language>
+		<language name="English">My lifelong hobby is scrappin’ with\nhomies.\rA scrap after breakfast,\na scrap after lunch,\fand after dinner...\fI just take a bath and go to bed.\fI’m 84. Respect the routine.</language>
 	</row>
 </body>

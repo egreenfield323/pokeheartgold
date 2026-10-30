@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0612_T27_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go west from this city and you\nhit a port called Olivine City.\rWhen your homie learn Hydrant Wave,\nyou can hit the ocean from\fRoute 40 without no boat!</language>
+		<language name="English">Go west from this city and you\nhit a port called Olivine City.\rWhen your homie learn Ride Da Wave,\nyou can hit the ocean from\fRoute 40 without no boat!</language>
 	</row>
 	<row id="msg_0612_T27_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

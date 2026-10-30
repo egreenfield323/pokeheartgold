@@ -2,103 +2,103 @@
 <body language="English">
 	<row id="msg_0100_D32_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower... It’s SO tall!\nHow many of me stacked is that?</language>
+		<language name="English">Battle Tower... It’s SO tall!\nHow many of me stacked is that?\fDon’t answer. I’m countin’.\f...I lost count at two.</language>
 	</row>
 	<row id="msg_0100_D32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every spot in the Battle Frontier\nlet you team with a homie!\fThat’s hard, don’t you think?\fI wish I had a homie to run with...</language>
+		<language name="English">Every spot in the Battle Frontier\nlet you team up with a homie!\fI ain’t got a homie. I got a cousin.\fHe don’t count. He owe me bread.</language>
 	</row>
 	<row id="msg_0100_D32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m THE super Idol of Johto!\rI came all the way to the\nBattle Frontier to promote my\fnew single!\rBut...\rEverybody here a Poké Maniac!\nNot one of ’em streamed it!</language>
+		<language name="English">I’m THE super Idol of Johto!\rI came all the way to the\nBattle Frontier to drop my\fnew single, “Homie Love (Remix).”\rBut...\rEverybody here only listen to\nscrap stats! Zero streams!\fMy manager gon’ kill me.</language>
 	</row>
 	<row id="msg_0100_D32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fishin’ don’t calm me down no more\nsince I found the Battle Frontier.\fI go fishin’, then I dip early\fand end up here. Every. Time.</language>
+		<language name="English">I used to fish to calm down.\nThen I found the Battle Frontier.\fNow I cast one line, panic about my\fwin streak, and run over here.\fMy rod still in the lake. Somewhere.</language>
 	</row>
 	<row id="msg_0100_D32_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My fave spot outta the five\nfacilities is the\fBattle Castle, ’cause you can\fsee Lady Caitlin there! She fine!</language>
+		<language name="English">My fave spot outta the five is the\nBattle Castle, ’cause Lady Caitlin\fbe there.\fShe don’t know I exist. That’s fine.\fWe takin’ it slow.</language>
 	</row>
 	<row id="msg_0100_D32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What make me happiest bein’\na Hustler?\rThe fact that homies always\nbring me more homies!</language>
+		<language name="English">What make me happiest bein’ a\nHustler?\rThe homies! They always bring\nme MORE homies!\fI got 214. I need a bigger crib.</language>
 	</row>
 	<row id="msg_0100_D32_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like people go through stuff\nand learn from it, homies\flearn from scraps.\rBehind every scrap, there’s a\nstory. Ain’t that right, dear?</language>
+		<language name="English">People go through stuff and learn,\nand homies learn from scraps.\rBehind every scrap, there’s a story.\nAin’t that right, dear?\r...Dear? DEAR? She left me here again.</language>
 	</row>
 	<row id="msg_0100_D32_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every scrap lead to a story.\nI ain’t wrong, am I, dear?</language>
+		<language name="English">Every scrap got a story.\nI ain’t wrong, am I, dear?\f...She at the Exchange Corner\fspendin’ MY BP. Again.</language>
 	</row>
 	<row id="msg_0100_D32_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I came to the Battle Frontier\nlookin’ for a job!\rThanks to my last job, I’m nice\nat cookin’, cleanin’, and laundry!\fDon’t ask what kinda cookin’.</language>
+		<language name="English">I came to the Battle Frontier\nlookin’ for a job!\rMy last job taught me cookin’,\ncleanin’, and laundry.\fDon’t ask what kinda laundry.\fI said don’t ask.</language>
 	</row>
 	<row id="msg_0100_D32_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To be strong is to be weak.\nTo be weak is to be strong.\rSomebody told me that once.\nI still don’t get it,\fbut it SOUND deep.\rI’mma give myself some time\nto figure it out.</language>
+		<language name="English">To be strong is to be weak.\nTo be weak is to be strong.\rSomebody told me that once.\nI still don’t get it,\fbut I got it tatted on my back.\rI’m givin’ myself some time to\nfigure it out. Like ten years.</language>
 	</row>
 	<row id="msg_0100_D32_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seein’ people who care this much\nabout their homies make me feel bad\fabout bein’ selfish.\rI’mma try and be there for my\nhomies for real now!</language>
+		<language name="English">Seein’ people care this much about\ntheir homies make me feel bad\fabout bein’ selfish.\rI’m finna be there for my homies\nfor real now! Startin’ Monday.</language>
 	</row>
 	<row id="msg_0100_D32_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How many years since I first met\na homie? ...Forty-nine!\rOh, I lost the page that kept\ntrack of the years, days, and hours...\rCould my homies be chewin’ on it?</language>
+		<language name="English">How long since I met my first homie?\n...Forty-nine years!\rI kept track on a lil notebook.\nYears, days, hours...\fNow it’s gone. My GOLDEEN\fdefinitely ate it. Look at him.</language>
 	</row>
 	<row id="msg_0100_D32_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustlers look out for their homies\nas the scrap go on.\rIn return, homies pay that trust\nback by goin’ all out.\rWhat you see in a scrap is the trust\nbetween people and homies.\rSound obvious, but it’s actually\nhonestly crazy!</language>
+		<language name="English">Hustlers look out for their homies\nall scrap long.\rAnd homies pay that trust back by\ngoin’ ALL out.\rWhat you see in a scrap is trust\nbetween people and homies.\rSound corny. It’s real though.\nDon’t tell nobody I said corny.</language>
 	</row>
 	<row id="msg_0100_D32_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t try nothin’ if you\nscared of losin’ scraps.\rBut!\rJumpin’ in a scrap knowin’ you got\nno chance just make your\fhomies suffer.\rThat ain’t courage!\nReal Hustlers know the balance\fbetween guts and bein’ smart.</language>
+		<language name="English">You can’t do NOTHIN’ if you scared\nof losin’.\rBut!\rJumpin’ in a scrap you got no\nchance in just make your homies\fsuffer for no reason.\rThat ain’t courage, that’s\nstupidity in a fresh fit!</language>
 	</row>
 	<row id="msg_0100_D32_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you tryna graduate from bein’\na mid Hustler, listen up!\rThe homie’s type!\rThe moves it learn!\rThe items it hold!\rYou can’t sleep on NONE of it.</language>
+		<language name="English">You tryna graduate from bein’ a\nmid Hustler? Listen up!\rThe homie’s type!\rThe moves it know!\rThe item it hold!\rYou can’t sleep on NONE of it.\nI slept on all three. I’m here\fgivin’ advice instead of winnin’.</language>
 	</row>
 	<row id="msg_0100_D32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When people win a scrap, some\nlaugh at the other guy.\rSome brag about how strong they.\rSome even start dancin’ around\nclaimin’ they number one\fin the world.\rI respect people who win and then\ncheck on the other guy.</language>
+		<language name="English">When people win a scrap, some\nlaugh at the other guy.\rSome brag about how strong they.\rSome start doin’ the worm\nclaimin’ they number one\fin the world.\rI respect the ones who win and then\ncheck on the other guy.\fAnd then do the worm. Respectfully.</language>
 	</row>
 	<row id="msg_0100_D32_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You heard of the Brains of the\nBattle Frontier?\rThere’s five facilities in the\nBattle Frontier.\rAt every one, you can win your way\nup to challenge the bosses\fcalled the Frontier Brains.\fThey out-of-this-world tough!</language>
+		<language name="English">You heard of the Frontier Brains?\rFive facilities. Five bosses.\nWin enough and you get to face\fthe Brains themselves.\fThey out-of-this-world tough.\fOne of ’em made me cry in public.</language>
 	</row>
 	<row id="msg_0100_D32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lettin’ us enjoy scraps,\nhelpin’ us work,\ftakin’ us places far away,\for just bein’ good homies...\rHomies is so deep.\nI wanna be like a homie.</language>
+		<language name="English">Lettin’ us scrap, helpin’ us work,\ncarryin’ us places,\fbein’ a real one...\rHomies is so deep.\nI wanna be like a homie.\fI already eat like one.</language>
 	</row>
 	<row id="msg_0100_D32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Factory, you gotta\nkeep winnin’ with rental homies.\rI might not stand a chance at the\nother facilities, but here I\fmight go all the way!</language>
+		<language name="English">At the Battle Factory you gotta win\nwith rental homies.\rI’m trash at the other four, but\nhere everybody got rentals too.\fIt’s like a free throw for losers.</language>
 	</row>
 	<row id="msg_0100_D32_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall is where homies\nscrap one-on-one for as long as\fthey can.\rEven my MAGIKARP got a shot at\nnumber one!\rSheesh!\rJust thinkin’ about it\nget me hype!</language>
+		<language name="English">The Battle Hall is one homie, one-\non-one, for as long as you can!\rEven my MAGIKARP got a shot!\rSheesh!\rHe don’t know no moves but Splash.\nBut he BELIEVE. That’s what matter.</language>
 	</row>
 	<row id="msg_0100_D32_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Life full of ups and downs.\nI keep my pool floatie close.\rCall it the wisdom I got from\nthe last five years of my life.</language>
+		<language name="English">Life full of ups and downs.\nThat’s why I keep my pool floatie\fon me at all times.\rCall it wisdom. Five years of it.\nTwo of ’em I was in a pool.</language>
 	</row>
 	<row id="msg_0100_D32_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Exchange Service\nCorner!\rYou wanna cash in your BP\nfor some prizes? {YESNO 0}</language>
+		<language name="English">Welcome to the Exchange Corner!\nCash register’s open.\rYou wanna turn your BP into some\nprizes? No returns. {YESNO 0}</language>
 	</row>
 	<row id="msg_0100_D32_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back whenever!\n</language>
+		<language name="English">Come back whenever!\nI’m here 24/7. I don’t go home.\fThis IS home.\n</language>
 	</row>
 	<row id="msg_0100_D32_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0} gon’ cost {STRVAR_1 50, 1, 0} BP.\nThat cool? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 8, 0, 0} gon’ run you {STRVAR_1 50, 1, 0} BP.\nYou good with that? {YESNO 0}</language>
 	</row>
 	<row id="msg_0100_D32_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0} {STRVAR_1 6, 1, 0} gon’\ncost {STRVAR_1 51, 2, 0} BP.\fThat cool? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 8, 0, 0} {STRVAR_1 6, 1, 0} gon’\nrun you {STRVAR_1 51, 2, 0} BP.\fYou good with that? {YESNO 0}</language>
 	</row>
 	<row id="msg_0100_D32_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -111,7 +111,7 @@
 	</row>
 	<row id="msg_0100_D32_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My bad, but you ain’t got\nenough BP. You broke.\r</language>
+		<language name="English">My bad, but you ain’t got enough\nBP. You BROKE broke.\r</language>
 	</row>
 	<row id="msg_0100_D32_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -120,7 +120,7 @@
 	</row>
 	<row id="msg_0100_D32_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My bad, but your Bag full.\r</language>
+		<language name="English">My bad, but your Bag full.\nClean that out. It smell.\r</language>
 	</row>
 	<row id="msg_0100_D32_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -162,14 +162,14 @@
 	</row>
 	<row id="msg_0100_D32_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Hustler who just recruited a homie.\nThat’s what this statue is.</language>
+		<language name="English">A Hustler who just recruited a homie.\nThat’s what this statue is.\fThe homie don’t look happy about it.</language>
 	</row>
 	<row id="msg_0100_D32_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Braggin’ About the Catch”...\nThat’s the title, apparently.</language>
+		<language name="English">“Braggin’ About the Catch”...\nThat’s the title, apparently.\fThe artist was humble.</language>
 	</row>
 	<row id="msg_0100_D32_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This...!\nA lil model of the Battle Frontier.</language>
+		<language name="English">This...!\nA lil model of the Battle Frontier.\fSomebody glued a gummy worm to it.</language>
 	</row>
 </body>

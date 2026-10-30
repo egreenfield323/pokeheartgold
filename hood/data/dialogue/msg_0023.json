@@ -1,0 +1,11 @@
+{
+  "_comment": "apricorns -> scraps",
+  "0": "It's a bush. Somebody DEFINITELY\\nstashed somethin' in here...\\r",
+  "1": "...Ayo! A {STRVAR_1 8, 1, 0}!\\nFinders keepers.\\r",
+  "2": "Nothin' in this bush but a old receipt,\\na lighter, and a sock. Just one sock.",
+  "3": "{STRVAR_1 3, 0, 0} pocketed\\nthe {STRVAR_1 8, 1, 0}!",
+  "4": "{STRVAR_1 3, 0, 0} stuffed the {STRVAR_1 8, 1, 0}\\nin the Stash Box!",
+  "5": "...That was the plan, but there's\nno Stash Box yet!\r{STRVAR_1 3, 0, 0} put the\n{STRVAR_1 8, 1, 0} back...in the bush.",
+  "6": "...That was the plan, but the\nStash Box is STUFFED!\r{STRVAR_1 3, 0, 0} put the\n{STRVAR_1 8, 1, 0} back...in the bush.",
+  "7": "Ain't got nowhere to put it.\\nLeave it for the next guy."
+}

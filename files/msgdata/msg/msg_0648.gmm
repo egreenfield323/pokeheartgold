@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0648_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who? You sound like you underwater.\nThis connection is trash. Fr.\rGet another line somewhere else, OK?</language>
+		<language name="English">Who? You sound like you underwater.\nThis connection is trash. Fr.\rGet another line, OK?\nA bird coulda carried that message\fbetter.</language>
 	</row>
 	<row id="msg_0648_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOK, now I can hear you.\fYeah, I’m in top form.\r</language>
+		<language name="English">Wassup...\nOK, now I can hear you.\fYeah, I’m in top form.\fMy dad says I sound strong today.\r</language>
 	</row>
 	<row id="msg_0648_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There any Block Bosses you ain’t\nscrapped yet?\fStep up! Get on it!</language>
+		<language name="English">There any Block Bosses you ain’t\nscrapped yet?\fStep up! Get on it!\fMy dad woulda been done by now.</language>
 	</row>
 	<row id="msg_0648_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see... I’m usually free Saturday\nmornings.\fHit me up then.</language>
+		<language name="English">Let’s see... I’m usually free Saturday\nmornings.\fHit me up then.\fDad and me watch birds after.</language>
 	</row>
 	<row id="msg_0648_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was hopin’ you’d call!\nWe scrappin’ again, right?{YESNO 0}</language>
+		<language name="English">I was hopin’ you’d call!\nWe scrappin’ again, right? {YESNO 0}</language>
 	</row>
 	<row id="msg_0648_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent! Glad to hear it.\nI’m lookin’ forward to this.\rI’ll be waitin’ at the Saffron Dojo!</language>
+		<language name="English">Excellent! Glad to hear it.\nI’m lookin’ forward to this.\rI’ll be waitin’ at the Saffron Dojo!\nDad’s comin’ to watch. No pressure.</language>
 	</row>
 	<row id="msg_0648_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sure, sure...\nI know you got a busy schedule...</language>
+		<language name="English">Sure, sure...\nI know you got a busy schedule...\fDad says rejection builds character.</language>
 	</row>
 	<row id="msg_0648_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I gotta say this...\nBefore we scrap again, how ’bout you\fkeep the promises you made to\fothers first?</language>
+		<language name="English">I gotta say this...\nBefore we scrap again, how ’bout you\fkeep the promises you made to\fothers first?\fThat’s what my dad would say.</language>
 	</row>
 	<row id="msg_0648_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waitin’ at the Saffron Dojo!\fThat was a promise!</language>
+		<language name="English">I’m waitin’ at the Saffron Dojo!\fThat was a PROMISE!\fDad says a promise is a promise.</language>
 	</row>
 	<row id="msg_0648_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this Falkner.\nHow you doin’?\r</language>
+		<language name="English">Ayo, this Falkner.\nHow you doin’? Dad says hi.\r</language>
 	</row>
 	<row id="msg_0648_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know our plans to meet at\nthe Saffron Dojo?\fThat’s still on your mind, ain’t it?</language>
+		<language name="English">You know our plans to meet at the\nSaffron Dojo?\fThat’s still on your mind, ain’t it?\fDad’s been askin’.</language>
 	</row>
 	<row id="msg_0648_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dad told me somethin’ when I was\na youngblood.\rHe said “Falkner, bird homies don’t\njust fly with their wings, they soar\fthrough the sky ’cause that’s what\fthey want with their WHOLE heart.”\rThat’s just like my dad.</language>
+		<language name="English">My dad told me somethin’ when I was a\nyoungblood.\rHe said “Falkner, bird homies don’t\njust fly with their wings, they soar\f’cause they want it with their WHOLE\fheart.”\rThat’s just like my dad.\nHe also said “eat your vegetables.”\fAlso deep.</language>
 	</row>
 	<row id="msg_0648_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The scaffoldin’ in my Block was in bad\nshape when you came through, huh?\rEvery year, we give the place a\ndeep clean. It’s a challenge.\rBut the bird homies help us out,\nso we manage.</language>
+		<language name="English">The scaffoldin’ in my Block was in bad\nshape when you came through, huh?\rEvery year, we deep-clean the place.\nIt’s a challenge.\rThe bird homies help.\nThey also poop on everythin’.\fSo it’s a cycle.</language>
 	</row>
 	<row id="msg_0648_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You chatted with Janine in\nFuchsia City, ain’t you?\rAll she ever talk about is her dad,\nyou know? Nonstop.\rI mean, it’s good to respect\nyour dad, but it’s\fbetter to have some confidence!\rDon’t you believe in your\nown abilities?</language>
+		<language name="English">You chatted with Janine in Fuchsia,\nain’t you?\rAll she ever talk about is her dad!\nNonstop!\rIt’s good to respect your dad, but\nhave some CONFIDENCE!\rBelieve in yourself! That’s what\nMY dad always says.</language>
 	</row>
 </body>

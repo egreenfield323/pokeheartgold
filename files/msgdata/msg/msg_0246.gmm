@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0246_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DING-DING! You outta Sport Balls!\nThe Bug-Catching Contest over for YOU!\r</language>
+		<language name="English">DING-DING! You outta Sport Sacks!\nThe Bug-Catching Contest over for YOU!\r</language>
 	</row>
 	<row id="msg_0246_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -63,11 +63,11 @@
 	</row>
 	<row id="msg_0246_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here go the Sport Balls for the\nContest.\r{STRVAR_1 3, 0, 0} got 20 Sport Balls. Don’t throw\n’em at people.\r</language>
+		<language name="English">Here go the Sport Sacks for the\nContest.\r{STRVAR_1 3, 0, 0} got 20 Sport Sacks. Don’t\nthrow ’em at people.\r</language>
 	</row>
 	<row id="msg_0246_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoever get the STRONGEST bug wins.\rYou got 20 minutes.\rRun outta Sport Balls, you done.\rYou keep the last homie you catch.\nGo out there and catch the BADDEST\fBug-type homie you can find!\r</language>
+		<language name="English">Whoever get the STRONGEST bug wins.\rYou got 20 minutes.\rRun outta Sport Sacks, you done.\rYou keep the last homie you catch.\nGo out there and catch the BADDEST\fBug-type homie you can find!\r</language>
 	</row>
 	<row id="msg_0246_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -181,7 +181,7 @@
 	</row>
 	<row id="msg_0246_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the\n{STRVAR_1 0, 1, 0} you caught? {YESNO 0}</language>
+		<language name="English">Give the {STRVAR_1 0, 1, 0} you caught\na street name? {YESNO 0}</language>
 	</row>
 	<row id="msg_0246_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -261,7 +261,7 @@
 	</row>
 	<row id="msg_0246_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Barry: Rough the bug up first, then\nthrow the Hood Ball. That’s just\fmanners.</language>
+		<language name="English">Barry: Rough the bug up first, then\nthrow the Nap Sack. That’s just\fmanners.</language>
 	</row>
 	<row id="msg_0246_00064" index="64">
 		<attribute name="window_context_name">used</attribute>

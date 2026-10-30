@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0706_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our scrap was remarkable!\rI wish for somethin’ to remember\nyou by!\rPerhaps your number will do?\rMy trainin’ make it impossible to\nchat much, but... {YESNO 0}</language>
+		<language name="English">Our scrap was REMARKABLE!\rI wish for somethin’ to remember you\nby!\rPerhaps your number will do?\rMy trainin’ make it impossible to chat\nmuch, but... HAI! {YESNO 0}</language>
 	</row>
 	<row id="msg_0706_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I must train harder to become\nthe mightiest!</language>
+		<language name="English">I must train harder to become the\nMIGHTIEST! HIYAAAH!</language>
 	</row>
 	<row id="msg_0706_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0706_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today, I wanna say good looks,\n{STRVAR_1 3, 0, 0}!\rI been trainin’ all alone...\nI was happy that you cared to call...\r{STRVAR_1 3, 0, 0}! I want you to have this!\r</language>
+		<language name="English">Today I say good looks, {STRVAR_1 3, 0, 0}!\rI train alone... Nobody calls.\nNot even my mom.\r{STRVAR_1 3, 0, 0}! Take this! HAI!\r</language>
 	</row>
 	<row id="msg_0706_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,15 +34,15 @@
 	</row>
 	<row id="msg_0706_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You still on your journey?\nI remain locked in on my trainin’.\fOooooaaarrrgh!</language>
+		<language name="English">You still on your journey?\nI remain locked in on my trainin’.\fOOOOOOAAARRRGH!\f...Sorry. That was a punch.</language>
 	</row>
 	<row id="msg_0706_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My apologies, but I ain’t got time to\nchat while I’m trainin’!\rI’ll have time to chat tomorrow!\nYiiihah!</language>
+		<language name="English">My apologies, but I ain’t got time to\nchat while I’m trainin’!\rI’ll have time tomorrow!\nYIIIHAH! ...I hit the phone. Hold on.</language>
 	</row>
 	<row id="msg_0706_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m finna take a lunch break, so come\nvisit me then!\fAyiiiyah!</language>
+		<language name="English">I’m finna take a lunch break, so come\nvisit me then!\fAYIIIYAH! That’s how I order lunch.</language>
 	</row>
 	<row id="msg_0706_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,6 +50,6 @@
 	</row>
 	<row id="msg_0706_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I rested up on my lunch break.\nNow, back to trainin’!\fOooryaah!</language>
+		<language name="English">I rested up on my lunch break.\nNow, back to trainin’!\fOOORYAAH! I’m full. I’m VERY full.</language>
 	</row>
 </body>

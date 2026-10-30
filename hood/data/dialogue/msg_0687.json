@@ -1,14 +1,14 @@
 {
   "_comment": "Phone: Kyler (fisherman).",
-  "1": "I'd like to scrap you again\\nsometime. Can we swap\\fnumbers? {YESNO 0}",
-  "2": "Ayo! Good looks!",
+  "1": "I'd like to scrap you again sometime.\\nCan we swap numbers? {YESNO 0}",
+  "2": "AYO! Good looks!\\nThe fish heard. They scared now.",
   "3": "Ayo! Oh well!",
   "4": "I'd like to scrap you again\\nsometime. Can we swap\\fnumbers? {YESNO 0}",
-  "5": "You right nearby, but talkin' on\\nthe phone make you feel far.\\rDon't be shy. Why not come talk\\nto me in person?",
-  "6": "Some people out there\\nsay, “You ain't gotta give Bait to\\fyour caught homies,” but\\fI'm different.\\rMy {STRVAR_1 0, 10, 0} go HARD.\\rSo I feed it good stuff, brush it,\\npet it, show it love, and just\\fcherish it!",
-  "7": "Yesterday I went fishin' and knocked\\nout a {STRVAR_1 0, 11, 0}!\\rI know if I go to the mountains, or\\nthe forest, or the grassland, or the\\fcaves, or anywhere like that,\\fI could find all kinds of homies.\\rBut I just REALLY like homies like\\n{STRVAR_1 0, 11, 0}, you know...",
-  "8": "The biggest homie is always the one\\nyou ALMOST caught, you know?\\rJust the other day, I almost\\ncaught a {STRVAR_1 0, 11, 0} when it\\fdipped! I was SO disappointed!\\rWhen you fishin', don't have no\\nregrets! Fish with all your might!\\fAyo! Fight!",
-  "9": "I'm sick of fishin'. I'd rather\\nscrap you!\\rAyo! I'm waitin' on {STRVAR_1 4, 3, 0}.",
+  "5": "You right nearby, but the phone make you\\nfeel far.\\rDon't be shy. Come talk in person!\\nI'm the one with the bucket.",
+  "6": "Some people say “You ain't gotta give\\nBait to your caught homies,” but I'm\\fdifferent.\\rMy {STRVAR_1 0, 10, 0} go HARD.\\rSo I feed it good stuff, brush it, pet\\nit, show it LOVE.\\fIt's spoiled. It won't eat cheap bait\\fno more.",
+  "7": "Yesterday I went fishin' and knocked out\\na {STRVAR_1 0, 11, 0}!\\rI could go to the mountains, forest,\\ncaves, wherever, for other homies.\\rBut I REALLY like homies like\\n{STRVAR_1 0, 11, 0}. Wet ones.",
+  "8": "The biggest homie is always the one you\\nALMOST caught, you know?\\rI ALMOST caught a {STRVAR_1 0, 11, 0} when it\\ndipped! SO disappointed!\\rFish with all your might!\\nAyo! FIGHT! ...That's my motto.",
+  "9": "I'm SICK of fishin'. I'd rather scrap\\nyou!\\rAyo! I'm waitin' on {STRVAR_1 4, 3, 0}.\\nI'll still be fishin'. While I wait.",
   "10": "Wassup? We made plans to meet on\\n{STRVAR_1 4, 3, 0} for a scrap, right?\\fAyo! Hurry up and get here.",
-  "11": "The real draw of fishin' is you\\nnever know what you gon' catch\\ftill you pull it outta the water.\\rOne day maybe I'll pull up on the\\nfishin' Rod and there'll be a\\flegendary homie on the other end of\\fmy line...\\rYeah, right. The chances of that\\nhappenin' is basically zero.\\rLike, RAIKOU and them, while\\nthey skippin' all over the\\fplace, maybe they feet slip and\\fthey land in the sea...\\rWhat you think, could I accidentally\\ncatch RAIKOU fishin'?\\r...How silly, right?"
+  "11": "The real draw of fishin' is you never know\\nwhat you gon' catch.\\rOne day maybe I'll pull up a LEGENDARY\\nhomie on my line...\\rLike RAIKOU. Skippin' all over the place,\\nmaybe it slip and land in the sea...\\rCould I accidentally catch RAIKOU\\nfishin'?\\r...I been tryin' for six years. It's\\ngonna happen. It's GONNA happen."
 }

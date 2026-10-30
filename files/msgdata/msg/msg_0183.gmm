@@ -105,7 +105,7 @@
 	</row>
 	<row id="msg_0183_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cancel trading?</language>
+		<language name="English">Cancel tradin’?</language>
 	</row>
 	<row id="msg_0183_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
@@ -152,15 +152,15 @@
 	</row>
 	<row id="msg_0183_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will become detached.\nIs that OK?</language>
+		<language name="English">The Sack Patch will become detached.\nIs that OK?</language>
 	</row>
 	<row id="msg_0183_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a Pokémon that cannot be\ntraded in your party.</language>
+		<language name="English">There is a Pokémon that can’t be\ntraded in your party.</language>
 	</row>
 	<row id="msg_0183_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a Pokémon that cannot be\ntraded in the other Hustler’s party.</language>
+		<language name="English">There is a Pokémon that can’t be\ntraded in the other Hustler’s party.</language>
 	</row>
 	<row id="msg_0183_00039" index="39">
 		<attribute name="window_context_name">used</attribute>

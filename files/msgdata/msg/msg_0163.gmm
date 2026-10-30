@@ -234,19 +234,19 @@
 	</row>
 	<row id="msg_0163_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Ball Capsules</language>
+		<language name="English">♡Sack Patches</language>
 	</row>
 	<row id="msg_0163_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Ball Capsules (full)</language>
+		<language name="English">♡Sack Patches (full)</language>
 	</row>
 	<row id="msg_0163_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Ball Capsules (fewer)</language>
+		<language name="English">♡Sack Patches (fewer)</language>
 	</row>
 	<row id="msg_0163_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">♡Ball Capsules (none)</language>
+		<language name="English">♡Sack Patches (none)</language>
 	</row>
 	<row id="msg_0163_00062" index="62">
 		<attribute name="window_context_name">used</attribute>

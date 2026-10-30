@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0103_D32R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Frontier!\rFirst time here?\nRight this way!\r</language>
+		<language name="English">Welcome to the Battle Frontier!\nYou on the list?\r...Everybody on the list.\nIt’s a free event. C’mon in!\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You got a Vs. Recorder!\nNice!\rWe upgrade Vs. Recorders for\nnewbies so they work at the Frontier.\rLemme borrow yours real quick.\rLet’s see... Slide this part open,\nand ticka-tacka-kachunk there!\rAll done!\nHere you go. Good as new. Better.\r</language>
+		<language name="English">Oh! You got a Vs. Recorder!\nNice!\rWe upgrade ’em for newbies so\nthey work at the Frontier.\rLemme borrow that real quick.\rSlide this open... ticka-tacka...\nKA-CHUNK!\rI ain’t break it. It’s fine.\nHere you go. Good as new. Better.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0103_D32R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other staff gon’ break down how\neach facility at the\fBattle Frontier work.\rI can cover the general stuff.\nYou got questions? {YESNO 0}</language>
+		<language name="English">The other staff gon’ break down\neach facility.\rI handle the general stuff. And the\nguest list. And the snack table.\fYou got questions? {YESNO 0}</language>
 	</row>
 	<row id="msg_0103_D32R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,27 +22,27 @@
 	</row>
 	<row id="msg_0103_D32R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Frontier got five\nfacilities just for scrappin’.\rAt the Battle Tower, you gotta\nbeat seven Hustlers in a row.\rAt the Battle Hall, you keep\nrecords for each homie.\rAt the Battle Factory, you gotta\nwin streaks with rentals.\rThe Battle Castle make you manage\nCastle Points to move up.\rAnd the Battle Arcade is where\nrandom luck set off events.\rYou can hit any of these spots!\r</language>
+		<language name="English">The Battle Frontier got five spots\njust for scrappin’.\rBattle Tower: beat seven Hustlers\nin a row. No breaks.\rBattle Hall: one homie, keep a\nrecord for each one.\rBattle Factory: win streaks with\nrental homies.\rBattle Castle: budget your Castle\nPoints. Like rent.\rBattle Arcade: a wheel decide your\nfate. Like a casino with fists.\rHit any of ’em you want!\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scraps at all five Battle Frontier\nfacilities got special rules.\rFirst off, you can’t earn\nno Exp. Points.\rSo homies scrappin’ here\nain’t levelin’ up.\rIf you pick the Level 50 rule,\nhigher-level homies get\fknocked down to Lv. 50 for now.\rHomies under Lv. 50 roll in\nas is. No free levels.\r</language>
+		<language name="English">All five got special rules.\rFirst off, you don’t earn no\nExp. Points. Zero.\rSo your homies ain’t levelin’ up\nhere. They just suffer.\rLevel 50 rule: higher-level homies\nget knocked down to Lv. 50.\rUnder Lv. 50? Roll in as is.\nNo free levels. No handouts.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Points is usually called\nBP.\rBP only work in the\nBattle Frontier.\rYou get BP for hittin’ certain\ngoals at the different\fBattle Frontier facilities.\rYou can cash BP in for prizes at\nthe Exchange Service Corner.\r</language>
+		<language name="English">Battle Points, or BP.\rBP only work here at the Frontier.\nOutside, it’s worth nothin’.\fTried payin’ rent with it once.\rYou earn BP by hittin’ goals at\nthe facilities.\rThen cash it in at the Exchange\nService Corner!\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Exchange Service Corner is\nthe two tents straight\fahead past here.\rThere, you can cash in your BP for\nall kinds of prizes.\rDefinitely check it out!\r</language>
+		<language name="English">The Exchange Service Corner is them\ntwo tents straight ahead.\rCash in your BP for prizes.\nThe dude in there never sleeps.\fWe checked. He don’t.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Performance Monitor show Hustler\ndata, like your last record and\fyour best record ever.\rThere’s one by the front\ndesk in every facility.\r</language>
+		<language name="English">The Performance Monitor show your\nlast record and your best record.\fThere’s one by the front desk in\fevery facility.\rIt also shows when you lose.\nPublicly. Forever.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nNo outside food. I see that sandwich.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
@@ -80,11 +80,11 @@
 	</row>
 	<row id="msg_0103_D32R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower is the buildin’ at\nthe back of the Battle Frontier.\rYou roll in with a team of\ndifferent homies and scrap till\fyou take a L.\r</language>
+		<language name="English">The Battle Tower is the big buildin’\nin the back.\rYou roll in with a squad and scrap\ntill you take a L.\fThat’s it. That’s the whole thing.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nDon’t touch the plants. They real.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -92,11 +92,11 @@
 	</row>
 	<row id="msg_0103_D32R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Factory is in the top-\nright corner of the Battle Frontier.\rThere, you run a knockout\ntournament with rental homies.\rThe goal is to keep winnin’\nas long as you can.\rEvery time you win, you can swap\none of your homies for one of\fthe other guy’s homies.\r</language>
+		<language name="English">The Battle Factory is in the top-\nright corner.\rIt’s a tournament with rental\nhomies. Like a rental car, but it\fbites.\rKeep winnin’ as long as you can.\rEvery W, you can swap one of yours\nfor one of the other guy’s homies.\fLegal robbery!\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nThe bathroom code is 1234.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -104,11 +104,11 @@
 	</row>
 	<row id="msg_0103_D32R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall is in the top-left\ncorner of the Battle Frontier.\rHere, you roll in with one homie\nfor one-on-one scraps.\rThe goal is to keep your win\nstreak goin’ as long as you can.\r</language>
+		<language name="English">The Battle Hall is in the top-left\ncorner.\rOne homie. One-on-one scraps.\nNo tag-outs. No cryin’.\rKeep that win streak alive as\nlong as you can.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nIf you see Argenta, act natural.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -116,11 +116,11 @@
 	</row>
 	<row id="msg_0103_D32R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Castle is in the bottom-\nleft corner of the Battle Frontier.\rHere, you get Castle Points, CP,\nand you gotta budget ’em.\rCP is for healin’ homies,\nrentin’ items or Berries, all that.\rThe goal is to keep a win streak\nalive while you manage your CP.\r</language>
+		<language name="English">The Battle Castle is in the bottom-\nleft corner.\rYou get Castle Points, CP, and you\ngotta budget ’em.\rCP pay for healin’, rentin’ items,\nBerries, all that.\rKeep your streak alive while you\nmanage your bread.\fIt’s basically adulthood.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nBring a calculator for the Castle.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -128,26 +128,26 @@
 	</row>
 	<row id="msg_0103_D32R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Arcade is in the bottom-\nright corner of the Battle Frontier.\rHere, a game board spin\nbefore every scrap.\rDependin’ on what come up on the\nboard, somethin’ go down.\rSome events help the challenger,\nsome straight-up don’t.\rThe challenger might even get\nto skip the scrap entirely.\rThe goal is to keep a win streak\nalive as long as you can.\r</language>
+		<language name="English">The Battle Arcade is in the bottom-\nright corner.\rA game board spin before every\nscrap. Wherever it land...\fsomethin’ go DOWN.\rSome events help you.\nSome straight-up ruin your life.\rSometimes you skip the scrap\nentirely. Lucky.\rKeep that streak alive, gambler.\r</language>
 	</row>
 	<row id="msg_0103_D32R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy your visit!</language>
+		<language name="English">Enjoy your visit!\nThe Arcade don’t do refunds.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Frontier right up ahead!\nI explored places all over the\fworld, but nothin’ compare to the\fhype I feel right now!\rWhat kinda Hustlers I’mma see?\nWhat scraps I’mma get into?\rIt’s a whole new adventure for me!</language>
+		<language name="English">The Battle Frontier right there!\nI been all over the world, but\fnothin’ hit like this!\rWhat kinda Hustlers I’mma see?\nWhat scraps I’mma get into?\rIt’s a whole new adventure!\nI already lost my wallet. Good start.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The five facilities of the Battle\nFrontier is...\rTower.\rHall.\rCastle.\rFactory.\rAnd Arcade.\rHow you make a acronym outta\nthat? THCFA?\rMix up the letters, maybe?\nFATCH! CHAFT!\r...Nah! Nothin’ work!\nDid NOBODY think this through?!</language>
+		<language name="English">The five facilities is...\rTower.\rHall.\rCastle.\rFactory.\rArcade.\rHow you make a acronym outta that?\nTHCFA?\rMix it up... FATCH! CHAFT!\n...HACFT!\r...Nah! Nothin’ work!\nDid NOBODY in marketin’ think?!</language>
 	</row>
 	<row id="msg_0103_D32R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Vs. Recorder hella handy!\rCheckin’ the Frontier Record\ntell you how much BP you got.</language>
+		<language name="English">The Vs. Recorder hella handy!\rCheck the Frontier Record to see\nhow much BP you got.\fMine say 3. I’m humble.</language>
 	</row>
 	<row id="msg_0103_D32R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dream is to scrap Palmer from\nthe Battle Tower.\rI wanna record it forever on\nmy Vs. Recorder.\rBut I left my Vs. Recorder\nat the crib... I’m devastated!</language>
+		<language name="English">My dream is to scrap Palmer from\nthe Battle Tower.\rAnd record it forever on my\nVs. Recorder.\rBut I left my Vs. Recorder at the\ncrib...\fI’m devastated. I’m goin’ home.\fIt’s a six hour walk.</language>
 	</row>
 </body>

@@ -26,6 +26,6 @@
 	</row>
 	<row id="msg_0575_T24PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna give a nickname to\nthe TENTACOOL? {YESNO 0}</language>
+		<language name="English">Wanna give the TENTACOOL\na street name? {YESNO 0}</language>
 	</row>
 </body>

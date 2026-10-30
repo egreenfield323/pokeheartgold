@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0685_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Is that a Pokédex? You\nmet Professor Oak?\rHuh? You have?\nThat’s HARD!\rI dream of bein’ a homie\nresearcher like Professor Oak.\rCan I please get your number?\rWe should chat about Professor Oak.\rIt’s gon’ be mad fun! {YESNO 0}</language>
+		<language name="English">Huh? Is that a Pokédex? You MET\nProfessor Oak?\rYou HAVE?\nWhat did he smell like?\rI dream of bein’ a homie researcher\nlike Professor Oak.\rCan I please get your number?\nWe can talk about him. FOR HOURS. {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You listen to Professor Oak’s\nHomie Talk, right?</language>
+		<language name="English">You listen to Professor Oak’s Homie\nTalk, right? I record every episode.\fOn cassette.</language>
 	</row>
 	<row id="msg_0685_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I wish I could meet\nProfessor Oak...</language>
+		<language name="English">Oh... I wish I could meet Professor\nOak... I got his poster. I kiss it\fgoodnight. Respectfully.</language>
 	</row>
 	<row id="msg_0685_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0685_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just started watchin’ wild\n{STRVAR_1 0, 10, 0}.\rI been learnin’ all kinds of new\nstuff from watchin’.\rI wish I could be a homie\nresearcher like Professor Oak soon.\rLater!</language>
+		<language name="English">I just started watchin’ wild {STRVAR_1 0, 10, 0}.\rI been learnin’ all kinds of new stuff\nfrom watchin’.\fI wear a lab coat to do it.\rI wish I could be a researcher like\nProfessor Oak soon.\rLater!</language>
 	</row>
 	<row id="msg_0685_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, I knocked out a wild\n{STRVAR_1 0, 11, 0} a while back.\rWell, with all the homie\nstudyin’ I do every day,\fit was bound to happen.\rLater!</language>
+		<language name="English">Oh yeah, I knocked out a wild {STRVAR_1 0, 11, 0}\na while back.\rWith all the studyin’ I do, it was\nbound to happen. Professor Oak would\fbe proud. He don’t know me.\rLater!</language>
 	</row>
 	<row id="msg_0685_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,27 +38,27 @@
 	</row>
 	<row id="msg_0685_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know Blue?\rHe Professor Oak’s grandson and a\nformer Big League Kingpin!\fHe one super Hustler!\rLater!</language>
+		<language name="English">You know Blue?\rHe Professor Oak’s GRANDSON and a\nformer Big League Kingpin!\fI asked him for an autograph.\fHe said “smell ya later.” I framed it.\rLater!</language>
 	</row>
 	<row id="msg_0685_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak got a granddaughter\nnamed Daisy.\rWhen she around, even the most\nferocious homies calm right down.\rLater!</language>
+		<language name="English">Professor Oak got a granddaughter\nnamed Daisy.\rWhen she around, even the most\nferocious homies calm down.\fI wrote her a letter. About her\ngrandpa.\rLater!</language>
 	</row>
 	<row id="msg_0685_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody talkin’ about\nProfessor Elm.\rHe used to be a assistant to the great\nProfessor Oak!\rThat’s HARD! I’m jealous!\rLater!</language>
+		<language name="English">Everybody talkin’ about Professor Elm.\rHe used to be Professor Oak’s\nASSISTANT!\rThat’s HARD! I’m jealous! I’d do his\nlaundry for free!\rLater!</language>
 	</row>
 	<row id="msg_0685_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s dream is to put\ntogether a complete Pokédex.\rI’m jealous you part of that\nproject...\rLater!</language>
+		<language name="English">Professor Oak’s dream is a complete\nPokédex.\rI’m jealous you part of that project...\nVERY jealous. Like, a normal amount.\rLater!</language>
 	</row>
 	<row id="msg_0685_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know Kurt, the Hood Ball\nmaker?\rHim and Professor Oak go WAY\nback. I guess greatness attract\fgreatness!\rLater!</language>
+		<language name="English">You know Kurt, the custom bag maker?\rHim and Professor Oak go WAY back.\nI guess greatness attract greatness!\fI tried to attract greatness. A bee\fcame instead.\rLater!</language>
 	</row>
 	<row id="msg_0685_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Big League is where all\nHustlers come who\fwanna be Kingpin.\rProfessor Oak is a advisor to\nthe Big League’s headquarters.\rHe deadass a great man.\rLater!</language>
+		<language name="English">The Big League is where Hustlers go to\nbecome Kingpin.\rProfessor Oak is a ADVISOR to the Big\nLeague’s headquarters.\rHe’s a great man.\nThe greatest. I’ll fight you on this.\rLater!</language>
 	</row>
 	<row id="msg_0685_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

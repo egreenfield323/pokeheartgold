@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0653_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rOr a ghost is on the line.\nCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0653_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nWhat’s goin’ on?\fI’m doin’ great.\r</language>
+		<language name="English">Wassup...\nWhat’s goin’ on?\fI’m doin’ great. I saw a ghost today.\fWe talked. It was nice.\r</language>
 	</row>
 	<row id="msg_0653_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s stronger Block Bosses than\nme out there. They all waitin’ to\fcheer you on!</language>
+		<language name="English">There’s stronger Block Bosses than me\nout there. They all waitin’ to cheer\fyou on!\fThe spirits told me.</language>
 	</row>
 	<row id="msg_0653_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right... If we gon’ have\nanother scrap, we gotta do it\fwhen I’m free, like Tuesday nights.\rHit me up then.</language>
+		<language name="English">If we gon’ scrap again, gotta be when\nI’m free, like Tuesday nights.\rThat’s when the spirits are calm.\nHit me up then.</language>
 	</row>
 	<row id="msg_0653_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m completely free today.\nWhy don’t we scrap? {YESNO 0}</language>
+		<language name="English">I’m completely free today.\nThe spirits say we should scrap.\fWhy don’t we? {YESNO 0}</language>
 	</row>
 	<row id="msg_0653_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\rYou know where the Saffron Dojo at?\nI’ll be waitin’ there.</language>
+		<language name="English">Aight!\rYou know where the Saffron Dojo at?\nI’ll be waitin’ there.\fI’ll get there before you. Spiritually.</language>
 	</row>
 	<row id="msg_0653_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nWell, you got your own plans too,\fI get it.</language>
+		<language name="English">I see...\nWell, you got your own plans too.\fI foresaw this. I’m still sad.</language>
 	</row>
 	<row id="msg_0653_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! Before you scrap me again, ain’t\nthere somebody else you promised to\fscrap?</language>
+		<language name="English">Ayo! Before you scrap me again, ain’t\nthere somebody else you promised to\fscrap? The spirits are judgin’ you.</language>
 	</row>
 	<row id="msg_0653_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be at the Saffron Dojo.\nGet ready and meet me there!</language>
+		<language name="English">I’ll be at the Saffron Dojo.\nGet ready and meet me there!\fI’ll be the one in the scarf.</language>
 	</row>
 	<row id="msg_0653_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Morty!\nHow you doin’?\r</language>
+		<language name="English">This Morty!\nHow you doin’? I been meditatin’.\r</language>
 	</row>
 	<row id="msg_0653_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo?\fI remembered!\fYou ain’t forget, did you?</language>
+		<language name="English">Ayo, didn’t we make plans to meet at\nthe Saffron Dojo?\fI remembered!\fYou ain’t forget, did you? The spirits\fdidn’t forget.</language>
 	</row>
 	<row id="msg_0653_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The legendary homies: Suicune, Entei,\nand Raikou--which one you like best?\rUnlike Eusine, I ain’t deadass\nthat into Suicune.\rSo I’d have to say Entei...\nBut I can’t leave out Raikou...\fHmm... Guess I can’t decide.</language>
+		<language name="English">The legendary homies: Suicune, Entei,\nand Raikou--which one you like best?\rUnlike Eusine, I ain’t THAT into\nSuicune. He got posters. I don’t.\rSo I’d say Entei...\nBut I can’t leave out Raikou...\fHmm... Guess I can’t decide.</language>
 	</row>
 	<row id="msg_0653_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I saw Entei once. Like\nup close. It was crazy.\rEntei looked me dead in the eyes. I’ll\nnever forget them eyes.\rIt was like it could see right through\nme, down to the bottom of my heart...</language>
+		<language name="English">You know, I saw Entei once. Up close.\nIt was CRAZY.\rEntei looked me dead in the eyes.\nI’ll never forget them eyes.\rIt was like it could see right through\nme, down to the bottom of my heart...\fThen it ran away. I chased it for 3\fdays. It was a whole thing.</language>
 	</row>
 	<row id="msg_0653_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How you been?\nAnything interestin’ happenin’?\rI’m doin’ the usual, just my\nregular Block Boss stuff.\rAin’t been no deadass strong\nHustlers here since you came through.\rSeem like you one of them genius\nHustlers you rarely meet.\rHa ha ha! I ain’t tryna gas you up!</language>
+		<language name="English">How you been?\nAnythin’ interestin’ happenin’?\rI’m doin’ the usual Block Boss stuff.\nAnd séances. Mostly séances.\rAin’t been no strong Hustlers here\nsince you came through.\rYou one of them genius Hustlers you\nrarely meet.\fHa ha ha! I ain’t tryna gas you up!\fThe spirits are, though.</language>
 	</row>
 </body>

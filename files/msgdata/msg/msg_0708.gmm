@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0708_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? That’s fine.\nA straight no is easy to take!\rI’ll be right here when you ready for\na rematch.</language>
+		<language name="English">No? That’s fine.\nA straight no is easy to take!\fI been divorced twice. I’m used to it.\rI’ll be right here for a rematch.</language>
 	</row>
 	<row id="msg_0708_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0708_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, you special, aight.\rIf only I started trainin’ homies when\nI was a lil younger...\rI want you to work hard and win\nfor both of us.\fSo, take this, OK?\r</language>
+		<language name="English">Well, you special, aight.\rIf only I started trainin’ homies when I\nwas a lil younger... like 60 years ago.\rWin for both of us.\fSo, take this, OK?\r</language>
 	</row>
 	<row id="msg_0708_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0708_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NOTHIN’ can match my {STRVAR_1 0, 10, 0} now.\rAnd, yesterday, we spotted a wild\n{STRVAR_1 0, 11, 0}.\rWe was debatin’ whether to catch\nit or just get exp scrappin’ it.\rThen, here come another guy,\nwho caught it! How ’bout that!\rOK, gimme a call again!</language>
+		<language name="English">NOTHIN’ can match my {STRVAR_1 0, 10, 0} now.\rYesterday we spotted a wild {STRVAR_1 0, 11, 0}.\rWe was debatin’ whether to catch it or\nscrap it for exp.\rThen another guy walked up and CAUGHT\nit! Right in front of us!\fThe disrespect. OK, call me again!</language>
 	</row>
 	<row id="msg_0708_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wasn’t feelin’ my best today,\nthat’s all!\rWe should swap numbers,\nthen we can scrap again! {YESNO 0}</language>
+		<language name="English">I wasn’t feelin’ my best today, that’s\nall!\rWe should swap numbers, then we can\nscrap again! {YESNO 0}</language>
 	</row>
 	<row id="msg_0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next time we meet, I’mma be WAY\nstronger, I promise!</language>
+		<language name="English">Next time we meet, I’mma be WAY\nstronger, I promise! I’m drinkin’ milk!</language>
 	</row>
 	<row id="msg_0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You just gon’ win and dip?\nThat’s LOW!</language>
+		<language name="English">You just gon’ win and DIP?\nThat’s LOW! That’s DISRESPECTFUL!</language>
 	</row>
 	<row id="msg_0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You came to grab a Dusk Stone?\nThis it...\rDon’t be shy! This gettin’ kinda\nawkward, so just take it already!\r</language>
+		<language name="English">You came to grab a Dusk Stone?\nThis it...\rDon’t be shy! This gettin’ awkward,\nso just TAKE it already!\fI’m blushin’. Bikers don’t blush.\r</language>
 	</row>
 	<row id="msg_0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bwa ha ha ha!\nMy {STRVAR_1 0, 10, 0} got SO much\fstronger. You’d be shook to see\fit now!\rRecently, we was scrappin’ a\n{STRVAR_1 0, 11, 0} and knocked it flat--\fBOOM! Just like that!\rAin’t NOTHIN’ scare us now...as long\nas they low-enough level!</language>
+		<language name="English">BWA HA HA HA!\nMy {STRVAR_1 0, 10, 0} got SO much stronger.\fYou’d be SHOOK to see it now!\rWe knocked a {STRVAR_1 0, 11, 0} FLAT--\nBOOM!\rAin’t NOTHIN’ scare us now...\nas long as they low-enough level!</language>
 	</row>
 	<row id="msg_0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} got way\nstronger, but we still let a wild\f{STRVAR_1 0, 11, 0} we was scrappin’\fget away!\rWhat, you think it got away from us?\nNah, man! We LET it go!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} got stronger, but we let\na wild {STRVAR_1 0, 11, 0} get away!\rWhat, you think it ESCAPED us?\nNah, man! We LET it go!\fWe merciful. Like a biker monk.</language>
 	</row>
 	<row id="msg_0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Recently we found a wild {STRVAR_1 0, 11, 0}\nby the road!\rIt just jumped out outta nowhere and\nscared me so bad I fell over!\rDid I get hurt?\rNah--I landed on my homie, and it\nbroke my fall!</language>
+		<language name="English">We found a wild {STRVAR_1 0, 11, 0} by the road!\rIt jumped out and scared me so bad I\nfell over!\rDid I get hurt?\rNah--I landed on my homie, and it broke\nmy fall! My homie’s mad at me now.</language>
 	</row>
 	<row id="msg_0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After my Biker gang showed up on\nCycling Road, the vibe got weird...\rAt least, that’s what some people\nbeen sayin’.\rWe ain’t doin’ nothin’ mean to\nnobody, though!\rAll we doin’ is challengin’ strong\nHustlers to scraps, that’s it!\rPeople like you, for example!</language>
+		<language name="English">After my Biker gang showed up on\nCycling Road, the vibe got weird...\rAt least, that’s what people been\nsayin’.\rWe ain’t doin’ nothin’ mean!\rWe just challenge strong Hustlers!\nAnd hold doors. We hold doors.</language>
 	</row>
 	<row id="msg_0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

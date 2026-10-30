@@ -78,6 +78,205 @@ def ball(top, bottom=(245, 245, 245, 255), deco=None):
     return draw
 
 
+def mark(kind):
+    """A tiny version of the emblem painted on that sack in battle (ballfx._emblem), where the patch would be."""
+    def draw(im, d):
+        x, y = 19, 21
+        if kind == "clock":
+            d.ellipse([x - 4, y - 4, x + 4, y + 4], fill=W, outline=K)
+            d.line([(x, y), (x, y - 3)], fill=K)
+            d.line([(x, y), (x + 2, y)], fill=K)
+        elif kind == "heart":
+            d.polygon([(x - 4, y - 2), (x - 2, y - 4), (x, y - 2), (x + 2, y - 4), (x + 4, y - 2), (x, y + 3)],
+                      fill=(240, 50, 90, 255))
+        elif kind == "plus":
+            d.rectangle([x - 1, y - 4, x + 1, y + 4], fill=W)
+            d.rectangle([x - 4, y - 1, x + 4, y + 1], fill=W)
+        elif kind == "moon":
+            d.ellipse([x - 4, y - 4, x + 4, y + 4], fill=(250, 240, 170, 255))
+            d.ellipse([x - 1, y - 6, x + 6, y + 2], fill=(40, 70, 60, 255))
+        elif kind == "star":
+            d.polygon([(x, y - 5), (x + 1, y - 1), (x + 5, y - 1), (x + 2, y + 1), (x + 3, y + 5), (x, y + 3),
+                       (x - 3, y + 5), (x - 2, y + 1), (x - 5, y - 1), (x - 1, y - 1)], fill=GOLD)
+        elif kind == "bolt":
+            d.polygon([(x + 1, y - 5), (x - 3, y + 1), (x, y + 1), (x - 1, y + 5), (x + 3, y - 1), (x, y - 1)],
+                      fill=GOLD)
+        elif kind == "crown":
+            d.polygon([(x - 4, y + 3), (x - 4, y - 3), (x - 2, y), (x, y - 4), (x + 2, y), (x + 4, y - 3),
+                       (x + 4, y + 3)], fill=GOLD)
+        elif kind == "speed":
+            for k in range(3):
+                d.line([(x - 4, y - 3 + k * 3), (x + 2 + k % 2 * 2, y - 3 + k * 3)], fill=W)
+        elif kind == "chevrons":
+            for k in range(2):
+                d.line([(x - 4, y + 2 - k * 4), (x, y - 2 - k * 4), (x + 4, y + 2 - k * 4)], fill=GOLD)
+        elif kind == "hook":
+            d.line([(x + 2, y - 5), (x + 2, y + 1)], fill=W)
+            d.arc([x - 3, y - 1, x + 3, y + 5], 0, 200, fill=W)
+        elif kind == "weight":
+            d.line([(x - 5, y), (x + 5, y)], fill=W)
+            d.rectangle([x - 5, y - 3, x - 3, y + 3], fill=K)
+            d.rectangle([x + 3, y - 3, x + 5, y + 3], fill=K)
+        elif kind == "peace":
+            d.ellipse([x - 4, y - 4, x + 4, y + 4], outline=W)
+            d.line([(x, y - 4), (x, y + 4)], fill=W)
+        elif kind == "rocket":
+            d.polygon([(x, y - 5), (x + 2, y - 1), (x + 2, y + 3), (x - 2, y + 3), (x - 2, y - 1)], fill=W)
+            d.point([(x - 3, y + 3), (x + 3, y + 3)], fill=(230, 50, 50, 255))
+        elif kind == "tree":
+            d.polygon([(x, y - 5), (x - 4, y + 2), (x + 4, y + 2)], fill=(60, 160, 60, 255))
+            d.line([(x, y + 2), (x, y + 4)], fill=(120, 80, 40, 255))
+        elif kind == "house":
+            d.polygon([(x - 4, y), (x, y - 4), (x + 4, y)], fill=W)
+            d.rectangle([x - 3, y, x + 3, y + 4], fill=W)
+        elif kind == "net":
+            for k in (-3, 0, 3):
+                d.line([(x + k - 2, y - 4), (x + k + 2, y + 4)], fill=W)
+                d.line([(x + k + 2, y - 4), (x + k - 2, y + 4)], fill=W)
+        elif kind == "camo":
+            for px, py in ((x - 3, y - 2), (x + 2, y), (x - 1, y + 3)):
+                d.ellipse([px - 2, py - 2, px + 2, py + 2], fill=(60, 80, 40, 255))
+        elif kind == "x2":
+            text(d, x - 4, y - 2, "X", W)
+        elif kind == "jersey":
+            d.rectangle([x - 3, y - 3, x + 3, y + 4], fill=W)
+            d.line([(x - 5, y - 2), (x + 5, y - 2)], fill=W)
+    return draw
+
+
+def sack(base=(176, 132, 78), emblem=None):
+    """A kidnapping sack (Nap Sack, and the other ___ Sacks in their old ball colour): tied off with rope, denim
+    patch."""
+    r, g, b = base
+    body, dark = (r, g, b, 255), (int(r * .72), int(g * .72), int(b * .72), 255)
+    light = (min(255, int(r * 1.2) + 20), min(255, int(g * 1.2) + 20), min(255, int(b * 1.2) + 20), 255)
+
+    def draw():
+        im, d = canvas()
+        d.ellipse([5, 10, 26, 29], fill=body)
+        d.ellipse([8, 13, 16, 24], fill=light)
+        d.ellipse([17, 18, 25, 28], fill=dark)
+        d.ellipse([9, 14, 23, 26], fill=body)
+        d.polygon([(12, 11), (19, 11), (22, 4), (9, 4)], fill=dark)
+        for x in (9, 13, 17, 21):
+            d.ellipse([x - 2, 2, x + 2, 6], fill=body)
+        d.rectangle([11, 9, 20, 11], fill=(232, 208, 150, 255))
+        d.line([(20, 10), (25, 14)], fill=(232, 208, 150, 255), width=1)
+        if emblem:
+            emblem(im, d)
+        else:
+            d.rectangle([16, 19, 22, 24], fill=(70, 90, 150, 255))
+            d.point([(16, 19), (19, 19), (22, 19), (16, 24), (19, 24), (22, 24)], fill=W)
+        return outlined(im)
+    return draw
+
+
+def pool_ring():
+    """Pool Sack: a red-and-white pool ring with a rubber duck head."""
+    def draw():
+        im, d = canvas()
+        for k in range(8):
+            d.pieslice([3, 10, 28, 28], k * 45, k * 45 + 45, fill=(220, 40, 40, 255) if k % 2 else W)
+        d.ellipse([11, 16, 20, 22], fill=(0, 0, 0, 0))
+        d.ellipse([20, 4, 28, 12], fill=(250, 210, 40, 255))
+        d.polygon([(27, 7), (31, 8), (27, 10)], fill=(240, 120, 30, 255))
+        d.point([(25, 7)], fill=K)
+        return outlined(im)
+    return draw
+
+
+def designer_bag():
+    """Drip Sack: a brown monogram designer handbag with a gold clasp."""
+    def draw():
+        im, d = canvas()
+        d.arc([10, 4, 22, 16], 180, 360, fill=(100, 64, 30, 255), width=2)
+        d.polygon([(7, 11), (25, 11), (28, 27), (4, 27)], fill=(150, 100, 50, 255))
+        for x, y in ((9, 16), (15, 20), (21, 16), (12, 24), (19, 24), (24, 22)):
+            d.point([(x, y), (x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)], fill=(220, 180, 110, 255))
+        d.rectangle([7, 11, 25, 14], fill=(100, 64, 30, 255))
+        d.rectangle([14, 13, 18, 17], fill=GOLD)
+        return outlined(im)
+    return draw
+
+
+def clutch(base, material):
+    """Kurt's custom bags (apricorn balls): a clutch with a fold-over flap and gold clasp, in its material."""
+    r, g, b = base
+    body, dark = (r, g, b, 255), (int(r * .7), int(g * .7), int(b * .7), 255)
+    light = (min(255, int(r * 1.2) + 30), min(255, int(g * 1.2) + 30), min(255, int(b * 1.2) + 30), 255)
+
+    def draw():
+        im, d = canvas()
+        d.rounded_rectangle([4, 10, 27, 26], 3, fill=body)
+        if material == "nylon":
+            d.line([(6, 10), (6, 26)], fill=W, width=2)
+            d.line([(25, 10), (25, 26)], fill=W, width=2)
+        elif material in ("gator", "croc"):
+            for y in range(12, 26, 3):
+                for x in range(5 + (y // 3) % 2, 27, 3):
+                    d.point((x, y), fill=dark if material == "gator" else light)
+        elif material == "denim":
+            for x in range(5, 27, 2):
+                d.point([(x, 24)], fill=(240, 150, 40, 255))
+        elif material == "velvet":
+            d.ellipse([6, 14, 14, 24], fill=light)
+            d.ellipse([7, 15, 15, 25], fill=body)
+        elif material == "suede":
+            d.point([(8, 20), (9, 20), (20, 22), (21, 22), (17, 17)], fill=dark)
+        elif material == "satin":
+            d.polygon([(7, 26), (10, 26), (17, 10), (14, 10)], fill=W)
+        d.polygon([(4, 10), (27, 10), (16, 19)], fill=dark)
+        d.ellipse([14, 16, 18, 20], fill=GOLD, outline=K)
+        return outlined(im)
+    return draw
+
+
+def duffel_bag():
+    """Duffel Bag: black gym duffel, red stripe, handles, zipper."""
+    def draw():
+        im, d = canvas()
+        d.arc([10, 5, 22, 17], 180, 360, fill=(90, 90, 105, 255), width=2)
+        d.rounded_rectangle([3, 11, 28, 27], 6, fill=(40, 40, 48, 255))
+        d.rectangle([3, 18, 28, 20], fill=(210, 40, 40, 255))
+        d.line([(7, 13), (24, 13)], fill=(220, 220, 230, 255))
+        d.rectangle([22, 12, 24, 15], fill=(220, 220, 230, 255))
+        d.ellipse([3, 13, 7, 25], fill=(80, 80, 96, 255))
+        return outlined(im)
+    return draw
+
+
+def rug_roll():
+    """Rug Roll: a rolled-up red Persian rug, spiral end, gold bands, tassels."""
+    def draw():
+        im, d = canvas()
+        d.rounded_rectangle([6, 11, 29, 23], 6, fill=(170, 30, 40, 255))
+        for x in (13, 19, 25):
+            d.line([(x, 12), (x, 22)], fill=(230, 180, 60, 255), width=2)
+        d.ellipse([2, 11, 14, 23], fill=(240, 225, 190, 255))
+        d.arc([4, 13, 12, 21], 0, 300, fill=(110, 20, 28, 255))
+        d.arc([6, 15, 10, 19], 0, 300, fill=(110, 20, 28, 255))
+        d.line([(28, 12), (31, 13)], fill=(240, 225, 190, 255))
+        d.line([(28, 21), (31, 22)], fill=(240, 225, 190, 255))
+        return outlined(im)
+    return draw
+
+
+def whole_gang():
+    """Whole Gang: three hoods, glowing eyes, gold chains - the whole squad."""
+    def draw():
+        im, d = canvas()
+        for k, (cx, cy) in enumerate(((7, 13), (25, 13), (16, 9))):
+            hood = ((60, 50, 90, 255), (60, 50, 90, 255), (34, 28, 48, 255))[k]
+            d.rounded_rectangle([cx - 6, cy + 7, cx + 6, cy + 19], 3, fill=hood, outline=K)
+            d.ellipse([cx - 6, cy - 4, cx + 6, cy + 8], fill=hood, outline=K)
+            d.arc([cx - 6, cy - 4, cx + 6, cy + 8], 190, 350, fill=(170, 130, 250, 255))
+            d.rectangle([cx - 3, cy + 1, cx - 2, cy + 2], fill=W)
+            d.rectangle([cx + 2, cy + 1, cx + 3, cy + 2], fill=W)
+            d.arc([cx - 4, cy + 7, cx + 4, cy + 14], 20, 160, fill=GOLD, width=2)
+        return outlined(im)
+    return draw
+
+
 def dots(c):
     return lambda im, d: [d.point(p, fill=c) for p in ((9, 10), (14, 7), (20, 9), (23, 12), (11, 13), (17, 11))]
 
@@ -427,22 +626,31 @@ def bike():
 
 # original item name -> (design, accent hue for a shared picture: None = the design's own colours)
 DESIGNS = {
-    "Master Ball": (ball((235, 185, 40, 255), (30, 30, 30, 255), lambda im, d: text(d, 12, 6, "OG", (40, 20, 0, 255))), None),
-    "Ultra Ball": (ball((30, 30, 34, 255), deco=lambda im, d: text(d, 14, 6, "$", GOLD)), None),
-    "Great Ball": (ball((40, 90, 210, 255), deco=dots(W)), None),
-    "Poké Ball": (ball((215, 30, 40, 255), deco=lambda im, d: d.arc([6, 3, 25, 18], 200, 340, fill=GOLD, width=2)), None),
-    "Safari Ball": (ball((90, 130, 60, 255), deco=dots((50, 80, 30, 255))), None),
-    "Net Ball": (ball((40, 170, 180, 255), deco=lambda im, d: [d.line([(x, 5), (x + 6, 14)], fill=K) for x in (7, 13, 19)]), None),
-    "Dive Ball": (ball((60, 130, 240, 255), deco=lambda im, d: [d.arc([x, 7, x + 6, 12], 0, 180, fill=W) for x in (7, 13, 19)]), None),
-    "Nest Ball": (ball((110, 180, 60, 255), deco=lambda im, d: d.polygon([(12, 12), (16, 6), (20, 12)], fill=(200, 120, 60, 255))), None),
-    "Repeat Ball": (ball((240, 130, 30, 255), deco=lambda im, d: text(d, 14, 6, "R", (250, 230, 80, 255))), None),
-    "Timer Ball": (ball((220, 60, 50, 255), deco=lambda im, d: (d.line([(16, 7), (16, 11)], fill=W), d.line([(16, 11), (19, 11)], fill=W))), None),
-    "Luxury Ball": (ball((25, 25, 28, 255), deco=lambda im, d: [d.line([(x, 8), (x, 12 + x % 3)], fill=GOLD, width=2) for x in (9, 14, 19, 23)]), None),
-    "Premier Ball": (ball((250, 250, 250, 255), deco=lambda im, d: d.polygon([(16, 5), (17, 9), (21, 9), (18, 11), (19, 14), (16, 12), (13, 14), (14, 11), (11, 9), (15, 9)], fill=(220, 40, 40, 255))), None),
-    "Dusk Ball": (ball((30, 35, 80, 255), deco=lambda im, d: (d.ellipse([12, 6, 19, 13], fill=(250, 240, 160, 255)), d.ellipse([14, 5, 21, 12], fill=(30, 35, 80, 255)))), None),
-    "Heal Ball": (ball((150, 75, 20, 255), deco=lambda im, d: text(d, 14, 6, "H", GOLD_L)), None),
-    "Quick Ball": (ball((250, 210, 40, 255), deco=lambda im, d: d.polygon([(17, 4), (12, 11), (16, 10), (14, 14), (20, 8), (16, 9)], fill=(40, 90, 220, 255))), None),
-    "Cherish Ball": (ball((200, 20, 40, 255), deco=lambda im, d: (d.ellipse([12, 6, 16, 10], fill=W), d.ellipse([16, 6, 20, 10], fill=W), d.polygon([(12, 8), (20, 8), (16, 13)], fill=W))), None),
+    "Master Ball": (whole_gang(), None),
+    "Ultra Ball": (rug_roll(), None),
+    "Great Ball": (duffel_bag(), None),
+    "Poké Ball": (sack(), None),
+    "Safari Ball": (sack((110, 150, 70), mark("camo")), None),
+    "Net Ball": (sack((60, 170, 180), mark("net")), None),
+    "Dive Ball": (pool_ring(), None),
+    "Nest Ball": (sack((120, 180, 70), mark("house")), None),
+    "Repeat Ball": (sack((240, 140, 40), mark("x2")), None),
+    "Timer Ball": (sack((220, 70, 60), mark("clock")), None),
+    "Luxury Ball": (designer_bag(), None),
+    "Premier Ball": (sack((235, 235, 235), mark("star")), None),
+    "Dusk Ball": (sack((40, 70, 60), mark("moon")), None),
+    "Heal Ball": (sack((240, 130, 180), mark("plus")), None),
+    "Quick Ball": (sack((60, 100, 210), mark("bolt")), None),
+    "Fast Ball": (clutch((40, 70, 180), "nylon"), None),
+    "Level Ball": (clutch((90, 110, 50), "gator"), None),
+    "Lure Ball": (clutch((40, 80, 60), "croc"), None),
+    "Heavy Ball": (clutch((60, 90, 150), "denim"), None),
+    "Love Ball": (clutch((130, 20, 70), "velvet"), None),
+    "Friend Ball": (clutch((170, 120, 70), "suede"), None),
+    "Moon Ball": (clutch((190, 190, 220), "satin"), None),
+    "Sport Ball": (sack((240, 140, 40), mark("jersey")), None),
+    "Park Ball": (sack((240, 200, 60), mark("tree")), None),
+    "Cherish Ball": (sack((200, 40, 50), mark("crown")), None),
     "Antidote": (bottle((240, 150, 190, 255), (240, 240, 240, 255), (250, 250, 250, 255)), None),
     "Full Heal": (soup, None),
     "Revive": (vial, None),

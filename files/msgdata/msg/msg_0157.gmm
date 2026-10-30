@@ -86,19 +86,19 @@
 	</row>
 	<row id="msg_0157_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules</language>
+		<language name="English">Sack Patches</language>
 	</row>
 	<row id="msg_0157_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules (full)</language>
+		<language name="English">Sack Patches (full)</language>
 	</row>
 	<row id="msg_0157_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules (fewer)</language>
+		<language name="English">Sack Patches (fewer)</language>
 	</row>
 	<row id="msg_0157_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules (none)</language>
+		<language name="English">Sack Patches (none)</language>
 	</row>
 	<row id="msg_0157_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -170,7 +170,7 @@
 	</row>
 	<row id="msg_0157_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Out of the screen</language>
+		<language name="English">Outta the screen</language>
 	</row>
 	<row id="msg_0157_00043" index="43">
 		<attribute name="window_context_name">used</attribute>

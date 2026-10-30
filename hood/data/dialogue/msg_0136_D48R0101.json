@@ -3,13 +3,13 @@
   "0": "You KNOW?\\nThey buildin' a Safari Zone RIGHT around\\fthe corner!\\rIt's gon' be SO fun!\\nYou gon' see MAD homies, and it's all you\\fcan catch! LIKE A BUFFET!\\rAin't no reason not to go, RIGHT?!\\nI'm SO HYPE! I ain't slept in DAYS!\\rFINISH THE CONSTRUCTION ALREADY!",
   "1": "You KNOW? There's a Safari Zone RIGHT\\naround the corner!\\rIt's SO fun! MAD homies, all you can\\ncatch! LIKE A BUFFET!\\rAin't no reason not to go, RIGHT?!\\nRight around the corner!\\rIt won't take long. Why don't you\\nstop by? Huh? HUH? {YESNO 0}",
   "2": "AIGHT! It's RIGHT over there!\\rUp the stairs and outside.\\nThen a few steps! You'll LOVE it!",
-  "3": "It's SUCH a good deal, you know?\\nI get commission. Not that that matters.",
+  "3": "It's SUCH a good deal, you know?\\nI get commission. Not that that\\fmatters. It's 2%. It matters.",
   "4": "See?! The Safari Zone was FUN?\\nDon't say nothin'!\\fYour face say it ALL!",
-  "5": "What?\\nYou wanna go to the Safari Zone too?\\rIt's still under construction.\\nCome back later.",
-  "6": "I appreciate everybody bein' hype for it.\\nBut the lady at the desk a lil TOO\\fdramatic... She been yellin' for a month.",
+  "5": "What?\\nYou wanna go to the Safari Zone too?\\rIt's still under construction.\\nBaoba said two weeks. Eight months ago.",
+  "6": "I appreciate everybody bein' hype for\\nit. But the lady at the desk a lil TOO\\fdramatic... She been yellin' for a\\fmonth. I bought earplugs. She louder.",
   "7": "Chuck: Ayo, {STRVAR_1 3, 0, 0}!\\nGood to see you again! But I never\\fthought I'd see you out here.\\rCould it be...you on the way\\nto the Embedded Tower?\\rThe Embedded Tower is a huge tower\\npiercin' the sky.\\rThey say it got somethin' to do with\\nthe mythical homie that stretched\\fthe seas and the homie that widened\\fthe land.\\rBut the tower ain't standin' no more.\\r",
-  "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Wall Climb\\nAND Hydrant Wave.\\r",
+  "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Wall Climb\\nAND Ride Da Wave.\\r",
   "9": "Chuck: I see! So you beat all\\nthe Block Bosses in Kanto too!\\rThen ain't nothin' to worry about.\\nBelieve in yourself and keep walkin'.\\rYahaha!\\r",
-  "10": "Everything Is Thrillin'!\\nExplore to Find Wild Homies!\\rWarden Baoba's Safari Zone\\nComin' Soon!",
-  "11": "Everything Is Thrillin'!\\nExplore to Find Wild Homies!\\rWarden Baoba's Safari Zone\\nUp and Runnin'!"
+  "10": "Everything Is Thrillin'!\\nExplore to Find Wild Homies!\\rWarden Baoba's Safari Zone\\nComin' Soon! (Probably!)",
+  "11": "Everything Is Thrillin'!\\nExplore to Find Wild Homies!\\rWarden Baoba's Safari Zone\\nUp and Runnin'! (Mostly!)"
 }

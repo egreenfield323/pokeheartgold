@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0686_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’d love to do some more scrap\nprep and review with you...\rThat’s it!\nHow ’bout swappin’ numbers\fwith me? {YESNO 0}</language>
+		<language name="English">I’d love to do some more scrap prep and\nreview with you...\rThat’s it! Swap numbers with me?\fThere WILL be homework. {YESNO 0}</language>
 	</row>
 	<row id="msg_0686_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight, I’m lookin’ forward to talkin’\nagain. I’ll definitely give you a\fcall if anythin’ come up!</language>
+		<language name="English">Aight, I’m lookin’ forward to talkin’\nagain. I’ll call if anythin’ come up!\fPop quizzes count.</language>
 	</row>
 	<row id="msg_0686_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you should listen when Teachers\nis talkin’ to you!</language>
+		<language name="English">Ayo, you should listen when Teachers is\ntalkin’ to you!\fDetention.</language>
 	</row>
 	<row id="msg_0686_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,23 +22,23 @@
 	</row>
 	<row id="msg_0686_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’m pretty sure I just\nsaw you...\rIf you right nearby, don’t talk\nover the phone. Talk\fto me in person.</language>
+		<language name="English">You know, I’m pretty sure I just saw\nyou...\rIf you right nearby, don’t talk over\nthe phone. Talk to me in person.\fNo phones in class.</language>
 	</row>
 	<row id="msg_0686_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rYou got ANOTHER zero on a test!\nYou don’t pay attention to NOTHIN’\fI say in class, do you?\fYou deadass think you can beat a\fBlock Boss with that kinda...\rHuh?\rYou ain’t Travis...\rOh my goodness! My bad!</language>
+		<language name="English">AYO!\rYou got ANOTHER zero on a test!\nYou don’t pay attention to NOTHIN’ I\fsay, do you? You think you can beat a\fBlock Boss with that kinda...\rHuh?\rYou ain’t Travis...\rOh my goodness! My bad!\nTell Travis to call me. He’s in TROUBLE.</language>
 	</row>
 	<row id="msg_0686_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I usually run {STRVAR_1 0, 10, 0}.\rDon’t you love scrappin’ with your\nfave homie?\rBut it get kinda lonely just\nusin’ the same homie over and over.\rSometimes I like to walk with\nhomies I just caught.\rThat can be mad fun too, you know?</language>
+		<language name="English">I usually run {STRVAR_1 0, 10, 0}.\rDon’t you love scrappin’ with your fave\nhomie?\rBut it get lonely usin’ the same homie.\rSometimes I walk with homies I just\ncaught. Mad fun!\fI grade them too. On a curve.</language>
 	</row>
 	<row id="msg_0686_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other day, I was scrappin’\n{STRVAR_1 0, 11, 0} on Route 15. People\fstopped to watch, and soon there was\fthis HUGE crowd!\fI got SO nervous...\rYou know, I’m used to talkin’ in front\nof a class of kids...\fbut scraps is somethin’ else.\rI just can’t get comfy scrappin’ in\nfront of a crowd!</language>
+		<language name="English">The other day I was scrappin’ {STRVAR_1 0, 11, 0}\non Route 15 and a HUGE crowd stopped\fto\fwatch!\fI got SO nervous...\rI’m used to talkin’ in front of a class\nof kids... but scraps is different!\fNobody’s sleepin’ in the back.</language>
 	</row>
 	<row id="msg_0686_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...\nThis stay between us, right?\rThe other day, I was tryna catch a\n{STRVAR_1 0, 11, 0}.\rI messed up and threw out the\nwrong Hood Ball, and the\fhomie dipped.\rGood thing none of my students\nwas watchin’. But still, I was mad\fembarrassed.</language>
+		<language name="English">You know...\nThis stay between us, right?\rI was tryna catch a {STRVAR_1 0, 11, 0}.\rI threw the WRONG Nap Sack and the\nhomie dipped.\rGood thing none of my students saw.\nThey’d NEVER lemme live it down.</language>
 	</row>
 	<row id="msg_0686_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,6 +50,6 @@
 	</row>
 	<row id="msg_0686_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right... If you ask me which is\ncuter, my students or homies,\fI’mma have a hard time makin’\fthat call.\rCome to think of it, for a lotta kids,\ntheir first homie is the cutest one in\fthe world in their lil eyes.\rAnd ain’t nothin’ you can say to\nchange that.</language>
+		<language name="English">If you ask me which is cuter, my\nstudents or homies, I’mma have a hard\ftime\fmakin’ that call.\fIt’s the homies. Don’t tell ’em.\rFor a lotta kids, their first homie is\nthe cutest one in the world.\rAin’t NOTHIN’ you can say to change\nthat.</language>
 	</row>
 </body>

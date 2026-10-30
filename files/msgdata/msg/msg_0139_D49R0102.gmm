@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0139_D49R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Young Pokéathlete!\nWassup!\r...\rRunnin’ outta energy?\nWassup, again!\rGood!\nMy name Maximo!\rI’m the Pokéathlon MC!\nNice to meet you!\rI got you whenever you\nneed to know anythin’ about\fthe Pokéathlon.\r</language>
+		<language name="English">YOUNG POKÉATHLETE!\nWASSUP!\r...\rRunnin’ outta energy?\nWASSUP, AGAIN!\rGood!\nMy name Maximo!\rI’m the Pokéathlon MC!\nAnd the best athlete here!\fAnd the best lookin’!\rI got you whenever you need to know\nanythin’ about the Pokéathlon.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maximo: Wassup!\rI got you whenever you\nneed to know anythin’ about\fthe Pokéathlon.\r</language>
+		<language name="English">Maximo: WASSUP!\rI got you whenever you need to know\nanythin’ about the Pokéathlon.\fOr about me. Mostly me.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0139_D49R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme explain the Pokéathlon!\rIt’s the connection between homies\nand Pokéathletes.\rIt’s FRIENDSHIP itself!\n...What?\rYou don’t get it?\nOK. I’ll say more this time.\rYou build a team of three\nhomies to compete in ten\fdifferent events!\rThe bond between homies and\nPokéathletes get tested!\rThat’s what we call friendship!\nYou feel me?\r</language>
+		<language name="English">Lemme explain the Pokéathlon!\rIt’s the connection between homies\nand Pokéathletes.\rIt’s FRIENDSHIP itself!\n...What?\rYou don’t get it?\nOK. I’ll say it slower.\rYou build a team of three homies to\ncompete in ten events!\rThe bond between y’all gets tested!\rThat’s what we call friendship!\nYou feel me? Like I feel me?\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme explain “Hurdle Dash.”\nIt’s a event that test your speed.\rYour homie gotta jump\nwhen the Hurdle get close.\rIf it jump at the right time,\nit clear the Hurdle!\rThe total time of the three homies\ngive you the event score.\rThis a event for speedy homies\nthat move quick like me!\rYou feel me?\rAight, any more questions?\r</language>
+		<language name="English">Lemme explain “Hurdle Dash.”\nIt’s a speed event.\rYour homie gotta jump when the\nHurdle get close.\rRight timin’? It clear the Hurdle!\rTotal time of the three homies give\nyou the score.\rThis for SPEEDY homies that move\nquick like ME!\rYou feel me?\rAight, any more questions?\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0139_D49R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme explain “Block Smash.”\nYou smash Blocks, like it say.\rHow many Blocks you smash\nis the score you get.\rIt’s SO simple, ain’t it?\rThis a event for strong homies\nthat’s strong like me!\rYou feel me?\rAight, any more questions?\r</language>
+		<language name="English">Lemme explain “Block Smash.”\nYou smash Blocks. Like it say.\rHow many Blocks you smash is your\nscore.\rIt’s SO simple, ain’t it?\fEven I get it. And I’m a genius.\rThis for STRONG homies that’s strong\nlike ME!\rYou feel me?\rAight, any more questions?\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0139_D49R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemme explain “Snow Throw.”\nSnow Throw might not ring a bell...\fhow ’bout a Snowball fight?\rThe more your homies hit other\nhomies with Snow, the higher the\fscore.\rThis a event for strong and\nskilled homies... Just like me!\rYou feel me?\rAight, any more questions?\r</language>
+		<language name="English">Lemme explain “Snow Throw.”\nYou might not know Snow Throw...\fhow ’bout a SNOWBALL FIGHT?\rThe more your homies hit other homies\nwith Snow, the higher the score.\fNo rocks in the Snowballs. We check.\rThis for strong, skilled homies...\nJust like ME!\rYou feel me?\rAight, any more questions?\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -66,150 +66,150 @@
 	</row>
 	<row id="msg_0139_D49R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Young Pokéathlete!\rDon’t forget your Pokéathlon\nstretches before you work out!</language>
+		<language name="English">YOUNG POKÉATHLETE!\rDon’t forget your Pokéathlon\nstretches before you work out!\fI pulled a hamstrin’ sayin’ this.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me? You interested in me?\nHahaha!\fOh, don’t be shy.\rSome people call me “big bro”!\rBut deadass, the big bro is...\n...\f...\fmy twin brother!\rThe “big bro,” like they say, is\ndeadass the lil bro.\rSo this “big bro” got a\nbigger bro...\rYou feel me?\r</language>
+		<language name="English">Me? You interested in ME?\nHahaha!\fOh, don’t be shy. Everybody is.\rSome people call me “big bro”!\rBut deadass, the big bro is...\n...\f...\fmy TWIN brother!\rThe “big bro” is actually the lil bro.\nBy four minutes.\rSo this “big bro” got a BIGGER bro...\rYou feel me? I don’t either.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RATTATA: Ratta.</language>
+		<language name="English">RATTATA: Ratta.\n(It’s eyein’ the snack bar.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RATTATA: Grrrr.</language>
+		<language name="English">RATTATA: Grrrr.\n(It lost the Circle Push. It’s mad.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOP: Awwwrr...</language>
+		<language name="English">MACHOP: Awwwrr...\n(It’s sore from leg day.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOP: Yahhh!</language>
+		<language name="English">MACHOP: YAHHH!\n(It’s back. It’s ready.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Fluttah fluttah...</language>
+		<language name="English">BUTTERFREE: Fluttah fluttah...\n(It’s showin’ off.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Bing bing!</language>
+		<language name="English">BUTTERFREE: Bing bing!\n(It won a medal. It won’t shut up.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokéathlon all about scores.\rNobody know who finna win\ntill the hella last second!</language>
+		<language name="English">The Pokéathlon is all about scores.\rNobody know who finna win till the\nHELLA last second!\fI bet my rent on MEOWTH. Pray for me.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0} is\nalways fire!\rI can’t take my eyes off\nthat Pokéathlete!\r...\nWait... Sheesh! Is that deadass you?</language>
+		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0} is\nalways FIRE!\rI can’t take my eyes off that\nPokéathlete!\r...\nWait... SHEESH! Is that deadass YOU?\fCan I get an autograph? On my arm?</language>
 	</row>
 	<row id="msg_0139_D49R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice for the W!\rYour homies can show their\ntrue Performance potential!</language>
+		<language name="English">Aprijuice for the W!\rYour homies can show their true\nPerformance potential!\fSponsored by Aprijuice.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice for the W!\rWhat drink you use,\nPokéathlete {STRVAR_1 3, 0, 0}?\rI’mma buy what you buy!\fI’m a big fan!</language>
+		<language name="English">Aprijuice for the W!\rWhat drink you use, Pokéathlete\n{STRVAR_1 3, 0, 0}?\rI’mma buy what you buy!\fI’m a BIG fan! I’ll wear what\fyou wear! I got your haircut already!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Er... I...I’mma try to win every\ncourse with MAGIKARP!</language>
+		<language name="English">Er... I... I’mma try to win every\ncourse with MAGIKARP!\fHe can’t run. Or jump. Or push.\fBut he got heart.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0}!\rEr... How...how I win every\ncourse with MAGIKARP?</language>
+		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0}!\rEr... How... how I win every course\nwith MAGIKARP?\fPlease. I been here since March.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’mma break my personal record\nat Hurdle Dash!\rAight, which homie should\nI pick...?</language>
+		<language name="English">I’mma break my personal record at\nHurdle Dash!\rAight, which homie should I pick...?\fNot the SNORLAX. Never again.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Y-y-you Pokéathlete {STRVAR_1 3, 0, 0}!\rI got no clue how I could ever\nget where you at!\fYou ARE the Pokéathlon!</language>
+		<language name="English">Y-y-you Pokéathlete {STRVAR_1 3, 0, 0}!\rI got no clue how I could ever\nget where you at!\fYou ARE the Pokéathlon!\fCan you sign my forehead?</language>
 	</row>
 	<row id="msg_0139_D49R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh!\nThat guy over there is Magnus,\fthe Pokéathlon owner!\rI heard he beat a MACHAMP at\narm wrestlin’ once. Could it be true?</language>
+		<language name="English">SHEESH!\nThat guy over there is Magnus,\fthe Pokéathlon owner!\rI heard he beat a MACHAMP at arm\nwrestlin’ once.\fFour arms. He still won. Legend.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yikes!\nPokéathlete {STRVAR_1 3, 0, 0}!\rI’m a HUGE fan!\nOh my...what do I do?\fCan I get a autograph?</language>
+		<language name="English">YIKES!\nPokéathlete {STRVAR_1 3, 0, 0}!\rI’m a HUGE fan!\nOh my... what do I do?\fCan I get a autograph?\fOn my homie? It’s a GEODUDE.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh!</language>
+		<language name="English">ARRGH!\n(Muscle cramp.)</language>
 	</row>
 	<row id="msg_0139_D49R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh!\nPokéathlete {STRVAR_1 3, 0, 0}!\rYou make me feel young again!\fI’m rootin’ for you!</language>
+		<language name="English">ARRGH!\nPokéathlete {STRVAR_1 3, 0, 0}!\rYou make me feel young again!\fMy back don’t. But you do!\fI’m rootin’ for you!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeek!!</language>
+		<language name="English">YEEK!!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my son.\fI’m rootin’ for you.</language>
+		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my son.\fHe don’t call. You should call.\fI’m rootin’ for you.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my daughter.\fI’m rootin’ for you.</language>
+		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my daughter.\fShe don’t visit. You should visit.\fI’m rootin’ for you.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My boyfriend a Pokéathlete.\rBut he so shy about it that I root\nfor him behind a column so he\fdon’t see me!</language>
+		<language name="English">My boyfriend a Pokéathlete.\rBut he so shy that I root for him\nfrom behind a column so he\fdon’t see me!\rHe thinks I’m at work. I quit\nmy job for this.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t he look so fine drippin’\nsweat just like his homies?\rNot that he even compare to the great\nPokéathlete {STRVAR_1 3, 0, 0}, though.</language>
+		<language name="English">Don’t he look FINE drippin’ sweat\njust like his homies?\rNot that he compare to the GREAT\nPokéathlete {STRVAR_1 3, 0, 0}, though.\fDon’t tell him I said that.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do the Pokéathlon to\nrelieve stress.\fThat’s the move!</language>
+		<language name="English">Do the Pokéathlon to relieve stress.\fThat’s the move!\fThe stress of losin’ the Pokéathlon\fis a different stress.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t you EVER underestimate your mom.\nThe look on her face when she was\fhaglin’ at a sale...\rStill gimme chills!\r</language>
+		<language name="English">Don’t you EVER underestimate your\nmom.\rThe look on her face when she was\nhagglin’ at a sale...\fShe made the cashier cry.\fThen got a discount.\rStill gimme chills!\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every dad wanna be a hero to\ntheir son.\rThe Pokéathlon...\nShould I take it up?\rJust watch, Son!</language>
+		<language name="English">Every dad wanna be a hero to his son.\rThe Pokéathlon...\nShould I take it up?\rJust watch, Son! Daddy’s gon’...\fpull somethin’. Daddy pulled somethin’.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ahh... My son!\nThat hurt to hear.\rLemme hear you say you wanna be\nlike your dad...\r</language>
+		<language name="English">Ahh... My son!\nThat hurt to hear.\rTell me you wanna be like your dad...\r...Son? SON? He on his phone.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My mom FINALLY enterin’.\rI was gettin’ worried ’cause she\nnever work out.\r</language>
+		<language name="English">My mom FINALLY enterin’.\rI was gettin’ worried ’cause she\nnever work out.\fShe only enterin’ ’cause there’s\ffree snacks.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’mma grow up to be a great\nPokéathlete like you, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">I’mma grow up to be a GREAT\nPokéathlete like you, {STRVAR_1 3, 0, 0}!\fOr a rapper. Whichever pay more.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m cheerin’ for you!</language>
+		<language name="English">I’m cheerin’ for you!\nLOUDLY! WOOOO!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You Pokéathlete {STRVAR_1 3, 0, 0}?\rFor real?\nI can’t believe it!\n</language>
+		<language name="English">You Pokéathlete {STRVAR_1 3, 0, 0}?\rFOR REAL?\nI can’t believe it!\fYou shorter in person!\n</language>
 	</row>
 	<row id="msg_0139_D49R0102_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m watchin’ real close!</language>
+		<language name="English">I’m watchin’ real close!\nLike, REAL close. Don’t mind me.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You Pokéathlete {STRVAR_1 3, 0, 0}?\rTap... Tap... Tap...\rI can’t believe it! I touched my hero!</language>
+		<language name="English">You Pokéathlete {STRVAR_1 3, 0, 0}?\rTap... Tap... Tap...\rI touched my HERO!\nI’m never washin’ this finger!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I ain’t expect this many old\nladies like me to be competin’.\fMaybe I can join ’em.\rIt might be my chance to get close to\nmy hero--Pokéathlete Jet!\fHahaha!</language>
+		<language name="English">I ain’t expect this many old ladies\nlike me to be competin’.\fMaybe I can join ’em.\rIt might be my chance to get close to\nmy hero--Pokéathlete Jet!\fHahaha! He’s 22! I’m 80! Love is love!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeek!!\rPokéathlete {STRVAR_1 3, 0, 0}!\nEvery time you in the game,\fmy daughters’ eyes stay glued!\rCould I get a autograph?\f...No no!\rNot for me. It’s for my daughters.\nHa ha!</language>
+		<language name="English">YEEK!!\rPokéathlete {STRVAR_1 3, 0, 0}!\nEvery time you in the game,\fmy daughters’ eyes stay glued!\rCould I get a autograph?\f...No no!\rNot for me. It’s for my daughters.\nHa ha! ...Make it out to “Linda.”</language>
 	</row>
 </body>

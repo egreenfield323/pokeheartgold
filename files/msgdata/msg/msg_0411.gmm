@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0411_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drama and documentaries!\nThis the Variety Hour Guy!</language>
+		<language name="English">Drama and documentaries!\nThis the Variety Hour Guy! Hi!</language>
 	</row>
 	<row id="msg_0411_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Variety Channel, a treasure\nchest full of laughs and tears!</language>
+		<language name="English">The Variety Channel, a treasure\nchest full of laughs and tears!\nMostly tears!</language>
 	</row>
 	<row id="msg_0411_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

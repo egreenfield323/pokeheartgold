@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0550_T21_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This the Corner Store.\nThey sell Hood Balls for recruitin’\fhomies and... and loosies.\r</language>
+		<language name="English">This the Corner Store.\nThey sell Nap Sacks for recruitin’\fhomies and... and loosies.\r</language>
 	</row>
 	<row id="msg_0550_T21_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0550_T21_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherrygrove City\nThe City of Fragrant Corner Stores</language>
+		<language name="English">Cherrygrove City\nThe City of Corner Stores</language>
 	</row>
 	<row id="msg_0550_T21_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

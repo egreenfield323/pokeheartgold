@@ -1,14 +1,14 @@
 {
   "_comment": "Phone: Reena (sore loser).",
-  "1": "Not too shabby... You doin'\\nsomethin' right if you beat me,\\feven by some dumb fluke...\\rI fw you!\\nGimme your number!\\rYou can be my practice partner! {YESNO 0}",
-  "2": "Don't get too cocky about beatin'\\nme! It was a FLUKE!",
-  "3": "I don't believe it! You finna\\nregret this!",
+  "1": "Not too shabby... You doin' somethin'\\nright if you beat me, even by a DUMB\\fFLUKE...\\rI fw you!\\nGimme your number!\\rYou can be my practice partner! {YESNO 0}",
+  "2": "Don't get too cocky about beatin' me!\\nIt was a FLUKE! A big dumb fluke!",
+  "3": "I don't believe it! You finna REGRET\\nthis! I'll tell everybody it was a fluke!",
   "4": "Gimme your number!\\rYou finna be my practice\\npartner!{YESNO 0}",
-  "6": "What you sayin'?\\nYou REALLY like Route 27?\\rMe too, obviously!\\rI mean, I'm ALWAYS on Route 27!",
-  "7": "Listen, my guy...\\nYou remember my {STRVAR_1 0, 10, 0}?\\rYes, exactly. That lovely {STRVAR_1 0, 10, 0}.\\nWouldn't you say it's a perfect match\\ffor me?\\rFine, you can go.",
-  "8": "Have I ever faced a wild {STRVAR_1 0, 11, 0}?\\nYou gotta ask?\\rI done beat {STRVAR_1 0, 11, 0} MAD\\ntimes!\\rFine, you can go.",
-  "9": "Have I ever failed to catch a wild\\nhomie?\\rYou gotta ask?\\rI would NEVER fail to catch a wild\\n{STRVAR_1 0, 11, 0}... Oh! Never mind!",
+  "6": "What you sayin'?\\nYou REALLY like Route 27?\\rMe too, obviously!\\rI'm ALWAYS on Route 27!\\fI live here. In a tent. By choice.",
+  "7": "Listen, my guy...\\nYou remember my {STRVAR_1 0, 10, 0}?\\rYes. That LOVELY {STRVAR_1 0, 10, 0}.\\nA perfect match for me, right?\\fElegant. Powerful. Humble. Like me.\\rFine, you can go.",
+  "8": "Have I ever faced a wild {STRVAR_1 0, 11, 0}?\\nYou gotta ASK?\\rI done beat {STRVAR_1 0, 11, 0} MAD times!\\fAll legit. No flukes. Unlike yours.\\rFine, you can go.",
+  "9": "Have I ever failed to catch a wild homie?\\rYou gotta ask?\\rI would NEVER fail to catch a wild\\n{STRVAR_1 0, 11, 0}... Oh! Never mind!\\fThat one was a fluke too.",
   "10": "We finna scrap!\\rThe spot gon' be {STRVAR_1 4, 3, 0}!\\nDon't keep me waitin'! Got it?",
   "11": "What you doin'?\\rI TOLD you the spot was\\f{STRVAR_1 4, 3, 0}! Don't you dare dip!",
-  "12": "Don't be too proud just 'cause you\\nhappened to beat me...\\fIt was a FLUKE!"
+  "12": "Don't be too proud just 'cause you\\nhappened to beat me...\\fIt was a FLUKE!\\fEvery time. All 14 times. Flukes."
 }

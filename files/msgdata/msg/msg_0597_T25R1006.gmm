@@ -75,31 +75,31 @@
 	</row>
 	<row id="msg_0597_T25R1006_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunday’s prizes:\rNo. 1, TM02!\nNo. 2, Drip Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Sunday’s prizes:\rNo. 1, TM02!\nNo. 2, Drip Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monday’s prizes:\rNo. 1, TM65!\nNo. 2, Crib Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Monday’s prizes:\rNo. 1, TM65!\nNo. 2, Crib Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuesday’s prizes:\rNo. 1, TM91!\nNo. 2, Re-Up Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Tuesday’s prizes:\rNo. 1, TM91!\nNo. 2, Re-Up Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wednesday’s prizes:\rNo. 1, TM57!\nNo. 2, Trap Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Wednesday’s prizes:\rNo. 1, TM57!\nNo. 2, Trap Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thursday’s prizes:\rNo. 1, TM60!\nNo. 2, Dash Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Thursday’s prizes:\rNo. 1, TM60!\nNo. 2, Dash Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friday’s prizes:\rNo. 1, TM42!\nNo. 2, Night Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Friday’s prizes:\rNo. 1, TM42!\nNo. 2, Night Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saturday’s prizes:\rNo. 1, TM62!\nNo. 2, Late Ball!\fOr No. 3, a Berry!</language>
+		<language name="English">Saturday’s prizes:\rNo. 1, TM62!\nNo. 2, Late Sack!\fOr No. 3, a Berry!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00025" index="25">
 		<attribute name="window_context_name">used</attribute>

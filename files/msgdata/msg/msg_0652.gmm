@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0652_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you. The connection\ntrash. That’s the correct usage, yes?\rCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0652_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? What’s good?\nI’m doin’ GREAT!\r</language>
+		<language name="English">WASSUP? WHAT’S GOOD?\nI’m doin’ GREAT! I’m “lit,” as the\fyoung people say!\r</language>
 	</row>
 	<row id="msg_0652_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ain’t there other Hustlers you’d\nrather scrap than me?</language>
+		<language name="English">Ain’t there other Hustlers you’d\nrather scrap than me?\fI ain’t salty. I’m “seasoned.”</language>
 	</row>
 	<row id="msg_0652_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My free time?\nI’m usually free Friday mornings.\fTry callin’ me then!</language>
+		<language name="English">My free time?\nI’m usually free Friday mornin’s.\fOh-six-hundred hours. Try callin’ then!</language>
 	</row>
 	<row id="msg_0652_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you!\rScrap me again!\nWhat you say? {YESNO 0}</language>
+		<language name="English">AYO, YOU!\rScrap me again!\nWhat you say? No cap? {YESNO 0}</language>
 	</row>
 	<row id="msg_0652_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\rI’ll be waitin’ at the Saffron Dojo.\nDon’t be late, soldier!</language>
+		<language name="English">AIGHT!\rI’ll be waitin’ at the Saffron Dojo.\nDon’t be late, soldier!\fThat’s on foenem! ...Did I use that\fright?</language>
 	</row>
 	<row id="msg_0652_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nYou must be pretty busy.</language>
+		<language name="English">I see...\nYou must be pretty busy.\fAt ease, soldier.</language>
 	</row>
 	<row id="msg_0652_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nWell, I appreciate you wanna\fscrap me again, but didn’t you promise\fsomebody else?</language>
+		<language name="English">Hmm...\nI appreciate you wanna scrap me again,\fbut didn’t you promise somebody else?\fA soldier keeps their word. Fr fr.</language>
 	</row>
 	<row id="msg_0652_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waitin’ at the Saffron Dojo.\fDon’t forget! C’mon!</language>
+		<language name="English">I’ll be waitin’ at the Saffron Dojo.\fDon’t forget! Move out!</language>
 	</row>
 	<row id="msg_0652_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! This Lt. Surge.\nHow you livin’?\r</language>
+		<language name="English">YO! This Lt. Surge.\nHow you livin’? I’m livin’ “bussin’.”\r</language>
 	</row>
 	<row id="msg_0652_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, you forget I’m standin’\nin the Saffron Dojo\fwaitin’ on you?\rGuess I got here first.\nI’ll be waitin’!</language>
+		<language name="English">Ayo, you forget I’m standin’ in the\nSaffron Dojo waitin’ on you?\rGuess I got here first.\nI’ll be waitin’! At attention!</language>
 	</row>
 	<row id="msg_0652_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, why you think I put all them\ntraps in the Vermilion Block?\rThat’s right!\nTo test the brains of any\fHustler who come in to scrap!\rScraps ain’t just about\npower or stamina.\rIf you balance power and\nbrains, then you got the\fmakings of a great Hustler!</language>
+		<language name="English">So, why you think I put all them traps\nin the Vermilion Block?\rThat’s right!\nTo test the brains of any Hustler who\fcome in to scrap!\rScraps ain’t just power or stamina.\rBalance power and brains, and you got\nthe makings of a great Hustler!\fAnd trash cans. I like trash cans.</language>
 	</row>
 	<row id="msg_0652_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was fightin’ for my country,\nI raised a lotta Hustlers, showed\f’em the ropes.\rBut!\rBy the time you met me, you already\nhad your skills on lock!\rWhere you train? Who taught you how\nto scrap?\rIt’s so weird and amazin’!</language>
+		<language name="English">When I was fightin’ for my country,\nI trained a LOT of Hustlers.\rBut!\rBy the time you met me, you already\nhad your skills on lock!\rWhere you train? Who taught you?\fIt’s so weird and amazin’!\fYou a “GOAT,” as they say.</language>
 	</row>
 	<row id="msg_0652_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I been studyin’ how people talk\naround here since I became Block Boss\fin Vermilion.\rBut there’s still so much slang\nI don’t understand.\rAyo, will you talk with me some more?\nWe could teach each other some\fnew things to say! No cap!</language>
+		<language name="English">I been studyin’ how people talk around\nhere since I became Block Boss.\rBut there’s still so much slang I\ndon’t understand.\fWhat is a “rizz”? Is it a weapon?\rWill you talk with me some more?\nWe could teach each other!\fNo cap! ...Hat? No hat.</language>
 	</row>
 </body>

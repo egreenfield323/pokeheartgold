@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Erin.",
-  "1": "It REALLY made me mad to lose.\\nI gotta train way harder...\\rHere's my number. I'm Erin--don't\\nforget! Wanna scrap me again? {YESNO 0}",
-  "2": "I'll hit you when I wanna\\nscrap again!",
-  "3": "Oh... I'm sad... If you do wanna\\nscrap, come see Erin--that's me!",
-  "4": "I wanna scrap you again.\\nYou wanna swap numbers? {YESNO 0}",
-  "5": "Aww... I lost AGAIN!\\nI wonder how many times that is...\\rGood looks for comin'!\\nHere's a present!\\r",
-  "6": "Wassup? Wait, you deadass\\ncallin' me from that close?\\fYou scared of me or somethin'?\\fWhy not talk face-to-face?",
-  "7": "Erin's {STRVAR_1 0, 10, 0} WAY stronger\\nthan before! I should know--I'm Erin!\\rSee you. Bye-bye!",
-  "8": "And, and...\\rWe just scrapped and beat a\\n{STRVAR_1 0, 11, 0}!\\rI raised my homies RIGHT!\\rSee you. Bye-bye!",
-  "9": "But, but...\\rA wild {STRVAR_1 0, 11, 0} got away from me\\nAGAIN. It just ain't fair!\\rSee you. Bye-bye!",
-  "10": "I'm Erin. Wanna scrap me again?\\nI'll be waitin' on {STRVAR_1 4, 3, 0}!",
-  "11": "Oh, {STRVAR_1 3, 0, 0}! Come scrap Erin!\\nI'll be waitin' on {STRVAR_1 4, 3, 0}!",
-  "12": "I'm grindin' raisin' my homies!\\nCome back for another scrap!"
+  "1": "It REALLY made Erin mad to lose.\\nErin gotta train harder...\\rHere's Erin's number. Erin's Erin--\\ndon't forget! Scrap Erin again? {YESNO 0}",
+  "2": "Erin will hit you when Erin wanna\\nscrap again!",
+  "3": "Oh... Erin is sad... If you wanna scrap,\\ncome see Erin--that's me! Erin!",
+  "4": "Erin wanna scrap you again.\\nYou wanna swap numbers with Erin? {YESNO 0}",
+  "5": "Aww... Erin lost AGAIN!\\nErin wonder how many times that is...\\rGood looks for comin'!\\nHere's a present from Erin!\\r",
+  "6": "Wassup? Wait, you callin' Erin from\\nthat close?\\fYou scared of Erin or somethin'?\\fErin's harmless. Mostly.",
+  "7": "Erin's {STRVAR_1 0, 10, 0} WAY stronger than\\nbefore! Erin should know--Erin's Erin!\\rSee you. Bye-bye! -Erin",
+  "8": "And, and...\\rErin just beat a {STRVAR_1 0, 11, 0}!\\rErin raised Erin's homies RIGHT!\\rSee you. Bye-bye! -Erin",
+  "9": "But, but...\\rA wild {STRVAR_1 0, 11, 0} got away from Erin\\nAGAIN. It just ain't fair to Erin!\\rSee you. Bye-bye! -Erin",
+  "10": "It's Erin. Wanna scrap Erin again?\\nErin'll be waitin' on {STRVAR_1 4, 3, 0}!",
+  "11": "Oh, {STRVAR_1 3, 0, 0}! Come scrap Erin!\\nErin'll be waitin' on {STRVAR_1 4, 3, 0}!",
+  "12": "Erin's grindin', raisin' Erin's homies!\\nCome back for another scrap with Erin!"
 }

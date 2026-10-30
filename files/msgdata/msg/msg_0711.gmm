@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0711_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s so sad. I might just end up\nlockin’ myself away on the mountain...</language>
+		<language name="English">That’s so sad. I might just end up\nlockin’ myself away on the mountain...\fThat’s my plan anyway. But sadder now.</language>
 	</row>
 	<row id="msg_0711_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0711_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You right nearby, and you still gon’\ncall me on the phone?\rAm I that “dazzlin’” that you gotta\nkeep your distance?</language>
+		<language name="English">You right nearby, and you still gon’\ncall me on the phone?\rAm I that “dazzlin’” that you gotta\nkeep your distance?\fI’m. I know I’m.</language>
 	</row>
 	<row id="msg_0711_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other day, I was watchin’ my\n{STRVAR_1 0, 10, 0} eat some Berries.\fIt looked like it was lovin’ it,\fso I tried some.\rI ain’t sure if people should eat that\nstuff, but it was BUSSIN’!\rAight then!\nBe good!</language>
+		<language name="English">The other day, I watched my {STRVAR_1 0, 10, 0}\neat some Berries.\fIt was lovin’ it, so I tried some.\rI ain’t sure if people should eat that\nstuff, but it was BUSSIN’!\fI was sick for two days. Worth it.\rAight then! Be good!</language>
 	</row>
 	<row id="msg_0711_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0711_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, I was scrappin’ this\n{STRVAR_1 0, 11, 0} the other day...\fIt dipped when I got distracted by a\fBeauty walkin’ by.\rLearn from my mistake--always stay\nlocked in on the job!\rAight then!\nBe good!</language>
+		<language name="English">I was scrappin’ this {STRVAR_1 0, 11, 0} the other\nday...\fIt dipped when I got distracted by a\fBeauty walkin’ by.\rLearn from my mistake--always stay\nlocked in!\fShe didn’t even look at me.\rAight then! Be good!</language>
 	</row>
 	<row id="msg_0711_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0711_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why I like mountains so much...\rIt ain’t wrong to say I also like\nthe homies that live on mountains.\rBut I bet the number one reason is\nI just like mountains.\rI got NO idea what a Swimmer♂’s\nthinkin’...</language>
+		<language name="English">Why I like mountains so much...\rIt ain’t wrong to say I like the homies\nthat live on mountains.\rBut the number one reason is I just\nlike mountains.\rI got NO idea what a Swimmer♂’s\nthinkin’... Water is just flat ground\fyou can’t stand on.</language>
 	</row>
 </body>

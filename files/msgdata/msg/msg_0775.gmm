@@ -20,7 +20,7 @@
 	</row>
 	<row id="msg_0775_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you seeking or offering a Pokémon?</language>
+		<language name="English">Are you seekin’ or offerin’ a Pokémon?</language>
 	</row>
 	<row id="msg_0775_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -36,7 +36,7 @@
 	</row>
 	<row id="msg_0775_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Pokémon are you seeking?</language>
+		<language name="English">What kinda Pokémon are you seekin’?</language>
 	</row>
 	<row id="msg_0775_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -64,7 +64,7 @@
 	</row>
 	<row id="msg_0775_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop searching?</language>
+		<language name="English">Stop searchin’?</language>
 	</row>
 	<row id="msg_0775_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -72,7 +72,7 @@
 	</row>
 	<row id="msg_0775_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the Pokémon you are trading.</language>
+		<language name="English">Choose the Pokémon you tradin’.</language>
 	</row>
 	<row id="msg_0775_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0775_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the Pokémon you want to offer.</language>
+		<language name="English">Choose the Pokémon you wanna offer.</language>
 	</row>
 	<row id="msg_0775_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0775_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will be detached.\nIs that OK?</language>
+		<language name="English">The Sack Patch will be detached.\nIs that OK?</language>
 	</row>
 	<row id="msg_0775_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0775_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your party is full.\rYou can’t receive a Pokémon that\nis holding Mail.\r</language>
+		<language name="English">Your party is full.\rYou can’t receive a Pokémon that\nis holdin’ Mail.\r</language>
 	</row>
 	<row id="msg_0775_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -649,7 +649,7 @@
 	</row>
 	<row id="msg_0775_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDo not turn off the power.</language>
+		<language name="English">Saving...\nDon’t turn off the power.</language>
 	</row>
 	<row id="msg_0775_00149" index="149">
 		<attribute name="window_context_name">garbage</attribute>
@@ -658,11 +658,11 @@
 	</row>
 	<row id="msg_0775_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The GTS is currently\nundergoing maintenance.\rPlease try again later.\r</language>
+		<language name="English">The GTS is currently\nundergoin’ maintenance.\rPlease try again later.\r</language>
 	</row>
 	<row id="msg_0775_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The GTS is very crowded now.\nPlease try again later.\r</language>
+		<language name="English">The GTS is hella crowded now.\nPlease try again later.\r</language>
 	</row>
 	<row id="msg_0775_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
@@ -770,15 +770,15 @@
 	</row>
 	<row id="msg_0775_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon cannot be traded in this\nForme!\r</language>
+		<language name="English">This Pokémon can’t be traded in this\nForme!\r</language>
 	</row>
 	<row id="msg_0775_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spiky-eared PICHU cannot be offered\nin trade. \r</language>
+		<language name="English">Spiky-eared PICHU can’t be offered\nin trade. \r</language>
 	</row>
 	<row id="msg_0775_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon cannot be traded while\nholding that item!\r</language>
+		<language name="English">This Pokémon can’t be traded while\nholdin’ that item!\r</language>
 	</row>
 	<row id="msg_0775_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
@@ -786,7 +786,7 @@
 	</row>
 	<row id="msg_0775_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an error while attempting to\nsend an authentication Wii message.\r</language>
+		<language name="English">There was an error while attemptin’ to\nsend an authentication Wii message.\r</language>
 	</row>
 	<row id="msg_0775_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -798,7 +798,7 @@
 	</row>
 	<row id="msg_0775_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The server is undergoing maintenance.\nPlease connect again later.\r</language>
+		<language name="English">The server is undergoin’ maintenance.\nPlease connect again later.\r</language>
 	</row>
 	<row id="msg_0775_00185" index="185">
 		<attribute name="window_context_name">used</attribute>

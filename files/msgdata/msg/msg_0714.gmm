@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0714_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yup, I can REALLY hear you!\nThis area open to the sky, so you\fget a great signal here!</language>
+		<language name="English">Yup, I can REALLY hear you!\nThis area open to the sky, so you get\fa GREAT signal here!\fFive bars. I counted. I count stuff.</language>
 	</row>
 	<row id="msg_0714_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -42,6 +42,6 @@
 	</row>
 	<row id="msg_0714_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it’s for Bug-type homies, I’ll go\nANYWHERE!\rWell, I say that, but I’m always on\nRoute 35.\rBut there’s a pond near here, and\nthere’s mad grass, and best of all,\fit’s 28 steps to the National Park.\fThis spot is FIRE!</language>
+		<language name="English">If it’s for Bug-type homies, I’ll go\nANYWHERE!\rWell, I say that, but I’m always on\nRoute 35.\rThere’s a pond, MAD grass, and best of\nall, it’s 28 steps to the National Park.\fI counted. Every day. It’s still 28.\fThis spot is FIRE!</language>
 	</row>
 </body>

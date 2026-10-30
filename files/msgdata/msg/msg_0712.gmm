@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0712_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Young people don’t fish no more?\rI can teach you how to fish good, if\nyou wanna swap\fnumbers with me? {YESNO 0}</language>
+		<language name="English">Young people don’t fish no more?\rI can teach you how to fish good, if\nyou swap numbers with me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0712_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s great!\nI’m happy I made a\fyounger homie!</language>
+		<language name="English">That’s GREAT!\nI’m happy I made a younger homie!\fSince my kids won’t call. At all.</language>
 	</row>
 	<row id="msg_0712_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh...\rMy own kids won’t even gimme their\nnumbers...\rI guess that’s just how young people\nis these days.</language>
+		<language name="English">Oh...\rMy own kids won’t even gimme their\nnumbers...\rI guess that’s just how young people\nis these days.\fI’ll be at the lake. Alone. Fishin’.</language>
 	</row>
 	<row id="msg_0712_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,15 +26,15 @@
 	</row>
 	<row id="msg_0712_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I been spendin’ more time with my\n{STRVAR_1 0, 10, 0} than with my kids.\fThat’s kinda sad, actually.\rCall your mom sometimes too!</language>
+		<language name="English">I been spendin’ more time with my\n{STRVAR_1 0, 10, 0} than with my kids.\fIt’s honestly better company.\rCall your mom sometimes too!\nPLEASE.</language>
 	</row>
 	<row id="msg_0712_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just beat a wild {STRVAR_1 0, 11, 0}. I told my\nyoungblood, but he laughed and said he\fcould do it easy.\rBoy, he got cocky...\rCall your mom sometimes too!</language>
+		<language name="English">I beat a wild {STRVAR_1 0, 11, 0}. I told my\nyoungblood, but he laughed and said he\fcould do it easy.\rBoy got cocky... He get that from his\nmama.\rCall your mom sometimes too!</language>
 	</row>
 	<row id="msg_0712_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday a wild {STRVAR_1 0, 11, 0} slipped away\nin front of my youngblood.\fI was feelin’ down about it till he\fshared his Hood Balls with me.\rHahah, that made my day!\rCall your mom sometimes too!</language>
+		<language name="English">A wild {STRVAR_1 0, 11, 0} slipped away in front\nof my youngblood.\fI was feelin’ down till he shared his\fNap Sacks with me.\rHahah, that made my DAY!\nHe hugged me! First time in 10 years!\rCall your mom sometimes too!</language>
 	</row>
 	<row id="msg_0712_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0712_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, how you doin’?\rI’m doin’ absolutely wonderful,\nobviously!\rBut when I say “...absolutely\nwonderful,” is it about fishin’?\fAm I talkin’ about homies?\fWhich one?\rHa ha ha!\nIt’s both, obviously!</language>
+		<language name="English">Ayo, how you doin’?\rI’m doin’ ABSOLUTELY wonderful,\nobviously!\rBut is it about fishin’?\fOr homies?\fWhich one?\rHa ha ha!\nNeither! My son called me!</language>
 	</row>
 </body>

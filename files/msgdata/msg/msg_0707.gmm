@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0707_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t trip!\rI’m a REAL nice Camper...</language>
+		<language name="English">Don’t trip!\rI’m a REAL nice Camper...\fI just look like I live in the woods.\f’cause I do.</language>
 	</row>
 	<row id="msg_0707_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0707_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah! Ayo, here you go!\rI been holdin’ this just for\nyou. Don’t be shy--go ’head and\ftake it. It’s a present!\r</language>
+		<language name="English">Yeah! Ayo, here you go!\rI been holdin’ this just for you. Don’t\nbe shy--take it. It’s a present!\fIt smells like smoke. Everything does.\r</language>
 	</row>
 	<row id="msg_0707_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Oh, you just around the corner?\rIf you that close, why bother with\na phone call? Humph!</language>
+		<language name="English">Hm? Oh, you just around the corner?\rIf you that close, why bother with a\nphone call? HUMPH!\fCome sit by the fire.</language>
 	</row>
 	<row id="msg_0707_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s fine to be all\nlovey with your homies and let\f’em live in your crib.\rBut I’d rather go campin’ with my\nday one, {STRVAR_1 0, 10, 0},\fwhich is why it’s so strong!\rThat reminds me--we knocked out a wild\n{STRVAR_1 0, 11, 0}, whammo! Just like that,\fthe other day. You shoulda seen it...</language>
+		<language name="English">It’s fine to be lovey with your homies\nand let ’em live in your crib.\rBut I’d rather go CAMPIN’ with my\nday one, {STRVAR_1 0, 10, 0}.\fThat’s why it’s so strong!\rWe knocked out a wild {STRVAR_1 0, 11, 0},\nWHAMMO! The other day. You shoulda\fseen it... It was dark. I didn’t see it.</language>
 	</row>
 	<row id="msg_0707_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">About all this trainin’ your homies\njust so you can catch stronger\fwild homies...\rIt ain’t smart to be throwin’\nHood Balls around reckless, tryna\fcatch any old thing.\rYou gotta build a real bond\nwith your homies.\rMe and my {STRVAR_1 0, 10, 0} is\na perfect example.\r...Well, I say that, but the other day\nwe had a wild {STRVAR_1 0, 11, 0} just barely\fget away from us.\rNo matter how much I try not to think\nabout it, I can’t let it go...</language>
+		<language name="English">About all this trainin’ your homies\njust so you can catch stronger\fwild homies...\rIt ain’t smart to be throwin’\nNap Sacks around reckless, tryna\fcatch any old thing.\rYou gotta build a real bond\nwith your homies.\rMe and my {STRVAR_1 0, 10, 0} is\na perfect example.\r...Well, I say that, but the other day\nwe had a wild {STRVAR_1 0, 11, 0} just barely\fget away from us.\rNo matter how much I try not to think\nabout it, I can’t let it go...</language>
 	</row>
 	<row id="msg_0707_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0707_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know the difference between\ngoin’ on a picnic and campin’?\rIt’s the song, obviously!\rWhen you on a picnic, you sing a\nhappy, upbeat lil tune while you hike\fover hills and fields.\rWhen you campin’, you sing quiet,\nsad songs of grief and loss while\fsittin’ and starin’ at the campfire.\rWhat? You don’t believe me?\rThen we should go campin’ sometime\nand sit around the fire and see what\fkinda songs you feel like singin’!</language>
+		<language name="English">You know the difference between a\npicnic and campin’?\rIt’s the SONG, obviously!\rOn a picnic, you sing a happy lil tune\nwhile you hike.\rWhen you campin’, you sing quiet, SAD\nsongs of grief and loss while starin’\fat the fire.\rWhat? You don’t believe me?\rThen we should go campin’ and see what\nkinda songs you feel like singin’!\fBring tissues.</language>
 	</row>
 	<row id="msg_0707_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was diggin’ a fire pit in the\nground to cook dinner, and\fI found a weird item!\rApparently it’s called a\nSun Stone.\rI’ll give it to you. I’m waitin’ on\n{STRVAR_1 4, 3, 0}!</language>
+		<language name="English">I was diggin’ a fire pit to cook dinner,\nand I found a weird item!\rApparently it’s called a Sun Stone.\fI almost cooked it.\rI’ll give it to you. I’m waitin’ on\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0707_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

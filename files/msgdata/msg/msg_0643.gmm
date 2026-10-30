@@ -6,26 +6,26 @@
 	</row>
 	<row id="msg_0643_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh ayo, {STRVAR_1 1, 0, 0}!\nTalkin’ on the phone kinda weird.\fJust talk to me!</language>
+		<language name="English">Oh ayo, {STRVAR_1 1, 0, 0}!\nTalkin’ on the phone kinda weird.\fI’m yellin’ ’cause I don’t trust it.\fJUST COME OVER!</language>
 	</row>
 	<row id="msg_0643_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Kurt!\nYou {STRVAR_1 1, 0, 0}, right?\r</language>
+		<language name="English">THIS KURT!\nYou {STRVAR_1 1, 0, 0}, right?\fHOW DO I TURN THIS THING DOWN?\r</language>
 	</row>
 	<row id="msg_0643_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, I turned all the Apricorns you\ngave me into Hood Balls.\rCome grab the {STRVAR_1 51, 11, 0} {STRVAR_1 8, 10, 0}(s)\nwhenever you got time!</language>
+		<language name="English">Ayo, I stitched up all the scraps you\ngave me.\rCome grab the {STRVAR_1 51, 11, 0} {STRVAR_1 8, 10, 0}(s)\nwhenever you got time!</language>
 	</row>
 	<row id="msg_0643_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You JUST asked me to make ’em!\nGimme a day at least!</language>
+		<language name="English">You JUST asked me to make ’em!\nGimme a DAY at least!\fThis ain’t fast food! It’s ART!</language>
 	</row>
 	<row id="msg_0643_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you bring me some Apricorns, I can\nmake you some Hood Balls.\fPull up whenever you got time!</language>
+		<language name="English">If you bring me some scraps, I can\nstitch you some custom bags.\fPull up whenever you got time!</language>
 	</row>
 	<row id="msg_0643_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, ayo! My old man had somethin’ he\nwanted to ask you!\fI’ll put him on. One sec!\r</language>
+		<language name="English">Oh, ayo! My old man had somethin’ he\nwanted to ask you!\fHold on, he can’t find the phone.\fIt’s in his hand. One sec!\r</language>
 	</row>
 </body>

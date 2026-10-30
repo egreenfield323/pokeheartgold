@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0023_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an Apricorn Tree!\r</language>
+		<language name="English">It’s a bush. Somebody DEFINITELY\nstashed somethin’ in here...\r</language>
 	</row>
 	<row id="msg_0023_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...It’s a {STRVAR_1 8, 1, 0}!\r</language>
+		<language name="English">...Ayo! A {STRVAR_1 8, 1, 0}!\nFinders keepers.\r</language>
 	</row>
 	<row id="msg_0023_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no Apricorns...</language>
+		<language name="English">Nothin’ in this bush but a old\nreceipt, a lighter, and a sock.\fJust one sock.</language>
 	</row>
 	<row id="msg_0023_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} obtained\nthe {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} pocketed\nthe {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0023_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the Apricorn Box!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} stuffed the {STRVAR_1 8, 1, 0}\nin the Stash Box!</language>
 	</row>
 	<row id="msg_0023_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was finna\nhappen, except there’s no Apricorn\fBox yet!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">...That was the plan, but there’s\nno Stash Box yet!\r{STRVAR_1 3, 0, 0} put the\n{STRVAR_1 8, 1, 0} back...in the bush.</language>
 	</row>
 	<row id="msg_0023_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was finna\nhappen, except...\fThe Apricorn Box is full!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">...That was the plan, but the\nStash Box is STUFFED!\r{STRVAR_1 3, 0, 0} put the\n{STRVAR_1 8, 1, 0} back...in the bush.</language>
 	</row>
 	<row id="msg_0023_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since there’s nothing to put it in,\nthere’s no reason to take it...</language>
+		<language name="English">Ain’t got nowhere to put it.\nLeave it for the next guy.</language>
 	</row>
 </body>

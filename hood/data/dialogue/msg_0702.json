@@ -4,11 +4,11 @@
   "2": "Hit us if you think of anything!",
   "3": "Uh, OK. That's too bad...",
   "4": "You decide you wanna\\nswap numbers? {YESNO 0}",
-  "5": "Uh-huh? Where you callin' from?\\rIf you right nearby, you might as well\\ncome over and talk in person, ya know?",
-  "6": "This Sue!\\rHow you been since we last talked?\\fYou doin' a good job trainin' your\\nhomies? We doin' great!\\r{STRVAR_1 0, 10, 0} grindin' hard.\\rYou got a good homie too. After a\\nwhile, you'll see it become a\\fsensational partner! Hee hee!",
+  "5": "Uh-huh? Where you callin' from?\\rIf you right nearby, come over and\\ntalk in person, ya know?\\fTim's makin' sandwiches.",
+  "6": "This Sue!\\rHow you been since we last talked?\\nYour homies doin' good? We GREAT!\\r{STRVAR_1 0, 10, 0} grindin' hard.\\rYou got a good homie too. After a\\nwhile, it'll become a sensational\\fpartner! Like Tim! Hee hee!",
   "7": "This Sue!\\rHow you been since we last talked?\\nYour homies winnin' their scraps?\\rWe doin' great!\\nWe even beat a wild {STRVAR_1 0, 11, 0}.\\rYou got a good homie too.\\nAll you need now is a great partner...\\fYou know what I mean? Hee hee!",
   "8": "This Sue!\\rHow you been feelin' since our\\nlast talk? I got lotsa homies... Ah!\\rHello? This Tim!\\nLemme talk on the phone... Wah!\\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\\nget away recently!\\rHe say the weirdest stuff\\nsometimes. He said he couldn't compare\\fhomies with me, but... Ah!\\rHello! This Tim!\\nShe really... Wah!\\rYeah, that's just how it is, ain't it!\\nI'll leave it at that. We'll call you\\fagain later. Bye-bye!",
   "9": "Ayo, you wanna scrap us again?\\rSound good?\\rWe waitin' on {STRVAR_1 4, 3, 0}.\\nSee you there!",
   "10": "Ayo, you forget our promise?\\rI'm here with Tim, so I ain't gettin'\\ntoo bored, but still...\\rWe waitin' on {STRVAR_1 4, 3, 0},\\nso please hurry.",
-  "11": "Ayo, this Sue!\\nI'm so, so, SO bored right now.\\rTim stepped out, but he should\\nbe back soon. That reminds me!\\rWe recently saw a REAL fly guy.\\rHe was wearin' a purple tuxedo and a\\nred bowtie. It looked FIRE on him.\\rOh--my boyfriend back!\\nTalk to you later!"
+  "11": "Ayo, this Sue!\\nI'm so, so, SO bored right now.\\rTim stepped out, but he should be back\\nsoon. That reminds me!\\rWe saw a REAL fly guy.\\rPurple tuxedo, red bowtie. FIRE.\\fTim's never wore a bowtie. Ever.\\rOh--Tim's back!\\nTalk to you later!"
 }

@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0651_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. The\nconnection trash.\rCall back from somewhere else!</language>
+		<language name="English">Huh? I can’t hear you.\nThe connection trash.\rI’m in a cave. Of course it’s trash.\nCall back from somewhere else!</language>
 	</row>
 	<row id="msg_0651_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup...\nOh, ayo, what’s wrong?\fYou ain’t gotta worry about me.\fHow you doin’?\r</language>
+		<language name="English">Wassup...\nOh, ayo, what’s wrong?\fYou ain’t gotta worry about me.\fI live in a cave now. It’s FINE.\rHow you doin’?\r</language>
 	</row>
 	<row id="msg_0651_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You hit every Block yet?\nThere’s Block Bosses you ain’t\fscrapped yet, ain’t there?</language>
+		<language name="English">You hit every Block yet?\nThere’s Block Bosses you ain’t\fscrapped yet, ain’t there?\fAt least they got roofs.</language>
 	</row>
 	<row id="msg_0651_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t do NOTHIN’ around noon\non Tuesdays. Gimme a call\fthen sometime if you free.</language>
+		<language name="English">I don’t do NOTHIN’ around noon on\nTuesdays.\fI don’t do nothin’ most days.\fCall me then if you free.</language>
 	</row>
 	<row id="msg_0651_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, ayo!\rYou called at just the right time!\nWanna scrap me again?\fC’mon, whadda ya say? {YESNO 0}</language>
+		<language name="English">WOAH, AYO!\rYou called at just the right time!\nWanna scrap me again?\fC’mon, whadda ya say? {YESNO 0}</language>
 	</row>
 	<row id="msg_0651_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, ayo!\rGood looks!\nI’ll be waitin’ at the Saffron Dojo.</language>
+		<language name="English">WOAH, AYO!\rGood looks!\nI’ll be waitin’ at the Saffron Dojo.\fIt got walls! I’m hype!</language>
 	</row>
 	<row id="msg_0651_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, ayo!\nThat’s COLD!</language>
+		<language name="English">WOAH, AYO!\nThat’s COLD!\fColder than Seafoam! And I LIVE there.</language>
 	</row>
 	<row id="msg_0651_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look, I appreciate you wanna\nscrap me again, but didn’t you already\fmake plans with somebody else?</language>
+		<language name="English">Look, I appreciate you wanna scrap\nme again, but didn’t you already\fmake plans with somebody else?\fI’m old, not stupid.</language>
 	</row>
 	<row id="msg_0651_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, ayo!\nI’m waitin’ at the Saffron Dojo.\n</language>
+		<language name="English">WOAH, AYO!\nI’m waitin’ at the Saffron Dojo.\fBring a sweater. I’m used to lava.\n</language>
 	</row>
 	<row id="msg_0651_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, this Blaine.\nWhat’s good?\r</language>
+		<language name="English">Ayo, this Blaine.\nWhat’s good? It’s cold in here.\r</language>
 	</row>
 	<row id="msg_0651_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to meet and scrap at\nthe Saffron Dojo, right?\fI’m waitin’ on you!</language>
+		<language name="English">We made plans to meet and scrap at\nthe Saffron Dojo, right?\fI’m waitin’ on you!\fI took the bus. Took four hours.</language>
 	</row>
 	<row id="msg_0651_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, even if you lose your Block,\nif you take rocks and stones and stack\f’em up one by one every day, sooner\for later you’ll have built a nice\freplacement Block!\rI made it my life’s mission to build\nanother Block.</language>
+		<language name="English">You know, even if you lose your Block,\nif you stack rocks one by one every\fday, sooner or later you’ll have a\fnice new Block!\rI made it my life’s mission to build\nanother Block.\fI’m on rock 47. Of 40,000.</language>
 	</row>
 	<row id="msg_0651_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m grateful Hustlers flock\nto a homemade Block like mine...\rGood looks for comin’ all the\nway just to scrap me!</language>
+		<language name="English">I’m grateful Hustlers flock to a\nhomemade Block like mine...\rGood looks for comin’ all the way\njust to scrap me!\fWipe your feet. It’s a cave, but still.</language>
 	</row>
 	<row id="msg_0651_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I kinda like the Seafoam Islands\na lot lately.\fThe problem is if you\fwanna go shoppin’,\fthere ain’t no stores there...</language>
+		<language name="English">I kinda like the Seafoam Islands a lot\nlately.\fThe problem is if you wanna go\fshoppin’, there ain’t no stores...\fOr food. Or heat. Or neighbors.</language>
 	</row>
 </body>

@@ -2,13 +2,13 @@
   "_comment": "Phone: Anthony (Hiker).",
   "1": "By the way, I'm a Hiker, so I be in\\nthe mountains and caves a lot.\\rI don't usually go to town.\\rI bet you hit all kinds of towns on\\nyour journey, don't you?\\rYou know, if we swapped\\nnumbers, then we could swap\\fall kinds of info, yeah? {YESNO 0}",
   "2": "I'll give you a call when I think of a\\ngood, heart-warmin' story, OK?",
-  "3": "That's so sad. I might just end up\\nlockin' myself away on the mountain...",
+  "3": "That's so sad. I might just end up\\nlockin' myself away on the mountain...\\fThat's my plan anyway. But sadder now.",
   "4": "What you say?\\nYou wanna swap numbers\\fwith another adventurer? {YESNO 0}",
-  "5": "You right nearby, and you still gon'\\ncall me on the phone?\\rAm I that “dazzlin'” that you gotta\\nkeep your distance?",
-  "6": "The other day, I was watchin' my\\n{STRVAR_1 0, 10, 0} eat some Berries.\\fIt looked like it was lovin' it,\\fso I tried some.\\rI ain't sure if people should eat that\\nstuff, but it was BUSSIN'!\\rAight then!\\nBe good!",
+  "5": "You right nearby, and you still gon'\\ncall me on the phone?\\rAm I that “dazzlin'” that you gotta\\nkeep your distance?\\fI am. I know I am.",
+  "6": "The other day, I watched my {STRVAR_1 0, 10, 0}\\neat some Berries.\\fIt was lovin' it, so I tried some.\\rI ain't sure if people should eat that\\nstuff, but it was BUSSIN'!\\fI was sick for two days. Worth it.\\rAight then! Be good!",
   "7": "Lately, I been runnin' into wild\\n{STRVAR_1 0, 11, 0} a lot.\\fThey light work.\\rAight then!\\nBe good!",
-  "8": "Oh yeah, I was scrappin' this\\n{STRVAR_1 0, 11, 0} the other day...\\fIt dipped when I got distracted by a\\fBeauty walkin' by.\\rLearn from my mistake--always stay\\nlocked in on the job!\\rAight then!\\nBe good!",
+  "8": "I was scrappin' this {STRVAR_1 0, 11, 0} the other\\nday...\\fIt dipped when I got distracted by a\\fBeauty walkin' by.\\rLearn from my mistake--always stay\\nlocked in!\\fShe didn't even look at me.\\rAight then! Be good!",
   "9": "Come on--let's scrap right now!\\r{STRVAR_1 4, 3, 0} is where I'm at.\\nCome on over if you feel up to it!",
   "10": "Wassup! You ain't forgot about\\nour scrap, have you?\\r{STRVAR_1 4, 3, 0}! I'm waitin'!",
-  "11": "Why I like mountains so much...\\rIt ain't wrong to say I also like\\nthe homies that live on mountains.\\rBut I bet the number one reason is\\nI just like mountains.\\rI got NO idea what a Swimmer♂'s\\nthinkin'..."
+  "11": "Why I like mountains so much...\\rIt ain't wrong to say I like the homies\\nthat live on mountains.\\rBut the number one reason is I just\\nlike mountains.\\rI got NO idea what a Swimmer♂'s\\nthinkin'... Water is just flat ground\\fyou can't stand on."
 }

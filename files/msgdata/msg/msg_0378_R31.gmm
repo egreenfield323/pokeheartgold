@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0378_R31_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 31\nWest to Violet City. No Loitering.</language>
+		<language name="English">Rt. 31\nWest to Violet. No Loiterin.</language>
 	</row>
 	<row id="msg_0378_R31_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

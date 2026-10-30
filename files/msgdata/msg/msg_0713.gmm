@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0713_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you ain’t got the confidence that\nyou can beat me again?</language>
+		<language name="English">Oh, you ain’t got the confidence to\nbeat me again? I get it. I’m VERY\fconfident.</language>
 	</row>
 	<row id="msg_0713_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0713_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} lookin’ more and\nmore like me. It’s gettin’ cuter!\rAnd, you know?\nNow we can KO {STRVAR_1 0, 11, 0} easy.\rI should hit the Goldenrod Block.\rLater!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} lookin’ more and more like\nme. It’s gettin’ CUTER!\rAnd now we can KO {STRVAR_1 0, 11, 0} easy.\rI should hit the Goldenrod Block.\nWhitney gon’ love us. We twins now.\rLater!</language>
 	</row>
 	<row id="msg_0713_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} lookin’ more and\nmore like me. It’s gettin’ cuter!\rAnd, you know?\nWe JUST barely lost to {STRVAR_1 0, 11, 0}.\rI’m guessin’ my homies’ levels\nain’t high enough yet...\rLater!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} lookin’ more and more like\nme. It’s gettin’ CUTER!\rBut we JUST barely lost to {STRVAR_1 0, 11, 0}.\rI’m guessin’ our levels ain’t high\nenough. We got the same haircut\fthough.\rLater!</language>
 	</row>
 	<row id="msg_0713_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -42,6 +42,6 @@
 	</row>
 	<row id="msg_0713_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup!\rYou know, I was on the sixth floor of\nthe Goldenrod Dept. Store tryin’\fthe drawin’. It’s SO hype!</language>
+		<language name="English">Wassup!\rI was on the sixth floor of the\nGoldenrod Dept. Store tryin’ the\fdrawin’. It’s SO hype!\fI lost $900. But it’s HYPE!</language>
 	</row>
 </body>

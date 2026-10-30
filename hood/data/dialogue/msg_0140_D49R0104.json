@@ -1,14 +1,17 @@
 {
   "_comment": "Pokéathlon museum: Solidarity room.",
-  "0": "This the “Solidarity” room.\\rIt show the bond between homies\\nand people, plus the history\\fof the Pokéathlon.",
+  "0": "This the “Solidarity” room.\\rIt show the bond between homies and\\npeople, plus the history of the\\fPokéathlon. Mostly the gift shop.",
   "1": "Only Pokéathletes who came\\nin first in five courses\\fcan come in here.",
   "2": "This the “Trust” room.\\nGo on ahead.",
-  "3": "The Pokéathlon go WAY back.",
-  "4": "When you win a course,\\nyou get a Medal!\\fI gotta win every course!\\r",
-  "5": "I heard Pokéathletes with crazy\\nrecords get their shoes\\fdisplayed in the museum!",
+  "3": "The Pokéathlon go WAY back.\\nLike, before Wi-Fi back.",
+  "4": "When you win a course, you get a\\nMedal!\\fI gotta win every course!\\fI got zero. But I got DREAMS.\\r",
+  "5": "I heard Pokéathletes with crazy\\nrecords get their SHOES displayed\\fin the museum!\\fImagine the smell in here.",
   "6": "{STRVAR_1 3, 0, 0} checked\\nthe course record!\\r",
-  "7": "It's a old wall paintin'.\\rOne person and three homies\\nlook like they learnin' somethin'\\ffrom starin' at the sky.",
-  "8": "It's a old, beat-up scroll.\\r“Pokéathlon Myth\\rWhen a sickness took over the whole\\nisland, one human and three homies\\fbeat ten obstacles to spread the\\fword about the cure.”",
+  "7": "It's a old wall paintin'.\\rOne person and three homies lookin'\\nup at the sky like they learnin'\\fsomethin'.\\fOr like they lost a balloon.",
+  "8": "It's a old, beat-up scroll.\\r“Pokéathlon Myth\\rWhen a sickness took over the whole\\nisland, one human and three homies\\fbeat ten obstacles to spread the word\\fabout the cure.”\\rThey coulda just called somebody.",
   "9": "It's a old scroll.\\r“The Beginnin' of Pokéathlon\\rTo honor the bond of the\\nperson and three homies that\\fspread the word of the cure, people\\fstarted tellin' their story.”\\r...\\nThe tribute eventually turned into\\ften games to compete in, just\\flike the obstacles in the legend...”",
-  "13": "“Pokéathlon Almanac”\\rThere's mad Pokéathletes and\\nhomie Medalists in\\fthe pics.\\n"
+  "13": "“Pokéathlon Almanac”\\rThere's mad Pokéathletes and\\nhomie Medalists in\\fthe pics.\\n",
+  "10": "RATTATA: Ffft!\\n(It's judgin' the paintings.)",
+  "11": "RATTATA: Kooar!\\n(It want a trophy too.)",
+  "12": "ZUBAT: Quuooh.\\n(It's lost. It's always lost.)"
 }

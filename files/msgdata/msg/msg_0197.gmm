@@ -3395,11 +3395,11 @@
 	</row>
 	<row id="msg_0197_00847" index="847">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcer: You outta\nSafari Balls!\fGame over!\r</language>
+		<language name="English">Announcer: You outta\nZoo Sacks!\fGame over!\r</language>
 	</row>
 	<row id="msg_0197_00848" index="848">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} threw\na Safari Ball!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} threw\na Zoo Sack!</language>
 	</row>
 	<row id="msg_0197_00849" index="849">
 		<attribute name="window_context_name">used</attribute>
@@ -3407,7 +3407,7 @@
 	</row>
 	<row id="msg_0197_00850" index="850">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcer: You outta\nSafari Balls! Game over!</language>
+		<language name="English">Announcer: You outta\nZoo Sacks! Game over!</language>
 	</row>
 	<row id="msg_0197_00851" index="851">
 		<attribute name="window_context_name">used</attribute>
@@ -3443,7 +3443,7 @@
 	</row>
 	<row id="msg_0197_00859" index="859">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Hustler blocked the Ball!</language>
+		<language name="English">The Hustler blocked the sack!</language>
 	</row>
 	<row id="msg_0197_00860" index="860">
 		<attribute name="window_context_name">used</attribute>
@@ -3451,7 +3451,7 @@
 	</row>
 	<row id="msg_0197_00861" index="861">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It dodged the thrown Ball!\nThis Pokémon can’t be caught!</language>
+		<language name="English">It dodged the thrown sack!\nThis Pokémon can’t be caught!</language>
 	</row>
 	<row id="msg_0197_00862" index="862">
 		<attribute name="window_context_name">used</attribute>
@@ -3479,7 +3479,7 @@
 	</row>
 	<row id="msg_0197_00868" index="868">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the\ncaught {STRVAR_1 1, 0, 0}?{YESNO 0}</language>
+		<language name="English">Give the {STRVAR_1 1, 0, 0} you just\nsnatched a street name?{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_00869" index="869">
 		<attribute name="window_context_name">used</attribute>
@@ -3671,7 +3671,7 @@
 	</row>
 	<row id="msg_0197_00916" index="916">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\r</language>
+		<language name="English">The fuh?\r</language>
 	</row>
 	<row id="msg_0197_00917" index="917">
 		<attribute name="window_context_name">used</attribute>
@@ -3731,7 +3731,7 @@
 	</row>
 	<row id="msg_0197_00931" index="931">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL</language>
+		<language name="English">SACK</language>
 	</row>
 	<row id="msg_0197_00932" index="932">
 		<attribute name="window_context_name">used</attribute>
@@ -3810,7 +3810,7 @@
 	</row>
 	<row id="msg_0197_00950" index="950">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SAFARI BALLS</language>
+		<language name="English">ZOO SACKS</language>
 	</row>
 	<row id="msg_0197_00951" index="951">
 		<attribute name="window_context_name">used</attribute>
@@ -4894,7 +4894,7 @@
 	</row>
 	<row id="msg_0197_01220" index="1220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARK BALLS</language>
+		<language name="English">PARK SACKS</language>
 	</row>
 	<row id="msg_0197_01221" index="1221">
 		<attribute name="window_context_name">used</attribute>
@@ -4906,7 +4906,7 @@
 	</row>
 	<row id="msg_0197_01223" index="1223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL</language>
+		<language name="English">SACK</language>
 	</row>
 	<row id="msg_0197_01224" index="1224">
 		<attribute name="window_context_name">used</attribute>
@@ -4918,15 +4918,15 @@
 	</row>
 	<row id="msg_0197_01226" index="1226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! I got its HP down!\nTime to throw a Hood Ball!{YESNO 0}</language>
+		<language name="English">All right! I got its HP down!\nTime to throw a Nap Sack!{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01227" index="1227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Its HP is down!\nIt’s ready for a Hood Ball!{YESNO 0}</language>
+		<language name="English">OK! Its HP is down!\nIt’s ready for a Nap Sack!{YESNO 0}</language>
 	</row>
 	<row id="msg_0197_01228" index="1228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used\na Hood Ball!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} used\na Nap Sack!</language>
 	</row>
 	<row id="msg_0197_01229" index="1229">
 		<attribute name="window_context_name">used</attribute>
@@ -5094,7 +5094,7 @@
 	</row>
 	<row id="msg_0197_01270" index="1270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL</language>
+		<language name="English">SACK</language>
 	</row>
 	<row id="msg_0197_01271" index="1271">
 		<attribute name="window_context_name">used</attribute>

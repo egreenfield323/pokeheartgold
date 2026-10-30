@@ -6,50 +6,50 @@
 	</row>
 	<row id="msg_0672_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It REALLY made me mad to lose.\nI gotta train way harder...\rHere’s my number. I’m Erin--don’t\nforget! Wanna scrap me again? {YESNO 0}</language>
+		<language name="English">It REALLY made Erin mad to lose.\nErin gotta train harder...\rHere’s Erin’s number. Erin’s Erin--\ndon’t forget! Scrap Erin again? {YESNO 0}</language>
 	</row>
 	<row id="msg_0672_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll hit you when I wanna\nscrap again!</language>
+		<language name="English">Erin will hit you when Erin wanna\nscrap again!</language>
 	</row>
 	<row id="msg_0672_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I’m sad... If you do wanna\nscrap, come see Erin--that’s me!</language>
+		<language name="English">Oh... Erin is sad... If you wanna\nscrap, come see Erin--that’s me!\fErin!</language>
 	</row>
 	<row id="msg_0672_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wanna scrap you again.\nYou wanna swap numbers? {YESNO 0}</language>
+		<language name="English">Erin wanna scrap you again.\nYou wanna swap numbers with Erin? {YESNO 0}</language>
 	</row>
 	<row id="msg_0672_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... I lost AGAIN!\nI wonder how many times that is...\rGood looks for comin’!\nHere’s a present!\r</language>
+		<language name="English">Aww... Erin lost AGAIN!\nErin wonder how many times that is...\rGood looks for comin’!\nHere’s a present from Erin!\r</language>
 	</row>
 	<row id="msg_0672_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wassup? Wait, you deadass\ncallin’ me from that close?\fYou scared of me or somethin’?\fWhy not talk face-to-face?</language>
+		<language name="English">Wassup? Wait, you callin’ Erin from\nthat close?\fYou scared of Erin or somethin’?\fErin’s harmless. Mostly.</language>
 	</row>
 	<row id="msg_0672_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erin’s {STRVAR_1 0, 10, 0} WAY stronger\nthan before! I should know--I’m Erin!\rSee you. Bye-bye!</language>
+		<language name="English">Erin’s {STRVAR_1 0, 10, 0} WAY stronger than\nbefore! Erin should know--Erin’s\fErin!\rSee you. Bye-bye! -Erin</language>
 	</row>
 	<row id="msg_0672_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">And, and...\rWe just scrapped and beat a\n{STRVAR_1 0, 11, 0}!\rI raised my homies RIGHT!\rSee you. Bye-bye!</language>
+		<language name="English">And, and...\rErin just beat a {STRVAR_1 0, 11, 0}!\rErin raised Erin’s homies RIGHT!\rSee you. Bye-bye! -Erin</language>
 	</row>
 	<row id="msg_0672_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But, but...\rA wild {STRVAR_1 0, 11, 0} got away from me\nAGAIN. It just ain’t fair!\rSee you. Bye-bye!</language>
+		<language name="English">But, but...\rA wild {STRVAR_1 0, 11, 0} got away from Erin\nAGAIN. It just ain’t fair to Erin!\rSee you. Bye-bye! -Erin</language>
 	</row>
 	<row id="msg_0672_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Erin. Wanna scrap me again?\nI’ll be waitin’ on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">It’s Erin. Wanna scrap Erin again?\nErin’ll be waitin’ on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0672_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}! Come scrap Erin!\nI’ll be waitin’ on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}! Come scrap Erin!\nErin’ll be waitin’ on {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0672_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m grindin’ raisin’ my homies!\nCome back for another scrap!</language>
+		<language name="English">Erin’s grindin’, raisin’ Erin’s\nhomies! Come back for another scrap\fwith Erin!</language>
 	</row>
 </body>

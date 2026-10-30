@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0375_R30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Up north that way is\nMr. Pokémon’s spot.\rBut before you go, lemme\nfinish talkin’.\rYou got any...Apricorns?\fThe trees drop ’em once a day.\fI got one of them trees too!\rApricorns hard, ngl.\nYou can make Hood Balls and\fall kinda stuff.\rThey mad useful.\rI feel like this meant to be,\n’cause I got somethin’ for you!\r</language>
+		<language name="English">Up north that way is\nMr. Pokémon’s spot.\rBut before you go, lemme\nfinish talkin’.\rYou ever dig through a bush?\fPeople stash ALL kinda stuff in ’em.\fGator hide. Velvet. One sock.\rTake the scraps to Kurt and he’ll\fmake you custom bags. Real leather.\rThey mad useful.\rI feel like this meant to be,\n’cause I got somethin’ for you!\r</language>
 	</row>
 	<row id="msg_0375_R30_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0375_R30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Apricorn Box, you can carry\na whole lotta Apricorns.\rYou gon’ be a real Apricorn plug!\r</language>
+		<language name="English">With that Stash Box, you can carry\na whole lotta scraps.\rYou gon’ be a real bush plug!\r</language>
 	</row>
 	<row id="msg_0375_R30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0375_R30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Street Rules\rDon’t steal nobody else’s homies!\rHood Balls only get thrown at\nhomies that ain’t claimed!</language>
+		<language name="English">Street Rules\rDon’t steal nobody else’s homies!\rNap Sacks only get thrown at\nhomies that ain’t claimed!</language>
 	</row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

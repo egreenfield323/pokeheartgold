@@ -9,7 +9,7 @@
   "6": "Ayo! You ain't got no Fossils.\\rYou find 'em smashin' rocks at the Ruins\\nof Alph and stuff. Bring a hammer.",
   "7": "Wanna get a homie outta\\nthe {STRVAR_1 8, 0, 0}? {YESNO 0}",
   "8": "{STRVAR_1 3, 0, 0} got\\nthe {STRVAR_1 0, 1, 0}!",
-  "9": "Wanna give a nickname\\nto the {STRVAR_1 0, 1, 0} you got? {YESNO 0}",
+  "9": "Wanna give the {STRVAR_1 0, 1, 0}\\nyou got a street name? {YESNO 0}",
   "10": "They say meteorites hit near Pewter City.\\rWe'd LOVE to show 'em here, but...\\rThey give off weird energy and can't be\\nmoved. We tried. Two interns quit.",
   "11": "There's two places I love!\\nThe Ruins of Alph in Johto...\\rAnd the Pewter Museum! So quiet and calm.\\nBecause there's nothin' in it.",
   "12": "I'm grateful for my long life.\\rI never thought I'd see the bones of\\na dragon! Before my OWN bones went out.",

@@ -1,14 +1,14 @@
 {
   "_comment": "Phone: Beverly (SNUBBULL mom).",
-  "1": "Your homie SO cute and adorable!\\nYou love homies just like me!\\rWanna swap numbers?\\nLet's chat! It's gon' be fun!{YESNO 0}",
-  "2": "Honestly, I want a MARILL.\\nBut I make do with my cute SNUBBULL.\\rAw! I'm just playin'!\\nI'm just playin', SNUBBULL! You the\\fcutest homie EVER, fr!",
-  "3": "Oh... That's disappointin'...",
+  "1": "Your homie SO cute and adorable!\\nYou love homies just like me!\\rWanna swap numbers?\\nLet's chat! It's gon' be FUN! {YESNO 0}",
+  "2": "Honestly, I want a MARILL.\\nBut I make do with my cute SNUBBULL.\\rAw! I'm just playin'!\\nI'm just playin', SNUBBULL! You the\\fcutest homie EVER, fr!\\fIt heard me. It's mad. It's chewin'\\fmy purse.",
+  "3": "Oh... That's disappointin'...\\nSNUBBULL is disappointed too. It growled.",
   "4": "You got such cute and adorable\\nhomies with you!\\rWe should DEFINITELY swap\\nnumbers, don't you think?{YESNO 0}",
-  "5": "Oh, my bad for the wait,\\n{STRVAR_1 3, 0, 0}. Here, take this.\\r",
+  "5": "Oh, my bad for the wait, {STRVAR_1 3, 0, 0}.\\nHere, take this. SNUBBULL picked it.\\r",
   "6": "Let's see... You in the National\\nPark, ain't you?\\rWell, you should come talk to me in\\nperson, don't you think?",
-  "7": "I glowed up my {STRVAR_1 0, 10, 0} and made\\nit even cuter than before!\\rI ran into a wild\\nSNUBBULL recently.\\rMy SNUBBULL, I promise you, was WAY\\ncuter than the wild one.\\rExpect a call from me.",
-  "8": "I glowed up my {STRVAR_1 0, 10, 0} and\\nmade it even cuter than before!\\rI saw a wild MARILL the\\nother day. Or so I thought.\\rA closer look showed it was\\n{STRVAR_1 0, 11, 0}. I was SO heated.\\rExpect a call from me.",
-  "9": "My husband got some Gold Grills.\\rIf you want, you can have one as\\nthanks for helpin' me out.\\rI'll be at {STRVAR_1 4, 3, 0}.\\nCome see me when you can.",
+  "7": "I glowed up my {STRVAR_1 0, 10, 0} and made it\\neven CUTER!\\rI ran into a wild SNUBBULL recently.\\rMy SNUBBULL, I PROMISE, was WAY\\ncuter than the wild one.\\fThe wild one had better teeth though.\\rExpect a call from me.",
+  "8": "I glowed up my {STRVAR_1 0, 10, 0} and made it\\neven CUTER!\\rI saw a wild MARILL the other day.\\nOr so I thought.\\rA closer look showed it was {STRVAR_1 0, 11, 0}.\\nI was SO heated. I cried in my car.\\rExpect a call from me.",
+  "9": "My husband got some Gold Grills.\\rIf you want, you can have one as good\\nlooks for helpin' me out.\\fHe won't miss it. He got 30.\\rI'll be at {STRVAR_1 4, 3, 0}.\\nCome see me when you can.",
   "10": "'Scuse me?\\nOh, the Gold Grill?\\rIt's aight! Ain't no need\\nto rush. Come see me in\\f{STRVAR_1 4, 3, 0} when you can.",
-  "11": "Your homies in prime form?\\nLet's chat about homies again."
+  "11": "Your homies in prime form?\\nLet's chat about homies again.\\fMostly MARILL. Don't tell SNUBBULL."
 }

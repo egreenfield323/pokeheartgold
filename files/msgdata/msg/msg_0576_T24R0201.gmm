@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0576_T24R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nIt got a Ball Capsule on its Ball!\fTake that off, please.</language>
+		<language name="English">Huh?\nIt got a Sack Patch on its sack!\fTake that off, please.</language>
 	</row>
 	<row id="msg_0576_T24R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

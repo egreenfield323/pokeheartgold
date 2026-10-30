@@ -1,15 +1,15 @@
 {
   "_comment": "Phone: Vance (Bird Keeper).",
-  "1": "You strong for real. But I don't\\nwanna just slink away...\\rI know! Can I get your number?\\nLet's link up for more scraps!{YESNO 0}",
+  "1": "You strong for real. But I don't wanna\\njust slink away...\\rI know! Can I get your number?\\nLet's link up for more scraps! {YESNO 0}",
   "2": "Don't forget to come see me\\nwhen I challenge you!",
-  "3": "A Bird Keeper homie ain't bad to\\nhave, I'd say...\\rWon't you reconsider?",
+  "3": "A Bird Keeper homie ain't bad to have,\\nI'd say...\\rWon't you reconsider? My PIDGEY's\\nbegging. Look at those eyes.",
   "4": "I wanna scrap tough Hustlers as\\noften as I can!\\rCan I get your number?\\nLet's link up for more scraps!{YESNO 0}",
-  "5": "You REALLY, REALLY strong!\\rGood looks for scrappin' me so much--\\nI learned a whole lot from you.\\rI know! This'll be my thanks!\\r",
+  "5": "You REALLY, REALLY strong!\\rGood looks for scrappin' me so much--\\nI learned a whole lot.\\rThis'll be my thanks! Cleared for\\ntakeoff!\\r",
   "6": "You right nearby, ain't you?\\rWhy not come talk in person?",
-  "7": "My {STRVAR_1 0, 10, 0} got tougher.\\nWe achieved liftoff!\\rWe can easily beat {STRVAR_1 0, 11, 0}!\\r...Huh? You too? Ain't that great?\\nLet's talk later!",
-  "8": "My {STRVAR_1 0, 10, 0} got tougher.\\nWe achieved liftoff!\\rBut a wild {STRVAR_1 0, 11, 0} just\\nbarely got away.\\fI wanted to fly after it...\\rLet's talk later!",
+  "7": "My {STRVAR_1 0, 10, 0} got tougher.\\nWe achieved LIFTOFF!\\rWe can easily beat {STRVAR_1 0, 11, 0}!\\r...Huh? You too? Ain't that great?\\nThis is your captain speakin'. Later!",
+  "8": "My {STRVAR_1 0, 10, 0} got tougher.\\nWe achieved LIFTOFF!\\rBut a wild {STRVAR_1 0, 11, 0} barely got away.\\fI wanted to fly after it...\\fI can't fly though.\\rLet's talk later!",
   "9": "Right now, I'm on {STRVAR_1 4, 3, 0}.\\nYou know--where I first met you?\\rWanna scrap? I'll wait here.",
-  "10": "Oh, {STRVAR_1 3, 0, 0}!\\nHurry, hurry!\\r{STRVAR_1 4, 3, 0}! Fly over NOW!",
-  "11": "Oh, {STRVAR_1 3, 0, 0}!\\nHurry, hurry!\\r{STRVAR_1 4, 3, 0}! Fly over NOW!",
-  "12": "I'm lookin' forward to our\\nnext scrap!"
+  "10": "Oh, {STRVAR_1 3, 0, 0}!\\nHurry, hurry!\\r{STRVAR_1 4, 3, 0}! Fly over NOW!\\fYou can't fly? Run then! Flap your arms!",
+  "11": "Oh, {STRVAR_1 3, 0, 0}!\\nHurry, hurry!\\r{STRVAR_1 4, 3, 0}! Fly over NOW!\\fYou can't fly? Run then! Flap your arms!",
+  "12": "I'm lookin' forward to our next scrap!\\nPrepare for turbulence!"
 }

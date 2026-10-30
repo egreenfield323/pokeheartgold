@@ -182,15 +182,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nShank!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nBox Cutter!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nShank!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nBox Cutter!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nShank!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nBox Cutter!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -590,15 +590,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nSubwoofer!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nTrunk Rattle!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nSubwoofer!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nTrunk Rattle!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nSubwoofer!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nTrunk Rattle!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -674,27 +674,27 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nFire Hydrant!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nFire Hose!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nFire Hydrant!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nFire Hose!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nFire Hydrant!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nFire Hose!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nHydrant Wave!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nRide Da Wave!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nHydrant Wave!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nRide Da Wave!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nHydrant Wave!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nRide Da Wave!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
@@ -938,15 +938,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} pulled out\nStun Gun!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} pulled out\nThe Boot!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} pulled out\nStun Gun!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} pulled out\nThe Boot!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} pulled out\nStun Gun!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} pulled out\nThe Boot!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
@@ -1526,15 +1526,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nWet Ya Up!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nBeam Me Up!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nWet Ya Up!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nBeam Me Up!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nWet Ya Up!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nBeam Me Up!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
@@ -3002,15 +3002,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00750" index="750">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nJacuzzi!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nFlush It!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00751" index="751">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nJacuzzi!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nFlush It!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00752" index="752">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nJacuzzi!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nFlush It!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00753" index="753">
 		<attribute name="window_context_name">used</attribute>
@@ -3890,15 +3890,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_00972" index="972">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nBat Signal!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nFull Bars!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00973" index="973">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nBat Signal!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nFull Bars!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00974" index="974">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nBat Signal!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nFull Bars!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_00975" index="975">
 		<attribute name="window_context_name">used</attribute>
@@ -5114,15 +5114,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_01278" index="1278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nDirt Bomb!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nPigeon Drop!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01279" index="1279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nDirt Bomb!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nPigeon Drop!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01280" index="1280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nDirt Bomb!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nPigeon Drop!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01281" index="1281">
 		<attribute name="window_context_name">used</attribute>

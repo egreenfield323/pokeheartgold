@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0249_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s nickname? {YESNO 0}</language>
+		<language name="English">Street name\f{STRVAR_1 1, 0, 0}?{YESNO 0}</language>
 	</row>
 	<row id="msg_0249_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

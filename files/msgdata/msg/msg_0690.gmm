@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0690_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homie SO cute and adorable!\nYou love homies just like me!\rWanna swap numbers?\nLet’s chat! It’s gon’ be fun!{YESNO 0}</language>
+		<language name="English">Your homie SO cute and adorable!\nYou love homies just like me!\rWanna swap numbers?\nLet’s chat! It’s gon’ be FUN! {YESNO 0}</language>
 	</row>
 	<row id="msg_0690_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honestly, I want a MARILL.\nBut I make do with my cute SNUBBULL.\rAw! I’m just playin’!\nI’m just playin’, SNUBBULL! You the\fcutest homie EVER, fr!</language>
+		<language name="English">Honestly, I want a MARILL.\nBut I make do with my cute SNUBBULL.\rAw! I’m just playin’!\nI’m just playin’, SNUBBULL! You the\fcutest homie EVER, fr!\fIt heard me. It’s mad. It’s chewin’\fmy purse.</language>
 	</row>
 	<row id="msg_0690_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... That’s disappointin’...</language>
+		<language name="English">Oh... That’s disappointin’... SNUBBULL\nis disappointed too. It growled.</language>
 	</row>
 	<row id="msg_0690_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0690_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my bad for the wait,\n{STRVAR_1 3, 0, 0}. Here, take this.\r</language>
+		<language name="English">Oh, my bad for the wait, {STRVAR_1 3, 0, 0}.\nHere, take this. SNUBBULL picked it.\r</language>
 	</row>
 	<row id="msg_0690_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0690_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I glowed up my {STRVAR_1 0, 10, 0} and made\nit even cuter than before!\rI ran into a wild\nSNUBBULL recently.\rMy SNUBBULL, I promise you, was WAY\ncuter than the wild one.\rExpect a call from me.</language>
+		<language name="English">I glowed up my {STRVAR_1 0, 10, 0} and made it\neven CUTER!\rI ran into a wild SNUBBULL recently.\rMy SNUBBULL, I PROMISE, was WAY\ncuter than the wild one.\fThe wild one had better teeth though.\rExpect a call from me.</language>
 	</row>
 	<row id="msg_0690_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I glowed up my {STRVAR_1 0, 10, 0} and\nmade it even cuter than before!\rI saw a wild MARILL the\nother day. Or so I thought.\rA closer look showed it was\n{STRVAR_1 0, 11, 0}. I was SO heated.\rExpect a call from me.</language>
+		<language name="English">I glowed up my {STRVAR_1 0, 10, 0} and made it\neven CUTER!\rI saw a wild MARILL the other day.\nOr so I thought.\rA closer look showed it was {STRVAR_1 0, 11, 0}.\nI was SO heated. I cried in my car.\rExpect a call from me.</language>
 	</row>
 	<row id="msg_0690_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My husband got some Gold Grills.\rIf you want, you can have one as\ngood looks for helpin’ me out.\rI’ll be at {STRVAR_1 4, 3, 0}.\nCome see me when you can.</language>
+		<language name="English">My husband got some Gold Grills.\rIf you want, you can have one as good\nlooks for helpin’ me out.\fHe won’t miss it. He got 30.\rI’ll be at {STRVAR_1 4, 3, 0}.\nCome see me when you can.</language>
 	</row>
 	<row id="msg_0690_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0690_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your homies in prime form?\nLet’s chat about homies again.</language>
+		<language name="English">Your homies in prime form?\nLet’s chat about homies again.\fMostly MARILL. Don’t tell SNUBBULL.</language>
 	</row>
 </body>

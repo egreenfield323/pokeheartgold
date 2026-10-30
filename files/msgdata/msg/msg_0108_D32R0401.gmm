@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back when you got the heart!</language>
+		<language name="English">Come back when you got the heart!\nOr at least a snack. We hungry.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come back soon, hear?\r</language>
+		<language name="English">Come back soon, hear?\nThe chairs miss you.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0108_D32R0401_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rYou ain’t save before you dipped\nlast time.\rSo that run is DONE. You\ndisqualified. Them the rules!\r</language>
+		<language name="English">AYO!\rYou ain’t save before you dipped\nlast time.\rSo that run is DEAD. You\ndisqualified. Them the rules!\fI don’t make ’em. I just enjoy ’em.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayyy, congrats!\rFor that W, we givin’ you\nthis souvenir print!\r</language>
+		<language name="English">AYYY, congrats!\rFor that W, we givin’ you this\nsouvenir print! Frame it!\fOr don’t. It’s your life.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -98,27 +98,27 @@
 	</row>
 	<row id="msg_0108_D32R0401_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wanna raise strong homies but got\nno clue which one to pick...?\rFor Hustlers who feel like that,\nthe Battle Factory is a spot\fworth hittin’!</language>
+		<language name="English">Wanna raise strong homies but got\nno clue which one to pick...?\rFor Hustlers like that, the Battle\nFactory hit different!\fYou try ’em before you commit.\fLike a gym membership.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You right about that.\rThey say life is one long\nlesson.\rThis the best spot to learn\nabout scraps and about\fother Hustlers...</language>
+		<language name="English">You right about that.\rThey say life is one long lesson.\rThis the best spot to learn about\nscraps and other Hustlers...\fI’m on lesson 4,000. Still failin’.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aaaaand--bam!\nAaaaaaaaaand--bam!\rI ain’t got no homies yet, so I’m\npractice-throwin’ Hood Balls!</language>
+		<language name="English">Aaaaand--BAM!\nAaaaaaaaaand--BAM!\rI ain’t got no homies yet, so I’m\npractice-throwin’ Nap Sacks!\fAt my little brother.\fHe don’t like it.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandma, yoo-hoo! Grandma!\nI came to trade Accessories!\fI got somethin’ just for you!</language>
+		<language name="English">Grandma! Yoo-hoo! GRANDMA!\nI came to trade Accessories!\fI got somethin’ just for you!\fIt’s a mustache. For your homie.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, good looks, baby...\rYou so cute and strong and sweet...\fI’m blessed to have a grandbaby\nlike you.</language>
+		<language name="English">Oh, good looks, baby...\rYou so cute and strong and sweet...\fI’m blessed to have a grandbaby\flike you.\r...Now go get Grandma some fries.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That lil girl over there with\nher grandma...\rI happen to know that lil girl\nis a straight-up MENACE in scraps...\rDon’t let looks fool you.\n</language>
+		<language name="English">That lil girl over there with her\ngrandma...\rShe a straight-up MENACE in scraps.\nShe swept me in four turns.\fThen asked if I was OK.\fI was not OK.\n</language>
 	</row>
 	<row id="msg_0108_D32R0401_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -142,15 +142,15 @@
 	</row>
 	<row id="msg_0108_D32R0401_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rYou ain’t got a single homie\nthat’s at least Lv. 30!\r</language>
+		<language name="English">AYO!\rYou ain’t got a single homie at\nleast Lv. 30!\fGo train! The Hall ain’t a daycare!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo!\rFor Double Battles, you need two\nof the same kinda homie, both\fat least Lv. 30.\r</language>
+		<language name="English">AYO!\rFor Double Battles you need two of\nthe same kinda homie, both at\fleast Lv. 30. Twins only.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Also, Eggs can’t get in. Obviously.\r</language>
+		<language name="English">Also, no Eggs. Obviously.\nEggs can’t fight. They just sit there.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -226,7 +226,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come holla at me when you ready.\r</language>
+		<language name="English">Come holla at me when you ready.\nI’ll be right here. Standin’. Forever.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -238,55 +238,55 @@
 	</row>
 	<row id="msg_0108_D32R0401_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You eat your fave food first or\nsave it for last?\rAt the Battle Hall, it’s better to\nstart with the types your homies\fdon’t like. Why?\r’cause the other side level up\nas you keep goin’!</language>
+		<language name="English">You eat your fave food first or\nsave it for last?\rAt the Battle Hall, start with the\ntypes your homies don’t like.\rWhy?\r’Cause the other side level up\nas you keep goin’!\fAlso always eat the fries first.\fThey get soggy.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That fancy stage!\rWin streaks get kept for each\nkinda homie.\fEvery homie can make it up there.\rAin’t it beautiful that you can\ngo for the top with\fANY homie?</language>
+		<language name="English">That fancy stage!\rWin streaks get kept for EACH kind\nof homie. Every homie can make it.\rAin’t it beautiful you can go for\nthe top with ANY homie?\fEven a ugly one. ESPECIALLY a ugly one.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow...\rMy SLOWBRO a cutie, but he done\nscrapped the Brain here.\rThe Brain take your homies on at\nthe same level, to keep it fair.</language>
+		<language name="English">Slow...\rMy SLOWBRO a cutie, and he SCRAPPED\nthe Brain here. Took four hours.\rThe Brain match your level so it’s\nfair.\fHe still ain’t recovered. He nappin’.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWBRO: ...Slow?</language>
+		<language name="English">SLOWBRO: ...Slow?\n...Bro?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here’s a tip!\rTry the Battle Hall with\nnot just your fave homie,\rbut different kinds of homies\nif you tryna build your\foverall record too.</language>
+		<language name="English">Here’s a tip!\rDon’t just run the Hall with your\nfave homie.\rSpread it out across different\nkinds if you tryna build a record.\fDon’t put all your eggs in one homie.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Hall, if it’s the same\nkinda homie, you can roll in\fdifferent ones and keep your record.\rMaybe have different ones\nthat know different move types.</language>
+		<language name="English">At the Battle Hall, same kinda\nhomie keep the same record.\rSo roll in different ones that know\ndifferent moves!\fLike different outfits. Same drip.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how HOPPIP got two types--\nGrass and Flying?\rThat mean it can show up as a\nGrass type AND a Flying type.\rMe?\rYou could think of me as...\na “Lighthearted” type and\fa “Baddie” type, I guess.</language>
+		<language name="English">You know how HOPPIP got two types--\nGrass AND Flying?\rMeaning it can show up as either one.\rMe?\rYou could think of me as...\na “Lighthearted” type and\fa “Baddie” type.\fWeak to compliments. Immune to haters.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A lil advice...\rAt the Battle Hall, the other side’s\nhomies match your level.\rThat way, you can pick any of your\nhomies without trippin’ about\ftheir levels.</language>
+		<language name="English">A lil advice...\rAt the Battle Hall, the other side’s\nhomies match your level.\rSo use whoever you want, no stress.\nLevel don’t matter. Heart do.\fAnd type matchups. Mostly matchups.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall keep your\nwin-streak records.\fThat’s dope, huh?\r...Wait a sec!\rMe and my homie can start runs\nwith the same setup and see who\fcan stretch their win streak\fthe longest.\fThat’s even MORE fun!</language>
+		<language name="English">The Battle Hall keep your\nwin-streak records. Dope, huh?\r...Wait a sec!\rMe and my homie can start runs with\nthe same setup and see who last\flongest!\fLoser buy wings. I’m already hungry.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I keep track of the total wins from\nyour longest Single Battle\fwin streaks at the Battle Hall.\rBasically, I add up just the longest\nstreaks for each kinda homie.</language>
+		<language name="English">I keep track of the total wins from\nyour longest Single Battle streaks.\rI add up just the longest streak\nfor each kinda homie.\fI do it by hand. On a napkin.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When your total win-streak record\nhit certain numbers, you get BP\fas a reward.\r{STRVAR_1 3, 0, 0}, your total win-streak\nrecord is {STRVAR_1 55, 1, 0} right now.\r</language>
+		<language name="English">When your total hit certain numbers,\nyou get BP. Like a loyalty card.\r{STRVAR_1 3, 0, 0}, your total win-streak record\nis {STRVAR_1 55, 1, 0} right now.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your total win-streak record\nhit {STRVAR_1 55, 2, 0}.\fHere go your BP.\r</language>
+		<language name="English">Your total hit {STRVAR_1 55, 2, 0}.\fHere go your BP. Don’t spend it all\fin one place.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When your total win-streak record\nhit {STRVAR_1 55, 3, 0}, you get BP.</language>
+		<language name="English">When your total hit {STRVAR_1 55, 3, 0},\nyou get more BP. Keep grindin’.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
@@ -298,106 +298,106 @@
 	</row>
 	<row id="msg_0108_D32R0401_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, your total win-streak\nrecord sittin’ at {STRVAR_1 55, 1, 0}.\r...Good gracious!\nThat record is CRAZY!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, your total win-streak\nrecord sittin’ at {STRVAR_1 55, 1, 0}.\r...GOOD GRACIOUS!\nThat number DISRESPECTFUL!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: The Battle Hall been kinda\nborin’ lately.\rAin’t been no fire challengers\nwho can get the crowd goin’.\rSomebody who can beat the\nBrain... Ain’t there NOBODY?</language>
+		<language name="English">Winston: The Battle Hall been DRY\nlately.\rNo fire challengers. No crowd.\nJust me and the janitor clappin’.\rSomebody who can beat the Brain...\nAin’t there NOBODY?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Lemme take a wild guess.\nYou gettin’ into the Battle Hall?\fIt’s addictive, huh?\rThe more you win, the more kinds of\nhomies you get to see, too.</language>
+		<language name="English">Winston: Lemme guess.\nYou gettin’ into the Battle Hall?\fIt’s addictive, huh?\rThe more you win, the more homies\nyou see!\fI’m addicted too. I live here now.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: ...\n...Oh, my bad for starin’!\rI saw you on stage last time.\nYou got that star quality.\rI’mma keep my eye on you.\nYou got that aura.</language>
+		<language name="English">Winston: ...\n...Oh, my bad for starin’!\rI saw you on stage last time.\nYou got that STAR quality.\rI’mma keep my eye on you.\nLike, a LOT. Don’t worry about it.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: I watch you every time\nyou hit the stage.\rYou fun to watch, lemme tell you.\rNow I’m always lookin’ forward to\nseein’ you and your\fhomies on stage.</language>
+		<language name="English">Winston: I watch you EVERY time you\nhit the stage.\rYou fun to watch, lemme tell you.\rI made a poster. Two posters.\nOne for the wall, one for the car.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Ayo, there!\nWhat you finna do this time?\rWhich homie you goin’ for a\nrecord with next?\rWhen I start thinkin’ about that,\nI get too hype to sleep at night.\rThat’s why I been sleepin’ in lately!</language>
+		<language name="English">Winston: AYO!\nWhat you finna do this time?\rWhich homie you goin’ for a record\nwith next?\rI get too hype to sleep at night.\nThat’s why I been late to work.\fThey fired me. Worth it.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Awesome!\nSeriously awesome!\fYou BEYOND awesome!\rThe love you show so many homies...\nThat ain’t easy, I can tell ya!</language>
+		<language name="English">Winston: AWESOME!\nSERIOUSLY AWESOME!\fYou BEYOND awesome!\rThe love you show ALL these homies...\nI’m cryin’. I ain’t even ashamed.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: I ain’t never seen homies\nscrap as fun as yours do.\rYou the first of your kind for me\nas Hustlers go.\rYou know, I brag about you to anybody\nwho’ll listen.\rI been sayin’ you gon’ be a\nstar before you even had a record!</language>
+		<language name="English">Winston: I ain’t never seen homies\nscrap as fun as yours.\rYou the first of your kind.\rI brag about you to anybody who’ll\nlisten. And people who won’t.\fI got banned from a bus.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Go, {STRVAR_1 3, 0, 0}, go!\nGo, {STRVAR_1 3, 0, 0}, go!\rI’m makin’ up some dance moves and\ncheers I can do to hype you up.\rIf you wanna see ’em, you gotta\nkeep runnin’ up your records!</language>
+		<language name="English">Winston: GO, {STRVAR_1 3, 0, 0}, GO!\nGO, {STRVAR_1 3, 0, 0}, GO!\rI’m workin’ on dance moves and\ncheers to hype you up!\rWanna see ’em? Keep runnin’ up them\nrecords!\fI already sprained my ankle twice.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: You phenomenal.\nAll the scraps you had on stage...\fAll them glory moments...\rYour star burn SO bright!\nI can barely open my eyes around you!</language>
+		<language name="English">Winston: You PHENOMENAL.\nAll them scraps on stage...\fAll them glory moments...\rYour star burn SO bright!\nI gotta wear sunglasses inside now!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: The love for homies you\nshowed at the Battle Hall is as\fdeep as it is wide...\rYou can count on me, Winston, to be\nyour lifelong fan.\rJust like you love homies, I love you\nas the homie superstar!</language>
+		<language name="English">Winston: The love you showed homies\nat the Battle Hall...\fIt’s as deep as it is wide...\rYou can count on me, Winston, to be\nyour lifelong fan.\rI named my son after you.\nMy wife is NOT happy.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: It’s about the Battle Hall...\nIt ain’t excited me lately.\rAin’t been no gorgeous\nchallenger who can sheesh me.\rSomebody who can make me\na fan... Ain’t there NOBODY?</language>
+		<language name="English">Serena: It’s about the Battle Hall...\nIt ain’t excited me lately.\rNo gorgeous challenger to make me\nscream.\rSomebody to make me a fan...\nAin’t there NOBODY?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... ’Scuse me?\rIf you don’t mind me askin’, you\ngettin’ into the Battle Hall?\rIt’s fun in a addictive way, right?\nYou know what?\rThe more you win, the more kinds\nof homies show up.</language>
+		<language name="English">Serena: Um... ’scuse me?\rIf you don’t mind me askin’, you\ngettin’ into the Battle Hall?\rIt’s addictive, right?\nThe more you win, the more homies\fshow up. Sorry. Sorry for talkin’.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... ’Scuse me?\rI watched you when you was on stage.\nIt gave me butterflies seein’ you.\rUm... You don’t mind if I cheer for\nyou from now on, do you? Please?</language>
+		<language name="English">Serena: Um... ’scuse me?\rI watched you on stage.\nIt gave me butterflies. Like, real\fones. I needed to sit down.\rYou don’t mind if I cheer for you\nfrom now on, do you? Please?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... ’Scuse me?\rI cheer for you the best I can.\rI can’t get on stage with you, but\nI wanna show love to your\fhomies and you for goin’ so hard.</language>
+		<language name="English">Serena: Um... ’scuse me?\rI cheer for you the best I can.\nI’m kinda quiet though.\rSo I made a sign. It says your name.\nIt’s deadass small. Sorry.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... ’Scuse me?\rCan you tell me which homie\nyou goin’ for a record with next?\rWhen I start thinkin’ about that,\nI get all choked up.\rThen I can’t sleep at night\nwhen I get like that.</language>
+		<language name="English">Serena: Um... ’scuse me?\rWhich homie you goin’ for a record\nwith next?\rWhen I think about it I get all\nchoked up and can’t sleep.\fI’m so sorry. I’m so tired.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... ’Scuse me?\rFantastic! It’s fantastic!\nYou fabulously fantastic!\rThe love you show so many homies...\nThat must take crazy effort.</language>
+		<language name="English">Serena: Um... ’scuse me?\rFANTASTIC! It’s FANTASTIC!\nYou fabulously fantastic!\r...Sorry. That was loud.\nI’m gon’ go lay down.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: I ain’t never seen homies\nscrap as fun as yours do.\rYou the first Hustler ever who\ndid that.\rI... I brag on you to all my homies.\nI hope that’s OK.\rI tell ’em I wish I could be as\nwonderful a Hustler as you!</language>
+		<language name="English">Serena: I ain’t never seen homies\nscrap as fun as yours.\rI... I brag on you to all my\nhomies. I hope that’s OK.\rThey said I talk about you too much.\nI told ’em they jealous.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Hooray, hooray, {STRVAR_1 3, 0, 0}!\nGo, homies, go!\r...Oh! Um... ’Scuse me.\rI been workin’ on cheers and a\ndance routine for you.\rB-but, I’m sorry for bein’ so silly\nand giddy and...</language>
+		<language name="English">Serena: Hooray, hooray, {STRVAR_1 3, 0, 0}!\nGo, homies, go!\r...Oh! Um... ’scuse me.\rI been workin’ on a dance routine for\nyou. With Winston.\fWe not datin’. He just loud.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: You inspire me SO much.\rAll the glory you earned scrappin’\nso much on that shinin’ stage...\rJust seein’ you make me feel all\nhappy inside. ♫</language>
+		<language name="English">Serena: You inspire me SO much.\rAll that glory on that shinin’\nstage...\rJust seein’ you make me feel all\nhappy inside. ♫\fI made you a scrapbook. It’s 400\fpages. Sorry.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: The love you showed homies\nat the Battle Hall is as\fdeep as it is wide...\rIt’s amazin’, you love every kind\nof homie out there.\rI love you for bein’ so amazin’\nand dedicated!</language>
+		<language name="English">Serena: The love you showed homies\nat the Battle Hall is as deep\fas it is wide...\rYou love EVERY kinda homie.\nEven the ugly ones.\rI love you for bein’ so amazin’.\nAs a fan! As a fan. Sorry.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}.\nI love watchin’ you scrap here.\r’Cause...\nyou have fun whether you win\for lose!</language>
+		<language name="English">Lyra: Ayo, {STRVAR_1 3, 0, 0}.\nI love watchin’ you scrap here.\r’Cause you have fun whether you win\nor lose!\fMostly lose. But you have fun!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: The Battle Hall is fire for\nhomie fans like me!\rI get to see so many kinds of\nhomies I ain’t never seen.\rIt’s SO hard!</language>
+		<language name="English">Ethan: The Battle Hall is FIRE for\nhomie nerds like me!\rSo many homies I ain’t never seen!\nI been takin’ notes!\fIt’s SO hard! I lost nine in a row!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: {STRVAR_1 3, 0, 0}!\rI couldn’t help checkin’ up on you!\rEverybody goin’ hard, but I gotta\nsay you look happier than\fanybody else!\rOh, {STRVAR_1 3, 0, 0}, that’s right!\rI should hit the Department Store\nin Goldenrod and cop some useful\fstuff for you on the way home!</language>
+		<language name="English">Mom: {STRVAR_1 3, 0, 0}!\rI couldn’t help checkin’ up on you!\nI brought snacks! And a sign!\rEverybody goin’ hard, but you look\nhappier than anybody!\rOh, {STRVAR_1 3, 0, 0}, that’s right!\rI’mma hit the Goldenrod Dept. Store\non the way home and cop you some\fstuff! With YOUR bread!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You keep shockin’ me\nover and over.\rWhat a Hustler you turned out to be!\rIt ain’t enough that you caught\nmore homies than anybody can believe.\rThat alone is crazy enough.\nBut you bonded and scrapped with\f’em too.\rI’m SO proud to know you!</language>
+		<language name="English">Professor Oak: You keep shockin’ me\nover and over.\rWhat a Hustler you turned out to be!\rCaught more homies than anybody\ncan believe, AND you scrap with ’em!\rI’m SO proud to know you!\nCan I get a picture? For the lab.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: I love flashy events like\nthe Battle Hall.\rI ain’t sayin’ I wanna stand out\nin the crowd...\rI just love seein’ cute homies\ngettin’ all the attention!</language>
+		<language name="English">Whitney: I love flashy events like\nthe Battle Hall!\rI ain’t sayin’ I wanna stand out in\nthe crowd...\rI just love when cute homies get all\nthe attention! Like my MILTANK!\fAnd me. Mostly me.</language>
 	</row>
 </body>

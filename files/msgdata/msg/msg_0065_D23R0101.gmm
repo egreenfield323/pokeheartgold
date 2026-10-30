@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Correct.\nThird question!\rKurt, the Hood Ball plug, use\napricots to make ’em? {YESNO 0}</language>
+		<language name="English">Correct.\nThird question!\rKurt, the bag plug, get his leather\noutta TRASH CANS? {YESNO 0}</language>
 	</row>
 	<row id="msg_0065_D23R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sheesh, you did it!\nI was SURE the answer to the third\fone was apricots!\rOops!\nTime to get back to the Block!\r</language>
+		<language name="English">Whitney: Sheesh, you did it!\nI was SURE Kurt dug in trash cans!\fHave you SMELLED that man?\rOops!\nTime to get back to the Block!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

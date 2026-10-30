@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0688_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, you a Poké Maniac...\nI can tell. Yeah, you.\rBut your knowledge still shallow!\rYou know Bill?\nHe a INCREDIBLE Poké Maniac.\fI worship him.\rI’ll teach you all I know about Bill,\nso leave me your number. {YESNO 0}</language>
+		<language name="English">By the way, you a Poké Maniac...\nI can tell. Yeah, you.\rBut your knowledge still SHALLOW!\rYou know Bill?\nHe a INCREDIBLE Poké Maniac.\fI worship him. I have a shrine.\rI’ll teach you ALL I know about Bill,\nso leave me your number. {YESNO 0}</language>
 	</row>
 	<row id="msg_0688_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill--he more than amazin’!\rBein’ a Poké Maniac like him...\nThat’s my dream.</language>
+		<language name="English">Bill--he more than amazin’!\rBein’ a Poké Maniac like him...\nThat’s my dream.\fI wear his exact glasses. They ain’t\fprescription.</language>
 	</row>
 	<row id="msg_0688_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You DEFINITELY gon’ regret that...</language>
+		<language name="English">You DEFINITELY gon’ regret that...\nBill would be ashamed of you.</language>
 	</row>
 	<row id="msg_0688_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -27,11 +27,11 @@
 	</row>
 	<row id="msg_0688_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? You like talkin’ to\npeople nearby on the phone?\rYou know, this how I talk to my\nmama when I’m home?</language>
+		<language name="English">Huh? You like talkin’ to people nearby\non the phone?\rYou know, this how I talk to my mama\nwhen I’m home? From the basement.</language>
 	</row>
 	<row id="msg_0688_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, I got a SUPER rare\nhomie in a trade a while back.\rYou wanna know what it is?\nHehe, that’s a secret!\rSo that’s that.</language>
+		<language name="English">Oh yeah, I got a SUPER rare homie in a\ntrade a while back.\rYou wanna know what it is?\nHehe, that’s a SECRET!\rIt’s a RATTATA. A shiny one. Maybe.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -39,7 +39,7 @@
 	</row>
 	<row id="msg_0688_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah, I saw a rare homie about\na hour ago.\rIt was my first time seein’ it. But I\nain’t have no Hood Balls...\rWould Bill laugh at me?\rSo that’s that.</language>
+		<language name="English">Oh yeah, I saw a rare homie about a\nhour ago.\rFirst time seein’ it. But I had no Nap\nSacks...\rWould Bill laugh at me?\nBill would never. Bill’s kind.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -55,7 +55,7 @@
 	</row>
 	<row id="msg_0688_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...?\nBill apparently live on Route 25\fin Kanto.\rSo that’s that.</language>
+		<language name="English">You know...?\nBill apparently live on Route 25 in\fKanto.\fI’ve been to his house. Outside it.\fFor research.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -63,19 +63,19 @@
 	</row>
 	<row id="msg_0688_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...?\nBill’s lil sister apparently\fcan’t wink.\rSo that’s that.</language>
+		<language name="English">You know...? Bill’s lil sister\napparently can’t wink.\fShe blinks with both eyes.\fIt’s adorable. I’ve seen it. Twice.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...?\nBill supposedly hate milk and\fcan’t drink it.\rSo that’s that.</language>
+		<language name="English">You know...?\nBill supposedly HATE milk and can’t\fdrink it.\fI quit milk too. In solidarity.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...?\nApparently, Bill ain’t that good at\fscrappin’.\rSo that’s that.</language>
+		<language name="English">You know...?\nApparently, Bill ain’t that good at\fscrappin’.\fThat’s FINE. He’s a genius. Genius\fdon’t need to scrap.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know...?\nBill look like he got a crush on the\fFlower Shop lady.\rSo that’s that.</language>
+		<language name="English">You know...?\nBill look like he got a crush on the\fFlower Shop lady.\fI’m happy for him. I’m FINE.\rSo that’s that.</language>
 	</row>
 	<row id="msg_0688_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -87,7 +87,7 @@
 	</row>
 	<row id="msg_0688_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You got time like always, right?\nFeel like a scrap?\rYou’ll get to see my rare\nhomie. It’s worth it!\rYou know where--{STRVAR_1 4, 3, 0}.</language>
+		<language name="English">You got time like always, right?\nFeel like a scrap?\rYou’ll get to see my rare homie.\nIt’s worth it!\rYou know where--{STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0688_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -95,6 +95,6 @@
 	</row>
 	<row id="msg_0688_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You wanted to hear about Bill?\rMy bad, but I’m too busy for you.\rI’ll call when I got time.\nGood looks!</language>
+		<language name="English">You wanted to hear about Bill?\rMy bad, but I’m too busy for you.\nI’m reorganizin’ my Bill scrapbook.\rI’ll call when I got time.\nGood looks!</language>
 	</row>
 </body>

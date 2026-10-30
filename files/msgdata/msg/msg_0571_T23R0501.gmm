@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rHm? Who you?\r{STRVAR_1 3, 0, 0}, huh? You want me to make\nsome Balls?\rSorry, that gotta wait.\rYou know The Feds?\nAh, don’t trip. I’ll tell you anyway.\rThe Feds a evil gang that\nuse homies for their dirty work.\rThey supposedly got shut down\nthree years ago.\rAnyway, they at the well choppin’\noff SlowpokeTails to sell!\rSo I’m finna go teach ’em\na lesson!\rHang on, SLOWPOKE!\nOld Kurt on the way!</language>
+		<language name="English">I got cameras, homie. Smile.\nNow what you want?\rHm? Who you?\r{STRVAR_1 3, 0, 0}, huh? You want me to stitch\nyou a bag?\rSorry, that gotta wait.\rYou know The Feds?\nAh, don’t trip. I’ll tell you anyway.\rThe Feds a evil gang that\nuse homies for their dirty work.\rThey supposedly got shut down\nthree years ago.\rAnyway, they at the well choppin’\noff SlowpokeTails to sell!\rSo I’m finna go teach ’em\na lesson!\rHang on, SLOWPOKE!\nOld Kurt on the way!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Ayo, {STRVAR_1 3, 0, 0}!\nYou handled that like a real one.\rLike I said, The Feds got\nshut down by a boy named Red three\fyears ago.\rNow they back...\nI got a bad feelin’ about it...\rAnyway, I’d be proud to\nmake Hood Balls for a Hustler\flike you, {STRVAR_1 3, 0, 0}.\fThis all I got, but take it.\r</language>
+		<language name="English">Kurt: Ayo, {STRVAR_1 3, 0, 0}!\nYou handled that like a real one.\rLike I said, The Feds got\nshut down by a boy named Red three\fyears ago.\rNow they back...\nI got a bad feelin’ about it...\rAnyway, I’d be proud to\nmake custom bags for a Hustler\flike you, {STRVAR_1 3, 0, 0}.\fThis all I got, but take it.\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,15 +15,15 @@
 	</row>
 	<row id="msg_0571_T23R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I make Hood Balls outta\nApricorns.\rGrab ’em off trees and bring ’em to me.\nDon’t buy ’em. Pick ’em.\fStore-bought is for cowards.</language>
+		<language name="English">Kurt: I make custom bags outta\nscraps. Gator, croc, velvet, all that.\rDig ’em outta bushes and bring ’em\nto me. Don’t ask where they came from.\fI don’t.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: You got Apricorns for me?\fBet! I’ll turn ’em into Hood Balls.\r</language>
+		<language name="English">Kurt: You got scraps for me?\fBet! I’ll stitch you a custom bag.\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Takes a day to make a Hood Ball.\nCraftsmanship take TIME. Come back\flater.</language>
+		<language name="English">Kurt: Takes a day to make a bag.\nCraftsmanship take TIME. Come back\flater.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -31,11 +31,11 @@
 	</row>
 	<row id="msg_0571_T23R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I’M WORKIN’! Don’t bother me or\nI’ll throw a Apricorn!</language>
+		<language name="English">Kurt: I’M STITCHIN’! Don’t bother me\nor I’ll throw my slipper at you!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Ah, {STRVAR_1 3, 0, 0}!\fI just finished your Hood Ball. Here!\r</language>
+		<language name="English">Kurt: Ah, {STRVAR_1 3, 0, 0}!\fI just finished your bag. Here!\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -43,7 +43,7 @@
 	</row>
 	<row id="msg_0571_T23R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Came out CLEAN.\rGo recruit some homies with it.\nTell ’em Kurt sent you.</language>
+		<language name="English">Kurt: Came out CLEAN. Hand-stitched.\rGo snatch some homies with it.\nTell ’em Kurt sent you.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -59,7 +59,7 @@
 	</row>
 	<row id="msg_0571_T23R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dad work at Silph, studyin’ Hood\nBalls.\rI gotta stay home with Grandpa and\nSLOWPOKE. Grandpa yell at TV. SLOWPOKE\fdon’t do nothin’. Boring.</language>
+		<language name="English">My dad work at Silph, studyin’ Nap\nSacks.\rI gotta stay home with Grandpa and\nSLOWPOKE. Grandpa yell at TV. SLOWPOKE\fdon’t do nothin’. Boring.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -71,11 +71,11 @@
 	</row>
 	<row id="msg_0571_T23R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandpa can tell you more\nabout Apricorns.</language>
+		<language name="English">My grandpa can tell you more\nabout the bushes.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? Why? You don’t wanna talk to my\ngrandpa? He’s lonely! He talks to\ftrees!</language>
+		<language name="English">No? Why? You don’t wanna talk to my\ngrandpa? He’s lonely! He talks to\fbushes!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

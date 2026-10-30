@@ -6,23 +6,23 @@
 	</row>
 	<row id="msg_0715_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nYou think I’m fine, right?\rSo how ’bout we swap\nnumbers? {YESNO 0}</language>
+		<language name="English">You...\nYou think I’m fine, right?\fI can tell. Everybody does.\rSo how ’bout we swap numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t trip, you can call me anytime!</language>
+		<language name="English">Don’t trip, you can call me anytime!\nI know you will. You can’t help it.</language>
 	</row>
 	<row id="msg_0715_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see...\nMaybe I was overthinkin’...</language>
+		<language name="English">Oh, I see...\nMaybe I was overthinkin’...\fNah. You’ll be back.</language>
 	</row>
 	<row id="msg_0715_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it! I KNEW you thought I\nwas fine!\rSo, shall we swap\nnumbers now? {YESNO 0}</language>
+		<language name="English">I KNEW it! I KNEW you thought I was\nfine!\rSo, shall we swap numbers now? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be REAL shy.\nIf you nearby, you can come talk to\fme in person. It’s aight.</language>
+		<language name="English">You must be REAL shy.\nIf you nearby, come talk to me in\fperson. It’s aight. I don’t bite.</language>
 	</row>
 	<row id="msg_0715_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0715_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo, listen up!\nYesterday we was fightin’ a wild\f{STRVAR_1 0, 11, 0}.\rI used a Hennessy at the\nwrong moment, and it looked like we\fgon’ lose.\rMy homie went SO hard. I deadass\nwanted to win, you know?\rWell, stuff like that happen,\nI guess.</language>
+		<language name="English">Ayo, listen up!\nYesterday we fought a wild {STRVAR_1 0, 11, 0}.\rI used a Hennessy at the WRONG moment,\nand it looked like we gon’ lose.\fI drank half of it. My bad.\rMy homie went SO hard!\nWell, stuff like that happen, I guess.</language>
 	</row>
 	<row id="msg_0715_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You keep all the homies you\ncatch in PC Boxes?\rMe, I usually just let ’em go...\rThat reminds me, I recently let this\n{STRVAR_1 0, 11, 0} go...\rThat’s kinda a waste, ain’t it?</language>
+		<language name="English">You keep all the homies you catch in\nPC Boxes?\rMe, I usually just let ’em go...\nI’m a catch-and-release kinda girl.\rI recently let a {STRVAR_1 0, 11, 0} go...\nThat’s kinda a waste, ain’t it?</language>
 	</row>
 	<row id="msg_0715_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0715_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It wasn’t real smart to come to\nthe Park in a miniskirt, was it...?\rI mean, these leaves keep scratchin’\nmy legs...</language>
+		<language name="English">It wasn’t real smart to come to the\nPark in a miniskirt, was it...?\rThese leaves keep scratchin’ my legs...\fBut I look GOOD though.</language>
 	</row>
 </body>

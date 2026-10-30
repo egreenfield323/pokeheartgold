@@ -6,67 +6,67 @@
 	</row>
 	<row id="msg_0224_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OG Balls</language>
+		<language name="English">Whole Gangs</language>
 	</row>
 	<row id="msg_0224_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plug Balls</language>
+		<language name="English">Rug Rolls</language>
 	</row>
 	<row id="msg_0224_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bando Balls</language>
+		<language name="English">Duffel Bags</language>
 	</row>
 	<row id="msg_0224_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hood Balls</language>
+		<language name="English">Nap Sacks</language>
 	</row>
 	<row id="msg_0224_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zoo Balls</language>
+		<language name="English">Zoo Sacks</language>
 	</row>
 	<row id="msg_0224_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trap Balls</language>
+		<language name="English">Trap Sacks</language>
 	</row>
 	<row id="msg_0224_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pool Balls</language>
+		<language name="English">Pool Sacks</language>
 	</row>
 	<row id="msg_0224_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crib Balls</language>
+		<language name="English">Crib Sacks</language>
 	</row>
 	<row id="msg_0224_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Re-Up Balls</language>
+		<language name="English">Re-Up Sacks</language>
 	</row>
 	<row id="msg_0224_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Late Balls</language>
+		<language name="English">Late Sacks</language>
 	</row>
 	<row id="msg_0224_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drip Balls</language>
+		<language name="English">Drip Sacks</language>
 	</row>
 	<row id="msg_0224_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIP Balls</language>
+		<language name="English">VIP Sacks</language>
 	</row>
 	<row id="msg_0224_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Night Balls</language>
+		<language name="English">Night Sacks</language>
 	</row>
 	<row id="msg_0224_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Henny Balls</language>
+		<language name="English">Henny Sacks</language>
 	</row>
 	<row id="msg_0224_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dash Balls</language>
+		<language name="English">Dash Sacks</language>
 	</row>
 	<row id="msg_0224_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Day1 Balls</language>
+		<language name="English">Day1 Sacks</language>
 	</row>
 	<row id="msg_0224_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -1874,7 +1874,7 @@
 	</row>
 	<row id="msg_0224_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Apricorn Boxes</language>
+		<language name="English">Stash Boxes</language>
 	</row>
 	<row id="msg_0224_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
@@ -1942,67 +1942,67 @@
 	</row>
 	<row id="msg_0224_00485" index="485">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Apricorns</language>
+		<language name="English">Gator Hides</language>
 	</row>
 	<row id="msg_0224_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ylw Apricorns</language>
+		<language name="English">Satin Scraps</language>
 	</row>
 	<row id="msg_0224_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blu Apricorns</language>
+		<language name="English">Croc Hides</language>
 	</row>
 	<row id="msg_0224_00488" index="488">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grn Apricorns</language>
+		<language name="English">Suede Scraps</language>
 	</row>
 	<row id="msg_0224_00489" index="489">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pnk Apricorns</language>
+		<language name="English">Velvet Scraps</language>
 	</row>
 	<row id="msg_0224_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wht Apricorns</language>
+		<language name="English">Nylon Scraps</language>
 	</row>
 	<row id="msg_0224_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blk Apricorns</language>
+		<language name="English">Denim Scraps</language>
 	</row>
 	<row id="msg_0224_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Balls</language>
+		<language name="English">Nylon Bags</language>
 	</row>
 	<row id="msg_0224_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Level Balls</language>
+		<language name="English">Gator Bags</language>
 	</row>
 	<row id="msg_0224_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lure Balls</language>
+		<language name="English">Croc Bags</language>
 	</row>
 	<row id="msg_0224_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heavy Balls</language>
+		<language name="English">Denim Bags</language>
 	</row>
 	<row id="msg_0224_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Love Balls</language>
+		<language name="English">Velvet Bags</language>
 	</row>
 	<row id="msg_0224_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Homie Balls</language>
+		<language name="English">Suede Bags</language>
 	</row>
 	<row id="msg_0224_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moon Balls</language>
+		<language name="English">Satin Bags</language>
 	</row>
 	<row id="msg_0224_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sport Balls</language>
+		<language name="English">Sport Sacks</language>
 	</row>
 	<row id="msg_0224_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Park Balls</language>
+		<language name="English">Park Sacks</language>
 	</row>
 	<row id="msg_0224_00501" index="501">
 		<attribute name="window_context_name">used</attribute>

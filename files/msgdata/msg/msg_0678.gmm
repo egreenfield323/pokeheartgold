@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0678_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You got some NERVE!\nThat’s hard!\fJust what I look for in a homie!\rWhadda ya say we swap\nnumbers and be best homies? {YESNO 0}</language>
+		<language name="English">You got some NERVE!\nThat’s hard!\fJust what I look for in a homie!\rWhadda ya say we swap numbers and be\nBEST homies? {YESNO 0}</language>
 	</row>
 	<row id="msg_0678_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aight!\nCall me anytime!\rAbout school,\nor about homies,\for a puzzle,\for a Block trick.\fEven if nothin’ hard come up,\fyou can still gimme a call!\rI prob’ly won’t know the answer, but\nI’ll at least listen!\r’Cause we homies, you know?</language>
+		<language name="English">AIGHT!\nCall me anytime!\rAbout school, homies, a puzzle,\na Block trick, your feelings...\fEven if nothin’ come up, call!\rI prob’ly won’t know the answer, but\nI’ll LISTEN! ’Cause we homies!</language>
 	</row>
 	<row id="msg_0678_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayo! What, you nervous?</language>
+		<language name="English">Ayo! What, you nervous?\nIt’s the tattoos. They temporary.</language>
 	</row>
 	<row id="msg_0678_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,34 +22,34 @@
 	</row>
 	<row id="msg_0678_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, I prob’ly look way scarier than\nI’m. Would you believe I’m deadass\fa nice guy?\rI won’t bite, so come talk to me\nin person!</language>
+		<language name="English">I prob’ly look WAY scarier than I’m.\nWould you believe I’m a nice guy?\rI won’t bite, so come talk to me in\nperson! I brought cookies.</language>
 	</row>
 	<row id="msg_0678_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, Teddy! You do a pretty good\nmotorcycle impression!\rNext time you get a chance, you and me\nshould go ridin’ and yell like\fmotorcycles. What you say?\r......Wait, who is this?\rOh no! Wrong number!\nMy bad!</language>
+		<language name="English">Yo, Teddy! You do a pretty good\nmotorcycle impression!\rNext time you and me should go ridin’\nand yell like motorcycles.\fVROOOOM!\r......Wait, who is this?\rOh no! Wrong number!\nForget you heard that!</language>
 	</row>
 	<row id="msg_0678_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} go HARD!\nAnyway, its fightin’ spirit different.\rIt ain’t never lost to nothin’ but the\nstrongest homies!\rWhat about your homies?\nThey got any fightin’ spirit?\rNever mind, you ain’t gotta answer.\rI know better than anybody\nhow strong your homies is!</language>
+		<language name="English">My {STRVAR_1 0, 10, 0} go HARD!\nIts fightin’ spirit is DIFFERENT.\rIt never lost to nothin’ but the\nstrongest homies!\rWhat about your homies? Fightin’ spirit?\rNever mind, you ain’t gotta answer.\nI KNOW how strong your homies is.\fI still have nightmares.</language>
 	</row>
 	<row id="msg_0678_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We a Biker gang, you know.\nGot homies with poison,\fwith spikes all over their bodies,\fwith fangs, and we even got some\fGhost-type homies.\fIt’s all a show of how tough we.\rBut...\rAs for me...\rI REALLY like cute homies like MARILL!</language>
+		<language name="English">We a Biker gang, you know.\nGot homies with poison, spikes,\ffangs, even Ghost types.\fAll a show of how TOUGH we.\rBut...\rAs for me...\rI REALLY like cute homies like MARILL!\nI got a MARILL keychain. On my bike.</language>
 	</row>
 	<row id="msg_0678_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, yesterday I thought I was finna\ncatch a {STRVAR_1 0, 11, 0}.\fBut that {STRVAR_1 0, 11, 0}, it took one look\fat me and dipped!\rIt was SO rude!\rYou wouldn’t run if you saw me,\nwould you...?</language>
+		<language name="English">So yesterday I was finna catch a\n{STRVAR_1 0, 11, 0}.\fBut that {STRVAR_1 0, 11, 0} took one look at me\fand DIPPED!\rIt was SO rude! I was smilin’!\rYou wouldn’t run if you saw me,\nwould you...? Be honest. Don’t.</language>
 	</row>
 	<row id="msg_0678_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! I REALLY wanna scrap you again.\nI mean, I’m itchin’ to show off!\rI’m always hangin’ on\n{STRVAR_1 4, 3, 0}. Don’t get all\fnervous and dip, got it?!</language>
+		<language name="English">YO! I REALLY wanna scrap you again!\nI’m itchin’ to show off!\rI’m always hangin’ on {STRVAR_1 4, 3, 0}.\nDon’t get nervous and dip, got it?!</language>
 	</row>
 	<row id="msg_0678_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s goin’ on with you?\nI’m waitin’ on {STRVAR_1 4, 3, 0}!\rYou wouldn’t forget a promise you made\nwith a homie, would you?</language>
+		<language name="English">What’s goin’ on with you?\nI’m waitin’ on {STRVAR_1 4, 3, 0}!\rYou wouldn’t forget a promise you made\nwith a homie, would you?\fI’d cry. Biker tears. Manly ones.</language>
 	</row>
 	<row id="msg_0678_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my bro Markey was talkin’\nabout this earlier... You thought\fabout joinin’ our crew at all?\rWe hang on Cycling Road and make a\nLOT of noise, throw trash around,\fthen pick up our trash and take it\fhome to throw away. It’s SO fun!</language>
+		<language name="English">You know, my bro Markey was talkin’\nabout this... You thought about\fjoinin’ our crew?\rWe hang on Cycling Road and make a LOT\nof noise, throw trash around,\fthen pick up our trash and take it\fhome to recycle.\fWe also do yoga Tuesdays.</language>
 	</row>
 </body>
