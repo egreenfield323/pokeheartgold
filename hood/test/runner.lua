@@ -52,6 +52,7 @@ for line in io.lines(dir .. "cmds.txt") do
     stylus.set({touch = false}); frames(6)
   elseif c == "load" then savestate.load(savestate.create(tonumber(w[2]))); frames(2)
   elseif c == "save" then savestate.save(savestate.create(tonumber(w[2])))
+  elseif c == "poke16" then memory.writeword(tonumber(w[2]), tonumber(w[3]))   -- patch RAM (a state's loaded overlay)
   elseif c == "shot" then shot(w[2])
   elseif c == "burst" then
     for i = 1, tonumber(w[3]) do shot(string.format("%s_%03d", w[2], i)); frames(tonumber(w[4])) end

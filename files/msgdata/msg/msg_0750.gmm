@@ -1694,7 +1694,7 @@
 	</row>
 	<row id="msg_0750_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iced Grill</language>
+		<language name="English">Brain Freeze</language>
 	</row>
 	<row id="msg_0750_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
@@ -1806,7 +1806,7 @@
 	</row>
 	<row id="msg_0750_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taser Beam</language>
+		<language name="English">Power Bank</language>
 	</row>
 	<row id="msg_0750_00452" index="452">
 		<attribute name="window_context_name">used</attribute>

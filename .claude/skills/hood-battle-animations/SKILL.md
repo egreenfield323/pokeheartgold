@@ -51,6 +51,33 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
   targets/attackers always end back on their spot.
 - Pokémon/props never stay displaced. The variant tail resets both battlers; don't fight it.
 
+## Making them super detailed and good (the process - every batch)
+
+The user rejects "simple and cheap". Quantity never lowers the bar ("don't decrease quality just because of the
+greater quantity"). For every move:
+
+1. **Pitch first.** A table of move -> gag, one line each, before writing code. The user edits it (Air Cutter's
+   "Mixtape" was rejected: no link to air - the gag must fit the move's TYPE/mechanic AND its hood name).
+2. **A gag = a little scene in 3 beats**: setup (the prop arrives, something builds - rattling, charging,
+   winding up, a pose) -> escalation (repeats getting bigger/faster, a reaction from the foe) -> payoff (the hit
+   with flash + shake + knockback, or a punchline image) -> a short aftermath (the foe dizzy/soaked/blushing, the
+   prop flying off, the attacker whistling). One prop + one hit is "boring".
+3. **Several art pieces per move**, all detailed (outlines, highlights, shading, small details that sell it: the
+   tag on the body bag, the bungee on the hooptie's trunk, the moth out of the empty wallet). Typical move: a
+   main prop (64px), a second state of it (open/shut, lit/unlit, upright/tipped - via `added()`/`mirrored()`),
+   plus 1-2 tinted particle shapes (alpha) for motion/impact.
+4. **The object must be unmistakable in one look** - the user names what they see, and if it's wrong it's out:
+   a cup of soda read as "bubbles", a 9V as "a 2-liter", a steak as "a red plaque", a pothole as "a dark oval",
+   a freeloader as "a dude with a penis" (a leg sticking out between them), a binoculars mask as "a heart". Draw
+   the iconic silhouette + the one detail everyone knows (grill marks + T-bone; manhole grid; 9V label + snaps;
+   a straw + lid on a giant cup). Check the contact sheet ASKING "what would someone call this?".
+5. **It has to happen WHERE it makes sense.** The geyser must come up under the foe, the boot clamps their
+   feet, the collar sits on the neck, the chancla flies in from off-screen. If the spot is unusable (HP box,
+   message box), MOVE THE FOE to the spot (Ground Game: the foe steps onto the manhole first) rather than leaving
+   the effect beside them.
+6. **No sign** unless the words are the joke (see above). Sound sells the beats: a builtin SE on each hit.
+7. **Record, then look at 2x zooms of the key frames** (setup, payoff) - not just the 10-wide sheet. Fix, re-record.
+
 ## Pipeline
 
 1. **Art** - `hood/fxart.py`. Color art: RGBA PIL image (`to_a3i5` packs it). Particle shapes tinted by the
@@ -114,6 +141,26 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
 - **Shakes restore the battler's start position** when they end: a shake overlapping a MoveBattlerBy snaps it
   back (Smackdown's charge did that). Don't shake a battler that's about to move.
 - Strobing tints (`func(34, ...)` alternating colours) leave the last colour fading out: end on the bright one.
+- **Looping SEs play forever unless stopped.** Some of the game's SEs loop (1914, 1915, 1938, 1946, 1972, 1982,
+  2010, 2041, 2065, 2121 - Icy Wind, Earth Power, Blizzard, Crunch, Burn, Rock Polish, Leaf/Tailwind...); the
+  original scripts end them with opcode 44 (StopSE id). `variant()` now appends 44 for every `gunfx.LOOPING_SE`
+  the script played (the last move of a reel "never ended" before that). New looping SE found? add it there.
+- **Kit/emitter constant names are one namespace**: a new per-kit constant that reuses a kit name (TRAIL, GLASS,
+  STEAM...) silently retargets another move's kit (set_texture size assert). Suffix new ones (CONTRAIL13).
+  Resource constants too (MUDDRIP, RINGS_E, CAN_R all collided in set 17: the old kit then fails the self_dest
+  assert) - grep a name before defining it. Same for `fxart` functions: a second `def twinkle` silently replaces
+  the first (`grep -o "^def [a-z_0-9]*" hood/fxart.py | sort | uniq -d` must print only `crackle`).
+- **File 82's res 3 is odd**: quad aspect 1.4 + a 6-frame start delay (+48/+50; set 17 resets them for all its
+  kits), and a polygon field (bytes 80-83, zeroing it makes the particle invisible) that draws the quad
+  ~`RES3_DROP` (18.6) px per unit of scale BELOW its emitter. Props on res 3 next to the same art on res 1/2 (the
+  3-plate barbell, a held gun) need `+ RES3_DROP * scl` on y.
+- **A re-emitted spinning prop restarts its rotation every emission** - overlapping copies at different angles
+  = a grey blob (the first Gun Twirl). Spinners are ONE long-life particle (Gun Twirl, the Mudslinging tire).
+- **Alpha puffs/flames (16x32) scaled past ~.5 turn into blurry smears** ("light shafts", flame hits, mud
+  globs, power glow all had to shrink): keep them small and many.
+- **Per-move kits must exist in `DONOR` and in `KITS` as tuples** - a single kit needs the comma: `(BMX,)`.
+- **Texture slot sizes are fixed**: tex(b, 1, art) must match the slot (82/349 tex1 = 64px/32px). A 32px art into
+  a 64px slot asserts - use `added(b, art)` (a new texture of any size) and `prop(..., tex=idx)` instead.
 - Don't tint a battler the colour of the effect it's inside: Beam Me Up's foe, tinted blue in the blue water
   column, just vanished. Tint after it comes out (soaked on landing).
 - **Sounds - the sound heap is nearly full mid-battle.** Don't add instruments to the battle bank (751) or
@@ -139,6 +186,8 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
   Velocity: `VEL_UNITS = 355` per px/frame (`mover(vx, vy)` does it for you).
 - `scl_anm = (start, mid, end, in, out)` with out=255 never runs the out phase: the particle HOLDS at `mid`, so
   its on-screen size is `scl * mid`, not `scl * end`.
+- **`side` is the ATTACKER's side.** In a script, `side == "player"` means the foe is the enemy up top. Writing
+  `(a) if side == "player" else (b)` "for the foe" backwards put Ground Game's hole under your HP box for a while.
 - HP boxes: the foe's covers the top-left (y < ~52, x < ~120), yours the bottom-right. Player-side signs sit 50px
   above the homie (`_sign_at`) so they clear the foe's box.
 - Measured: your HP box is x > ~135, y ~93-140; the message box (shown during the move) y > ~143 - both hide
@@ -166,6 +215,9 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
 - Ball signs (`ballfx`) and GLOW UP! (`evofx`) follow the same rules with their own camera factors.
 
 ## Draw order
+- A prop drawn over a Pokémon hides it (particles always draw over battlers): big props at the foe's centre
+  cover the foe (the first manhole hid Pidgey). Put it at the edge/feet, or let it cover on purpose (frozen in
+  an ice block).
 
 - Kits draw in the order of their slots: a later kit in the `KITS` tuple draws OVER earlier ones (signs over the
   jet). Inside one kit, a newer emitter draws UNDER older ones. Something that must show in front of a big prop
@@ -188,9 +240,16 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
 
 ## Testing (DeSmuME)
 
+- `showcase(order=[...])` blanks every kit the reel (and the effect animations) doesn't load, so a/0/2/9 stays
+  under its fixed 4 MB however many kits exist. Capture frames are 256x384 (both screens): crop (0,0,256,192).
+
 - **Ask before taking over DeSmuME if it's open** (Get-Process DeSmuME*). Never inject global keyboard input,
   never spam Lua windows, never blind-navigate the title screen.
-- The current test battle: **hood-showcase slot 6** (Cyndaquil Lv13 vs a wild Pidgey Lv3, at the FIGHT menu).
+- The current test battle: **hood-showcase slot 6** (Cyndaquil Lv13 vs a wild Pidgey Lv2, at the FIGHT menu).
+  Pidgey faints after the first reel, so only the player side gets tested - say so in the report.
+- The showcase stubs every other hood move's script (only Tackle is used in the test battle), so a/0/1/0 stays
+  inside its fixed size however many animations exist. a/0/2/9 is padded to 4 MB - if it outgrows that, raising
+  FIXED_SIZE moves the ROM layout and the user has to make a new slot-6 save (ask them; never make one).
   Pidgey's only move is FMJ (Tackle) too, so the showcase reel ALSO plays from the enemy side on its turn - make
   the capture long enough (~450 frames at step 4 for 3 animations) to check both sides. FIGHT = touch (128, 90),
   move 1 = touch (64, 51) (`--cmds` file).
@@ -217,7 +276,13 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
 
 ## Checklist before saying "done"
 
-- [ ] New art for every visible piece, readable in a contact sheet, quantized preview checked.
+- [ ] Pitched the gags first; each one is a 3-beat scene with a payoff, fits the move's type + hood name.
+- [ ] New art for every visible piece, readable in a contact sheet, quantized preview checked - and asked "what
+      would someone call this?" for each prop.
+- [ ] The effect lands where it makes sense (under the foe / on their feet / from off-screen), clear of both HP
+      boxes and the message box (2x zoom of the key frames).
+- [ ] No sign unless the words are the joke.
+- [ ] Any looping SE used is in `LOOPING_SE` (stopped at the end).
 - [ ] Every text piece: pixel font, exact 1:1 / 2:1 scale, not rotated - zoomed in game, letters even.
 - [ ] Every emitter in the right self_dest assertion list; build passes.
 - [ ] Both sides make sense (offsets mirrored with `sx`, per-direction spray/mover resources).

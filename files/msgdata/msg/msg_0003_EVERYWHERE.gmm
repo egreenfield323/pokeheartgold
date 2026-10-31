@@ -5078,15 +5078,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_01269" index="1269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nIced Grill!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nBrain Freeze!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01270" index="1270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nIced Grill!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nBrain Freeze!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01271" index="1271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nIced Grill!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nBrain Freeze!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01272" index="1272">
 		<attribute name="window_context_name">used</attribute>
@@ -5414,15 +5414,15 @@
 	</row>
 	<row id="msg_0003_EVERYWHERE_01353" index="1353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nTaser Beam!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} hit ’em with\nPower Bank!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01354" index="1354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nTaser Beam!</language>
+		<language name="English">The opp {STRVAR_1 1, 0, 0} hit ’em with\nPower Bank!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01355" index="1355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nTaser Beam!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} hit ’em with\nPower Bank!</language>
 	</row>
 	<row id="msg_0003_EVERYWHERE_01356" index="1356">
 		<attribute name="window_context_name">used</attribute>

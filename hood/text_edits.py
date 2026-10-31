@@ -36,6 +36,8 @@ STRICT_ROWS = {"msg_0024", "msg_0028"}        # copied into fixed u16 arrays wit
 CAP = {"msg_0237": 10}                         # species names -> 11-unit nickname arrays
 FORMAT_TOKENS = {"COLOR", "SIZE", "UNK_FF02"}
 SCRIPT_BANK_CAP = 900
+ROOMY = {"msg_0265": 600}                      # read lazily into a 1024-char String (codepatch.follow_text), so
+#                                                not limited by the original's longest row
 TOKEN_PX = 40                                  # a {STRVAR} (a name, a number...) counts as this wide
 ROW_RE = re.compile(r'(<row id="[^"]*" index="(\d+)">.*?<language name="English">)(.*?)(</language>)', re.S)
 PART_RE = re.compile(r"\\[nrf]|\{[^{}]*\}|\\|.", re.S)
@@ -204,6 +206,8 @@ class Limits:
         self.units = max(x["units"] for x in m)
         if is_script_bank(name):
             self.units = max(self.units, SCRIPT_BANK_CAP)
+        if name in ROOMY:
+            self.units = max(self.units, ROOMY[name])
         if name in CAP:
             self.units = CAP[name]
 

@@ -56,7 +56,11 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
            "sboom": 1851, "smog": 1985, "lscreen": 1990, "sbeam": 1530, "reflect": 1990, "nshade": 1877,
            "acutter": 1913, "spark": 1971, "spark2": 2031, "mdrain": 1999, "msport": 1976, "msport2": 2046,
            "psych": 1950, "gyro": 2066, "gyro2": 2068, "yawn": 2047, "yawn2": 2057, "sscent": 2037,
-           "rspin": 1883}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
+           "rspin": 1883, "aeroblast": 2121, "xsense": 1930, "xsense2": 2113, "hfang": 1934, "haze": 1989,
+           "barrier": 1988, "zen": 1896, "zen2": 1874, "lseed": 1839, "swagger": 2029, "safeguard": 2030,
+           "rpolish": 2041, "ishard": 1852, "revenge": 1927, "mbomb2": 1894, "cbeam": 1882, "cbeam2": 1895,
+           "minimize": 1984, "ifang": 1852, "lockon": 1801, "lockon2": 1840, "hhand": 2035, "sedge": 1972,
+           "attract": 2025, "captivate": 1862, "iwind": 1915, "epower": 1938, "twind": 2121, "blizzard": 1946}    # Wing Attack, Pound, Egg Bomb, Water Gun, ThunderShock,
 #                                            Screech, Earthquake, Bone Club, ...
 
 
@@ -80,7 +84,14 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   127 chase down, 128 paper cut, 129 pepper spray, 130 belly flop, 131 pigeon drop, 132 heat lamp,
 #   133 grill flash, 134 trunk rattle, 135 exhaust, 136 riot shield, 137 full bars, 138 bulletproof (glass),
 #   139 night shift, 140 wind shank (ceiling fan), 141 spark up, 142 big tax, 143 mud bath, 144 hype up,
-#   145 fidget spin, 146 neon beam, 147 snooze (terms & conditions), 148 cologne, 149 spin the block (bmx)
+#   145 fidget spin, 146 neon beam, 147 snooze (terms & conditions), 148 cologne, 149 spin the block (bmx),
+#   150 air force (Aeroblast: jets + the giant sneaker stomp), 151 sixth sense (Extrasensory: the sky eye),
+#   152 gold grill (wind-up teeth), 153 air it out, 154 barricade (furniture), 155 zen dome, 156 freeloader,
+#   157 drip check, 158 yell woop, 159 security, 160 wax on, 161 beef, 162 big bass (the fish), 163 ice chip,
+#   164 get even (the list), 165 car magnet, 166 one-two, 167 power bank, 168 duck down (clothes rack),
+#   169 brain freeze, 170 lock on (binoculars), 171 night shank, 172 got ya back (handshake), 173 ice out,
+#   174 stone cold, 175 rizz up (date night), 176 pickup line, 177 ice cold (window AC), 178 ground game
+#   (pothole), 179 tailgate, 180 iced out (shaved-ice machine), 181 photo op (ring light)
 MOVES = {
     "Tackle": 5, "Double Kick": 5, "Lick": 5,
     "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
@@ -91,7 +102,7 @@ MOVES = {
     "Psychic": 7, "Confusion": 8,
     "Pay Day": 9,
     "Hyper Beam": 10,
-    "Aeroblast": 11, "Sacred Fire": 11, "Roar of Time": 11, "Spacial Rend": 11, "Shadow Force": 11,
+"Sacred Fire": 11, "Roar of Time": 11, "Spacial Rend": 11, "Shadow Force": 11,
     "Psycho Boost": 11, "Doom Desire": 11, "Judgment": 11, "Crush Grip": 11, "Magma Storm": 11,
     "Fire Blast": 12,
     "Rock Throw": 13, "Rock Slide": 13,
@@ -119,6 +130,20 @@ MOVES = {
     "Light Screen": 136, "Signal Beam": 137, "Reflect": 138, "Night Shade": 139, "Air Cutter": 140, "Spark": 141,
     "Mega Drain": 142, "Mud Sport": 143, "Psych Up": 144,
     "Gyro Ball": 145, "Aurora Beam": 146, "Yawn": 147, "Sweet Scent": 148, "Rapid Spin": 149,
+    "Aeroblast": 150, "Extrasensory": 151,
+    "Hyper Fang": 152, "Haze": 153, "Barrier": 154, "Zen Headbutt": 155, "Leech Seed": 156, "Swagger": 157,
+    "Roar": 158, "Safeguard": 159, "Rock Polish": 160, "Rage": 161,
+    "Magnitude": 162, "Ice Shard": 163, "Revenge": 164, "Magnet Bomb": 165, "Double Hit": 166, "Charge Beam": 167,
+    "Minimize": 168, "Ice Fang": 169, "Lock-On": 170, "Night Slash": 171,
+    "Helping Hand": 172, "Ice Beam": 173, "Stone Edge": 174, "Attract": 175, "Captivate": 176, "Icy Wind": 177,
+    "Earth Power": 178, "Tailwind": 179, "Blizzard": 180, "Synthesis": 181,
+    "Cut": 182, "Strength": 183, "Rock Smash": 184, "Dig": 185, "Fire Punch": 186,
+    "ThunderPunch": 187, "AncientPower": 188, "Psybeam": 189, "Mud-Slap": 190, "Fire Fang": 191,
+    "Thunder Fang": 192, "Charm": 193, "Growth": 194, "Stomp": 195, "Payback": 196,
+    "Swords Dance": 197, "Aerial Ace": 198, "Thief": 199, "Sing": 200, "Sandstorm": 201,
+    "Encore": 203, "Baton Pass": 204, "Metal Claw": 205, "Fire Spin": 206, "Taunt": 207, "Knock Off": 208, "Whirlwind": 209, "Seismic Toss": 210, "Low Kick": 211, "Dark Pulse": 212, "Future Sight": 213, "Fake Out": 214, "Nasty Plot": 215, "Iron Defense": 216, "Uproar": 217, "Endure": 218, "Last Resort": 219, "Close Combat": 220, "Calm Mind": 221, "Powder Snow": 222, "Thrash": 223, "Bounce": 224, "X-Scissor": 225, "Lava Plume": 226, "Stockpile": 227, "Counter": 228, "Crabhammer": 229, "Metal Sound": 230, "Bug Buzz": 231, "Whirlpool": 232,
+    "Natural Gift": 234, "Roost": 235, "Fling": 236, "Dream Eater": 237, "Dragon Claw": 238, "U-turn": 239, "Dragon Pulse": 240, "Silver Wind": 241, "Hail": 242, "Embargo": 243, "Will-O-Wisp": 244, "Shock Wave": 245, "False Swipe": 246, "Substitute": 247, "Shadow Claw": 248, "Iron Tail": 249, "Hidden Power": 250, "Bullet Seed": 251, "Rock Tomb": 252, "Overheat": 253, "Energy Ball": 254, "Sleep Talk": 255, "Skill Swap": 256, "Focus Blast": 257, "Recycle": 258, "Pluck": 259, "Avalanche": 260, "Trick Room": 261, "Flash Cannon": 262, "Bulk Up": 263,
+    "Torment": 264, "Snatch": 265, "Focus Punch": 266, "Drain Punch": 267, "Steel Wing": 268, "Flash": 269, "Stealth Rock": 270, "Grass Knot": 271, "Frustration": 272, "Facade": 273, "Secret Power": 274, "Rock Climb": 275, "Feint": 276, "Mist": 277, "Charge": 278, "Bug Bite": 279, "Wring Out": 280, "Magical Leaf": 281, "Endeavor": 282, "Odor Sleuth": 283, "Withdraw": 284, "Power Gem": 285, "Leech Life": 286, "Detect": 287, "Leaf Storm": 288, "Teleport": 289, "Spit Up": 290, "Ingrain": 291, "Fury Cutter": 292, "Destiny Bond": 293,
 }
 
 
@@ -198,9 +223,11 @@ def patch(rom):
         effects.files[eid] = struct.pack(f"<{len(w)}I", *w)
     rom.setFileByName("a/0/6/1", effects.save())
     import ballfx
+    import codepatch
     import evofx
     ballfx.patch(rom)
     evofx.patch(rom)
+    codepatch.patch(rom)                                       # (walking-homie text: the hood bank's too big to load whole)
     print(f"battle effects: {len(MOVES)} moves, {len(gunfx.DONOR)} particle kits, {len(seqs)} sounds")
 
 
@@ -255,6 +282,12 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     first = real - len(gunfx.DONOR)
     for i, ps in enumerate(gunfx.DONOR):
         gunfx.LOAD[ps] = first + i
+    if order:                                  # kits nothing here loads (the reel + the effect animations) are blanked
+        used = {ps for k in [*order, *EFFECTS.values()] for ps in gunfx.KITS[k]}   # so a/0/2/9 fits its fixed size
+        for i, ps in enumerate(gunfx.DONOR):
+            if ps not in used:
+                narc.files[first + i] = b""
+        rom.setFileByName("a/0/2/9", narc.save())
     head, calls, subs = [], [], []
     if not order:                              # every effect - and Fly's second turn (97) right after its first,
         order = sorted(set(MOVES.values()))    # or the attacker stays vanished for the rest of the reel
@@ -276,7 +309,11 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     if pad_in_script:                  # same size as an earlier showcase (savestates) - zeros after End never run
         words += [0] * (pad_in_script - len(words))
     anims = ndspy.narc.NARC(rom.getFileByName("a/0/1/0"))
-    anims.files[move_ids()["Tackle"]] = struct.pack(f"<{len(words)}I", *words)
+    ids = move_ids()
+    for name in MOVES:          # the test battle only ever uses Tackle: stub the other hood scripts (just End) so the
+        if name != "Tackle":    # archive keeps its fixed size (savestates) however many animations there are
+            anims.files[ids[name]] = struct.pack("<I", 4)
+    anims.files[ids["Tackle"]] = struct.pack(f"<{len(words)}I", *words)
     if pad_to:     # keep the archive's size fixed (savestates) - padding goes after move 400's script (not used in the test battle),
         assert len(words) <= pad_to, (len(words), pad_to)   # not in the script (big scripts overflow the heap)
         anims.files[400] = anims.files[400] + bytes(4 * (pad_to - len(words)))

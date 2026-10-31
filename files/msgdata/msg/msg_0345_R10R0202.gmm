@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0345_R10R0202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: I-I-I’m ready to BLAST\nsomebody!\rWho would STEAL a part outta my\ngenerator?!\rI spent YEARS fixin’ it! If I catch him,\nhe gon’ see what I can do\fwith my Taser Beam! ZZZAP! *twitch*</language>
+		<language name="English">Manager: I-I-I’m ready to BLAST\nsomebody!\rWho would STEAL a part outta my\ngenerator?!\rI spent YEARS fixin’ it! If I catch him,\nhe gon’ see what I can do\fwith my Power Bank! ZZZAP! *twitch*</language>
 	</row>
 	<row id="msg_0345_R10R0202_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0345_R10R0202_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: TM57 is my Taser Beam!\rIt shoot beams, and it can\nsometimes raise Special Attack!</language>
+		<language name="English">Manager: TM57 is my Power Bank!\rIt shoot beams, and it can\nsometimes raise Special Attack!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

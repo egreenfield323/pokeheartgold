@@ -1694,7 +1694,7 @@
 	</row>
 	<row id="msg_0751_ice_fang" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ICED GRILL</language>
+		<language name="English">BRAIN FREEZE</language>
 	</row>
 	<row id="msg_0751_fire_fang" index="424">
 		<attribute name="window_context_name">used</attribute>
@@ -1806,7 +1806,7 @@
 	</row>
 	<row id="msg_0751_charge_beam" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TASER BEAM</language>
+		<language name="English">POWER BANK</language>
 	</row>
 	<row id="msg_0751_wood_hammer" index="452">
 		<attribute name="window_context_name">used</attribute>
