@@ -107,7 +107,8 @@ COMBOB22 = 566
 (DRY29, GLOBE29, RIM29, RIMB29, SHADE29, CD29,) = range(908, 914)
 (SWAP29, SWAPB29, EASEL29, EASELB29, ROLL29, TAPE29, L29,) = range(914, 921)
 (TRADE29, UMB29, BROOM29, SPRAY29, WIN29, WINB29,) = range(921, 927)
-LAST_KIT = WINB29
+(PW30, PWB30, PWC30,) = range(927, 930)
+LAST_KIT = PWC30
 DONOR = {GUN: 73, KIT: 62, SMOKE: 84, CAR: 82, BLING: 168, CASH: 47, ROCKET: 349,
          BOTTLE: 349, BRICK: 349, EGG: 349, FIRE: 84, HOUSE: 168, YOLK: 84,
          HYDRANT: 349, JET: 84, SPLASH: 84, SLUGGER: 168, TASER: 349, BOLTS: 349, FOB: 349, RINGS: 62,
@@ -203,6 +204,7 @@ DONOR.update({VIS28: 82, VISB28: 82, NV28: 82, THINK28: 82, THINKB28: 82, TREE28
 DONOR.update({DRY29: 82, GLOBE29: 82, RIM29: 82, RIMB29: 82, SHADE29: 82, CD29: 82})
 DONOR.update({SWAP29: 82, SWAPB29: 82, EASEL29: 82, EASELB29: 82, ROLL29: 82, TAPE29: 82, L29: 82})
 DONOR.update({TRADE29: 82, UMB29: 82, BROOM29: 82, SPRAY29: 82, WIN29: 82, WINB29: 82})
+DONOR.update({PW30: 82, PWB30: 82, PWC30: 82})
 DONOR.update({WHIP21: 82, DTAP21: 82, DTAPB21: 82, LICK21: 82, SIGNS21: 82, RICO21: 82, RICOB21: 82, TALK21: 82, TALKB21: 82, HEART21: 82})
 DONOR.update({TAXS22: 82, TAXB22: 82, WINGB22: 82, LIGHTB22: 82, MADB22: 82, MADC22: 82})
 DONOR.update({CLOWNB22: 82, SPIKEB22: 82, LACEB22: 82, SAFEB22: 82, PARKB22: 82})
@@ -6653,6 +6655,19 @@ def build_files(files):
     b, rs = pk(WINB29, {1: (fxart.pizza_box_fan(), .7, 4, {}), 2: (flipx(fxart.pizza_box_fan()), .7, 4, {})})
     fin(WINB29, b, rs, (1, 2))
     SET10_82 += [TRADE29, UMB29, BROOM29, SPRAY29, WIN29, WINB29]
+
+
+    # ---- Pistol Whip redo -------------------------------------------------------------------------------------------
+    # aimed - *click* - *click* - empty. Flipped round, grip first - WHAP. Seeing stars.
+    b, rs = pk(PW30, {1: (fxart.whip_pistol(), .9, 4, {}), 2: (flipx(fxart.whip_pistol()), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .6, 14, .32, life=14)
+    fin(PW30, b, rs, (0, 1, 2))
+    b, rs = pk(PWB30, {1: (fxart.whip_pistol(pose="whip"), .9, 4, {}), 2: (flipx(fxart.whip_pistol(pose="whip")), .9, 4, {})})
+    fin(PWB30, b, rs, (1, 2))
+    b, rs = pk(PWC30, {1: (fxart.click_bubble(), ONE_TO_ONE / 2, 4, {})}, alpha=fxart.tiny_spark())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 230, 60), clr_anm=(rgb(255, 230, 60), rgb(255, 230, 60)), scl=.45, life=4)   # dizzy stars
+    fin(PWC30, b, rs, (0, 1))
+    SET10_82 += [PW30, PWB30, PWC30]
 
     # ---- set 21: common-move redo (Pistol Whip, Double Tap, Licked It, Ricochet, Smooth Talk) ---------------
     b, rs = pk(WHIP21, {1: (fxart.click_bubble(), ONE_TO_ONE / 2, 4, {}), 2: (fxart.goose_egg(), .5, 4, {})},
@@ -17248,6 +17263,50 @@ def _open_window(side, s):
     return w + _hold(WIN29, 2, 0, win, 6)
 
 
+def _pistol_whip2(side, s):
+    """Scratch (Pistol Whip): the pistol comes up, aimed at the foe. *click*. ...*click*. Empty. They stare at it. So
+    they flip it round, grab the barrel, lunge in and WHAP the foe with the grip. The foe's seeing stars."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    res = _p(side, 1, 2)
+    gun = (sx * 32, 30)
+    bub = (gun[0] + sx * 14, gun[1] + 24)
+    g = lambda o=(0, 0), j=0: emit_at(PW30, res, 0, (gun[0] + o[0] + j, gun[1] + o[1]))
+    w = se(s["pop"])
+    for k in range(3):                                                         # it comes up
+        w += g((0, -12 + k * 4)) + wait(1)
+    w += se(s["lockon"]) + _hold(PW30, res, 0, gun, 4)                        # aimed
+    for n in range(2):                                                         # *click* ... *click*
+        w += se(s["disable"])
+        for k in range(6):
+            w += g(j=(1 if k < 2 and k % 2 == 0 else 0)) + emit_at(PWC30, 1, 0, bub) + wait(1)
+        w += _hold(PW30, res, 0, gun, 3)
+    for k in range(8):                                                         # ...they stare at it
+        w += g((0, 4 if 2 <= k < 6 else 0), j=(1 if k % 4 == 0 else 0)) + wait(1)
+    lunge = (round(dx * .45), round(dy * .45))
+    w += se(s["whoosh"]) + bmove(side, 258, 3, lunge[0], lunge[1])            # flip it - lunge in
+    for k in range(3):
+        o = _lerp((0, 0), lunge, (k + 1) / 3)
+        w += emit_at(PWB30, res, 0, (gun[0] + o[0], gun[1] + o[1] + 10)) + wait(1)
+    hit = (dx - sx * 16, dy + 34)
+    w += emit_at(PWB30, res, 0, (hit[0] - sx * 6, hit[1] + 18)) + wait(1)
+    w += se(s["bslam"]) + se(s["bonk"]) + flash_screen(4) + emit_at(PWB30, res, 0, hit)   # WHAP
+    w += emit_at(PW30, 0, 1, (0, 34)) + func(48) + shake_defender(4, 3) + wait(1)
+    w += emit_at(PWB30, res, 0, hit) + wait(1)
+    w += bmove(side, 258, 4, -lunge[0], -lunge[1])
+    import math
+    for k in range(16):                                                        # seeing stars
+        for j in range(3):
+            a = k * .55 + j * math.tau / 3
+            w += emit_at(PWC30, 0, 1, (round(math.cos(a) * 16), round(44 + math.sin(a) * 5)))
+        if k == 3:
+            w += se(s["bonk"])
+        if k < 4:
+            w += emit_at(PWB30, res, 0, (gun[0], gun[1] + 10))
+        w += wait(1)
+    return w + wait(4)
+
+
 VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dangle, 9: _payday, 10: _full_auto, 11: _rpg,
             12: _molotov, 13: _brick, 14: _egg, 15: _hose, 16: _bat, 17: _taser, 18: _car_alarm, 19: _bass_drop,
             20: _hot_shot, 21: _stare_down, 22: _talk_trash, 23: _pocket_sand, 24: _fan_blast,
@@ -17379,6 +17438,7 @@ VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dan
             296: _licked_it,
             297: _ricochet,
             298: _smooth_talk,
+            500: _pistol_whip2,
             494: _power_trade,
             495: _guard_trade,
             496: _shove_off,
@@ -17734,6 +17794,7 @@ KITS = {97: (PLANE, FELICIA, CLAIM), 99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE
         296: (LICK21, SIGNS21),
         297: (GUN, SMOKE, RICO21, RICOB21),
         298: (TALK21, TALKB21, SIGNS21),
+        500: (PW30, PWB30, PWC30,),
         494: (TRADE29,),
         495: (UMB29,),
         496: (BROOM29,),

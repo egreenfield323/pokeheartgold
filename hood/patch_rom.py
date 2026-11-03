@@ -330,6 +330,9 @@ def main():
         patch(rom)
     except AssertionError as e:
         sys.exit(f"an original file didn't match ({e}); this ROM isn't the one the mod targets. Nothing was written.")
+    size = len(rom.save())                   # past 128 MB the header's chip size must grow too,
+    while 0x20000 << rom.deviceCapacity < size:   # or emulators call the ROM header invalid
+        rom.deviceCapacity += 1
     rom.saveToFile(str(out))
     shutil.rmtree(TMP, ignore_errors=True)
     print(f"\nwrote {out}  ->  open it in melonDS")

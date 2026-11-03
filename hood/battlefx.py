@@ -95,7 +95,7 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 MOVES = {
     "Tackle": 5, "Double Kick": 295, "Lick": 296,
     "Fury Attack": 3, "Triple Kick": 343, "Pin Missile": 344, "Spike Cannon": 345, "Swift": 297,
-    "Scratch": 294,
+    "Scratch": 500,
     "Wing Attack": 2,
     "Iron Head": 1,
     "Quick Attack": 6,
