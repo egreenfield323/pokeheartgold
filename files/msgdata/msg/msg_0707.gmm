@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0707_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was diggin’ a fire pit to cook dinner,\nand I found a weird item!\rApparently it’s called a Sun Stone.\fI almost cooked it.\rI’ll give it to you. I’m waitin’ on\n{STRVAR_1 4, 3, 0}!</language>
+		<language name="English">I was diggin’ a fire pit to cook dinner,\nand I found a weird item!\rDesigner Sunglasses! Buried!\fWho buries shades?!\rI’ll give ’em to you. I’m waitin’ on\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0707_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I still got that Sun Stone I said I’d\ngive you!\rI’m waitin’ on {STRVAR_1 4, 3, 0}, so\ncome get it ASAP!</language>
+		<language name="English">I still got them Sunglasses I said I’d\ngive you!\rI’m waitin’ on {STRVAR_1 4, 3, 0}, so\ncome get ’em ASAP!</language>
 	</row>
 </body>

@@ -598,27 +598,27 @@
 	</row>
 	<row id="msg_0224_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cheri Berries</language>
+		<language name="English">Warheads</language>
 	</row>
 	<row id="msg_0224_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chesto Berries</language>
+		<language name="English">Coffee Candy</language>
 	</row>
 	<row id="msg_0224_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pecha Berries</language>
+		<language name="English">Ginger Chews</language>
 	</row>
 	<row id="msg_0224_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rawst Berries</language>
+		<language name="English">Freeze Pops</language>
 	</row>
 	<row id="msg_0224_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aspear Berries</language>
+		<language name="English">Hot Fries</language>
 	</row>
 	<row id="msg_0224_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leppa Berries</language>
+		<language name="English">Loose Rounds</language>
 	</row>
 	<row id="msg_0224_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
@@ -626,7 +626,7 @@
 	</row>
 	<row id="msg_0224_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Persim Berries</language>
+		<language name="English">Altoids</language>
 	</row>
 	<row id="msg_0224_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -1882,7 +1882,7 @@
 	</row>
 	<row id="msg_0224_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Berry Pots</language>
+		<language name="English">Grow Tents</language>
 	</row>
 	<row id="msg_0224_00471" index="471">
 		<attribute name="window_context_name">used</attribute>

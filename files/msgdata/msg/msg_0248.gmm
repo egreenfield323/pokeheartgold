@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0248_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch one of the\nBerry Pots.\n</language>
+		<language name="English">Touch one of the\npots.\n</language>
 	</row>
 	<row id="msg_0248_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0248_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} Berry Plant is\ngrowing bigger.</language>
+		<language name="English">The {STRVAR_1 8, 0, 0} Berry Plant is\ngrowin’ bigger.</language>
 	</row>
 	<row id="msg_0248_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

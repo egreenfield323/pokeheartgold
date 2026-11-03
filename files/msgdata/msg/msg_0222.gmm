@@ -598,27 +598,27 @@
 	</row>
 	<row id="msg_0222_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cheri Berry</language>
+		<language name="English">Warheads</language>
 	</row>
 	<row id="msg_0222_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chesto Berry</language>
+		<language name="English">Coffee Candy</language>
 	</row>
 	<row id="msg_0222_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pecha Berry</language>
+		<language name="English">Ginger Chew</language>
 	</row>
 	<row id="msg_0222_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rawst Berry</language>
+		<language name="English">Freeze Pop</language>
 	</row>
 	<row id="msg_0222_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aspear Berry</language>
+		<language name="English">Hot Fries</language>
 	</row>
 	<row id="msg_0222_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leppa Berry</language>
+		<language name="English">Loose Rounds</language>
 	</row>
 	<row id="msg_0222_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
@@ -626,7 +626,7 @@
 	</row>
 	<row id="msg_0222_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Persim Berry</language>
+		<language name="English">Altoids</language>
 	</row>
 	<row id="msg_0222_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -1882,7 +1882,7 @@
 	</row>
 	<row id="msg_0222_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Berry Pots</language>
+		<language name="English">Grow Tent</language>
 	</row>
 	<row id="msg_0222_00471" index="471">
 		<attribute name="window_context_name">used</attribute>

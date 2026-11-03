@@ -346,7 +346,7 @@
 	</row>
 	<row id="msg_0026_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Star Pieces traded at the\nFuego Ironworks</language>
+		<language name="English">No. of Iced Watches traded at the\nFuego Ironworks</language>
 	</row>
 	<row id="msg_0026_00081" index="81">
 		<attribute name="window_context_name">garbage</attribute>

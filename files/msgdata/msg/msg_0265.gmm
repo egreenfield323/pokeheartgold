@@ -698,7 +698,7 @@
 	</row>
 	<row id="msg_0265_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Nugget out here, I can FEEL it.\fIf I find it, we splittin’ it 70/30. Me\n70.)</language>
+		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Gold Grill out here, I can FEEL\fit. If I find it, we splittin’ it 70/30.\nMe 70.)</language>
 	</row>
 	<row id="msg_0265_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -794,7 +794,7 @@
 	</row>
 	<row id="msg_0265_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Nugget out here, I can FEEL it.\fIf I find it, we splittin’ it 70/30. Me\n70.)</language>
+		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Gold Grill out here, I can FEEL\fit. If I find it, we splittin’ it 70/30.\nMe 70.)</language>
 	</row>
 	<row id="msg_0265_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
@@ -802,7 +802,7 @@
 	</row>
 	<row id="msg_0265_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Nugget out here, I can FEEL it.\fIf I find it, we splittin’ it 70/30. Me\n70.)</language>
+		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Gold Grill out here, I can FEEL\fit. If I find it, we splittin’ it 70/30.\nMe 70.)</language>
 	</row>
 	<row id="msg_0265_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
@@ -2126,7 +2126,7 @@
 	</row>
 	<row id="msg_0265_00531" index="531">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Nugget out here, I can FEEL it.\fIf I find it, we splittin’ it 70/30. Me\n70.)</language>
+		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Gold Grill out here, I can FEEL\fit. If I find it, we splittin’ it 70/30.\nMe 70.)</language>
 	</row>
 	<row id="msg_0265_00532" index="532">
 		<attribute name="window_context_name">used</attribute>
@@ -2214,7 +2214,7 @@
 	</row>
 	<row id="msg_0265_00553" index="553">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Nugget out here, I can FEEL it.\fIf I find it, we splittin’ it 70/30. Me\n70.)</language>
+		<language name="English">{STRVAR_1 1, 0, 0} said: “Krrk krrk!”\f(Diggin’ for the bag, bro. Somebody\nburied a Gold Grill out here, I can FEEL\fit. If I find it, we splittin’ it 70/30.\nMe 70.)</language>
 	</row>
 	<row id="msg_0265_00554" index="554">
 		<attribute name="window_context_name">used</attribute>

@@ -66,11 +66,11 @@
 	</row>
 	<row id="msg_0390_R36_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With the Berry Pots, you can grow\nany Berry from anywhere\fno problem!\r</language>
+		<language name="English">With the Grow Tent, you can grow\nany Berry anywhere\fno problem! Totally legal!\r</language>
 	</row>
 	<row id="msg_0390_R36_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yeah!\nI’ll give you some Berries too.\rBerry Pots ain’t no good\nwithout Berries.\r</language>
+		<language name="English">Oh yeah!\nI’ll give you some Berries too.\rA Grow Tent ain’t no good\nwithout somethin’ to grow.\r</language>
 	</row>
 	<row id="msg_0390_R36_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

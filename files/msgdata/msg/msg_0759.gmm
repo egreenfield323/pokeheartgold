@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0759_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fresh Water</language>
+		<language name="English">Tap Water</language>
 	</row>
 	<row id="msg_0759_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0759_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nugget</language>
+		<language name="English">Gold Grill</language>
 	</row>
 	<row id="msg_0759_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0759_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cute &amp; charming</language>
+		<language name="English">Cute &amp; charmin’</language>
 	</row>
 	<row id="msg_0759_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

@@ -598,27 +598,27 @@
 	</row>
 	<row id="msg_0223_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Cheri Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Warheads{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Chesto Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Coffee Candy{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Pecha Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Ginger Chew{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Rawst Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Freeze Pop{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an {COLOR 255}Aspear Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Hot Fries{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Leppa Berry{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Loose Rounds{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
@@ -626,7 +626,7 @@
 	</row>
 	<row id="msg_0223_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a {COLOR 255}Persim Berry{COLOR 0}</language>
+		<language name="English">an {COLOR 255}Altoids{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -1882,7 +1882,7 @@
 	</row>
 	<row id="msg_0223_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">the {COLOR 255}Berry Pots{COLOR 0}</language>
+		<language name="English">a {COLOR 255}Grow Tent{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00471" index="471">
 		<attribute name="window_context_name">used</attribute>

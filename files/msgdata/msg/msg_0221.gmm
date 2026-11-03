@@ -230,19 +230,19 @@
 	</row>
 	<row id="msg_0221_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that raises the Attack stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.</language>
+		<language name="English">Hollow points. Raises a homie’s\nAttack in battle. Wears off if\nthey get pulled out.</language>
 	</row>
 	<row id="msg_0221_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that raises the Defense stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.</language>
+		<language name="English">A vest under the hoodie. Raises a\nhomie’s Defense in battle. Wears\noff if they get pulled out.</language>
 	</row>
 	<row id="msg_0221_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that raises the Speed stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.</language>
+		<language name="English">Fresh runners. Raises a homie’s\nSpeed in battle. Wears off if\nthey get pulled out.</language>
 	</row>
 	<row id="msg_0221_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that raises the accuracy\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.</language>
+		<language name="English">A red dot sight. Raises a homie’s\naccuracy in battle. Wears off if\nthey get pulled out.</language>
 	</row>
 	<row id="msg_0221_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -306,71 +306,71 @@
 	</row>
 	<row id="msg_0221_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 200 steps\nafter its use.</language>
+		<language name="English">Super Opp Spray. Keeps weak wild\nopps off you for 200 steps.\nTwice the cologne.</language>
 	</row>
 	<row id="msg_0221_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 250 steps\nafter its use.</language>
+		<language name="English">Max Opp Spray. Keeps weak wild\nopps off you for 250 steps.\nNobody comin’ near you.</language>
 	</row>
 	<row id="msg_0221_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long, durable rope.\nUse it to escape instantly from a cave\nor a dungeon.</language>
+		<language name="English">Your cousin’s Camry, engine runnin’.\nGets you outta a cave or a dungeon\ninstantly. Don’t ask whose it is.</language>
 	</row>
 	<row id="msg_0221_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item that prevents weak wild\nPokémon from appearin’ for 100 steps\nafter its use.</language>
+		<language name="English">Opp Spray. Keeps weak wild opps\noff you for 100 steps.\nSmells like cheap cologne.</language>
 	</row>
 	<row id="msg_0221_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as red as the sun.</language>
+		<language name="English">Designer shades. Makes certain\nhomies evolve. Too cool to take\n’em off indoors.</language>
 	</row>
 	<row id="msg_0221_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as black as the night sky.</language>
+		<language name="English">A rock somebody swears came off the\nmoon. Makes certain homies evolve.\nNo receipt.</language>
 	</row>
 	<row id="msg_0221_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is colored orange.</language>
+		<language name="English">A Bic lighter. Makes certain homies\nevolve. Somehow everybody’s lighter\nends up in your pocket.</language>
 	</row>
 	<row id="msg_0221_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt has a thunderbolt pattern.</language>
+		<language name="English">A car battery from the junkyard.\nMakes certain homies evolve.\nDon’t lick it.</language>
 	</row>
 	<row id="msg_0221_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is a clear, light blue.</language>
+		<language name="English">A water balloon. Makes certain\nhomies evolve. Summer on the\nblock in one throw.</language>
 	</row>
 	<row id="msg_0221_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt has a leaf pattern.</language>
+		<language name="English">Your uncle’s lawn mower. Makes\ncertain homies evolve. He been\nlookin’ for it.</language>
 	</row>
 	<row id="msg_0221_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small and rare mushroom.\nIt is quite popular among certain\nmaniacal fan segments.</language>
+		<language name="English">A lil stack of ones, rubber-banded.\nSells for a lil somethin’ at shops.</language>
 	</row>
 	<row id="msg_0221_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large and rare mushroom.\nIt is hella popular among certain\nmaniacal fan segments.</language>
+		<language name="English">A big stack of twenties. Rubber band\nalmost snappin’. Shops pay good\nfor it.</language>
 	</row>
 	<row id="msg_0221_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat-small pearl that sparkles\nin a pretty silver color.\nIt can be sold cheaply to shops.</language>
+		<language name="English">One stud earrin’. The other one’s\nsomewhere in a club. Sells cheap\nat shops.</language>
 	</row>
 	<row id="msg_0221_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A quite-large pearl that sparkles in a\npretty silver color. It can be sold at\na high price to shops.</language>
+		<language name="English">A big diamond. Might be real.\nShops pay big for it and don’t\nask questions.</language>
 	</row>
 	<row id="msg_0221_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lovely, red-colored sand with a loose,\nsilky feel. It can be sold at a high\nprice to shops.</language>
+		<language name="English">Lint from a stranger’s pocket.\nShops pay real bread for it.\nNobody knows why.</language>
 	</row>
 	<row id="msg_0221_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shard of a pretty gem that sparkles\nin a red color. It can be sold at a\nhigh price to shops.</language>
+		<language name="English">A watch iced out so bad you can’t\nread the time. Sells high\nat shops.</language>
 	</row>
 	<row id="msg_0221_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nugget of pure gold that gives off a\nlustrous gleam. It can be sold at a\nhigh price to shops.</language>
+		<language name="English">A solid gold grill. Smile and\nblind the opps. Sells for a high\nprice at shops.</language>
 	</row>
 	<row id="msg_0221_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -620,43 +620,43 @@
 	</row>
 	<row id="msg_0221_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from paralysis.</language>
+		<language name="English">Sour enough to shock a homie back\ninto movin’. Used or held to cure\nparalysis.</language>
 	</row>
 	<row id="msg_0221_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from sleep.</language>
+		<language name="English">Coffee candy from Grandma’s purse.\nUsed or held to wake a homie up.</language>
 	</row>
 	<row id="msg_0221_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from poison.</language>
+		<language name="English">A ginger chew. Settles the stomach.\nUsed or held to cure poison.</language>
 	</row>
 	<row id="msg_0221_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from a burn.</language>
+		<language name="English">A blue freeze pop. Used or held to\ncool off a homie that got burnt.\nTongue stays blue for a week.</language>
 	</row>
 	<row id="msg_0221_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\ndefrost it.\n</language>
+		<language name="English">A bag of Hot Fries. Used or held\nto thaw out a frozen homie.\n</language>
 	</row>
 	<row id="msg_0221_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrestore a move’s PP by 10.</language>
+		<language name="English">A handful of loose rounds. Used or\nheld to restore 10 PP of a move.</language>
 	</row>
 	<row id="msg_0221_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nheal the user by just 10 HP.</language>
+		<language name="English">A bag of Takis. Used or held to\nheal a homie by just 10 HP.\nFingers stay red for days.</language>
 	</row>
 	<row id="msg_0221_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from confusion.</language>
+		<language name="English">Curiously strong mints. Used or\nheld to snap a homie outta\nconfusion.</language>
 	</row>
 	<row id="msg_0221_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nrecover from any status problem.</language>
+		<language name="English">A gas station pickle in a bag.\nUsed or held to cure any\nstatus problem.</language>
 	</row>
 	<row id="msg_0221_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may be used or held by a Pokémon to\nheal the user’s HP a little.</language>
+		<language name="English">Flamin’ Hot Cheetos. Used or held\nto heal a homie’s HP a little.\nThe red dust is permanent.</language>
 	</row>
 	<row id="msg_0221_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
@@ -960,7 +960,7 @@
 	</row>
 	<row id="msg_0221_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An item to be held by a Pokémon.\nThe holder’s HP is gradually restored\nduring battle.</language>
+		<language name="English">Leftover takeout to hold. The\nholder snacks durin’ battle and\nslowly gets HP back.</language>
 	</row>
 	<row id="msg_0221_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
@@ -1825,7 +1825,7 @@
 	</row>
 	<row id="msg_0221_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A foldin’ Bicycle that enables much\nfaster movement than the Running\nShoes.</language>
+		<language name="English">A foldin’ bike, way faster than\nrunnin’. Serial number scratched\noff. It’s yours now.</language>
 	</row>
 	<row id="msg_0221_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
@@ -1905,7 +1905,7 @@
 	</row>
 	<row id="msg_0221_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Handy containers for cultivatin’\nBerries wherever you go.</language>
+		<language name="English">A portable grow tent with four\npots. Grow snacks anywhere.\nTotally legal.</language>
 	</row>
 	<row id="msg_0221_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
@@ -1933,7 +1933,7 @@
 	</row>
 	<row id="msg_0221_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bottle used for waterin’ plants in the\nBerry Pots.</language>
+		<language name="English">A squirt bottle for waterin’ what’s\ngrowin’ in the Grow Tent.</language>
 	</row>
 	<row id="msg_0221_00478" index="478">
 		<attribute name="window_context_name">used</attribute>
@@ -1993,39 +1993,39 @@
 	</row>
 	<row id="msg_0221_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack that makes it easier to\ncatch fast Pokémon.</language>
+		<language name="English">A Nylon Bag Kurt sewed up. Makes\nit easier to snatch fast homies.</language>
 	</row>
 	<row id="msg_0221_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack for catchin’ Pokémon that\nare a lower level than your own.</language>
+		<language name="English">A Gator Bag. Works better the\nlower their level is than your\nhomie’s.</language>
 	</row>
 	<row id="msg_0221_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack for catchin’ Pokémon hooked\nby a Rod when fishin’.</language>
+		<language name="English">A Croc Bag. Good for homies you\njust hooked with a Rod.</language>
 	</row>
 	<row id="msg_0221_00495" index="495">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack for catchin’ hella heavy\nPokémon.</language>
+		<language name="English">A Denim Bag. Heavy-duty. Good for\nsnatchin’ hella heavy homies.</language>
 	</row>
 	<row id="msg_0221_00496" index="496">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nap Sack for catchin’ Pokémon that are\nthe opposite gender of your Pokémon.</language>
+		<language name="English">A Velvet Bag. Good on homies the\nopposite gender of yours. Smooth.</language>
 	</row>
 	<row id="msg_0221_00497" index="497">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack that makes caught Pokémon\nmore friendly.</language>
+		<language name="English">A Suede Bag. Homies snatched with\nit act friendly right away.</language>
 	</row>
 	<row id="msg_0221_00498" index="498">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Nap Sack for catchin’ Pokémon that\nevolve using the Moon Stone.</language>
+		<language name="English">A Satin Bag. Good on homies that\nevolve with a Moon Rock.</language>
 	</row>
 	<row id="msg_0221_00499" index="499">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Nap Sack for the\nBug-Catching Contest.</language>
+		<language name="English">A Sport Sack for the Bug-Catching\nContest. Mesh, so they can breathe.</language>
 	</row>
 	<row id="msg_0221_00500" index="500">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Nap Sack for the Pal Park.</language>
+		<language name="English">A Park Sack for the Pal Park.\nBrings homies from the old block.</language>
 	</row>
 	<row id="msg_0221_00501" index="501">
 		<attribute name="window_context_name">used</attribute>
