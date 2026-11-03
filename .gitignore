@@ -112,3 +112,4 @@ __pycache__
 # Hood test captures (DeSmuME screenshots, the capture runner's command file)
 hood/test/out/
 hood/test/cmds.txt
+hood/test/reels_out/

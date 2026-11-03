@@ -1,0 +1,4 @@
+touch 128 90
+wait 40
+touch 192 51
+wait 60

@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0058_D17R0110_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: Yes, this where we welcome\nHO-OH.\rWhen the dance we practiced for\ndays becomes one with the sound of\fthe Clear Bell we gave you,\rHO-OH gon’ come down from the\ngreat arch of the sky again!\r</language>
+		<language name="English">Zuki: Yes. This where the family\nwelcome HO-OH.\rWhen the dance we practiced for\ndays becomes one with the sound of\fthe Clear Bell we gave you,\rHO-OH gon’ come down from the\ngreat arch of the sky again!\fIt owe us a visit.\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s all we can do for you...\nWhat you do now is on you...</language>
+		<language name="English">That’s all we can do for you...\nWhat you do now is on you.\fNo witnesses.</language>
 	</row>
 	<row id="msg_0058_D17R0110_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That IS HO-OH...\nThe guardian of the sky round here\fsince forever...\rSo many tried and tried, and\ncame up short...\r{STRVAR_1 3, 0, 0}, your heart and the Clear\nBell in sync finally made\fit show up...\r</language>
+		<language name="English">That IS HO-OH...\nThe guardian of the sky round here\fsince forever...\rSo many tried and tried, and\ncame up short...\r{STRVAR_1 3, 0, 0}, your heart and the Clear\nBell in sync finally made\fit show up... The family been waitin’.\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, you see it?\rHO-OH been waitin’ for somebody\nlike you this whole time.\fRight...?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, you see it?\rHO-OH been waitin’ for somebody\nlike you this whole time.\fRight...? Right. Nobody tell us no.\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,18 +22,18 @@
 	</row>
 	<row id="msg_0058_D17R0110_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You did amazin’.\nTell Professor Elm we said wassup.</language>
+		<language name="English">You did amazin’.\nTell Professor Elm the family said\fwassup. He’ll know what it mean.</language>
 	</row>
 	<row id="msg_0058_D17R0110_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You ain’t just got HO-OH to show,\nyou caught it too...\rYou incredible.\nWe got nothin’ else to say.\rTake care of yourself out there...</language>
+		<language name="English">You ain’t just got HO-OH to show,\nyou caught it too...\rYou made now. You family.\nWe got nothin’ else to say.\rStay outta trouble. Or call us first.</language>
 	</row>
 	<row id="msg_0058_D17R0110_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If that’s what you believe, we\nain’t gon’ try to change your mind.\rStill, if you wanna see HO-OH again,\nmaybe come back here\fafter everythin’ settle down...</language>
+		<language name="English">If that’s what you believe, we\nain’t gon’ change your mind.\fWe COULD. We won’t.\rStill, if you wanna see HO-OH again,\nmaybe come back here\fafter everythin’ settle down...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think when you turn your back\non it, HO-OH won’t come back for\fa while...\rIf you wanna see HO-OH, maybe\ncome back here after everythin’\fsettle down...</language>
+		<language name="English">I think when you turn your back\non it, HO-OH won’t come back for\fa while... Like everybody who\fcrossed the family.\rIf you wanna see HO-OH, maybe\ncome back here after everythin’\fsettle down...</language>
 	</row>
 </body>

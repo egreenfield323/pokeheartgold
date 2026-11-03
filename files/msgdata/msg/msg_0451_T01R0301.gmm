@@ -228,10 +228,10 @@
 	</row>
 	<row id="msg_0451_T01R0301_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: That Hidden Machine\ngot the move Wall Climb!\rWhen you teach it to a homie,\nyou can climb rock walls that got\fsteps carved in ’em.\r</language>
+		<language name="English">Professor Oak: That Hidden Machine\ngot the move Parkour!\rWhen you teach it to a homie,\nyou can climb rock walls that got\fsteps carved in ’em.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you use Wall Climb,\nyou can climb rock walls that got\fsteps carved in ’em.\rYou gon’ discover all kinds\nof new stuff!</language>
+		<language name="English">When you use Parkour,\nyou can climb rock walls that got\fsteps carved in ’em.\rYou gon’ discover all kinds\nof new stuff!</language>
 	</row>
 </body>

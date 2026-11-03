@@ -7002,7 +7002,7 @@
       "messages": [
         {
           "type": "TRMSG_LOSE",
-          "message": "My homies is cooked...\\n"
+          "message": "I lost. Like I lose on every map.\\n"
         }
       ]
     },
@@ -7033,7 +7033,7 @@
       "messages": [
         {
           "type": "TRMSG_LOSE",
-          "message": "I\u2019ll be back. My uncle know\\npeople.\\n"
+          "message": "My sandals slipped. That\u2019s the\\nstory we tellin\u2019.\\n"
         }
       ]
     },
@@ -7064,7 +7064,7 @@
       "messages": [
         {
           "type": "TRMSG_LOSE",
-          "message": "Okay, okay. I was lettin\u2019 you win.\\n"
+          "message": "...Fine. You family now. Don\u2019t\\nmake me regret it.\\n"
         }
       ]
     },
@@ -7095,7 +7095,7 @@
       "messages": [
         {
           "type": "TRMSG_LOSE",
-          "message": "You fight like my grandma. That\u2019s\\na compliment.\\n"
+          "message": "Down here nobody lose. ...Keep\\nthis quiet.\\n"
         }
       ]
     },
@@ -7126,7 +7126,7 @@
       "messages": [
         {
           "type": "TRMSG_LOSE",
-          "message": "My homies is cooked...\\n"
+          "message": "...Respect.\\n"
         }
       ]
     },

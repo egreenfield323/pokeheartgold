@@ -58,8 +58,56 @@ FELICIA, CLAIM = 170, 171                                     # Catch Flight: BY
 # set 19: the TMs
 (FRUIT19, MATTRESS19, HEAL19, TV19, DREAM19, LOBSTER19, LOBL19, SCOOT19, DRAGON19, GLITTER19, ICEBAG19, CUBES19, EVID19, MATCH19, WISP19, BALLOON19, ZAP19, FRISBEE19, DUMMY19, CLAWS19, WRECK19, TEDDY19, ORBS19, SEEDS19, SEEDFX19, TRUCK19, TRUCKL19, GRAVEL19, TOAST19, SMOKE19, CAN19, GREEN19, SLEEP19, CARDS19, MORTAR19, FIREWORK19, BIN19, GRAB19, GRABL19, PLOW19, SNOWWALL19, REMOTE19, SEPIA19, CAMERA19, FLASH19, GYM19, PISTOL19) = range(444, 491)
 # set 20: last TMs + level-up
-(CLOWN20, SWIPE20, PUNCHM20, PIGGY20, COINS20, IRON20, LIGHT20, LEGO20, LACES20, GAUGE20, STEAM20, FRONT20, SAFE20, CLIMB20, FOOTB20, FOG20, FOGFX20, AMP20, AMPFX20, BUGS20, BUGFX20, MOP20, FANNY20, MONEY20, TREAD20, SLEUTH20, FICUS20, CANDY20, GEMBEAM20, SHAKE20, SCOPE20, LEAVES20, EXIT20, MOUTH20, SPITFX20, CHAIR20, COMBO20, SLASH20, BFF20, LINK20) = range(491, 531)
-LAST_KIT = LINK20
+(CLOWN20, SWIPE20, PUNCHM20, PIGGY20, COINS20, IRON20, LIGHT20, LEGO20, LACES20, GAUGE20, STEAM20, FRONT20, SAFE20, CLIMB20, FOOTB20, FOG20, FOGFX20, AMP20, AMPFX20, BUGS20, BUGFX20, MOP20, FANNY20, MONEY20, TREAD20, SLEUTH20, FICUS20, CANDY20, GEMBEAM20, SHAKE20, SCOPE20, LEAVES20, EXIT20, MOUTH20, SPITFX20, CHAIR20, COMBO20, SLASH20, BFF20, LINK20, SCAM20, SIGNS20) = range(491, 533)
+# set 21: common-move redo
+(WHIP21, DTAP21, DTAPB21, LICK21, SIGNS21, RICO21, RICOB21, TALK21, TALKB21, HEART21) = range(533, 543)
+# set 22: the set 20 redo
+(TAXS22, TAXB22, WINGB22, LIGHTB22, MADB22, MADC22) = range(543, 549)
+(CLOWNB22, SPIKEB22, LACEB22, SAFEB22, PARKB22) = range(549, 554)
+(PLUGB22, BUGB22, LOUDB22) = range(554, 557)
+(SMOKEB22, K9B22, HIDEB22, MOOCHB22) = range(557, 561)
+(ZAZAB22, ZAZAC22, DIPB22, SPITB22, POSTB22) = range(561, 566)
+COMBOB22 = 566
+(MILK23, MILKB23, MILKC23, HALF23, HALFB23, HALFC23, DUST23, DUSTB23, STARE23, FADE23, FADEB23,) = range(567, 578)
+(NINJA23, NINJAB23, M8023, M80B23, ZIP23, ZIPB23, ONION23, ONIONB23, RAGE23, RAGEB23,) = range(578, 588)
+(LOG23, LOGB23, LOGC23, SNUCK23, SNUCKB23, FENCE23, TRAP23, KISS23, KISSB23,) = range(588, 597)
+(FREEZE23, FREEZEB23, BELL23, BELLB23, BELLC23, TAN23, TANB23, TROPHY23, GIFT23, GIFTB23, GIFTC23,) = range(597, 608)
+(LINE23, LINEB23, HORN23, HORNB23, HYPE23, HYPEB23, DING23, DINGB23, THERMO23, THERMOB23,) = range(608, 618)
+(GAS23, GASB23, GASC23, DOOR23, DOORB23, SCOOT23, SCOOTB23, SCOOTC23, ZAPR23, ZAPRB23, BILL23, BILLB23,) = range(618, 630)
+(FA24, FAB24, FAC24, TRUCK24, TRUCKB24, HOLY24, HOLYB24, HOLYC24, GAVEL24, GAVELB24, CLOCK24, CLOCKB24, CLOCKC24,) = range(630, 643)
+(RIP24, RIPB24, GHOST24, GHOSTB24, MIND24, MINDB24, MINDC24, OMEN24, OMENB24, OMENC24, CRUSH24, CRUSHB24,) = range(643, 655)
+(HOT24, HOTB24, HOTC24, AIR24, AIRB24, WALL24, WALLB24, TAP24, NAIL24, NAILB24, STAPLE24, STAPLEB24,) = range(655, 667)
+(PETTY24, PETTYB24, TRIP24, TRIPB24, WILD24, WILDB24, BITE24, CLUB24, CLUBB24,) = range(667, 676)
+(SNAP24, SNAPB24, LINT24, LINTB24, LINTC24, SHELL24, SHELLB24, WOB24, CLAW24,) = range(676, 685)
+(HATS24, HATSB24, CARD24, CARDB24, RISE24, RISEB24, RISEC24, SINK24, SINKB24,) = range(685, 694)
+(BURN25, BURNB25, BURNC25, HYD25, HYDB25, GUN25, GUNB25, GUNC25, MET25, METB25, BLOW25, BLOWB25, BLOWC25,) = range(694, 707)
+(SPOON25, SPOONB25, SPOONC25, PIN25, PINB25, LAMP25, LAMPB25, LAMPC25, PALM25, PALMB25, JACK25, JACKB25,) = range(707, 719)
+(DEAL25, DEALB25, DEALC25, PLATE25, PLATEB25, TEAR25, BONE25, SHM25,) = range(719, 727)
+(MOON25, MOONB25, SLIME25, SLIMEB25, VERSE25, VERSEB25, VERSEC25, GLOSS25, GLOSSB25, BOTTLE25,) = range(727, 737)
+(CHICK25, BUSH25, SKATE25, WAFF25, GUM25, GUMB25,) = range(737, 743)
+(TACK25, COPY25, COPYB25, REC25, RECB25, GYM25, GYMB25, HUST25,) = range(743, 751)
+(WIRE26, CART26, CARTB26, WRECK26, WRECKB26, HEAD26, SOAK26, SOAKB26, SOAKC26,) = range(751, 760)
+(NIGHT26, NIGHTB26, DOME26, DRILL26, DRILLB26, DRILLC26, COLD26, COLDB26, BAT26,) = range(760, 769)
+(SPEED26, SPEEDB26, TRASH26, TRASHB26, SCORE26, SCOREB26, CAKE26, POOL26,) = range(769, 777)
+(PILLOW26, SUSHI26, SNEAK26, UPPER26, SAND26,) = range(777, 782)
+(WEED26, MOLE26, MOLEB26, CHIA26, CHIAB26, SKI26, ALLEY26,) = range(782, 789)
+(FIN26, FINB26, CORD26, CORDB26, PLANK26, PLANKB26, RECL26, RECLB26, RECLC26, JAM26, JAMB26,) = range(789, 800)
+(SEND27, SENDB27, POLL27, POLLB27, POLLC27, DARK27, DARKB27, AURA27, AURAB27, RUSH27, RUSHB27, RUSHC27,) = range(800, 812)
+(RIP27, FRESH27, FRESHB27, FRESHC27, HOT27, SPACE27, SPACEB27, DIRT27, DIRTB27,) = range(812, 821)
+(CUT27, CUTB27, TIME27, TIMEB27, SWAP27, SWAPB27, YAP27, YAPB27, YAPC27, MOON27, MOONB27,) = range(821, 832)
+(RUB27, RUBB27, RUBC27, FLU27, FLUB27, WIND27, WINDB27, TAT27, TATB27, DELI27, DELIB27,) = range(832, 843)
+(GLOW27, GLOWB27, DOG27, DOGB27, LUCK27, LUCKB27, LUCKC27, STIFF27, HOWL27, HOWLB27,) = range(843, 853)
+(YOGA27, GATE27, LOOK27, SNOW27, HOVER27,) = range(853, 858)
+(BEAM28, BEAMB28, FOG28, FOGB28, ORDER28, ORDERB28, ORDERC28, SAG28, SAGB28, WISH28, WISHB28,) = range(858, 869)
+(TINT28, TINTB28, CREW28, DRAW28, DRAWB28, VIBE28, VIBEB28, CAT28, CATB28,) = range(869, 878)
+(TAG28, TAGB28, BOUNCE28, GRUDGE28, GRUDGEB28, TICKLE28, TICKLEB28, GAL28,) = range(878, 886)
+(PICK28, DM28, DMB28, RAT28, RATB28, KICK28, POT28,) = range(886, 893)
+(FLIP28, COS28, COSB28, COP28, HONEY28, HONEYB28, EDGE28,) = range(893, 900)
+(VIS28, VISB28, NV28, THINK28, THINKB28, TREE28, TREEB28, MOOD28,) = range(900, 908)
+(DRY29, GLOBE29, RIM29, RIMB29, SHADE29, CD29,) = range(908, 914)
+(SWAP29, SWAPB29, EASEL29, EASELB29, ROLL29, TAPE29, L29,) = range(914, 921)
+(TRADE29, UMB29, BROOM29, SPRAY29, WIN29, WINB29,) = range(921, 927)
+LAST_KIT = WINB29
 DONOR = {GUN: 73, KIT: 62, SMOKE: 84, CAR: 82, BLING: 168, CASH: 47, ROCKET: 349,
          BOTTLE: 349, BRICK: 349, EGG: 349, FIRE: 84, HOUSE: 168, YOLK: 84,
          HYDRANT: 349, JET: 84, SPLASH: 84, SLUGGER: 168, TASER: 349, BOLTS: 349, FOB: 349, RINGS: 62,
@@ -115,7 +163,53 @@ DONOR.update({BOX17: 82, CUTTER17: 82, CUTL17: 168, BAR17: 82, PLATE17: 349, CAS
               BLOWER17: 82, DUSTSTORM17: 84, TRASH17: 82})
 DONOR.update({DJ18: 82, DJFX18: 84, DUFFEL18: 82, KNUX18: 82, POW18: 168, CAR18: 82, RINGFIRE18: 84, CD18: 82, NOTES18: 84, COAT18: 82, GEARS18: 84, BROOM18: 82, RING18: 82, WET18: 82, STARS18: 84, CANDLE18: 82, WAVES18: 84, COOKIE18: 82, SLIP18: 168, BALL18: 82, CORK18: 82, AURA18: 84, ARMOR18: 82, PARTY18: 82, LIGHTS18: 84, AID18: 82, SINK18: 82, BOOM18: 84, BRAWL18: 82, BRAWLFX18: 84, CALM18: 82, SNOWCONE18: 82, TABLE18: 82, PLATES18: 82, POGO18: 82, SCISS18: 82, SHINE18: 84, LAMP18: 82, BLOBS18: 84, PANCAKE18: 82, CLAP18: 82, STRIKER18: 82, PUCK18: 168, CHALK18: 82, MOSQ18: 82, WELT18: 84, TOILET18: 82, FLUSH18: 84})
 DONOR.update({FRUIT19: 82, MATTRESS19: 82, HEAL19: 84, TV19: 82, DREAM19: 82, LOBSTER19: 82, LOBL19: 168, SCOOT19: 82, DRAGON19: 82, GLITTER19: 82, ICEBAG19: 82, CUBES19: 84, EVID19: 82, MATCH19: 82, WISP19: 84, BALLOON19: 82, ZAP19: 84, FRISBEE19: 82, DUMMY19: 82, CLAWS19: 168, WRECK19: 82, TEDDY19: 82, ORBS19: 84, SEEDS19: 82, SEEDFX19: 84, TRUCK19: 82, TRUCKL19: 168, GRAVEL19: 84, TOAST19: 82, SMOKE19: 84, CAN19: 82, GREEN19: 84, SLEEP19: 82, CARDS19: 82, MORTAR19: 82, FIREWORK19: 84, BIN19: 82, GRAB19: 82, GRABL19: 168, PLOW19: 82, SNOWWALL19: 84, REMOTE19: 82, SEPIA19: 84, CAMERA19: 82, FLASH19: 84, GYM19: 82, PISTOL19: 82})
-DONOR.update({CLOWN20: 82, SWIPE20: 82, PUNCHM20: 82, PIGGY20: 82, COINS20: 84, IRON20: 82, LIGHT20: 82, LEGO20: 82, LACES20: 82, GAUGE20: 82, STEAM20: 84, FRONT20: 82, SAFE20: 82, CLIMB20: 82, FOOTB20: 82, FOG20: 82, FOGFX20: 84, AMP20: 82, AMPFX20: 84, BUGS20: 82, BUGFX20: 84, MOP20: 82, FANNY20: 82, MONEY20: 84, TREAD20: 82, SLEUTH20: 82, FICUS20: 82, CANDY20: 82, GEMBEAM20: 84, SHAKE20: 82, SCOPE20: 82, LEAVES20: 84, EXIT20: 82, MOUTH20: 82, SPITFX20: 84, CHAIR20: 82, COMBO20: 168, SLASH20: 82, BFF20: 82, LINK20: 84})
+DONOR.update({CLOWN20: 82, SWIPE20: 82, PUNCHM20: 82, PIGGY20: 82, COINS20: 84, IRON20: 82, LIGHT20: 82, LEGO20: 82, LACES20: 82, GAUGE20: 82, STEAM20: 84, FRONT20: 82, SAFE20: 82, CLIMB20: 82, FOOTB20: 82, FOG20: 82, FOGFX20: 84, AMP20: 82, AMPFX20: 84, BUGS20: 82, BUGFX20: 84, MOP20: 82, FANNY20: 82, MONEY20: 84, TREAD20: 82, SLEUTH20: 82, FICUS20: 82, CANDY20: 82, GEMBEAM20: 84, SHAKE20: 82, SCOPE20: 82, LEAVES20: 84, EXIT20: 82, MOUTH20: 82, SPITFX20: 84, CHAIR20: 82, COMBO20: 168, SLASH20: 82, BFF20: 82, LINK20: 84, SCAM20: 82, SIGNS20: 82})
+DONOR.update({MILK23: 82, MILKB23: 82, MILKC23: 82, HALF23: 82, HALFB23: 82, HALFC23: 82, DUST23: 82, DUSTB23: 82, STARE23: 82, FADE23: 82, FADEB23: 82})
+DONOR.update({NINJA23: 82, NINJAB23: 82, M8023: 82, M80B23: 82, ZIP23: 82, ZIPB23: 82, ONION23: 82, ONIONB23: 82, RAGE23: 82, RAGEB23: 82})
+DONOR.update({LOG23: 82, LOGB23: 82, LOGC23: 82, SNUCK23: 82, SNUCKB23: 82, FENCE23: 82, TRAP23: 82, KISS23: 82, KISSB23: 82})
+DONOR.update({FREEZE23: 82, FREEZEB23: 82, BELL23: 82, BELLB23: 82, BELLC23: 82, TAN23: 82, TANB23: 82, TROPHY23: 82, GIFT23: 82, GIFTB23: 82, GIFTC23: 82})
+DONOR.update({LINE23: 82, LINEB23: 82, HORN23: 82, HORNB23: 82, HYPE23: 82, HYPEB23: 82, DING23: 82, DINGB23: 82, THERMO23: 82, THERMOB23: 82})
+DONOR.update({GAS23: 82, GASB23: 82, GASC23: 82, DOOR23: 82, DOORB23: 82, SCOOT23: 82, SCOOTB23: 82, SCOOTC23: 82, ZAPR23: 82, ZAPRB23: 82, BILL23: 82, BILLB23: 82})
+DONOR.update({FA24: 82, FAB24: 82, FAC24: 82, TRUCK24: 82, TRUCKB24: 82, HOLY24: 82, HOLYB24: 82, HOLYC24: 82, GAVEL24: 82, GAVELB24: 82, CLOCK24: 82, CLOCKB24: 82, CLOCKC24: 82})
+DONOR.update({RIP24: 82, RIPB24: 82, GHOST24: 82, GHOSTB24: 82, MIND24: 82, MINDB24: 82, MINDC24: 82, OMEN24: 82, OMENB24: 82, OMENC24: 82, CRUSH24: 82, CRUSHB24: 82})
+DONOR.update({HOT24: 82, HOTB24: 82, HOTC24: 82, AIR24: 82, AIRB24: 82, WALL24: 82, WALLB24: 82, TAP24: 82, NAIL24: 82, NAILB24: 82, STAPLE24: 82, STAPLEB24: 82})
+DONOR.update({PETTY24: 82, PETTYB24: 82, TRIP24: 82, TRIPB24: 82, WILD24: 82, WILDB24: 82, BITE24: 82, CLUB24: 82, CLUBB24: 82})
+DONOR.update({SNAP24: 82, SNAPB24: 82, LINT24: 82, LINTB24: 82, LINTC24: 82, SHELL24: 82, SHELLB24: 82, WOB24: 82, CLAW24: 82})
+DONOR.update({HATS24: 82, HATSB24: 82, CARD24: 82, CARDB24: 82, RISE24: 82, RISEB24: 82, RISEC24: 82, SINK24: 82, SINKB24: 82})
+DONOR.update({BURN25: 82, BURNB25: 82, BURNC25: 82, HYD25: 82, HYDB25: 82, GUN25: 82, GUNB25: 82, GUNC25: 82, MET25: 82, METB25: 82, BLOW25: 82, BLOWB25: 82, BLOWC25: 82})
+DONOR.update({SPOON25: 82, SPOONB25: 82, SPOONC25: 82, PIN25: 82, PINB25: 82, LAMP25: 82, LAMPB25: 82, LAMPC25: 82, PALM25: 82, PALMB25: 82, JACK25: 82, JACKB25: 82})
+DONOR.update({DEAL25: 82, DEALB25: 82, DEALC25: 82, PLATE25: 82, PLATEB25: 82, TEAR25: 82, BONE25: 82, SHM25: 82})
+DONOR.update({MOON25: 82, MOONB25: 82, SLIME25: 82, SLIMEB25: 82, VERSE25: 82, VERSEB25: 82, VERSEC25: 82, GLOSS25: 82, GLOSSB25: 82, BOTTLE25: 82})
+DONOR.update({CHICK25: 82, BUSH25: 82, SKATE25: 82, WAFF25: 82, GUM25: 82, GUMB25: 82})
+DONOR.update({TACK25: 82, COPY25: 82, COPYB25: 82, REC25: 82, RECB25: 82, GYM25: 82, GYMB25: 82, HUST25: 82})
+DONOR.update({WIRE26: 82, CART26: 82, CARTB26: 82, WRECK26: 82, WRECKB26: 82, HEAD26: 82, SOAK26: 82, SOAKB26: 82, SOAKC26: 82})
+DONOR.update({NIGHT26: 82, NIGHTB26: 82, DOME26: 82, DRILL26: 82, DRILLB26: 82, DRILLC26: 82, COLD26: 82, COLDB26: 82, BAT26: 82})
+DONOR.update({SPEED26: 82, SPEEDB26: 82, TRASH26: 82, TRASHB26: 82, SCORE26: 82, SCOREB26: 82, CAKE26: 82, POOL26: 82})
+DONOR.update({PILLOW26: 82, SUSHI26: 82, SNEAK26: 82, UPPER26: 82, SAND26: 82})
+DONOR.update({WEED26: 82, MOLE26: 82, MOLEB26: 82, CHIA26: 82, CHIAB26: 82, SKI26: 82, ALLEY26: 82})
+DONOR.update({FIN26: 82, FINB26: 82, CORD26: 82, CORDB26: 82, PLANK26: 82, PLANKB26: 82, RECL26: 82, RECLB26: 82, RECLC26: 82, JAM26: 82, JAMB26: 82})
+DONOR.update({SEND27: 82, SENDB27: 82, POLL27: 82, POLLB27: 82, POLLC27: 82, DARK27: 82, DARKB27: 82, AURA27: 82, AURAB27: 82, RUSH27: 82, RUSHB27: 82, RUSHC27: 82})
+DONOR.update({RIP27: 82, FRESH27: 82, FRESHB27: 82, FRESHC27: 82, HOT27: 82, SPACE27: 82, SPACEB27: 82, DIRT27: 82, DIRTB27: 82})
+DONOR.update({CUT27: 82, CUTB27: 82, TIME27: 82, TIMEB27: 82, SWAP27: 82, SWAPB27: 82, YAP27: 82, YAPB27: 82, YAPC27: 82, MOON27: 82, MOONB27: 82})
+DONOR.update({RUB27: 82, RUBB27: 82, RUBC27: 82, FLU27: 82, FLUB27: 82, WIND27: 82, WINDB27: 82, TAT27: 82, TATB27: 82, DELI27: 82, DELIB27: 82})
+DONOR.update({GLOW27: 82, GLOWB27: 82, DOG27: 82, DOGB27: 82, LUCK27: 82, LUCKB27: 82, LUCKC27: 82, STIFF27: 82, HOWL27: 82, HOWLB27: 82})
+DONOR.update({YOGA27: 82, GATE27: 82, LOOK27: 82, SNOW27: 82, HOVER27: 82})
+DONOR.update({BEAM28: 82, BEAMB28: 82, FOG28: 82, FOGB28: 82, ORDER28: 82, ORDERB28: 82, ORDERC28: 82, SAG28: 82, SAGB28: 82, WISH28: 82, WISHB28: 82})
+DONOR.update({TINT28: 82, TINTB28: 82, CREW28: 82, DRAW28: 82, DRAWB28: 82, VIBE28: 82, VIBEB28: 82, CAT28: 82, CATB28: 82})
+DONOR.update({TAG28: 82, TAGB28: 82, BOUNCE28: 82, GRUDGE28: 82, GRUDGEB28: 82, TICKLE28: 82, TICKLEB28: 82, GAL28: 82})
+DONOR.update({PICK28: 82, DM28: 82, DMB28: 82, RAT28: 82, RATB28: 82, KICK28: 82, POT28: 82})
+DONOR.update({FLIP28: 82, COS28: 82, COSB28: 82, COP28: 82, HONEY28: 82, HONEYB28: 82, EDGE28: 82})
+DONOR.update({VIS28: 82, VISB28: 82, NV28: 82, THINK28: 82, THINKB28: 82, TREE28: 82, TREEB28: 82, MOOD28: 82})
+DONOR.update({DRY29: 82, GLOBE29: 82, RIM29: 82, RIMB29: 82, SHADE29: 82, CD29: 82})
+DONOR.update({SWAP29: 82, SWAPB29: 82, EASEL29: 82, EASELB29: 82, ROLL29: 82, TAPE29: 82, L29: 82})
+DONOR.update({TRADE29: 82, UMB29: 82, BROOM29: 82, SPRAY29: 82, WIN29: 82, WINB29: 82})
+DONOR.update({WHIP21: 82, DTAP21: 82, DTAPB21: 82, LICK21: 82, SIGNS21: 82, RICO21: 82, RICOB21: 82, TALK21: 82, TALKB21: 82, HEART21: 82})
+DONOR.update({TAXS22: 82, TAXB22: 82, WINGB22: 82, LIGHTB22: 82, MADB22: 82, MADC22: 82})
+DONOR.update({CLOWNB22: 82, SPIKEB22: 82, LACEB22: 82, SAFEB22: 82, PARKB22: 82})
+DONOR.update({PLUGB22: 82, BUGB22: 82, LOUDB22: 82})
+DONOR.update({SMOKEB22: 82, K9B22: 82, HIDEB22: 82, MOOCHB22: 82})
+DONOR.update({ZAZAB22: 82, ZAZAC22: 82, DIPB22: 82, SPITB22: 82, POSTB22: 82})
+DONOR.update({COMBOB22: 82})
 LOAD = dict(DONOR)                                            # particle file each kit loads (battlefx repoints)   # small files: the battle heap can't fit big ones twice
 SPARK, FLASH, TRACER = 0, 1, 2
 CASING, CROSS = 0, 1
@@ -141,6 +235,8 @@ BODY, BLADES = 2, 0                                           # FAN: the box fan
 GUST_E, GUST_P = 0, 1                                         # WIND: gust lines blowing at the enemy / the player
 FAN_AT = {"player": (-30, 22), "enemy": (30, 6)}            # the fan, behind the attacker (px from its origin)
 TARGET_FROM_ATTACKER = {"player": (121, 59), "enemy": (-121, -59)}   # defender origin - attacker origin, px
+FA_TIP24 = {"player": (68, 50), "enemy": (-67, 11)}                     # Full Auto minigun barrel tip, attacker-relative
+GG_TIP25 = {"player": (57, 82), "enemy": (-94, 23)}                     # Gun Garden: middle flower muzzle, attacker-relative
 GUST_AIM = (0, 10)                                            # where on the target the wind hits
 GUST_FRAMES = 13
 
@@ -4627,24 +4723,36 @@ def build_files(files):
     puffs = lambda b, rs, r, c, n=8, life=22, scl=.7, up=.03: burst(b, rs, r, c, rgb(255, 255, 255), scl, n, .14, up=up, life=life,
                                                                     alpha=(26, 20, 0), scl_anm=(.4, 1.3, 1.8, 60, 200))
 
-    b, rs = pk(CLOWN20, {1: (fxart.clown_nose(), .45, 4, {}), 2: (fxart.bike_horn(), .9, 4, {}), 3: (flipx(fxart.bike_horn()), .9, 4, {})},
-               alpha=fxart.tiny_spark())
-    burst(b, rs, 0, rgb(255, 80, 160), rgb(120, 255, 255), .45, 12, .2, up=.16, gravity=.012, life=22)
-    fin(CLOWN20, b, rs, (0, 1, 2, 3))
+    b, rs = pk(CLOWN20, {1: (fxart.clown_nose(), .45, 4, {}), 2: (fxart.rainbow_wig(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 80, 160), rgb(120, 255, 255), .55, 14, .22, up=.16, gravity=.012, life=24)
+    fin(CLOWN20, b, rs, (0, 1, 2))
+    b, rs = pk(CLOWNB22, {1: (fxart.burst_sign(["CLOWNED."], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30}), 2: (fxart.clown_shoes(), .8, 4, {})})
+    fin(CLOWNB22, b, rs, (1, 2))
 
-    b, rs = pk(SWIPE20, {1: (fxart.card_reader(), 1.0, 4, {}), 2: (fxart.card_reader(approved=True), ONE_TO_ONE, 4, {}),
-                         3: (fxart.credit_card(), .5, 4, {})}, alpha=fxart.wink_twinkle())
-    sparkle(b, rs)
-    fin(SWIPE20, b, rs, (0, 1, 2, 3))
+    b, rs = pk(SWIPE20, {1: (fxart.scam_phone(), ONE_TO_ONE, 4, {}), 2: (fxart.scam_phone(state="declined"), ONE_TO_ONE, 4, {})},
+               alpha=fxart.dash_lines())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .45, 4, .12, life=8)
+    fin(SWIPE20, b, rs, (0, 1, 2))
+    b, rs = pk(SCAM20, {1: (fxart.warranty_bubble(), ONE_TO_ONE, 4, {}), 2: (fxart.scam_phone(state="answered"), ONE_TO_ONE, 4, {})})
+    fin(SCAM20, b, rs, (1, 2))
+    b, rs = pk(SIGNS20, {1: (fxart.burst_sign(["REPO'D!"], fill=(230, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30}),
+                         2: (fxart.burst_sign(["OHHHH!"]), SIGN_SCALE, 4, {"colors": 30})})
+    fin(SIGNS20, b, rs, (1, 2))
 
-    b, rs = pk(PUNCHM20, {1: (fxart.punch_machine(), ONE_TO_ONE, 4, {}), 2: (fxart.punch_machine(maxed=True), ONE_TO_ONE, 4, {})},
+    b, rs = pk(PUNCHM20, {1: (fxart.fight_bell(), 1.1, 4, {}), 2: (fxart.line_bubble(["WAIT...", "UR SHOE", "UNTIED"]), ONE_TO_ONE, 4, {})},
                alpha=fxart.tiny_spark())
-    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 220), .5, 8, .22, life=14)
+    burst(b, rs, 0, rgb(255, 240, 80), rgb(255, 255, 220), .6, 10, .22, life=16)
     fin(PUNCHM20, b, rs, (0, 1, 2))
 
-    b, rs = pk(PIGGY20, {1: (fxart.piggy_bank(), 1.0, 4, {})}, alpha=fxart.gold_coin())
+    b, rs = pk(PIGGY20, {1: (fxart.paystub(), ONE_TO_ONE, 4, {}), 2: (fxart.paystub(net=True), ONE_TO_ONE, 4, {})},
+               alpha=fxart.gold_coin())
     burst(b, rs, 0, rgb(255, 210, 60), rgb(255, 250, 200), .45, 8, .16, up=.2, gravity=.016, life=20)
-    fin(PIGGY20, b, rs, (0, 1))
+    fin(PIGGY20, b, rs, (0, 1, 2))
+    b, rs = pk(TAXS22, {1: (fxart.burst_sign(["-FED TAX"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30}), 2: (fxart.burst_sign(["-STATE TAX"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(TAXS22, b, rs, (1, 2))
+    b, rs = pk(TAXB22, {1: (fxart.burst_sign(["-SOCIAL", "SECURITY"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(TAXB22, b, rs, (1,))
+
     b, rs = pk(COINS20, {}, alpha=fxart.gold_coin())
     for res, foe_side in ((0, "enemy"), (1, "player")):                       # (from the foe back to the attacker)
         spray(b, rs, res, foe_side, (0, 20), (34 if foe_side == "enemy" else -34, 30), 16, tex=0, clr=rgb(255, 210, 60),
@@ -4653,23 +4761,34 @@ def build_files(files):
         rot(b, rs, res, spin=0x1000)
     fin(COINS20, b, rs, (0, 1))
 
-    b, rs = pk(IRON20, {1: (fxart.clothes_iron(), 1.2, 4, {}), 2: (flipx(fxart.clothes_iron()), 1.2, 4, {})}, alpha=fxart.soft_puff())
-    puffs(b, rs, 0, rgb(235, 240, 250), n=6, up=.12)
+    b, rs = pk(IRON20, {1: (fxart.chicken_wing(), 1.3, 4, {}), 2: (fxart.ranch_cup(), .9, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(240, 150, 40), rgb(255, 230, 120), .4, 10, .18, up=.1, gravity=.016, life=20)
     fin(IRON20, b, rs, (0, 1, 2))
+    b, rs = pk(WINGB22, {1: (fxart.line_bubble(["DID U JUST", "DOUBLE DIP?!"]), ONE_TO_ONE, 4, {})})
+    fin(WINGB22, b, rs, (1,))
 
-    b, rs = pk(LIGHT20, {1: (fxart.light_switch(), ONE_TO_ONE, 4, {}), 2: (fxart.light_switch(on=True), ONE_TO_ONE, 4, {}),
-                         3: (fxart.light_bulb(), 1.2, 4, {})}, alpha=fxart.glow_dot())
-    prop(b, rs, 0, tex=0, clr=rgb(255, 250, 180), clr_anm=(rgb(255, 255, 255), rgb(255, 240, 120)), scl=3.0, life=14,
+    b, rs = pk(LIGHT20, {1: (fxart.influencer_light(), ONE_TO_ONE, 4, {}), 2: (fxart.influencer_light(level="50%"), ONE_TO_ONE, 4, {})},
+               alpha=fxart.glow_dot())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 255, 220), clr_anm=(rgb(255, 255, 255), rgb(255, 250, 200)), scl=3.2, life=14,
          alpha=(28, 22, 0), scl_anm=(.3, 1.2, 1.4, 60, 200))
-    fin(LIGHT20, b, rs, (0, 1, 2, 3))
+    fin(LIGHT20, b, rs, (0, 1, 2))
+    b, rs = pk(LIGHTB22, {1: (fxart.influencer_light(level="9000%"), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(230, 240, 255), rgb(255, 255, 255), .5, 12, .2, up=.06, gravity=.012, life=20)
+    fin(LIGHTB22, b, rs, (0, 1))
 
-    b, rs = pk(LEGO20, {1: (fxart.lego_brick(), .4, 4, {})}, alpha=fxart.tiny_spark())
-    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 220), .5, 6, .16, life=12)
-    fin(LEGO20, b, rs, (0, 1))
+    b, rs = pk(LEGO20, {1: (fxart.spike_strip(), 1.3, 4, {}), 2: (fxart.pizza_scooter(), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .5, 8, .2, life=12)
+    fin(LEGO20, b, rs, (0, 1, 2))
+    b, rs = pk(SPIKEB22, {1: (fxart.pizza_scooter(flat=True), ONE_TO_ONE, 4, {}), 2: (fxart.pizza_hat(), 1.0, 4, {})},
+               alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(200, 200, 205), rgb(255, 255, 255), .6, 8, .14, up=.06, life=18)
+    fin(SPIKEB22, b, rs, (0, 1, 2))
 
-    b, rs = pk(LACES20, {1: (fxart.tied_laces(), 2.0, 4, {})}, alpha=fxart.soft_puff())
-    puffs(b, rs, 0, rgb(210, 200, 180), n=8)
-    fin(LACES20, b, rs, (0, 1))
+    b, rs = pk(LACES20, {1: (fxart.tied_laces(), 1.1, 4, {}), 2: (fxart.flying_sneaker(), .9, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(210, 200, 180), rgb(255, 255, 255), .7, 8, .14, up=.03, life=22)
+    fin(LACES20, b, rs, (0, 1, 2))
+    b, rs = pk(LACEB22, {1: (fxart.line_bubble(["WHO TIED", "THESE?!"]), ONE_TO_ONE, 4, {})})
+    fin(LACEB22, b, rs, (1,))
 
     b, rs = pk(GAUGE20, {1: (fxart.pressure_gauge(), .9, 4, {}), 2: (fxart.pressure_gauge(red=True), .9, 4, {})}, alpha=fxart.soft_puff())
     puffs(b, rs, 0, rgb(240, 240, 245), n=6, up=.14)
@@ -4679,28 +4798,41 @@ def build_files(files):
          gen=3, gen_intvl=1, emtr_life=16, init_pos=1, radius=.6, axis=(0, 1, 0), vel=(.04, .3), alpha=(26, 22, 0),
          scl_anm=(.4, 1.2, 1.6, 60, 200))
     fin(STEAM20, b, rs, (0,))
+    b, rs = pk(MADB22, {1: (fxart.line_bubble(["k."]), ONE_TO_ONE, 4, {}), 2: (fxart.line_bubble(["lol"]), ONE_TO_ONE, 4, {})})
+    fin(MADB22, b, rs, (1, 2))
+    b, rs = pk(MADC22, {1: (fxart.line_bubble(["OK."]), ONE_TO_ONE, 4, {}), 2: (fxart.flip_table(), 1.5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 150, 90), rgb(255, 230, 180), .6, 12, .22, up=.08, gravity=.014, life=20)
+    fin(MADC22, b, rs, (0, 1, 2))
 
-    b, rs = pk(FRONT20, {1: (fxart.cardboard_lambo(), 1.5, 4, {}), 2: (fxart.cardboard_lambo(fallen=True), 1.5, 4, {})},
-               alpha=fxart.soft_puff())
-    puffs(b, rs, 0, rgb(210, 200, 180), n=6)
-    fin(FRONT20, b, rs, (0, 1, 2))
+    b, rs = pk(FRONT20, {1: (fxart.cardboard_lambo(), 1.5, 4, {}), 2: (fxart.lambo_hooked(), 1.5, 4, {}),
+                         3: (fxart.tow_truck(), 1.5, 4, {})}, alpha=fxart.wink_twinkle())
+    sparkle(b, rs)
+    fin(FRONT20, b, rs, (0, 1, 2, 3))
 
-    b, rs = pk(SAFE20, {1: (fxart.wall_safe(), 1.0, 4, {}), 2: (fxart.wall_safe(open_=True), 1.0, 4, {})}, alpha=fxart.tiny_spark())
-    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 220), .5, 8, .2, life=14)
+    b, rs = pk(SAFE20, {1: (fxart.wall_safe(), 1.0, 4, {}), 2: (fxart.safe_inside_man(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 220), .55, 10, .22, life=14)
     fin(SAFE20, b, rs, (0, 1, 2))
+    b, rs = pk(SAFEB22, {1: (fxart.line_bubble(["IT WAS OPEN", "THE WHOLE", "TIME"]), ONE_TO_ONE, 4, {}),
+                         2: (fxart.spring_glove(), 1.2, 4, {})})
+    fin(SAFEB22, b, rs, (1, 2))
 
-    b, rs = pk(CLIMB20, {1: (fxart.climbing_wall(), 1.4, 4, {})}, alpha=fxart.dirt_clod())
+    b, rs = pk(CLIMB20, {1: (fxart.blue_mailbox(), .75, 4, {}), 2: (fxart.fire_hydrant(), .7, 4, {})}, alpha=fxart.dirt_clod())
     burst(b, rs, 0, rgb(150, 145, 140), rgb(210, 205, 200), .45, 8, .12, up=.1, gravity=.022, life=24)
-    fin(CLIMB20, b, rs, (0, 1))
+    fin(CLIMB20, b, rs, (0, 1, 2))
+    b, rs = pk(PARKB22, {1: (fxart.burst_sign(["PARKOUR!"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(PARKB22, b, rs, (1,))
 
-    b, rs = pk(FOOTB20, {1: (fxart.football(), .55, 4, {})}, alpha=fxart.dash_lines())
-    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .5, 2, .05, life=10)
-    fin(FOOTB20, b, rs, (0, 1))
+    b, rs = pk(FOOTB20, {1: (fxart.basketball(), .7, 4, {}),
+                         2: (fxart.burst_sign(["ANKLES", "GONE!"], fill=(230, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.dash_lines())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .5, 3, .08, life=8)
+    fin(FOOTB20, b, rs, (0, 1, 2))
 
-    b, rs = pk(FOG20, {1: (fxart.fog_machine(), 1.0, 4, {}), 2: (flipx(fxart.fog_machine()), 1.0, 4, {})}, alpha=fxart.glow_dot())
-    prop(b, rs, 0, tex=0, clr=rgb(190, 90, 255), clr_anm=(rgb(255, 120, 220), rgb(90, 160, 255)), scl=.9, life=10,
-         gen=2, gen_intvl=3, emtr_life=40, init_pos=1, radius=2.6, alpha=(20, 16, 0))
+    b, rs = pk(FOG20, {1: (fxart.vape_mod(), .9, 4, {}), 2: (fxart.cool_shades(), .8, 70, {})}, alpha=fxart.ring())   # (shades: one long-lived particle, under nothing)
+    prop(b, rs, 0, tex=0, clr=rgb(250, 250, 255), clr_anm=(rgb(255, 255, 255), rgb(220, 220, 230)), scl=1.5, life=18,
+         alpha=(26, 20, 0), scl_anm=(.4, 1.2, 1.8, 40, 200), vel=(0, .25), axis=(0, 1, 0))
     fin(FOG20, b, rs, (0, 1, 2))
+
     b, rs = pk(FOGFX20, {}, alpha=fxart.soft_puff(), alpha1=fxart.tall_puff())
     for res, d_ in ((0, 1), (1, -1)):
         prop(b, rs, res, tex=0, clr=rgb(235, 235, 245), clr_anm=(rgb(255, 255, 255), rgb(200, 200, 220)), scl=1.4, life=44,
@@ -4708,9 +4840,13 @@ def build_files(files):
              scl_anm=(.4, 1.4, 2.2, 60, 200))
     fin(FOGFX20, b, rs, (0, 1))
 
-    b, rs = pk(AMP20, {1: (fxart.guitar_amp(), 1.1, 4, {})}, alpha=fxart.zig_spark())
-    burst(b, rs, 0, rgb(255, 240, 90), rgb(255, 255, 255), .45, 6, .16, up=.1, life=12)
-    fin(AMP20, b, rs, (0, 1))
+    b, rs = pk(AMP20, {1: (fxart.phone_charge(), ONE_TO_ONE, 4, {}), 2: (fxart.phone_charge(level="3%"), ONE_TO_ONE, 4, {})},
+               alpha=fxart.zig_spark())
+    burst(b, rs, 0, rgb(255, 240, 90), rgb(255, 255, 255), .5, 10, .2, up=.1, life=14)
+    fin(AMP20, b, rs, (0, 1, 2))
+    b, rs = pk(PLUGB22, {1: (fxart.phone_charge(level="100%"), ONE_TO_ONE, 4, {}), 2: (fxart.fast_charger(), 1.1, 4, {})})
+    fin(PLUGB22, b, rs, (1, 2))
+
     b, rs = pk(AMPFX20, {}, alpha=fxart.ring(), alpha1=fxart.light_shaft())
     prop(b, rs, 0, tex=0, clr=rgb(255, 240, 120), clr_anm=(rgb(255, 255, 255), rgb(255, 200, 40)), scl=1.0, life=16,
          gen=1, gen_intvl=4, emtr_life=20, alpha=(28, 20, 0), scl_anm=(.3, 1.8, 2.6, 80, 200))
@@ -4718,8 +4854,12 @@ def build_files(files):
          gen=1, gen_intvl=2, emtr_life=24, init_pos=1, radius=1.0, axis=(0, 1, 0), vel=(.01, .14), alpha=(26, 22, 0))
     fin(AMPFX20, b, rs, (0, 1))
 
-    b, rs = pk(BUGS20, {1: (fxart.motel_pillow(), 1.0, 4, {})}, alpha=fxart.bed_bug())
-    fin(BUGS20, b, rs, (1,))
+    b, rs = pk(BUGS20, {1: (fxart.motel_bed(), 1.6, 4, {})}, alpha=fxart.bed_bug())
+    burst(b, rs, 0, rgb(120, 60, 30), rgb(190, 120, 70), .4, 14, .24, up=.1, gravity=.01, life=24)
+    fin(BUGS20, b, rs, (0, 1))
+    b, rs = pk(BUGB22, {1: (fxart.burst_sign(["1 STAR."], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(BUGB22, b, rs, (1,))
+
     b, rs = pk(BUGFX20, {}, alpha=fxart.bed_bug())
     spray2(b, rs, {"player": (34, 30), "enemy": (-34, 26)}, (0, 18), 16, clr=rgb(120, 60, 30),
            clr_anm=(rgb(190, 120, 70), rgb(80, 40, 20)), scl=.35, gen=2, gen_intvl=1, emtr_life=24, radius=.3,
@@ -4728,54 +4868,65 @@ def build_files(files):
         rot(b, rs, r, spin=0x0800)
     fin(BUGFX20, b, rs, (0, 1))
 
-    b, rs = pk(MOP20, {1: (fxart.mop_bucket(), 1.3, 4, {})}, alpha=fxart.fizz_drop())
-    burst(b, rs, 0, rgb(150, 140, 100), rgb(220, 210, 170), .4, 3, .06, up=.0, gravity=.02, life=20, emtr_life=24, gen_intvl=2)
-    fin(MOP20, b, rs, (0, 1))
+    b, rs = pk(MOP20, {1: (fxart.key_ring(), .9, 4, {}), 2: (fxart.rubber_chicken(), .9, 4, {})}, alpha=fxart.gold_coin())
+    burst(b, rs, 0, rgb(255, 210, 60), rgb(255, 250, 200), .45, 12, .14, up=.12, gravity=.02, life=26)
+    fin(MOP20, b, rs, (0, 1, 2))
 
-    b, rs = pk(FANNY20, {1: (fxart.neon_fanny_pack(), 1.0, 4, {}), 2: (fxart.neon_fanny_pack(open_=True), 1.0, 4, {})},
-               alpha=fxart.wink_twinkle())
-    sparkle(b, rs, c=rgb(150, 255, 120))
+    b, rs = pk(FANNY20, {1: (fxart.neon_fanny_pack(), 1.0, 4, {}), 2: (fxart.boombox_pack(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 80), rgb(255, 255, 220), .55, 10, .2, life=14)
     fin(FANNY20, b, rs, (0, 1, 2))
-    b, rs = pk(MONEY20, {}, alpha=fxart.money_leaf())
-    spray2(b, rs, {"player": (32, 34), "enemy": (-32, 30)}, (0, 20), 20, clr=rgb(100, 200, 90),
-           clr_anm=(rgb(220, 255, 210), rgb(60, 150, 50)), scl=.5, gen=1, gen_intvl=2, emtr_life=24, radius=.3,
-           spread=.05, alpha=(31, 31, 0), flags_on=(1 << 14) | (1 << 12))
-    for r in (0, 1):
-        rot(b, rs, r, spin=0x0900)
+    b, rs = pk(MONEY20, {}, alpha=fxart.music_note())
+    spray2(b, rs, {"player": (32, 34), "enemy": (-32, 30)}, (0, 20), 20, clr=rgb(255, 80, 220),
+           clr_anm=(rgb(120, 255, 255), rgb(255, 240, 60)), scl=.6, gen=2, gen_intvl=2, emtr_life=12, radius=.3,
+           spread=.05, alpha=(31, 31, 0))
     fin(MONEY20, b, rs, (0, 1))
+    b, rs = pk(LOUDB22, {1: (fxart.line_bubble(["TURN IT", "DOWN!"]), ONE_TO_ONE, 4, {}), 2: (fxart.house_slipper(), .9, 4, {})})
+    fin(LOUDB22, b, rs, (1, 2))
 
-    b, rs = pk(TREAD20, {1: (fxart.treadmill(), 1.9, 4, {})}, alpha=fxart.fizz_drop())
-    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .3, 2, .1, up=.12, gravity=.012, life=16, emtr_life=40, gen_intvl=3)
-    fin(TREAD20, b, rs, (0, 1))
+    b, rs = pk(TREAD20, {1: (fxart.hoop_earrings(), .8, 4, {}), 2: (fxart.rope_chain(), .9, 4, {})}, alpha=fxart.wink_twinkle())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .6, 6, .1, life=14)
+    fin(TREAD20, b, rs, (0, 1, 2))
+    b, rs = pk(SMOKEB22, {1: (fxart.jelly_jar(), ONE_TO_ONE, 4, {}), 2: (fxart.line_bubble(["WE CAN GET", "THE SAME", "SMOKE"]), ONE_TO_ONE, 4, {})})
+    fin(SMOKEB22, b, rs, (1, 2))
 
-    b, rs = pk(SLEUTH20, {1: (fxart.sleuth_glass(), 1.0, 4, {}), 2: (fxart.deerstalker(), .8, 4, {})}, alpha=fxart.soot_puff())
-    prop(b, rs, 0, tex=0, clr=rgb(150, 200, 60), clr_anm=(rgb(220, 255, 140), rgb(100, 150, 30)), scl=.6, life=26,
-         gen=1, gen_intvl=3, emtr_life=30, init_pos=1, radius=.6, axis=(0, 1, 0), vel=(.01, .08), alpha=(24, 20, 0),
-         scl_anm=(.4, 1.2, 1.6, 60, 200))
+    b, rs = pk(SLEUTH20, {1: (fxart.k9_dog(), ONE_TO_ONE, 4, {}), 2: (fxart.k9_dog(barking=True), ONE_TO_ONE, 4, {})},
+               alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(230, 230, 240), rgb(255, 255, 255), .5, 4, .06, up=.04, life=14)
     fin(SLEUTH20, b, rs, (0, 1, 2))
+    b, rs = pk(K9B22, {1: (fxart.sandwich(), .8, 4, {})})
+    fin(K9B22, b, rs, (1,))
 
-    b, rs = pk(FICUS20, {1: (fxart.ficus(), 1.3, 4, {}), 2: (fxart.peek_eyes(), .5, 4, {})}, alpha=fxart.maple_leaf())
-    burst(b, rs, 0, rgb(80, 170, 70), rgb(160, 230, 140), .35, 4, .1, up=.06, gravity=.008, life=20)
+    b, rs = pk(FICUS20, {1: (fxart.tiny_cactus(), .75, 4, {}), 2: (fxart.tiny_cactus(fallen=True), .75, 4, {})},
+               alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(200, 230, 255), rgb(255, 255, 255), .35, 10, .2, up=.06, gravity=.012, life=16)
     fin(FICUS20, b, rs, (0, 1, 2))
+    b, rs = pk(HIDEB22, {1: (fxart.line_bubble(["ACHOO!"]), ONE_TO_ONE, 4, {})})
+    fin(HIDEB22, b, rs, (1,))
 
-    b, rs = pk(CANDY20, {1: (fxart.rock_candy(), 1.6, 4, {})}, alpha=fxart.wink_twinkle())
-    sparkle(b, rs, c=rgb(255, 150, 240))
+    b, rs = pk(CANDY20, {1: (fxart.big_chain(), 1.4, 4, {})}, alpha=fxart.wink_twinkle())
+    burst(b, rs, 0, rgb(210, 245, 255), rgb(255, 255, 255), .7, 8, .16, life=16)
     fin(CANDY20, b, rs, (0, 1))
     b, rs = pk(GEMBEAM20, {}, alpha=fxart.wink_twinkle())
-    spray2(b, rs, {"player": (30, 46), "enemy": (-30, 40)}, (0, 22), 12, clr=rgb(255, 120, 230),
-           clr_anm=(rgb(255, 255, 255), rgb(200, 60, 220)), scl=.55, gen=2, gen_intvl=1, emtr_life=18, radius=.2,
+    spray2(b, rs, {"player": (30, 46), "enemy": (-30, 40)}, (0, 22), 12, clr=rgb(255, 220, 60),
+           clr_anm=(rgb(255, 255, 255), rgb(255, 180, 20)), scl=.6, gen=3, gen_intvl=1, emtr_life=20, radius=.2,
            spread=.02, alpha=(31, 31, 0), flags_on=(1 << 14) | (1 << 12))
     for r in (0, 1):
         rot(b, rs, r, spin=0x0C00)
     fin(GEMBEAM20, b, rs, (0, 1))
 
-    b, rs = pk(SHAKE20, {1: (fxart.milkshake(), 1.0, 4, {})}, alpha=fxart.fizz_drop())
-    burst(b, rs, 0, rgb(255, 170, 200), rgb(255, 230, 240), .3, 2, .06, up=.1, gravity=.01, life=14, emtr_life=30, gen_intvl=3)
-    fin(SHAKE20, b, rs, (0, 1))
+    b, rs = pk(SHAKE20, {1: (fxart.food_tray(), 1.0, 4, {}), 2: (fxart.food_tray(burger=False), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 120), rgb(255, 255, 220), .4, 6, .12, life=12)
+    fin(SHAKE20, b, rs, (0, 1, 2))
+    b, rs = pk(MOOCHB22, {1: (fxart.french_fry(), .8, 4, {}), 2: (fxart.burger(), .8, 4, {})})
+    fin(MOOCHB22, b, rs, (1, 2))
 
-    b, rs = pk(SCOPE20, {1: (fxart.periscope(), 1.0, 4, {}), 2: (flipx(fxart.periscope()), 1.0, 4, {})}, alpha=fxart.wink_twinkle())
-    sparkle(b, rs)
+    b, rs = pk(SCOPE20, {1: (fxart.playbook_clipboard(), ONE_TO_ONE, 4, {}), 2: (fxart.burst_sign(["PEEPED."], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 200), rgb(255, 255, 255), .55, 8, .18, life=14)
     fin(SCOPE20, b, rs, (0, 1, 2))
+    b, rs = pk(ZAZAB22, {1: (fxart.weather_map(), ONE_TO_ONE, 4, {}), 2: (fxart.weather_map(level="MODERATE"), ONE_TO_ONE, 4, {})})
+    fin(ZAZAB22, b, rs, (1, 2))
+    b, rs = pk(ZAZAC22, {1: (fxart.weather_map(level="SEVERE"), ONE_TO_ONE, 4, {})})
+    fin(ZAZAC22, b, rs, (1,))
 
     b, rs = pk(LEAVES20, {}, alpha=fxart.maple_leaf())
     spray2(b, rs, {"player": (20, 40), "enemy": (-20, 34)}, (0, 16), 22, clr=rgb(90, 180, 60),
@@ -4785,24 +4936,30 @@ def build_files(files):
         rot(b, rs, r, spin=0x0E00)
     fin(LEAVES20, b, rs, (0, 1))
 
-    b, rs = pk(EXIT20, {1: (fxart.exit_door(), ONE_TO_ONE, 4, {}), 2: (fxart.exit_door(open_=True), ONE_TO_ONE, 4, {})},
-               alpha=fxart.glow_dot())
-    prop(b, rs, 0, tex=0, clr=rgb(255, 255, 230), clr_anm=(rgb(255, 255, 255), rgb(255, 250, 200)), scl=2.4, life=16,
-         alpha=(26, 20, 0), scl_anm=(.3, 1.2, 1.4, 60, 200))
+    b, rs = pk(EXIT20, {1: (fxart.exit_door(), ONE_TO_ONE, 4, {}), 2: (fxart.window_pane(), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(170, 220, 250), rgb(255, 255, 255), .6, 16, .26, up=.06, gravity=.016, life=22)
     fin(EXIT20, b, rs, (0, 1, 2))
+    b, rs = pk(DIPB22, {1: (fxart.window_pane(broken=True), .9, 4, {})})
+    fin(DIPB22, b, rs, (1,))
 
-    b, rs = pk(MOUTH20, {1: (fxart.mouthwash(), .9, 4, {})}, alpha=fxart.fizz_drop())
-    burst(b, rs, 0, rgb(90, 180, 255), rgb(220, 240, 255), .3, 3, .06, up=.1, gravity=.01, life=14)
+    b, rs = pk(MOUTH20, {1: (fxart.jail_bar(), .8, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(200, 230, 255), rgb(255, 255, 255), .35, 6, .12, up=.06, gravity=.012, life=14)
     fin(MOUTH20, b, rs, (0, 1))
+    b, rs = pk(SPITB22, {1: (fxart.jail_cell(), 1.5, 4, {}), 2: (fxart.burst_sign(["LOCKED UP."], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(SPITB22, b, rs, (1, 2))
+
     b, rs = pk(SPITFX20, {}, alpha=fxart.fizz_drop())
     spray2(b, rs, {"player": (6, 46), "enemy": (-6, 36)}, (0, 22), 12, clr=rgb(80, 170, 255),
            clr_anm=(rgb(220, 240, 255), rgb(40, 120, 230)), scl=.5, gen=4, gen_intvl=1, emtr_life=20, radius=.1,
            spread=.02, alpha=(31, 31, 0), gravity=(0, -.004, 0))
     fin(SPITFX20, b, rs, (0, 1))
 
-    b, rs = pk(CHAIR20, {1: (fxart.lawn_chair(), 1.4, 4, {})}, alpha=fxart.wink_twinkle())
+    b, rs = pk(CHAIR20, {1: (fxart.lawn_chair(), 1.4, 4, {}), 2: (fxart.cooler_box(), .8, 4, {})}, alpha=fxart.wink_twinkle())
     sparkle(b, rs, c=rgb(150, 255, 150))
-    fin(CHAIR20, b, rs, (0, 1))
+    fin(CHAIR20, b, rs, (0, 1, 2))
+    b, rs = pk(POSTB22, {1: (fxart.bbq_grill(), .9, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(225, 225, 230), n=6, up=.14)
+    fin(POSTB22, b, rs, (0, 1))
 
     b, rs = pk(COMBO20, {0: (fxart.burst_sign(["3 HIT!"], fill=(40, 40, 60, 255), text=(255, 230, 60, 255)), SIGN_SCALE, 4, {"colors": 30}),
                          1: (fxart.burst_sign(["5 HIT", "COMBO!"], fill=(220, 30, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
@@ -4813,19 +4970,1731 @@ def build_files(files):
     burst(b, rs, 0, rgb(255, 255, 230), rgb(255, 255, 255), .45, 6, .2, life=10)
     fin(SLASH20, b, rs, (0, 1, 2))
 
-    b, rs = pk(BFF20, {1: (fxart.bff_half(), ONE_TO_ONE, 4, {"colors": 16}), 2: (fxart.bff_half(right=True), ONE_TO_ONE, 4, {"colors": 16})},
-               alpha=fxart.glow_dot())
-    prop(b, rs, 0, tex=0, clr=rgb(160, 40, 220), clr_anm=(rgb(240, 200, 255), rgb(90, 0, 150)), scl=.5, life=24,
-         gen=1, gen_intvl=2, emtr_life=40, init_pos=1, radius=1.0, axis=(0, 1, 0), vel=(.01, .06), alpha=(26, 22, 0))
+    b, rs = pk(BFF20, {1: (fxart.handcuff(), .8, 4, {}), 2: (fxart.cuff_key(), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(230, 235, 245), rgb(255, 255, 255), .5, 6, .14, life=12)
     fin(BFF20, b, rs, (0, 1, 2))
+    b, rs = pk(COMBOB22, {1: (fxart.burst_sign(["COMBO", "BREAKER!"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(COMBOB22, b, rs, (1,))
     b, rs = pk(LINK20, {}, alpha=fxart.glow_dot())
-    spray2(b, rs, {"player": (0, 30), "enemy": (0, 26)}, (0, 30), 20, clr=rgb(170, 60, 255),
-           clr_anm=(rgb(240, 200, 255), rgb(100, 0, 160)), scl=.4, gen=1, gen_intvl=1, emtr_life=30, radius=0,
+    spray2(b, rs, {"player": (0, 30), "enemy": (0, 26)}, (0, 30), 20, clr=rgb(200, 205, 220),
+           clr_anm=(rgb(255, 255, 255), rgb(140, 145, 160)), scl=.4, gen=1, gen_intvl=1, emtr_life=30, radius=0,
            alpha=(28, 24, 0))
     fin(LINK20, b, rs, (0, 1))
     SET10_82 += [CLOWN20, SWIPE20, PUNCHM20, PIGGY20, IRON20, LIGHT20, LEGO20, LACES20, GAUGE20, FRONT20, SAFE20, CLIMB20,
                  FOOTB20, FOG20, AMP20, BUGS20, MOP20, FANNY20, TREAD20, SLEUTH20, FICUS20, CANDY20, SHAKE20, SCOPE20,
-                 EXIT20, MOUTH20, CHAIR20, SLASH20, BFF20]
+                 EXIT20, MOUTH20, CHAIR20, SLASH20, BFF20, SCAM20, SIGNS20, TAXS22, TAXB22, WINGB22, LIGHTB22, MADB22, MADC22, CLOWNB22, SPIKEB22, LACEB22, SAFEB22, PARKB22, PLUGB22, BUGB22, LOUDB22, SMOKEB22, K9B22, HIDEB22, MOOCHB22, ZAZAB22, ZAZAC22, DIPB22, SPITB22, POSTB22, COMBOB22]
+
+
+    # ---- set 23: thirty new moves (batch 1) ------------------------------------------------------------------
+    # Got Milk (Milk Drink): sip... sip... CHUG the whole gallon, toss the jug - GOT MILK?
+    b, rs = pk(MILK23, {1: (fxart.milk_gallon(), ONE_TO_ONE, 4, {}), 2: (fxart.milk_gallon(level="half"), ONE_TO_ONE, 4, {})},
+               alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(120, 255, 140), rgb(230, 255, 230), .3, 8, .05, up=.12, life=22)
+    fin(MILK23, b, rs, (0, 1, 2))
+    b, rs = pk(MILKB23, {1: (fxart.milk_chug(), 1.1, 4, {}), 2: (flipx(fxart.milk_chug()), 1.1, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(250, 250, 255), rgb(255, 255, 255), .3, 4, .08, up=.04, gravity=.012, life=14)
+    fin(MILKB23, b, rs, (0, 1, 2))
+    b, rs = pk(MILKC23, {1: (fxart.milk_gallon(level="empty", label=False), .8, 4, {}),
+                         2: (fxart.burst_sign(["GOT MILK?"], fill=(40, 60, 140, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(MILKC23, b, rs, (1, 2))
+
+    # Half Off (Super Fang): the price gun - $20 - SALE - a giant 50% OFF tag - chomp
+    b, rs = pk(HALF23, {1: (fxart.price_gun(), .9, 4, {}), 2: (flipx(fxart.price_gun()), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 160), rgb(255, 255, 255), .4, 6, .14, life=10)
+    fin(HALF23, b, rs, (0, 1, 2))
+    b, rs = pk(HALFB23, {1: (fxart.price_sticker("$20"), ONE_TO_ONE / 2, 4, {}),
+                         2: (fxart.price_sticker("SALE", fill=(255, 255, 255, 255)), ONE_TO_ONE / 2, 4, {})})
+    fin(HALFB23, b, rs, (1, 2))
+    b, rs = pk(HALFC23, {1: (fxart.half_off_tag(), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .6, 10, .26, life=12)
+    fin(HALFC23, b, rs, (0, 1))
+
+    # Crop Duster (Poison Gas): a stroll past the foe - pfft - another - then a real crop duster dumps a green cloud
+    b, rs = pk(DUST23, {1: (fxart.crop_duster(), 1.2, 4, {}), 2: (flipx(fxart.crop_duster()), 1.2, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(150, 220, 60), rgb(220, 255, 160), .4, 3, .05, life=22, alpha=(26, 20, 0), gravity=.004)
+    fin(DUST23, b, rs, (0, 1, 2))
+    b, rs = pk(DUSTB23, {1: (fxart.house_fly(), .4, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(110, 200, 30), rgb(180, 245, 90), .45, 9, .12, up=.04, life=28, alpha=(29, 24, 0), scl_anm=(.4, 1.3, 1.8, 60, 200))
+    puffs(b, rs, 2, rgb(140, 210, 60), n=14, life=34, scl=.5, up=.03)
+    fin(DUSTB23, b, rs, (0, 1, 2))
+
+    # Death Stare (Glare): lights down, two eyes in the dark - a sweat bead - another - the foe locks up
+    b, rs = pk(STARE23, {1: (fxart.stare_eyes(), 2.0, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .35, 1, .02, up=.02, gravity=.01, life=18)
+    burst(b, rs, 2, rgb(150, 210, 255), rgb(240, 250, 255), .35, 12, .16, up=.12, gravity=.014, life=20)
+    fin(STARE23, b, rs, (0, 1, 2))
+
+    # Catch a Fade (Mega Punch): the barber pole spins - bzzz, hair flies - bzzz - "U WANT A FADE?" - POW
+    b, rs = pk(FADE23, {1: (fxart.barber_pole(), .9, 4, {}), 2: (fxart.barber_pole(phase=1), .9, 4, {})}, alpha=fxart.hair_snip())
+    burst(b, rs, 0, rgb(50, 35, 25), rgb(90, 70, 50), .22, 8, .08, up=.02, gravity=.02, life=18, spin=0x0800)
+    fin(FADE23, b, rs, (0, 1, 2))
+    b, rs = pk(FADEB23, {1: (fxart.hair_clippers(), .6, 4, {}), 2: (fxart.line_bubble(["U WANT", "A FADE?"]), ONE_TO_ONE, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .6, 10, .3, life=10)
+    fin(FADEB23, b, rs, (0, 1, 2))
+    SET10_82 += [MILK23, MILKB23, MILKC23, HALF23, HALFB23, HALFC23, DUST23, DUSTB23, STARE23, FADE23, FADEB23]
+
+
+    # ---- set 23, batch 2 ----------------------------------------------------------------------------------
+    # Mall Ninja (Karate Chop): headband on - chop the board: it does NOT break, ow - again, ow - then they chop the
+    # FOE instead. (The board snaps on its own afterwards.)
+    b, rs = pk(NINJA23, {1: (fxart.ninja_headband(), .8, 4, {}), 2: (fxart.board_chairs(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 120), rgb(255, 255, 255), .45, 6, .16, life=12)
+    fin(NINJA23, b, rs, (0, 1, 2))
+    b, rs = pk(NINJAB23, {1: (fxart.board_chairs(broken=True), 1.0, 4, {}), 2: (fxart.chop_streak(), 1.1, 6, {"scl_anm": (.4, 1.2, 1.0, 80, 255)})},
+               alpha=fxart.speck())
+    burst(b, rs, 0, rgb(200, 150, 80), rgb(240, 210, 150), .4, 10, .2, up=.12, gravity=.016, life=18)
+    fin(NINJAB23, b, rs, (0, 1, 2))
+
+    # M-80 (DynamicPunch): light it - fizzle - light it - fizzle - the foe leans in to look - BOOM
+    b, rs = pk(M8023, {1: (fxart.m80(), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 180, 40), rgb(255, 255, 200), .3, 3, .08, up=.08, gravity=.008, life=10)
+    burst(b, rs, 2, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .1, up=.02, life=26, radius=.5)
+    fin(M8023, b, rs, (0, 1, 2))
+    b, rs = pk(M80B23, {1: (fxart.m80_blast(), 1.7, 14, {"scl_anm": (.2, 1.2, 1.0, 50, 255)})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(120, 115, 115), n=5, life=20, scl=.35, up=.05)
+    puffs(b, rs, 2, rgb(70, 65, 65), n=12, life=30, scl=.45, up=.06)
+    fin(M80B23, b, rs, (0, 1, 2))
+
+    # Zip Tie (Bind): zzzip - the foe flexes, SNAP - a bigger one, SNAP - the yellow industrial one holds
+    b, rs = pk(ZIP23, {1: (fxart.zip_tie(), 1.0, 4, {}), 2: (fxart.zip_tie(), 1.3, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(40, 40, 46), rgb(120, 120, 130), .4, 8, .22, up=.1, gravity=.014, life=16)
+    fin(ZIP23, b, rs, (0, 1, 2))
+    b, rs = pk(ZIPB23, {1: (fxart.zip_tie(color=(250, 200, 30, 255), hi=(255, 240, 150, 255)), 1.75, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 90), rgb(255, 255, 220), .4, 6, .14, life=10)
+    fin(ZIPB23, b, rs, (0, 1))
+
+    # Onion Breath (DragonBreath): a raw red onion - crunch - crunch (eyes watering) - then HAAAA in the foe's face
+    b, rs = pk(ONION23, {1: (fxart.red_onion(), .75, 4, {}), 2: (fxart.red_onion(bites=1), .75, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .3, 6, .1, up=.08, gravity=.016, life=18)
+    fin(ONION23, b, rs, (0, 1, 2))
+    b, rs = pk(ONIONB23, {2: (fxart.red_onion(bites=2), .75, 4, {})}, alpha=fxart.stink_wave())
+    spray2(b, rs, {"player": (10, 34), "enemy": (-10, 26)}, (0, 22), 12, clr=rgb(170, 220, 60),
+           clr_anm=(rgb(230, 255, 160), rgb(120, 190, 40)), scl=.7, gen=2, gen_intvl=1, emtr_life=22, radius=.2,
+           spread=.03, alpha=(30, 26, 0))
+    fin(ONIONB23, b, rs, (0, 1, 2))
+
+    # Rage Quit (Outrage): GAME OVER - mash mash - GAME OVER - the controller goes through the screen and off
+    # the foe's head, then they just swing
+    b, rs = pk(RAGE23, {1: (fxart.gaming_monitor(), ONE_TO_ONE, 4, {}), 2: (fxart.gaming_monitor(cracked=True), ONE_TO_ONE, 4, {})},
+               alpha=fxart.speck())
+    burst(b, rs, 0, rgb(190, 230, 255), rgb(255, 255, 255), .35, 14, .24, up=.12, gravity=.016, life=20)
+    fin(RAGE23, b, rs, (0, 1, 2))
+    b, rs = pk(RAGEB23, {1: (fxart.gamepad(), .55, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .3, 3, .08, life=8)
+    burst(b, rs, 2, rgb(255, 50, 30), rgb(255, 200, 150), .45, 8, .16, up=.06, life=14)
+    fin(RAGEB23, b, rs, (0, 1, 2))
+    SET10_82 += [NINJA23, NINJAB23, M8023, M80B23, ZIP23, ZIPB23, ONION23, ONIONB23, RAGE23, RAGEB23]
+
+
+    # ---- set 23, batch 3 ----------------------------------------------------------------------------------
+    # Sawing Logs (Snore): Z... a handsaw on a log - Z... - then a CHAINSAW, and the split log flies at the foe
+    b, rs = pk(LOG23, {1: (fxart.log_side(), .9, 4, {}), 2: (fxart.handsaw(), .7, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(225, 190, 130), rgb(255, 240, 200), .3, 5, .12, up=.08, gravity=.014, life=14)
+    fin(LOG23, b, rs, (0, 1, 2))
+    b, rs = pk(LOGB23, {1: (fxart.chainsaw(), .8, 4, {}), 2: (fxart.log_half(), .6, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(225, 190, 130), rgb(255, 240, 200), .35, 12, .22, up=.12, gravity=.016, life=16)
+    fin(LOGB23, b, rs, (0, 1, 2))
+    b, rs = pk(LOGC23, {1: (fxart.big_z_snore(), .55, 4, {})})
+    fin(LOGC23, b, rs, (1,))
+
+    # Snuck Him (Mach Punch): "YO LOOK A BIRD" - nah - "IS THAT FREE WIFI?" - nah - "FREE MONEY!" - POW
+    b, rs = pk(SNUCK23, {1: (fxart.line_bubble(["YO LOOK", "A BIRD!"]), ONE_TO_ONE, 4, {}),
+                         2: (fxart.line_bubble(["IS THAT", "FREE WIFI?"]), ONE_TO_ONE, 4, {})})
+    fin(SNUCK23, b, rs, (1, 2))
+    b, rs = pk(SNUCKB23, {1: (fxart.line_bubble(["YO!", "FREE MONEY!"]), ONE_TO_ONE, 4, {}),
+                          2: (fxart.impact_star(), 1.3, 8, {"scl_anm": (.3, 1.2, 1.0, 60, 255)})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .28, life=10)
+    fin(SNUCKB23, b, rs, (0, 1, 2))
+
+    # Fence Hop (Hi Jump Kick): run at the fence - rattle - again - then the dog behind it barks and they CLEAR it,
+    # knee first into the foe
+    b, rs = pk(FENCE23, {1: (fxart.chain_fence(), ONE_TO_ONE, 4, {}), 2: (fxart.guard_dog(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .55, 10, .26, life=10)
+    burst(b, rs, 3, rgb(200, 205, 215), rgb(255, 255, 255), .35, 4, .1, up=.04, life=8)
+    fin(FENCE23, b, rs, (0, 1, 2, 3))
+
+    # Trap House (Spider Web): a glue trap with cheese on it - the foe sniffs - leans - steps on it. Stuck.
+    b, rs = pk(TRAP23, {1: (fxart.glue_trap(), 1.05, 4, {}), 2: (fxart.cheese_wedge(), .3, 4, {})}, alpha=fxart.glue_strand())
+    burst(b, rs, 0, rgb(250, 220, 60), rgb(255, 255, 180), .5, 10, .1, up=.1, gravity=.006, life=22)
+    fin(TRAP23, b, rs, (0, 1, 2))
+
+    # Muah (Sweet Kiss): a blown kiss lands - another - then the foe's phone: WHO IS SHE??
+    b, rs = pk(KISS23, {1: (fxart.lipstick_kiss(), .58, 4, {})}, alpha=fxart.heart())
+    burst(b, rs, 0, rgb(255, 90, 150), rgb(255, 220, 235), .4, 6, .12, up=.08, life=18)
+    burst(b, rs, 2, rgb(255, 230, 60), rgb(255, 255, 220), .4, 6, .08, up=.02, life=24, radius=.5)
+    fin(KISS23, b, rs, (0, 1, 2))
+    b, rs = pk(KISSB23, {1: (fxart.phone_who(), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .35, 4, .14, life=8)
+    fin(KISSB23, b, rs, (0, 1))
+    SET10_82 += [LOG23, LOGB23, LOGC23, SNUCK23, SNUCKB23, FENCE23, TRAP23, KISS23, KISSB23]
+
+
+    # ---- set 23, batch 4 ----------------------------------------------------------------------------------
+    # Cold Cocked (Ice Punch): the chest freezer - a popsicle (nah) - a bag of peas (nah) - a FROZEN TURKEY. WHAM.
+    b, rs = pk(FREEZE23, {1: (fxart.chest_freezer(), 1.0, 4, {}), 2: (fxart.popsicle(), .5, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(225, 240, 255), n=5, life=20, scl=.4, up=.06)
+    fin(FREEZE23, b, rs, (0, 1, 2))
+    b, rs = pk(FREEZEB23, {1: (fxart.peas_bag(), .55, 4, {}), 2: (fxart.frozen_turkey(), .95, 4, {})}, alpha=fxart.frost_crystal())
+    burst(b, rs, 0, rgb(170, 220, 255), rgb(255, 255, 255), .45, 14, .24, up=.06, life=22, spin=0x0600)
+    fin(FREEZEB23, b, rs, (0, 1, 2))
+
+    # Last Call (Heal Bell): the club's dark, the mirror ball turning - ding... ding... DING-DING-DING - LAST CALL!
+    # The lights slam on and everybody sobers up.
+    b, rs = pk(BELL23, {1: (fxart.bar_bell(swing=-1), .9, 4, {}), 2: (fxart.bar_bell(swing=1), .9, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(160, 255, 170), rgb(240, 255, 240), .3, 10, .06, up=.12, life=24, radius=.6)
+    fin(BELL23, b, rs, (0, 1, 2))
+    b, rs = pk(BELLB23, {1: (fxart.mirror_ball(), .8, 4, {}), 2: (fxart.mirror_ball(phase=1), .8, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(255, 120, 220), rgb(160, 220, 255), .3, 6, .2, life=12, radius=.3)
+    fin(BELLB23, b, rs, (0, 1, 2))
+    b, rs = pk(BELLC23, {1: (fxart.burst_sign(["LAST CALL!"], fill=(40, 30, 70, 255), text=(255, 230, 80, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(BELLC23, b, rs, (1,))
+
+    # Tanning Bed (SolarBeam): turn 1 - the bed clamps shut, UV buzzing. Turn 2 - it pops open, they're ORANGE,
+    # and the glare off that tan torches the foe.
+    b, rs = pk(TAN23, {1: (fxart.tanning_bed(), 1.6, 4, {}), 2: (fxart.tanning_bed(shut=True), 1.6, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 110, 255), n=6, life=18, scl=.28, up=.05)
+    fin(TAN23, b, rs, (0, 1, 2))
+    b, rs = pk(TANB23, {}, alpha=fxart.sun_ray())
+    spray2(b, rs, {"player": (6, 36), "enemy": (-6, 30)}, (0, 24), 10, clr=rgb(255, 160, 40),
+           clr_anm=(rgb(255, 250, 200), rgb(255, 110, 20)), scl=.9, gen=3, gen_intvl=1, emtr_life=22, radius=.15,
+           spread=.02, alpha=(31, 28, 0))
+    burst(b, rs, 2, rgb(255, 170, 40), rgb(255, 255, 220), .6, 10, .2, life=14)
+    fin(TANB23, b, rs, (0, 1, 2))
+
+    # Victory Lap (Petal Dance): trophy up, rose petals raining - strut - strut - then the trophy off the foe's head
+    b, rs = pk(TROPHY23, {1: (fxart.victory_trophy(), .75, 4, {})}, alpha=fxart.rose_petal())
+    burst(b, rs, 0, rgb(230, 30, 60), rgb(255, 150, 170), .35, 8, .06, up=-.02, gravity=.006, life=40, radius=1.2, spin=0x0500)
+    burst(b, rs, 2, rgb(255, 230, 80), rgb(255, 255, 255), .45, 8, .2, life=12)
+    fin(TROPHY23, b, rs, (0, 1, 2))
+
+    # Gift Bomb (Present): a big present - it pops open: a smaller present - pops: a tiny one - pops: a bomb. BOOM.
+    b, rs = pk(GIFT23, {1: (fxart.gift_box(), .9, 4, {}), 2: (fxart.gift_box(wrap=(40, 170, 80, 255), ribbon=(255, 255, 255, 255)), .65, 4, {})},
+               alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(255, 220, 60), rgb(120, 220, 255), .3, 12, .2, up=.16, gravity=.012, life=22, spin=0x0900)
+    fin(GIFT23, b, rs, (0, 1, 2))
+    b, rs = pk(GIFTB23, {1: (fxart.gift_box(wrap=(60, 110, 230, 255), ribbon=(255, 120, 200, 255)), .45, 4, {}),
+                         2: (fxart.cartoon_bomb(), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 180, 40), rgb(255, 255, 200), .3, 3, .08, up=.08, gravity=.008, life=10)
+    fin(GIFTB23, b, rs, (0, 1, 2))
+    b, rs = pk(GIFTC23, {1: (fxart.confetti_boom(), 1.7, 14, {"scl_anm": (.2, 1.2, 1.0, 50, 255)})}, alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(255, 80, 200), rgb(80, 220, 255), .35, 18, .3, up=.2, gravity=.012, life=30, spin=0x0B00)
+    fin(GIFTC23, b, rs, (0, 1))
+    SET10_82 += [FREEZE23, FREEZEB23, BELL23, BELLB23, BELLC23, TAN23, TANB23, TROPHY23, GIFT23, GIFTB23, GIFTC23]
+
+
+    # ---- set 23, batch 5 ----------------------------------------------------------------------------------
+    # Clothesline (Cross Chop): the line goes up - a tee gets hung - the drawers get hung - the foe gets fed up,
+    # charges - and gets CLOTHESLINED.
+    b, rs = pk(LINE23, {1: (fxart.clothesline_rig(), 1.6, 4, {}), 2: (fxart.white_tee(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=12)
+    fin(LINE23, b, rs, (0, 1, 2))
+    b, rs = pk(LINEB23, {1: (fxart.line_boxers(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .08, up=.02, life=24, radius=.5)
+    fin(LINEB23, b, rs, (0, 1))
+
+    # Bullhorn (Megahorn): "IS THIS ON?" - tap tap - SKREEEE - tap tap - SKREEEE - forget it, they ram the foe with it
+    b, rs = pk(HORN23, {1: (fxart.bullhorn(), .7, 4, {}), 2: (flipx(fxart.bullhorn()), .7, 4, {})}, alpha=fxart.feedback_squiggle())
+    burst(b, rs, 0, rgb(255, 240, 120), rgb(255, 255, 255), .45, 6, .16, life=12)
+    fin(HORN23, b, rs, (0, 1, 2))
+    b, rs = pk(HORNB23, {1: (fxart.line_bubble(["IS THIS ON?"]), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 12, .3, life=10)
+    fin(HORNB23, b, rs, (0, 1))
+
+    # Hype Man (Hyper Voice): YEAH! - WHAT! - OKAAAY!! and the foe gets blown back
+    b, rs = pk(HYPE23, {1: (fxart.hype_bubble("YEAH!"), ONE_TO_ONE, 4, {}), 2: (fxart.hype_bubble("WHAT!", scale=2), ONE_TO_ONE, 4, {})},
+               alpha=fxart.shout_arc())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .45, 5, .14, life=12)
+    fin(HYPE23, b, rs, (0, 1, 2))
+    b, rs = pk(HYPEB23, {2: (fxart.burst_sign(["OKAAAY!!"], fill=(220, 40, 40, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.shout_arc())
+    spray2(b, rs, {"player": (10, 40), "enemy": (-10, 30)}, (0, 24), 10, clr=rgb(255, 255, 255),
+           clr_anm=(rgb(255, 255, 255), rgb(255, 220, 120)), scl=.9, gen=2, gen_intvl=2, emtr_life=16, radius=.1,
+           spread=.01, alpha=(31, 28, 0))
+    fin(HYPEB23, b, rs, (0, 1, 2))
+
+    # Ring Ya Bell (Dizzy Punch): ding-dong ditch - ring and run - ring and run - third time the foe's waiting, so
+    # they ring the FOE's bell. Birds.
+    b, rs = pk(DING23, {1: (fxart.doorbell_plate(), .7, 4, {}), 2: (fxart.line_bubble(["DING", "DONG!"]), ONE_TO_ONE, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 180), rgb(255, 255, 255), .35, 6, .12, life=10)
+    fin(DING23, b, rs, (0, 1, 2))
+    b, rs = pk(DINGB23, {1: (fxart.dizzy_bird(), .38, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .6, 12, .3, life=10)
+    fin(DINGB23, b, rs, (0, 1))
+
+    # Heat Check (Heat Wave): the thermostat - 72 - click, 85 - click, 99 - the heat rolls over the foe - and from
+    # off-screen: WHO TOUCHED MY THERMOSTAT
+    b, rs = pk(THERMO23, {1: (fxart.thermostat(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.thermostat(temp="85"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .3, 5, .12, up=.1, gravity=.014, life=16)
+    burst(b, rs, 3, rgb(150, 210, 255), rgb(240, 250, 255), .35, 14, .2, up=.12, gravity=.014, life=18)
+    fin(THERMO23, b, rs, (0, 1, 2, 3))
+    b, rs = pk(THERMOB23, {2: (fxart.thermostat(temp="99"), ONE_TO_ONE, 4, {"colors": 30}),
+                           3: (fxart.line_bubble(["WHO TOUCHED", "MY", "THERMOSTAT"]), ONE_TO_ONE, 4, {})}, alpha=fxart.heat_shimmer())
+    spray2(b, rs, {"player": (40, 50), "enemy": (-40, 20)}, (0, 20), 14, clr=rgb(255, 120, 30),
+           clr_anm=(rgb(255, 230, 120), rgb(240, 60, 20)), scl=.7, gen=3, gen_intvl=1, emtr_life=24, radius=.4,
+           spread=.02, alpha=(30, 26, 0))
+    fin(THERMOB23, b, rs, (0, 1, 2, 3))
+    SET10_82 += [LINE23, LINEB23, HORN23, HORNB23, HYPE23, HYPEB23, DING23, DINGB23, THERMO23, THERMOB23]
+
+
+    # ---- set 23, batch 6 ----------------------------------------------------------------------------------
+    # Gas Up (Flatter): the pump nozzle goes in the foe - $5.00 - $20.00 - $99.99 - and they float up, all gassed
+    b, rs = pk(GAS23, {1: (fxart.gas_pump(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.gas_pump(amount="$20.00"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 60), rgb(255, 255, 220), .45, 8, .12, up=.08, life=16)
+    fin(GAS23, b, rs, (0, 1, 2))
+    b, rs = pk(GASB23, {1: (fxart.gas_pump(amount="$99.99"), ONE_TO_ONE, 4, {"colors": 30}), 2: (flipx(fxart.gas_nozzle()), .55, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .08, up=.02, life=24, radius=.5)
+    fin(GASB23, b, rs, (0, 1, 2))
+    b, rs = pk(GASC23, {1: (fxart.gas_nozzle(), .55, 4, {})})
+    fin(GASC23, b, rs, (1,))
+
+    # Door Kick (Mega Kick): knock knock - knock knock - "WHO IS IT?" - the door comes off its hinges into the foe
+    b, rs = pk(DOOR23, {1: (fxart.front_door(), 1.15, 4, {}), 2: (fxart.front_door(flying=True), 1.0, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(220, 200, 170), rgb(255, 255, 240), .4, 14, .24, up=.12, gravity=.016, life=20)
+    fin(DOOR23, b, rs, (0, 1, 2))
+    b, rs = pk(DOORB23, {1: (fxart.line_bubble(["WHO IS IT?"]), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .35, 4, .12, life=8)
+    fin(DOORB23, b, rs, (0, 1))
+
+    # Getaway (ExtremeSpeed): the loot, a rental scooter - putt putt *beep* (battery low) - putt *beep* - TURBO
+    b, rs = pk(SCOOT23, {1: (fxart.rental_scooter(), .8, 4, {}), 2: (flipx(fxart.rental_scooter()), .8, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .4, 8, .3, life=10)
+    fin(SCOOT23, b, rs, (0, 1, 2))
+    b, rs = pk(SCOOTB23, {1: (fxart.battery_low(), .45, 4, {}), 2: (fxart.battery_low(full=True), .45, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 60), rgb(255, 255, 220), .45, 8, .2, life=12)
+    fin(SCOOTB23, b, rs, (0, 1, 2))
+    b, rs = pk(SCOOTC23, {1: (fxart.loot_sack(), .5, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(80, 200, 90), rgb(200, 255, 200), .4, 12, .24, up=.14, gravity=.012, life=22, spin=0x0800)
+    fin(SCOOTC23, b, rs, (0, 1))
+
+    # Bug Zapper (Zap Cannon): the porch zapper hums - a moth, ZZT - another, ZZT - then the foe drifts toward the
+    # light. BZZZZZT.
+    b, rs = pk(ZAPR23, {1: (fxart.bug_zapper(), .9, 4, {}), 2: (fxart.bug_zapper(lit=False), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 220, 255), rgb(255, 255, 255), .4, 8, .2, life=10)
+    burst(b, rs, 3, rgb(180, 200, 255), rgb(255, 255, 255), .55, 18, .34, life=14)
+    fin(ZAPR23, b, rs, (0, 1, 2, 3))
+    b, rs = pk(ZAPRB23, {1: (fxart.porch_moth(), .4, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(90, 85, 85), n=4, life=18, scl=.3, up=.06)
+    fin(ZAPRB23, b, rs, (0, 1))
+
+    # Split Bill (Pain Split): the check lands - slide it over - it slides back - over - back - RIIIP, half each
+    b, rs = pk(BILL23, {1: (fxart.check_folder(), ONE_TO_ONE, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(200, 150, 255), rgb(255, 240, 255), .3, 10, .06, up=.1, life=22, radius=.6)
+    fin(BILL23, b, rs, (0, 1))
+    b, rs = pk(BILLB23, {1: (fxart.receipt_half(), .55, 4, {}), 2: (fxart.receipt_half(right=True), .55, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(250, 250, 245), rgb(255, 255, 255), .3, 10, .2, up=.1, gravity=.01, life=16)
+    fin(BILLB23, b, rs, (0, 1, 2))
+    SET10_82 += [GAS23, GASB23, GASC23, DOOR23, DOORB23, SCOOT23, SCOOTB23, SCOOTC23, ZAPR23, ZAPRB23, BILL23, BILLB23]
+
+
+    # ---- set 24: thirty more (batch 1, the INSANE ones) -------------------------------------------------------
+    # Full Auto (Hyper Beam): the pistol jams - *CLICK* - jams again - so out comes a MINIGUN on a tripod, spins up,
+    # and the whole screen goes BRRRRRRT. Smoke clears. RELOADING...
+    b, rs = pk(FA24, {1: (fxart.jam_pistol(), .7, 4, {}), 2: (flipx(fxart.jam_pistol()), .7, 4, {})}, alpha=fxart.brass_shell())
+    burst(b, rs, 0, rgb(240, 190, 60), rgb(255, 240, 160), .3, 4, .14, up=.16, gravity=.02, life=20, spin=0x1000)
+    burst(b, rs, 3, rgb(255, 200, 60), rgb(255, 255, 220), .35, 6, .22, life=8)
+    fin(FA24, b, rs, (0, 1, 2, 3))
+    b, rs = pk(FAB24, {1: (fxart.minigun(), 1.5, 4, {}), 2: (flipx(fxart.minigun()), 1.5, 4, {})}, alpha=fxart.tracer_streak())
+    for res, sd in ((0, "player"), (3, "enemy")):
+        spray(b, rs, res, sd, FA_TIP24[sd], (0, 24), 8, tex=0, clr=rgb(255, 230, 90), clr_anm=(rgb(255, 255, 220), rgb(255, 150, 30)),
+              scl=.9, gen=2, gen_intvl=1, emtr_life=96, radius=.08, spread=.03, alpha=(31, 31, 0))
+    fin(FAB24, b, rs, (0, 1, 2, 3))
+    b, rs = pk(FAC24, {1: (fxart.line_bubble(["CLICK."]), ONE_TO_ONE, 4, {}), 2: (fxart.line_bubble(["RELOADING..."]), ONE_TO_ONE, 4, {}),
+                       3: (fxart.muzzle_star(), 1.1, 2, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(150, 150, 155), n=8, life=30, scl=.45, up=.05)
+    fin(FAC24, b, rs, (0, 1, 2, 3))
+
+    # 18 Wheeler (Giga Impact): HONK - HONK - HOOOOONK - an 18-wheeler barrels across the whole screen through the foe
+    b, rs = pk(TRUCK24, {1: (fxart.semi_truck(), 3.0, 4, {}), 2: (flipx(fxart.semi_truck()), 3.0, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), 1.4, 3, .02, life=10, alpha=(28, 24, 0))
+    fin(TRUCK24, b, rs, (0, 1, 2))
+    b, rs = pk(TRUCKB24, {}, alpha=fxart.soft_puff(), alpha1=fxart.speck(64))
+    puffs(b, rs, 0, rgb(150, 150, 155), n=5, life=24, scl=.28, up=.04)
+    burst(b, rs, 1, rgb(200, 200, 210), rgb(255, 255, 255), .5, 18, .4, up=.2, gravity=.02, life=26, tex=1, spin=0x0C00)
+    burst(b, rs, 2, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .08, up=.02, life=26, radius=.5, tex=1)
+    fin(TRUCKB24, b, rs, (0, 1, 2))
+
+    # Holy Fire (Sacred Fire): church. "CAN I GET AN AMEN?" ... "...amen." ... the stained glass blazes, a shaft of
+    # light, and a pillar of holy fire on the foe. They come out of it with a halo.
+    b, rs = pk(HOLY24, {1: (fxart.stained_glass(), 1.4, 4, {}), 2: (fxart.stained_glass(lit=True), 1.4, 4, {})}, alpha=fxart.holy_ray())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 240, 160), clr_anm=(rgb(255, 255, 255), rgb(255, 210, 80)), scl=1.1, life=22,
+         gen=3, gen_intvl=1, emtr_life=40, init_pos=1, radius=.5, axis=(0, -1, 0), vel=(.01, .9), alpha=(26, 20, 0))
+    fin(HOLY24, b, rs, (0, 1, 2))
+    b, rs = pk(HOLYB24, {1: (fxart.line_bubble(["CAN I GET", "AN AMEN?"]), ONE_TO_ONE, 4, {}),
+                         2: (fxart.line_bubble(["I SAID", "CAN I GET", "AN AMEN?!"]), ONE_TO_ONE, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(250, 245, 230), n=10, life=40, scl=.5, up=.01)
+    fin(HOLYB24, b, rs, (0, 1, 2))
+    b, rs = pk(HOLYC24, {1: (fxart.line_bubble(["...amen."]), ONE_TO_ONE, 4, {}), 2: (fxart.gold_halo(), .5, 4, {})}, alpha=fxart.holy_flame())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 150, 30), clr_anm=(rgb(255, 250, 200), rgb(240, 60, 10)), scl=.42, life=18,
+         gen=6, gen_intvl=1, emtr_life=6, init_pos=1, radius=.9, axis=(0, 1, 0), vel=(.04, .5), alpha=(31, 31, 0),
+         scl_anm=(.5, 1.3, .6, 50, 160))
+    fin(HOLYC24, b, rs, (0, 1, 2))
+
+    # Sentencing (Judgment): court's in session - BANG - BANG - GUILTY! - and a GIANT gavel comes down from the sky
+    b, rs = pk(GAVEL24, {1: (fxart.judge_gavel(), .9, 4, {}), 2: (fxart.judge_gavel(), 3.6, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(200, 160, 110), rgb(255, 240, 200), .35, 8, .18, up=.1, gravity=.014, life=16)
+    fin(GAVEL24, b, rs, (0, 1, 2))
+    b, rs = pk(GAVELB24, {1: (fxart.burst_sign(["GUILTY!"], fill=(40, 30, 20, 255), text=(255, 220, 60, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(190, 170, 140), rgb(250, 240, 220), .55, 18, .45, up=.04, life=30, alpha=(28, 22, 0), scl_anm=(.5, 1.3, 1.8, 60, 200))
+    fin(GAVELB24, b, rs, (0, 1))
+
+    # Clock Out (Roar of Time): the time clock: 4:58... 4:59... 5:00 - KA-CHUNK - time itself stops, clocks
+    # everywhere, a shockwave, then it all snaps back on the foe
+    b, rs = pk(CLOCK24, {1: (fxart.time_clock(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.time_clock(t="4:59"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.ring())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 220, 140), clr_anm=(rgb(255, 255, 230), rgb(200, 140, 60)), scl=1.0, life=22,
+         alpha=(28, 20, 0), scl_anm=(.2, 3.4, 4.2, 70, 200))
+    fin(CLOCK24, b, rs, (0, 1, 2))
+    b, rs = pk(CLOCKB24, {1: (fxart.time_clock(t="5:00"), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.punch_card(), .45, 4, {})})
+    fin(CLOCKB24, b, rs, (1, 2))
+    b, rs = pk(CLOCKC24, {})
+    b, wc = added(b, fxart.wall_clock(), 24)
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .45, 10, .3, up=.12, gravity=.006, life=40, radius=.6, spin=0x0900, tex=wc,
+          clr_anm=(rgb(255, 255, 255), rgb(255, 255, 255)), alpha=(31, 31, 0))
+    fin(CLOCKC24, b, rs, (0,))
+    SET10_82 += [FA24, FAB24, FAC24, TRUCK24, TRUCKB24, HOLY24, HOLYB24, HOLYC24, GAVEL24, GAVELB24, CLOCK24, CLOCKB24, CLOCKC24]
+
+
+    # ---- set 24, batch 2 (INSANE) -----------------------------------------------------------------------------
+    # Rip Space (Spacial Rend): a giant zipper - unzip a little: stars - zip it back - then RIIIIP, the whole sky
+    # unzips onto outer space and the foe gets yanked into it
+    b, rs = pk(RIP24, {1: (fxart.space_zipper(), 2.4, 4, {}), 2: (fxart.space_zipper(opened=1), 2.4, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(220, 230, 255), rgb(255, 255, 255), .4, 8, .14, life=16, radius=.5)
+    fin(RIP24, b, rs, (0, 1, 2))
+    b, rs = pk(RIPB24, {1: (fxart.space_zipper(opened=2), 2.4, 4, {}), 2: (fxart.space_zipper(opened=2), 3.4, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(150, 70, 220), n=8, life=26, scl=.4, up=.02)
+    fin(RIPB24, b, rs, (0, 1, 2))
+
+    # Ghost Ride (Shadow Force): turn 1 a bedsheet ghost drops over them and floats off; turn 2 an empty minivan
+    # rolls up, the ghost dancing on the roof - and it rams the foe
+    b, rs = pk(GHOST24, {1: (fxart.sheet_ghost(), 1.0, 4, {}), 2: (fxart.minivan(), 2.4, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(235, 235, 250), n=5, life=20, scl=.35, up=.06)
+    fin(GHOST24, b, rs, (0, 1, 2))
+    b, rs = pk(GHOSTB24, {1: (flipx(fxart.minivan()), 2.4, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(220, 220, 230), rgb(255, 255, 255), .45, 16, .34, up=.16, gravity=.018, life=22, spin=0x0A00)
+    fin(GHOSTB24, b, rs, (0, 1))
+
+    # Mind Blown (Psycho Boost): 2+2=4 (the foe: ?) - E=MC2 (??) - 1+1=11 - MIND. BLOWN.
+    b, rs = pk(MIND24, {1: (fxart.math_board(), ONE_TO_ONE, 4, {}), 2: (fxart.math_board(text="E=MC2"), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(245, 245, 235), rgb(255, 255, 255), .3, 5, .1, up=.04, life=12)
+    fin(MIND24, b, rs, (0, 1, 2))
+    b, rs = pk(MINDB24, {1: (fxart.math_board(text="1+1=11"), ONE_TO_ONE, 4, {}), 2: (fxart.question_mark(), .45, 4, {})})
+    fin(MINDB24, b, rs, (1, 2))
+    b, rs = pk(MINDC24, {1: (fxart.galaxy_burst(), 3.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 230), rgb(120, 230, 255), .55, 16, .32, up=.06, life=26, radius=.6)
+    fin(MINDC24, b, rs, (0, 1))
+
+    # Bad Omen (Doom Desire): a black cat crosses the foe's path - a mirror cracks - then a shooting star comes down
+    b, rs = pk(OMEN24, {1: (fxart.black_cat(), .9, 4, {}), 2: (fxart.black_cat(step=1), .9, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(190, 225, 250), rgb(255, 255, 255), .3, 10, .2, up=.1, gravity=.016, life=18)
+    fin(OMEN24, b, rs, (0, 1, 2))
+    b, rs = pk(OMENB24, {1: (fxart.hand_mirror(), .9, 4, {}), 2: (fxart.hand_mirror(cracked=True), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 140), rgb(255, 255, 255), .35, 4, .03, life=20, radius=.2)
+    fin(OMENB24, b, rs, (0, 1, 2))
+    b, rs = pk(OMENC24, {1: (fxart.falling_star(), 1.8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 60), rgb(255, 255, 230), .7, 20, .4, up=.1, life=24)
+    fin(OMENC24, b, rs, (0, 1))
+
+    # Compactor (Crush Grip): two steel walls close in on the foe - creak - crunch - CRUNCH - a cube of junk
+    b, rs = pk(CRUSH24, {1: (fxart.compactor_plate(), 1.5, 4, {}), 2: (flipx(fxart.compactor_plate()), 1.5, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(255, 180, 60), rgb(255, 255, 200), .35, 10, .24, up=.1, gravity=.016, life=14)
+    fin(CRUSH24, b, rs, (0, 1, 2))
+    b, rs = pk(CRUSHB24, {1: (fxart.junk_cube(), 1.1, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 165, 160), n=8, life=24, scl=.35, up=.05)
+    fin(CRUSHB24, b, rs, (0, 1))
+    SET10_82 += [RIP24, RIPB24, GHOST24, GHOSTB24, MIND24, MINDB24, MINDC24, OMEN24, OMENB24, OMENC24, CRUSH24, CRUSHB24]
+
+
+    # ---- set 24, batch 3 ----------------------------------------------------------------------------------
+    # Flamin Hot (Magma Storm): one hot chip (sweat) - another (steam) - then the whole bag, and the foe ERUPTS in a
+    # ring of fire
+    b, rs = pk(HOT24, {1: (fxart.hot_chips(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.hot_chip(), .4, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .3, 5, .1, up=.1, gravity=.016, life=16)
+    fin(HOT24, b, rs, (0, 1, 2))
+    b, rs = pk(HOTB24, {}, alpha=fxart.holy_flame())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 110, 20), clr_anm=(rgb(255, 240, 120), rgb(220, 30, 10)), scl=.42, life=18,
+         gen=2, gen_intvl=1, emtr_life=28, init_pos=1, radius=1.5, axis=(0, 1, 0), vel=(0, .14), alpha=(31, 31, 0),
+         scl_anm=(.4, 1.2, .5, 50, 160))
+    burst(b, rs, 1, rgb(255, 120, 20), rgb(255, 250, 180), .45, 14, .2, up=.34, gravity=.02, life=24)
+    fin(HOTB24, b, rs, (0, 1))
+    b, rs = pk(HOTC24, {}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(240, 240, 245), n=6, life=22, scl=.32, up=.1)
+    fin(HOTC24, b, rs, (0,))
+
+    # Air Strike (Sky Attack): turn 1 - bread on the foe: a slice, a slice, the whole loaf. Turn 2 - one pigeon, two
+    # pigeons, then the whole pigeon air force
+    b, rs = pk(AIR24, {1: (fxart.bread_slice(), .45, 4, {}), 2: (fxart.bread_loaf(), .8, 4, {})}, alpha=fxart.feather())
+    burst(b, rs, 0, rgb(200, 205, 215), rgb(255, 255, 255), .4, 8, .16, up=.08, gravity=.006, life=30, spin=0x0600)
+    fin(AIR24, b, rs, (0, 1, 2))
+    b, rs = pk(AIRB24, {2: (fxart.pigeon_dive(), .55, 4, {})}, alpha=fxart.feather())
+    b, pg = added(b, fxart.pigeon_dive(), 24)
+    spray2(b, rs, {"player": (-94, 150), "enemy": (-215, 91)}, (0, 24), 14, art_tex=pg, clr=rgb(255, 255, 255),
+           clr_anm=(rgb(255, 255, 255), rgb(255, 255, 255)), scl=.5, gen=1, gen_intvl=2, emtr_life=40, radius=.5,
+           spread=.03, alpha=(31, 31, 31))
+    burst(b, rs, 3, rgb(200, 205, 215), rgb(255, 255, 255), .4, 12, .24, up=.1, gravity=.006, life=30, spin=0x0600)
+    fin(AIRB24, b, rs, (0, 1, 2, 3))
+
+    # Brick Wall (Rock Slide): bricks come down on the foe's head and stack up - one course, two, three - then the
+    # whole wall topples
+    b, rs = pk(WALL24, {1: (fxart.brick_wall(rows=1), 1.4, 4, {}), 2: (fxart.brick_wall(rows=2), 1.4, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(200, 180, 160), n=6, life=20, scl=.32, up=.03)
+    fin(WALL24, b, rs, (0, 1, 2))
+    b, rs = pk(WALLB24, {1: (fxart.brick_wall(), 1.4, 4, {}), 2: (fxart.brick_wall(tipped=35), 1.4, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(190, 70, 50), rgb(240, 140, 110), .5, 18, .3, up=.22, gravity=.022, life=26, spin=0x0800)
+    fin(WALLB24, b, rs, (0, 1, 2))
+
+    # Triple Tap (Triple Kick): a tap shoe on the foe's head - tap tap - STOMP (replays every hit: short)
+    b, rs = pk(TAP24, {1: (fxart.tap_shoe(), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(230, 235, 250), rgb(255, 255, 255), .4, 6, .16, life=10)
+    fin(TAP24, b, rs, (0, 1))
+
+    # Nail Gun (Pin Missile): thunk thunk thunk (replays every hit: short)
+    b, rs = pk(NAIL24, {1: (fxart.nail_gun(), .7, 4, {}), 2: (flipx(fxart.nail_gun()), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 120), rgb(255, 255, 255), .35, 5, .16, life=8)
+    fin(NAIL24, b, rs, (0, 1, 2))
+    b, rs = pk(NAILB24, {}, alpha=fxart.nail_streak())
+    spray2(b, rs, {"player": (30, 26), "enemy": (-30, 16)}, (0, 24), 6, clr=rgb(210, 215, 225),
+           clr_anm=(rgb(255, 255, 255), rgb(170, 175, 185)), scl=.32, gen=1, gen_intvl=3, emtr_life=18, radius=.05,
+           spread=.02, alpha=(31, 31, 0))
+    fin(NAILB24, b, rs, (0, 1))
+
+    # Staple Gun (Spike Cannon): KA-CHUNK, KA-CHUNK - the foe stapled (replays every hit: short)
+    b, rs = pk(STAPLE24, {1: (fxart.staple_gun(), .8, 4, {}), 2: (flipx(fxart.staple_gun()), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(230, 235, 250), rgb(255, 255, 255), .35, 5, .16, life=8)
+    fin(STAPLE24, b, rs, (0, 1, 2))
+    b, rs = pk(STAPLEB24, {2: (fxart.stuck_staple(), .35, 4, {})}, alpha=fxart.staple_bit())
+    spray2(b, rs, {"player": (30, 26), "enemy": (-30, 16)}, (0, 24), 6, clr=rgb(220, 225, 235),
+           clr_anm=(rgb(255, 255, 255), rgb(180, 185, 195)), scl=.36, gen=2, gen_intvl=4, emtr_life=14, radius=.08,
+           spread=.03, alpha=(31, 31, 0))
+    fin(STAPLEB24, b, rs, (0, 1, 2))
+    SET10_82 += [HOT24, HOTB24, HOTC24, AIR24, AIRB24, WALL24, WALLB24, TAP24, NAIL24, NAILB24, STAPLE24, STAPLEB24]
+
+
+    # ---- set 24, batch 4 ----------------------------------------------------------------------------------
+    # Petty (Spite): takes back the hoodie it gave the foe - the chain - "AND MY LIGHTER."
+    b, rs = pk(PETTY24, {1: (fxart.grey_hoodie(), .9, 4, {}), 2: (fxart.cuban_link(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .35, 5, .14, life=10)
+    fin(PETTY24, b, rs, (0, 1, 2))
+    b, rs = pk(PETTYB24, {1: (fxart.cheap_lighter(), .4, 4, {}), 2: (fxart.line_bubble(["AND MY", "LIGHTER."]), ONE_TO_ONE, 4, {})})
+    fin(PETTYB24, b, rs, (1, 2))
+
+    # Bad Trip (Nightmare): the sleeping foe dreams of cash - then bills - then RENT DUE
+    b, rs = pk(TRIP24, {1: (fxart.dream_cloud(), ONE_TO_ONE, 4, {}), 2: (fxart.dream_cloud(what="bills"), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 140), rgb(255, 255, 255), .35, 5, .1, life=14)
+    fin(TRIP24, b, rs, (0, 1, 2))
+    b, rs = pk(TRIPB24, {1: (fxart.dream_cloud(what="rent"), ONE_TO_ONE, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(130, 60, 170), n=6, life=22, scl=.32, up=.04)
+    fin(TRIPB24, b, rs, (0, 1))
+
+    # Wildin Out (Metronome): spin the prize wheel - tick tick tick... tick... ...tick - lands on ?
+    b, rs = pk(WILD24, {1: (fxart.prize_wheel(), 1.1, 4, {}), 2: (fxart.prize_wheel(turn=15), 1.1, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 220), rgb(120, 230, 255), .45, 14, .26, up=.12, gravity=.01, life=24)
+    fin(WILD24, b, rs, (0, 1, 2))
+    b, rs = pk(WILDB24, {1: (fxart.prize_wheel(turn=30), 1.1, 4, {}), 2: (fxart.prize_wheel(turn=121), 1.1, 4, {})})
+    fin(WILDB24, b, rs, (1, 2))
+
+    # Bite Style (Mimic): the foe hops - they hop. The foe sways - they sway. "STOP COPYING ME" - "STOP COPYING ME"
+    b, rs = pk(BITE24, {1: (fxart.line_bubble(["STOP", "COPYING ME"]), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 80, 60), rgb(255, 220, 200), .4, 6, .14, life=12)
+    fin(BITE24, b, rs, (0, 1))
+
+    # Bounced Out (Vital Throw): the velvet rope, THE LIST - the foe steps up, blocked - again - "UR NOT ON THE LIST",
+    # and they get thrown out
+    b, rs = pk(CLUB24, {1: (fxart.club_rope(), 1.2, 4, {}), 2: (fxart.list_clipboard(), ONE_TO_ONE, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(200, 190, 175), n=6, life=20, scl=.32, up=.04)
+    fin(CLUB24, b, rs, (0, 1, 2))
+    b, rs = pk(CLUBB24, {1: (fxart.line_bubble(["UR NOT ON", "THE LIST"]), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 10, .3, life=10)
+    fin(CLUBB24, b, rs, (0, 1))
+    SET10_82 += [PETTY24, PETTYB24, TRIP24, TRIPB24, WILD24, WILDB24, BITE24, CLUB24, CLUBB24]
+
+
+    # ---- set 24, batch 5 ----------------------------------------------------------------------------------
+    # Snap Out (SmellingSalt): "YO. WAKE UP." - nothing. A splash of water - nothing. A gym sock under the nose - UP.
+    b, rs = pk(SNAP24, {1: (fxart.gym_sock(), .7, 4, {}), 2: (fxart.line_bubble(["YO.", "WAKE UP."]), ONE_TO_ONE, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .4, 14, .22, up=.16, gravity=.018, life=20)
+    fin(SNAP24, b, rs, (0, 1, 2))
+    b, rs = pk(SNAPB24, {}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 60), rgb(255, 255, 220), .4, 6, .06, up=.02, life=30, radius=.5)
+    burst(b, rs, 1, rgb(255, 250, 200), rgb(255, 255, 255), .6, 12, .3, life=10)
+    fin(SNAPB24, b, rs, (0, 1))
+
+    # Lint Trap (Cotton Spore): the dryer buzzes, the door pops - a puff of lint, another - then the WHOLE lint trap
+    # on the foe
+    b, rs = pk(LINT24, {1: (fxart.clothes_dryer(), 1.0, 4, {}), 2: (fxart.clothes_dryer(open_door=True), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(185, 180, 185), n=6, life=24, scl=.3, up=.02)
+    fin(LINT24, b, rs, (0, 1, 2))
+    b, rs = pk(LINTB24, {1: (fxart.lint_screen(), .7, 4, {}), 2: (fxart.lint_blanket(), 1.4, 4, {})})
+    fin(LINTB24, b, rs, (1, 2))
+    b, rs = pk(LINTC24, {1: (fxart.lint_blanket(), .5, 4, {})})
+    fin(LINTC24, b, rs, (1,))
+
+    # Bait Switch (Trick): the shell game - the foe's watch under the middle cup - shuffle, shuffle, SHUFFLE - pick:
+    # empty. The attacker's wearing it.
+    b, rs = pk(SHELL24, {1: (fxart.cardboard_table(), 1.0, 4, {}), 2: (fxart.solo_cup(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 140), rgb(255, 255, 255), .4, 6, .12, life=14)
+    fin(SHELL24, b, rs, (0, 1, 2))
+    b, rs = pk(SHELLB24, {1: (fxart.gold_watch(), .4, 4, {})})
+    fin(SHELLB24, b, rs, (1,))
+
+    # The Wobble (Teeter Dance): "WOBBLE BABY" - wobble, wobble (in sync) - third time the foe goes the wrong way
+    b, rs = pk(WOB24, {1: (fxart.line_bubble(["WOBBLE", "BABY"]), ONE_TO_ONE, 4, {}), 2: (fxart.dance_note(), .4, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .08, up=.02, life=26, radius=.5)
+    fin(WOB24, b, rs, (0, 1, 2))
+
+    # Claw Machine (Crush Claw): the claw comes down - misses - comes down - slips - comes down, grabs the foe, lifts
+    # them all the way up... and drops them
+    b, rs = pk(CLAW24, {1: (fxart.claw_grabber(), .9, 4, {}), 2: (fxart.claw_grabber(shut=True), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(CLAW24, b, rs, (0, 1, 2))
+    SET10_82 += [SNAP24, SNAPB24, LINT24, LINTB24, LINTC24, SHELL24, SHELLB24, WOB24, CLAW24]
+
+
+    # ---- set 24, batch 6 ----------------------------------------------------------------------------------
+    # Hat Trick (Tri Attack): fitted caps flicked onto the foe's head and stacking: the fire one, the ice one, the zap
+    # one - then the whole stack topples
+    b, rs = pk(HATS24, {1: (fxart.fitted_cap(), .5, 4, {}), 2: (fxart.fitted_cap(color=(40, 110, 230, 255), emblem="ice"), .5, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 130, 30), rgb(255, 240, 160), .4, 8, .16, up=.1, life=14)
+    burst(b, rs, 3, rgb(150, 210, 255), rgb(255, 255, 255), .4, 8, .16, up=.06, life=14)
+    fin(HATS24, b, rs, (0, 1, 2, 3))
+    b, rs = pk(HATSB24, {1: (fxart.fitted_cap(color=(250, 200, 30, 255), emblem="zap"), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 80), rgb(255, 255, 255), .45, 10, .22, life=12)
+    fin(HATSB24, b, rs, (0, 1))
+
+    # Reverse Card (Trump Card): +2 - +4 - the foe slaps a +4 back - REVERSE. Cards everywhere.
+    b, rs = pk(CARD24, {1: (fxart.game_card(), ONE_TO_ONE, 4, {}), 2: (fxart.game_card(label="+4", color=(40, 110, 230, 255)), ONE_TO_ONE, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .4, 6, .16, life=10)
+    fin(CARD24, b, rs, (0, 1, 2))
+    b, rs = pk(CARDB24, {1: (fxart.game_card(label="rev", color=(60, 180, 80, 255)), ONE_TO_ONE, 4, {})}, alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(230, 50, 50), rgb(60, 120, 230), .5, 20, .32, up=.18, gravity=.012, life=30, spin=0x0B00)
+    burst(b, rs, 2, rgb(60, 190, 80), rgb(250, 210, 40), .5, 16, .28, up=.14, gravity=.012, life=28, spin=0x0900)
+    fin(CARDB24, b, rs, (0, 1, 2))
+
+    # Rise n Grind (Morning Sun): 6:00 BEEP - snooze. 6:09 BEEP - snooze. 6:18 - fine. Sun up, coffee, healed.
+    b, rs = pk(RISE24, {1: (fxart.bedside_clock(ringing=True), ONE_TO_ONE, 4, {}), 2: (fxart.bedside_clock(t="6:09", ringing=True), ONE_TO_ONE, 4, {})},
+               alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(255, 230, 120), rgb(255, 255, 230), .3, 10, .06, up=.12, life=24, radius=.6)
+    fin(RISE24, b, rs, (0, 1, 2))
+    b, rs = pk(RISEB24, {1: (fxart.bedside_clock(t="6:18", ringing=True), ONE_TO_ONE, 4, {}), 2: (fxart.coffee_mug(), .5, 4, {})})
+    fin(RISEB24, b, rs, (1, 2))
+    b, rs = pk(RISEC24, {1: (fxart.sunrise(), 2.0, 4, {})})
+    fin(RISEC24, b, rs, (1,))
+
+    # Sinkhole (Fissure): a crack under the foe - it splits wider - the street opens up and swallows them
+    b, rs = pk(SINK24, {1: (fxart.road_crack(), 1.2, 4, {}), 2: (fxart.road_crack(big=True), 1.2, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 160, 150), n=8, life=24, scl=.35, up=.05)
+    fin(SINK24, b, rs, (0, 1, 2))
+    b, rs = pk(SINKB24, {1: (fxart.sinkhole(), 1.4, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(110, 110, 118), rgb(170, 170, 178), .45, 16, .26, up=.2, gravity=.02, life=22, spin=0x0800)
+    fin(SINKB24, b, rs, (0, 1))
+    SET10_82 += [HATS24, HATSB24, CARD24, CARDB24, RISE24, RISEB24, RISEC24, SINK24, SINKB24]
+
+
+    # ---- set 25: thirty more (batch 1, INSANE) ----------------------------------------------------------------
+    # Burn It Down (Blast Burn): a squirt of lighter fluid on the grill (whoomp), another (WHOOMP), then they toss
+    # the whole bottle in - a mushroom fireball
+    b, rs = pk(BURN25, {1: (fxart.barrel_grill(), 1.1, 4, {}), 2: (fxart.lighter_fluid(), .5, 4, {})}, alpha=fxart.holy_flame())
+    burst(b, rs, 0, rgb(255, 120, 20), rgb(255, 240, 120), .4, 8, .12, up=.2, life=18)
+    burst(b, rs, 3, rgb(255, 100, 20), rgb(255, 250, 160), .55, 14, .2, up=.3, life=22)
+    fin(BURN25, b, rs, (0, 1, 2, 3))
+    b, rs = pk(BURNB25, {1: (fxart.fireball_cloud(), 3.4, 16, {"scl_anm": (.2, 1.15, 1.0, 40, 255)})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 200), .3, 4, .08, gravity=.02, life=12)
+    fin(BURNB25, b, rs, (0, 1))
+    b, rs = pk(BURNC25, {}, alpha=fxart.holy_flame())
+    spray2(b, rs, {"player": (40, 50), "enemy": (-40, 20)}, (0, 20), 12, clr=rgb(255, 110, 20),
+           clr_anm=(rgb(255, 240, 140), rgb(220, 40, 10)), scl=.6, gen=2, gen_intvl=1, emtr_life=26, radius=.4,
+           spread=.03, alpha=(31, 28, 0))
+    fin(BURNC25, b, rs, (0, 1))
+
+    # Hydrant Bomb (Hydro Cannon): the wrench on the hydrant - a trickle - a spurt - the cap blows off and the
+    # whole hydrant becomes a water cannon
+    b, rs = pk(HYD25, {1: (fxart.red_hydrant(), 1.0, 4, {}), 2: (fxart.red_hydrant(capless=True), 1.0, 4, {})}, alpha=fxart.water_jet())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .3, 4, .1, up=.04, gravity=.016, life=14)
+    burst(b, rs, 3, rgb(120, 190, 255), rgb(230, 245, 255), .5, 16, .24, up=.34, gravity=.02, life=24)
+    fin(HYD25, b, rs, (0, 1, 2, 3))
+    b, rs = pk(HYDB25, {2: (fxart.pipe_wrench(), .55, 4, {})}, alpha=fxart.water_jet())
+    spray2(b, rs, {"player": (42, 50), "enemy": (-42, 20)}, (0, 22), 10, clr=rgb(110, 180, 255),
+           clr_anm=(rgb(230, 245, 255), rgb(60, 130, 240)), scl=.9, gen=3, gen_intvl=1, emtr_life=40, radius=.25,
+           spread=.03, alpha=(31, 28, 0))
+    fin(HYDB25, b, rs, (0, 1, 2))
+
+    # Gun Garden (Frenzy Plant): bullets planted, watered - sprouts - stems - then a whole garden of pistol flowers
+    # blooms and they all fire at once
+    b, rs = pk(GUN25, {1: (fxart.flower_bed(), 1.2, 4, {}), 2: (fxart.flower_bed(stage=1), 1.2, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .3, 6, .06, gravity=.016, life=12)
+    fin(GUN25, b, rs, (0, 1, 2))
+    b, rs = pk(GUNB25, {1: (fxart.flower_bed(stage=2), 1.2, 4, {}), 2: (fxart.watering_can(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 220), .5, 6, .16, life=8)
+    fin(GUNB25, b, rs, (0, 1, 2))
+    b, rs = pk(GUNC25, {1: (fxart.gun_flower(), .9, 4, {}), 2: (flipx(fxart.gun_flower()), .9, 4, {})}, alpha=fxart.tracer_streak())
+    for res, sd in ((0, "player"), (3, "enemy")):
+        spray(b, rs, res, sd, GG_TIP25[sd], (0, 24), 8, tex=0, clr=rgb(255, 230, 90), clr_anm=(rgb(255, 255, 220), rgb(255, 150, 30)),
+              scl=.8, gen=3, gen_intvl=1, emtr_life=40, radius=.5, spread=.04, alpha=(31, 31, 0))
+    fin(GUNC25, b, rs, (0, 1, 2, 3))
+
+    # Meteor Drop (Draco Meteor): a pebble meteor - bonk. A bigger one - BONK. The sky goes dark... and the big one.
+    b, rs = pk(MET25, {1: (fxart.meteor_rock(), .5, 4, {}), 2: (fxart.meteor_rock(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 160, 40), rgb(255, 250, 200), .5, 12, .26, up=.1, life=14)
+    fin(MET25, b, rs, (0, 1, 2))
+    b, rs = pk(METB25, {1: (fxart.meteor_rock(), 4.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(255, 140, 40), n=12, life=30, scl=.5, up=.06)
+    fin(METB25, b, rs, (0, 1))
+
+    # Blow Up (Eruption): their phone: 1 notification, 12, 99+ - and it erupts like a volcano, notifications raining
+    b, rs = pk(BLOW25, {1: (fxart.notif_phone(), ONE_TO_ONE, 4, {}), 2: (fxart.notif_phone(count="12"), ONE_TO_ONE, 4, {})}, alpha=fxart.holy_flame())
+    burst(b, rs, 0, rgb(255, 100, 20), rgb(255, 240, 120), .5, 16, .14, up=.42, gravity=.02, life=26)
+    fin(BLOW25, b, rs, (0, 1, 2))
+    b, rs = pk(BLOWB25, {1: (fxart.notif_phone(count="99+"), ONE_TO_ONE, 4, {})})
+    fin(BLOWB25, b, rs, (1,))
+    b, rs = pk(BLOWC25, {})
+    b, bell = added(b, fxart.notif_bell(), 24)
+    spray2(b, rs, {"player": (36, 60), "enemy": (-36, 30)}, (0, 24), 14, art_tex=bell, clr=rgb(255, 255, 255),
+           clr_anm=(rgb(255, 255, 255), rgb(255, 255, 255)), scl=.45, gen=1, gen_intvl=2, emtr_life=30, radius=.4,
+           spread=.06, alpha=(31, 31, 31))
+    fin(BLOWC25, b, rs, (0, 1))
+    SET10_82 += [BURN25, BURNB25, BURNC25, HYD25, HYDB25, GUN25, GUNB25, GUNC25, MET25, METB25, BLOW25, BLOWB25, BLOWC25]
+
+
+    # ---- set 25, batch 2 ----------------------------------------------------------------------------------
+    # Spoon Bend (Kinesis): a spoon - bends. A fork - bends. A whole STOP sign - bends. The foe's seeing things.
+    b, rs = pk(SPOON25, {1: (fxart.bent_spoon(), .8, 4, {}), 2: (fxart.bent_spoon(bent=True), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 120, 255), rgb(255, 230, 255), .4, 8, .12, life=16)
+    fin(SPOON25, b, rs, (0, 1, 2))
+    b, rs = pk(SPOONB25, {1: (fxart.bent_fork(), .8, 4, {}), 2: (fxart.bent_fork(bent=True), .8, 4, {})})
+    fin(SPOONB25, b, rs, (1, 2))
+    b, rs = pk(SPOONC25, {1: (fxart.stop_post(), ONE_TO_ONE, 4, {}), 2: (fxart.stop_post(bent=True), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 60), rgb(255, 255, 220), .4, 7, .08, up=.02, life=26, radius=.5)
+    fin(SPOONC25, b, rs, (0, 1, 2))
+
+    # Pinched (ViceGrip): a clothespin on the foe - a bigger one - a GIANT one
+    b, rs = pk(PIN25, {1: (fxart.clothespin(), .5, 4, {}), 2: (fxart.clothespin(), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .4, 6, .16, life=10)
+    fin(PIN25, b, rs, (0, 1, 2))
+    b, rs = pk(PINB25, {1: (fxart.clothespin(), 2.0, 4, {})})
+    fin(PINB25, b, rs, (1,))
+
+    # Lights Out (Guillotine): the lamp clicks off - back on - then the breaker box: total blackout. LIGHTS OUT.
+    b, rs = pk(LAMP25, {1: (fxart.floor_lamp(), 1.0, 4, {}), 2: (fxart.floor_lamp(on=False), 1.0, 4, {})})
+    fin(LAMP25, b, rs, (1, 2))
+    b, rs = pk(LAMPB25, {1: (fxart.breaker_box(), .9, 4, {}), 2: (fxart.breaker_box(off=True), .9, 4, {})})
+    fin(LAMPB25, b, rs, (1, 2))
+    b, rs = pk(LAMPC25, {1: (fxart.burst_sign(["LIGHTS OUT."], fill=(30, 30, 40, 255), text=(255, 230, 80, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .6, 14, .32, life=12)
+    fin(LAMPC25, b, rs, (0, 1))
+
+    # Palm Reader (Mind Reader): the PSYCHIC neon, the crystal ball: mist... more mist... a target - locked on
+    b, rs = pk(PALM25, {1: (fxart.psychic_sign(), ONE_TO_ONE, 4, {}), 2: (fxart.seer_ball(), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(220, 140, 255), rgb(255, 240, 255), .4, 8, .1, up=.04, life=18)
+    fin(PALM25, b, rs, (0, 1, 2))
+    b, rs = pk(PALMB25, {1: (fxart.seer_ball(vision=1), .9, 4, {}), 2: (fxart.seer_ball(vision=2), .9, 4, {})}, alpha=fxart.ring())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 50, 50), clr_anm=(rgb(255, 200, 200), rgb(230, 20, 20)), scl=1.2, life=16,
+         alpha=(31, 31, 0), scl_anm=(2.4, .6, .5, 160, 255))
+    fin(PALMB25, b, rs, (0, 1, 2))
+
+    # Jackhammer (Drill Peck): 6 AM - BRRRT, the foe's window lights up - BRRRRRT, "ITS 6 AM!!" - so they jackhammer
+    # the foe
+    b, rs = pk(JACK25, {1: (fxart.jackhammer(), .9, 4, {}), 2: (fxart.apt_window(), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(190, 175, 155), n=5, life=18, scl=.3, up=.06)
+    fin(JACK25, b, rs, (0, 1, 2))
+    b, rs = pk(JACKB25, {1: (fxart.apt_window(lit=True), 1.0, 4, {}), 2: (fxart.line_bubble(["ITS 6 AM!!"]), ONE_TO_ONE, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 120), rgb(255, 255, 255), .4, 8, .22, life=8)
+    fin(JACKB25, b, rs, (0, 1, 2))
+    SET10_82 += [SPOON25, SPOONB25, SPOONC25, PIN25, PINB25, LAMP25, LAMPB25, LAMPC25, PALM25, PALMB25, JACK25, JACKB25]
+
+
+    # ---- set 25, batch 3 ----------------------------------------------------------------------------------
+    # 360 Deal (Submission): the contract - "SIGN HERE." - "AND HERE." - stamped: 360 DEAL. They take everything.
+    b, rs = pk(DEAL25, {1: (fxart.record_contract(), ONE_TO_ONE, 4, {}), 2: (fxart.record_contract(signed=1), ONE_TO_ONE, 4, {})},
+               alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(100, 200, 90), rgb(200, 255, 190), .4, 14, .28, up=.16, gravity=.01, life=26, spin=0x0900)
+    fin(DEAL25, b, rs, (0, 1, 2))
+    b, rs = pk(DEALB25, {1: (fxart.record_contract(signed=2), ONE_TO_ONE, 4, {}),
+                         2: (fxart.burst_sign(["360 DEAL."], fill=(200, 20, 30, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(DEALB25, b, rs, (1, 2))
+    b, rs = pk(DEALC25, {1: (fxart.line_bubble(["SIGN HERE."]), ONE_TO_ONE, 4, {}), 2: (fxart.line_bubble(["AND HERE."]), ONE_TO_ONE, 4, {}),
+                         3: (fxart.fancy_pen(), .45, 4, {})})
+    fin(DEALC25, b, rs, (1, 2, 3))
+
+    # Eat Good (Softboiled): grandma's plate - a scoop - another scoop - then she dumps the whole pot. Healed.
+    b, rs = pk(PLATE25, {1: (fxart.grandma_plate(), 1.0, 4, {}), 2: (fxart.grandma_plate(full=True), 1.0, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(120, 255, 140), rgb(230, 255, 230), .3, 10, .06, up=.12, life=24, radius=.6)
+    fin(PLATE25, b, rs, (0, 1, 2))
+    b, rs = pk(PLATEB25, {1: (fxart.cook_pot(), .9, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(240, 240, 245), n=5, life=20, scl=.3, up=.08)
+    fin(PLATEB25, b, rs, (0, 1))
+
+    # Waterworks (Fake Tears): sniff - sob - a full fountain of tears - the foe softens - "JK."
+    b, rs = pk(TEAR25, {1: (fxart.line_bubble(["JK."]), ONE_TO_ONE, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .3, 2, .05, up=.02, gravity=.016, life=16)
+    burst(b, rs, 2, rgb(110, 180, 255), rgb(230, 245, 255), .4, 16, .2, up=.32, gravity=.02, life=26)
+    burst(b, rs, 3, rgb(120, 190, 255), rgb(230, 245, 255), .32, 6, .1, up=.1, gravity=.018, life=18)
+    fin(TEAR25, b, rs, (0, 1, 2, 3))
+
+    # Bone Toss (Bonemerang): a bone out - bonk - and back (replays per hit: short)
+    b, rs = pk(BONE25, {1: (fxart.dog_bone(), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .45, 8, .2, life=10)
+    fin(BONE25, b, rs, (0, 1))
+
+    # Shmoney (Dragon Dance): the shmoney dance - cash up - step, step - money everywhere, powered up
+    b, rs = pk(SHM25, {1: (fxart.band_stack(), .8, 4, {})}, alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(100, 200, 90), rgb(200, 255, 190), .4, 8, .18, up=.16, gravity=.01, life=24, spin=0x0900)
+    burst(b, rs, 2, rgb(100, 200, 90), rgb(200, 255, 190), .45, 20, .3, up=.24, gravity=.01, life=30, spin=0x0B00)
+    burst(b, rs, 3, rgb(255, 80, 60), rgb(255, 220, 140), .35, 10, .04, up=.12, life=22, radius=.6)
+    fin(SHM25, b, rs, (0, 1, 2, 3))
+    SET10_82 += [DEAL25, DEALB25, DEALC25, PLATE25, PLATEB25, TEAR25, BONE25, SHM25]
+
+
+    # ---- set 25, batch 4 ----------------------------------------------------------------------------------
+    # Moon Bath (Moonlight): night. The moon comes up, a beach lounger, the tanning reflector - tilt, tilt - then the
+    # moonbeam hits and they glow, healed
+    b, rs = pk(MOON25, {1: (fxart.big_moon(), 1.0, 4, {}), 2: (fxart.beach_lounger(), 1.3, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(200, 220, 255), rgb(255, 255, 255), .3, 10, .06, up=.12, life=24, radius=.6)
+    fin(MOON25, b, rs, (0, 1, 2))
+    b, rs = pk(MOONB25, {1: (fxart.sun_reflector(), .7, 4, {})}, alpha=fxart.holy_ray())
+    prop(b, rs, 0, tex=0, clr=rgb(220, 230, 255), clr_anm=(rgb(255, 255, 255), rgb(170, 200, 255)), scl=1.0, life=20,
+         gen=3, gen_intvl=1, emtr_life=24, init_pos=1, radius=.4, axis=(0, -1, 0), vel=(.01, .8), alpha=(24, 18, 0))
+    fin(MOONB25, b, rs, (0, 1))
+
+    # Slime Down (Acid Armor): a bucket of slime overhead - drip - drip - the whole bucket. Slimed. Hard to hit now.
+    b, rs = pk(SLIME25, {1: (fxart.slime_bucket(), .9, 4, {}), 2: (fxart.slime_bucket(tipped=True), .9, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 230, 60), rgb(210, 255, 170), .35, 2, .02, gravity=.03, life=14)
+    burst(b, rs, 3, rgb(120, 230, 60), rgb(210, 255, 170), .4, 14, .2, up=.14, gravity=.02, life=20)
+    fin(SLIME25, b, rs, (0, 1, 2, 3))
+    b, rs = pk(SLIMEB25, {1: (fxart.slime_goo(), 1.2, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(170, 220, 255), rgb(255, 255, 255), .45, 8, .12, life=14)
+    fin(SLIMEB25, b, rs, (0, 1))
+
+    # Last Verse (Perish Song): the spotlight, the last verse - 3 - 2 - 1 - MIC DROP
+    b, rs = pk(VERSE25, {1: (fxart.stage_mic(), .9, 4, {}), 2: (fxart.burst_sign(["3"], fill=(30, 30, 40, 255), text=(255, 230, 80, 255)), SIGN_SCALE * 2, 4, {"colors": 30})},
+               alpha=fxart.shout_arc())
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 240, 160), .45, 4, .14, life=12)
+    fin(VERSE25, b, rs, (0, 1, 2))
+    b, rs = pk(VERSEB25, {1: (fxart.burst_sign(["2"], fill=(30, 30, 40, 255), text=(255, 230, 80, 255)), SIGN_SCALE * 2, 4, {"colors": 30}),
+                          2: (fxart.burst_sign(["1"], fill=(30, 30, 40, 255), text=(255, 230, 80, 255)), SIGN_SCALE * 2, 4, {"colors": 30})})
+    fin(VERSEB25, b, rs, (1, 2))
+    b, rs = pk(VERSEC25, {1: (fxart.burst_sign(["MIC DROP."], fill=(200, 20, 30, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .6, 16, .32, life=14)
+    fin(VERSEC25, b, rs, (0, 1))
+
+    # Lip Gloss (Lovely Kiss): swipe - swipe - the lips shine like a disco ball, the foe's hypnotized - and out cold
+    b, rs = pk(GLOSS25, {1: (fxart.lip_gloss(), .7, 4, {}), 2: (fxart.glossy_lips(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 150, 220), rgb(255, 255, 255), .5, 12, .3, life=12)
+    fin(GLOSS25, b, rs, (0, 1, 2))
+    b, rs = pk(GLOSSB25, {}, alpha=fxart.sleep_z16())
+    burst(b, rs, 0, rgb(120, 170, 255), rgb(230, 240, 255), .45, 3, .04, up=.1, life=30, radius=.2)
+    fin(GLOSSB25, b, rs, (0,))
+
+    # Bottle Rain (Barrage): a water bottle off the foe's head - bonk, splash (replays per hit: short)
+    b, rs = pk(BOTTLE25, {1: (fxart.water_bottle(), .5, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .35, 10, .16, up=.18, gravity=.02, life=18)
+    fin(BOTTLE25, b, rs, (0, 1))
+    SET10_82 += [MOON25, MOONB25, SLIME25, SLIMEB25, VERSE25, VERSEB25, VERSEC25, GLOSS25, GLOSSB25, BOTTLE25]
+
+
+    # ---- set 25, batch 5 ----------------------------------------------------------------------------------
+    # Two-Piece (Comet Punch): a fried drumstick off the foe's head (replays per hit: short)
+    b, rs = pk(CHICK25, {1: (fxart.drumstick(), .5, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(220, 160, 80), rgb(250, 220, 160), .3, 10, .2, up=.14, gravity=.018, life=16)
+    fin(CHICK25, b, rs, (0, 1))
+
+    # Jump Out (Jump Kick): a bush - rustle - rustle - and they JUMP OUT of it knee first
+    b, rs = pk(BUSH25, {1: (fxart.shrub(), 1.4, 4, {}), 2: (fxart.shrub(rustle=1), 1.4, 4, {})}, alpha=fxart.feather())
+    burst(b, rs, 0, rgb(80, 180, 70), rgb(160, 230, 140), .4, 14, .26, up=.16, gravity=.01, life=26, spin=0x0800)
+    burst(b, rs, 3, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .3, life=10)
+    fin(BUSH25, b, rs, (0, 1, 2, 3))
+
+    # Roll Up (Rolling Kick): skates on - wobble - wobble - then a spin and a kick
+    b, rs = pk(SKATE25, {1: (fxart.roller_skate(), .6, 4, {}), 2: (flipx(fxart.roller_skate()), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 12, .3, life=12)
+    fin(SKATE25, b, rs, (0, 1, 2))
+
+    # Waffle Iron (Clamp): the foe on the bottom plate - SLAM - sizzle - waffled (replays as a trap: short)
+    b, rs = pk(WAFF25, {1: (fxart.waffle_iron(), 1.5, 4, {}), 2: (fxart.waffle_iron(shut=True), 1.5, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(240, 240, 245), n=5, life=20, scl=.3, up=.1)
+    fin(WAFF25, b, rs, (0, 1, 2))
+
+    # Bazooka (Octazooka): bubblegum - a bubble, bigger, HUGE - POP, all over the foe's face
+    b, rs = pk(GUM25, {1: (fxart.gum_bubble(), .35, 4, {}), 2: (fxart.gum_bubble(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 160, 220), rgb(255, 255, 255), .5, 14, .3, life=12)
+    fin(GUM25, b, rs, (0, 1, 2))
+    b, rs = pk(GUMB25, {1: (fxart.gum_bubble(), 1.6, 4, {}), 2: (fxart.gum_splat(), .9, 4, {})})
+    fin(GUMB25, b, rs, (1, 2))
+    SET10_82 += [CHICK25, BUSH25, SKATE25, WAFF25, GUM25, GUMB25]
+
+
+    # ---- set 25, batch 6 ----------------------------------------------------------------------------------
+    # Thumbtacks (Spikes): a tack on the foe's side - another - then the whole box spills
+    b, rs = pk(TACK25, {1: (fxart.tack_box(), ONE_TO_ONE, 4, {}), 2: (fxart.thumbtack(), .4, 4, {})})
+    b, tk = added(b, fxart.thumbtack(), 24)
+    burst(b, rs, 0, rgb(255, 255, 255), rgb(255, 255, 255), .35, 16, .3, up=.16, gravity=.02, life=40, tex=tk,
+          clr_anm=(rgb(255, 255, 255), rgb(255, 255, 255)), alpha=(31, 31, 31))
+    fin(TACK25, b, rs, (0, 1, 2))
+
+    # Copy Paste (Mirror Move): the copier - a blank page - a smudged page - a perfect copy
+    b, rs = pk(COPY25, {1: (fxart.photocopier(), 1.0, 4, {}), 2: (fxart.copy_page(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(150, 255, 170), rgb(255, 255, 255), .45, 6, .14, life=10)
+    fin(COPY25, b, rs, (0, 1, 2))
+    b, rs = pk(COPYB25, {1: (fxart.copy_page(quality=1), .5, 4, {}), 2: (fxart.copy_page(quality=2), .5, 4, {})})
+    fin(COPYB25, b, rs, (1, 2))
+
+    # Receipts (Bide): the receipt printer - it keeps printing - and printing - then they whip the foe with it
+    b, rs = pk(REC25, {1: (fxart.receipt_printer(), .9, 4, {}), 2: (fxart.long_receipt(), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 12, .3, life=12)
+    fin(REC25, b, rs, (0, 1, 2))
+    b, rs = pk(RECB25, {1: (fxart.long_receipt(), 1.3, 4, {})})
+    fin(RECB25, b, rs, (1,))
+
+    # Max Out (Superpower): curl the dumbbell - press the barbell - then lift the whole vending machine and throw it
+    b, rs = pk(GYM25, {1: (fxart.dumbbell(), .6, 4, {}), 2: (fxart.oly_barbell(), 1.2, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .3, 4, .1, up=.1, gravity=.016, life=14)
+    fin(GYM25, b, rs, (0, 1, 2))
+    b, rs = pk(GYMB25, {1: (fxart.vending_machine(), 1.1, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(220, 60, 60), rgb(250, 230, 120), .45, 18, .32, up=.2, gravity=.02, life=24, spin=0x0A00)
+    fin(GYMB25, b, rs, (0, 1))
+
+    # Hustle (Struggle): open the wallet - a moth - shake it - nothing - so they just swing
+    b, rs = pk(HUST25, {1: (fxart.moth_wallet(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .45, 8, .22, life=10)
+    fin(HUST25, b, rs, (0, 1))
+    SET10_82 += [TACK25, COPY25, COPYB25, REC25, RECB25, GYM25, GYMB25, HUST25]
+
+
+    # ---- set 26: thirty more (batch 1, INSANE) ----------------------------------------------------------------
+    # Live Wire (Volt Tackle): a snapped power line sparking - ZZT - ZZT - they grab it and charge, the transformer blows
+    b, rs = pk(WIRE26, {1: (fxart.utility_pole(), 1.2, 4, {}), 2: (fxart.wire_end(), .5, 4, {})}, alpha=fxart.zig_bolt())
+    burst(b, rs, 0, rgb(255, 250, 120), rgb(255, 255, 255), .4, 6, .2, life=10)
+    burst(b, rs, 3, rgb(255, 240, 80), rgb(255, 255, 255), .6, 16, .34, life=14)
+    fin(WIRE26, b, rs, (0, 1, 2, 3))
+
+    # Fire Cart (Flare Blitz): a shopping cart rolls - sparks - flames - FULL FIRE - straight into the foe
+    b, rs = pk(CART26, {1: (fxart.grocery_cart(), 1.3, 4, {}), 2: (flipx(fxart.grocery_cart()), 1.3, 4, {})}, alpha=fxart.holy_flame())
+    burst(b, rs, 0, rgb(255, 130, 30), rgb(255, 240, 140), .45, 8, .1, up=.24, life=16)
+    burst(b, rs, 3, rgb(255, 100, 20), rgb(255, 250, 160), .55, 18, .3, up=.3, life=24)
+    fin(CART26, b, rs, (0, 1, 2, 3))
+    b, rs = pk(CARTB26, {}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(200, 205, 215), rgb(255, 255, 255), .45, 14, .34, up=.2, gravity=.02, life=24, spin=0x0A00)
+    fin(CARTB26, b, rs, (0,))
+
+    # Wrecker (Rock Wrecker): the wrecking ball swings - over their head - swings - they duck - SMASH
+    b, rs = pk(WRECK26, {1: (fxart.demo_ball(), 2.0, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(170, 165, 160), rgb(230, 225, 220), .5, 20, .36, up=.22, gravity=.022, life=26, spin=0x0900)
+    fin(WRECK26, b, rs, (0, 1))
+    b, rs = pk(WRECKB26, {}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(190, 180, 170), n=12, life=30, scl=.45, up=.04)
+    fin(WRECKB26, b, rs, (0,))
+
+    # Headbanger (Head Smash): amp stacks, the riff - headbang - HEADBANG (pyro) - full send into the foe
+    b, rs = pk(HEAD26, {1: (fxart.amp_stack(), 1.0, 4, {})}, alpha=fxart.holy_flame())
+    burst(b, rs, 0, rgb(255, 130, 30), rgb(255, 240, 140), .45, 8, .06, up=.5, life=18)
+    burst(b, rs, 3, rgb(255, 100, 20), rgb(255, 250, 160), .55, 14, .1, up=.6, life=22)
+    fin(HEAD26, b, rs, (0, 1, 3))
+
+    # Super Soaker (Water Spout): pump - pump - PUMPPUMPPUMP - a flood
+    b, rs = pk(SOAK26, {1: (fxart.mega_soaker(), .9, 4, {}), 2: (fxart.mega_soaker(pumped=True), .9, 4, {})}, alpha=fxart.water_jet())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .5, 16, .24, up=.3, gravity=.02, life=24)
+    fin(SOAK26, b, rs, (0, 1, 2))
+    b, rs = pk(SOAKB26, {1: (flipx(fxart.mega_soaker()), .9, 4, {}), 2: (flipx(fxart.mega_soaker(pumped=True)), .9, 4, {})})
+    fin(SOAKB26, b, rs, (1, 2))
+    b, rs = pk(SOAKC26, {}, alpha=fxart.water_jet())
+    spray2(b, rs, {"player": (48, 28), "enemy": (-48, 18)}, (0, 22), 10, clr=rgb(110, 180, 255),
+           clr_anm=(rgb(230, 245, 255), rgb(60, 130, 240)), scl=.9, gen=3, gen_intvl=1, emtr_life=40, radius=.2,
+           spread=.03, alpha=(31, 28, 0))
+    fin(SOAKC26, b, rs, (0, 1))
+    SET10_82 += [WIRE26, CART26, CARTB26, WRECK26, WRECKB26, HEAD26, SOAK26, SOAKB26, SOAKC26]
+
+
+    # ---- set 26, batch 2 ----------------------------------------------------------------------------------
+    # Night Night (Spore): the music box plays - the foe yawns - plays - nods - then a giant pacifier. Out cold.
+    b, rs = pk(NIGHT26, {1: (fxart.music_box(), 1.0, 4, {}), 2: (fxart.big_pacifier(), .6, 4, {})}, alpha=fxart.tiny_note())
+    burst(b, rs, 0, rgb(255, 150, 210), rgb(255, 240, 250), .4, 4, .05, up=.1, life=26, radius=.3)
+    fin(NIGHT26, b, rs, (0, 1, 2))
+    b, rs = pk(NIGHTB26, {}, alpha=fxart.sleep_z16())
+    burst(b, rs, 0, rgb(120, 170, 255), rgb(230, 240, 255), .45, 3, .04, up=.1, life=30, radius=.2)
+    fin(NIGHTB26, b, rs, (0,))
+
+    # Dome Piece (Skull Bash): turn 1 the helmet goes on, buckled - knock knock. Turn 2 they charge head first.
+    b, rs = pk(DOME26, {1: (fxart.football_helmet(), .8, 4, {}), 2: (flipx(fxart.football_helmet()), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 12, .3, life=12)
+    fin(DOME26, b, rs, (0, 1, 2))
+
+    # Drill (Horn Drill): a drill - a bigger drill - an industrial drill. Done.
+    b, rs = pk(DRILL26, {1: (fxart.power_drill(), .8, 4, {}), 2: (fxart.power_drill(big=1), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 80), rgb(255, 255, 220), .35, 6, .2, life=8)
+    fin(DRILL26, b, rs, (0, 1, 2))
+    b, rs = pk(DRILLB26, {1: (fxart.power_drill(big=2), 1.4, 4, {}), 2: (flipx(fxart.power_drill()), .8, 4, {})})
+    fin(DRILLB26, b, rs, (1, 2))
+    b, rs = pk(DRILLC26, {1: (flipx(fxart.power_drill(big=1)), .9, 4, {}), 2: (flipx(fxart.power_drill(big=2)), 1.4, 4, {})})
+    fin(DRILLC26, b, rs, (1, 2))
+
+    # Cold Case (Sheer Cold): the evidence board, the case file - stamped COLD CASE - and the foe's on ice
+    b, rs = pk(COLD26, {1: (fxart.evidence_board(), 1.1, 4, {}), 2: (fxart.case_file(), ONE_TO_ONE, 4, {})}, alpha=fxart.frost_crystal())
+    burst(b, rs, 0, rgb(170, 220, 255), rgb(255, 255, 255), .45, 14, .24, up=.06, life=22, spin=0x0600)
+    fin(COLD26, b, rs, (0, 1, 2))
+    b, rs = pk(COLDB26, {1: (fxart.case_ice(), 1.4, 4, {})})
+    fin(COLDB26, b, rs, (1,))
+
+    # Bat Rush (Bone Rush): one bat swing, bonk (replays per hit: short)
+    b, rs = pk(BAT26, {1: (fxart.alu_bat(), .8, 4, {}), 2: (flipx(fxart.alu_bat()), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(BAT26, b, rs, (0, 1, 2))
+    SET10_82 += [NIGHT26, NIGHTB26, DOME26, DRILL26, DRILLB26, DRILLC26, COLD26, COLDB26, BAT26]
+
+
+    # ---- set 26, batch 3 ----------------------------------------------------------------------------------
+    # Speed Bag (Bullet Punch): bap-bap-bap - faster - FASTER - and the glove goes into the foe
+    b, rs = pk(SPEED26, {1: (fxart.speed_bag(swing=-1), .8, 4, {}), 2: (fxart.speed_bag(swing=1), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 12, .3, life=10)
+    fin(SPEED26, b, rs, (0, 1, 2))
+    b, rs = pk(SPEEDB26, {1: (fxart.red_glove(), .7, 4, {}), 2: (flipx(fxart.red_glove()), .7, 4, {})})
+    fin(SPEEDB26, b, rs, (1, 2))
+
+    # Trash Can (Gunk Shot): a trash bag on the foe - another - then the garbage truck backs up and dumps the load
+    b, rs = pk(TRASH26, {1: (fxart.trash_bag(), .55, 4, {}), 2: (fxart.garbage_truck(), 1.4, 4, {})}, alpha=fxart.speck())
+    burst(b, rs, 0, rgb(120, 110, 90), rgb(180, 170, 140), .4, 10, .2, up=.12, gravity=.016, life=18)
+    fin(TRASH26, b, rs, (0, 1, 2))
+    b, rs = pk(TRASHB26, {1: (fxart.trash_pile(), 1.2, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(140, 200, 60), n=8, life=26, scl=.35, up=.06)
+    fin(TRASHB26, b, rs, (0, 1))
+
+    # Comeback (Reversal): the scoreboard - 0 to 99 - 1 to 99 - buzzer beater: 100 to 99
+    b, rs = pk(SCORE26, {1: (fxart.scoreboard(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.scoreboard(home="1"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.confetti_bit())
+    burst(b, rs, 0, rgb(255, 80, 200), rgb(80, 220, 255), .4, 20, .3, up=.22, gravity=.012, life=30, spin=0x0B00)
+    fin(SCORE26, b, rs, (0, 1, 2))
+    b, rs = pk(SCOREB26, {1: (fxart.scoreboard(home="100"), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 12, .3, life=12)
+    fin(SCOREB26, b, rs, (0, 1))
+
+    # Wish List (Wish): blow out the candles - they relight - blow - they relight - one huge blow and the cake's gone.
+    # Wish granted.
+    b, rs = pk(CAKE26, {1: (fxart.bday_cake(), 1.0, 4, {}), 2: (fxart.bday_cake(lit=False), 1.0, 4, {})}, alpha=fxart.glow_dot())
+    burst(b, rs, 0, rgb(255, 240, 140), rgb(255, 255, 230), .32, 12, .08, up=.12, life=26, radius=.6)
+    fin(CAKE26, b, rs, (0, 1, 2))
+
+    # Deep End (Dive): turn 1 a cannonball into a kiddie pool. Turn 2 they burst up out of a pool under the foe.
+    b, rs = pk(POOL26, {1: (fxart.kiddie_pool(), 1.4, 4, {})}, alpha=fxart.water_jet())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(230, 245, 255), .5, 18, .26, up=.36, gravity=.02, life=26)
+    burst(b, rs, 3, rgb(150, 210, 255), rgb(240, 250, 255), .3, 4, .04, up=.1, life=14)
+    fin(POOL26, b, rs, (0, 1, 3))
+    SET10_82 += [SPEED26, SPEEDB26, TRASH26, TRASHB26, SCORE26, SCOREB26, CAKE26, POOL26]
+
+
+    # ---- set 26, batch 4 ----------------------------------------------------------------------------------
+    # Pillow Fight (FeatherDance): whack - whack - the pillow bursts, feathers everywhere
+    b, rs = pk(PILLOW26, {1: (fxart.fluffy_pillow(), .8, 4, {})}, alpha=fxart.feather())
+    burst(b, rs, 0, rgb(250, 250, 255), rgb(255, 255, 255), .35, 5, .12, up=.06, gravity=.004, life=26, spin=0x0600)
+    burst(b, rs, 2, rgb(250, 250, 255), rgb(255, 255, 255), .45, 24, .3, up=.14, gravity=.004, life=44, radius=.6, spin=0x0700)
+    fin(PILLOW26, b, rs, (0, 1, 2))
+
+    # Bad Sushi (Poison Fang): gas station sushi - one piece - another - the whole tray. Badly poisoned.
+    b, rs = pk(SUSHI26, {1: (fxart.sushi_tray(), 1.0, 4, {}), 2: (fxart.sushi_roll(), .45, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 70, 200), n=6, life=24, scl=.32, up=.07)
+    fin(SUSHI26, b, rs, (0, 1, 2))
+
+    # Blindside (Shadow Punch): a cardboard box sneaks up - the foe turns, it freezes - again - "!" - POW
+    b, rs = pk(SNEAK26, {1: (fxart.sneak_box(), .9, 4, {}), 2: (fxart.sneak_box(alert=True), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 12, .3, life=12)
+    fin(SNEAK26, b, rs, (0, 1, 2))
+
+    # Uppercut (Sky Uppercut): pop - POP - then all the way to the moon. *ding*
+    b, rs = pk(UPPER26, {1: (fxart.upper_glove(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    burst(b, rs, 2, rgb(255, 255, 220), rgb(255, 255, 255), .6, 4, .04, life=16, radius=.1)
+    fin(UPPER26, b, rs, (0, 1, 2))
+
+    # Sandbag (Sand Tomb): sandbags stacked round the foe (replays as a trap: short)
+    b, rs = pk(SAND26, {1: (fxart.sandbag(), .5, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(210, 185, 130), n=5, life=18, scl=.3, up=.04)
+    fin(SAND26, b, rs, (0, 1))
+    SET10_82 += [PILLOW26, SUSHI26, SNEAK26, UPPER26, SAND26]
+
+
+    # ---- set 26, batch 5 ----------------------------------------------------------------------------------
+    # Weed Whacker (Leaf Blade): revs - clippings - revs - clippings - then they edge the foe
+    b, rs = pk(WEED26, {1: (fxart.string_trimmer(), 1.3, 4, {}), 2: (flipx(fxart.string_trimmer()), 1.3, 4, {})}, alpha=fxart.grass_clip())
+    burst(b, rs, 0, rgb(90, 190, 70), rgb(180, 240, 140), .35, 12, .26, up=.14, gravity=.012, life=20, spin=0x0900)
+    fin(WEED26, b, rs, (0, 1, 2))
+
+    # Whack-a-Mole (Hammer Arm): a mole pops up - WHACK, missed. Another - missed. Then the FOE pops up. WHACK.
+    b, rs = pk(MOLE26, {1: (fxart.mole_hole(), .8, 4, {}), 2: (fxart.arcade_mole(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(MOLE26, b, rs, (0, 1, 2))
+    b, rs = pk(MOLEB26, {1: (fxart.foam_mallet(), .9, 4, {}), 2: (flipx(fxart.foam_mallet()), .9, 4, {})})
+    fin(MOLEB26, b, rs, (1, 2))
+
+    # Chia Pet (Seed Bomb): mist - sprouts on the foe's head - mist - fuzz - mist - a full chia afro - it bursts
+    b, rs = pk(CHIA26, {1: (fxart.chia_fuzz(), .7, 4, {}), 2: (fxart.chia_fuzz(stage=1), .7, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .3, 6, .06, gravity=.016, life=14)
+    fin(CHIA26, b, rs, (0, 1, 2))
+    b, rs = pk(CHIAB26, {1: (fxart.chia_fuzz(stage=2), .9, 4, {}), 2: (fxart.spray_bottle(), .5, 4, {})}, alpha=fxart.grass_clip())
+    burst(b, rs, 0, rgb(90, 190, 70), rgb(180, 240, 140), .4, 22, .32, up=.18, gravity=.01, life=26, spin=0x0900)
+    fin(CHIAB26, b, rs, (0, 1, 2))
+
+    # Jet Ski (Aqua Jet): rev - rev - ZOOM across into the foe
+    b, rs = pk(SKI26, {1: (fxart.jet_ski(), 1.2, 4, {}), 2: (flipx(fxart.jet_ski()), 1.2, 4, {})}, alpha=fxart.water_jet())
+    burst(b, rs, 0, rgb(150, 210, 255), rgb(240, 250, 255), .35, 6, .14, up=.16, gravity=.02, life=16)
+    burst(b, rs, 3, rgb(120, 190, 255), rgb(230, 245, 255), .5, 16, .26, up=.3, gravity=.02, life=22)
+    fin(SKI26, b, rs, (0, 1, 2, 3))
+
+    # Back Alley (Shadow Sneak): footsteps behind the foe - they turn - footsteps - they turn - hit from behind
+    b, rs = pk(ALLEY26, {}, alpha=fxart.shoe_print())
+    prop(b, rs, 0, tex=0, clr=rgb(40, 30, 50), clr_anm=(rgb(40, 30, 50), rgb(40, 30, 50)), scl=.75, life=40, alpha=(28, 28, 0))
+    burst(b, rs, 1, rgb(60, 40, 80), rgb(120, 90, 150), .45, 12, .2, up=.06, life=20)
+    fin(ALLEY26, b, rs, (0, 1))
+    SET10_82 += [WEED26, MOLE26, MOLEB26, CHIA26, CHIAB26, SKI26, ALLEY26]
+
+
+    # ---- set 26, batch 6 ----------------------------------------------------------------------------------
+    # Finesse (Covet): "LEMME SEE THAT" - they snatch the foe's fresh snapback, try it on, and walk off
+    b, rs = pk(FIN26, {1: (fxart.lemme_bubble(), ONE_TO_ONE, 4, {}), 2: (fxart.fresh_snapback(), .55, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 60), rgb(255, 255, 220), .4, 8, .2, life=12)
+    fin(FIN26, b, rs, (0, 1, 2))
+    b, rs = pk(FINB26, {1: (flipx(fxart.fresh_snapback()), .55, 4, {})})
+    fin(FINB26, b, rs, (1,))
+
+    # Ext. Cord (Power Whip): the orange extension cord - folded in half - swing, swing, WHAP WHAP WHAP
+    b, rs = pk(CORD26, {1: (fxart.ext_cord(swung=True), 1.0, 4, {}), 2: (flipx(fxart.ext_cord(swung=True)), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .28, life=10)
+    fin(CORD26, b, rs, (0, 1, 2))
+    b, rs = pk(CORDB26, {1: (fxart.ext_cord(), .7, 4, {})})
+    fin(CORDB26, b, rs, (1,))
+
+    # Two-by-Four (Wood Hammer): measure twice... swing once. Splinters. They feel it too.
+    b, rs = pk(PLANK26, {1: (fxart.tape_measure(), .8, 4, {}), 2: (flipx(fxart.tape_measure()), .8, 4, {})}, alpha=fxart.wood_chip())
+    burst(b, rs, 0, rgb(220, 170, 100), rgb(250, 220, 160), .4, 16, .3, up=.14, gravity=.014, life=22, spin=0x0800)
+    fin(PLANK26, b, rs, (0, 1, 2))
+    b, rs = pk(PLANKB26, {1: (fxart.two_by_four(), 1.0, 4, {}), 2: (flipx(fxart.two_by_four()), 1.0, 4, {})})
+    fin(PLANKB26, b, rs, (1, 2))
+
+    # Kick Back (Slack Off): the recliner - lever - footrest pops - laid all the way back. Ahhh.
+    b, rs = pk(RECL26, {1: (fxart.recliner(), 1.5, 4, {}), 2: (fxart.recliner(stage=1), 1.5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(120, 240, 140), rgb(230, 255, 230), .35, 10, .08, up=.12, life=24, radius=.6)
+    fin(RECL26, b, rs, (0, 1, 2))
+    b, rs = pk(RECLB26, {1: (fxart.recliner(stage=2), 1.5, 4, {}), 2: (flipx(fxart.recliner()), 1.5, 4, {})})
+    fin(RECLB26, b, rs, (1, 2))
+    b, rs = pk(RECLC26, {1: (flipx(fxart.recliner(stage=1)), 1.5, 4, {}), 2: (flipx(fxart.recliner(stage=2)), 1.5, 4, {})})
+    fin(RECLC26, b, rs, (1, 2))
+
+    # Slow Jam (GrassWhistle): candle - candle - candle - the slow jam comes on - the foe sways - out cold
+    b, rs = pk(JAM26, {1: (fxart.jar_candle(), .45, 4, {}), 2: (fxart.jar_candle(lit=False), .45, 4, {})}, alpha=fxart.love_note())
+    burst(b, rs, 0, rgb(255, 120, 190), rgb(255, 220, 240), .3, 2, .05, up=.06, life=30, radius=.2)
+    fin(JAM26, b, rs, (0, 1, 2))
+    b, rs = pk(JAMB26, {}, alpha=fxart.snore_z())
+    burst(b, rs, 0, rgb(200, 210, 255), rgb(255, 255, 255), .3, 1, .03, up=.07, life=30, radius=.1)
+    fin(JAMB26, b, rs, (0,))
+    SET10_82 += [FIN26, FINB26, CORD26, CORDB26, PLANK26, PLANKB26, RECL26, RECLB26, RECLC26, JAM26, JAMB26]
+
+
+    # ---- set 27, batch 1 (INSANE) -------------------------------------------------------------------------
+    # Send It (Brave Bird): the projects roof, a bedsheet cape - hop, nothing - hop, nothing - SEND IT: a flaming dive
+    b, rs = pk(SEND27, {1: (fxart.hero_cape(), .9, 4, {}), 2: (flipx(fxart.hero_cape()), .9, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(255, 120, 20), rgb(255, 240, 120), .35, 6, .1, up=.04, life=14, radius=.3)
+    fin(SEND27, b, rs, (0, 1, 2))
+    b, rs = pk(SENDB27, {1: (fxart.roof_ledge(), 1.5, 4, {}), 2: (fxart.dive_crater(), 1.5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 120), rgb(255, 255, 255), .4, 6, .06, up=.05, life=24, radius=.3)
+    burst(b, rs, 3, rgb(150, 120, 90), rgb(220, 200, 170), .5, 18, .34, up=.24, gravity=.02, life=26)
+    fin(SENDB27, b, rs, (0, 1, 2, 3))
+
+    # Allergy Szn (Seed Flare): POLLEN HIGH - VERY HIGH - EXTREME - a giant flower blows - ACHOO!
+    b, rs = pk(POLL27, {1: (fxart.pollen_board(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.pollen_board(level="VERY HIGH"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.pollen_dot())
+    burst(b, rs, 0, rgb(250, 220, 60), rgb(255, 250, 180), .3, 6, .12, up=.04, life=30, radius=.6)
+    fin(POLL27, b, rs, (0, 1, 2))
+    b, rs = pk(POLLB27, {1: (fxart.pollen_board(level="EXTREME"), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.monster_flower(), 1.9, 4, {})},
+               alpha=fxart.pollen_dot())
+    burst(b, rs, 0, rgb(250, 220, 60), rgb(255, 250, 180), .5, 26, .4, up=.12, life=40, radius=.8)
+    fin(POLLB27, b, rs, (0, 1, 2))
+    b, rs = pk(POLLC27, {1: (fxart.monster_flower(open_=0), 1.9, 4, {}),
+                         2: (fxart.burst_sign(["ACHOO!"], fill=(255, 230, 60, 255), text=(200, 40, 30, 255)), SIGN_SCALE, 4, {"colors": 30})})
+    fin(POLLC27, b, rs, (1, 2))
+
+    # Blackout (Dark Void): the skyline's windows go out block by block - pitch black - two eyes - Zs
+    b, rs = pk(DARK27, {1: (fxart.city_skyline(), 2.0, 4, {}), 2: (fxart.city_skyline(lit=1), 2.0, 4, {})})
+    fin(DARK27, b, rs, (1, 2))
+    b, rs = pk(DARKB27, {1: (fxart.city_skyline(lit=0), 2.0, 4, {}), 2: (fxart.dark_eyes(), .7, 4, {})}, alpha=fxart.snore_z())
+    burst(b, rs, 0, rgb(200, 210, 255), rgb(255, 255, 255), .32, 1, .03, up=.07, life=30, radius=.1)
+    fin(DARKB27, b, rs, (0, 1, 2))
+
+    # Aura Farm (Aura Sphere): pose +100 AURA - pose +500 - the giant aura ball - +10000
+    b, rs = pk(AURA27, {1: (fxart.aura_tag(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.aura_tag(n="+500"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(170, 120, 255), rgb(255, 240, 255), .45, 12, .2, up=.06, life=18)
+    burst(b, rs, 3, rgb(150, 110, 255), rgb(255, 255, 255), .6, 28, .42, life=24, radius=.6)
+    fin(AURA27, b, rs, (0, 1, 2, 3))
+    b, rs = pk(AURAB27, {1: (fxart.aura_tag(n="+10000"), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.aura_orb(), 1.4, 4, {})})
+    fin(AURAB27, b, rs, (1, 2))
+
+    # Rush Hour (Dragon Rush): the subway pulls in - doors open - the whole rush hour stampedes over the foe
+    b, rs = pk(RUSH27, {1: (fxart.subway_car(), 1.8, 4, {}), 2: (fxart.subway_car(doors_open=True), 1.8, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(200, 200, 190), n=4, life=16, scl=.3, up=.05)
+    fin(RUSH27, b, rs, (0, 1, 2))
+    b, rs = pk(RUSHB27, {1: (flipx(fxart.subway_car()), 1.8, 4, {}), 2: (flipx(fxart.subway_car(doors_open=True)), 1.8, 4, {})})
+    fin(RUSHB27, b, rs, (1, 2))
+    b, rs = pk(RUSHC27, {1: (fxart.commuter(), .7, 4, {}), 2: (fxart.commuter(tint=1), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .28, life=10)
+    fin(RUSHC27, b, rs, (0, 1, 2))
+    SET10_82 += [SEND27, SENDB27, POLL27, POLLB27, POLLC27, DARK27, DARKB27, AURA27, AURAB27, RUSH27, RUSHB27, RUSHC27]
+
+
+    # ---- set 27, batch 2 ----------------------------------------------------------------------------------
+    # RIP Shirt (Memento): they sway - sway - drop. The airbrushed R.I.P. tee lands on the foe. Tears.
+    b, rs = pk(RIP27, {1: (fxart.rip_tee(), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 190, 255), rgb(220, 240, 255), .22, 1, .02, gravity=.02, life=14, radius=.05)
+    fin(RIP27, b, rs, (0, 1))
+
+    # Fresh Fit (Refresh): covered in lint - roll - roll - a spritz of cologne. Fresh.
+    b, rs = pk(FRESH27, {1: (fxart.lint_roller(), .8, 4, {}), 2: (fxart.amber_cologne(), .5, 4, {})}, alpha=fxart.lint_ball())
+    prop(b, rs, 0, tex=0, clr=rgb(120, 110, 100), clr_anm=(rgb(120, 110, 100), rgb(120, 110, 100)), scl=.55, life=4)
+    fin(FRESH27, b, rs, (0, 1, 2))
+    b, rs = pk(FRESHB27, {}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .5, 12, .22, up=.06, life=20, radius=.5)
+    fin(FRESHB27, b, rs, (0,))
+    b, rs = pk(FRESHC27, {}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(250, 230, 190), n=5, life=18, scl=.26, up=.05)
+    fin(FRESHC27, b, rs, (0,))
+
+    # Hotfoot (Blaze Kick): slides and socks on baking asphalt - hop, ow - hop, OW - the slide catches - kicked
+    b, rs = pk(HOT27, {1: (fxart.hot_asphalt(), 1.3, 4, {}), 2: (fxart.hood_slide(lit=True), .7, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(255, 120, 20), rgb(255, 240, 120), .32, 12, .26, up=.14, life=18)
+    fin(HOT27, b, rs, (0, 1, 2))
+
+    # Space Jam (Meteor Mash): a hoop over the foe - a twinkle up in the sky - a bigger one - the ball from orbit. SWISH.
+    b, rs = pk(SPACE27, {1: (fxart.meteor_ball(), 1.1, 4, {}), 2: (flipx(fxart.meteor_ball()), 1.1, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .5, 6, .1, life=14, radius=.2)
+    burst(b, rs, 3, rgb(255, 160, 40), rgb(255, 250, 200), .6, 24, .4, up=.16, life=22)
+    fin(SPACE27, b, rs, (0, 1, 2, 3))
+    b, rs = pk(SPACEB27, {1: (fxart.street_hoop(), 1.0, 4, {})})
+    fin(SPACEB27, b, rs, (1,))
+
+    # Dirty Water (Muddy Water): waiting at the bus stop - a car through the puddle - another - then the bus
+    b, rs = pk(DIRT27, {1: (fxart.curb_car(), 1.4, 4, {}), 2: (fxart.city_bus(), 2.0, 4, {})}, alpha=fxart.mud_splash())
+    burst(b, rs, 0, rgb(120, 95, 50), rgb(170, 140, 90), .4, 14, .3, up=.3, gravity=.03, life=20)
+    burst(b, rs, 3, rgb(110, 85, 45), rgb(170, 140, 90), .6, 30, .42, up=.44, gravity=.03, life=26, radius=.6)
+    fin(DIRT27, b, rs, (0, 1, 2, 3))
+    b, rs = pk(DIRTB27, {1: (fxart.bus_stop(), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.mud_splash())
+    prop(b, rs, 0, tex=0, clr=rgb(90, 75, 50), clr_anm=(rgb(90, 75, 50), rgb(90, 75, 50)), scl=.9, life=4)
+    fin(DIRTB27, b, rs, (0, 1))
+    SET10_82 += [RIP27, FRESH27, FRESHB27, FRESHC27, HOT27, SPACE27, SPACEB27, DIRT27, DIRTB27]
+
+
+    # ---- set 27, batch 3 ----------------------------------------------------------------------------------
+    # Cut Off (Heal Block): the foe leans for the drink - it slides away - again - "CUT OFF."
+    b, rs = pk(CUT27, {1: (fxart.bar_top(), 1.6, 4, {}), 2: (fxart.liquor_glass(), .5, 4, {})})
+    fin(CUT27, b, rs, (1, 2))
+    b, rs = pk(CUTB27, {1: (fxart.line_bubble(["CUT OFF."]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(CUTB27, b, rs, (1,))
+
+    # Time Out (Punishment): the dunce cap - the egg timer ticks - BRRRING
+    b, rs = pk(TIME27, {1: (fxart.dunce_cap(), .7, 4, {"colors": 30}), 2: (fxart.egg_timer(), .45, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(TIME27, b, rs, (0, 1, 2))
+    b, rs = pk(TIMEB27, {1: (fxart.egg_timer(ring=True), .45, 4, {})})
+    fin(TIMEB27, b, rs, (1,))
+
+    # Swap Bags (Switcheroo): two red duffels - swap - swap - open: they've got the cash, the foe's got the laundry
+    b, rs = pk(SWAP27, {1: (fxart.gym_duffel(), .8, 4, {}), 2: (fxart.gym_duffel(open_="cash"), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 160), rgb(255, 255, 255), .45, 10, .2, up=.06, life=16)
+    fin(SWAP27, b, rs, (0, 1, 2))
+    b, rs = pk(SWAPB27, {1: (fxart.gym_duffel(open_="laundry"), .8, 4, {})})
+    fin(SWAPB27, b, rs, (1,))
+
+    # Yap Session (Chatter): AND THEN - GIRL... - ANYWAY SO LIKE - bubbles piling up till the foe's head spins
+    b, rs = pk(YAP27, {1: (fxart.line_bubble(["AND THEN"]), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.line_bubble(["GIRL..."]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(YAP27, b, rs, (1, 2))
+    b, rs = pk(YAPB27, {1: (fxart.line_bubble(["ANYWAY", "SO LIKE"]), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.line_bubble(["LISTEN."]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(YAPB27, b, rs, (1, 2))
+    b, rs = pk(YAPC27, {1: (fxart.line_bubble(["WAIT WAIT"]), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.line_bubble(["NO BUT"]), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 120), rgb(255, 255, 255), .4, 5, .12, life=16, radius=.4)
+    fin(YAPC27, b, rs, (0, 1, 2))
+
+    # Moonwalk (Lunar Dance): fedora on - the dance floor lights up under every step - backwards - and gone
+    b, rs = pk(MOON27, {1: (fxart.lightup_tile(), .8, 4, {}), 2: (fxart.lightup_tile(lit=True), .8, 4, {})})
+    fin(MOON27, b, rs, (1, 2))
+    b, rs = pk(MOONB27, {1: (fxart.black_fedora(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 220), rgb(255, 255, 255), .45, 10, .2, up=.06, life=18)
+    fin(MOONB27, b, rs, (0, 1))
+    SET10_82 += [CUT27, CUTB27, TIME27, TIMEB27, SWAP27, SWAPB27, YAP27, YAPB27, YAPC27, MOON27, MOONB27]
+
+
+    # ---- set 27, batch 4 ----------------------------------------------------------------------------------
+    # Back Rub (Acupressure): the back scratcher - scratch scratch - ahh - then the stat slot machine spins: ATK!
+    b, rs = pk(RUB27, {1: (fxart.back_scratcher(), .8, 4, {}), 2: (flipx(fxart.back_scratcher()), .8, 4, {})})
+    fin(RUB27, b, rs, (1, 2))
+    b, rs = pk(RUBB27, {1: (fxart.stat_slot(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.stat_slot(stat="ATK"), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(RUBB27, b, rs, (1, 2))
+    b, rs = pk(RUBC27, {1: (fxart.stat_slot(stat="DEF"), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.stat_slot(stat="SPD"), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 255), .5, 14, .26, up=.06, life=18)
+    fin(RUBC27, b, rs, (0, 1, 2))
+
+    # Flu Shot (Needle Arm): swab - the needle comes in - flinch - again - flinch - JAB
+    b, rs = pk(FLU27, {1: (fxart.flu_syringe(), .9, 4, {}), 2: (flipx(fxart.flu_syringe()), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .45, 10, .24, life=10)
+    fin(FLU27, b, rs, (0, 1, 2))
+    b, rs = pk(FLUB27, {1: (fxart.alcohol_swab(), .45, 4, {})})
+    fin(FLUB27, b, rs, (1,))
+
+    # Bad Wind (Ominous Wind): the elevator doors close on the foe - ding - green seeping out the seam - doors open
+    b, rs = pk(WIND27, {1: (fxart.elevator_door(), 1.0, 4, {}), 2: (flipx(fxart.elevator_door()), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(150, 200, 60), n=4, life=24, scl=.3, up=.05)
+    fin(WIND27, b, rs, (0, 1, 2))
+    b, rs = pk(WINDB27, {}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 180, 255), rgb(255, 255, 255), .4, 10, .16, up=.08, life=20, radius=.5)
+    fin(WINDB27, b, rs, (0,))
+
+    # Tat Gun (Twineedle): bzzzzt - a MOM heart tattoo on the foe (replays per hit: short)
+    b, rs = pk(TAT27, {1: (fxart.tattoo_gun(), .7, 4, {}), 2: (flipx(fxart.tattoo_gun()), .7, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(30, 40, 90), rgb(60, 70, 140), .2, 4, .1, gravity=.01, life=12)
+    fin(TAT27, b, rs, (0, 1, 2))
+    b, rs = pk(TATB27, {1: (fxart.mom_tattoo(), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(TATB27, b, rs, (1,))
+
+    # Cut Line (Me First): NOW SERVING 48 - the foe's got 49 - ding, 49 - and they cut right in front
+    b, rs = pk(DELI27, {1: (fxart.deli_sign(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.deli_sign(n="49"), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(DELI27, b, rs, (1, 2))
+    b, rs = pk(DELIB27, {1: (fxart.deli_ticket(), ONE_TO_ONE / 2, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 12, .28, life=10)
+    fin(DELIB27, b, rs, (0, 1))
+    SET10_82 += [RUB27, RUBB27, RUBC27, FLU27, FLUB27, WIND27, WINDB27, TAT27, TATB27, DELI27, DELIB27]
+
+
+    # ---- set 27, batch 5 ----------------------------------------------------------------------------------
+    # Glow Up (Tail Glow): the bonnet comes off - edge gel - swoop, swoop, SWOOP - they GLOW
+    b, rs = pk(GLOW27, {1: (fxart.satin_bonnet(), .7, 4, {}), 2: (fxart.edge_gel(), .45, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 160), rgb(255, 255, 255), .35, 4, .1, life=12, radius=.2)
+    fin(GLOW27, b, rs, (0, 1, 2))
+    b, rs = pk(GLOWB27, {1: (fxart.edge_brush(), .45, 4, {}), 2: (flipx(fxart.edge_brush()), .45, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 220, 90), rgb(255, 255, 255), .6, 24, .34, up=.06, life=24, radius=.6)
+    fin(GLOWB27, b, rs, (0, 1, 2))
+
+    # Stomach Bug (Gastro Acid): a gas station hot dog - gulp - rumble - RUMBLE - OUT OF ORDER
+    b, rs = pk(DOG27, {1: (fxart.gas_hot_dog(), .6, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(150, 200, 60), n=4, life=18, scl=.26, up=.05)
+    fin(DOG27, b, rs, (0, 1))
+    b, rs = pk(DOGB27, {1: (fxart.out_of_order(), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(DOGB27, b, rs, (1,))
+
+    # Rabbit Foot (Lucky Chant): rub the rabbit foot - scratch - scratch - scratch: WIN $2
+    b, rs = pk(LUCK27, {1: (fxart.rabbit_foot(), .5, 4, {}), 2: (fxart.scratch_ticket(), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(120, 240, 120), rgb(255, 255, 255), .35, 5, .12, life=14, radius=.3)
+    fin(LUCK27, b, rs, (0, 1, 2))
+    b, rs = pk(LUCKB27, {1: (fxart.scratch_ticket(stage=1), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.scratch_ticket(stage=2), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(LUCKB27, b, rs, (1, 2))
+    b, rs = pk(LUCKC27, {1: (fxart.scratch_ticket(stage=3), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 80), rgb(255, 255, 255), .45, 14, .24, up=.08, life=20, radius=.5)
+    fin(LUCKC27, b, rs, (0, 1))
+
+    # Stiff Arm (Force Palm): the foe charges - stiff-armed - charges - stiff-armed - the Heisman. Zapped stiff.
+    b, rs = pk(STIFF27, {1: (fxart.heisman_statue(), 1.0, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 80), rgb(255, 255, 255), .5, 12, .28, life=12)
+    fin(STIFF27, b, rs, (0, 1))
+
+    # Hype Howl (Howl): "AWOOO!" - the stands, quiet... - then the whole crowd howls back
+    b, rs = pk(HOWL27, {1: (fxart.howl_crowd(), 1.3, 4, {}), 2: (fxart.howl_crowd(howl=True), 1.3, 4, {})})
+    fin(HOWL27, b, rs, (1, 2))
+    b, rs = pk(HOWLB27, {1: (fxart.line_bubble(["AWOOO!"]), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 80), rgb(255, 255, 220), .5, 16, .26, up=.1, life=20, radius=.5)
+    fin(HOWLB27, b, rs, (0, 1))
+    SET10_82 += [GLOW27, GLOWB27, DOG27, DOGB27, LUCK27, LUCKB27, LUCKC27, STIFF27, HOWL27, HOWLB27]
+
+
+    # ---- set 27, batch 6 ----------------------------------------------------------------------------------
+    # Namaste (Meditate): the yoga mat - stretch - deeper - deeper - CRACK! - ...they feel great actually
+    b, rs = pk(YOGA27, {1: (fxart.yoga_mat(), 1.2, 4, {}),
+                        2: (fxart.burst_sign(["CRACK!"], fill=(255, 250, 230, 255), text=(40, 40, 40, 255)), SIGN_SCALE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 140, 90), rgb(255, 255, 220), .45, 14, .24, up=.08, life=20, radius=.5)
+    fin(YOGA27, b, rs, (0, 1, 2))
+
+    # Lock Up (Imprison): the corner store gate comes down - rattle - rattle - SLAM - padlock click
+    b, rs = pk(GATE27, {1: (fxart.roll_gate(), 1.4, 4, {}), 2: (fxart.big_padlock(), .5, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(180, 170, 150), n=5, life=16, scl=.3, up=.04)
+    fin(GATE27, b, rs, (0, 1, 2))
+
+    # Look at Me (Follow Me): the marquee sign blinking LOOK over them - the foe glances - glances - can't look away
+    b, rs = pk(LOOK27, {1: (fxart.marquee_down(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.marquee_down(phase=1), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 120), rgb(255, 255, 255), .4, 5, .12, life=16, radius=.4)
+    fin(LOOK27, b, rs, (0, 1, 2))
+
+    # Snowball (Ice Ball): packed - thrown - SPLAT (replays every turn: short)
+    b, rs = pk(SNOW27, {1: (fxart.snowball(), .6, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(240, 248, 255), rgb(255, 255, 255), .32, 14, .26, up=.12, gravity=.012, life=18)
+    fin(SNOW27, b, rs, (0, 1))
+
+    # Hoverboard (Magnet Rise): on the hoverboard - wobble - wobble - then it actually lifts off
+    b, rs = pk(HOVER27, {1: (fxart.hoverboard(), .9, 4, {}), 2: (fxart.hoverboard(glow=True), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(120, 220, 255), rgb(255, 255, 255), .4, 8, .14, up=-.04, life=16, radius=.4)
+    fin(HOVER27, b, rs, (0, 1, 2))
+    SET10_82 += [YOGA27, GATE27, LOOK27, SNOW27, HOVER27]
+
+
+    # ---- set 28, batch 1 (INSANE) -------------------------------------------------------------------------
+    # High Beams (Luster Purge): headlights in the dark - blink - blink - FULL BRIGHTS. "CUT YOUR BRIGHTS!"
+    b, rs = pk(BEAM28, {1: (fxart.headlights(), 1.0, 4, {}), 2: (fxart.headlights(on=False), 1.0, 4, {})}, alpha=fxart.brights_cone())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 250, 210), clr_anm=(rgb(255, 250, 210), rgb(255, 250, 210)), scl=1.1, life=4, alpha=(24, 24, 0))
+    fin(BEAM28, b, rs, (0, 1, 2))
+    b, rs = pk(BEAMB28, {1: (fxart.line_bubble(["CUT YOUR", "BRIGHTS!"]), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 230), rgb(255, 255, 255), .6, 20, .36, life=18, radius=.6)
+    fin(BEAMB28, b, rs, (0, 1))
+
+    # Fog Machine (Mist Ball): the club fogger - pfft - pfft - then it floods the screen, lasers cutting through
+    b, rs = pk(FOG28, {1: (fxart.club_fogger(), .9, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(220, 220, 235), n=4, life=26, scl=.4, up=.03)
+    fin(FOG28, b, rs, (0, 1))
+    b, rs = pk(FOGB28, {}, alpha=fxart.laser_line())
+    prop(b, rs, 0, tex=0, clr=rgb(80, 255, 120), clr_anm=(rgb(80, 255, 120), rgb(80, 255, 120)), scl=1.6, life=4)
+    prop(b, rs, 1, tex=0, clr=rgb(255, 60, 90), clr_anm=(rgb(255, 60, 90), rgb(255, 60, 90)), scl=1.6, life=4)
+    fin(FOGB28, b, rs, (0, 1))
+
+    # Order Up (Attack Order): ORDER PLACED - one rider - two - then every delivery driver in the city - DELIVERED
+    b, rs = pk(ORDER28, {1: (fxart.order_phone(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.order_phone(done=True), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 14, .3, life=12)
+    fin(ORDER28, b, rs, (0, 1, 2))
+    b, rs = pk(ORDERB28, {1: (fxart.delivery_rider(), .8, 4, {}), 2: (fxart.delivery_rider(tint=1), .8, 4, {})})
+    fin(ORDERB28, b, rs, (1, 2))
+    b, rs = pk(ORDERC28, {1: (flipx(fxart.delivery_rider(tint=2)), .8, 4, {}), 2: (flipx(fxart.delivery_rider()), .8, 4, {})})
+    fin(ORDERC28, b, rs, (1, 2))
+
+    # Sag Check (Gravity): jeans on both of them - sag - SAG - round the knees - then everything sinks
+    b, rs = pk(SAG28, {1: (fxart.sag_jeans(), .8, 4, {}), 2: (fxart.sag_jeans(stage=1), .8, 4, {})})
+    fin(SAG28, b, rs, (1, 2))
+    b, rs = pk(SAGB28, {1: (fxart.sag_jeans(stage=2), .8, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 160, 140), n=5, life=16, scl=.3, up=.03)
+    fin(SAGB28, b, rs, (0, 1))
+
+    # Last Wish (Healing Wish): night - a dandelion - make a wish - blow - BLOW - they float off with the seeds
+    b, rs = pk(WISH28, {1: (fxart.dandelion(), 1.3, 4, {}), 2: (fxart.dandelion(stage=1), 1.3, 4, {})}, alpha=fxart.dandelion_seed())
+    burst(b, rs, 0, rgb(250, 250, 255), rgb(255, 255, 255), .32, 10, .12, up=.08, gravity=-.004, life=40, radius=.4)
+    fin(WISH28, b, rs, (0, 1, 2))
+    b, rs = pk(WISHB28, {1: (fxart.dandelion(stage=2), 1.3, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(140, 255, 160), rgb(255, 255, 255), .45, 16, .2, up=.1, life=26, radius=.6)
+    fin(WISHB28, b, rs, (0, 1))
+    SET10_82 += [BEAM28, BEAMB28, FOG28, FOGB28, ORDER28, ORDERB28, ORDERC28, SAG28, SAGB28, WISH28, WISHB28]
+
+
+    # ---- set 28, batch 2 ----------------------------------------------------------------------------------
+    # Mirror Tint (Mirror Coat): squeegee - squeegee - mirror tint. The foe's blast bounces right back.
+    b, rs = pk(TINT28, {1: (fxart.tint_glass(), 1.1, 4, {}), 2: (fxart.tint_glass(tinted=True), 1.1, 4, {})}, alpha=fxart.soft_puff())
+    prop(b, rs, 0, tex=0, clr=rgb(200, 90, 255), clr_anm=(rgb(200, 90, 255), rgb(200, 90, 255)), scl=.5, life=4)
+    fin(TINT28, b, rs, (0, 1, 2))
+    b, rs = pk(TINTB28, {1: (fxart.tint_squeegee(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(230, 200, 255), rgb(255, 255, 255), .5, 16, .3, life=14)
+    fin(TINTB28, b, rs, (0, 1))
+
+    # Jump Em (Beat Up): one of the crew pulls up and swings (replays per teammate: short)
+    b, rs = pk(CREW28, {1: (fxart.crew_member(), .9, 4, {}), 2: (fxart.crew_member(tint=1), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(CREW28, b, rs, (0, 1, 2))
+
+    # Quick Draw (Vacuum Wave): cowboy hat - the town clock at 11:59 - tick - tick - 12:00 - BANG, first
+    b, rs = pk(DRAW28, {1: (fxart.noon_clock(), 1.0, 4, {}), 2: (fxart.noon_clock(noon=True), 1.0, 4, {})})
+    fin(DRAW28, b, rs, (1, 2))
+    b, rs = pk(DRAWB28, {1: (fxart.cowboy_hat(), .55, 4, {})}, alpha=fxart.air_ring())
+    prop(b, rs, 0, tex=0, clr=rgb(230, 245, 255), clr_anm=(rgb(230, 245, 255), rgb(230, 245, 255)), scl=.9, life=4)
+    burst(b, rs, 3, rgb(230, 245, 255), rgb(255, 255, 255), .7, 6, .2, life=12, radius=.2)
+    fin(DRAWB28, b, rs, (0, 1, 3))
+
+    # Bad Vibes (Psywave): VIBE CHECK - GOOD - OK - BAD - bad vibes radiate off the foe
+    b, rs = pk(VIBE28, {1: (fxart.vibe_meter(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.vibe_meter(level=1), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(VIBE28, b, rs, (1, 2))
+    b, rs = pk(VIBEB28, {1: (fxart.vibe_meter(level=2), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.air_ring())
+    burst(b, rs, 0, rgb(190, 80, 230), rgb(255, 200, 255), .6, 6, .18, life=18, radius=.3)
+    fin(VIBEB28, b, rs, (0, 1))
+
+    # Hood Power (Nature Power): the bodega cat - unimpressed - swat - swat - SWAT
+    b, rs = pk(CAT28, {1: (fxart.bodega_cat(), .8, 4, {}), 2: (fxart.bodega_cat(swat=True), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .5, 10, .26, life=10)
+    fin(CAT28, b, rs, (0, 1, 2))
+    b, rs = pk(CATB28, {1: (flipx(fxart.bodega_cat()), .8, 4, {}), 2: (flipx(fxart.bodega_cat(swat=True)), .8, 4, {})})
+    fin(CATB28, b, rs, (1, 2))
+    SET10_82 += [TINT28, TINTB28, CREW28, DRAW28, DRAWB28, VIBE28, VIBEB28, CAT28, CATB28]
+
+
+    # ---- set 28, batch 3 ----------------------------------------------------------------------------------
+    # Tag In (Assist): the ring corner - TAG - the luchador partner off the top rope, flying elbow
+    b, rs = pk(TAG28, {1: (fxart.ring_corner(), 1.1, 4, {}), 2: (flipx(fxart.ring_corner()), 1.1, 4, {})})
+    fin(TAG28, b, rs, (1, 2))
+    b, rs = pk(TAGB28, {1: (fxart.luchador(), .9, 4, {}), 2: (flipx(fxart.luchador()), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 250, 200), rgb(255, 255, 255), .55, 14, .3, life=12)
+    fin(TAGB28, b, rs, (0, 1, 2))
+
+    # Bounce Back (Magic Coat): a bouncy castle - boing, boing - the foe's glob bounces right off it, back at them
+    b, rs = pk(BOUNCE28, {1: (fxart.bouncy_castle(), 1.3, 4, {})}, alpha=fxart.soft_puff())
+    prop(b, rs, 0, tex=0, clr=rgb(160, 80, 220), clr_anm=(rgb(160, 80, 220), rgb(160, 80, 220)), scl=.45, life=4)
+    burst(b, rs, 2, rgb(200, 140, 255), rgb(255, 230, 255), .35, 10, .24, life=14)
+    fin(BOUNCE28, b, rs, (0, 1, 2))
+
+    # Hold Grudge (Grudge): the foe's photo on the dartboard - thunk - thunk - BULLSEYE
+    b, rs = pk(GRUDGE28, {1: (fxart.grudge_dartboard(), 1.0, 4, {}), 2: (fxart.throw_dart(), .45, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 160), rgb(255, 255, 255), .45, 10, .24, life=12)
+    fin(GRUDGE28, b, rs, (0, 1, 2))
+    b, rs = pk(GRUDGEB28, {1: (flipx(fxart.throw_dart()), .45, 4, {})})
+    fin(GRUDGEB28, b, rs, (1,))
+
+    # Tickle Fight (Tickle): the feather duster - tickle tickle - the foe cracks - HAHAHA
+    b, rs = pk(TICKLE28, {1: (fxart.feather_duster(), .8, 4, {}), 2: (flipx(fxart.feather_duster()), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 180, 220), rgb(255, 255, 255), .4, 6, .16, up=.06, life=14)
+    fin(TICKLE28, b, rs, (0, 1, 2))
+    b, rs = pk(TICKLEB28, {1: (fxart.line_bubble(["HAHAHA"]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(TICKLEB28, b, rs, (1,))
+
+    # Galaxy Rag (Cosmic Power): the galaxy durag goes on - the stars come off it and swirl round them
+    b, rs = pk(GAL28, {1: (fxart.galaxy_durag(), .6, 4, {}), 2: (flipx(fxart.galaxy_durag()), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 230), rgb(255, 255, 255), .4, 3, .06, life=16, radius=.2)
+    burst(b, rs, 3, rgb(200, 150, 255), rgb(255, 255, 255), .55, 20, .3, up=.06, life=22, radius=.6)
+    fin(GAL28, b, rs, (0, 1, 2, 3))
+    SET10_82 += [TAG28, TAGB28, BOUNCE28, GRUDGE28, GRUDGEB28, TICKLE28, TICKLEB28, GAL28]
+
+
+    # ---- set 28, batch 4 ----------------------------------------------------------------------------------
+    # Ice Pick (Icicle Spear): chip - chip - ice flying (replays per hit: short)
+    b, rs = pk(PICK28, {1: (fxart.bar_ice_pick(), .7, 4, {}), 2: (flipx(fxart.bar_ice_pick()), .7, 4, {})}, alpha=fxart.ice_shard())
+    burst(b, rs, 0, rgb(200, 235, 255), rgb(255, 255, 255), .3, 10, .26, up=.1, gravity=.012, life=16, spin=0x0800)
+    fin(PICK28, b, rs, (0, 1, 2))
+
+    # Blocked (Block): the foe texts - "hey" - "hey??" - BLOCKED
+    b, rs = pk(DM28, {1: (fxart.dm_phone(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.dm_phone(stage=1), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(DM28, b, rs, (1, 2))
+    b, rs = pk(DMB28, {1: (fxart.dm_phone(stage=2), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 120), rgb(255, 255, 255), .45, 10, .24, life=12)
+    fin(DMB28, b, rs, (0, 1))
+
+    # Rat Tail (Poison Tail): a subway rat scurries up - stops - sniffs - WHIP - and it's gone
+    b, rs = pk(RAT28, {1: (fxart.subway_rat(), 1.0, 4, {}), 2: (fxart.subway_rat(whip=True), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(170, 70, 200), n=5, life=20, scl=.28, up=.06)
+    fin(RAT28, b, rs, (0, 1, 2))
+    b, rs = pk(RATB28, {1: (flipx(fxart.subway_rat()), 1.0, 4, {}), 2: (flipx(fxart.subway_rat(whip=True)), 1.0, 4, {})})
+    fin(RATB28, b, rs, (1, 2))
+
+    # Kickback (Metal Burst): they take it - take it - then pay it all back WITH INTEREST
+    b, rs = pk(KICK28, {1: (fxart.interest_envelope(), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(130, 220, 110), rgb(255, 255, 220), .5, 18, .32, up=.08, life=18)
+    fin(KICK28, b, rs, (0, 1))
+
+    # Pass It On (Psycho Shift): a hot potato - hot hot hot - tossed - tossed back - tossed - stuck with it
+    b, rs = pk(POT28, {1: (fxart.hot_potato(), .6, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(250, 250, 255), n=3, life=16, scl=.22, up=.07)
+    fin(POT28, b, rs, (0, 1))
+    SET10_82 += [PICK28, DM28, DMB28, RAT28, RATB28, KICK28, POT28]
+
+
+    # ---- set 28, batch 5 ----------------------------------------------------------------------------------
+    # Flip Script (Power Trick): the script reads ATK over DEF - flip - flip - FLIP: DEF over ATK
+    b, rs = pk(FLIP28, {1: (fxart.script_page(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.script_page(flipped=True), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 160), rgb(255, 255, 255), .45, 12, .24, life=14)
+    fin(FLIP28, b, rs, (0, 1, 2))
+
+    # Cosplay (Role Play): the costume bag - rip - a cheap rubber mask of the foe - pose - "...REALLY?"
+    b, rs = pk(COS28, {1: (fxart.costume_bag(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.cheap_mask(), .6, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(250, 160, 60), n=5, life=16, scl=.3, up=.06)
+    fin(COS28, b, rs, (0, 1, 2))
+    b, rs = pk(COSB28, {1: (fxart.line_bubble(["...REALLY?"]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(COSB28, b, rs, (1,))
+
+    # Guard Swarm (Defend Order): mall cops on segways roll up - one - two - then a whole ring of them circling
+    b, rs = pk(COP28, {1: (fxart.mall_cop(), .7, 4, {}), 2: (flipx(fxart.mall_cop()), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(150, 200, 255), rgb(255, 255, 255), .45, 12, .2, up=.06, life=18, radius=.5)
+    fin(COP28, b, rs, (0, 1, 2))
+
+    # Honey Heal (Heal Order): tea - the honey bear - squeeze - squeeze - sip. Ahh.
+    b, rs = pk(HONEY28, {1: (fxart.honey_bear(), .6, 4, {}), 2: (fxart.tea_mug(), .6, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(240, 170, 30), rgb(255, 220, 120), .22, 2, .02, gravity=.02, life=12, radius=.05)
+    fin(HONEY28, b, rs, (0, 1, 2))
+    b, rs = pk(HONEYB28, {}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(140, 255, 160), rgb(255, 255, 255), .45, 14, .18, up=.1, life=24, radius=.6)
+    fin(HONEYB28, b, rs, (0,))
+
+    # Edge Up (Sharpen): knife on the steel - shing - shing - SHIIING - glint
+    b, rs = pk(EDGE28, {1: (fxart.chef_knife(), .8, 4, {}), 2: (fxart.honing_steel(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 120), rgb(255, 255, 255), .35, 8, .22, up=.06, gravity=.01, life=12)
+    fin(EDGE28, b, rs, (0, 1, 2))
+    SET10_82 += [FLIP28, COS28, COSB28, COP28, HONEY28, HONEYB28, EDGE28]
+
+
+    # ---- set 28, batch 6 ----------------------------------------------------------------------------------
+    # Blend In (Camouflage): hi-vis vest on, a clipboard - they walk right up past the foe - "YOU GOOD."
+    b, rs = pk(VIS28, {1: (fxart.hivis_vest(), .7, 4, {}), 2: (fxart.work_clipboard(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(220, 255, 80), rgb(255, 255, 255), .4, 10, .18, life=14)
+    fin(VIS28, b, rs, (0, 1, 2))
+    b, rs = pk(VISB28, {1: (fxart.line_bubble(["YOU GOOD."]), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(VISB28, b, rs, (1,))
+
+    # Night Vision (Miracle Eye): the goggles flip down - click - everything goes green - nowhere to hide
+    b, rs = pk(NV28, {1: (fxart.nv_goggles(), .6, 4, {})}, alpha=fxart.air_ring())
+    burst(b, rs, 0, rgb(80, 255, 110), rgb(220, 255, 220), .7, 4, .14, life=16, radius=.2)
+    fin(NV28, b, rs, (0, 1))
+
+    # Paranoia (Worry Seed): 3 a.m. thoughts piling up over the foe - DID I LOCK IT? - DID THEY SEE THAT? - 3:00 AM
+    b, rs = pk(THINK28, {1: (fxart.thought_cloud(lines=("DID I", "LOCK IT?")), ONE_TO_ONE, 4, {"colors": 30}),
+                         2: (fxart.thought_cloud(lines=("DID THEY", "SEE THAT?")), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(THINK28, b, rs, (1, 2))
+    b, rs = pk(THINKB28, {1: (fxart.thought_cloud(lines=("3:00 AM",)), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 210, 255), rgb(255, 255, 255), .4, 6, .14, life=14)
+    fin(THINKB28, b, rs, (0, 1))
+
+    # Fresh Scent (Aromatherapy): stink lines - a pine tree freshener - another - a whole forest of them. Fresh.
+    b, rs = pk(TREE28, {1: (fxart.freshener_tree(), .5, 4, {}), 2: (fxart.freshener_tree(col=1), .5, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(150, 190, 60), n=3, life=16, scl=.24, up=.06)
+    fin(TREE28, b, rs, (0, 1, 2))
+    b, rs = pk(TREEB28, {1: (fxart.freshener_tree(col=2), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(140, 255, 160), rgb(255, 255, 255), .45, 14, .18, up=.08, life=22, radius=.6)
+    fin(TREEB28, b, rs, (0, 1))
+
+    # Mood Swap (Heart Swap): a red mood ring over them, a blue one over the foe - they swap
+    b, rs = pk(MOOD28, {1: (fxart.mood_ring(), .6, 4, {}), 2: (fxart.mood_ring(col=1), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(220, 160, 255), rgb(255, 255, 255), .4, 10, .2, life=14)
+    fin(MOOD28, b, rs, (0, 1, 2))
+    SET10_82 += [VIS28, VISB28, NV28, THINK28, THINKB28, TREE28, TREEB28, MOOD28]
+
+
+    # ---- set 29, batch 1 ----------------------------------------------------------------------------------
+    # Blow Dryer (Razor Wind): plug in - low - HIGH (turn 1) / razor gusts across the field (turn 2)
+    b, rs = pk(DRY29, {1: (fxart.blow_dryer(), .8, 4, {}), 2: (flipx(fxart.blow_dryer()), .8, 4, {})}, alpha=fxart.gust_slash())
+    prop(b, rs, 0, tex=0, clr=rgb(220, 240, 255), clr_anm=(rgb(220, 240, 255), rgb(220, 240, 255)), scl=.7, life=4)
+    burst(b, rs, 3, rgb(200, 230, 255), rgb(255, 255, 255), .5, 12, .3, life=14)
+    fin(DRY29, b, rs, (0, 1, 2, 3))
+
+    # Snow Globe (Weather Ball): shake - shake - the weather inside goes wild - thrown - SMASH
+    b, rs = pk(GLOBE29, {1: (fxart.hood_snow_globe(), 1.0, 4, {}), 2: (fxart.hood_snow_globe(storm=True), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    burst(b, rs, 0, rgb(245, 250, 255), rgb(255, 255, 255), .3, 22, .34, up=.12, gravity=.008, life=26)
+    fin(GLOBE29, b, rs, (0, 1, 2))
+
+    # Spinners (Mirror Shot): the spinner rim keeps spinning - glint - glint - the sun hits it - GLARE
+    b, rs = pk(RIM29, {1: (fxart.spinner_rim(), .8, 4, {}), 2: (fxart.spinner_rim(angle=36), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 255, 230), rgb(255, 255, 255), .6, 6, .12, life=12, radius=.2)
+    fin(RIM29, b, rs, (0, 1, 2))
+    b, rs = pk(RIMB29, {}, alpha=fxart.soft_puff())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 250, 210), clr_anm=(rgb(255, 250, 210), rgb(255, 250, 210)), scl=.6, life=4, alpha=(26, 26, 0))
+    fin(RIMB29, b, rs, (0,))
+
+    # Throw Shade (Psycho Cut): a lampshade - on the head - then THROWN, spinning, and it slices the foe
+    b, rs = pk(SHADE29, {1: (fxart.lampshade(), .7, 4, {}), 2: (flipx(fxart.lampshade()), .7, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 220), rgb(255, 230, 250), .55, 14, .3, life=14)
+    fin(SHADE29, b, rs, (0, 1, 2))
+
+    # Burned CD (Copycat): MIX COPY - into the boombox - skip - skip - and it plays the copy
+    b, rs = pk(CD29, {1: (fxart.burned_cd(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.cd_boombox(), .9, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(200, 230, 255), rgb(255, 240, 255), .5, 16, .28, life=16)
+    fin(CD29, b, rs, (0, 1, 2))
+    SET10_82 += [DRY29, GLOBE29, RIM29, RIMB29, SHADE29, CD29]
+
+
+    # ---- set 29, batch 2 ----------------------------------------------------------------------------------
+    # Face Swap (Transform): the filter - SCAN - SWAP - DONE
+    b, rs = pk(SWAP29, {1: (fxart.faceswap_phone(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.faceswap_phone(stage=1), ONE_TO_ONE, 4, {"colors": 30})})
+    fin(SWAP29, b, rs, (1, 2))
+    b, rs = pk(SWAPB29, {1: (fxart.faceswap_phone(stage=2), ONE_TO_ONE, 4, {"colors": 30})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(160, 255, 220), rgb(255, 255, 255), .5, 16, .26, life=18, radius=.5)
+    fin(SWAPB29, b, rs, (0, 1))
+
+    # Caricature (Sketch): the easel - sketch sketch - a big-head caricature of the foe
+    b, rs = pk(EASEL29, {1: (fxart.art_easel(), 1.0, 4, {}), 2: (fxart.art_easel(stage=1), 1.0, 4, {})})
+    fin(EASEL29, b, rs, (1, 2))
+    b, rs = pk(EASELB29, {1: (fxart.art_easel(stage=2), 1.0, 4, {}), 2: (fxart.artist_pencil(), .5, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 160), rgb(255, 255, 255), .45, 12, .24, life=14)
+    fin(EASELB29, b, rs, (0, 1, 2))
+
+    # Rebrand (Conversion): the paint roller - roll - roll - a whole new color
+    b, rs = pk(ROLL29, {1: (fxart.paint_roller(), .8, 4, {}), 2: (flipx(fxart.paint_roller()), .8, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(40, 190, 180), rgb(150, 240, 230), .25, 3, .04, gravity=.02, life=14, radius=.2)
+    fin(ROLL29, b, rs, (0, 1, 2))
+
+    # B-Side (Conversion 2): SIDE A - flip - SIDE B - play
+    b, rs = pk(TAPE29, {1: (fxart.bside_tape(), ONE_TO_ONE, 4, {"colors": 30}), 2: (fxart.bside_tape(side_b=True), ONE_TO_ONE, 4, {"colors": 30})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 160, 180), rgb(255, 255, 255), .45, 12, .22, life=16)
+    fin(TAPE29, b, rs, (0, 1, 2))
+
+    # Take the L (Swallow): a giant red L drops in - they look at it - GULP - and somehow feel better
+    b, rs = pk(L29, {1: (fxart.giant_l(), .8, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(140, 255, 160), rgb(255, 255, 255), .45, 14, .18, up=.1, life=24, radius=.6)
+    fin(L29, b, rs, (0, 1))
+    SET10_82 += [SWAP29, SWAPB29, EASEL29, EASELB29, ROLL29, TAPE29, L29]
+
+
+    # ---- set 29, batch 3 ----------------------------------------------------------------------------------
+    # Power Trade (Power Swap): their pre-workout, the foe's chamomile - swapped
+    b, rs = pk(TRADE29, {1: (fxart.preworkout_tub(), .6, 4, {}), 2: (fxart.chamomile_box(), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 230, 120), rgb(255, 255, 255), .4, 10, .2, life=14)
+    fin(TRADE29, b, rs, (0, 1, 2))
+
+    # Guard Trade (Guard Swap): the foe's sturdy umbrella, their busted one - swapped - and then it rains
+    b, rs = pk(UMB29, {1: (fxart.big_umbrella(), .8, 4, {}), 2: (fxart.big_umbrella(busted=True), .8, 4, {})}, alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(120, 170, 255), rgb(220, 235, 255), .22, 3, .02, gravity=.03, life=14, radius=.5)
+    fin(UMB29, b, rs, (0, 1, 2))
+
+    # Shove Off (Arm Thrust): a push broom - shove (replays per hit: short)
+    b, rs = pk(BROOM29, {1: (fxart.push_broom(), .8, 4, {}), 2: (flipx(fxart.push_broom()), .8, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(190, 170, 130), n=4, life=14, scl=.26, up=.04)
+    fin(BROOM29, b, rs, (0, 1, 2))
+
+    # Dirty Cross (Cross Poison): rattle rattle - PSST - PSST - a toxic green X tagged on the foe
+    b, rs = pk(SPRAY29, {1: (fxart.spray_can(), .6, 4, {}), 2: (fxart.paint_x(), .8, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(110, 230, 60), n=4, life=16, scl=.24, up=.03)
+    fin(SPRAY29, b, rs, (0, 1, 2))
+
+    # Open Window (Defog): fog everywhere - the window slides up - a pizza box fans it all out
+    b, rs = pk(WIN29, {1: (fxart.sash_window(), 1.0, 4, {}), 2: (fxart.sash_window(opened=True), 1.0, 4, {})}, alpha=fxart.soft_puff())
+    puffs(b, rs, 0, rgb(200, 200, 210), n=3, life=22, scl=.42, up=.02)
+    fin(WIN29, b, rs, (0, 1, 2))
+    b, rs = pk(WINB29, {1: (fxart.pizza_box_fan(), .7, 4, {}), 2: (flipx(fxart.pizza_box_fan()), .7, 4, {})})
+    fin(WINB29, b, rs, (1, 2))
+    SET10_82 += [TRADE29, UMB29, BROOM29, SPRAY29, WIN29, WINB29]
+
+    # ---- set 21: common-move redo (Pistol Whip, Double Tap, Licked It, Ricochet, Smooth Talk) ---------------
+    b, rs = pk(WHIP21, {1: (fxart.click_bubble(), ONE_TO_ONE / 2, 4, {}), 2: (fxart.goose_egg(), .5, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 240, 80), rgb(255, 255, 220), .55, 8, .18, life=16)
+    fin(WHIP21, b, rs, (0, 1, 2))
+
+    b, rs = pk(DTAP21, {1: (fxart.post_phone(), ONE_TO_ONE, 4, {}), 2: (fxart.post_phone(liked=1), ONE_TO_ONE, 4, {})},
+               alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 160), rgb(255, 230, 240), .5, 8, .18, life=14)
+    fin(DTAP21, b, rs, (0, 1, 2))
+    b, rs = pk(HEART21, {1: (fxart.like_heart(), 1.1, 4, {"colors": 30})})
+    fin(HEART21, b, rs, (1,))
+    b, rs = pk(DTAPB21, {1: (fxart.post_phone(liked=2), ONE_TO_ONE, 4, {}), 2: (fxart.post_phone(blocked=True), ONE_TO_ONE, 4, {})})
+    fin(DTAPB21, b, rs, (1, 2))
+
+    b, rs = pk(LICK21, {1: (fxart.triple_scoop(), 1.3, 4, {}), 2: (fxart.triple_scoop(licked=True), 1.3, 4, {})},
+               alpha=fxart.fizz_drop())
+    burst(b, rs, 0, rgb(200, 230, 255), rgb(255, 255, 255), .35, 6, .1, up=.1, gravity=.016, life=18)
+    fin(LICK21, b, rs, (0, 1, 2))
+    b, rs = pk(SIGNS21, {1: (fxart.burst_sign(["I LICKED IT."], fill=(220, 40, 90, 255), text=(255, 255, 255, 255)), SIGN_SCALE, 4, {"colors": 30}),
+                         2: (fxart.line_bubble(["...HELLO?"]), ONE_TO_ONE, 4, {})})
+    fin(SIGNS21, b, rs, (1, 2))
+
+    b, rs = pk(RICO21, {1: (fxart.stop_sign(), ONE_TO_ONE, 4, {}), 2: (fxart.stop_sign(holed=True), ONE_TO_ONE, 4, {}),
+                        3: (fxart.metal_trashcan(), 1.2, 4, {})}, alpha=fxart.tiny_spark())
+    prop(b, rs, 0, tex=0, clr=rgb(255, 240, 90), clr_anm=(rgb(255, 255, 255), rgb(255, 200, 40)), scl=1.1, life=5,
+         alpha=(31, 31, 0), scl_anm=(.6, 1.0, .5, 40, 200))
+    fin(RICO21, b, rs, (0, 1, 2, 3))
+    b, rs = pk(RICOB21, {1: (fxart.metal_trashcan(dented=True), 1.2, 4, {}), 2: (fxart.street_pigeon(), 1.0, 4, {})},
+               alpha=fxart.feather())
+    burst(b, rs, 0, rgb(170, 175, 190), rgb(240, 240, 250), .5, 10, .16, up=.06, gravity=.006, life=30)
+    fin(RICOB21, b, rs, (0, 1, 2))
+
+    b, rs = pk(TALK21, {1: (fxart.long_rose(), 1.4, 4, {}), 2: (fxart.line_bubble(["HEY..."]), ONE_TO_ONE, 4, {}),
+                        3: (fxart.zzz_drift(), .6, 4, {})}, alpha=fxart.tiny_spark())
+    burst(b, rs, 0, rgb(255, 120, 160), rgb(255, 230, 240), .45, 6, .1, up=.06, life=14)
+    fin(TALK21, b, rs, (0, 1, 2, 3))
+    b, rs = pk(TALKB21, {1: (fxart.line_bubble(["U FROM", "TENNESSEE?"]), ONE_TO_ONE, 4, {}),
+                         2: (fxart.line_bubble(["CUZ UR THE", "ONLY 10", "I SEE"]), ONE_TO_ONE, 4, {})})
+    fin(TALKB21, b, rs, (1, 2))
+    SET10_82 += [WHIP21, DTAP21, DTAPB21, LICK21, SIGNS21, RICO21, RICOB21, TALK21, TALKB21, HEART21]
 
     for ps in SET10_82:                                       # file 82's emitters sit at built-in offsets (res 3
         b = bytearray(out[ps])                                #  ~40 px up): set 10 places everything itself
@@ -9719,378 +11588,657 @@ def _sx(side):
 
 
 def _clown_on(side, s):
-    """Torment (Clown On): a red clown nose lobbed onto the foe's face - BOINK - then two bike horns honk at
-    them from both sides. HONK HONK. Confetti."""
+    """Torment (Clown On): a clown nose lobbed on - BOINK - a rainbow wig drops on - FLOP - giant clown shoes
+    land on their feet - and the honk: CLOWNED."""
     sx = _sx(side)
-    w = se(s["whoosh"]) + _lob(CLOWN20, 1, side, (sx * 22, 30), _foe_at(side, (-sx * 4, 14)), 5, 22)
+    nose, wig, shoes = (-sx * 4, 14), (0, 30), (0, -18)
+    have = []
+    def dress(extra=0):
+        w = []
+        if "shoes" in have:
+            w += emit_at(CLOWNB22, 2, 1, shoes)
+        if "wig" in have:
+            w += emit_at(CLOWN20, 2, 1, wig)
+        if "nose" in have:
+            w += emit_at(CLOWN20, 1, 1, nose)
+        return w
+    w = se(s["whoosh"]) + _lob(CLOWN20, 1, side, (sx * 22, 30), _foe_at(side, nose), 5, 22)
+    have.append("nose")
     w += se(s["bonk"]) + shake_defender(1, 2)
-    for k in range(10):
-        w += emit_at(CLOWN20, 1, 1, (-sx * 4, 14))
-        if k in (2, 6):                                                        # HONK
-            w += emit_at(CLOWN20, 2, 1, (-34, 26 + _l3(0))) + se(s["alarm"]) + shake_defender(2, 1)
-        if k in (4, 8):                                                        # HONK
-            w += emit_at(CLOWN20, 3, 1, (34, 26 + _l3(.9))) + se(s["alarm"]) + shake_defender(2, 1)
+    for k in range(3):
+        w += dress() + wait(1)
+    for k in range(4):                                                         # the wig drops
+        y = round(wig[1] + 60 * (1 - (k + 1) / 4) ** 1.5)
+        w += emit_at(CLOWN20, 1, 1, nose) + emit_at(CLOWN20, 2, 1, (wig[0], y)) + wait(1)
+    have.append("wig")
+    w += se(s["flop"]) + shake_defender(1, 1)
+    for k in range(3):
+        w += dress() + wait(1)
+    for k in range(3):                                                         # the shoes
+        w += dress() + emit_at(CLOWNB22, 2, 1, (shoes[0], shoes[1] + 30 - k * 10)) + wait(1)
+    have.append("shoes")
+    w += se(s["bonk"]) + shake_defender(1, 1)
+    for k in range(4):                                                         # *...*
+        w += dress() + wait(1)
+    w += se(s["alarm"]) + emit_at(CLOWN20, 0, 1, (0, 40)) + func(34, 8, 0, 1, rgb(255, 80, 160), 12, 0)
+    for k in range(12):                                                        # CLOWNED.
+        w += emit_at(CLOWNB22, 1, 1, (0, 62)) + dress()
+        if k == 5:
+            w += se(s["alarm"]) + shake_defender(1, 1)
         w += wait(1)
-    w += emit_at(CLOWN20, 0, 1, (0, 30)) + se(s["pop"]) + func(34, 8, 0, 1, rgb(255, 80, 160), 12, 0)
-    return w + _hold(CLOWN20, 1, 1, (-sx * 4, 14), 4)
+    return w
 
 
-def _swipe(side, s):
-    """Snatch (Swipe): a card reader pops up by the foe - the attacker's card slides through - beep... beep...
-    APPROVED. Their stuff is the attacker's now."""
+def _scam_likely(side, s):
+    """Snatch (Scam Likely): a phone rings by the foe - SCAM LIKELY. Decline. It rings again. Decline. It rings a
+    THIRD time, louder - they finally pick up - "WE BEEN TRYIN TO REACH YOU ABOUT UR CARS WARRANTY" - and all
+    their money pours out the phone to the attacker."""
+    ph, bub = ((-79, -5), (14, 26)) if side == "player" else ((-34, 30), (8, 70))
+    w = []
+    for n, (rings, wob) in enumerate(((5, 1), (4, 1), (8, 3))):
+        for k in range(rings):                                                 # bzz bzz
+            w += emit_at(SWIPE20, 1, 1, (ph[0] + (wob if k % 2 else -wob), ph[1]))
+            if k % 2 == 0:
+                w += se(s["alarm"])
+                if n == 2:
+                    w += emit_at(SWIPE20, 0, 1, (ph[0], ph[1] + 30))
+            w += wait(1)
+        if n < 2:                                                              # *decline*
+            w += se(s["disable"]) + _hold(SWIPE20, 2, 1, ph, 3) + wait(3)
+    w += se(s["disable"]) + _hold(SCAM20, 2, 1, ph, 3)                       # ...hello?
+    w += se(s["leer"])
+    for k in range(14):                                                        # the robocall
+        w += emit_at(SCAM20, 1, 1, bub) + emit_at(SCAM20, 2, 1, ph)
+        if k == 6:
+            w += func(34, 8, 0, 1, rgb(150, 150, 160), 12, 0)                  # *zoning out*
+        w += wait(1)
+    w += emit_at(COINS20, 0 if side == "player" else 1, 1, (0, 14))
+    for k in range(14):                                                        # and the money's gone
+        w += emit_at(SCAM20, 2, 1, ph)
+        if k % 3 == 0:
+            w += se(s["chaching"] if k % 2 else s["bling"]) + shake_defender(1, 1)
+        w += wait(1)
+    return w + func(34, 2, 0, 1, rgb(255, 220, 80), 12, 0) + wait(4)
+
+
+def _rental_lambo(side, s):
+    """Facade (Rental Lambo): a yellow Lambo rolls up - they stunt on it, bling bling - then beep... beep...
+    beep... a tow truck backs in, hooks it, and drags it off mid-pose. REPO'D. They take it out on the foe."""
     sx = _sx(side)
-    rd = (-sx * 30, 30) if side == "player" else (30, 34)
-    w = se(s["bonk"]) + _hold(SWIPE20, 1, 1, rd, 2)
-    for k in range(6):                                                         # *swiiipe*
-        w += emit_at(SWIPE20, 3, 1, (rd[0] + sx * (-20 + k * 8), rd[1] + 14 + _l3(.5) - k * 2))
-        w += emit_at(SWIPE20, 1, 1, rd) + (se(s["swipe"]) if k == 0 else []) + wait(1)
-    for k in range(2):                                                         # beep... beep...
-        w += se(s["lockon"]) + _hold(SWIPE20, 1, 1, rd, 2)
-    w += emit_at(SWIPE20, 0, 1, (rd[0], rd[1] + 20)) + se(s["chaching"]) + flash_screen(2)
-    w += _hold(SWIPE20, 2, 1, rd, 8, lambda k: func(34, 2, 0, 1, rgb(80, 255, 120), 12, 0) if k == 3 else [])
-    return w + wait(2)
+    car = (34, 44) if side == "player" else (-46, 10)
+    tw = 56                                                                    # truck centre: just left of the car
+    w = se(s["bass"]) + stop_motion(FRONT20, 1, 0, (car[0] - 150, car[1]), car, 6, ease=.7)
+    for k in range(9):                                                         # stuntin'
+        w += emit_at(FRONT20, 1, 0, car)
+        if k % 3 == 0:
+            w += se(s["bling"]) + emit_at(FRONT20, 0, 0, (car[0] + (k - 4) * 4, car[1] + 12)) + bmove(side, 258, 2, 0, 6)
+        if k % 3 == 1:
+            w += bmove(side, 258, 2, 0, -6)
+        w += wait(1)
+    lift = _l3(1.5)
+    for k in range(9):                                                         # beep... beep... beep...
+        x = car[0] - tw - 110 + round(110 * (k / 8) ** .7)
+        w += emit_at(FRONT20, 3, 0, (x, car[1] + 2 + lift)) + emit_at(FRONT20, 1, 0, car)
+        if k % 3 == 0:
+            w += se(s["lockon"])
+        w += wait(1)
+    truck = (car[0] - tw, car[1] + 2 + lift)
+    w += se(s["bonk"]) + emit_at(FRONT20, 3, 0, truck) + emit_at(FRONT20, 2, 0, car) + shake_attacker(1, 1) + wait(1)
+    w += _hold(FRONT20, 3, 0, truck, 4, lambda k: emit_at(FRONT20, 2, 0, car))   # *hooked* ...
+    w += se(s["skrrt"])
+    for k in range(9):                                                         # ...and gone
+        dx = -round(2 + k * k * 2.2)
+        w += emit_at(FRONT20, 3, 0, (truck[0] + dx, truck[1])) + emit_at(FRONT20, 2, 0, (car[0] + dx, car[1]))
+        w += wait(1)
+    w += wait(4)                                                               # *...*
+    sign = (0, 58) if side == "player" else (0, 50)
+    w += se(s["bonk"]) + _hold(SIGNS20, 1, 0, sign, 8, lambda k: shake_attacker(1, 1) if k == 4 else [])
+    w += func(34, 2, 0, 1, rgb(255, 40, 30), 13, 0) + se(s["rage"]) + wait(2)     # they take it out on the foe
+    w += bmove(side, 258, 2, sx * 18, 6) + se(s["bslam"]) + flash_screen(3) + shake_defender(4, 3) + func(48)
+    return w + bmove(side, 258, 4, -sx * 18, -6) + wait(3)
 
 
-def _one_punch(side, s):
-    """Focus Punch (One Punch): an arcade punch machine - wind up - wind up - POW - the score rolls to 999 and
-    the foe takes the whole punch."""
+def _crossover(side, s):
+    """Feint (Crossover): dribble, dribble - cross left, the foe follows - cross right, the foe follows - cross
+    left AGAIN - the foe's ankles give out and they hit the floor. OHHHH! Then the ball off their head."""
     sx = _sx(side)
-    m = (sx * 40, 20) if side == "player" else (-40, 18)
-    w = se(s["focus"]) + _hold(PUNCHM20, 1, 0, m, 3)
-    for k in range(2):                                                         # wind up...
-        w += bmove(side, 258, 3, -sx * 8, 0) + _hold(PUNCHM20, 1, 0, m, 1)
-        w += bmove(side, 258, 3, sx * 8, 0) + _hold(PUNCHM20, 1, 0, m, 1)
-    w += bmove(side, 258, 2, sx * 16, 0) + se(s["bslam"]) + flash_screen(3)   # POW
-    w += emit_at(PUNCHM20, 0, 0, (m[0], m[1] + 30)) + bmove(side, 258, 3, -sx * 16, 0)
-    for k in range(5):
-        w += emit_at(PUNCHM20, 1 if k % 2 else 2, 0, m) + se(s["clock"]) + wait(1)
-    w += se(s["chaching"]) + emit_at(PUNCHM20, 2, 0, m) + emit_at(PUNCHM20, 0, 1, (0, 20)) + se(s["kaboom"])
-    w += shake_defender(4, 3) + func(68, 4, 4, 1, 3, 0) + func(48)
-    return w + _hold(PUNCHM20, 2, 0, m, 6)
+    hand = (sx * 34, 30) if side == "player" else (-30, 10)
+    ball = lambda k, dx=0: emit_at(FOOTB20, 1, 0, (hand[0] + dx, hand[1] + (14 if k % 2 else 0)))
+    w = []
+    for k in range(6):                                                         # dribble, dribble
+        w += ball(k) + (se(s["bonk"]) if k % 2 == 0 else []) + wait(1)
+    for n, d_ in enumerate((-1, 1, -1)):                                       # cross... cross... CROSS
+        w += se(s["whoosh"]) + bmove(side, 258, 2, d_ * 18, 0) + ball(0, d_ * 18) + emit_at(FOOTB20, 0, 0, (hand[0], hand[1] + 8))
+        w += wait(1)
+        if n < 2:
+            w += bmove(side, 264, 3, d_ * 18, 0) + ball(1, d_ * 18) + wait(1) + ball(0, d_ * 18) + se(s["bonk"]) + wait(1)
+            w += bmove(side, 258, 2, -d_ * 18, 0) + bmove(side, 264, 3, -d_ * 18, 0) + ball(1) + wait(1)
+    w += bmove(side, 264, 2, -22, -20) + se(s["crack"]) + flash_screen(2)    # ...the ankles
+    w += emit_at(FOOTB20, 2, 1, (-10, 34)) + shake_defender(2, 2) + wait(2)
+    w += se(s["chaching"]) + emit_at(SIGNS20, 2, 0, (0, 64 if side == "player" else 50))
+    for k in range(8):                                                         # OHHHHHH
+        w += ball(k, -18) + (emit_at(FOOTB20, 2, 1, (-10, 34)) if k < 5 else []) + wait(1)
+    w += bmove(side, 258, 2, 18, 0)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w += se(s["whoosh"]) + _lob(FOOTB20, 1, side, hand, (dx - 12, dy + 16), 5, 22)
+    w += se(s["bonk"]) + shake_defender(2, 2) + func(48)                      # *bonk*
+    w += _lob(FOOTB20, 1, side, (dx - 12, dy + 16), (dx + sx * 30, dy + 50), 4, 10)
+    return w + bmove(side, 264, 5, 22, 20) + wait(2)
+
+
+def _fair_one(side, s):
+    """Focus Punch (Fair One): DING DING - they square up, old-school, bobbin' and weavin' - "WAIT... UR SHOE
+    UNTIED" - the foe looks down - POW. So much for a fair one."""
+    sx = _sx(side)
+    bell = (86, 60) if side == "player" else (-60, -10)
+    bub = (sx * 50, 58) if side == "player" else (-40, 30)
+    w = []
+    for k in range(5):                                                         # DING DING
+        w += emit_at(PUNCHM20, 1, 0, (bell[0] + (2 if k % 2 else -2), bell[1]))
+        if k in (0, 2):
+            w += se(s["bling"])
+        w += wait(1)
+    for k in range(3):                                                         # bob... and weave
+        w += se(s["whoosh"]) + bmove(side, 258, 2, sx * 6, 4) + wait(1) + bmove(side, 258, 2, -sx * 6, -4) + wait(1)
+    for k in range(12):                                                        # "wait... ur shoe untied"
+        w += emit_at(PUNCHM20, 2, 0, bub)
+        if k == 6:
+            w += bmove(side, 264, 4, 0, -8)                                    # *looks down*
+        w += wait(1)
+    w += bmove(side, 258, 2, sx * 22, 6) + se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4)   # POW
+    w += emit_at(PUNCHM20, 0, 1, (0, 26)) + shake_defender(4, 3) + func(68, 4, 4, 1, 3, 0) + func(48)
+    w += bmove(side, 258, 4, -sx * 22, -6) + wait(2) + bmove(side, 264, 4, 0, 8)
+    return w + wait(3)
 
 
 def _tax_punch(side, s):
-    """Drain Punch (Tax Punch): a piggy bank shows up - the punch lands - coins fly out the foe and back into
-    the pig. Taxes, playa."""
+    """Drain Punch (Tax Punch): the foe's pay stub - GROSS $1000. Punch: -FED TAX. Punch: -STATE TAX.
+    Punch: -SOCIAL SECURITY. NET PAY: $3.12. The money goes to the attacker."""
     sx = _sx(side)
-    pig = (-sx * 6, 50) if side == "player" else (4, 46)
-    w = se(s["bonk"]) + _hold(PIGGY20, 1, 0, pig, 2)
-    w += bmove(side, 258, 2, sx * 14, 4) + emit_at(PIGGY20, 1, 0, pig) + se(s["bslam"]) + flash_screen(2)
-    w += shake_defender(3, 2) + bmove(side, 258, 3, -sx * 14, -4)
-    w += emit_at(COINS20, 0 if side == "player" else 1, 1, (0, 14))
-    for k in range(14):
-        w += emit_at(PIGGY20, 1, 0, pig)
-        if k % 3 == 0:
-            w += se(s["chaching"] if k % 2 else s["bling"])
-        if k % 4 == 1:
-            w += func(34, 8, 0, 1, rgb(255, 210, 60), 12, 0)
+    stub = (-90, -5) if side == "player" else (-34, 30)
+    sign = (stub[0], stub[1] + 14)
+    w = se(s["bling"]) + _hold(PIGGY20, 1, 1, stub, 5)
+    for kit, res in ((TAXS22, 1), (TAXS22, 2), (TAXB22, 1)):
+        w += bmove(side, 258, 2, sx * 14, 4) + se(s["bslam"]) + shake_defender(2, 1) + emit_at(PIGGY20, 1, 1, stub)
+        w += emit_at(COINS20, 0 if side == "player" else 1, 1, (0, 14)) + wait(1)
+        w += bmove(side, 258, 2, -sx * 14, -4) + se(s["chaching"])
+        for k in range(5):
+            w += emit_at(kit, res, 1, sign) + emit_at(PIGGY20, 1, 1, stub) + wait(1)
+    w += se(s["disable"])
+    for k in range(14):                                                        # NET PAY: $3.12
+        w += emit_at(PIGGY20, 2, 1, stub)
+        if k == 3:
+            w += bmove(side, 264, 4, 0, -6) + func(34, 8, 0, 1, rgb(150, 150, 160), 12, 0)
+        if k == 6:
+            w += se(s["absorb"]) + func(34, 2, 0, 1, rgb(255, 220, 80), 12, 0)
         w += wait(1)
-    w += emit_at(PIGGY20, 0, 0, (pig[0], pig[1] + 12)) + se(s["absorb"]) + func(34, 2, 0, 1, rgb(255, 230, 90), 12, 0)
-    return w + _hold(PIGGY20, 1, 0, pig, 4)
+    return w + bmove(side, 264, 4, 0, 6) + wait(2)
 
 
-def _iron_wing(side, s):
-    """Steel Wing (Iron Wing): a giant clothes iron flies in - PSSSHHT - presses the foe flat. Crease-free."""
+def _chicken_wing(side, s):
+    """Steel Wing (Chicken Wing): a giant lemon pepper wing and a cup of ranch - dip... - dip AGAIN - the foe:
+    "DID U JUST DOUBLE DIP?!" - WHAP, wing to the face. Sauce everywhere."""
     sx = _sx(side)
-    res = 1 if side == "player" else 2
-    w = se(s["whoosh"]) + stop_motion(IRON20, res, 1, (-sx * 80, 60), (0, 34), 5, ease=1.4)
-    for k in range(3):                                                         # press... press... press
-        w += emit_at(IRON20, res, 1, (0, 26)) + se(s["bslam"]) + shake_defender(2, 1) + bmove(side, 264, 2, 0, -4)
-        w += emit_at(IRON20, 0, 1, (0, 12)) + se(s["smoke"]) + wait(1)
-        w += emit_at(IRON20, res, 1, (0, 36)) + bmove(side, 264, 2, 0, 4) + wait(1)
-    w += func(34, 8, 0, 1, rgb(230, 230, 240), 13, 0) + func(48)
-    return w + _hold(IRON20, res, 1, (0, 38), 3) + wait(2)
-
-
-def _flashbang_switch(side, s):
-    """Flash (Flashbang): a light switch on the wall - click - a giant bulb over the foe - the whole screen goes
-    WHITE."""
-    sx = _sx(side)
-    sw = (sx * 28, 44) if side == "player" else (-28, 38)
-    w = _hold(LIGHT20, 1, 0, sw, 4) + se(s["disable"]) + _hold(LIGHT20, 2, 0, sw, 2)
-    w += emit_at(LIGHT20, 3, 1, (0, 66 + _l3(1.2))) + wait(2)
-    w += emit_at(LIGHT20, 0, 1, (0, 50)) + se(s["zap"]) + flash_screen(10) + func(33, 0, 1, 0, 12, rgb(255, 255, 240))
-    for k in range(6):
-        w += emit_at(LIGHT20, 2, 0, sw) + emit_at(LIGHT20, 3, 1, (0, 66 + _l3(1.2))) + wait(1)
-    w += func(34, 8, 0, 1, rgb(255, 255, 230), 14, 0) + shake_defender(1, 3)
-    return w + func(33, 0, 1, 12, 0, rgb(255, 255, 240)) + wait(6)
-
-
-def _rock_trap(side, s):
-    """Stealth Rock (Rock Trap): LEGO bricks scattered all over the foe's side - they step on one - OWWW -
-    hop - another one."""
-    sx = _sx(side)
-    spots = [(-30, -4), (-10, -10), (12, -6), (32, -10), (-20, -18), (24, -18)]
-    w = se(s["sand"])
-    for k, p in enumerate(spots):                                              # *clatter*
-        w += _lob(LEGO20, 1, side, (sx * 18, 26), _foe_at(side, p), 3, 14)
-        w += se(s["bonk"])
-    lay = lambda: sum((emit_at(LEGO20, 1, 1, p) for p in spots), [])
-    for k in range(10):
-        w += lay()
-        if k in (2, 6):                                                        # OWWW
-            w += emit_at(LEGO20, 0, 1, (0, 0)) + se(s["crack"]) + bmove(side, 264, 2, 0, 10) + shake_defender(2, 1)
-        if k in (4, 8):
-            w += bmove(side, 264, 2, 0, -10)
+    cup = (sx * 48, 36) if side == "player" else (-40, 20)
+    up, dn = (cup[0], cup[1] + 24), (cup[0], cup[1] + 12)
+    bub = (-30, 36) if side == "player" else (40, 40)
+    w = se(s["bling"]) + _hold(IRON20, 2, 0, cup, 3, lambda k: emit_at(IRON20, 1, 0, up))
+    for n in range(2):                                                         # dip... dip
+        w += emit_at(IRON20, 1, 0, dn) + emit_at(IRON20, 2, 0, cup) + se(s["splat"]) + wait(1)
+        w += emit_at(IRON20, 1, 0, dn) + emit_at(IRON20, 2, 0, cup) + wait(1)
+        w += _hold(IRON20, 1, 0, up, 3, lambda k: emit_at(IRON20, 2, 0, cup))
+    for k in range(12):                                                        # "DID U JUST DOUBLE DIP?!"
+        w += emit_at(WINGB22, 1, 1, bub) + emit_at(IRON20, 1, 0, up) + emit_at(IRON20, 2, 0, cup)
+        if k == 1:
+            w += se(s["leer"]) + func(34, 8, 0, 1, rgb(255, 60, 60), 13, 0) + shake_defender(2, 2)
         w += wait(1)
-    return w + func(34, 8, 0, 1, rgb(255, 80, 60), 12, 0) + wait(2)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w += se(s["whoosh"]) + stop_motion(IRON20, 1, 0, up, (dx - sx * 10, dy + 24), 3, ease=1.6)
+    w += se(s["dslap"]) + se(s["bslam"]) + flash_screen(3) + emit_at(IRON20, 0, 1, (0, 24))   # WHAP
+    w += shake_defender(4, 3) + func(48) + _hold(IRON20, 1, 1, (-sx * 8, 26), 3)
+    return w + wait(3)
 
 
-def _trip_wire(side, s):
-    """Grass Knot (Trip Wire): the foe's shoelaces tie themselves together - they take a step - faceplant."""
-    sx = _sx(side)
-    w = se(s["vwhip"]) + _hold(LACES20, 1, 1, (0, -4), 4) + se(s["vwhip2"]) + _hold(LACES20, 1, 1, (0, -4), 4)
-    w += bmove(side, 264, 3, -sx * 6, 6) + _hold(LACES20, 1, 1, (-sx * 6, 0), 1)             # *step*...
-    w += bmove(side, 264, 2, -sx * 14, -18) + se(s["bslam"]) + emit_at(LACES20, 0, 1, (-sx * 20, -16))
-    w += flash_screen(2) + shake_defender(3, 3) + func(68, 3, 3, 1, 2, 0) + _hold(LACES20, 1, 1, (-sx * 14, -10), 8)
-    return w + bmove(side, 264, 5, sx * 20, 12) + wait(2)
-
-
-def _grudge(side, s):
-    """Frustration (Grudge): a pressure gauge on the attacker - needle creeping - into the RED - steam blows
-    out the top - then they let it ALL out."""
-    sx = _sx(side)
-    g = (-sx * 6, 54) if side == "player" else (6, 50)
-    w = se(s["rage"])
-    for k in range(8):                                                         # *creeping*
-        w += emit_at(GAUGE20, 1 if k < 5 else 2, 0, g) + (shake_attacker(1, 1) if k > 4 else []) + wait(1)
-    w += emit_at(STEAM20, 0, 0, (g[0], g[1] + 18)) + se(s["fwoosh"]) + func(34, 2, 0, 1, rgb(255, 40, 30), 14, 0)
+def _ring_light(side, s):
+    """Flash (Ring Light): an influencer ring light right in the foe's face - 10% - 50% - 9000% - the whole
+    screen goes WHITE - and the bulb pops."""
+    lt = (-79, -5) if side == "player" else (-34, 30)
+    w = se(s["disable"]) + _hold(LIGHT20, 1, 1, lt, 5)
+    w += se(s["disable"]) + emit_at(LIGHT20, 0, 1, (lt[0] + 8, lt[1] + 14))
+    w += _hold(LIGHT20, 2, 1, lt, 5, lambda k: func(34, 8, 0, 1, rgb(255, 255, 220), 9, 0) if k == 1 else [])
+    w += se(s["disable"]) + _hold(LIGHTB22, 1, 1, lt, 2)
+    w += se(s["zap"]) + flash_screen(10) + func(33, 0, 1, 0, 14, rgb(255, 255, 245))           # 9000%
     for k in range(8):
-        w += emit_at(GAUGE20, 2, 0, g) + (se(s["smoke"]) if k == 3 else []) + wait(1)
-    w += bmove(side, 258, 2, sx * 14, 4) + emit_at(GAUGE20, 0, 1, (0, 20)) + se(s["kaboom"]) + flash_screen(3)
-    return w + shake_defender(4, 3) + func(48) + bmove(side, 258, 3, -sx * 14, -4) + wait(4)
-
-
-def _front(side, s):
-    """Facade (Front): a big Lambo rolls up next to the attacker - stuntin' - then the wind blows it over.
-    It's cardboard. It was always cardboard. They hit anyway."""
-    sx = _sx(side)
-    car = (-sx * 26, 24) if side == "player" else (26, 16)
-    w = se(s["bass"]) + stop_motion(FRONT20, 1, 0, (car[0] - sx * 70, car[1]), car, 5, ease=.8)
-    w += se(s["bling"]) + _hold(FRONT20, 1, 0, car, 6, lambda k: bmove(side, 258, 2, 0, 4 if k % 2 == 0 else -4) if k < 4 else [])
-    w += se(s["gust"]) + _hold(FRONT20, 1, 0, (car[0] + sx * 2, car[1]), 2)
-    w += emit_at(FRONT20, 2, 0, car) + emit_at(FRONT20, 0, 0, car) + se(s["flop"]) + _hold(FRONT20, 2, 0, car, 6)
-    w += bmove(side, 258, 2, sx * 14, 4) + emit_at(FRONT20, 0, 1, (0, 10)) + se(s["bslam"]) + shake_defender(3, 2)
-    return w + func(48) + bmove(side, 258, 3, -sx * 14, -4) + _hold(FRONT20, 2, 0, car, 3)
-
-
-def _inside_job(side, s):
-    """Secret Power (Inside Job): a wall safe by the foe - dial spinning - click - it swings open and a spring
-    boxing glove BOINGS out. Inside job."""
-    sx = _sx(side)
-    sf = (-sx * 36, 30) if side == "player" else (36, 34)
-    w = _hold(SAFE20, 1, 1, sf, 2)
-    for k in range(3):
-        w += se(s["clock"]) + _hold(SAFE20, 1, 1, sf, 1)
-    w += se(s["disable"]) + emit_at(SAFE20, 2, 1, sf) + emit_at(SAFE20, 0, 1, (sf[0], sf[1] + 10)) + wait(1)
-    w += se(s["bslam"]) + flash_screen(2) + shake_defender(4, 2) + func(48)
-    w += _hold(SAFE20, 2, 1, sf, 8, lambda k: func(34, 8, 0, 1, rgb(255, 60, 60), 12, 0) if k == 1 else [])
+        w += emit_at(LIGHTB22, 1, 1, lt)
+        if k % 3 == 0:
+            w += emit_at(LIGHT20, 0, 1, (lt[0] + 8, lt[1] + 14)) + func(34, 8, 0, 1, rgb(255, 255, 255), 15, 0)
+        w += wait(1)
+    w += se(s["pop"]) + se(s["smash"]) + emit_at(LIGHTB22, 0, 1, (lt[0], lt[1] + 14))         # *POP*
+    w += func(33, 0, 1, 14, 0, rgb(255, 255, 245)) + _hold(LIGHT20, 1, 1, lt, 6) + shake_defender(1, 3)
     return w + wait(2)
 
 
-def _wall_climb(side, s):
-    """Rock Climb (Wall Climb): a climbing wall shows up - the attacker climbs it - hand, hand, hand - and
-    DROPS off the top onto the foe."""
+def _spike_strip(side, s):
+    """Stealth Rock (Spike Strip): a police spike strip unrolls across the foe's side - and a pizza moped,
+    nobody on it, comes flying in - POP - POP - it sags flat - and the pizza flips onto the foe's head."""
     sx = _sx(side)
-    wall = (-sx * 30, 26) if side == "player" else (30, 22)
-    w = se(s["bonk"]) + _hold(CLIMB20, 1, 0, wall, 2)
-    for k in range(4):                                                         # climb
-        w += bmove(side, 258, 2, 0, 8) + emit_at(CLIMB20, 1, 0, wall) + se(s["bonk"]) + wait(1)
-        w += emit_at(CLIMB20, 1, 0, wall) + wait(1)
-    w += se(s["whoosh"]) + bmove(side, 258, 4, sx * 40, 0) + _hold(CLIMB20, 1, 0, wall, 2)
-    w += bmove(side, 258, 2, 0, -32) + emit_at(CLIMB20, 0, 1, (0, 30)) + se(s["kaboom"]) + flash_screen(3)
-    w += shake_defender(4, 3) + func(68, 4, 4, 1, 2, 0) + func(48)
-    return w + bmove(side, 258, 5, -sx * 40, 0) + wait(4)
-
-
-def _fake_pass(side, s):
-    """Feint (Fake Pass): the attacker cocks back - pump fake - pump fake - the foe looks the wrong way - BONK,
-    the football hits them in the head."""
-    sx = _sx(side)
-    hand = (-sx * 6, 40) if side == "player" else (6, 36)
-    w = []
-    for k in range(2):                                                         # pump fake
-        w += emit_at(FOOTB20, 1, 0, hand) + bmove(side, 258, 2, -sx * 6, 0) + wait(1)
-        w += emit_at(FOOTB20, 1, 0, (hand[0] + sx * 8, hand[1] + 4)) + bmove(side, 258, 2, sx * 6, 0)
-        w += se(s["whoosh"]) + shake_defender(2, 1) + wait(1)
-    w += _hold(FOOTB20, 1, 0, hand, 3)
-    w += se(s["whoosh"]) + _lob(FOOTB20, 1, side, hand, _foe_at(side, (0, 34)), 5, 20,
-                                lambda k: emit_at(FOOTB20, 0, 0, hand) if k == 0 else [])
-    w += se(s["bonk"]) + flash_screen(2) + shake_defender(3, 2) + func(48)
-    return w + _lob(FOOTB20, 1, side, _foe_at(side, (0, 34)), _foe_at(side, (sx * 30, 60)), 4, 10) + wait(2)
-
-
-def _smoke_screen(side, s):
-    """Mist (Smoke Screen): fog machines on both sides of the attacker - club lights - and the stage fills with
-    fog until you can't see a thing."""
-    sx = _sx(side)
-    l, r = (-36, 26), (40, 26)
-    w = se(s["bass"]) + emit_at(FOG20, 0, 0, (0, 20))
-    for k in range(4):
-        w += emit_at(FOG20, 1, 0, l) + emit_at(FOG20, 2, 0, r) + wait(1)
-    w += emit_at(FOGFX20, 0, 0, (l[0] + 14, l[1] + 6)) + emit_at(FOGFX20, 1, 0, (r[0] - 14, r[1] + 6)) + se(s["haze"])
-    for k in range(18):
-        w += emit_at(FOG20, 1, 0, l) + emit_at(FOG20, 2, 0, r)
-        if k % 6 == 0:
-            w += se(s["bass"]) + func(34, 2, 0, 1, rgb(200, 120, 255), 10, 0)
+    strip = (20, 0)                                                            # (right of the foe: clear of both HP boxes)
+    sc_end = (strip[0] + 12, 12)
+    w = se(s["sand"])
+    for k in range(4):                                                         # *unrolls*
+        w += emit_at(LEGO20, 1, 1, (strip[0] + (3 - k) * 14, strip[1])) + wait(1)
+    w += se(s["bonk"])
+    for k in range(5):                                                         # here comes the pizza
+        t = k / 4
+        w += emit_at(LEGO20, 1, 1, strip) + emit_at(LEGO20, 2, 1, (round(sc_end[0] + 110 * (1 - t)), sc_end[1]))
+        if k == 0:
+            w += se(s["skrrt"])
         w += wait(1)
-    return w + func(33, 0, 1, 0, 8, rgb(220, 220, 235)) + wait(4) + func(33, 0, 1, 8, 0, rgb(220, 220, 235))
+    for k in range(2):                                                         # POP - POP
+        w += se(s["pop"]) + emit_at(LEGO20, 0, 1, (sc_end[0] + (-14 if k == 0 else 14), sc_end[1] - 12))
+        w += emit_at(LEGO20, 1, 1, strip) + emit_at(SPIKEB22 if k else LEGO20, 1 if k else 2, 1, sc_end) + shake_defender(1, 1) + wait(1)
+        w += emit_at(LEGO20, 1, 1, strip) + emit_at(SPIKEB22 if k else LEGO20, 1 if k else 2, 1, sc_end) + wait(1)
+    w += emit_at(SPIKEB22, 0, 1, sc_end) + se(s["whoosh"])
+    for k in range(6):                                                         # the pizza flips up... and over
+        t = (k + 1) / 6
+        p = (round(sc_end[0] + (0 - sc_end[0]) * t), round(sc_end[1] + (30 - sc_end[1]) * t + 40 * (1 - (2 * t - 1) ** 2)))
+        w += emit_at(LEGO20, 1, 1, strip) + emit_at(SPIKEB22, 1, 1, sc_end) + emit_at(SPIKEB22, 2, 1, p) + wait(1)
+    w += se(s["splat"]) + se(s["bonk"]) + shake_defender(3, 2) + func(48)
+    for k in range(10):
+        w += emit_at(SPIKEB22, 2, 1, (0, 30)) + emit_at(LEGO20, 1, 1, strip) + emit_at(SPIKEB22, 1, 1, sc_end)
+        if k == 2:
+            w += func(34, 8, 0, 1, rgb(250, 200, 90), 12, 0)
+        w += wait(1)
+    return w
+
+
+def _got_laced(side, s):
+    """Grass Knot (Got Laced): the foe's laces tie themselves together - step... wobble - step... wobble -
+    STEP - faceplant, a shoe flies off. "WHO TIED THESE?!\""""
+    sx = _sx(side)
+    lc = (0, 2)
+    w = se(s["vwhip"]) + _hold(LACES20, 1, 1, lc, 3) + se(s["vwhip2"]) + _hold(LACES20, 1, 1, lc, 3)
+    for k in range(2):                                                         # step... wobble
+        w += bmove(side, 264, 2, -sx * 4, 3) + emit_at(LACES20, 1, 1, lc) + wait(1)
+        w += shake_defender(2, 2) + _hold(LACES20, 1, 1, lc, 2) + bmove(side, 264, 2, sx * 4, -3) + _hold(LACES20, 1, 1, lc, 2)
+    w += bmove(side, 264, 2, -sx * 14, -18) + se(s["bslam"]) + flash_screen(2) + emit_at(LACES20, 0, 1, (-sx * 20, -14))
+    w += shake_defender(3, 2) + func(68, 3, 3, 1, 2, 0)
+    for k in range(6):                                                         # the shoe flies off
+        t = (k + 1) / 6
+        w += emit_at(LACES20, 1, 1, (-sx * 14, -10)) + emit_at(LACES20, 2, 1, (round(sx * 40 * t), round(-6 + 70 * t - 40 * t * t))) + wait(1)
+    bub = (-30, 36) if side == "player" else (40, 40)
+    for k in range(12):                                                        # "WHO TIED THESE?!"
+        w += emit_at(LACEB22, 1, 1, bub) + emit_at(LACES20, 1, 1, (-sx * 14, -10)) + wait(1)
+    return w + bmove(side, 264, 5, sx * 14, 18) + wait(2)
+
+
+def _big_mad(side, s):
+    """Frustration (Big Mad): the foe texts back "k." - the mad meter climbs - "lol" - higher - "OK." - into
+    the red, steam blows - and they FLIP THE TABLE onto the foe."""
+    sx = _sx(side)
+    g = (-sx * 6, 54) if side == "player" else (6, 50)
+    bub = (-30, 36) if side == "player" else (40, 40)
+    w = []
+    for n, (kit, res) in enumerate(((MADB22, 1), (MADB22, 2), (MADC22, 1))):
+        w += se(s["lockon"])
+        for k in range(7):
+            w += emit_at(kit, res, 1, bub) + emit_at(GAUGE20, 2 if n == 2 and k > 2 else 1, 0, g)
+            if k == 3:
+                w += shake_attacker(n + 1, n + 1)
+            w += wait(1)
+    w += emit_at(STEAM20, 0, 0, (g[0], g[1] + 18)) + se(s["fwoosh"]) + func(34, 2, 0, 1, rgb(255, 40, 30), 14, 0)
+    w += _hold(GAUGE20, 2, 0, g, 5)
+    tbl = (sx * 18, 26) if side == "player" else (-18, 18)
+    w += se(s["rage"]) + _hold(MADC22, 2, 0, tbl, 2) + bmove(side, 258, 2, 0, 6)
+    w += se(s["whoosh"]) + _lob(MADC22, 2, side, tbl, _foe_at(side, (0, 20)), 6, 34) + bmove(side, 258, 2, 0, -6)
+    w += se(s["smash"]) + se(s["kaboom"]) + flash_screen(4) + emit_at(MADC22, 0, 1, (0, 20))  # CRASH
+    w += shake_defender(4, 3) + func(68, 4, 4, 1, 3, 0) + func(48) + _hold(MADC22, 2, 1, (0, 4), 5)
+    return w + wait(2)
+
+
+def _inside_job(side, s):
+    """Secret Power (Inside Job): a safe by the foe - dial... BZZT - dial... BZZT - then the door opens from the
+    INSIDE: a guy in a ski mask. "IT WAS OPEN THE WHOLE TIME." Then a spring glove punches the foe."""
+    sx = _sx(side)
+    sf = (-sx * 30, 30) if side == "player" else (36, 34)
+    w = se(s["bonk"]) + _hold(SAFE20, 1, 1, sf, 3)
+    for n in range(2):                                                         # dial... BZZT
+        for k in range(3):
+            w += se(s["clock"]) + emit_at(SAFE20, 1, 1, sf) + wait(1)
+        w += se(s["disable"]) + func(34, 2, 0, 1, rgb(255, 40, 40), 10, 0)
+        for k in range(3):
+            w += emit_at(SAFE20, 1, 1, (sf[0] + (2 if k % 2 else -2), sf[1])) + wait(1)
+        w += _hold(SAFE20, 1, 1, sf, 2)
+    w += _hold(SAFE20, 1, 1, sf, 3)                                           # *...*
+    w += se(s["disable"]) + emit_at(SAFE20, 0, 1, (sf[0], sf[1] + 10))         # *creak*
+    bub = (12, 42) if side == "player" else (-30, 60)
+    for k in range(14):                                                        # "IT WAS OPEN THE WHOLE TIME"
+        w += emit_at(SAFE20, 2, 1, sf)
+        if k >= 2:
+            w += emit_at(SAFEB22, 1, 1, bub)
+        w += wait(1)
+    dx = -sf[0] // 3
+    w += se(s["whoosh"]) + emit_at(SAFE20, 2, 1, sf) + emit_at(SAFEB22, 2, 1, (sf[0] + dx, sf[1] - 6)) + wait(1)
+    w += se(s["bslam"]) + flash_screen(3) + emit_at(SAFE20, 0, 1, (-sx * 8, 24)) + shake_defender(4, 2) + func(48)   # BOING
+    for k in range(4):
+        w += emit_at(SAFE20, 2, 1, sf) + emit_at(SAFEB22, 2, 1, (sf[0] + dx, sf[1] - 6)) + wait(1)
+    return w + _hold(SAFE20, 2, 1, sf, 3)
+
+
+def _parkour(side, s):
+    """Rock Climb (Parkour): "PARKOUR!" - off the mailbox - off the fire hydrant - and a flip right down onto
+    the foe."""
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    sx = _sx(side)
+    p1, p2 = (-sx * 34, 36), (sx * 46, 42)                                     # back onto the mailbox, then the hydrant
+    box, hyd = (p1[0], p1[1] - 24), (p2[0], p2[1] - 24)                        # (low hops: higher, they go under the foe's box)
+    street = lambda: emit_at(CLIMB20, 1, 1, (box[0] - dx, box[1] - dy)) + emit_at(CLIMB20, 2, 1, (hyd[0] - dx, hyd[1] - dy))   # (on the foe: props on the attacker ride along with it)
+    w = []
+    for k in range(3):
+        w += street() + wait(1)
+    w += se(s["rage"])
+    for k in range(8):                                                         # PARKOUR!
+        w += street() + emit_at(PARKB22, 1, 1, (-dx, 58 - dy)) + wait(1)
+    cur = (0, 0)
+    for tgt, bonk in ((p1, True), (p2, True)):                                 # hop... hop
+        w += se(s["whoosh"]) + bmove(side, 258, 3, tgt[0] - cur[0], tgt[1] - cur[1] + 10) + street() + wait(1)
+        w += bmove(side, 258, 1, 0, -10) + se(s["bonk"]) + street() + wait(1) + street() + wait(1)
+        cur = tgt
+    w += se(s["whoosh"]) + bmove(side, 258, 3, (dx - cur[0]) // 2, 20) + street() + wait(1)   # flip...
+    w += bmove(side, 258, 2, dx - cur[0] - (dx - cur[0]) // 2, dy + 14 - cur[1] - 20) + street() + wait(1)
+    w += se(s["kaboom"]) + flash_screen(3) + emit_at(CLIMB20, 0, 1, (0, 20)) + shake_defender(4, 3)   # ...DOWN
+    w += func(68, 4, 4, 1, 2, 0) + func(48)
+    for k in range(3):
+        w += street() + wait(1)
+    w += bmove(side, 258, 6, -dx, -(dy + 14)) + street() + wait(1)
+    for k in range(4):
+        w += street() + wait(1)
+    return w
+
+
+def _vape_cloud(side, s):
+    """Mist (Vape Cloud): a box-mod vape - puff, a smoke ring - puff, another - then one GIANT cloud swallows
+    their whole side, and all you can see in it is a pair of shades."""
+    sx = _sx(side)
+    mod = (sx * 24, 34) if side == "player" else (-24, 26)
+    shades = (sx * 10, 26) if side == "player" else (-6, 22)
+    w = se(s["bonk"]) + _hold(FOG20, 1, 0, mod, 3)
+    for n in range(2):                                                         # puff... a ring
+        w += se(s["smoke"]) + _hold(FOG20, 1, 0, (mod[0], mod[1] + 2), 2)
+        w += emit_at(FOG20, 0, 0, (mod[0] + sx * 6, mod[1] + 22)) + _hold(FOG20, 1, 0, mod, 5)
+    w += se(s["haze"]) + _hold(FOG20, 1, 0, (mod[0], mod[1] + 3), 3)           # *the big one*
+    w += emit_at(FOG20, 2, 0, shades) + wait(1)                                # (the shades go first: later emitters draw under them)
+    w += emit_at(FOGFX20, 0, 0, (-20, 14)) + emit_at(FOGFX20, 1, 0, (24, 14)) + func(33, 0, 1, 0, 9, rgb(225, 225, 235))
+    w += func(34, 2, 0, 1, rgb(235, 235, 245), 15, 0)
+    for k in range(16):                                                        # ...just the shades
+        if k == 6:
+            w += se(s["bling"]) + emit_at(FOGFX20, 0, 0, (shades[0] + 10, shades[1] + 4))
+        w += wait(1)
+    return w + func(33, 0, 1, 9, 0, rgb(225, 225, 235)) + wait(3)
 
 
 def _plug_in(side, s):
-    """Charge (Plug In): a guitar amp - they plug in - and hit ONE power chord. The amp shakes the screen and
-    they're charged."""
+    """Charge (Plug In): the phone's on 1% - plugged in... 1%... ...3%... - then they pull out a giant FAST
+    charger: ZAP. 100%. Fully charged."""
     sx = _sx(side)
-    amp = (-sx * 36, 28) if side == "player" else (36, 14)
-    w = se(s["bonk"]) + _hold(AMP20, 1, 0, amp, 3) + se(s["zap"]) + _hold(AMP20, 1, 0, amp, 2)
-    w += emit_at(AMPFX20, 0, 0, (amp[0], amp[1] + 14)) + emit_at(AMPFX20, 1, 0, (0, 10)) + se(s["thunder"])
-    w += se(s["bass"]) + flash_screen(4) + func(68, 3, 3, 1, 4, 0)
-    for k in range(12):
-        w += emit_at(AMP20, 1, 0, (amp[0] + (1 if k % 2 else -1), amp[1]))
-        if k % 3 == 0:
-            w += emit_at(AMP20, 0, 0, (amp[0], amp[1] + 20)) + func(34, 2, 0, 1, rgb(255, 240, 80), 12, 0)
+    ph = (sx * 40, 40) if side == "player" else (-40, 26)
+    ch = (ph[0] - sx * 26, ph[1] - 6)
+    w = se(s["disable"]) + _hold(AMP20, 1, 0, ph, 8)                           # *click* ... 1%
+    w += _hold(AMP20, 1, 0, ph, 4, lambda k: shake_attacker(1, 1) if k == 1 else [])
+    w += se(s["clock"]) + _hold(AMP20, 2, 0, ph, 8)                            # ...3%
+    w += _hold(AMP20, 2, 0, ph, 4, lambda k: (func(34, 8, 0, 1, rgb(160, 170, 255), 9, 0) + shake_defender(1, 1)) if k == 1 else [])   # (the foe dozes)
+    w += se(s["whoosh"])
+    for k in range(4):                                                         # the FAST charger
+        w += emit_at(AMP20, 2, 0, ph) + emit_at(PLUGB22, 2, 0, (ch[0] - sx * (3 - k) * 20, ch[1])) + wait(1)
+    w += se(s["bonk"]) + _hold(AMP20, 2, 0, ph, 2, lambda k: emit_at(PLUGB22, 2, 0, ch))
+    w += se(s["thunder"]) + se(s["zap"]) + flash_screen(4) + func(68, 3, 3, 1, 3, 0)          # ZAP
+    w += emit_at(AMPFX20, 0, 0, (0, 20)) + emit_at(AMPFX20, 1, 0, (0, 10)) + emit_at(AMP20, 0, 0, ph)
+    for k in range(12):                                                        # 100%
+        w += emit_at(PLUGB22, 1, 0, ph) + emit_at(PLUGB22, 2, 0, ch)
+        if k % 4 == 0:
+            w += func(34, 2, 0, 1, rgb(255, 240, 80), 13, 0)
         w += wait(1)
-    return w + _hold(AMP20, 1, 0, amp, 2)
+    return w
 
 
 def _bed_bugs(side, s):
-    """Bug Bite (Bed Bugs): a cheap motel pillow - the attacker fluffs it - a swarm of bed bugs pours out and
-    swarms the foe. Itchy."""
-    sx = _sx(side)
-    pil = (sx * 20, 30) if side == "player" else (-20, 26)
-    w = se(s["bonk"])
-    for k in range(4):                                                         # *fluff fluff*
-        w += emit_at(BUGS20, 1, 0, (pil[0], pil[1] + (3 if k % 2 else 0))) + (se(s["flop"]) if k % 2 else []) + wait(1)
-    w += emit_at(BUGFX20, 0 if side == "player" else 1, 0, (pil[0], pil[1] + 6)) + se(s["psting"])
-    for k in range(14):
-        w += emit_at(BUGS20, 1, 0, pil)
-        if k > 7 and k % 2 == 0:
-            w += shake_defender(1, 1) + se(s["bite"])
+    """Bug Bite (Bed Bugs): a sad motel bed - the foe lies down - itch... itch... - then the mattress ERUPTS
+    with bugs and they launch off it. 1 STAR."""
+    bed = (30, 6) if side == "player" else (-30, 40)
+    hop = 24 if side == "player" else -24
+    w = se(s["whoosh"])
+    for k in range(4):                                                         # the bed slides in
+        w += emit_at(BUGS20, 1, 1, (bed[0] + (3 - k) * 16, bed[1])) + wait(1)
+    w += bmove(side, 264, 3, hop, 2) + _hold(BUGS20, 1, 1, (bed[0] - hop, bed[1]), 3)   # *lies down*
+    for n in range(2):                                                         # itch... itch
+        w += se(s["bite"]) + shake_defender(2, 2) + emit_at(BUGS20, 0, 1, (0, 6)) + _hold(BUGS20, 1, 1, (bed[0] - hop, bed[1]), 5)
+    w += se(s["psting"]) + se(s["bslam"])                                      # ERUPT
+    for k in range(3):
+        w += emit_at(BUGS20, 0, 1, (k * 12 - 12, 4)) + emit_at(BUGS20, 1, 1, (bed[0] - hop, bed[1])) + wait(1)
+    w += bmove(side, 264, 2, 0, 26) + func(34, 8, 0, 1, rgb(220, 60, 60), 13, 0)
+    w += _hold(BUGS20, 1, 1, (bed[0] - hop, bed[1] - 26), 3) + bmove(side, 264, 4, -hop, -28) + func(48)
+    for k in range(10):                                                        # 1 STAR.
+        w += emit_at(BUGB22, 1, 1, (0, 62)) + emit_at(BUGS20, 1, 1, bed)
+        if k == 0:
+            w += se(s["bonk"])
         w += wait(1)
-    return w + func(34, 8, 0, 1, rgb(200, 60, 60), 12, 0) + wait(4)
+    return w
 
 
-def _squeeze_out(side, s):
-    """Wring Out (Squeeze Out): the foe gets wrung like a mop over a mop bucket - squeeeeze - dirty water."""
-    w = se(s["splash"]) + _hold(MOP20, 1, 1, (0, -16), 3)
-    for k in range(4):                                                         # squeeeeze
-        w += emit_at(MOP20, 1, 1, (0, -16)) + shake_defender(2, 1)
-        w += emit_at(MOP20, 0, 1, (0, 6)) + se(s["constrict"] if k % 2 == 0 else s["splat"]) + wait(1)
-        w += emit_at(MOP20, 1, 1, (0, -16)) + wait(1)
-    w += func(34, 8, 0, 1, rgb(150, 140, 90), 13, 0) + func(48)
-    return w + _hold(MOP20, 1, 1, (0, -16), 4)
+def _shakedown(side, s):
+    """Wring Out (Shakedown): the foe gets shaken down - coins fall out - shake - their keys - shake HARDER -
+    a rubber chicken. *squeak*. The attacker pockets the coins."""
+    keys, chick = (-16, 0), (16, 2)
+    have = []
+    def floor():
+        w = []
+        if "keys" in have:
+            w += emit_at(MOP20, 1, 1, keys)
+        if "chick" in have:
+            w += emit_at(MOP20, 2, 1, chick)
+        return w
+    w = []
+    for n, what in enumerate(("coins", "keys", "chick")):
+        w += se(s["rollout"]) + shake_defender(3 + n, 4) + floor() + wait(2) + floor() + wait(2)
+        if what == "coins":
+            w += emit_at(MOP20, 0, 1, (0, 22)) + se(s["chaching"])
+        else:
+            dest = keys if what == "keys" else chick
+            res = 1 if what == "keys" else 2
+            for k in range(3):
+                w += floor() + emit_at(MOP20, res, 1, (dest[0], dest[1] + 24 - k * 8)) + wait(1)
+            have.append(what)
+            w += se(s["bonk"] if what == "keys" else s["astonish"])
+        w += floor() + wait(2) + floor() + wait(2)
+    w += func(48) + se(s["chaching"]) + func(34, 2, 0, 1, rgb(255, 220, 80), 12, 0)   # *pockets it*
+    for k in range(6):
+        w += floor() + wait(1)
+    return w
 
 
 def _loud_pack(side, s):
-    """Magical Leaf (Loud Pack): a neon fanny pack unzips - and bills fly out, homing straight in on the foe."""
+    """Magical Leaf (Loud Pack): the neon fanny pack unzips - a boombox inside - music notes home in on the foe,
+    louder, LOUDER - "TURN IT DOWN!" from off-screen - and a slipper flies in and bonks the attacker."""
     sx = _sx(side)
     fp = (sx * 14, 40) if side == "player" else (-14, 36)
-    w = se(s["bling"]) + _hold(FANNY20, 1, 0, fp, 3) + se(s["swipe"])
-    w += emit_at(FANNY20, 2, 0, fp) + emit_at(FANNY20, 0, 0, (fp[0], fp[1] + 12))
-    w += emit_at(MONEY20, 0 if side == "player" else 1, 0, (fp[0], fp[1] + 4))
-    for k in range(14):
-        w += emit_at(FANNY20, 2, 0, fp)
-        if k % 4 == 3:
-            w += se(s["chaching"]) + shake_defender(1, 1)
-        w += wait(1)
-    return w + func(34, 8, 0, 1, rgb(100, 220, 90), 12, 0) + _hold(FANNY20, 2, 0, fp, 3)
+    bub = (-30, 64) if side == "player" else (40, -20)
+    w = se(s["bling"]) + _hold(FANNY20, 1, 0, fp, 3) + se(s["swipe"]) + _hold(FANNY20, 2, 0, fp, 2)
+    for n in range(3):                                                         # louder... LOUDER
+        w += se(s["bass"]) + emit_at(MONEY20, 0 if side == "player" else 1, 0, (fp[0], fp[1] + 10))
+        for k in range(5):
+            w += emit_at(FANNY20, 2, 0, (fp[0] + (1 if k % 2 else -1) * (n + 1), fp[1]))
+            if k == 4:
+                w += shake_defender(n + 1, 1) + func(68, n + 1, n + 1, 1, 1, 0)
+            w += wait(1)
+    for k in range(8):                                                         # "TURN IT DOWN!"
+        w += emit_at(LOUDB22, 1, 0, bub) + emit_at(FANNY20, 2, 0, fp) + wait(1)
+    w += se(s["whoosh"])
+    for k in range(7):                                                         # *slipper*
+        t = k / 6
+        p = (round(-sx * 56 + (sx * 4 + sx * 56) * t), round(70 + (40 - 70) * t))
+        w += emit_at(LOUDB22, 2, 0, p) + emit_at(FANNY20, 2, 0, fp) + wait(1)
+    w += se(s["bonk"]) + shake_attacker(3, 2) + emit_at(FANNY20, 0, 0, (sx * 4, 44))
+    return w + _hold(FANNY20, 1, 0, fp, 5) + wait(2)
 
 
-def _grind(side, s):
-    """Endeavor (Grind): a treadmill - the attacker runs, and runs, and runs, sweat flying - then grinds the
-    foe down to their level."""
+def _same_smoke(side, s):
+    """Endeavor (Same Smoke): fight prep - the earrings come off - the chain comes off - jelly on the face,
+    *shine* - "WE CAN GET THE SAME SMOKE" - and they swing."""
     sx = _sx(side)
-    tm = (sx * 6, 14) if side == "player" else (-6, 4)
-    w = se(s["bonk"]) + _hold(TREAD20, 1, 0, tm, 2) + emit_at(TREAD20, 0, 0, (0, 40))
-    for k in range(14):                                                        # *run run run*
-        w += emit_at(TREAD20, 1, 0, tm) + bmove(side, 258, 1, 0, 3 if k % 2 else -3)
-        if k % 2 == 0:
-            w += se(s["rollout"] if k % 4 == 0 else s["bonk"])
+    bub = (sx * 50, 58) if side == "player" else (-40, 30)
+    jar = (sx * 42, 40) if side == "player" else (-40, 26)
+    w = []
+    for res, frm, n in ((1, (sx * 6, 34), "earrings"), (2, (sx * 4, 16), "chain")):      # off... off
+        w += se(s["swipe"]) + _hold(TREAD20, res, 0, frm, 3)
+        for k in range(5):
+            t = (k + 1) / 5
+            w += emit_at(TREAD20, res, 0, (round(frm[0] - sx * 70 * t), round(frm[1] + 30 * t - 20 * t * t))) + wait(1)
+        w += se(s["bonk"]) + wait(2)
+    w += se(s["splat"]) + _hold(SMOKEB22, 1, 0, jar, 4, lambda k: shake_attacker(1, 1) if k == 1 else [])   # *jelly*
+    w += se(s["bling"]) + emit_at(TREAD20, 0, 0, (sx * 10, 30)) + _hold(SMOKEB22, 1, 0, jar, 2)
+    for k in range(12):                                                        # "WE CAN GET THE SAME SMOKE"
+        w += emit_at(SMOKEB22, 2, 0, bub)
+        if k == 6:
+            w += bmove(side, 264, 3, 0, 4) + shake_defender(1, 2)              # (the foe gulps)
         w += wait(1)
-    w += se(s["focus"]) + func(34, 2, 0, 1, rgb(255, 80, 60), 13, 0) + _hold(TREAD20, 1, 0, tm, 2)
-    w += bmove(side, 258, 2, sx * 16, 4) + se(s["bslam"]) + flash_screen(2) + shake_defender(3, 3)
-    return w + func(48) + bmove(side, 258, 3, -sx * 16, -4) + wait(4)
+    w += bmove(side, 264, 2, 0, -4) + bmove(side, 258, 2, sx * 20, 6) + se(s["bslam"]) + se(s["kaboom"]) + flash_screen(3)
+    w += shake_defender(4, 3) + func(48) + func(68, 3, 3, 1, 2, 0) + bmove(side, 258, 4, -sx * 20, -6)
+    return w + wait(3)
 
 
-def _sniff_out(side, s):
-    """Odor Sleuth (Sniff Out): a deerstalker drops onto the attacker - a magnifying glass sweeps over the foe
-    - green stink lines - FOUND YOU."""
-    sx = _sx(side)
-    w = se(s["whoosh"]) + stop_motion(SLEUTH20, 2, 0, (0, 90), (0, 44), 4, ease=1.6)
-    w += se(s["bonk"]) + _hold(SLEUTH20, 2, 0, (0, 44), 2)
-    w += emit_at(SLEUTH20, 0, 1, (0, 10)) + se(s["sscent"])
-    for k in range(12):                                                        # *sweep*
-        x = (-24, -8, 8, 24, 8, -8)[k % 6]
-        w += emit_at(SLEUTH20, 2, 0, (0, 44)) + emit_at(SLEUTH20, 1, 1, (x, 18 + (k % 3) * 2))
-        if k % 4 == 0:
-            w += se(s["leer"])
+def _k9_unit(side, s):
+    """Odor Sleuth (K9 Unit): a police K9 trots in and sniffs round the foe - sniff... sniff... - sits - BARKS -
+    and pulls a sandwich off them. Eats it. Trots off."""
+    dog = (36, 15) if side == "player" else (-40, 40)
+    run = 70 if side == "player" else -70
+    w = []
+    for k in range(5):                                                         # *trot trot*
+        w += emit_at(SLEUTH20, 1, 1, (dog[0] + round(run * (1 - (k + 1) / 5)), dog[1] + (2 if k % 2 else 0))) + wait(1)
+    for n in range(2):                                                         # sniff... sniff...
+        w += se(s["sscent"])
+        for k in range(4):
+            w += emit_at(SLEUTH20, 1, 1, (dog[0] - (4 if k % 2 else 0), dog[1]))
+            if k == 1:
+                w += emit_at(SLEUTH20, 0, 1, (dog[0] - 26, dog[1] + 4))
+            w += wait(1)
+        w += _hold(SLEUTH20, 1, 1, dog, 2)
+    for k in range(8):                                                         # *sits* - BARK BARK
+        w += emit_at(SLEUTH20, 2, 1, dog)
+        if k in (1, 4):
+            w += se(s["rage"]) + shake_defender(2, 2) + func(34, 8, 0, 1, rgb(255, 255, 160), 10, 0)
         w += wait(1)
-    w += se(s["lockon"]) + flash_screen(2) + func(34, 8, 0, 1, rgb(160, 220, 60), 13, 0)
-    return w + _hold(SLEUTH20, 1, 1, (0, 18), 4, lambda k: emit_at(SLEUTH20, 2, 0, (0, 44)))
+    for k in range(5):                                                         # *yoink*
+        t = (k + 1) / 5
+        w += emit_at(SLEUTH20, 2, 1, dog) + emit_at(K9B22, 1, 1, (round(dog[0] * t - 4), round(20 + 14 * (1 - (2 * t - 1) ** 2)))) + wait(1)
+    w += se(s["crunch"]) + _hold(SLEUTH20, 2, 1, dog, 3, lambda k: emit_at(K9B22, 1, 1, (dog[0] - 8, dog[1] + 16)) if k < 1 else [])
+    w += se(s["bite"]) + _hold(SLEUTH20, 2, 1, dog, 4)
+    for k in range(5):                                                         # ...and off
+        w += emit_at(SLEUTH20, 1, 1, (dog[0] + round(run * (k + 1) / 5), dog[1] + (2 if k % 2 else 0))) + wait(1)
+    return w + wait(2)
 
 
 def _hide_out(side, s):
-    """Withdraw (Hide Out): the attacker ducks behind a potted ficus - leaves rustle - two eyes peek out. Hidin'."""
+    """Withdraw (Hide Out): they hide behind a tiny potted cactus. Way too small. The foe looks left... looks
+    right... - "ACHOO!" - the cactus tips over."""
     sx = _sx(side)
-    pl = (sx * 4, 6)
-    w = se(s["leaf"]) + bmove(side, 258, 3, -sx * 6, -6) + emit_at(FICUS20, 0, 0, (pl[0], pl[1] + 30))
-    for k in range(14):
-        w += emit_at(FICUS20, 1, 0, (pl[0] + (1 if k in (2, 3, 9) else 0), pl[1]))
-        if k in (5, 6, 7, 11, 12):                                             # *peek*
-            w += emit_at(FICUS20, 2, 0, (pl[0] + sx * (8 if k < 9 else -8), pl[1] + 30))
-        if k == 5:
+    pot = (sx * 16, 24) if side == "player" else (0, 0)
+    bub = (sx * 50, 58) if side == "player" else (-40, 30)
+    w = se(s["whoosh"]) + bmove(side, 258, 3, 0, -6) + _hold(FICUS20, 1, 0, pot, 4)       # *crouches*
+    for d_ in (-12, 24, -12):                                                  # the foe looks left... right...
+        w += bmove(side, 264, 3, d_, 0) + _hold(FICUS20, 1, 0, pot, 4)
+        if d_ != -12 or len(w) > 50:
             w += se(s["leer"])
+    w += _hold(FICUS20, 1, 0, pot, 3)                                          # *...*
+    for k in range(10):                                                        # ACHOO!
+        w += emit_at(HIDEB22, 1, 0, bub) + emit_at(FICUS20, 2 if k > 0 else 1, 0, (pot[0] + sx * 4, pot[1] - 2))
+        if k == 0:
+            w += se(s["cough"]) + shake_attacker(3, 2) + emit_at(FICUS20, 0, 0, (pot[0], pot[1] + 10))
+        if k == 3:
+            w += bmove(side, 264, 2, 0, 6) + func(34, 8, 0, 1, rgb(255, 255, 200), 10, 0)   # *the foe sees them*
         w += wait(1)
-    w += func(34, 2, 0, 1, rgb(120, 220, 120), 12, 0) + _hold(FICUS20, 1, 0, pl, 3)
-    return w + bmove(side, 258, 3, sx * 6, 6)
+    w += bmove(side, 264, 2, 0, -6) + bmove(side, 258, 3, 0, 6) + func(34, 2, 0, 1, rgb(120, 200, 255), 12, 0)
+    return w + wait(3)
 
 
-def _rock_candy(side, s):
-    """Power Gem (Rock Candy): a giant rock candy stick - it sparkles - and fires a pink sugar beam at the foe."""
+def _bling_beam(side, s):
+    """Power Gem (Bling Beam): the iced-out chain - tink - tink - then the medallion fires a gold beam and
+    crusts the foe in diamonds."""
     sx = _sx(side)
-    rc = (sx * 18, 36) if side == "player" else (-18, 32)
-    w = se(s["bling"]) + _hold(CANDY20, 1, 0, rc, 3)
-    w += emit_at(CANDY20, 0, 0, (rc[0], rc[1] + 16)) + se(s["bling"]) + _hold(CANDY20, 1, 0, rc, 2)
-    w += emit_at(GEMBEAM20, 0 if side == "player" else 1, 0, (rc[0], rc[1] + 8)) + se(s["sbeam"])
-    for k in range(12):
-        w += emit_at(CANDY20, 1, 0, rc)
-        if k > 5 and k % 2 == 0:
-            w += shake_defender(1, 1) + emit_at(CANDY20, 0, 1, (0, 20))
+    med = (sx * 12, 30) if side == "player" else (-8, 16)
+    w = se(s["bling"]) + _hold(CANDY20, 1, 0, med, 3)
+    for n in range(2):                                                         # tink... tink
+        w += se(s["bling"]) + emit_at(CANDY20, 0, 0, (med[0], med[1] - 6)) + _hold(CANDY20, 1, 0, med, 5)
+    w += _hold(CANDY20, 1, 0, med, 2) + se(s["sbeam"]) + flash_screen(2)       # BLING
+    w += emit_at(GEMBEAM20, 0 if side == "player" else 1, 0, (med[0], med[1] - 6))
+    for k in range(14):
+        w += emit_at(CANDY20, 1, 0, med)
+        if k > 4 and k % 2 == 0:
+            w += emit_at(CANDY20, 0, 1, ((k * 13) % 30 - 15, 10 + (k * 7) % 30)) + shake_defender(1, 1)
+        if k == 8:
+            w += se(s["bling"]) + func(34, 8, 0, 1, rgb(210, 245, 255), 14, 0)    # *iced out*
         w += wait(1)
-    return w + func(34, 8, 0, 1, rgb(255, 120, 230), 13, 0) + se(s["bling"]) + wait(4)
+    return w + func(48) + wait(4)
 
 
 def _mooch(side, s):
-    """Leech Life (Mooch): a giant milkshake with a straw stuck in the foe - sluuurp - the attacker drinks it."""
+    """Leech Life (Mooch): the foe's got a tray of food - the attacker takes a fry - another fry - then the
+    WHOLE burger. Munch. The foe just stares."""
     sx = _sx(side)
-    ms = (-sx * 30, 34) if side == "player" else (30, 30)
-    w = se(s["bonk"]) + _hold(SHAKE20, 1, 1, ms, 3) + se(s["absorb"])
-    for k in range(16):                                                        # sluuurp
-        w += emit_at(SHAKE20, 1, 1, ms)
-        if k % 4 == 0:
-            w += emit_at(SHAKE20, 0, 1, (ms[0], ms[1] + 20)) + shake_defender(1, 1) + se(s["mdrain"])
-        if k == 8:
-            w += func(34, 8, 0, 1, rgb(255, 170, 200), 12, 0)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    tray = (34, 14) if side == "player" else (-36, 40)
+    tray_a = (dx + tray[0], dy + tray[1])
+    mouth = (sx * 10, 30) if side == "player" else (-10, 24)
+    have = {"burger": True}
+    t_ = lambda: emit_at(SHAKE20, 1 if have["burger"] else 2, 1, tray)
+    w = se(s["bling"]) + _hold(SHAKE20, 1, 1, tray, 4)
+    for n, (res, kit) in enumerate(((1, MOOCHB22), (1, MOOCHB22), (2, MOOCHB22))):   # fry... fry... BURGER
+        if n == 2:
+            have["burger"] = False
+            w += t_() + wait(1) + t_() + wait(1)
+        w += se(s["whoosh"])
+        w += _lob(kit, res, side, (tray_a[0] - 8, tray_a[1] + 10), mouth, 5, 24, lambda k: t_())
+        w += se(s["crunch"]) + shake_attacker(1, 2) + emit_at(SHAKE20, 0, 0, mouth) + t_() + wait(1)
+        w += func(34, 2, 0, 1, rgb(120, 255, 140), 10 + n, 0) + se(s["absorb"]) + t_() + wait(2) + t_() + wait(2)
+    for k in range(8):                                                         # *stares*
+        w += t_()
+        if k == 2:
+            w += func(34, 8, 0, 1, rgb(255, 80, 80), 12, 0) + shake_defender(2, 2)
         w += wait(1)
-    return w + func(34, 2, 0, 1, rgb(255, 180, 210), 12, 0) + se(s["absorb"]) + wait(4)
+    return w
 
 
 def _peep_game(side, s):
-    """Detect (Peep Game): a periscope pops up - looks left - looks right - sees it all coming. Peeped."""
+    """Detect (Peep Game): the foe lunges - the attacker is already a step to the side - again - then the
+    attacker holds up the foe's own playbook: PLAN: HIT EM. PEEPED."""
     sx = _sx(side)
-    ps = (sx * 16, 30) if side == "player" else (-16, 26)
-    w = se(s["whoosh"]) + stop_motion(SCOPE20, 1, 0, (ps[0], ps[1] - 30), ps, 3, ease=.8)
-    for res in (1, 2, 1):                                                      # look... look... look
-        w += _hold(SCOPE20, res, 0, ps, 3) + se(s["leer"])
-    w += emit_at(SCOPE20, 0, 0, (ps[0], ps[1] + 30)) + se(s["xsense"]) + flash_screen(2)
-    w += func(34, 2, 0, 1, rgb(255, 255, 200), 12, 0) + _hold(SCOPE20, 1, 0, ps, 4)
-    return w + stop_motion(SCOPE20, 1, 0, ps, (ps[0], ps[1] - 30), 3, ease=1.4)
+    board = (sx * 42, 44) if side == "player" else (-40, 30)
+    w = []
+    for n in range(2):                                                         # lunge... *already gone*
+        w += bmove(side, 258, 2, -sx * 16, 0) + wait(1)
+        w += se(s["whoosh"]) + bmove(side, 264, 3, -sx * 26, -8) + wait(3)
+        w += se(s["leer"]) + bmove(side, 264, 3, sx * 26, 8) + bmove(side, 258, 2, sx * 16, 0) + wait(3)
+    w += se(s["disable"]) + _hold(SCOPE20, 1, 0, board, 4)                     # *the playbook*
+    w += func(34, 8, 0, 1, rgb(255, 255, 160), 13, 0) + shake_defender(2, 2)
+    for k in range(12):                                                        # PEEPED.
+        w += emit_at(SCOPE20, 1, 0, board)
+        if k >= 2:
+            w += emit_at(SCOPE20, 2, 1, (0, 60) if side == "player" else (0, 50))      # (over the foe: they got peeped)
+        if k == 2:
+            w += se(s["bonk"]) + emit_at(SCOPE20, 0, 0, (0, 30))
+        w += wait(1)
+    return w + func(34, 2, 0, 1, rgb(255, 255, 200), 12, 0) + wait(2)
 
 
 def _zaza_storm(side, s):
-    """Leaf Storm (Zaza Storm): a whirlwind of green leaves kicks up off the attacker and buries the foe."""
+    """Leaf Storm (Zaza Storm): the TV weather report - LIGHT... MODERATE... SEVERE ZAZA WARNING - and the
+    storm hits: waves of leaves bury the foe."""
+    sx = _sx(side)
+    tv = (sx * 40, 44) if side == "player" else (-40, 30)
     r = 0 if side == "player" else 1
-    w = se(s["twister"]) + func(33, 0, 1, 0, 6, rgb(90, 180, 60))
+    w = []
+    for kit, res, ticks, snd in ((ZAZAB22, 1, 6, "clock"), (ZAZAB22, 2, 6, "clock"), (ZAZAC22, 1, 10, "alarm")):
+        w += se(s[snd]) + _hold(kit, res, 0, tv, ticks, lambda k: (flash_screen(2) + shake_attacker(1, 1)) if (k == 2 and res == 1 and kit == ZAZAC22) else [])
+    w += se(s["twister"]) + func(33, 0, 1, 0, 6, rgb(90, 180, 60))
     for k in range(3):                                                         # wave, wave, wave
         w += emit_at(LEAVES20, r, 0, (0, 10 + k * 8)) + se(s["leaf"]) + bmove(side, 258, 2, 0, 3) + wait(2)
         w += bmove(side, 258, 2, 0, -3) + se(s["gust"]) + wait(2)
@@ -10102,73 +12250,289 @@ def _zaza_storm(side, s):
 
 
 def _dip_out(side, s):
-    """Teleport (Dip Out): an EXIT door shows up - it swings open - light pours out - they're gone."""
+    """Teleport (Dip Out): they sneak to the EXIT - rattle - locked - rattle - LOCKED - so they dive straight
+    out the window instead. Glass everywhere. Gone."""
     sx = _sx(side)
-    dr = (sx * 30, 26) if side == "player" else (-30, 22)
-    w = se(s["bonk"]) + _hold(EXIT20, 1, 0, dr, 4) + se(s["disable"])
-    w += emit_at(EXIT20, 2, 0, dr) + emit_at(EXIT20, 0, 0, dr) + _hold(EXIT20, 2, 0, dr, 2)
-    w += se(s["whoosh"]) + bmove(side, 258, 3, sx * 26, 0) + func(40, 2, 1) + _hold(EXIT20, 2, 0, dr, 3)
-    w += se(s["bonk"]) + _hold(EXIT20, 1, 0, dr, 4) + bmove(side, 258, 1, -sx * 26, 0)
+    door = (sx * 40, 40) if side == "player" else (-40, 26)
+    win = (-sx * 34, 60) if side == "player" else (34, 30)
+    room = lambda broken=False: emit_at(EXIT20, 1, 0, door) + emit_at(DIPB22 if broken else EXIT20, 1 if broken else 2, 0, win)
+    w = []
+    for k in range(3):
+        w += room() + wait(1)
+    w += bmove(side, 258, 3, sx * 12, 0) + room() + wait(1)                    # *sneaks over*
+    for n in range(2):                                                         # rattle... LOCKED
+        for k in range(4):
+            w += emit_at(EXIT20, 1, 0, (door[0] + (2 if k % 2 else -2), door[1])) + emit_at(EXIT20, 2, 0, win)
+            if k % 2 == 0:
+                w += se(s["bonk"])
+            w += wait(1)
+        w += shake_attacker(1, 1)
+        for k in range(4):
+            w += room() + wait(1)
+    w += se(s["whoosh"]) + bmove(side, 258, 3, (win[0] - sx * 12) // 2, 26) + room() + wait(1)   # *dive*
+    w += se(s["smash"]) + se(s["crack"]) + emit_at(EXIT20, 0, 0, (win[0] - sx * 12, win[1] - 26)) + func(40, 2, 1)
+    for k in range(10):                                                        # gone.
+        w += room(True) + wait(1)
+    w += bmove(side, 258, 1, -(win[0] - sx * 12) // 2 - sx * 12, -26) + room(True) + wait(1)
+    for k in range(4):
+        w += room(True) + wait(1)
     return w + func(40, 2, 0) + wait(2)
 
 
-def _mouthwash_spit(side, s):
-    """Spit Up (Spit Bars): the attacker swigs mouthwash - gargles - and SPITS a blue stream at the foe."""
+def _spit_bars2(side, s):
+    """Spit Up (Spit Bars): they spit BARS - literally. A steel bar flies at the foe - CLANG - another - CLANG -
+    then a whole jail cell slams down over them. LOCKED UP."""
     sx = _sx(side)
-    mw = (sx * 10, 46) if side == "player" else (-10, 40)
-    w = se(s["bonk"]) + _hold(MOUTH20, 1, 0, mw, 3)
-    for k in range(6):                                                         # *gargle*
-        w += emit_at(MOUTH20, 1, 0, mw) + shake_attacker(1, 1) + (emit_at(MOUTH20, 0, 0, (0, 46)) if k % 2 else [])
-        w += (se(s["bubble"]) if k % 2 == 0 else []) + wait(1)
-    w += emit_at(SPITFX20, 0 if side == "player" else 1, 0, (sx * 8, 34)) + se(s["hpump"])
-    for k in range(10):
-        if k > 3 and k % 2 == 0:
-            w += shake_defender(2, 1) + se(s["splash"])
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    mouth = (sx * 14, 34) if side == "player" else (-14, 28)
+    w = []
+    for n in range(2):                                                         # ptoo... CLANG
+        w += se(s["spray"]) + shake_attacker(1, 1) + emit_at(MOUTH20, 0, 0, mouth)
+        w += stop_motion(MOUTH20, 1, 0, mouth, (dx - sx * 6, dy + 22), 4, ease=1.2)
+        w += se(s["ishard"]) + se(s["bonk"]) + shake_defender(2, 2) + wait(3)
+    w += se(s["spray"]) + shake_attacker(2, 1) + wait(2)
+    for k in range(4):                                                         # *the cell drops*
+        w += emit_at(SPITB22, 1, 1, (0, 22 + round(70 * (1 - (k + 1) / 4) ** 1.5))) + wait(1)
+    w += se(s["bslam"]) + se(s["kaboom"]) + flash_screen(3) + shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 2, 0)
+    for k in range(12):                                                        # LOCKED UP.
+        w += emit_at(SPITB22, 2, 1, (0, 64)) + emit_at(SPITB22, 1, 1, (0, 22))
+        if k == 2:
+            w += se(s["disable"])
         w += wait(1)
-    return w + func(34, 8, 0, 1, rgb(80, 170, 255), 13, 0) + func(48) + wait(3)
+    return w
 
 
 def _post_up(side, s):
-    """Ingrain (Post Up): a lawn chair with an umbrella unfolds - they sit - they're not moving. Ever."""
+    """Ingrain (Post Up): a lawn chair - they sit - a cooler - then a whole grill, fired up. They are NOT
+    moving. Healing every beat."""
     sx = _sx(side)
     ch = (sx * 12, 14) if side == "player" else (-12, 4)
-    w = se(s["bonk"]) + _hold(CHAIR20, 1, 0, ch, 2) + bmove(side, 258, 3, 0, -6) + se(s["flop"])
-    for k in range(14):
-        w += emit_at(CHAIR20, 1, 0, ch)
-        if k % 5 == 0:
-            w += emit_at(CHAIR20, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(120, 255, 140), 12, 0) + se(s["absorb"])
+    cool = (sx * 40, 30) if side == "player" else (-40, 10)
+    grill = (-sx * 34, 34) if side == "player" else (34, 20)
+    have = []
+    def camp():
+        w = emit_at(CHAIR20, 1, 0, ch)
+        if "cooler" in have:
+            w += emit_at(CHAIR20, 2, 0, cool)
+        if "grill" in have:
+            w += emit_at(POSTB22, 1, 0, grill)
+        return w
+    w = se(s["bonk"]) + camp() + wait(2) + bmove(side, 258, 3, 0, -6) + se(s["flop"]) + camp() + wait(2)
+    for what in ("cooler", "grill"):                                           # ...and a cooler... and a GRILL
+        w += func(34, 2, 0, 1, rgb(120, 255, 140), 12, 0) + se(s["absorb"])
+        for k in range(4):
+            w += camp() + wait(1)
+        have.append(what)
+        w += se(s["bonk"] if what == "cooler" else s["flame"]) + camp() + wait(1)
+        if what == "grill":
+            w += emit_at(POSTB22, 0, 0, (grill[0], grill[1] + 20))
+    for k in range(12):                                                        # *not moving*
+        w += camp()
+        if k % 4 == 0:
+            w += emit_at(CHAIR20, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(120, 255, 140), 12, 0)
+        if k == 6:
+            w += emit_at(POSTB22, 0, 0, (grill[0], grill[1] + 20))
         w += wait(1)
-    return w + bmove(side, 258, 3, 0, 6) + _hold(CHAIR20, 1, 0, ch, 2)
+    return w + bmove(side, 258, 3, 0, 6) + camp() + wait(1)
 
 
 def _stab_combo(side, s):
-    """Fury Cutter (Stab Combo): slash - "2 HIT!" - slash slash - "3 HIT!" - slash slash slash - "5 HIT COMBO!"."""
+    """Fury Cutter (Stab Combo): slash - "2 HIT!" - slash slash - "3 HIT!" - slash slash slash - "5 HIT COMBO!"
+    - they go for a sixth - the foe ducks and clocks them. COMBO BREAKER!"""
     sx = _sx(side)
-    sign = (-sx * 30, 52) if side == "player" else (30, 50)
+    sign = (6, 60) if side == "player" else (30, 50)
     w = []
     for n, (cnt, sres, sps) in enumerate(((2, 2, SLASH20), (1, 0, COMBO20), (2, 1, COMBO20))):
         for c in range(cnt):
             w += bmove(side, 258, 1, sx * 10, 3) + emit_at(SLASH20, 1, 1, (0, 20)) + emit_at(SLASH20, 0, 1, (0, 20))
             w += se(s["slash"]) + shake_defender(2, 1) + bmove(side, 258, 1, -sx * 10, -3) + wait(1)
         w += emit_at(sps, sres, 1, sign) + se(s["bling"] if n < 2 else s["chaching"]) + wait(3)
-    return w + flash_screen(3) + func(48) + wait(4)
-
-
-def _blood_pact(side, s):
-    """Destiny Bond (Blood Pact): two halves of a BFF necklace - one on each - they snap together - and a purple
-    line ties their fates."""
-    sx = _sx(side)
-    lh, rh = ((1, 2) if side == "player" else (2, 1))
-    a, d = (sx * 6, 50), (0, 46)
-    w = se(s["curse"]) + _hold(BFF20, lh, 0, a, 2, lambda k: emit_at(BFF20, rh, 1, d))
-    w += emit_at(LINK20, 0 if side == "player" else 1, 0, (0, 30)) + se(s["dteam"])
-    for k in range(10):
-        w += emit_at(BFF20, lh, 0, a) + emit_at(BFF20, rh, 1, d)
-        if k == 2:
-            w += emit_at(BFF20, 0, 0, (0, 30)) + emit_at(BFF20, 0, 1, (0, 30))
+    w += flash_screen(3) + func(48) + wait(5)
+    w += bmove(side, 258, 2, sx * 16, 4) + se(s["whoosh"]) + bmove(side, 264, 2, 0, -10) + wait(2)   # a sixth... *ducks*
+    w += bmove(side, 264, 2, 0, 10) + se(s["bslam"]) + flash_screen(2) + shake_attacker(4, 3)        # *CLOCKED*
+    w += bmove(side, 258, 3, -sx * 16, -4)
+    for k in range(10):                                                        # COMBO BREAKER!
+        w += emit_at(COMBOB22, 1, 1, sign)
+        if k == 0:
+            w += se(s["kaboom"]) + func(34, 2, 0, 1, rgb(255, 60, 60), 12, 0)
         w += wait(1)
-    w += se(s["bling"]) + flash_screen(2) + func(34, 2, 0, 1, rgb(160, 40, 220), 13, 0)
-    return w + func(34, 8, 0, 1, rgb(160, 40, 220), 13, 0) + wait(6)
+    return w
+
+
+def _ride_or_die(side, s):
+    """Destiny Bond (Ride or Die): handcuffs - CLICK on the attacker - CLICK on the foe - a chain between them -
+    then the attacker throws the key away. Way away. *distant splash*. Ride or die."""
+    sx = _sx(side)
+    cuff_a = (sx * 16, 24) if side == "player" else (-16, 18)
+    cuff_f = (-sx * 12, 22) if side == "player" else (12, 18)
+    both = lambda: emit_at(BFF20, 1, 0, cuff_a) + emit_at(BFF20, 1, 1, cuff_f)
+    w = se(s["disable"]) + _hold(BFF20, 1, 0, cuff_a, 4)                      # CLICK
+    w += se(s["disable"]) + shake_defender(1, 1)
+    for k in range(4):                                                         # CLICK
+        w += both() + wait(1)
+    w += emit_at(LINK20, 0 if side == "player" else 1, 0, (cuff_a[0], cuff_a[1])) + se(s["dteam"])
+    for k in range(8):                                                         # *chained*
+        w += both() + wait(1)
+    key = (sx * 22, 44) if side == "player" else (-22, 36)
+    w += _hold(BFF20, 2, 0, key, 3, lambda k: both())                          # the key...
+    w += se(s["whoosh"])
+    for k in range(6):                                                         # ...YEET
+        t = (k + 1) / 6
+        w += both() + emit_at(BFF20, 2, 0, (round(key[0] - sx * 150 * t), round(key[1] + 80 * t - 30 * t * t))) + wait(1)
+    for k in range(5):                                                         # *...*
+        w += both() + wait(1)
+    w += se(s["splash"])                                                       # *plip* - somewhere far away
+    for k in range(8):
+        w += both()
+        if k == 2:
+            w += shake_attacker(1, 2) + shake_defender(1, 2) + func(34, 8, 0, 1, rgb(160, 40, 220), 12, 0)
+        w += wait(1)
+    return w
+
+
+def _pistol_whip(side, s):
+    """Scratch (Pistol Whip): walk right up to them - aim - *click*. ...*click*. They look at the gun. It's
+    empty. So they WHIP them with it. A big shiny lump comes up."""
+    w = func(57, 8, 70, -34, 258) + wait(9)                                    # walk right up to them
+    w += func(36, 1, 0, 1, 4, 258) + wait(4)                                   # menacing...
+    for k in range(2):                                                         # *click* ... *click*
+        w += se(s["disable"]) + _hold(WHIP21, 1, 1, (-30 - k * 6, 34 + k * 8), 5)
+        w += wait(3)
+    w += shake_attacker(1, 2) + wait(5)                                        # *looks at the gun*
+    w += func(52, 1, -10, 258) + wait(1) + func(52, 1, 22, 258)               # WHAP
+    w += se(s["bslam"]) + se(s["bonk"]) + flash_screen(4) + emit_at(WHIP21, 0, 1, (0, 32))
+    w += shake_defender(4, 3) + func(48) + func(52, 3, -12, 258)
+    for k in range(10):                                                        # the lump comes up
+        w += emit_at(WHIP21, 2, 1, (0, 30 + min(k, 4)))
+        if k == 2:
+            w += se(s["bonk"]) + emit_at(WHIP21, 0, 1, (2, 40))
+        w += wait(1)
+    return w + func(57, 10, -70, 34, 258) + wait(12)
+
+
+def _double_tap(side, s):
+    """Double Kick (Double Tap): they pull up the foe's duck-lips selfie - tap - a giant heart flies over and
+    SMACKS them - tap - another one - +2. The foe's reply: U GOT BLOCKED."""
+    sx = _sx(side)
+    ph = (sx * 30, 54) if side == "player" else (-30, 40)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"])
+    for k in range(5):                                                         # *scrollin'*
+        w += emit_at(DTAP21, 1, 0, (ph[0], ph[1] + (1 if k % 2 else 0))) + wait(1)
+    for n, (kit, res) in enumerate(((DTAP21, 2), (DTAPB21, 1))):              # tap... tap
+        w += se(s["pop"]) + emit_at(kit, res, 0, ph) + emit_at(DTAP21, 0, 0, (ph[0] - sx * 8, ph[1] - 6)) + wait(1)
+        for t in (0, .25, .5, .75, 1):
+            p = (round(ph[0] + (dx - ph[0]) * t), round(ph[1] + (dy + 20 - ph[1]) * t + 14 * (1 - (2 * t - 1) ** 2)))
+            w += emit_at(kit, res, 0, ph) + emit_at(HEART21, 1, 0, p) + wait(1)
+        w += se(s["bonk"]) + se(s["bling"]) + emit_at(DTAP21, 0, 1, (0, 22)) + shake_defender(3, 2) + func(48)
+        w += _hold(kit, res, 0, ph, 3)
+    w += func(34, 8, 0, 1, rgb(255, 60, 60), 13, 0) + _hold(DTAPB21, 1, 0, ph, 4)   # ...the foe's reply
+    w += se(s["faint"]) + _hold(DTAPB21, 2, 0, ph, 3)
+    w += bmove(side, 258, 3, 0, -5) + _hold(DTAPB21, 2, 0, ph, 8)            # *droops*
+    return w + bmove(side, 258, 3, 0, 5) + wait(2)
+
+
+def _licked_it(side, s):
+    """Lick (Licked It): the foe's got a triple-scoop cone - the attacker walks up - and licks it. All three
+    scoops. I LICKED IT. The foe is frozen in pure disgust."""
+    cone = (-24, 18)
+    w = se(s["bling"]) + _hold(LICK21, 1, 1, cone, 5, lambda k: emit_at(LICK21, 0, 1, cone) if k == 1 else [])
+    w += func(57, 8, 70, -34, 258) + _hold(LICK21, 1, 1, cone, 2) + wait(6)   # *walks up*
+    w += _hold(LICK21, 1, 1, cone, 3)                                          # ...
+    w += se(s["mdrain"]) + se(s["splat"]) + emit_at(LICK21, 0, 1, (cone[0], cone[1] + 20))     # *SLUUURP*
+    w += emit_at(LICK21, 2, 1, cone) + wait(1)
+    for k in range(12):
+        w += emit_at(LICK21, 2, 1, cone)
+        if k == 1:
+            w += se(s["bonk"]) + emit_at(SIGNS21, 1, 1, (-20, 62))
+        elif 1 < k < 9:
+            w += emit_at(SIGNS21, 1, 1, (-20, 62))
+        if k in (3, 6, 9):
+            w += func(34, 8, 0, 1, rgb(255, 230, 60), 13, 0) + shake_defender(2, 1) + se(s["zap"])   # *frozen*
+        w += wait(1)
+    w += func(48) + func(57, 10, -70, 34, 258) + _hold(LICK21, 2, 1, cone, 3) + wait(8)
+    return w
+
+
+def _ricochet(side, s):
+    """Swift (Ricochet): they fire the WRONG way - PING off the stop sign - CLANG off the trash can - BONK off
+    a passing pigeon - and it STILL finds the foe. Never misses. Then they blow the smoke off."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    stop, can = ((-44, 56), (38, 45)) if side == "player" else ((44, 10), (-60, -12))
+    pig0 = (dx - sx * 30, dy + 46)
+    can_l = _l3(1.2)
+    mz = MUZZLE[side]
+    state = {"stop": 1, "can": (RICO21, 3, can_l)}
+    def street(pig=None):
+        w = emit_at(RICO21, state["stop"], 0, stop)
+        kit, res, l_ = state["can"]
+        w += emit_at(kit, res, 0, (can[0], can[1] + l_))
+        if pig:
+            w += emit_at(RICOB21, 2, 0, pig)
+        return w
+    def fly(a, b_, steps, pig=None):
+        w = []
+        for k in range(1, steps + 1):
+            t = k / steps
+            p = (round(a[0] + (b_[0] - a[0]) * t), round(a[1] + (b_[1] - a[1]) * t))
+            w += street(pig(k) if pig else None) + emit_at(RICO21, 0, 0, p) + wait(1)
+        return w
+    w = []
+    for k in range(4):                                                         # just a regular street
+        w += street() + wait(1)
+    w += se(s["boom"]) + muzzle(GUN, FLASH, side) + flash_screen(4) + func(52, 1, sx * 4, 258)    # BANG - backwards
+    w += fly(mz, stop, 3)
+    w += se(s["ishard"]) + se(s["bonk"]) + emit_at(RICO21, 0, 0, stop)        # PING
+    state["stop"] = 2
+    w += fly(stop, can, 3)
+    w += se(s["smash"]) + emit_at(RICO21, 0, 0, can) + shake_attacker(1, 1)  # CLANG
+    state["can"] = (RICOB21, 1, 0)
+    pig_at = lambda k: (pig0[0] + sx * 60 - sx * k * 12, pig0[1])
+    w += fly(can, pig_at(5), 5, pig_at)
+    w += se(s["bonk"]) + emit_at(RICOB21, 0, 0, pig_at(5))                    # BONK - the pigeon
+    for k in range(5):                                                         # *the pigeon goes down*
+        w += street((pig_at(5)[0] + sx * k * 3, pig_at(5)[1] - k * k * 3)) + emit_at(RICO21, 0, 0, (
+            round(pig_at(5)[0] + (dx - pig_at(5)[0]) * (k + 1) / 5), round(pig_at(5)[1] + (dy + 14 - pig_at(5)[1]) * (k + 1) / 5)))
+        w += wait(1)
+    w += se(s["boom"]) + flash_screen(4) + emit_at(RICO21, 0, 1, (0, 14)) + shake_defender(4, 3) + func(48)   # ...and in
+    for k in range(6):
+        w += street() + wait(1)
+    w += muzzle(SMOKE, PUFF, side) + se(s["whoosh"])                           # *blows the smoke off*
+    for k in range(6):
+        w += street() + wait(1)
+    return w
+
+
+def _smooth_talk(side, s):
+    """Hypnosis (Smooth Talk): rose out, leanin' in - HEY... - U FROM TENNESSEE? - CUZ UR THE ONLY 10 I SEE -
+    and the foe is ASLEEP. Bored to sleep. ...HELLO?"""
+    sx = _sx(side)
+    rose = (sx * 30, 22) if side == "player" else (-26, 18)
+    bub = (sx * 50, 58) if side == "player" else (-40, 30)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["bling"]) + emit_at(TALK21, 0, 0, rose) + bmove(side, 258, 3, sx * 6, 2)
+    for kit, res, ticks, foe in ((TALK21, 2, 7, None), (TALKB21, 1, 9, "yawn"), (TALKB21, 2, 11, "out")):
+        w += se(s["captivate"])
+        for k in range(ticks):
+            w += emit_at(TALK21, 1, 0, rose) + emit_at(kit, res, 0, bub)
+            if foe == "yawn" and k == 4:
+                w += func(34, 8, 0, 1, rgb(140, 160, 255), 10, 0) + shake_defender(1, 1)
+            if foe == "out" and k == 6:                                        # ...out cold
+                w += se(s["sleep"]) + bmove(side, 264, 4, 0, -6) + func(34, 8, 0, 1, rgb(90, 120, 255), 12, 0)
+            if foe == "out" and k > 6:
+                w += emit_at(TALK21, 3, 1, (8 + k * 2, 26 + (k - 6) * 6 + _l3(.6)))
+            w += wait(1)
+        w += emit_at(TALK21, 1, 0, rose) + wait(1)
+    for k in range(10):                                                        # ...HELLO?
+        w += emit_at(TALK21, 1, 0, rose) + emit_at(SIGNS21, 2, 0, bub)
+        if k % 3 == 0:
+            w += emit_at(TALK21, 3, 1, (12 + k, 30 + k * 3 + _l3(.6)))
+        if k == 2:
+            w += se(s["leer"])
+        w += wait(1)
+    return w + bmove(side, 258, 3, -sx * 6, -2) + bmove(side, 264, 4, 0, 6) + wait(2)
+
 
 # ------------------------------------------------------------------ effect animations (a/0/6/1)
 # The battler it's about is the script's "attacker" (InitMoveAnimData passes it as both), so all of these emit
@@ -10236,6 +12600,4652 @@ _confused = _condition(WHERE, QMARKS, rgb(255, 255, 255), "confuse")
 _crushin = _condition(CRUSH, HEARTS2, rgb(255, 120, 180), "loyal")
 _gains = _condition(GAINS, UPS, rgb(255, 80, 60), "focus")
 _down_bad = _condition(DOWNBAD, DOWNS, rgb(60, 110, 255), "tdown")
+
+
+# ------------------------------------------------------------------ set 23: thirty new moves
+
+_S23_AT = {"player": (64, 140), "enemy": (185, 81)}                # battler centres on screen (attacker side ->)
+
+
+def _s23(side, who, xy):
+    """Screen point (x, y down) -> emit_at offset for the attacker (who 0) / defender (who 1) of this side."""
+    other = "enemy" if side == "player" else "player"
+    bx, by = _S23_AT[side if who == 0 else other]
+    return round(xy[0] - bx), round(by - xy[1])
+
+
+def _p(side, a, b):
+    """a on the player's turn, b on the enemy's."""
+    return a if side == "player" else b
+
+
+def _lerp(a, b, t):
+    return round(a[0] + (b[0] - a[0]) * t), round(a[1] + (b[1] - a[1]) * t)
+
+
+
+def _got_milk(side, s):
+    """Milk Drink (Got Milk): a gallon jug. Sip (heal). Sip. Then they CHUG the whole thing, toss the empty jug
+    over their shoulder - GOT MILK?"""
+    jug = _s23(side, 0, _p(side, (102, 96), (150, 66)))
+    mouth = _s23(side, 0, _p(side, (70, 108), (180, 60)))
+    toss = _s23(side, 0, _p(side, (-30, 30), (290, 0)))
+    sign = _p(side, (0, 58), (0, 50))
+    w = se(s["pop"]) + _hold(MILK23, 1, 0, jug, 4)
+    for n, (lv, after) in enumerate(((1, 1), (1, 2))):                        # sip... sip...
+        for k in (1, 2):
+            w += emit_at(MILK23, lv, 0, _lerp(jug, mouth, k / 2)) + wait(1)
+        w += se(s["bubble"]) + _hold(MILK23, lv, 0, mouth, 4, lambda k: shake_attacker(1, 1) if k == 1 else [])
+        w += se(s["absorb"]) + emit_at(MILK23, 0, 0, (0, 20)) + func(34, 2, 0, 1, rgb(240, 250, 255), 8, 0)
+        for k in (1, 2):
+            w += emit_at(MILK23, after, 0, _lerp(mouth, jug, k / 2)) + wait(1)
+        w += _hold(MILK23, after, 0, jug, 3)
+    w += _hold(MILK23, 2, 0, jug, 2)                                           # *...*
+    for k in (1, 2):
+        w += emit_at(MILK23, 2, 0, _lerp(jug, mouth, k / 2)) + wait(1)
+    chug = _p(side, 1, 2)
+    for k in range(14):                                                        # CHUG CHUG CHUG
+        w += emit_at(MILKB23, chug, 0, (mouth[0], mouth[1] + (2 if k % 2 else 0)))
+        if k % 3 == 0:
+            w += se(s["bubble"]) + shake_attacker(1, 1) + emit_at(MILKB23, 0, 0, (mouth[0] - 8, mouth[1] - 14))
+        if k in (5, 10):
+            w += se(s["absorb"]) + emit_at(MILK23, 0, 0, (0, 20))
+        w += wait(1)
+    w += se(s["whoosh"]) + _lob(MILKC23, 1, side, mouth, toss, 6, 30)        # *tosses the jug*
+    w += se(s["bling"]) + func(34, 2, 0, 1, rgb(120, 255, 140), 12, 0)
+    w += _hold(MILKC23, 2, 0, sign, 12, lambda k: emit_at(MILK23, 0, 0, (0, 20)) if k == 3 else [])
+    return w + wait(2)
+
+
+def _half_off(side, s):
+    """Super Fang (Half Off): a price gun - click, a $20 sticker on the foe - click, SALE - then a giant red
+    50% OFF tag slaps on and they bite. The foe's worth half now."""
+    sx = _sx(side)
+    gun = _s23(side, 0, _p(side, (106, 98), (150, 64)))
+    tip = (gun[0] + sx * 20, gun[1] + 4)
+    stick = [_p(side, (-12, 10), (-14, 14)), _p(side, (14, -4), (12, 30))]
+    tag = _p(side, (0, 46), (0, 54))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    on = []
+    g = _p(side, 1, 2)
+
+    def dress():
+        return [w_ for i in on for w_ in emit_at(HALFB23, i + 1, 1, stick[i])]
+    w = se(s["pop"]) + _hold(HALF23, g, 0, gun, 3)
+    for n in range(2):                                                         # click... click...
+        w += se(s["lockon"]) + emit_at(HALF23, 0, 0, tip)
+        for k, p in enumerate(_arc(tip, (dx + stick[n][0], dy + stick[n][1]), 5, 14, ease=1.0)[1:]):
+            w += emit_at(HALF23, g, 0, (gun[0] - sx * (2 if k == 0 else 0), gun[1])) + emit_at(HALFB23, n + 1, 0, p) + dress() + wait(1)
+        on.append(n)
+        w += se(s["disable"]) + shake_defender(1, 1)
+        if n == 1:
+            w += bmove(side, 264, 3, 0, -6)                                    # *looks down at it*
+        w += _hold(HALF23, g, 0, gun, 4, lambda k: dress())
+        if n == 1:
+            w += bmove(side, 264, 3, 0, 6)
+    w += _hold(HALF23, g, 0, gun, 3, lambda k: dress())                        # *...*
+    for k in range(4):                                                         # 50% OFF
+        w += emit_at(HALFC23, 1, 1, (tag[0], tag[1] + round(60 * (1 - (k + 1) / 4) ** 1.4))) + dress() + wait(1)
+    w += se(s["bslam"]) + se(s["chaching"]) + emit_at(HALFC23, 0, 1, tag) + shake_defender(2, 2)
+    w += _hold(HALFC23, 1, 1, tag, 8, lambda k: dress())
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["bite"]) + se(s["crunch"]) + flash_screen(3)    # CHOMP
+    w += shake_defender(4, 3) + func(48) + func(34, 8, 0, 1, rgb(255, 60, 60), 12, 0)
+    w += _hold(HALFC23, 1, 1, tag, 3, lambda k: dress())
+    return w + bmove(side, 258, 4, -sx * 22, -8) + _hold(HALFC23, 1, 1, tag, 3, lambda k: dress())
+
+
+def _crop_duster(side, s):
+    """Poison Gas (Crop Duster): they stroll past the foe real casual - pfft, a little green puff. Stroll back -
+    pfft, the foe coughs. Then a real crop-duster plane buzzes the lane and dumps a whole green cloud on them."""
+    sx = _sx(side)
+    w = []
+    for n in range(2):                                                         # *strolls by*... pfft
+        w += se(s["whoosh"]) + bmove(side, 258, 4, sx * 30, 10) + wait(2)
+        w += se(s["smog"]) + emit_at(DUSTB23, 0, 0, (-sx * 20, 16 + n * 4)) + wait(2)
+        if n == 0:
+            w += shake_defender(1, 1) + wait(2)
+        else:
+            w += se(s["cough"]) + shake_defender(2, 2) + func(34, 8, 0, 1, rgb(170, 230, 90), 8, 0) + wait(2)
+        w += bmove(side, 258, 4, -sx * 30, -10) + wait(3)
+    w += wait(2) + se(s["jet"])                                               # *bzzzzz*
+    xs = list(range(-40, 301, 26)) if side == "player" else list(range(300, -41, -26))
+    fx = _S23_AT["enemy" if side == "player" else "player"][0]
+    dropped = False
+    for x in xs:
+        w += emit_at(DUST23, _p(side, 1, 2), 1, _s23(side, 1, (x, 64)))
+        w += emit_at(DUST23, 0, 1, _s23(side, 1, (x - sx * 22, 74)))
+        if not dropped and (x - fx) * sx > -10:
+            dropped = True
+            w += se(s["smog"]) + emit_at(DUSTB23, 2, 1, (0, 14)) + emit_at(DUSTB23, 2, 1, (0, 34))
+        w += wait(1)
+    w += se(s["cough"]) + shake_defender(2, 3) + func(34, 8, 0, 1, rgb(130, 220, 60), 13, 0)
+    for k in range(14):                                                        # *the flies move in*
+        for j in range(3):
+            a = (k * .7 + j * 2.1)
+            w += emit_at(DUSTB23, 1, 1, (round(26 * math.cos(a)), 30 + round(10 * math.sin(a * 1.3))))
+        if k == 7:
+            w += se(s["cough"]) + shake_defender(1, 2)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _death_stare(side, s):
+    """Glare (Death Stare): the lights go down and there's just the eyes. The foe sweats a bead. Another. Then
+    they lock up completely."""
+    eyes = _s23(side, 0, _p(side, (118, 70), (185, 64)))
+    w = func(33, 0, 1, 0, 15, 0) + wait(3)
+    w += se(s["leer"]) + _hold(STARE23, 1, 0, eyes, 6)
+    for n in range(2):                                                         # gulp... gulp...
+        w += emit_at(STARE23, 0, 1, (_p(side, 14, 16) * (1 if n else -1), 30)) + shake_defender(1, 1)
+        w += _hold(STARE23, 1, 0, eyes, 7)
+    w += _hold(STARE23, 1, 0, eyes, 3)                                         # *...*
+    w += se(s["twave"]) + emit_at(STARE23, 2, 1, (0, 30)) + shake_defender(3, 3)
+    for k in range(12):                                                        # *locked up*
+        w += emit_at(STARE23, 1, 0, eyes)
+        if k in (0, 6):
+            w += func(34, 8, 0, 1, rgb(255, 240, 60), 14, 0)
+        if k == 6:
+            w += se(s["twave"])
+        w += wait(1)
+    return w + func(33, 0, 1, 15, 0, 0) + wait(4)
+
+
+def _catch_a_fade(side, s):
+    """Mega Punch (Catch a Fade): the barber pole spins up. Clippers over the foe's head - bzzz, hair flies.
+    Bzzz again. "U WANT A FADE?" - the foe gulps - POW."""
+    sx = _sx(side)
+    pole = _s23(side, 0, _p(side, (112, 94), (152, 64)))
+    head = _p(side, (0, 30), (0, 30))
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    spin = lambda k: emit_at(FADE23, 1 + k % 2, 0, pole)
+    w = se(s["pop"]) + _hold(FADE23, 1, 0, pole, 3, lambda k: spin(k))
+    for n in range(2):                                                         # bzzz... bzzz...
+        w += se(s["zap"])
+        for k in range(6):
+            w += spin(k) + emit_at(FADEB23, 1, 1, (head[0] + (k % 3 - 1) * 6, head[1] + (1 if k % 2 else 0)))
+            if k % 2 == 0:
+                w += emit_at(FADE23, 0, 1, (head[0] + (k % 3 - 1) * 6, head[1] - 4))
+            w += wait(1)
+        w += shake_defender(1, 1) + _hold(FADE23, 1, 0, pole, 3, lambda k: spin(k))
+    for k in range(12):                                                        # "U WANT A FADE?"
+        w += spin(k) + emit_at(FADEB23, 2, 0, bub)
+        if k == 6:
+            w += bmove(side, 264, 3, 0, -5) + shake_defender(1, 1)            # *gulp*
+        w += wait(1)
+    w += bmove(side, 264, 2, 0, 5) + bmove(side, 258, 2, sx * 22, 8) + se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4)
+    w += emit_at(FADEB23, 0, 1, (0, 26)) + shake_defender(4, 3) + func(68, 4, 4, 1, 3, 0) + func(48)
+    w += bmove(side, 258, 4, -sx * 22, -8)
+    return w + _hold(FADE23, 1, 0, pole, 4, lambda k: spin(k))
+
+
+def _mall_ninja(side, s):
+    """Karate Chop (Mall Ninja): the headband goes on. They chop the board - it doesn't break, ow. Again - ow.
+    So they chop the FOE instead. Then the board finally snaps by itself."""
+    sx = _sx(side)
+    hb = _s23(side, 0, _p(side, (68, 112), (185, 56)))
+    board = _s23(side, 1, _p(side, (118, 72), (150, 64)))
+    band = lambda: emit_at(NINJA23, 1, 0, hb)
+    w = se(s["whoosh"])
+    for k in range(4):                                                         # the headband flies on
+        w += emit_at(NINJA23, 1, 0, (hb[0] - sx * 40 * (1 - (k + 1) / 4), hb[1] + 50 * (1 - (k + 1) / 4))) + wait(1)
+    w += se(s["focus"]) + bmove(side, 258, 2, 0, 6) + emit_at(NINJA23, 0, 0, (hb[0], hb[1] + 6))
+    w += _hold(NINJA23, 2, 1, board, 3, lambda k: band()) + bmove(side, 258, 2, 0, -6)
+    w += _hold(NINJA23, 2, 1, board, 2, lambda k: band())
+    for n in range(2):                                                         # HI-YAH... *bonk*
+        w += bmove(side, 258, 2, sx * 26, 24) + se(s["chop"]) + emit_at(NINJAB23, 2, 1, (board[0], board[1] + 10))
+        w += _hold(NINJA23, 2, 1, board, 1, lambda k: band())
+        w += se(s["bonk"]) + emit_at(NINJA23, 0, 1, (board[0], board[1] + 6)) + shake_attacker(2, 2 + n)
+        w += func(34, 2, 0, 1, rgb(255, 80, 80), 8 + 3 * n, 0)
+        w += _hold(NINJA23, 2, 1, board, 3, lambda k: band()) + bmove(side, 258, 3, -sx * 26, -24)
+        w += _hold(NINJA23, 2, 1, board, 4 + n, lambda k: band())
+    w += _hold(NINJA23, 2, 1, board, 3, lambda k: band())                     # *...looks at the foe*
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["chop"]) + se(s["bslam"]) + flash_screen(4)
+    w += emit_at(NINJAB23, 2, 1, (0, 22)) + shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 3, 0)
+    w += _hold(NINJA23, 2, 1, board, 2, lambda k: band()) + bmove(side, 258, 4, -sx * 22, -8)
+    w += _hold(NINJA23, 2, 1, board, 4, lambda k: band())
+    w += se(s["crack"]) + emit_at(NINJAB23, 0, 1, (board[0], board[1] + 6))   # ...*crack*
+    return w + _hold(NINJAB23, 1, 1, board, 8, lambda k: band())
+
+
+def _m80(side, s):
+    """DynamicPunch (M-80): an M-80 by the foe. Light it... it fizzles. Light it... fizzles. The foe leans in for
+    a closer look... BOOM."""
+    sx = _sx(side)
+    m = _p(side, (-55, 1), (40, 28))
+    fuse = (m[0] + 2, m[1] + 11)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"]) + _lob(M8023, 1, side, (sx * 20, 24), (dx + m[0], dy + m[1]), 5, 16)
+    w += se(s["bonk"]) + _hold(M8023, 1, 1, m, 3)
+    for n, ticks in enumerate((6, 4)):                                         # tsss... *fizzle*
+        w += se(s["ember"])
+        w += _hold(M8023, 1, 1, m, ticks, lambda k: emit_at(M8023, 0, 1, fuse) if k % 2 == 0 else [])
+        w += se(s["disable"]) + emit_at(M80B23, 0, 1, fuse) + _hold(M8023, 1, 1, m, 5)
+        if n == 1:
+            w += shake_defender(1, 1)
+    w += bmove(side, 264, 5, -sx * 16, -sx * 6) + _hold(M8023, 1, 1, m, 3)   # *leans in*...
+    w += se(s["ember"]) + _hold(M8023, 1, 1, m, 3, lambda k: emit_at(M8023, 0, 1, fuse))
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(6) + emit_at(M80B23, 1, 1, m) + emit_at(M80B23, 2, 1, m)   # BOOM
+    w += func(68, 6, 6, 1, 4, 0) + shake_defender(5, 4) + func(48) + func(34, 8, 0, 1, rgb(50, 40, 40), 14, 0)
+    w += wait(6) + bmove(side, 264, 5, sx * 16, sx * 6) + wait(2)
+    w += emit_at(M8023, 2, 1, (0, 34)) + se(s["confuse"]) + wait(8)
+    return w
+
+
+def _zip_tie(side, s):
+    """Bind (Zip Tie): a zip tie cinches round the foe - they flex - SNAP. A bigger one - SNAP. Then the yellow
+    industrial-size one. They ain't going nowhere. (Short: Bind replays it every turn.)"""
+    mid = (0, 12)
+    w = []
+    for n, (kit, res) in enumerate(((ZIP23, 1), (ZIP23, 2), (ZIPB23, 1))):
+        w += se(s["constrict"])
+        for k in range(3):                                                     # zzzip
+            w += emit_at(kit, res, 1, (mid[0], mid[1] + 36 - k * 12)) + wait(1)
+        w += _hold(kit, res, 1, mid, 2, lambda k: shake_defender(1, 1) if k == 0 else [])
+        if n < 2:                                                              # *flex* - SNAP
+            w += bmove(side, 264, 2, 0, 4) + _hold(kit, res, 1, mid, 2)
+            w += se(s["crack"]) + emit_at(ZIP23, 0, 1, mid) + bmove(side, 264, 2, 0, -4) + shake_defender(2, 2) + wait(2)
+    w += se(s["bslam"]) + func(34, 8, 0, 1, rgb(150, 150, 160), 10, 0) + emit_at(ZIPB23, 0, 1, (0, 30))
+    for k in range(10):                                                        # *stuck*
+        w += emit_at(ZIPB23, 1, 1, mid)
+        if k % 3 == 0:
+            w += shake_defender(1, 1)
+        w += wait(1)
+    return w
+
+
+def _onion_breath(side, s):
+    """DragonBreath (Onion Breath): a raw red onion, eaten like an apple - crunch (eyes watering) - crunch - then
+    a big HAAAA right in the foe's face. Their eyes water and they lock up."""
+    sx = _sx(side)
+    mouth = _s23(side, 0, _p(side, (76, 110), (176, 64)))
+    o = lambda kit, res: emit_at(kit, res, 0, mouth)
+    w = se(s["pop"]) + _hold(ONION23, 1, 0, mouth, 4)
+    for n, (kit, res) in enumerate(((ONION23, 2), (ONIONB23, 2))):            # crunch... crunch...
+        w += se(s["bite"]) + se(s["crunch"]) + o(kit, res) + shake_attacker(1, 2) + wait(1)
+        w += emit_at(ONION23, 0, 0, (sx * 4, 34)) + _hold(kit, res, 0, mouth, 4 + n)
+    w += func(34, 2, 0, 1, rgb(140, 200, 255), 8, 0) + _hold(ONIONB23, 2, 0, mouth, 4)   # *sniff*... *...*
+    w += se(s["gust"]) + bmove(side, 258, 2, sx * 6, 4)                        # HAAAAA
+    w += emit_at(ONIONB23, _p(side, 0, 1), 0, (mouth[0] + sx * 6, mouth[1] + 2))
+    for k in range(14):
+        if k == 7:
+            w += se(s["cough"]) + emit_at(ONION23, 0, 1, (0, 32)) + shake_defender(2, 2)
+            w += func(34, 8, 0, 1, rgb(255, 240, 60), 13, 0)
+        if k == 10:
+            w += se(s["twave"]) + bmove(side, 264, 3, sx * 10, 0)
+        w += wait(1)
+    return w + bmove(side, 258, 3, -sx * 6, -4) + bmove(side, 264, 3, -sx * 10, 0) + wait(3)
+
+
+def _rage_quit(side, s):
+    """Outrage (Rage Quit): GAME OVER. Button mash... GAME OVER. They go red - the controller goes through the
+    screen and bounces off the foe's head - and they just swing on the foe."""
+    sx = _sx(side)
+    mon = _s23(side, 0, _p(side, (106, 74), (154, 66)))
+    pad = _s23(side, 0, _p(side, (86, 120), (166, 92)))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    screen = lambda r=1: emit_at(RAGE23, r, 0, mon)
+    w = se(s["pop"]) + _hold(RAGE23, 1, 0, mon, 3)
+    for n in range(2):                                                         # mash mash mash... GAME OVER
+        for k in range(5 + n):
+            w += screen() + emit_at(RAGEB23, 1, 0, (pad[0] + (k % 2) * 2 * sx, pad[1] + (k % 2)))
+            if k % 2 == 0:
+                w += se(s["lockon"]) + emit_at(RAGEB23, 0, 0, (pad[0], pad[1] + 6))
+            w += wait(1)
+        w += se(s["faint"]) + func(34, 2, 0, 1, rgb(255, 60, 40), 7 + 4 * n, 0)
+        w += _hold(RAGE23, 1, 0, mon, 5, lambda k: emit_at(RAGEB23, 1, 0, pad))
+    w += se(s["rage"]) + shake_attacker(2, 3) + emit_at(RAGEB23, 2, 0, (0, 24))
+    w += _hold(RAGE23, 1, 0, mon, 3, lambda k: emit_at(RAGEB23, 1, 0, pad))
+    w += se(s["whoosh"]) + _lob(RAGEB23, 1, side, pad, mon, 4, 12, lambda k: screen())   # *YEET*
+    w += se(s["crack"]) + se(s["smash"]) + emit_at(RAGE23, 0, 0, mon) + flash_screen(2) + screen(2) + wait(1)
+    w += _lob(RAGEB23, 1, side, mon, (dx, dy + 30), 4, 14, lambda k: screen(2))
+    w += se(s["bonk"]) + shake_defender(2, 2) + screen(2) + wait(1)
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["bslam"]) + flash_screen(3) + shake_defender(4, 3) + func(48)   # and swing
+    w += _hold(RAGE23, 2, 0, mon, 2) + bmove(side, 258, 3, -sx * 22, -8)
+    return w + _hold(RAGE23, 2, 0, mon, 5)
+
+
+def _sawing_logs(side, s):
+    """Snore (Sawing Logs): out cold - a Z - a handsaw saws a log in time with the snore. Z - saw saw. Then the
+    snore goes CHAINSAW, the log splits and both halves fly into the foe."""
+    head = _s23(side, 0, _p(side, (66, 112), (185, 52)))
+    log = _s23(side, 0, (110, 84))
+    saw = (log[0] + 2, log[1] + 14)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    zz = lambda k: emit_at(LOGC23, 1, 0, (head[0] + k * 3, head[1] + 8 + k * 5))
+    w = se(s["pop"]) + _hold(LOG23, 1, 0, log, 3)
+    for n in range(2):                                                         # zzz... saw saw
+        w += se(s["sleep"])
+        for k in range(7):
+            w += emit_at(LOG23, 2, 0, (saw[0] + (6 if k % 2 else -6), saw[1])) + emit_at(LOG23, 1, 0, log) + zz(k)
+            if k % 2 == 0:
+                w += se(s["swipe"]) + emit_at(LOG23, 0, 0, (log[0], log[1] + 6))
+            w += wait(1)
+        if n == 1:
+            w += shake_defender(1, 1)
+        w += _hold(LOG23, 1, 0, log, 3)
+    w += se(s["sleep"])
+    for k in range(9):                                                         # zzzZZZ - VRRRRRRR
+        w += emit_at(LOGB23, 1, 0, (saw[0] + (k % 2) * 3, saw[1] + 2 + (k % 3))) + emit_at(LOG23, 1, 0, log) + zz(k % 7)
+        if k % 2 == 0:
+            w += se(s["zap"]) + emit_at(LOGB23, 0, 0, (log[0], log[1] + 8))
+        if k == 4:
+            w += shake_defender(1, 2)
+        w += wait(1)
+    w += se(s["crack"])                                                        # *CRACK* - both halves at the foe
+    a = _arc((log[0] - 8, log[1]), (dx - 10, dy + 30), 6, 22)
+    b_ = _arc((log[0] + 8, log[1]), (dx + 10, dy + 18), 6, 30)
+    for k in range(1, 6):
+        w += emit_at(LOGB23, 2, 0, a[k]) + emit_at(LOGB23, 2, 0, b_[k]) + wait(1)
+    w += se(s["bonk"]) + se(s["bslam"]) + flash_screen(3) + shake_defender(4, 3) + func(48)
+    return w + wait(2) + se(s["sleep"]) + wait(1) + emit_at(LOGC23, 1, 0, (head[0], head[1] + 10)) + wait(1) + zz(1) + wait(1) + zz(2) + wait(2)
+
+
+def _snuck_him(side, s):
+    """Mach Punch (Snuck Him): "YO LOOK, A BIRD!" - the foe doesn't fall for it. "IS THAT FREE WIFI?" - nope.
+    "YO! FREE MONEY!" - the foe whips round - POW."""
+    sx = _sx(side)
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    w = []
+    for n, (kit, res) in enumerate(((SNUCK23, 1), (SNUCK23, 2))):
+        for k in range(9):
+            w += emit_at(kit, res, 0, bub)
+            if k == 5:
+                w += bmove(side, 264, 1, 3, 0)                                 # *nah*
+            if k == 6:
+                w += bmove(side, 264, 1, -6, 0)
+            if k == 7:
+                w += bmove(side, 264, 1, 3, 0)
+            w += wait(1)
+        w += wait(2)
+    for k in range(5):                                                         # "YO! FREE MONEY!"
+        w += emit_at(SNUCKB23, 1, 0, bub)
+        if k == 2:
+            w += se(s["chaching"]) + bmove(side, 264, 2, sx * 20, 6)          # *whips round*
+        w += wait(1)
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4)   # POW
+    w += emit_at(SNUCKB23, 2, 1, (-sx * 10, 24)) + emit_at(SNUCKB23, 0, 1, (0, 24)) + shake_defender(4, 3) + func(48)
+    w += bmove(side, 258, 4, -sx * 22, -8) + wait(3) + bmove(side, 264, 3, -sx * 20, -6)
+    return w + wait(3)
+
+
+def _fence_hop(side, s):
+    """Hi Jump Kick (Fence Hop): a chain-link fence, BEWARE OF DOG. They run at it - rattle - bounce off. Again.
+    Then the dog pops up behind it barking, and they clear the fence in one jump - knee first into the foe."""
+    fence = _s23(side, 1, (106, 86))
+    dog = (fence[0] + 4, fence[1] + 12)
+    run = _p(side, (24, 30), (-34, 4))
+    leap = _p(side, (92, 54), (-96, -46))
+    f = lambda dxy=(0, 0): emit_at(FENCE23, 1, 1, (fence[0] + dxy[0], fence[1] + dxy[1]))
+    w = se(s["pop"]) + _hold(FENCE23, 1, 1, fence, 4)
+    for n in range(2):                                                         # run - CLANG - bounce
+        w += se(s["whoosh"]) + bmove(side, 258, 3, *run) + f() + wait(1) + f() + wait(1)
+        w += se(s["bonk"]) + emit_at(FENCE23, 3, 1, fence) + shake_attacker(1, 2)
+        for k in range(4):
+            w += f(((2 if k % 2 else -2), 0)) + wait(1)
+        w += bmove(side, 258, 3, -run[0], -run[1]) + _hold(FENCE23, 1, 1, fence, 4 + n)
+    for k in range(6):                                                         # WOOF WOOF
+        y = fence[1] + min(k, 3) * 4
+        w += f() + emit_at(FENCE23, 2, 1, (dog[0], y))
+        if k in (2, 4):
+            w += se(s["rage"]) + shake_attacker(2, 1)
+        w += wait(1)
+    w += se(s["whoosh"]) + bmove(side, 258, 4, *leap)                          # *clears it*
+    for k in range(3):
+        w += f() + emit_at(FENCE23, 2, 1, dog) + wait(1)
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4) + emit_at(FENCE23, 0, 1, (0, 24))   # KNEE
+    w += shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 3, 0)
+    w += _hold(FENCE23, 1, 1, fence, 3, lambda k: emit_at(FENCE23, 2, 1, dog) + (se(s["rage"]) if k == 1 else []))
+    w += bmove(side, 258, 5, -leap[0], -leap[1])
+    return w + _hold(FENCE23, 1, 1, fence, 4, lambda k: emit_at(FENCE23, 2, 1, dog) if k < 2 else [])
+
+
+def _trap_house(side, s):
+    """Spider Web (Trap House): a glue trap slides in with a wedge of cheese on it. The foe sniffs. Leans in. Then
+    steps right on it - SQUELCH - and can't get off. Ain't leaving the trap house."""
+    trap = _s23(side, 0, _p(side, (224, 74), (104, 122)))
+    cheese = (trap[0], trap[1] - 2)
+    onto = _p(side, (39, 18), (40, 31))
+    sx_in = _p(side, 1, -1)
+    t = lambda: emit_at(TRAP23, 1, 0, trap)
+    w = se(s["whoosh"])
+    for k in range(4):                                                         # slides in
+        w += emit_at(TRAP23, 1, 0, (trap[0] + sx_in * round(70 * (1 - (k + 1) / 4)), trap[1])) + wait(1)
+    for k in range(3):
+        w += t() + emit_at(TRAP23, 2, 0, (cheese[0], cheese[1] + 24 - k * 8)) + wait(1)
+    w += se(s["pop"]) + _hold(TRAP23, 1, 0, trap, 3, lambda k: emit_at(TRAP23, 2, 0, cheese))
+    for n, lean in enumerate((8, 16)):                                         # *sniff*... *sniff sniff*
+        w += se(s["sscent"]) + bmove(side, 264, 3, sx_in * lean, 0)
+        w += _hold(TRAP23, 1, 0, trap, 4 + n, lambda k: emit_at(TRAP23, 2, 0, cheese))
+        w += bmove(side, 264, 3, -sx_in * lean, 0) + _hold(TRAP23, 1, 0, trap, 3, lambda k: emit_at(TRAP23, 2, 0, cheese))
+    w += bmove(side, 264, 4, onto[0], onto[1])                                 # *steps on it*
+    w += _hold(TRAP23, 1, 0, trap, 2, lambda k: emit_at(TRAP23, 2, 0, cheese))
+    w += se(s["splat"]) + emit_at(TRAP23, 0, 0, (trap[0], trap[1] + 10)) + func(34, 8, 0, 1, rgb(250, 220, 60), 9, 0)
+    for k in range(3):                                                         # pull... pull... STUCK
+        w += se(s["sludge"]) + bmove(side, 264, 2, 0, 6) + t() + wait(1) + t() + wait(1)
+        w += bmove(side, 264, 2, 0, -6) + emit_at(TRAP23, 0, 0, (trap[0], trap[1] + 12)) + shake_defender(1, 1) + t() + wait(1)
+    w += _hold(TRAP23, 1, 0, trap, 6)
+    return w + bmove(side, 264, 4, -onto[0], -onto[1]) + _hold(TRAP23, 1, 0, trap, 2)
+
+
+def _muah(side, s):
+    """Sweet Kiss (Muah): blows a kiss - MUAH - a lipstick print lands on the foe. Another one. They're blushing.
+    Then their phone buzzes: WHO IS SHE?? Now they're confused."""
+    sx = _sx(side)
+    mouth = _p(side, (sx * 10, 30), (-10, 24))
+    marks = [_p(side, (-10, 20), (-10, 20)), _p(side, (12, 34), (12, 32))]
+    phone = _p(side, (-79, -5), (46, 40))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(KISS23, 1, 1, marks[i])]
+    w = []
+    for n in range(2):                                                         # muah... muah
+        w += se(s["attract"]) + bmove(side, 258, 2, sx * 6, 3) + wait(1) + bmove(side, 258, 2, -sx * 6, -3)
+        w += _lob(KISS23, 1, side, mouth, (dx + marks[n][0], dy + marks[n][1]), 5, 14, lambda k: dress())
+        on.append(n)
+        w += se(s["dslap"]) + emit_at(KISS23, 0, 1, (0, 30)) + func(34, 8, 0, 1, rgb(255, 120, 170), 8 + 3 * n, 0)
+        w += _hold(KISS23, 1, 1, marks[n], 4, lambda k: dress())
+    w += _hold(KISS23, 1, 1, marks[0], 3, lambda k: dress())                   # *...*
+    for k in range(14):                                                        # bzz bzz - WHO IS SHE??
+        w += emit_at(KISSB23, 1, 1, (phone[0] + (1 if k % 2 else -1) * (2 if k < 6 else 0), phone[1])) + dress()
+        if k in (0, 3):
+            w += se(s["alarm"]) + emit_at(KISSB23, 0, 1, (phone[0], phone[1] + 30))
+        if k == 6:
+            w += bmove(side, 264, 3, -sx * 8, 0)                               # *reads it*
+        w += wait(1)
+    w += se(s["confuse"]) + emit_at(KISS23, 2, 1, (0, 40)) + bmove(side, 264, 3, sx * 8, 0)
+    for k in range(8):                                                         # ...uhhh
+        w += emit_at(KISSB23, 1, 1, phone) + dress()
+        if k in (1, 4):
+            w += bmove(side, 264, 2, (6 if k == 1 else -6), 0) + shake_defender(1, 1)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _cold_cocked(side, s):
+    """Ice Punch (Cold Cocked): a chest freezer, lid up, cold mist rolling out. They dig in: a popsicle - nah,
+    tossed. A bag of peas - nah, tossed. Then a whole FROZEN TURKEY comes out (slow, heavy) - and goes upside the
+    foe's head. Frosted."""
+    sx = _sx(side)
+    fr = _s23(side, 0, (104, 82))
+    top = (fr[0], fr[1] + 26)
+    back = _s23(side, 0, _p(side, (-30, 40), (290, 20)))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    box = lambda: emit_at(FREEZE23, 1, 0, fr)
+    w = se(s["pop"]) + box() + emit_at(FREEZE23, 0, 0, top) + wait(1) + _hold(FREEZE23, 1, 0, fr, 3)
+    for kit, res in ((FREEZE23, 2), (FREEZEB23, 1)):                           # nah... nah...
+        for k in range(3):
+            w += box() + emit_at(kit, res, 0, (top[0], top[1] - 10 + k * 8)) + wait(1)
+        w += _hold(kit, res, 0, (top[0], top[1] + 6), 3, lambda k: box())
+        w += se(s["whoosh"]) + _lob(kit, res, side, (top[0], top[1] + 6), back, 5, 24, lambda k: box()) + _hold(FREEZE23, 1, 0, fr, 2)
+    w += se(s["ishard"]) + emit_at(FREEZE23, 0, 0, top)                         # *...the turkey*
+    for k in range(6):
+        w += box() + emit_at(FREEZEB23, 2, 0, (top[0], top[1] - 14 + k * 5)) + wait(1)
+    w += se(s["bling"]) + emit_at(FREEZEB23, 0, 0, (top[0], top[1] + 16))
+    w += _hold(FREEZEB23, 2, 0, (top[0], top[1] + 16), 4, lambda k: box())
+    w += se(s["whoosh"]) + _lob(FREEZEB23, 2, side, (top[0], top[1] + 16), (dx - sx * 6, dy + 26), 5, 20, lambda k: box())
+    w += se(s["bslam"]) + se(s["ishard"]) + flash_screen(4) + emit_at(FREEZEB23, 0, 1, (0, 24))   # WHAM
+    w += shake_defender(4, 3) + func(48) + func(34, 8, 0, 1, rgb(160, 220, 255), 14, 0)
+    w += _lob(FREEZEB23, 2, side, (dx - sx * 6, dy + 26), (dx + sx * 40, dy - 10), 4, 16, lambda k: box())
+    return w + _hold(FREEZE23, 1, 0, fr, 5)
+
+
+def _last_call(side, s):
+    """Heal Bell (Last Call): the club's dark, the mirror ball turning. The bartender's bell: ding... ding... then
+    DING-DING-DING-DING - LAST CALL! - the lights slam on and the whole crew sobers right up."""
+    bell = _s23(side, 0, (106, 80))
+    ball = _s23(side, 0, (152, 24))
+    mb = lambda k: emit_at(BELLB23, 1 + k % 2, 0, ball) + (emit_at(BELLB23, 0, 0, ball) if k % 4 == 0 else [])
+    dark = rgb(40, 20, 70)
+    w = func(33, 0, 1, 0, 12, dark) + wait(2)
+    w += _hold(BELL23, 1, 0, bell, 4, mb)
+    for n in range(2):                                                         # ding... ding...
+        w += se(s["bling"]) + _hold(BELL23, 2, 0, bell, 2, lambda k: mb(k + 1)) + _hold(BELL23, 1, 0, bell, 5, mb)
+    for k in range(8):                                                         # DING DING DING DING
+        w += emit_at(BELL23, 1 + k % 2, 0, bell) + mb(k)
+        if k % 2 == 0:
+            w += se(s["bling"])
+        w += wait(1)
+    w += func(33, 0, 1, 12, 0, dark) + flash_screen(4) + se(s["safeguard"])    # LIGHTS ON
+    sign = _p(side, (0, 58), (0, 50))
+    for k in range(12):
+        w += emit_at(BELLC23, 1, 0, sign) + emit_at(BELL23, 1, 0, bell) + emit_at(BELLB23, 1, 0, ball)
+        if k in (2, 7):
+            w += emit_at(BELL23, 0, 0, (0, 10)) + func(34, 2, 0, 1, rgb(160, 255, 170), 10, 0)
+        if k == 4:
+            w += shake_defender(1, 2)                                          # (the foe squints)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _tanning_bed(side, s):
+    """SolarBeam (Tanning Bed), two turns. Turn 1: the tanning bed opens round them, they lie back, it clamps shut
+    and buzzes purple. Turn 2: it pops open, they come out deep ORANGE, and the glare off the tan torches the foe."""
+    sx = _sx(side)
+    bed = (0, _p(side, 10, 6))
+    one = se(s["pop"]) + _hold(TAN23, 1, 0, bed, 4)
+    one += se(s["harden"]) + _hold(TAN23, 2, 0, bed, 2)                        # *clunk*
+    for k in range(14):                                                        # bzzzzz
+        one += emit_at(TAN23, 2, 0, (bed[0] + (k % 2), bed[1]))
+        if k % 4 == 0:
+            one += se(s["zap"]) + emit_at(TAN23, 0, 0, (bed[0], bed[1] + 4)) + func(34, 2, 0, 1, rgb(190, 120, 255), 6, 0)
+        one += wait(1)
+    one += wait(2)
+    two = _hold(TAN23, 2, 0, bed, 3) + se(s["pop"]) + emit_at(TAN23, 0, 0, (bed[0], bed[1] + 6))   # *ding* - open
+    two += func(34, 2, 0, 1, rgb(255, 120, 20), 15, 0)                         # ORANGE
+    two += _hold(TAN23, 1, 0, bed, 5, lambda k: se(s["bling"]) + emit_at(TANB23, 2, 0, (0, 30)) if k == 1 else [])
+    two += se(s["sbeam"]) + flash_screen(3) + emit_at(TANB23, _p(side, 0, 1), 0, (sx * 6, 30))   # the GLARE
+    for k in range(14):
+        if k % 3 == 0:
+            two += emit_at(TANB23, 2, 1, (((k * 11) % 24) - 12, 20 + (k * 7) % 20)) + shake_defender(1, 1)
+        if k == 6:
+            two += se(s["ember"]) + func(34, 8, 0, 1, rgb(255, 140, 40), 13, 0)
+        two += wait(1)
+    two += func(48) + func(34, 2, 0, 1, rgb(255, 120, 20), 10, 0) + wait(4)
+    return one, two
+
+
+def _tanning_bed_turn2_first(side, s):
+    """Test only: Tanning Bed's second turn on its own (the showcase only plays turn 1)."""
+    return _tanning_bed(side, s)[1]
+
+
+def _victory_lap(side, s):
+    """Petal Dance (Victory Lap): trophy up, rose petals raining from the stands - strut left - strut right - then
+    the trophy comes down on the foe's head. (Short: it replays every turn.)"""
+    sx = _sx(side)
+    up = _p(side, (sx * 4, 44), (0, 42))
+    tro = lambda: emit_at(TROPHY23, 1, 0, up)
+    rain = lambda k: emit_at(TROPHY23, 0, 0, (sx * 10, 92)) if k % 3 == 0 else []
+    w = se(s["bling"]) + _hold(TROPHY23, 1, 0, up, 3, rain)
+    for n, d_ in enumerate((-1, 1)):                                           # strut... strut...
+        w += se(s["chaching"]) + bmove(side, 258, 4, d_ * 14, 0)
+        w += _hold(TROPHY23, 1, 0, up, 4, lambda k: rain(k + n) + (bmove(side, 258, 1, 0, 4 if k % 2 == 0 else -4) if k < 4 else []))
+        w += bmove(side, 258, 4, -d_ * 14, 0)
+    w += _hold(TROPHY23, 1, 0, up, 2, rain)
+    w += bmove(side, 258, 2, sx * 22, 8) + tro() + wait(1)                     # *BONK*
+    w += se(s["bonk"]) + se(s["bslam"]) + flash_screen(3) + emit_at(TROPHY23, 2, 1, (0, 34)) + shake_defender(3, 3) + func(48)
+    w += _hold(TROPHY23, 1, 0, up, 2) + bmove(side, 258, 4, -sx * 22, -8)
+    return w + _hold(TROPHY23, 1, 0, up, 4, rain)
+
+
+def _gift_bomb(side, s):
+    """Present (Gift Bomb): a big wrapped present slides over to the foe. Pop - it's a smaller present. Pop - an
+    even smaller one. Pop - a bomb, fuse lit. *...* BOOM, confetti everywhere."""
+    sx = _sx(side)
+    g = _p(side, (-62, 6), (40, 28))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"])
+    for k in range(5):                                                         # *slides over*
+        w += emit_at(GIFT23, 1, 1, (g[0] - sx * round(50 * (1 - (k + 1) / 5)), g[1])) + wait(1)
+    w += _hold(GIFT23, 1, 1, g, 4, lambda k: bmove(side, 264, 2, -sx * 6, 0) if k == 1 else [])   # *ooh, for me?*
+    for kit, res, nxt_kit, nxt_res in ((GIFT23, 1, GIFT23, 2), (GIFT23, 2, GIFTB23, 1), (GIFTB23, 1, GIFTB23, 2)):
+        for k in range(3):                                                     # rattle rattle
+            w += emit_at(kit, res, 1, (g[0] + (2 if k % 2 else -2), g[1])) + wait(1)
+        w += se(s["pop"]) + emit_at(GIFT23, 0, 1, (g[0], g[1] + 10))           # pop
+        for k in range(3):
+            w += emit_at(nxt_kit, nxt_res, 1, (g[0], g[1] + 12 - k * 4)) + wait(1)
+        w += _hold(nxt_kit, nxt_res, 1, g, 3 if nxt_res != 2 or nxt_kit != GIFTB23 else 2)
+    fuse = (g[0] + 6, g[1] + 14)
+    w += se(s["ember"]) + _hold(GIFTB23, 2, 1, g, 6, lambda k: emit_at(GIFTB23, 0, 1, fuse) if k % 2 == 0 else [])   # *tsss*
+    w += bmove(side, 264, 2, sx * 6, 0) + _hold(GIFTB23, 2, 1, g, 2)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(5) + emit_at(GIFTC23, 1, 1, g) + emit_at(GIFTC23, 0, 1, g)   # BOOM
+    w += func(68, 5, 5, 1, 3, 0) + shake_defender(4, 4) + func(48) + func(34, 8, 0, 1, rgb(60, 50, 50), 12, 0)
+    return w + wait(10)
+
+
+def _clothesline(side, s):
+    """Cross Chop (Clothesline): a clothesline goes up between them. A white tee gets hung. A pair of heart
+    drawers gets hung. The foe's had enough, charges - and runs neck-first into the line. Flipped."""
+    sx = _sx(side)
+    rig = _s23(side, 0, (124, 58))
+    tee = _s23(side, 0, (106, 70))
+    box = _s23(side, 0, (140, 70))
+    charge = _p(side, (-42, -14), (40, 66))
+    hung = []
+    dress = lambda: emit_at(LINE23, 1, 0, rig) + ([w_ for w_ in emit_at(LINE23, 2, 0, tee)] if "tee" in hung else []) + \
+        ([w_ for w_ in emit_at(LINEB23, 1, 0, box)] if "box" in hung else [])
+    w = se(s["pop"]) + _hold(LINE23, 1, 0, rig, 4)
+    for name, kit, at in (("tee", LINE23, tee), ("box", LINEB23, box)):        # hang it... hang it...
+        w += se(s["whoosh"]) + _lob(kit, 2 if kit == LINE23 else 1, side, (sx * 16, 30), at, 5, 20, lambda k: dress())
+        hung.append(name)
+        w += se(s["pop"]) + dress() + wait(1)
+        w += _hold(LINE23, 1, 0, rig, 4, lambda k: dress())
+    w += bmove(side, 264, 2, 0, 4) + shake_defender(1, 2) + _hold(LINE23, 1, 0, rig, 3, lambda k: dress())   # *...bro*
+    w += bmove(side, 264, 2, 0, -4) + se(s["rage"]) + func(34, 8, 0, 1, rgb(255, 80, 60), 9, 0)
+    w += _hold(LINE23, 1, 0, rig, 2, lambda k: dress())
+    w += se(s["whoosh"]) + bmove(side, 264, 3, *charge) + dress() + wait(1) + dress() + wait(1)   # *charges*
+    w += se(s["bslam"]) + se(s["chop"]) + flash_screen(4) + emit_at(LINE23, 0, 1, (0, 30))        # CLOTHESLINED
+    w += bmove(side, 264, 3, -charge[0], -charge[1] + 26) + shake_defender(3, 3)
+    hung.clear()
+    a = _arc(tee, (tee[0] - 60, tee[1] + 50), 6, 20)
+    b_ = _arc(box, (box[0] + 50, box[1] + 60), 6, 24)
+    for k in range(1, 6):
+        w += emit_at(LINE23, 1, 0, rig) + emit_at(LINE23, 2, 0, a[k]) + emit_at(LINEB23, 1, 0, b_[k]) + wait(1)
+    w += bmove(side, 264, 4, 0, -26) + func(48) + emit_at(LINEB23, 0, 1, (0, 36))
+    return w + _hold(LINE23, 1, 0, rig, 6, lambda k: se(s["confuse"]) if k == 0 else [])
+
+
+def _bullhorn(side, s):
+    """Megahorn (Bullhorn): a police bullhorn. "IS THIS ON?" - tap tap - SKREEEE feedback. Tap tap - SKREEEEE.
+    Forget it: they ram the foe WITH the bullhorn."""
+    sx = _sx(side)
+    horn = _p(side, (sx * 26, 26), (-30, 14))
+    res = _p(side, 1, 2)
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    mouth = (horn[0] + sx * 18, horn[1] + 4)
+    h = lambda d=0: emit_at(HORN23, res, 0, (horn[0] + d, horn[1]))
+    w = se(s["pop"]) + _hold(HORN23, res, 0, horn, 3)
+    for n in range(2):                                                         # tap tap... SKREEEE
+        for k in range(2):
+            w += se(s["lockon"]) + h(sx * 2) + wait(1) + h() + wait(1)
+        w += _hold(HORNB23, 1, 0, bub, 6, lambda k: h()) if n == 0 else _hold(HORN23, res, 0, horn, 2)
+        w += se(s["alarm"]) + (se(s["alarm"]) if n else [])
+        for k in range(5 + 2 * n):
+            w += h((k % 2) * 2) + (emit_at(HORN23, 0, 0, mouth) if k % 2 == 0 else []) + wait(1)
+        w += shake_defender(1 + n, 2) + (shake_attacker(2, 2) if n else []) + _hold(HORN23, res, 0, horn, 4)
+    w += _hold(HORN23, res, 0, horn, 3)                                        # *looks at it*... forget it
+    w += bmove(side, 258, 3, sx * 30, 14) + h() + wait(1)                       # RAM
+    w += se(s["bslam"]) + se(s["horn"]) + flash_screen(4) + emit_at(HORNB23, 0, 1, (-sx * 8, 22))
+    w += shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 3, 0) + _hold(HORN23, res, 0, horn, 2)
+    w += bmove(side, 258, 4, -sx * 30, -14)
+    return w + _hold(HORN23, res, 0, horn, 4)
+
+
+def _hype_man(side, s):
+    """Hyper Voice (Hype Man): "YEAH!" - "WHAT!" (louder) - "OKAAAY!!" - and the sound blows the foe back."""
+    sx = _sx(side)
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    mouth = _p(side, (sx * 12, 34), (-12, 26))
+    w = []
+    for n, (res, ticks) in enumerate(((1, 7), (2, 8))):                       # YEAH!... WHAT!
+        w += se(s["rage"]) + bmove(side, 258, 2, 0, 6 + 2 * n)
+        for k in range(ticks):
+            w += emit_at(HYPE23, res, 0, bub)
+            if k == 1:
+                w += bmove(side, 258, 2, 0, -6 - 2 * n) + emit_at(HYPE23, 0, 0, mouth)
+            if k == 3 and n == 1:
+                w += shake_defender(1, 2)
+            w += wait(1)
+        w += wait(2)
+    sign = _p(side, (0, 58), (0, 50))
+    w += se(s["rage"]) + se(s["bdrum"]) + bmove(side, 258, 2, 0, 10) + flash_screen(2)   # OKAAAY!!
+    w += emit_at(HYPEB23, _p(side, 0, 1), 0, mouth)
+    for k in range(13):
+        w += emit_at(HYPEB23, 2, 0, sign)
+        if k == 1:
+            w += bmove(side, 258, 2, 0, -10)
+        if k == 4:
+            w += se(s["bslam"]) + shake_defender(4, 3) + func(48) + bmove(side, 264, 3, sx * 12, 4)
+        if k == 10:
+            w += bmove(side, 264, 3, -sx * 12, -4)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _ring_ya_bell(side, s):
+    """Dizzy Punch (Ring Ya Bell): ding-dong ditch. A doorbell by the foe: DING DONG - the attacker bolts. The foe
+    looks around. DING DONG - bolts again. Third time the foe's waiting right there - so they ring the FOE's
+    bell instead. Little birds circle their head."""
+    sx = _sx(side)
+    plate = _p(side, (-79, -5), (46, 40))
+    bub = _p(side, (-28, 36), (plate[0] + 4, plate[1] + 40))
+    run = _p(side, (-40, -10), (40, 10))
+    p = lambda: emit_at(DING23, 1, 1, plate)
+    w = se(s["pop"]) + _hold(DING23, 1, 1, plate, 3)
+    for n in range(2):                                                         # DING DONG - *runs*
+        w += se(s["lockon"]) + emit_at(DING23, 0, 1, plate) + se(s["bling"])
+        w += _hold(DING23, 2, 1, bub, 3, lambda k: p() + (se(s["bling"]) if k == 1 else []))
+        w += se(s["whoosh"]) + bmove(side, 258, 3, *run) + _hold(DING23, 2, 1, bub, 3, lambda k: p())
+        w += bmove(side, 264, 2, -6, 0) + _hold(DING23, 1, 1, plate, 2)       # *looks round*
+        w += bmove(side, 264, 3, 12, 0) + _hold(DING23, 1, 1, plate, 2)
+        w += bmove(side, 264, 2, -6, 0) + (shake_defender(1, 2) if n else [])
+        w += bmove(side, 258, 3, -run[0], -run[1]) + _hold(DING23, 1, 1, plate, 3)
+    w += bmove(side, 264, 2, -sx * 10, -4) + _hold(DING23, 1, 1, plate, 4)     # *the foe's waiting*
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["bling"]) + se(s["kaboom"]) + flash_screen(4)   # DING DONG
+    w += emit_at(DINGB23, 0, 1, (0, 30)) + shake_defender(4, 3) + func(48)
+    w += bmove(side, 258, 4, -sx * 22, -8) + bmove(side, 264, 3, sx * 10, 4) + se(s["confuse"])
+    import math as _m
+    for k in range(14):                                                        # tweet tweet
+        for j in range(3):
+            a = k * .55 + j * 2.1
+            w += emit_at(DINGB23, 1, 1, (round(22 * _m.cos(a)), 40 + round(6 * _m.sin(a))))
+        w += p() + wait(1)
+    return w
+
+
+def _heat_check(side, s):
+    """Heat Wave (Heat Check): the thermostat says 72. Click - 85, the foe starts sweating. Click - 99, red - a
+    wall of heat rolls over the foe. Then Dad, from off-screen: WHO TOUCHED MY THERMOSTAT."""
+    sx = _sx(side)
+    th = _s23(side, 0, (106, 80))
+    dad = _s23(side, 0, (40, 76))
+    w = se(s["pop"]) + _hold(THERMO23, 1, 0, th, 5)
+    w += bmove(side, 258, 2, sx * 8, 6) + se(s["lockon"]) + wait(1) + bmove(side, 258, 2, -sx * 8, -6)   # click - 85
+    w += _hold(THERMO23, 2, 0, th, 4) + emit_at(THERMO23, 0, 1, (0, 30)) + shake_defender(1, 1)
+    w += _hold(THERMO23, 2, 0, th, 5)
+    w += bmove(side, 258, 2, sx * 8, 6) + se(s["lockon"]) + wait(1) + bmove(side, 258, 2, -sx * 8, -6)   # click - 99
+    w += se(s["flame"]) + func(33, 0, 1, 0, 8, rgb(255, 120, 40))
+    w += emit_at(THERMOB23, _p(side, 0, 1), 0, (th[0], th[1]))
+    for k in range(16):                                                        # *the heat*
+        w += emit_at(THERMOB23, 2, 0, th)
+        if k == 4:
+            w += emit_at(THERMO23, 3, 1, (0, 30)) + func(34, 8, 0, 1, rgb(255, 70, 40), 13, 0) + shake_defender(2, 3)
+        if k == 10:
+            w += se(s["ember"]) + emit_at(THERMO23, 0, 1, (0, 34))
+        w += wait(1)
+    w += func(33, 0, 1, 8, 0, rgb(255, 120, 40)) + func(48)
+    for k in range(13):                                                        # WHO TOUCHED MY THERMOSTAT
+        w += emit_at(THERMOB23, 2, 0, th) + emit_at(THERMOB23, 3, 0, dad)
+        if k == 2:
+            w += se(s["leer"]) + shake_attacker(2, 2)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _gas_up(side, s):
+    """Flatter (Gas Up): a gas pump, the nozzle in the foe. $5.00 - they puff up a bit. $20.00 - they float.
+    $99.99 - they're SO gassed they drift up off the ground, wobbling."""
+    sx = _sx(side)
+    pump = _s23(side, 0, (104, 84))
+    noz = _p(side, (-26, 12), (26, 14))
+    nkit, nres = (GASB23, 2) if side == "player" else (GASC23, 1)
+    n_ = lambda: emit_at(nkit, nres, 1, noz)
+    w = se(s["pop"]) + _hold(GAS23, 1, 0, pump, 3) + se(s["bonk"]) + _hold(GAS23, 1, 0, pump, 3, lambda k: n_())
+    floats = 0
+    for n, (kit, res, up) in enumerate(((GAS23, 1, 4), (GAS23, 2, 8), (GASB23, 1, 14))):   # glug glug
+        w += se(s["bubble"])
+        for k in range(6 + 2 * n):
+            w += emit_at(kit, res, 0, pump) + n_()
+            if k == 2:
+                w += se(s["chaching"] if n == 2 else s["bubble"]) + emit_at(GAS23, 0, 1, (0, 20)) + bmove(side, 264, 4, 0, up)
+                floats += up
+            w += wait(1)
+        w += _hold(kit, res, 0, pump, 3, lambda k: n_())
+    w += se(s["confuse"]) + emit_at(GASB23, 0, 1, (0, 44)) + func(34, 8, 0, 1, rgb(255, 220, 80), 10, 0)
+    for k in range(10):                                                        # *wobble wobble*
+        w += emit_at(GASB23, 1, 0, pump)
+        if k % 3 == 0:
+            w += bmove(side, 264, 2, 6 if k % 2 == 0 else -6, 0)
+        if k % 3 == 1:
+            w += bmove(side, 264, 2, -6 if k % 2 == 1 else 6, 0)
+        w += wait(1)
+    return w + bmove(side, 264, 6, 0, -floats) + _hold(GASB23, 1, 0, pump, 4)
+
+
+def _door_kick(side, s):
+    """Mega Kick (Door Kick): a front door. Knock knock. Knock knock. "WHO IS IT?" - they kick it clean off its
+    hinges and the whole door flies into the foe."""
+    sx = _sx(side)
+    door = _s23(side, 0, (106, 80))
+    bub = _p(side, (-30, 36), (50, 58))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    dr = lambda dxy=(0, 0): emit_at(DOOR23, 1, 0, (door[0] + dxy[0], door[1] + dxy[1]))
+    w = se(s["pop"]) + _hold(DOOR23, 1, 0, door, 4)
+    for n in range(2):                                                         # knock knock
+        for k in range(2):
+            w += se(s["bonk"]) + emit_at(DOORB23, 0, 0, (door[0] - sx * 6, door[1] + 4)) + dr((sx, 0)) + wait(1) + dr() + wait(1)
+        w += _hold(DOOR23, 1, 0, door, 5 + n)
+    for k in range(10):                                                        # "WHO IS IT?"
+        w += dr() + emit_at(DOORB23, 1, 1, bub) + wait(1)
+    w += dr() + wait(1)
+    w += bmove(side, 258, 2, sx * 16, 12) + se(s["bslam"]) + se(s["crack"]) + emit_at(DOOR23, 0, 0, door) + flash_screen(2)   # KICK
+    pts = _arc(door, (dx - sx * 4, dy + 22), 5, 10)
+    for k in range(1, 5):
+        w += emit_at(DOOR23, 2, 0, pts[k]) + wait(1)
+    w += se(s["kaboom"]) + emit_at(DOOR23, 0, 1, (0, 24)) + flash_screen(3) + shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 3, 0)
+    w += _hold(DOOR23, 2, 0, (dx - sx * 4, dy + 16), 3) + bmove(side, 258, 4, -sx * 16, -12)
+    pts = _arc((dx - sx * 4, dy + 16), (dx + sx * 30, dy - 10), 4, 8)
+    for k in range(1, 4):
+        w += emit_at(DOOR23, 2, 0, pts[k]) + wait(1)
+    return w + wait(3)
+
+
+def _getaway(side, s):
+    """ExtremeSpeed (Getaway): the loot sack, a rental e-scooter. Putt putt... *beep* - battery low. Putt...
+    *beep*. Then the battery goes full - TURBO - ZOOM straight through the foe."""
+    sx = _sx(side)
+    sc = _p(side, (sx * 26, 14), (-6, -16))
+    res = _p(side, 1, 2)
+    bag = (sc[0] + sx * 8, sc[1] + 14)
+    batt = (0, _p(side, 58, 50))
+    ride = lambda: emit_at(SCOOT23, res, 0, sc) + emit_at(SCOOTC23, 1, 0, bag)
+    step = (sx * 10, sx * 4)
+    zoom = (sx * 92, sx * 42)
+    w = se(s["pop"]) + _hold(SCOOT23, res, 0, sc, 3, lambda k: emit_at(SCOOTC23, 1, 0, bag))
+    for n in range(2):                                                         # putt putt... *beep*
+        w += se(s["rollout"]) + bmove(side, 258, 8, *step)
+        w += _hold(SCOOT23, res, 0, sc, 4, lambda k: emit_at(SCOOTC23, 1, 0, bag))
+        for k in range(6):
+            w += ride() + (emit_at(SCOOTB23, 1, 0, batt) if k % 2 == 0 else [])
+            if k == 0:
+                w += se(s["lockon"])
+            w += wait(1)
+        w += _hold(SCOOT23, res, 0, sc, 2, lambda k: emit_at(SCOOTC23, 1, 0, bag))
+    w += se(s["dcharge"]) + emit_at(SCOOTB23, 0, 0, batt)                      # *TURBO*
+    w += _hold(SCOOTB23, 2, 0, batt, 4, lambda k: ride())
+    w += se(s["jet"]) + bmove(side, 258, 3, *zoom) + emit_at(SCOOT23, 0, 0, (-sx * 20, 0))   # ZOOM
+    w += ride() + wait(1) + ride() + wait(1)
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4) + emit_at(SCOOTC23, 0, 1, (0, 24))
+    w += shake_defender(4, 3) + func(48) + func(68, 4, 4, 1, 3, 0) + ride() + wait(1)
+    w += bmove(side, 258, 6, -zoom[0] - 2 * step[0], -zoom[1] - 2 * step[1])
+    return w + _hold(SCOOT23, res, 0, sc, 5, lambda k: emit_at(SCOOTC23, 1, 0, bag))
+
+
+def _bug_zapper(side, s):
+    """Zap Cannon (Bug Zapper): a porch bug zapper humming purple. A moth flutters in - ZZT. Another - ZZT. Then the
+    foe starts drifting toward the light, hypnotized... BZZZZZZT."""
+    sx = _sx(side)
+    zp = _s23(side, 0, _p(side, (150, 40), (110, 98)))
+    drift = _p(side, (-16, 14), (18, 14))
+    z = lambda k=0: emit_at(ZAPR23, 1 if k % 5 else 2, 0, zp)
+    w = se(s["spark"]) + _hold(ZAPR23, 1, 0, zp, 4, z)
+    for n in range(2):                                                         # flutter... ZZT
+        start = (zp[0] + _p(side, 70, -70) * (1 if n == 0 else -1) * -1, zp[1] + (40 if n == 0 else -30))
+        for k in range(6):
+            t = (k + 1) / 6
+            w += z(k + 1) + emit_at(ZAPRB23, 1, 0, (round(start[0] + (zp[0] - start[0]) * t), round(start[1] + (zp[1] - start[1]) * t + (6 if k % 2 else -6)))) + wait(1)
+        w += se(s["spark"]) + emit_at(ZAPR23, 0, 0, zp) + emit_at(ZAPRB23, 0, 0, (zp[0], zp[1] - 6)) + flash_screen(1)
+        w += _hold(ZAPR23, 1, 0, zp, 5, z)
+    w += se(s["mlook"])                                                        # *...the light...*
+    for k in range(4):
+        w += bmove(side, 264, 4, drift[0] // 4, drift[1] // 4) + _hold(ZAPR23, 1, 0, zp, 2, z)
+    w += se(s["tbolt"]) + se(s["spark"]) + flash_screen(5) + emit_at(ZAPR23, 3, 0, zp) + emit_at(ZAPR23, 3, 0, (zp[0] - drift[0], zp[1] - drift[1] + 20))   # BZZZZT
+    for k in range(10):
+        w += z(k)
+        if k % 2 == 0:
+            w += shake_defender(2, 1) + func(34, 8, 0, 1, rgb(255, 250, 80) if k % 4 == 0 else rgb(60, 60, 60), 14, 0)
+        w += wait(1)
+    w += func(34, 8, 0, 1, rgb(255, 250, 80), 12, 0) + emit_at(ZAPRB23, 0, 0, (zp[0] - drift[0], zp[1] - drift[1] + 30))
+    return w + bmove(side, 264, 5, -(drift[0] // 4) * 4, -(drift[1] // 4) * 4) + _hold(ZAPR23, 1, 0, zp, 4, z)
+
+
+def _split_bill(side, s):
+    """Pain Split (Split Bill): the check lands between them. The attacker slides it over. The foe slides it back.
+    Over. Back (faster). Then the attacker just rips the bill in half - half each."""
+    sx = _sx(side)
+    mid = _s23(side, 0, (124, 72))
+    me, them = _s23(side, 0, _p(side, (100, 80), (150, 62))), _s23(side, 0, _p(side, (150, 62), (100, 80)))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"])
+    for k in range(3):                                                         # *lands*
+        w += emit_at(BILL23, 1, 0, (mid[0], mid[1] + 30 - k * 10)) + wait(1)
+    w += se(s["bonk"]) + _hold(BILL23, 1, 0, mid, 4)
+    pos = mid
+    for n, (to, who, steps) in enumerate(((them, 258, 4), (me, 264, 4), (them, 258, 3), (me, 264, 2))):
+        d_ = (sx * 8, 3) if who == 258 else (-sx * 8, -3)
+        w += bmove(side, who, 2, *d_) + se(s["swipe"])
+        for k in range(steps):
+            w += emit_at(BILL23, 1, 0, _lerp(pos, to, (k + 1) / steps)) + wait(1)
+        pos = to
+        w += bmove(side, who, 2, -d_[0], -d_[1]) + _hold(BILL23, 1, 0, pos, 3 if n < 3 else 4)
+    for k in range(3):                                                         # *snatches it back to the middle*
+        w += emit_at(BILL23, 1, 0, _lerp(pos, mid, (k + 1) / 3)) + wait(1)
+    w += _hold(BILL23, 1, 0, mid, 3)
+    w += se(s["slash"]) + se(s["crack"]) + emit_at(BILLB23, 0, 0, mid) + flash_screen(2)   # RIIIP
+    a = _arc(mid, (sx * 10, 30), 5, 16)
+    b_ = _arc(mid, (dx - sx * 10, dy + 30), 5, 16)
+    left, right = _p(side, (1, 2), (2, 1))
+    for k in range(1, 5):
+        w += emit_at(BILLB23, left, 0, a[k]) + emit_at(BILLB23, right, 0, b_[k]) + wait(1)
+    w += se(s["absorb"]) + emit_at(BILL23, 0, 0, (0, 20)) + emit_at(BILL23, 0, 1, (0, 20))
+    w += func(34, 2, 0, 1, rgb(200, 150, 255), 12, 0) + func(34, 8, 0, 1, rgb(200, 150, 255), 12, 0) + shake_defender(1, 2)
+    return w + _hold(BILLB23, left, 0, a[4], 6, lambda k: emit_at(BILLB23, right, 0, b_[4]))
+
+
+FA_GUN24 = {"player": (96, 88), "enemy": (152, 66)}                      # minigun spot (screen)
+
+
+def _full_auto_insane(side, s):
+    """Hyper Beam (Full Auto): the pistol - *CLICK*, jammed. *CLICK*, smack it, nothing. Fine: a MINIGUN drops from
+    the sky on its tripod, spins up... and the whole screen goes BRRRRRRRRT. When the smoke clears: RELOADING..."""
+    sx = _sx(side)
+    gun = _p(side, (sx * 30, 26), (-30, 16))
+    pres = _p(side, 1, 2)
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    mg = _s23(side, 0, FA_GUN24[side])
+    tip = FA_TIP24[side]
+    mres = _p(side, 1, 2)
+    toss = _p(side, (-60, 70), (70, 60))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"]) + _hold(FA24, pres, 0, gun, 3)
+    for n in range(2):                                                         # *CLICK*... *CLICK*
+        w += se(s["disable"]) + emit_at(FA24, pres, 0, (gun[0] + sx * 2, gun[1]))
+        w += _hold(FAC24, 1, 0, bub, 7, lambda k: emit_at(FA24, pres, 0, gun) + (shake_attacker(2, 2) if n == 1 and k == 3 else []) +
+                   (se(s["bonk"]) if n == 1 and k == 3 else []))
+        w += _hold(FA24, pres, 0, gun, 3)
+    w += se(s["whoosh"]) + _lob(FA24, pres, side, gun, toss, 5, 20)        # *yeets the pistol*
+    w += wait(3) + func(33, 0, 1, 0, 10, rgb(50, 0, 0)) + wait(2)
+    for k in range(4):                                                         # *the minigun drops in*
+        w += emit_at(FAB24, mres, 0, (mg[0], mg[1] + round(110 * (1 - (k + 1) / 4) ** 1.5))) + wait(1)
+    w += se(s["bslam"]) + func(68, 3, 3, 1, 3, 0) + emit_at(FAC24, 0, 0, (mg[0], mg[1] - 24)) + _hold(FAB24, mres, 0, mg, 3)
+    for k in range(9):                                                         # whirrrRRRR
+        w += emit_at(FAB24, mres, 0, (mg[0] + (k % 2), mg[1]))
+        if k % (3 if k < 5 else 1) == 0:
+            w += se(s["rollout"])
+        w += wait(1)
+    w += se(s["boom"]) + flash_screen(3) + emit_at(FAB24, _p(side, 0, 3), 0, tip) + func(68, 2, 2, 1, 30, 0) + shake_attacker(1, 30)
+    for k in range(28):                                                        # BRRRRRRRRRRRRT
+        w += emit_at(FAB24, mres, 0, (mg[0] + (k % 2) * 2 * sx, mg[1] + (k % 3) - 1))
+        w += emit_at(FAC24, 3, 0, (tip[0], tip[1] + _l3(1.1)))
+        w += se(s["pop"] if k % 2 else s["boom"])
+        if k % 2 == 0:
+            w += emit_at(FA24, 0, 0, (mg[0] - sx * 6, mg[1] + 6))
+            w += emit_at(FA24, 3, 1, (((k * 13) % 36) - 18, 12 + (k * 7) % 34 + _l3(.35)))
+        if k % 4 == 0:
+            w += shake_defender(2, 1)
+        if k % 7 == 6:
+            w += flash_screen(2)
+        w += wait(1)
+    w += se(s["kaboom"]) + func(48) + func(34, 8, 0, 1, rgb(40, 30, 30), 13, 0)
+    for k in range(3):
+        w += emit_at(FAC24, 0, 1, ((k - 1) * 16, 20 + k * 6))
+    w += _hold(FAB24, mres, 0, mg, 6) + func(33, 0, 1, 10, 0, rgb(50, 0, 0))
+    for k in range(12):                                                        # RELOADING...
+        w += emit_at(FAB24, mres, 0, mg) + emit_at(FAC24, 2, 0, bub)
+        if k % 4 == 0:
+            w += emit_at(FAC24, 0, 0, tip)
+        w += wait(1)
+    return w
+
+
+def _eighteen_wheeler(side, s):
+    """Giga Impact (18 Wheeler): they hop in the cab. HONK - headlights off-screen. HONK - the nose of an 18-wheeler,
+    the foe turns. HOOOOOOONK - it barrels across the whole screen straight through them."""
+    sx = _sx(side)
+    y = _p(side, 72, 108)
+    fx = _S23_AT["enemy" if side == "player" else "player"][0]
+    tr = _p(side, 1, 2)
+    start = -150 if side == "player" else 410
+    pos = lambda x: _s23(side, 0, (x, y))
+    w = se(s["whoosh"]) + bmove(side, 258, 3, 0, 10) + func(40, 2, 1) + wait(2)   # *hops in*
+    w += func(33, 0, 1, 0, 6, rgb(20, 20, 40)) + wait(2)
+    for n, (x, ticks) in enumerate(((start - sx * 40, 6), (start + sx * 130, 8))):   # HONK... HONK...
+        w += se(s["horn"]) + emit_at(TRUCK24, 0, 0, _s23(side, 0, (_p(side, 10, 246), y + 8)))
+        w += _hold(TRUCK24, tr, 0, pos(x), ticks, lambda k: (bmove(side, 264, 2, -sx * 6, 0) if n == 1 and k == 2 else []))
+        if n == 1:
+            w += bmove(side, 264, 2, sx * 6, 0)
+    for k in range(3):                                                         # HOOOOOOONK
+        w += se(s["horn"]) + emit_at(TRUCK24, tr, 0, pos(start + sx * 130)) + emit_at(TRUCK24, 0, 0, _s23(side, 0, (_p(side, 30, 226), y + 8))) + wait(1)
+    w += flash_screen(3) + func(34, 8, 0, 1, rgb(255, 255, 255), 12, 0) + shake_defender(1, 2) + wait(2)
+    hit = False
+    xs = [start + sx * (130 + 90 * (k + 1)) for k in range(7)]
+    for x in xs:                                                               # VRRRRRRRMMMMM
+        w += emit_at(TRUCK24, tr, 0, pos(x)) + emit_at(TRUCKB24, 0, 0, _s23(side, 0, (x - sx * 120, y + 30)))
+        if not hit and (x - fx) * sx > 30:
+            hit = True
+            w += se(s["kaboom"]) + se(s["bslam"]) + se(s["smash"]) + flash_screen(6) + func(68, 8, 6, 1, 6, 0)
+            w += emit_at(TRUCKB24, 1, 1, (0, 20)) + bmove(side, 264, 3, sx * 40, 34) + func(34, 8, 0, 1, rgb(255, 80, 40), 14, 0)
+        w += wait(1)
+    w += func(33, 0, 1, 6, 0, rgb(20, 20, 40)) + emit_at(TRUCKB24, 0, 1, (0, 10)) + wait(3)
+    w += bmove(side, 264, 4, -sx * 40, -34) + se(s["bslam"]) + shake_defender(3, 2) + emit_at(TRUCKB24, 2, 1, (0, 40))
+    w += wait(6) + func(40, 2, 0) + bmove(side, 258, 3, 0, -10) + shake_attacker(2, 3) + wait(4)   # (the driver's dizzy too)
+    return w
+
+
+def _holy_fire(side, s):
+    """Sacred Fire (Holy Fire): the lights go down, stained glass. "CAN I GET AN AMEN?" ... nothing. "I SAID CAN I
+    GET AN AMEN?!" ... "...amen." Then the window blazes, the sky opens, and a pillar of holy fire comes down on
+    the foe. They walk out of it with a halo."""
+    sx = _sx(side)
+    win = _s23(side, 0, (214, 34))
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    fbub = _p(side, (-30, 36), (50, 58))
+    window = lambda lit=False: emit_at(HOLY24, 2 if lit else 1, 0, win)
+    w = func(33, 0, 1, 0, 10, rgb(50, 30, 80)) + se(s["safeguard"]) + _hold(HOLY24, 1, 0, win, 4)
+    w += _hold(HOLYB24, 1, 0, bub, 10, lambda k: window())
+    w += _hold(HOLY24, 1, 0, win, 6)                                           # *...crickets*
+    w += bmove(side, 258, 2, 0, 6) + se(s["rage"])
+    w += _hold(HOLYB24, 2, 0, bub, 11, lambda k: window() + (bmove(side, 258, 2, 0, -6) if k == 2 else []))
+    w += _hold(HOLYC24, 1, 1, fbub, 8, lambda k: window())                     # "...amen."
+    w += se(s["sbeam"]) + flash_screen(4) + func(33, 0, 1, 10, 0, rgb(50, 30, 80))   # *the window blazes*
+    for k in range(4):
+        w += window(True) + emit_at(HOLYB24, 0, 1, ((k - 2) * 30, 96)) + wait(1)
+    w += emit_at(HOLY24, 0, 1, (0, 110))
+    w += _hold(HOLY24, 2, 0, win, 8, lambda k: emit_at(HOLYB24, 0, 1, ((k % 3 - 1) * 40, 100)) if k % 3 == 0 else [])
+    w += se(s["flame"]) + se(s["kaboom"]) + flash_screen(5) + func(68, 4, 6, 1, 6, 0)   # FWOOOOOM
+    for k in range(16):
+        w += emit_at(HOLYC24, 0, 1, ((k % 3 - 1) * 6, 4 + (k % 3) * 24)) + window(True)
+        if k % 3 == 0:
+            w += shake_defender(2, 1) + se(s["ember"])
+        if k == 4:
+            w += func(34, 8, 0, 1, rgb(255, 140, 30), 14, 0)
+        w += wait(1)
+    for k in range(12):                                                        # *halo*
+        w += emit_at(HOLYC24, 2, 1, (0, 46 + (k % 2))) + window(True) + wait(1)
+    return w + func(48) + wait(2)
+
+
+def _sentencing(side, s):
+    """Judgment (Sentencing): court is in session. BANG. BANG. GUILTY! The courtroom goes dark - and a GIANT gavel
+    comes down out of the sky on the foe."""
+    g = _s23(side, 0, (104, 86))
+    sign = _p(side, (0, 58), (0, 50))
+    bang = lambda: se(s["bonk"]) + emit_at(GAVEL24, 0, 0, (g[0], g[1] - 10)) + func(68, 1, 1, 1, 1, 0)
+    w = func(33, 0, 1, 0, 8, rgb(70, 40, 20)) + se(s["pop"]) + _hold(GAVEL24, 1, 0, (g[0], g[1] + 10), 3)
+    for n in range(2):                                                         # BANG... BANG...
+        w += emit_at(GAVEL24, 1, 0, (g[0], g[1] + 14)) + wait(1) + emit_at(GAVEL24, 1, 0, g) + bang() + wait(1)
+        w += _hold(GAVEL24, 1, 0, g, 4 + n)
+    w += se(s["chaching"])
+    for k in range(12):                                                        # GUILTY! bang bang bang
+        w += emit_at(GAVELB24, 1, 0, sign) + emit_at(GAVEL24, 1, 0, (g[0], g[1] + (8 if k % 2 else 0)))
+        if k % 2 == 1:
+            w += bang()
+        if k == 6:
+            w += shake_defender(2, 2)
+        w += wait(1)
+    w += _hold(GAVEL24, 1, 0, g, 3) + wait(3)   # *...the room goes dark*
+    for k in range(5):                                                         # *the sky*
+        t = ((k + 1) / 5) ** 1.8
+        w += emit_at(GAVEL24, 2, 1, (-33, round(160 - 161 * t))) + wait(1)
+    w += se(s["kaboom"]) + se(s["bslam"]) + se(s["explo"]) + flash_screen(6) + func(68, 8, 8, 1, 6, 0)   # SLAMMED
+    w += emit_at(GAVELB24, 0, 1, (0, 0)) + bmove(side, 264, 2, 0, -12) + shake_defender(4, 3)
+    w += _hold(GAVEL24, 2, 1, (-33, -1), 6)
+    for k in range(4):
+        w += emit_at(GAVEL24, 2, 1, (-33, -1 + (k + 1) * 34)) + wait(1)
+    w += bmove(side, 264, 4, 0, 12) + func(33, 0, 1, 8, 0, rgb(70, 40, 20)) + func(48)
+    return w + wait(4)
+
+
+def _clock_out(side, s):
+    """Roar of Time (Clock Out): the time clock reads 4:58. Tick. Tick. 4:59 - the longest minute in history. 5:00 -
+    the card goes in, KA-CHUNK - and they clock out so hard time itself stops: sepia, clocks everywhere, a roar
+    that rings out over the foe. Then time snaps back - all at once."""
+    sx = _sx(side)
+    c = _s23(side, 0, (104, 84))
+    slot = (c[0] - 4, c[1] - 6)
+    w = se(s["pop"]) + _hold(CLOCK24, 1, 0, c, 3)
+    for kit, res, ticks, gap in ((CLOCK24, 1, 6, 3), (CLOCK24, 2, 12, 4)):    # tick... tick...  (4:58, 4:59)
+        for k in range(ticks):
+            w += emit_at(kit, res, 0, c)
+            if k % gap == 0:
+                w += se(s["clock"])
+            if res == 2 and k in (3, 7):
+                w += bmove(side, 258, 1, 0, 4) + wait(1) + bmove(side, 258, 1, 0, -4)   # *taps foot*
+            w += wait(1)
+    w += se(s["bling"]) + _hold(CLOCKB24, 1, 0, c, 3)                          # 5:00
+    w += se(s["whoosh"]) + _lob(CLOCKB24, 2, side, (sx * 24, 26), slot, 4, 12, lambda k: emit_at(CLOCKB24, 1, 0, c))
+    w += se(s["bslam"]) + _hold(CLOCKB24, 1, 0, c, 2)                          # KA-CHUNK
+    w += se(s["rage"]) + se(s["kaboom"]) + flash_screen(5) + func(33, 0, 1, 0, 13, rgb(150, 110, 60))   # CLOCK. OUT.
+    w += func(34, 8, 0, 1, rgb(150, 150, 150), 15, 0) + func(68, 3, 3, 1, 14, 0)
+    for k in range(16):
+        w += emit_at(CLOCKB24, 1, 0, c)
+        if k % 3 == 0:
+            w += emit_at(CLOCK24, 0, 0, (0, 30)) + se(s["bdrum"] if k % 2 == 0 else s["clock"])
+        if k in (1, 6, 11):
+            w += emit_at(CLOCKC24, 0, 1, (0, 30)) + emit_at(CLOCKC24, 0, 0, (sx * 60, 50))
+        w += wait(1)
+    w += se(s["kaboom"]) + flash_screen(6) + func(33, 0, 1, 13, 0, rgb(150, 110, 60))   # *snap*
+    w += shake_defender(5, 4) + func(48) + func(34, 8, 0, 1, rgb(255, 230, 120), 12, 0)
+    return w + _hold(CLOCKB24, 1, 0, c, 6)
+
+
+def _rip_space(side, s):
+    """Spacial Rend (Rip Space): a giant zipper hangs in the sky. Zzzip - a peek of outer space. Zzzip - zipped back
+    up. Then RIIIIIIP - all the way down onto the galaxy, and the foe gets yanked into it."""
+    sx = _sx(side)
+    z = _s23(side, 0, (140, 70))
+    pull = _p(side, (-45, 11), (76, -70))
+    zp = lambda res=1, kit=RIP24: emit_at(kit, res, 0, z)
+    w = se(s["pop"]) + _hold(RIP24, 1, 0, z, 4)
+    for n in range(2):                                                         # zzzip... (peek)... zzzip
+        w += se(s["slash"]) + _hold(RIP24, 2, 0, z, 3, lambda k: emit_at(RIP24, 0, 0, (z[0], z[1] + 40)) if k == 0 else [])
+        w += _hold(RIP24, 2, 0, z, 4 + 2 * n, lambda k: bmove(side, 264, 2, 0, 4) if k == 1 and n == 0 else
+                   (bmove(side, 264, 2, 0, -4) if k == 3 and n == 0 else []))
+        w += se(s["slash"]) + _hold(RIP24, 1, 0, z, 5)
+    w += func(33, 0, 1, 0, 13, rgb(30, 10, 60)) + se(s["slash"]) + se(s["crack"])   # RIIIIIIIIP
+    for k in range(3):
+        w += zp(2) + wait(1) + zp(1, RIPB24) + wait(1)
+    w += se(s["kaboom"]) + flash_screen(4) + func(68, 4, 4, 1, 10, 0)
+    for k in range(14):
+        w += emit_at(RIPB24, 2, 0, z)
+        if k % 3 == 0:
+            w += emit_at(RIPB24, 0, 0, (z[0] + (k % 2) * 20 - 10, z[1] + 10)) + emit_at(RIP24, 0, 0, (z[0], z[1] + 30))
+        if k == 3:
+            w += se(s["gust"]) + bmove(side, 264, 6, *pull) + shake_defender(2, 4)    # *yanked in*
+        if k == 10:
+            w += se(s["slash"]) + se(s["bslam"]) + flash_screen(5) + func(34, 8, 0, 1, rgb(180, 100, 255), 14, 0)
+        w += wait(1)
+    w += bmove(side, 264, 5, -pull[0], -pull[1]) + func(48)
+    for k in range(4):                                                         # ...zipped back shut
+        w += zp(2 if k < 2 else 1) + (se(s["slash"]) if k == 0 else []) + wait(1)
+    return w + func(33, 0, 1, 13, 0, rgb(30, 10, 60)) + _hold(RIP24, 1, 0, z, 3)
+
+
+def _ghost_ride(side, s):
+    """Shadow Force (Ghost Ride), two turns. Turn 1: a bedsheet ghost costume drops over them - boo - and floats off
+    (they're gone). Turn 2: an empty minivan rolls up, slide door open, the ghost dancing on the roof - ghost riding
+    the whip - then it floors it into the foe."""
+    sx = _sx(side)
+    one = se(s["whoosh"])
+    for k in range(4):                                                         # *drapes*
+        one += emit_at(GHOST24, 1, 0, (0, 20 + round(50 * (1 - (k + 1) / 4)))) + wait(1)
+    one += se(s["astonish"]) + _hold(GHOST24, 1, 0, (0, 20), 6, lambda k: emit_at(GHOST24, 0, 0, (0, 10)) if k == 2 else [])
+    one += func(40, 2, 1)
+    for k in range(6):                                                         # ...floats away
+        one += emit_at(GHOST24, 1, 0, (sx * k * 6, 20 + k * 10 + (2 if k % 2 else 0))) + wait(1)
+    one += wait(2)
+    y = _p(side, 80, 92)
+    van = _p(side, 2, 1)
+    vkit = _p(side, GHOST24, GHOSTB24)
+    start, stop, end = _p(side, (-70, 128, 400), (330, 196, -140))
+    at = lambda x: _s23(side, 0, (x, y))
+    ride = lambda x, hop=0: emit_at(vkit, van, 0, at(x)) + emit_at(GHOST24, 1, 0, _s23(side, 0, (x - sx * 4, y - 14 - hop)))
+    two = se(s["bass"])
+    for k in range(7):                                                         # *rolls up*, bass knocking
+        x = round(start + (stop - start) * (k + 1) / 7)
+        two += ride(x, 4 if k % 2 else 0) + (se(s["bass"]) if k % 2 == 0 else []) + wait(1)
+    for k in range(8):                                                         # ghost riding the whip
+        two += ride(stop, (8, 0, 8, 0, 12, 0, 12, 0)[k]) + (se(s["bass"]) if k % 2 == 0 else [])
+        if k == 3:
+            two += bmove(side, 264, 2, -sx * 6, 0)
+        if k == 5:
+            two += bmove(side, 264, 2, sx * 6, 0)
+        two += wait(1)
+    two += se(s["skrrt"])
+    hit = False
+    fx = _S23_AT["enemy" if side == "player" else "player"][0]
+    for k in range(6):                                                         # FLOORS IT
+        x = round(stop + (end - stop) * ((k + 1) / 6) ** 1.3)
+        two += ride(x)
+        if not hit and (x - fx) * sx > -40:
+            hit = True
+            two += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(5) + func(68, 6, 4, 1, 5, 0)
+            two += emit_at(GHOSTB24, 0, 1, (0, 20)) + shake_defender(4, 3) + func(48)
+        two += wait(1)
+    two += wait(2) + func(40, 2, 0) + se(s["pop"]) + emit_at(GHOST24, 0, 0, (0, 20)) + wait(4)
+    return one, two
+
+
+def _ghost_ride_turn2_first(side, s):
+    """Test only: Ghost Ride's second turn on its own (vanishes the attacker first, like the real turn 1 would)."""
+    return func(40, 2, 1) + _ghost_ride(side, s)[1]
+
+
+def _mind_blown(side, s):
+    """Psycho Boost (Mind Blown): a chalkboard: 2+2=4. The foe: ?. E=MC2. The foe: ??. Then 1+1=11. The foe
+    stares... and their mind is BLOWN - a whole galaxy bursts out of their head."""
+    board = _s23(side, 0, (106, 84))
+    q = [(-12, 46), (12, 52)]
+    w = se(s["pop"])
+    for n, (kit, res) in enumerate(((MIND24, 1), (MIND24, 2), (MINDB24, 1))):
+        w += se(s["lockon"]) + emit_at(MIND24, 0, 0, (board[0], board[1] - 4))
+        ticks = (7, 8, 6)[n]
+        for k in range(ticks):                                                 # ? ... ?? ...
+            w += emit_at(kit, res, 0, board)
+            if k >= 3 and n < 2:
+                for j in range(n + 1):
+                    w += emit_at(MINDB24, 2, 1, q[j])
+            if k == 3 and n == 1:
+                w += shake_defender(1, 2) + se(s["confuse"])
+            w += wait(1)
+    w += _hold(MINDB24, 1, 0, board, 4)                                       # *...*
+    w += func(33, 0, 1, 0, 12, rgb(40, 10, 70)) + se(s["kaboom"]) + se(s["psych"]) + flash_screen(6)   # MIND. BLOWN.
+    w += func(68, 4, 4, 1, 8, 0) + emit_at(MINDC24, 0, 1, (0, 40))
+    for k in range(14):
+        w += emit_at(MINDC24, 1, 1, (0, 28 + (k % 2) * 2)) + emit_at(MINDB24, 1, 0, board)
+        if k % 4 == 0:
+            w += shake_defender(2, 1) + emit_at(MINDC24, 0, 1, (0, 50))
+        if k == 5:
+            w += func(34, 8, 0, 1, rgb(220, 120, 255), 14, 0)
+        w += wait(1)
+    return w + func(48) + func(33, 0, 1, 12, 0, rgb(40, 10, 70)) + wait(4)
+
+
+def _bad_omen(side, s):
+    """Doom Desire (Bad Omen): a black cat strolls right across the foe's path. A hand mirror lands by them - and
+    cracks. The sky goes dark. A star twinkles... and comes straight down on them."""
+    y = _p(side, 88, 124)
+    xs = _p(side, (126, 250), (14, 124))
+    mirror = _p(side, (-79, -5), (46, 40))
+    w = se(s["sscent"])
+    for k in range(10):                                                        # *strolls by*
+        x = round(xs[0] + (xs[1] - xs[0]) * (k + 1) / 10)
+        w += emit_at(OMEN24, 1 + k % 2, 0, _s23(side, 0, (x, y)))
+        if k == 4:
+            w += bmove(side, 264, 2, 0, 4) + se(s["leer"])
+        if k == 6:
+            w += bmove(side, 264, 2, 0, -4)
+        w += wait(1)
+    w += wait(2) + se(s["whoosh"])
+    for k in range(3):
+        w += emit_at(OMENB24, 1, 1, (mirror[0], mirror[1] + 30 - k * 10)) + wait(1)
+    w += _hold(OMENB24, 1, 1, mirror, 4)
+    w += se(s["crack"]) + emit_at(OMEN24, 0, 1, mirror) + shake_defender(2, 2)    # *crack*
+    w += _hold(OMENB24, 2, 1, mirror, 7)
+    w += func(33, 0, 1, 0, 12, rgb(10, 10, 50)) + _hold(OMENB24, 2, 1, mirror, 3)   # *the sky goes dark*
+    w += se(s["bling"]) + emit_at(OMENB24, 0, 1, (60, 110)) + _hold(OMENB24, 2, 1, mirror, 5)
+    for k in range(6):                                                         # *here it comes*
+        t = ((k + 1) / 6) ** 1.6
+        w += emit_at(OMENC24, 1, 1, (round(60 - 54 * t), round(130 - 96 * t))) + emit_at(OMENB24, 2, 1, mirror) + wait(1)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(6) + func(68, 7, 7, 1, 6, 0)
+    w += emit_at(OMENC24, 0, 1, (0, 24)) + emit_at(OMENC24, 0, 1, (0, 36)) + shake_defender(5, 4) + func(48)
+    w += func(34, 8, 0, 1, rgb(255, 220, 60), 14, 0) + wait(8)
+    return w + func(33, 0, 1, 12, 0, rgb(10, 10, 50)) + wait(4)
+
+
+def _compactor(side, s):
+    """Crush Grip (Compactor): the junkyard compactor: two steel walls slide in on either side of the foe - creak -
+    crunch - CRUNCH - and there's just a cube of junk. Then the walls pull back and the foe pops out, flattened."""
+    gaps = (60, 30, 18, 8, 0)
+    walls = lambda g, dy=10: emit_at(CRUSH24, 1, 1, (-30 - g, dy)) + emit_at(CRUSH24, 2, 1, (30 + g, dy))
+    w = se(s["harden"])
+    for k in range(4):
+        w += walls(60 + 60 * (3 - k) // 3) + wait(1)
+    w += _hold(CRUSH24, 1, 1, (-90, 10), 3, lambda k: emit_at(CRUSH24, 2, 1, (90, 10)))
+    for n, g in enumerate(gaps[1:4]):                                          # creak... crunch... CRUNCH
+        w += se(s["harden"] if n == 0 else s["crunch"])
+        for k in range(3):
+            w += walls(round(gaps[n] + (g - gaps[n]) * (k + 1) / 3)) + wait(1)
+        w += emit_at(CRUSH24, 0, 1, (-30 - g + 4, 20)) + shake_defender(1 + n, 2)
+        w += walls(g) + wait(1) + walls(g) + wait(2 + n)
+    w += se(s["bslam"]) + se(s["kaboom"]) + flash_screen(5) + func(68, 6, 6, 1, 5, 0)
+    w += walls(0) + emit_at(CRUSHB24, 1, 1, (0, 14)) + emit_at(CRUSH24, 0, 1, (0, 40)) + wait(1)
+    for k in range(10):                                                        # *a cube*
+        w += walls(0) + emit_at(CRUSHB24, 1, 1, (0, 14)) + wait(1)
+    w += se(s["harden"])
+    for k in range(4):                                                         # *the walls pull back*
+        w += walls(k * 20) + (emit_at(CRUSHB24, 1, 1, (0, 14)) if k < 2 else []) + wait(1)
+    w += se(s["pop"]) + emit_at(CRUSHB24, 0, 1, (0, 14)) + func(34, 8, 0, 1, rgb(150, 150, 160), 13, 0) + shake_defender(3, 3) + func(48)
+    return w + wait(6)
+
+
+def _flamin_hot(side, s):
+    """Magma Storm (Flamin Hot): a bag of flaming-hot chips. One chip in the foe's mouth - a bead of sweat. Another -
+    steam out the ears. Then the WHOLE BAG - and the foe erupts in a ring of fire."""
+    sx = _sx(side)
+    bag = _s23(side, 0, _p(side, (100, 98), (150, 66)))
+    mouth = _p(side, (0, 26), (0, 24))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"]) + _hold(HOT24, 1, 0, bag, 3)
+    for n in range(2):                                                         # crunch... CRUNCH
+        w += se(s["whoosh"]) + _lob(HOT24, 2, side, (bag[0], bag[1] + 20), (dx + mouth[0], dy + mouth[1]), 4, 14, lambda k: emit_at(HOT24, 1, 0, bag))
+        w += se(s["crunch"]) + emit_at(HOT24, 1, 0, bag) + wait(1)
+        w += func(34, 8, 0, 1, rgb(255, 70, 40), 6 + 5 * n, 0)
+        w += emit_at(HOT24, 0, 1, (8, 40)) if n == 0 else emit_at(HOTC24, 0, 1, (0, 44)) + shake_defender(2, 2) + se(s["ember"])
+        w += _hold(HOT24, 1, 0, bag, 5 + n)
+    w += se(s["whoosh"]) + _lob(HOT24, 1, side, bag, (dx, dy + 34), 4, 18)    # THE WHOLE BAG
+    w += se(s["crunch"]) + se(s["crunch"]) + _hold(HOT24, 1, 1, (0, 34), 3, lambda k: shake_defender(1, 1))
+    w += func(33, 0, 1, 0, 10, rgb(120, 20, 0)) + se(s["kaboom"]) + se(s["flame"]) + flash_screen(5)   # *ERUPTS*
+    w += emit_at(HOTB24, 0, 1, (0, 10)) + emit_at(HOTB24, 1, 1, (0, 30)) + func(68, 4, 4, 1, 8, 0)
+    w += func(34, 8, 0, 1, rgb(255, 60, 20), 14, 0)
+    for k in range(12):
+        if k % 4 == 0:
+            w += emit_at(HOTC24, 0, 1, (0, 46)) + shake_defender(2, 1)
+        if k == 6:
+            w += emit_at(HOTB24, 1, 1, (0, 30)) + se(s["ember"])
+        w += wait(1)
+    return w + func(33, 0, 1, 10, 0, rgb(120, 20, 0)) + wait(4)
+
+
+def _air_strike(side, s):
+    """Sky Attack (Air Strike), two turns. Turn 1: they bread the foe - a slice on their head, another slice, then the
+    whole loaf. Coo. Turn 2: a pigeon dives in. Another. Then the entire pigeon air force."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    head = [(-6, 40), (8, 44)]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(AIR24, 1, 1, head[i])]
+    one = []
+    for n in range(2):                                                         # a slice... a slice...
+        one += se(s["whoosh"]) + _lob(AIR24, 1, side, (sx * 22, 30), (dx + head[n][0], dy + head[n][1]), 5, 20, lambda k: dress())
+        on.append(n)
+        one += se(s["pop"]) + _hold(AIR24, 1, 1, head[n], 4, lambda k: dress())
+    for k in range(4):                                                         # THE WHOLE LOAF
+        one += emit_at(AIR24, 2, 1, (0, 50 + round(60 * (1 - (k + 1) / 4)))) + dress() + wait(1)
+    one += se(s["bonk"]) + shake_defender(2, 2) + _hold(AIR24, 2, 1, (0, 50), 4, lambda k: dress())
+    one += se(s["peck"]) + _hold(AIR24, 2, 1, (0, 50), 3, lambda k: dress() + (bmove(side, 264, 2, 0, 6) if k == 0 else []))
+    one += se(s["peck"]) + _hold(AIR24, 2, 1, (0, 50), 4, lambda k: dress()) + bmove(side, 264, 2, 0, -6)   # *coo coo*
+    two = []
+    for n, frm in enumerate(((-150, 120), (150, 120))):                        # dive... dive...
+        two += se(s["gust"])
+        for k in range(5):
+            t = ((k + 1) / 5) ** 1.4
+            two += emit_at(AIRB24, 2, 1, (round(frm[0] * (1 - t)), round(40 + (frm[1] - 40) * (1 - t)))) + wait(1)
+        two += se(s["peck"]) + emit_at(AIRB24, 3, 1, (0, 40)) + shake_defender(2, 2) + wait(3)
+    two += func(33, 0, 1, 0, 8, rgb(60, 60, 80)) + se(s["gust"]) + se(s["peck"])   # THE AIR FORCE
+    two += emit_at(AIRB24, _p(side, 0, 1), 0, _p(side, (-94, 150), (-215, 91)))
+    for k in range(18):
+        if k % 3 == 0:
+            two += se(s["peck"]) + emit_at(AIRB24, 3, 1, (((k * 11) % 30) - 15, 30 + (k * 7) % 20)) + shake_defender(2, 1)
+        if k == 9:
+            two += flash_screen(3) + func(34, 8, 0, 1, rgb(170, 170, 180), 12, 0)
+        two += wait(1)
+    two += func(48) + func(33, 0, 1, 8, 0, rgb(60, 60, 80)) + wait(4)
+    return one, two
+
+
+def _air_strike_turn2_first(side, s):
+    """Test only: Air Strike's second turn on its own."""
+    return _air_strike(side, s)[1]
+
+
+def _brick_wall(side, s):
+    """Rock Slide (Brick Wall): bricks come down on the foe's head and stack up - one course, two courses, three - a
+    whole wall on their head. It wobbles... and topples."""
+    top = _p(side, (0, 60), (0, 60))
+    w = []
+    for n, (kit, res) in enumerate(((WALL24, 1), (WALL24, 2), (WALLB24, 1))):  # thud... thud... THUD
+        for k in range(3):
+            w += emit_at(kit, res, 1, (top[0], top[1] + round(60 * (1 - (k + 1) / 3)))) + wait(1)
+        w += se(s["bslam"] if n == 2 else s["bonk"]) + emit_at(WALL24, 0, 1, (0, 34)) + shake_defender(1 + n, 1)
+        w += _hold(kit, res, 1, top, 3 + n)
+    for k in range(4):                                                         # *wobble*
+        w += emit_at(WALLB24, 1, 1, (top[0] + (2 if k % 2 else -2), top[1])) + wait(1)
+    w += emit_at(WALLB24, 2, 1, (top[0] + 6, top[1] - 4)) + wait(1) + emit_at(WALLB24, 2, 1, (top[0] + 10, top[1] - 10)) + wait(1)
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(3) + func(68, 4, 4, 1, 4, 0)   # CRASH
+    w += emit_at(WALLB24, 0, 1, (0, 30)) + emit_at(WALL24, 0, 1, (0, 20)) + shake_defender(4, 3) + func(48)
+    return w + wait(8)
+
+
+def _triple_tap(side, s):
+    """Triple Kick (Triple Tap): a tap shoe drops on the foe's head - tap, tap - STOMP. (Replays every hit.)"""
+    head = (0, 44)
+    w = se(s["whoosh"])
+    for k in range(3):
+        w += emit_at(TAP24, 1, 1, (head[0], head[1] + 30 - k * 10)) + wait(1)
+    for k, dxx in enumerate((-6, 6)):                                          # tap tap
+        w += se(s["dslap"]) + emit_at(TAP24, 1, 1, (head[0] + dxx, head[1])) + emit_at(TAP24, 0, 1, (head[0] + dxx, head[1] - 8)) + wait(1)
+        w += emit_at(TAP24, 1, 1, (head[0] + dxx, head[1] + 4)) + wait(1)
+    w += emit_at(TAP24, 1, 1, (head[0], head[1] + 10)) + wait(1)
+    w += se(s["bonk"]) + se(s["dslap"]) + emit_at(TAP24, 1, 1, head) + emit_at(TAP24, 0, 1, (0, 36)) + flash_screen(1) + shake_defender(2, 2)
+    return w + _hold(TAP24, 1, 1, head, 2) + emit_at(TAP24, 1, 1, (head[0], head[1] + 16)) + wait(2)
+
+
+def _nail_gun(side, s):
+    """Pin Missile (Nail Gun): a nail gun - thunk thunk thunk thunk. (Replays every hit.)"""
+    sx = _sx(side)
+    gun = _p(side, (sx * 30, 26), (-30, 16))
+    res = _p(side, 1, 2)
+    w = se(s["pop"]) + _hold(NAIL24, res, 0, gun, 2)
+    w += emit_at(NAILB24, _p(side, 0, 1), 0, (gun[0] + sx * 16, gun[1] + 4))
+    for k in range(10):
+        w += emit_at(NAIL24, res, 0, (gun[0] - (sx * 2 if k % 3 == 0 else 0), gun[1]))
+        if k % 3 == 0:
+            w += se(s["peck"])
+        if k % 3 == 2:
+            w += emit_at(NAIL24, 0, 1, (((k * 9) % 20) - 10, 20 + (k * 5) % 16)) + shake_defender(1, 1)
+        w += wait(1)
+    return w + _hold(NAIL24, res, 0, gun, 2)
+
+
+def _staple_gun(side, s):
+    """Spike Cannon (Staple Gun): a heavy-duty staple gun - KA-CHUNK - KA-CHUNK - staples stuck all over the foe.
+    (Replays every hit.)"""
+    sx = _sx(side)
+    gun = _p(side, (sx * 30, 26), (-30, 16))
+    res = _p(side, 1, 2)
+    spots = [(-10, 22), (10, 34), (0, 12)]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(STAPLEB24, 2, 1, spots[i])]
+    w = se(s["pop"]) + _hold(STAPLE24, res, 0, gun, 2)
+    w += emit_at(STAPLEB24, _p(side, 0, 1), 0, (gun[0] + sx * 16, gun[1] + 4))
+    for n in range(3):                                                         # KA-CHUNK
+        w += emit_at(STAPLE24, res, 0, (gun[0], gun[1] - 3)) + dress() + se(s["bslam"] if n == 2 else s["bonk"]) + wait(1)
+        w += emit_at(STAPLE24, res, 0, gun) + dress() + wait(1)
+        on.append(n)
+        w += emit_at(STAPLE24, 0, 1, spots[n]) + shake_defender(1, 1) + emit_at(STAPLE24, res, 0, gun) + dress() + wait(1)
+    return w + _hold(STAPLE24, res, 0, gun, 3, lambda k: dress())
+
+
+def _petty(side, s):
+    """Spite (Petty): the foe's wearing the hoodie the attacker gave them - yoink, back it comes. The chain - yoink.
+    Then: "AND MY LIGHTER." - even the lighter."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    spots = {"hoodie": (0, 14), "chain": (0, 24), "lighter": (16, 12)}
+    on = ["hoodie", "chain", "lighter"]
+    art = {"hoodie": (PETTY24, 1), "chain": (PETTY24, 2), "lighter": (PETTYB24, 1)}
+    dress = lambda: [w_ for n in on for w_ in emit_at(art[n][0], art[n][1], 1, spots[n])]
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    back = (sx * 14, 24)
+    w = []
+    for k in range(5):
+        w += dress() + wait(1)
+    for name in ("hoodie", "chain"):                                           # yoink... yoink
+        on.remove(name)
+        kit, res = art[name]
+        w += se(s["whoosh"]) + _lob(kit, res, side, (dx + spots[name][0], dy + spots[name][1]), back, 5, 22, lambda k: dress())
+        w += se(s["pop"]) + emit_at(PETTY24, 0, 0, back) + _hold(kit, res, 0, back, 2, lambda k: dress())
+        w += shake_defender(1, 1) + _hold(PETTY24, 0, 0, back, 0) + dress() + wait(3)
+    w += _hold(PETTYB24, 2, 0, bub, 12, lambda k: dress())                     # "AND MY LIGHTER."
+    on.remove("lighter")
+    w += se(s["whoosh"]) + _lob(PETTYB24, 1, side, (dx + 16, dy + 12), back, 5, 18)
+    w += se(s["disable"]) + func(34, 8, 0, 1, rgb(140, 140, 150), 13, 0) + shake_defender(2, 2)
+    return w + _hold(PETTYB24, 1, 0, back, 5)
+
+
+def _bad_trip(side, s):
+    """Nightmare (Bad Trip): the foe's asleep, dreaming of cash. The dream turns into a pile of bills. Then the
+    landlord's door: RENT DUE. They toss and turn."""
+    cloud = _p(side, (-28, 47), (36, 44))
+    w = []
+    for n, (kit, res, ticks) in enumerate(((TRIP24, 1, 10), (TRIP24, 2, 10), (TRIPB24, 1, 13))):
+        w += se(s["sleep"] if n == 0 else s["confuse"] if n == 1 else s["nshade"])
+        for k in range(ticks):
+            w += emit_at(kit, res, 1, (cloud[0], cloud[1] + (k % 2 if n == 2 else 0)))
+            if n == 0 and k == 4:
+                w += emit_at(TRIP24, 0, 1, (cloud[0] + 4, cloud[1] + 6))
+            if n == 1 and k == 4:
+                w += shake_defender(1, 2)
+            if n == 2 and k % 3 == 0:
+                w += shake_defender(3, 1) + emit_at(TRIPB24, 0, 1, (0, 20))
+            if n == 2 and k == 2:
+                w += func(34, 8, 0, 1, rgb(140, 60, 180), 14, 0)
+            w += wait(1)
+    return w + wait(2)
+
+
+def _wildin_out(side, s):
+    """Metronome (Wildin Out): the prize wheel. Spin it - tick tick tick tick... tick... tick... ...tick. It lands on ?.
+    Who knows what's coming."""
+    wh = _s23(side, 0, (106, 82))
+    frames = ((WILD24, 1), (WILD24, 2), (WILDB24, 1))
+    w = se(s["pop"]) + _hold(WILD24, 1, 0, wh, 3) + bmove(side, 258, 2, _sx(side) * 6, 4) + se(s["whoosh"])
+    k = 0
+    for hold in (1,) * 12 + (2,) * 4 + (3,) * 2:                                # tick tick tick... tick...
+        kit, res = frames[k % 3]
+        w += se(s["clock"]) + _hold(kit, res, 0, wh, hold)
+        k += 1
+        if k == 2:
+            w += bmove(side, 258, 2, -_sx(side) * 6, -4)
+    w += wait(1) + se(s["clock"]) + _hold(WILDB24, 2, 0, wh, 4)                 # ...tick. ?
+    w += se(s["confuse"]) + se(s["chaching"]) + emit_at(WILD24, 0, 0, (wh[0], wh[1] + 20))
+    return w + _hold(WILDB24, 2, 0, wh, 10)
+
+
+def _bite_style(side, s):
+    """Mimic (Bite Style): the foe hops - the attacker hops. The foe leans - the attacker leans. "STOP COPYING ME" -
+    "STOP COPYING ME"."""
+    sx = _sx(side)
+    fbub = _p(side, (-30, 36), (50, 58))
+    abub = _p(side, (sx * 50, 58), (-40, 30))
+    w = []
+    for who, dxy in ((264, (0, 10)), (258, (0, 10)), (264, (-8, 0)), (258, (-8, 0))):
+        w += bmove(side, who, 2, *dxy) + wait(2) + bmove(side, who, 2, -dxy[0], -dxy[1]) + wait(3)
+        if who == 258:
+            w += se(s["bling"]) + wait(1)
+    for who, bub in ((1, fbub), (0, abub)):                                    # STOP COPYING ME
+        w += se(s["rage"] if who == 1 else s["leer"])
+        for k in range(10):
+            w += emit_at(BITE24, 1, who, bub)
+            if k == 3 and who == 1:
+                w += shake_defender(1, 2)
+            w += wait(1)
+    w += emit_at(BITE24, 0, 1, (0, 40)) + func(34, 8, 0, 1, rgb(255, 60, 40), 12, 0) + shake_defender(2, 3)
+    return w + wait(4)
+
+
+def _bounced_out(side, s):
+    """Vital Throw (Bounced Out): a velvet rope, the attacker with THE LIST. The foe steps up - blocked. Steps up
+    again - blocked. "UR NOT ON THE LIST." And they get thrown clean out the club."""
+    sx = _sx(side)
+    rope = _s23(side, 0, (114, 84))
+    clip = _p(side, (sx * 30, 44), (-34, 26))
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    step = _p(side, (-14, -4), (14, 6))
+    scene = lambda: emit_at(CLUB24, 1, 0, rope) + emit_at(CLUB24, 2, 0, clip)
+    w = se(s["pop"]) + _hold(CLUB24, 1, 0, rope, 3, lambda k: emit_at(CLUB24, 2, 0, clip))
+    for n in range(2):                                                         # *steps up* - nah
+        w += bmove(side, 264, 3, *step) + scene() + wait(1) + scene() + wait(1)
+        w += se(s["lockon"]) + emit_at(CLUB24, 2, 0, (clip[0], clip[1] + 2)) + emit_at(CLUB24, 1, 0, (rope[0] + 2, rope[1])) + wait(1)
+        w += bmove(side, 258, 2, 0, 4) + scene() + wait(1) + bmove(side, 258, 2, 0, -4) + scene() + wait(1)   # *shakes head*
+        w += bmove(side, 264, 3, -step[0], -step[1]) + scene() + wait(1) + scene() + wait(2)
+    for k in range(12):                                                        # UR NOT ON THE LIST
+        w += scene() + emit_at(CLUBB24, 1, 0, bub) + wait(1)
+    w += bmove(side, 258, 2, sx * 22, 8) + se(s["bslam"]) + flash_screen(2) + emit_at(CLUBB24, 0, 1, (0, 20))   # *GRABS*
+    w += bmove(side, 264, 4, sx * 40, 40) + bmove(side, 258, 4, -sx * 22, -8)
+    for k in range(4):
+        w += scene() + wait(1)
+    w += bmove(side, 264, 4, -sx * 40, -40) + se(s["bslam"]) + se(s["kaboom"]) + emit_at(CLUB24, 0, 1, (0, 0))
+    w += shake_defender(4, 3) + func(68, 4, 4, 1, 3, 0) + func(48)
+    return w + _hold(CLUB24, 1, 0, rope, 4, lambda k: emit_at(CLUB24, 2, 0, clip))
+
+
+def _snap_out(side, s):
+    """SmellingSalt (Snap Out): the foe's out of it, stars circling. "YO. WAKE UP." - nothing. A splash of water -
+    nothing. Then a crusty gym sock under their nose - and they shoot straight up."""
+    sx = _sx(side)
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    nose = _p(side, (-16, 30), (16, 30))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    stars = lambda k: emit_at(SNAPB24, 0, 1, (0, 42)) if k % 5 == 0 else []
+    w = se(s["confuse"]) + _hold(SNAP24, 2, 0, bub, 0)
+    for k in range(4):
+        w += stars(k) + wait(1)
+    w += _hold(SNAP24, 2, 0, bub, 10, stars) + wait(2)                         # "YO. WAKE UP." ... nothing
+    w += se(s["whoosh"]) + se(s["splash"]) + emit_at(SNAP24, 0, 1, (0, 40)) + func(34, 8, 0, 1, rgb(120, 180, 255), 8, 0)
+    for k in range(8):                                                         # splash... nothing
+        w += stars(k + 1) + (shake_defender(1, 1) if k == 2 else []) + wait(1)
+    w += se(s["whoosh"]) + _lob(SNAP24, 1, side, (sx * 20, 30), (dx + nose[0], dy + nose[1]), 4, 10)
+    w += _hold(SNAP24, 1, 1, nose, 6, lambda k: (se(s["sscent"]) if k == 1 else []) + stars(k))   # *sniff*...
+    w += se(s["astonish"]) + se(s["bslam"]) + flash_screen(4) + emit_at(SNAPB24, 1, 1, (0, 20))   # WIDE AWAKE
+    w += bmove(side, 264, 2, 0, 30) + func(34, 8, 0, 1, rgb(140, 220, 80), 12, 0)
+    w += _hold(SNAP24, 1, 1, nose, 3) + bmove(side, 264, 3, 0, -30) + shake_defender(4, 3) + func(48)
+    return w + wait(3)
+
+
+def _lint_trap(side, s):
+    """Cotton Spore (Lint Trap): the dryer tumbles - BZZZT - the door pops open. A puff of lint at the foe. Another.
+    Then the attacker yanks the lint trap and the whole fuzzy slab of lint lands on the foe."""
+    sx = _sx(side)
+    dr = _s23(side, 0, (104, 86))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["rollout"])
+    for k in range(6):                                                         # *tumble tumble*
+        w += emit_at(LINT24, 1, 0, (dr[0] + (k % 2), dr[1])) + wait(1)
+    w += se(s["alarm"]) + _hold(LINT24, 1, 0, dr, 3) + se(s["pop"]) + emit_at(LINT24, 0, 0, (dr[0] + sx * 10, dr[1]))
+    w += _hold(LINT24, 2, 0, dr, 3)
+    for n in range(2):                                                         # pfff... pfff...
+        w += se(s["gust"]) + _lob(LINTC24, 1, side, (dr[0] + sx * 10, dr[1]), (dx, dy + 30), 5, 16, lambda k: emit_at(LINT24, 2, 0, dr))
+        w += emit_at(LINT24, 0, 1, (0, 30)) + se(s["cough"]) + shake_defender(1 + n, 2) + _hold(LINT24, 2, 0, dr, 4)
+    for k in range(4):                                                         # *the lint trap comes out*
+        w += emit_at(LINT24, 2, 0, dr) + emit_at(LINTB24, 1, 0, (dr[0], dr[1] + 10 + k * 8)) + wait(1)
+    w += _hold(LINTB24, 1, 0, (dr[0], dr[1] + 34), 3, lambda k: emit_at(LINT24, 2, 0, dr))
+    w += se(s["whoosh"]) + _lob(LINTB24, 2, side, (dr[0], dr[1] + 34), (dx, dy + 18), 5, 24, lambda k: emit_at(LINT24, 2, 0, dr))
+    w += se(s["flop"]) + emit_at(LINT24, 0, 1, (0, 14)) + func(34, 8, 0, 1, rgb(170, 170, 175), 13, 0)
+    for k in range(10):                                                        # *smothered*
+        w += emit_at(LINTB24, 2, 1, (0, 18)) + emit_at(LINT24, 2, 0, dr)
+        if k % 3 == 0:
+            w += bmove(side, 264, 3, 2 if k % 2 else -2, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _bait_switch(side, s):
+    """Trick (Bait Switch): a cardboard box table, three cups - the foe's gold watch goes under the middle one.
+    Shuffle. Shuffle. SHUFFLE. The foe picks the middle cup: empty. The attacker's already wearing the watch."""
+    sx = _sx(side)
+    t = _s23(side, 0, (110, 96))
+    cups = [(t[0] - 18, t[1] + 14), (t[0], t[1] + 14), (t[0] + 18, t[1] + 14)]
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    table = lambda: emit_at(SHELL24, 1, 0, t)
+    cupw = lambda pos: [w_ for p in pos for w_ in emit_at(SHELL24, 2, 0, p)]
+    w = se(s["pop"]) + _hold(SHELL24, 1, 0, t, 2, lambda k: cupw(cups))
+    w += se(s["whoosh"]) + _lob(SHELLB24, 1, side, (dx, dy + 20), (cups[1][0], cups[1][1] - 6), 5, 20, lambda k: table() + cupw(cups))
+    w += _hold(SHELL24, 1, 0, t, 2, lambda k: cupw(cups))
+    pos = list(cups)
+    for n, (steps, pairs) in enumerate(((3, ((0, 1),)), (2, ((1, 2), (0, 1))), (1, ((0, 2), (1, 2), (0, 1), (0, 2))))):
+        for a, b in pairs:                                                     # shuffle shuffle SHUFFLE
+            pa, pb = pos[a], pos[b]
+            w += se(s["swipe"])
+            for k in range(steps):
+                f = (k + 1) / steps
+                lift = round(6 * (1 - abs(2 * f - 1)))
+                qa = (round(pa[0] + (pb[0] - pa[0]) * f), pa[1] + lift)
+                qb = (round(pb[0] + (pa[0] - pb[0]) * f), pb[1] - lift)
+                w += table() + cupw([qa, qb] + [pos[i] for i in range(3) if i not in (a, b)]) + wait(1)
+            pos[a], pos[b] = pb, pa
+        w += _hold(SHELL24, 1, 0, t, 2 if n < 2 else 3, lambda k: cupw(pos))
+    w += bmove(side, 264, 3, -sx * 10, -4) + _hold(SHELL24, 1, 0, t, 3, lambda k: cupw(pos))    # *...that one*
+    lifted = [pos[0], (cups[1][0], cups[1][1] + 16), pos[2]]
+    w += se(s["pop"]) + _hold(SHELL24, 1, 0, t, 7, lambda k: cupw(lifted))   # *lifts it*: EMPTY
+    w += se(s["bling"]) + se(s["chaching"]) + emit_at(SHELL24, 0, 0, (sx * 10, 24)) + bmove(side, 264, 3, sx * 10, 4)
+    w += _hold(SHELLB24, 1, 0, (sx * 10, 24), 10, lambda k: table() + cupw(lifted) + (func(34, 8, 0, 1, rgb(255, 60, 40), 11, 0) + shake_defender(2, 2) if k == 3 else []))
+    return w
+
+
+def _the_wobble(side, s):
+    """Teeter Dance (The Wobble): the DJ: "WOBBLE BABY". Wobble left - both of them. Wobble right - both. Third time
+    the foe wobbles the wrong way, bumps, and goes down dizzy."""
+    sx = _sx(side)
+    dj = _s23(side, 0, (40, 76))
+    notes = lambda k: emit_at(WOB24, 2, 0, (dj[0] + 24 + (k % 3) * 8, dj[1] + 10 + (k % 4) * 6)) if k % 2 == 0 else []
+    w = se(s["bass"])
+    for k in range(10):                                                        # WOBBLE BABY
+        w += emit_at(WOB24, 1, 0, dj) + notes(k) + (se(s["bass"]) if k % 4 == 0 else []) + wait(1)
+    for n, d_ in enumerate((-10, 10)):                                         # wobble... wobble...
+        w += bmove(side, 258, 3, d_, 0) + bmove(side, 264, 3, d_, 0) + se(s["bass"])
+        for k in range(4):
+            w += notes(k + n) + wait(1)
+        w += bmove(side, 258, 3, -d_, 0) + bmove(side, 264, 3, -d_, 0) + wait(2)
+    w += bmove(side, 258, 3, -10, 0) + bmove(side, 264, 3, 12, 0) + se(s["bass"]) + wait(2)   # ...wrong way
+    w += se(s["bonk"]) + shake_defender(2, 2) + bmove(side, 264, 3, 0, -8) + emit_at(WOB24, 0, 1, (0, 36)) + se(s["confuse"])
+    w += bmove(side, 258, 3, 10, 0)
+    for k in range(8):
+        w += notes(k) + wait(1)
+    return w + bmove(side, 264, 3, -12, 8) + wait(2)
+
+
+def _claw_machine(side, s):
+    """Crush Claw (Claw Machine): *coin* - the claw comes down on the foe - closes on nothing. Again - grabs, the foe
+    slips out. Third try: it grabs them, lifts them ALL the way up... and drops them."""
+    top, low = 110, 34
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    claw = lambda res, y: emit_at(CLAW24, res, 0, (dx, dy + y))
+    w = se(s["chaching"])
+    for n in range(3):
+        for k in range(5):                                                     # *whirr* down
+            w += claw(1, round(top - (top - low) * (k + 1) / 5)) + (se(s["rollout"]) if k == 0 else []) + wait(1)
+        w += claw(2, low) + se(s["harden"]) + wait(1) + claw(2, low) + wait(1)
+        if n == 0:                                                             # nothing
+            for k in range(5):
+                w += claw(2, round(low + (top - low) * (k + 1) / 5)) + wait(1)
+            w += se(s["disable"]) + wait(2)
+        elif n == 1:                                                           # *slips out*
+            w += bmove(side, 264, 3, 0, 10) + claw(2, low + 10) + wait(1) + claw(2, low + 12) + wait(1)
+            w += bmove(side, 264, 2, 0, -10) + se(s["bonk"]) + shake_defender(1, 1)
+            for k in range(4):
+                w += claw(2, round(low + 12 + (top - low) * (k + 1) / 4)) + wait(1)
+            w += se(s["disable"]) + wait(2)
+        else:                                                                  # GOT EM - all the way up...
+            w += se(s["bling"]) + emit_at(CLAW24, 0, 1, (0, low - 10))
+            for k in range(6):
+                w += bmove(side, 264, 2, 0, 9) + claw(2, low + 9 * (k + 1)) + wait(1)
+            w += claw(2, low + 54) + wait(1) + claw(2, low + 54) + wait(2)      # *...*
+            w += se(s["disable"]) + claw(1, low + 54) + bmove(side, 264, 3, 0, -54) + wait(2)   # ...drop
+            w += se(s["bslam"]) + se(s["kaboom"]) + flash_screen(4) + emit_at(CLAW24, 0, 1, (0, 10)) + shake_defender(4, 3)
+            w += func(68, 4, 4, 1, 3, 0) + func(48)
+            for k in range(4):
+                w += claw(1, round(low + 54 + 20 * (k + 1))) + wait(1)
+    return w + wait(3)
+
+
+def _hat_trick(side, s):
+    """Tri Attack (Hat Trick): a fitted cap flicked onto the foe's head - the fire one (sizzle). The ice one stacks on
+    top (frost). The zap one on top of that (ZZT). A tower of three hats wobbles... and it all comes down."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    hats = [(HATS24, 1, (0, 40)), (HATS24, 2, (0, 50)), (HATSB24, 1, (0, 60))]
+    fx = [(HATS24, 0, "ember", rgb(255, 120, 40)), (HATS24, 3, "ishard", rgb(150, 210, 255)), (HATSB24, 0, "spark", rgb(255, 250, 80))]
+    on = []
+    dress = lambda dxx=0: [w_ for i in on for w_ in emit_at(hats[i][0], hats[i][1], 1, (hats[i][2][0] + dxx * (i + 1), hats[i][2][1]))]
+    w = []
+    for n in range(3):                                                         # flick... flick... flick
+        kit, res, at = hats[n]
+        w += se(s["whoosh"]) + _lob(kit, res, side, (sx * 22, 30), (dx + at[0], dy + at[1]), 5, 20, lambda k: dress())
+        on.append(n)
+        fk, fr, snd, col = fx[n]
+        w += se(s[snd]) + emit_at(fk, fr, 1, at) + func(34, 8, 0, 1, col, 9, 0) + shake_defender(1, 1)
+        w += _hold(kit, res, 1, at, 4 + n, lambda k: dress())
+    for k in range(6):                                                         # *wobble*
+        w += dress((-1, 1, -2, 2, -3, 3)[k]) + wait(1)
+    w += se(s["bslam"]) + flash_screen(3) + shake_defender(3, 3) + func(48)    # TIMBER
+    paths = [_arc((dx, dy + 40 + 10 * i), (dx + (-50, 10, 60)[i], dy - 30 + 10 * i), 5, 20 + 6 * i) for i in range(3)]
+    on.clear()
+    for k in range(1, 5):
+        for i in range(3):
+            w += emit_at(hats[i][0], hats[i][1], 0, paths[i][k])
+        w += wait(1)
+    return w + wait(3)
+
+
+def _reverse_card(side, s):
+    """Trump Card (Reverse Card): a card game between them. SLAP: +2. SLAP: +4. The foe smirks and slaps a +4 right
+    back... and the attacker drops the REVERSE card. Cards everywhere."""
+    sx = _sx(side)
+    pile = _s23(side, 0, (124, 72))
+    me = _p(side, (sx * 24, 30), (-24, 20))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    them = (dx - sx * 10, dy + 24)
+    top = []
+    show = lambda: emit_at(top[-1][0], top[-1][1], 0, pile) if top else []
+    w = []
+    for n, (kit, res, frm) in enumerate(((CARD24, 1, me), (CARD24, 2, me), (CARD24, 2, them))):   # SLAP. SLAP. *slap*
+        w += se(s["whoosh"]) + _lob(kit, res, side, frm, pile, 4, 12, lambda k: show())
+        top.append((kit, res))
+        w += se(s["dslap"]) + emit_at(CARD24, 0, 0, pile) + show() + wait(1)
+        if n == 0:
+            w += shake_defender(1, 1)
+        if n == 1:
+            w += func(34, 8, 0, 1, rgb(255, 60, 40), 9, 0) + shake_defender(2, 2)
+        if n == 2:
+            w += bmove(side, 264, 2, 0, 6) + se(s["swagger"])                  # *smirks*
+        w += _hold(top[-1][0], top[-1][1], 0, pile, 4 + n, lambda k: [])
+        if n == 2:
+            w += bmove(side, 264, 2, 0, -6)
+    w += _hold(top[-1][0], top[-1][1], 0, pile, 2) + se(s["whoosh"])          # ...REVERSE
+    w += _lob(CARDB24, 1, side, me, pile, 4, 16, lambda k: show())
+    w += se(s["bslam"]) + se(s["chaching"]) + flash_screen(4) + emit_at(CARDB24, 1, 0, pile) + wait(1)
+    w += emit_at(CARDB24, 0, 1, (0, 30)) + emit_at(CARDB24, 2, 0, pile) + func(68, 3, 3, 1, 4, 0)
+    for k in range(10):
+        w += emit_at(CARDB24, 1, 0, pile)
+        if k == 2:
+            w += shake_defender(4, 3) + func(48) + se(s["kaboom"])
+        w += wait(1)
+    return w + wait(2)
+
+
+def _rise_n_grind(side, s):
+    """Morning Sun (Rise n Grind): pitch dark. 6:00 BEEP BEEP - snooze. 6:09 BEEP BEEP - snooze. 6:18 BEEP BEEP -
+    fine. The sun comes up, a hot coffee, and they're healed up and on the grind."""
+    sx = _sx(side)
+    c = _s23(side, 0, (104, 86))
+    sun = _s23(side, 0, _p(side, (40, 70), (220, 56)))
+    mug = _p(side, (sx * 26, 30), (-26, 18))
+    w = func(33, 0, 1, 0, 12, rgb(10, 15, 50)) + wait(2)
+    for n, (kit, res) in enumerate(((RISE24, 1), (RISE24, 2), (RISEB24, 1))):   # BEEP BEEP... *snooze*
+        w += se(s["alarm"])
+        for k in range(6):
+            w += emit_at(kit, res, 0, (c[0] + (1 if k % 2 else -1), c[1])) + (se(s["alarm"]) if k == 3 else []) + wait(1)
+        if n < 2:
+            w += bmove(side, 258, 2, sx * 6, 4) + se(s["disable"]) + emit_at(kit, res, 0, c) + wait(1)
+            w += bmove(side, 258, 2, -sx * 6, -4) + _hold(kit, res, 0, c, 4)
+    w += bmove(side, 258, 3, 0, 8) + func(33, 0, 1, 12, 0, rgb(10, 15, 50))   # *...fine.*
+    for k in range(6):                                                         # the sun comes up
+        w += emit_at(RISEC24, 1, 0, (sun[0], sun[1] - 30 + k * 6)) + emit_at(RISEB24, 1, 0, c) + wait(1)
+    w += se(s["sunny"]) + bmove(side, 258, 3, 0, -8) + flash_screen(2)
+    for k in range(12):                                                        # coffee. healed.
+        w += emit_at(RISEC24, 1, 0, sun) + emit_at(RISEB24, 2, 0, mug)
+        if k in (1, 6):
+            w += se(s["absorb"]) + emit_at(RISE24, 0, 0, (0, 20)) + func(34, 2, 0, 1, rgb(255, 220, 100), 11, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _sinkhole(side, s):
+    """Fissure (Sinkhole): the street cracks under the foe - they step back - it splits wider - then the ground just
+    opens and swallows them. A beat. They climb back out wrecked."""
+    back = _p(side, 16, 30)
+    feet = (0, -22)
+    w = se(s["crack"]) + bmove(side, 264, 3, 0, back)
+    w += _hold(SINK24, 1, 1, feet, 5, lambda k: shake_defender(1, 1) if k == 1 else [])
+    w += se(s["crack"]) + se(s["sand"]) + emit_at(SINK24, 0, 1, (feet[0], feet[1] + 4))
+    w += _hold(SINK24, 2, 1, feet, 7, lambda k: (bmove(side, 264, 1, 3 if k % 2 else -3, 0) if k < 4 else []))
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4) + func(68, 5, 5, 1, 6, 0) + emit_at(SINKB24, 0, 1, feet)   # *CRASH*
+    hole = _s23(side, 0, _p(side, (185, 81), (64, 104)))                       # (fixed on screen: the foe drops through it)
+    w += _hold(SINKB24, 1, 0, hole, 2)
+    w += bmove(side, 264, 4, 0, -60)
+    for k in range(10):                                                        # *gone*
+        w += emit_at(SINKB24, 1, 0, hole)
+        if k % 4 == 0:
+            w += emit_at(SINK24, 0, 0, (hole[0], hole[1] + 4))
+        w += wait(1)
+    w += se(s["bslam"]) + bmove(side, 264, 5, 0, 60) + func(34, 8, 0, 1, rgb(110, 90, 80), 13, 0)
+    w += _hold(SINKB24, 1, 0, hole, 3) + shake_defender(3, 2) + func(48)
+    return w + bmove(side, 264, 3, 0, -back) + wait(3)
+
+
+GG_BED25 = {"player": (106, 92), "enemy": (106, 92)}
+
+
+def _burn_it_down(side, s):
+    """Blast Burn (Burn It Down): the cookout grill. A squirt of lighter fluid - whoomp. Another - WHOOMP (eyebrows
+    gone). Then they toss the whole bottle in. *...* A mushroom fireball takes the screen and rolls over the foe."""
+    sx = _sx(side)
+    g = _s23(side, 0, (106, 88))
+    over = (g[0] - sx * 4, g[1] + 26)
+    w = se(s["pop"]) + _hold(BURN25, 1, 0, g, 3)
+    for n in range(2):                                                         # squirt... whoomp
+        w += _hold(BURN25, 2, 0, over, 2, lambda k: emit_at(BURN25, 1, 0, g))
+        w += se(s["spray"]) + emit_at(BURNB25, 0, 0, (over[0], over[1] - 6)) + _hold(BURN25, 2, 0, over, 3, lambda k: emit_at(BURN25, 1, 0, g))
+        w += se(s["ember"] if n == 0 else s["flame"]) + emit_at(BURN25, 0 if n == 0 else 3, 0, (g[0], g[1] + 8))
+        if n == 1:
+            w += shake_attacker(2, 2) + func(34, 2, 0, 1, rgb(60, 50, 50), 9, 0)    # *eyebrows*
+        w += _hold(BURN25, 1, 0, g, 5 + n)
+    w += se(s["whoosh"]) + _lob(BURN25, 2, side, (sx * 20, 30), (g[0], g[1] + 10), 5, 24, lambda k: emit_at(BURN25, 1, 0, g))
+    w += se(s["ember"]) + _hold(BURN25, 1, 0, g, 6, lambda k: shake_attacker(1, 1) if k == 3 else [])   # *...tssss*
+    w += func(33, 0, 1, 0, 12, rgb(160, 40, 0)) + se(s["kaboom"]) + se(s["explo"]) + flash_screen(8)   # KABOOOOM
+    w += emit_at(BURNB25, 1, 0, (g[0], g[1] + 30)) + func(68, 6, 6, 1, 16, 0)
+    w += emit_at(BURNC25, _p(side, 0, 1), 0, (g[0], g[1] + 20))
+    for k in range(16):
+        if k % 4 == 0:
+            w += emit_at(BURN25, 3, 1, (((k * 13) % 30) - 15, 10 + (k * 7) % 20)) + shake_defender(2, 1)
+        if k == 5:
+            w += se(s["flame"]) + func(34, 8, 0, 1, rgb(255, 90, 20), 14, 0)
+        w += wait(1)
+    w += func(48) + func(33, 0, 1, 12, 0, rgb(160, 40, 0)) + func(34, 2, 0, 1, rgb(50, 40, 40), 12, 0)   # (they're sooty too)
+    return w + _hold(BURN25, 1, 0, g, 4)
+
+
+def _hydrant_bomb(side, s):
+    """Hydro Cannon (Hydrant Bomb): a wrench on the fire hydrant - a trickle. Crank - a spurt. CRANK - the cap
+    blows off and the hydrant turns into a water cannon aimed right at the foe."""
+    h = _s23(side, 0, (106, 84))
+    top = (h[0], h[1] + 22)
+    nozzle = (h[0] + _sx(side) * 16, h[1] + 4)
+    hy = lambda r=1: emit_at(HYD25, r, 0, h)
+    w = se(s["pop"]) + _hold(HYD25, 1, 0, h, 3)
+    for n in range(2):                                                         # crank... crank...
+        for k in range(3):
+            w += hy() + emit_at(HYDB25, 2, 0, (top[0] + (4 if k % 2 else -4), top[1] + 4)) + (se(s["harden"]) if k == 0 else []) + wait(1)
+        for k in range(4 + 2 * n):
+            w += hy() + (emit_at(HYD25, 0, 0, nozzle) if k % (3 - n) == 0 else []) + wait(1)
+        if n == 1:
+            w += shake_defender(1, 1)
+    for k in range(4):                                                         # CRANK CRANK
+        w += hy() + emit_at(HYDB25, 2, 0, (top[0] + (6 if k % 2 else -6), top[1] + 4)) + se(s["harden"]) + shake_attacker(1, 1) + wait(1)
+    w += hy() + wait(1) + hy() + wait(1)                                       # *...*
+    w += se(s["kaboom"]) + se(s["splash"]) + flash_screen(5) + emit_at(HYD25, 3, 0, top) + func(33, 0, 1, 0, 10, rgb(40, 90, 200))
+    w += emit_at(HYDB25, _p(side, 0, 1), 0, top) + func(68, 4, 4, 1, 14, 0) + se(s["hpump"])
+    for k in range(18):                                                        # FWOOOOOSH
+        w += hy(2)
+        if k % 4 == 0:
+            w += shake_defender(2, 1) + se(s["surf"] if k == 0 else s["splash"])
+        if k == 6:
+            w += func(34, 8, 0, 1, rgb(80, 150, 255), 14, 0) + bmove(side, 264, 4, _sx(side) * 12, 4)
+        w += wait(1)
+    w += bmove(side, 264, 4, -_sx(side) * 12, -4) + func(48) + func(33, 0, 1, 10, 0, rgb(40, 90, 200))
+    return w + _hold(HYD25, 2, 0, h, 5)
+
+
+def _gun_garden(side, s):
+    """Frenzy Plant (Gun Garden): they plant bullets in a flower bed. Water it - sprouts. Water it - stems. Then the
+    whole bed blooms into pistol flowers... and every one of them opens fire."""
+    sx = _sx(side)
+    bed = _s23(side, 0, GG_BED25[side])
+    can = (bed[0] - sx * 10, bed[1] + 34)
+    flowers = [(bed[0] + dxx, bed[1] + 26) for dxx in (-26, 0, 26)]
+    fres = _p(side, 1, 2)
+    w = se(s["pop"]) + _hold(GUN25, 1, 0, bed, 4)
+    for n, (kit, res) in enumerate(((GUN25, 2), (GUNB25, 1))):                # water... sprout... water... grow
+        w += _hold(GUNB25, 2, 0, can, 3, lambda k: emit_at(GUN25, 1, 0, bed) if n == 0 else emit_at(GUN25, 2, 0, bed))
+        w += se(s["bubble"]) + emit_at(GUN25, 0, 0, (bed[0], bed[1] + 18)) + _hold(GUNB25, 2, 0, can, 3, lambda k: emit_at(GUN25, 1 if n == 0 else 2, 0, bed))
+        w += se(s["leaf"] if False else s["lseed"]) + _hold(kit, res, 0, bed, 5)
+    w += _hold(GUNB25, 1, 0, bed, 3) + func(33, 0, 1, 0, 10, rgb(20, 40, 20))    # *...*
+    for i, f in enumerate(flowers):                                            # bloom. bloom. BLOOM.
+        w += se(s["pop"])
+        for k in range(3):
+            w += emit_at(GUNB25, 1, 0, bed) + [w_ for j in range(i) for w_ in emit_at(GUNC25, fres, 0, flowers[j])]
+            w += emit_at(GUNC25, fres, 0, (f[0], f[1] - 16 + k * 8)) + wait(1)
+    w += se(s["bling"]) + _hold(GUNB25, 1, 0, bed, 4, lambda k: [w_ for f in flowers for w_ in emit_at(GUNC25, fres, 0, f)])
+    tip = GG_TIP25[side]
+    w += se(s["boom"]) + flash_screen(3) + emit_at(GUNC25, _p(side, 0, 3), 0, tip) + func(68, 2, 2, 1, 20, 0)   # OPEN FIRE
+    for k in range(18):
+        w += emit_at(GUNB25, 1, 0, bed) + [w_ for f in flowers for w_ in emit_at(GUNC25, fres, 0, (f[0] - sx * (k % 2), f[1]))]
+        w += se(s["pop"] if k % 2 else s["boom"])
+        if k % 2 == 0:
+            w += emit_at(GUNB25, 0, 0, flowers[(k // 2) % 3])
+        if k % 4 == 0:
+            w += shake_defender(2, 1)
+        w += wait(1)
+    w += func(48) + func(34, 8, 0, 1, rgb(60, 50, 50), 12, 0) + func(33, 0, 1, 10, 0, rgb(20, 40, 20))
+    return w + _hold(GUNB25, 1, 0, bed, 4, lambda k: [w_ for f in flowers for w_ in emit_at(GUNC25, fres, 0, f)])
+
+
+def _meteor_drop(side, s):
+    """Draco Meteor (Meteor Drop): a pebble-sized meteor - bonk. A bigger one - BONK. The sky goes dark, a rumble...
+    and the BIG one comes down and fills the whole sky."""
+    w = []
+    for n, (res, steps) in enumerate(((1, 5), (2, 6))):                         # bonk... BONK
+        w += se(s["whoosh"])
+        for k in range(steps):
+            t = ((k + 1) / steps) ** 1.5
+            w += emit_at(MET25, res, 1, (round(90 - 90 * t), round(130 - (100 - 10 * n) * t))) + wait(1)
+        w += se(s["bonk"] if n == 0 else s["bslam"]) + emit_at(MET25, 0, 1, (0, 30)) + shake_defender(1 + 2 * n, 2) + wait(4)
+    w += func(33, 0, 1, 0, 14, rgb(40, 10, 60)) + se(s["epower"]) + func(68, 1, 1, 1, 12, 0) + wait(6)   # *rumble*
+    for k in range(10):                                                        # the BIG one
+        t = ((k + 1) / 10) ** 1.7
+        w += emit_at(METB25, 1, 1, (round(140 - 120 * t), round(200 - 150 * t))) + wait(1)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(8) + func(68, 8, 8, 1, 8, 0)   # IMPACT
+    w += emit_at(METB25, 0, 1, (0, 20)) + emit_at(MET25, 0, 1, (0, 30)) + shake_defender(5, 4) + func(48)
+    w += func(34, 8, 0, 1, rgb(255, 120, 40), 14, 0) + wait(4) + emit_at(METB25, 0, 1, (0, 40)) + wait(6)
+    return w + func(33, 0, 1, 14, 0, rgb(40, 10, 60)) + wait(4)
+
+
+def _blow_up(side, s):
+    """Eruption (Blow Up): their phone buzzes: 1 notification. Buzz buzz: 12. BZZBZZBZZ: 99+. It's blowing up - then
+    it literally erupts: lava out the top and notifications raining down on the foe."""
+    sx = _sx(side)
+    ph = _p(side, (sx * 40, 40), (-40, 26))
+    w = []
+    for n, (kit, res, ticks) in enumerate(((BLOW25, 1, 6), (BLOW25, 2, 7), (BLOWB25, 1, 10))):
+        w += se(s["alarm"])
+        for k in range(ticks):
+            j = (1 + n) if k % 2 else -(1 + n)
+            w += emit_at(kit, res, 0, (ph[0] + j, ph[1]))
+            if k % (3 - min(n, 2)) == 0 and k:
+                w += se(s["alarm"])
+            w += wait(1)
+        w += _hold(kit, res, 0, ph, 2 if n < 2 else 0)
+    w += func(33, 0, 1, 0, 12, rgb(140, 30, 0)) + se(s["kaboom"]) + se(s["explo"]) + flash_screen(6)   # ERUPTION
+    w += emit_at(BLOW25, 0, 0, (ph[0], ph[1] + 20)) + emit_at(BLOWC25, _p(side, 0, 1), 0, (ph[0], ph[1] + 20)) + func(68, 5, 5, 1, 14, 0)
+    for k in range(18):
+        w += emit_at(BLOWB25, 1, 0, (ph[0] + (2 if k % 2 else -2), ph[1]))
+        if k % 6 == 0 and k:
+            w += emit_at(BLOW25, 0, 0, (ph[0], ph[1] + 20)) + se(s["alarm"])
+        if k % 4 == 1:
+            w += shake_defender(2, 1)
+        if k == 8:
+            w += func(34, 8, 0, 1, rgb(255, 90, 30), 14, 0) + se(s["flame"])
+        w += wait(1)
+    return w + func(48) + func(33, 0, 1, 12, 0, rgb(140, 30, 0)) + _hold(BLOWB25, 1, 0, ph, 4)
+
+
+def _spoon_bend(side, s):
+    """Kinesis (Spoon Bend): they stare down a spoon - it bends. A fork - it bends. Then a whole STOP sign out of the
+    sidewalk - it bends right over. The foe can't believe their eyes."""
+    spot = _s23(side, 0, (106, 86))
+    w = []
+    for n, (kit, k1, k2) in enumerate(((SPOON25, 1, 2), (SPOONB25, 1, 2), (SPOONC25, 1, 2))):
+        w += se(s["pop"]) + _hold(kit, k1, 0, spot, 3 + n)
+        w += se(s["psych"]) + func(34, 2, 0, 1, rgb(200, 120, 255), 8 + 3 * n, 0) + emit_at(SPOON25, 0, 0, (spot[0], spot[1] + 10))
+        for k in range(4 + n):                                                 # *concentrates*
+            w += emit_at(kit, k1, 0, (spot[0] + (1 if k % 2 else -1) * (1 + n), spot[1])) + wait(1)
+        w += se(s["harden"] if n < 2 else s["bslam"]) + _hold(kit, k2, 0, spot, 5 + n)
+        if n == 1:
+            w += shake_defender(1, 1)
+    w += se(s["confuse"]) + emit_at(SPOONC25, 0, 1, (0, 40))
+    for k in range(8):                                                         # *the foe's seeing things*
+        w += emit_at(SPOONC25, 2, 0, spot)
+        if k % 3 == 0:
+            w += bmove(side, 264, 2, 6 if k % 2 == 0 else -6, 0)
+        if k % 3 == 1:
+            w += bmove(side, 264, 2, -6 if k % 2 == 0 else 6, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _pinched(side, s):
+    """ViceGrip (Pinched): a clothespin snaps onto the foe - yow. A bigger one - YOW. Then a giant clothespin
+    clamps the whole foe."""
+    w = []
+    pins = [(PIN25, 1, (-14, 30)), (PIN25, 2, (16, 18))]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(pins[i][0], pins[i][1], 1, pins[i][2])]
+    for n, (kit, res, at) in enumerate(pins):                                  # snap... SNAP
+        for k in range(3):
+            w += emit_at(kit, res, 1, (at[0] - 30 + k * 10, at[1] + 20 - k * 6)) + dress() + wait(1)
+        on.append(n)
+        w += se(s["bite"]) + emit_at(PIN25, 0, 1, at) + shake_defender(1 + n, 2) + func(34, 8, 0, 1, rgb(255, 80, 80), 7 + 3 * n, 0)
+        w += _hold(kit, res, 1, at, 4, lambda k: dress())
+    for k in range(4):                                                         # the GIANT one
+        w += emit_at(PINB25, 1, 1, (0, 24 + (3 - k) * 14)) + dress() + wait(1)
+    w += se(s["bite"]) + se(s["bslam"]) + flash_screen(3) + shake_defender(4, 3) + func(48) + func(34, 8, 0, 1, rgb(255, 60, 60), 13, 0)
+    return w + _hold(PINB25, 1, 1, (0, 24), 8, lambda k: dress())
+
+
+def _lights_out(side, s):
+    """Guillotine (Lights Out): click - the lamp goes off. Click - back on, the foe breathes. Then the attacker pulls
+    the main breaker: total blackout... a single hit in the dark. LIGHTS OUT."""
+    lamp = _s23(side, 0, _p(side, (226, 70), (24, 92)))
+    box = _s23(side, 0, (106, 84))
+    w = se(s["pop"]) + _hold(LAMP25, 1, 0, lamp, 4)
+    w += se(s["lockon"]) + func(33, 0, 1, 0, 6, 0) + _hold(LAMP25, 2, 0, lamp, 6, lambda k: shake_defender(1, 1) if k == 2 else [])   # click (off)
+    w += se(s["lockon"]) + func(33, 0, 1, 6, 0, 0) + _hold(LAMP25, 1, 0, lamp, 5)   # click (on) - phew
+    w += se(s["pop"]) + _hold(LAMPB25, 1, 0, box, 4, lambda k: emit_at(LAMP25, 1, 0, lamp))
+    w += se(s["bslam"]) + func(33, 0, 1, 0, 16, 0) + _hold(LAMPB25, 2, 0, box, 5)   # *KA-CHUNK* - blackout
+    w += wait(4) + se(s["kaboom"]) + flash_screen(2) + emit_at(LAMPC25, 0, 1, (0, 24)) + shake_defender(5, 4) + func(48)   # *...WHAM*
+    sign = _p(side, (0, 58), (0, 50))
+    w += _hold(LAMPC25, 1, 0, sign, 10, lambda k: func(34, 8, 0, 1, rgb(30, 30, 40), 14, 0) if k == 2 else [])
+    return w + func(33, 0, 1, 16, 0, 0) + wait(4)
+
+
+def _palm_reader(side, s):
+    """Mind Reader (Palm Reader): a neon PSYCHIC sign flickers on. The crystal ball: mist. More mist. Then the vision -
+    a target - and the foe's locked in."""
+    sign = _s23(side, 0, (214, 24))
+    ball = _s23(side, 0, (106, 86))
+    neon = lambda k: emit_at(PALM25, 1, 0, sign) if k % 6 != 5 else []
+    w = func(33, 0, 1, 0, 8, rgb(40, 20, 60)) + se(s["zap"]) + _hold(PALM25, 1, 0, sign, 3)
+    for n, (kit, res) in enumerate(((PALM25, 2), (PALMB25, 1))):             # mist... more mist...
+        w += se(s["psych"]) + emit_at(PALM25, 0, 0, (ball[0], ball[1] + 4))
+        w += _hold(kit, res, 0, ball, 8, neon)
+    w += se(s["lockon"]) + flash_screen(2) + _hold(PALMB25, 2, 0, ball, 4, neon)   # *the vision*
+    w += se(s["lockon2"]) + emit_at(PALMB25, 0, 1, (0, 24))
+    w += _hold(PALMB25, 2, 0, ball, 8, lambda k: neon(k) + (shake_defender(1, 2) + func(34, 8, 0, 1, rgb(255, 60, 60), 10, 0) if k == 3 else []))
+    return w + func(33, 0, 1, 8, 0, rgb(40, 20, 60)) + wait(2)
+
+
+def _jackhammer(side, s):
+    """Drill Peck (Jackhammer): 6 AM. BRRRRT - the foe's window lights up. BRRRRRRT - "ITS 6 AM!!" - so the attacker
+    swings the jackhammer round and goes to work on the foe."""
+    sx = _sx(side)
+    jh = _s23(side, 0, (110, 92))
+    win = _s23(side, 0, _p(side, (232, 38), (20, 84)))
+    bub = _p(side, (-30, 36), (50, 58))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = func(33, 0, 1, 0, 8, rgb(30, 30, 70)) + _hold(JACK25, 2, 0, win, 3, lambda k: emit_at(JACK25, 1, 0, jh))
+    for n in range(2):                                                         # BRRRT... BRRRRRT
+        w += se(s["rollout"])
+        for k in range(6 + 3 * n):
+            w += emit_at(JACK25, 1, 0, (jh[0] + (k % 2), jh[1] + (2 if k % 2 else 0))) + emit_at(JACK25 if n == 0 and k < 3 else JACKB25, 2 if n == 0 and k < 3 else 1, 0, win)
+            if k % 3 == 0:
+                w += se(s["rollout"]) + emit_at(JACK25, 0, 0, (jh[0], jh[1] - 18))
+            w += wait(1)
+        if n == 1:
+            w += _hold(JACKB25, 2, 1, bub, 10, lambda k: emit_at(JACKB25, 1, 0, win) + emit_at(JACK25, 1, 0, jh) + (shake_defender(1, 1) if k == 2 else []))
+        else:
+            w += _hold(JACKB25, 1, 0, win, 3, lambda k: emit_at(JACK25, 1, 0, jh))
+    w += se(s["whoosh"]) + _lob(JACK25, 1, side, jh, (dx, dy + 40), 4, 16, lambda k: emit_at(JACKB25, 1, 0, win))   # *turns it on the foe*
+    w += se(s["rollout"])
+    for k in range(14):                                                        # BRRRRRRRRRT
+        w += emit_at(JACK25, 1, 1, ((k % 2) * 3 - 1, 40 + (k % 3))) + emit_at(JACKB25, 1, 0, win)
+        if k % 2 == 0:
+            w += emit_at(JACKB25, 0, 1, (0, 30)) + shake_defender(2, 1) + (se(s["rollout"]) if k % 4 == 0 else [])
+        w += wait(1)
+    w += se(s["bslam"]) + flash_screen(3) + func(48) + func(33, 0, 1, 8, 0, rgb(30, 30, 70))
+    return w + wait(3)
+
+
+def _three_sixty_deal(side, s):
+    """Submission (360 Deal): a record contract lands in front of the foe with a pen. "SIGN HERE." - they sign.
+    "AND HERE." - they initial. Stamped: 360 DEAL. Their money goes straight to the attacker."""
+    sx = _sx(side)
+    c = _s23(side, 0, (112, 72))
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    pen = (c[0] + sx * 8, c[1] - 4 + _l3(.45))
+    sign = _p(side, (0, 58), (0, 50))
+    w = se(s["whoosh"])
+    for k in range(3):
+        w += emit_at(DEAL25, 1, 0, (c[0], c[1] + 30 - k * 10)) + wait(1)
+    w += emit_at(DEAL25, 1, 0, c) + emit_at(DEALC25, 3, 0, pen) + se(s["pop"]) + wait(1)
+    for n, (bkit, bres, after) in enumerate(((DEALC25, 1, (DEAL25, 2)), (DEALC25, 2, (DEALB25, 1)))):   # SIGN HERE... AND HERE...
+        cur = (DEAL25, 1) if n == 0 else (DEAL25, 2)
+        w += _hold(bkit, bres, 0, bub, 8, lambda k: emit_at(cur[0], cur[1], 0, c) + emit_at(DEALC25, 3, 0, pen))
+        w += bmove(side, 264, 2, -sx * 8, -4)
+        for k in range(5):                                                     # *scribble*
+            w += emit_at(cur[0], cur[1], 0, c) + emit_at(DEALC25, 3, 0, (pen[0] + (3 if k % 2 else -3), pen[1] - k)) + (se(s["swipe"]) if k % 2 == 0 else []) + wait(1)
+        w += bmove(side, 264, 2, sx * 8, 4) + _hold(after[0], after[1], 0, c, 3)
+    w += se(s["bslam"]) + se(s["chaching"]) + flash_screen(3)               # STAMPED
+    for k in range(12):
+        w += emit_at(DEALB25, 2, 0, sign) + emit_at(DEALB25, 1, 0, c)
+        if k == 3:
+            w += emit_at(DEAL25, 0, 1, (0, 24)) + se(s["chaching"]) + func(34, 8, 0, 1, rgb(140, 140, 150), 13, 0) + shake_defender(2, 2)
+        if k == 6:
+            w += func(48) + shake_attacker(1, 2)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _eat_good(side, s):
+    """Softboiled (Eat Good): grandma fixes a plate. Scoop. Scoop. Then she just dumps the whole pot on it - a mountain
+    of food - and they eat good. Healed up."""
+    sx = _sx(side)
+    pl = _s23(side, 0, _p(side, (102, 96), (150, 64)))
+    pot = (pl[0] + sx * 26, pl[1] + 26)
+    w = se(s["pop"]) + _hold(PLATE25, 1, 0, pl, 3) + se(s["pop"]) + _hold(PLATEB25, 1, 0, pot, 3, lambda k: emit_at(PLATE25, 1, 0, pl))
+    for n in range(2):                                                         # scoop... scoop...
+        w += emit_at(PLATEB25, 1, 0, (pot[0] - sx * 6, pot[1] - 4)) + emit_at(PLATE25, 1, 0, pl) + wait(1)
+        w += se(s["splat"]) + emit_at(PLATEB25, 0, 0, pot) + _hold(PLATEB25, 1, 0, pot, 4, lambda k: emit_at(PLATE25, 1, 0, pl))
+    for k in range(4):                                                         # *dumps the whole pot*
+        w += emit_at(PLATEB25, 1, 0, (pot[0] - sx * 4 * k, pot[1] + 2 * k)) + emit_at(PLATE25, 1 if k < 2 else 2, 0, pl) + wait(1)
+    w += se(s["splat"]) + se(s["bslam"]) + shake_attacker(1, 2)
+    for k in range(14):                                                        # *eats good*
+        w += emit_at(PLATE25, 2, 0, pl)
+        if k % 3 == 0:
+            w += se(s["crunch"]) + bmove(side, 258, 1, 0, 4) + wait(1) + bmove(side, 258, 1, 0, -4)
+        if k in (4, 10):
+            w += se(s["absorb"]) + emit_at(PLATE25, 0, 0, (0, 20)) + func(34, 2, 0, 1, rgb(120, 255, 140), 11, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _waterworks(side, s):
+    """Fake Tears (Waterworks): sniff... a tear. Sob - more tears. Then the full fountain, tears spraying everywhere.
+    The foe goes soft and leans in - then: JK."""
+    sx = _sx(side)
+    eyes = _p(side, (sx * 4, 34), (0, 26))
+    bub = _p(side, (sx * 50, 58), (-40, 30))
+    w = se(s["sscent"]) + emit_at(TEAR25, 0, 0, eyes) + wait(6)                # sniff
+    w += se(s["sscent"]) + emit_at(TEAR25, 3, 0, eyes) + shake_attacker(1, 2) + wait(6)   # sob
+    w += se(s["splash"]) + se(s["sscent"])                                    # WAAAAHHH
+    for k in range(10):
+        if k % 2 == 0:
+            w += emit_at(TEAR25, 2, 0, eyes) + shake_attacker(1, 1)
+        if k == 5:
+            w += bmove(side, 264, 4, -sx * 10, -4) + func(34, 8, 0, 1, rgb(150, 200, 255), 8, 0)   # *aww...*
+        w += wait(1)
+    w += wait(2) + se(s["leer"])
+    for k in range(12):                                                        # "JK."
+        w += emit_at(TEAR25, 1, 0, bub)
+        if k == 3:
+            w += func(34, 8, 0, 1, rgb(255, 60, 40), 12, 0) + shake_defender(2, 2) + bmove(side, 264, 3, sx * 10, 4)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _bone_toss(side, s):
+    """Bonemerang (Bone Toss): a bone flung at the foe - bonk - and it curves right back. (Replays per hit.)"""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    hand = (sx * 20, 30)
+    w = se(s["whoosh"]) + _lob(BONE25, 1, side, hand, (dx, dy + 30), 5, 26)
+    w += se(s["bonk"]) + emit_at(BONE25, 0, 1, (0, 30)) + shake_defender(2, 2)
+    return w + se(s["whoosh"]) + _lob(BONE25, 1, side, (dx, dy + 30), hand, 5, -18) + wait(1)
+
+
+def _shmoney(side, s):
+    """Dragon Dance (Shmoney): the shmoney dance - cash held up, step left, step right, money flying - then the whole
+    stack goes up in the air and they're powered all the way up."""
+    sx = _sx(side)
+    cash = (sx * 10, 52)
+    w = []
+    for n, d_ in enumerate((-10, 10, -10)):                                    # step... step... step
+        w += se(s["bass"]) + bmove(side, 258, 3, d_, 4)
+        for k in range(3):
+            w += emit_at(SHM25, 1, 0, (cash[0] + d_ // 2, cash[1] + (k % 2) * 2)) + wait(1)
+        w += emit_at(SHM25, 0, 0, cash) + se(s["chaching"] if n < 2 else s["bling"])
+        w += bmove(side, 258, 3, -d_, -4) + _hold(SHM25, 1, 0, cash, 2)
+    w += se(s["dcharge"]) + emit_at(SHM25, 2, 0, (0, 60)) + flash_screen(2)    # MAKE IT RAIN
+    for k in range(12):
+        if k % 3 == 0:
+            w += emit_at(SHM25, 3, 0, (0, 10)) + func(34, 2, 0, 1, rgb(255, 90, 60) if k % 2 == 0 else rgb(90, 160, 255), 10, 0)
+        w += wait(1)
+    return w + func(34, 2, 0, 1, rgb(255, 90, 60), 11, 0) + wait(3)
+
+
+def _moon_bath(side, s):
+    """Moonlight (Moon Bath): night falls. The moon comes up, a beach lounger slides under them, out comes the tanning
+    reflector - tilt... tilt... - then the moonbeam lands and they glow. Healed."""
+    sx = _sx(side)
+    moon = _s23(side, 0, _p(side, (222, 26), (40, 70)))
+    chair = (sx * 8, -4)
+    refl = (sx * 18, 26)
+    scene = lambda: emit_at(MOON25, 1, 0, moon) + emit_at(MOON25, 2, 0, chair)
+    w = func(33, 0, 1, 0, 12, rgb(10, 15, 60))
+    for k in range(5):                                                         # *moonrise*
+        w += emit_at(MOON25, 1, 0, (moon[0], moon[1] - 30 + k * 6)) + wait(1)
+    w += se(s["whoosh"]) + _hold(MOON25, 2, 0, chair, 3, lambda k: emit_at(MOON25, 1, 0, moon))
+    for n in range(2):                                                         # tilt... tilt...
+        for k in range(4):
+            w += scene() + emit_at(MOONB25, 1, 0, (refl[0] + (2 if k % 2 else -2) * (n + 1), refl[1])) + wait(1)
+        w += se(s["bling"]) + emit_at(MOON25, 0, 0, (0, 16)) + _hold(MOONB25, 1, 0, refl, 3, lambda k: scene())
+    w += se(s["sbeam"]) + flash_screen(3) + emit_at(MOONB25, 0, 0, (0, 90))     # *the moonbeam*
+    for k in range(12):
+        w += scene() + emit_at(MOONB25, 1, 0, refl)
+        if k in (2, 8):
+            w += se(s["absorb"]) + emit_at(MOON25, 0, 0, (0, 20)) + func(34, 2, 0, 1, rgb(200, 220, 255), 12, 0)
+        w += wait(1)
+    return w + func(33, 0, 1, 12, 0, rgb(10, 15, 60)) + wait(2)
+
+
+def _slime_down(side, s):
+    """Acid Armor (Slime Down): a bucket of green slime appears over their head. Drip. Drip. Then the whole bucket
+    tips - SPLORCH - slimed head to toe. Good luck landing a hit now."""
+    top = (0, 70)
+    w = se(s["pop"]) + _hold(SLIME25, 1, 0, top, 4)
+    for n in range(2):                                                         # drip... drip...
+        w += se(s["bubble"]) + emit_at(SLIME25, 0, 0, (top[0] - 4 + 8 * n, top[1] - 12)) + _hold(SLIME25, 1, 0, top, 5)
+        w += shake_attacker(1, 1)
+    w += _hold(SLIME25, 2, 0, top, 3)                                          # *tips*
+    w += se(s["splat"]) + se(s["sludge"]) + emit_at(SLIME25, 3, 0, (0, 30)) + shake_attacker(2, 2)
+    for k in range(14):                                                        # SLIMED
+        w += emit_at(SLIMEB25, 1, 0, (0, 26 - (k // 3)))
+        if k < 4:
+            w += emit_at(SLIME25, 2, 0, top)
+        if k in (5, 10):
+            w += se(s["harden"]) + emit_at(SLIMEB25, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(140, 200, 255), 10, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _last_verse(side, s):
+    """Perish Song (Last Verse): lights down, spotlight - they spit the last verse - 3... 2... 1... MIC DROP. Everybody
+    on the field feels that one."""
+    sx = _sx(side)
+    mic = (sx * 22, 34)
+    sign = _p(side, (0, 58), (0, 50))
+    w = func(33, 0, 1, 0, 12, rgb(20, 10, 30)) + se(s["pop"]) + _hold(VERSE25, 1, 0, mic, 3)
+    for k in range(10):                                                        # *the verse*
+        w += emit_at(VERSE25, 1, 0, (mic[0], mic[1] + (k % 2)))
+        if k % 2 == 0:
+            w += se(s["bass"]) + emit_at(VERSE25, 0, 0, (mic[0] + sx * 10, mic[1] + 6)) + bmove(side, 258, 1, 0, 3)
+        else:
+            w += bmove(side, 258, 1, 0, -3)
+        w += wait(1)
+    for kit, res in ((VERSE25, 2), (VERSEB25, 1), (VERSEB25, 2)):             # 3... 2... 1...
+        w += se(s["clock"]) + _hold(kit, res, 0, sign, 6, lambda k: emit_at(VERSE25, 1, 0, mic))
+    w += se(s["whoosh"])
+    for k in range(5):                                                         # *drops it*
+        w += emit_at(VERSE25, 1, 0, (mic[0] + sx * 4, mic[1] - k * 10)) + wait(1)
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(6) + func(68, 6, 6, 1, 6, 0) + emit_at(VERSEC25, 0, 0, (mic[0], mic[1] - 46))
+    w += shake_defender(3, 3) + shake_attacker(3, 3) + func(34, 8, 0, 1, rgb(90, 90, 110), 12, 0) + func(34, 2, 0, 1, rgb(90, 90, 110), 12, 0)
+    w += _hold(VERSEC25, 1, 0, sign, 12)
+    return w + func(33, 0, 1, 12, 0, rgb(20, 10, 30)) + wait(2)
+
+
+def _lip_gloss(side, s):
+    """Lovely Kiss (Lip Gloss): swipe of lip gloss - shine. Another swipe - SHINE. Then the lips catch the light like
+    a disco ball, the foe's hypnotized... sways... and drops off to sleep."""
+    sx = _sx(side)
+    mouth = (sx * 12, 34)
+    w = []
+    for n in range(2):                                                         # swipe... swipe...
+        for k in range(4):
+            w += emit_at(GLOSS25, 1, 0, (mouth[0] + (6 if k % 2 else -6), mouth[1])) + wait(1)
+        w += se(s["bling"]) + emit_at(GLOSS25, 0, 0, mouth) + wait(3)
+    w += se(s["bling"]) + se(s["sbeam"]) + flash_screen(3)                   # *SHINE*
+    for k in range(10):
+        w += emit_at(GLOSS25, 2, 0, mouth)
+        if k % 3 == 0:
+            w += emit_at(GLOSS25, 0, 0, mouth) + se(s["bling"])
+        if k == 4:
+            w += func(34, 8, 0, 1, rgb(255, 140, 210), 12, 0)
+        w += wait(1)
+    for k, d_ in enumerate((6, -12, 12, -6)):                                  # *sways...*
+        w += bmove(side, 264, 3, d_, 0) + emit_at(GLOSS25, 2, 0, mouth) + wait(2)
+    w += se(s["sleep"]) + bmove(side, 264, 4, 0, -6) + emit_at(GLOSSB25, 0, 1, (10, 40))
+    w += wait(6) + emit_at(GLOSSB25, 0, 1, (14, 44)) + wait(6)
+    return w + bmove(side, 264, 4, 0, 6) + wait(2)
+
+
+def _bottle_rain(side, s):
+    """Barrage (Bottle Rain): a water bottle off the foe's head - bonk - splash. (Replays per hit.)"""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"]) + _lob(BOTTLE25, 1, side, (sx * 20, 30), (dx, dy + 40), 5, 24)
+    w += se(s["bonk"]) + se(s["splash"]) + emit_at(BOTTLE25, 0, 1, (0, 40)) + shake_defender(2, 2)
+    return w + _lob(BOTTLE25, 1, side, (dx, dy + 40), (dx + sx * 30, dy + 70), 3, 10) + wait(1)
+
+
+def _two_piece(side, s):
+    """Comet Punch (Two-Piece): a fried drumstick off the foe's head - bonk, crumbs. (Replays per hit.)"""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"]) + _lob(CHICK25, 1, side, (sx * 20, 30), (dx, dy + 38), 5, 22)
+    w += se(s["bonk"]) + emit_at(CHICK25, 0, 1, (0, 38)) + shake_defender(2, 2)
+    return w + _lob(CHICK25, 1, side, (dx, dy + 38), (dx + sx * 30, dy + 60), 3, 8) + wait(1)
+
+
+def _jump_out(side, s):
+    """Jump Kick (Jump Out): a bush where the attacker was. Rustle. The foe looks. Rustle. Then they JUMP OUT the bush
+    knee first into the foe."""
+    sx = _sx(side)
+    bush = _s23(side, 1, _p(side, (64, 124), (185, 70)))
+    leap = _p(side, (88, 50), (-92, -46))
+    b = lambda r=1: emit_at(BUSH25, r, 1, bush)
+    w = se(s["whoosh"]) + func(40, 2, 1) + _hold(BUSH25, 1, 1, bush, 4)        # *ducks in*
+    for n in range(2):                                                         # rustle... rustle...
+        w += se(s["swipe"])
+        for k in range(4):
+            w += b(1 + k % 2) + wait(1)
+        w += _hold(BUSH25, 1, 1, bush, 3, lambda k: bmove(side, 264, 2, -sx * 6, 0) if k == 0 and n == 0 else (bmove(side, 264, 2, sx * 6, 0) if k == 2 and n == 0 else []))
+    w += _hold(BUSH25, 1, 1, bush, 3)                                          # *...*
+    w += func(40, 2, 0) + se(s["whoosh"]) + emit_at(BUSH25, 0, 1, (bush[0], bush[1] + 10)) + bmove(side, 258, 3, *leap) + b() + wait(1)   # JUMP OUT
+    w += b() + wait(1) + se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4) + emit_at(BUSH25, 3, 1, (0, 24))
+    w += shake_defender(4, 3) + func(48) + func(68, 3, 3, 1, 3, 0)
+    w += _hold(BUSH25, 1, 1, bush, 2) + bmove(side, 258, 5, -leap[0], -leap[1])
+    return w + _hold(BUSH25, 1, 1, bush, 4)
+
+
+def _roll_up(side, s):
+    """Rolling Kick (Roll Up): roller skates. Wobble - wobble - then they get it going, spin, and roll a kick right into
+    the foe."""
+    sx = _sx(side)
+    sk = _p(side, (sx * 22, 8), (-22, -6))
+    res = _p(side, 1, 2)
+    skate = lambda dxx=0: emit_at(SKATE25, res, 0, (sk[0] + dxx, sk[1]))
+    w = se(s["pop"]) + _hold(SKATE25, res, 0, sk, 3)
+    for n, d_ in enumerate((-8, 8)):                                           # wobble... wobble...
+        w += se(s["rollout"]) + bmove(side, 258, 3, d_, 0) + skate() + wait(1)
+        w += shake_attacker(1, 2) + skate(2) + wait(1) + skate(-2) + wait(1)
+        w += bmove(side, 258, 3, -d_, 0) + skate() + wait(2)
+    w += se(s["rollout"])
+    for k in range(6):                                                         # *spinnn*
+        w += bmove(side, 258, 1, 8 if k % 2 == 0 else -8, 0) + skate() + wait(1)
+    w += bmove(side, 258, 3, sx * 26, 10) + skate() + wait(1)                 # KICK
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(3) + emit_at(SKATE25, 0, 1, (0, 24)) + shake_defender(4, 3) + func(48)
+    return w + bmove(side, 258, 4, -sx * 26, -10) + _hold(SKATE25, res, 0, sk, 3)
+
+
+def _waffle_iron(side, s):
+    """Clamp (Waffle Iron): the foe's sat on the bottom plate of a waffle iron - SLAM - sizzle sizzle - pop it open:
+    golden brown. (Replays as a trap: short.)"""
+    at = (0, 10)
+    w = se(s["pop"]) + _hold(WAFF25, 1, 1, (0, 70), 4)                         # *it hovers over them*
+    for k in range(3):
+        w += emit_at(WAFF25, 1, 1, (0, 70 - (k + 1) * 18)) + wait(1)
+    w += se(s["bslam"]) + shake_defender(2, 2) + _hold(WAFF25, 2, 1, at, 1)     # SLAM
+    for k in range(10):                                                        # *sizzle*
+        w += emit_at(WAFF25, 2, 1, at)
+        if k % 3 == 0:
+            w += emit_at(WAFF25, 0, 1, (0, 30)) + se(s["ember"])
+        w += wait(1)
+    w += se(s["bling"]) + func(34, 8, 0, 1, rgb(230, 170, 60), 12, 0)        # *ding* - golden brown
+    return w + _hold(WAFF25, 1, 1, at, 5)
+
+
+def _bazooka(side, s):
+    """Octazooka (Bazooka): bubblegum. A little bubble - pop. A bigger bubble. Then a HUGE one... it floats over to
+    the foe - POP - gum all over their face."""
+    sx = _sx(side)
+    mouth = _p(side, (sx * 12, 32), (-12, 24))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = []
+    for kit, res, ticks in ((GUM25, 1, 4), (GUM25, 2, 5)):                    # blow... blow...
+        for k in range(ticks):
+            w += emit_at(kit, res, 0, (mouth[0] + sx * k, mouth[1])) + wait(1)
+        w += se(s["pop"]) + emit_at(GUM25, 0, 0, mouth) + wait(3)
+    for k in range(6):                                                         # HUGE
+        w += emit_at(GUMB25, 1, 0, (mouth[0] + sx * (4 + k * 2), mouth[1] + k)) + wait(1)
+    for k, p in enumerate(_arc((mouth[0] + sx * 16, mouth[1] + 6), (dx, dy + 28), 6, 20)[1:]):   # *floats over*
+        w += emit_at(GUMB25, 1, 0, p) + wait(1)
+    w += se(s["pop"]) + se(s["splat"]) + flash_screen(2) + emit_at(GUM25, 0, 1, (0, 28))   # POP
+    w += func(34, 8, 0, 1, rgb(255, 140, 200), 12, 0) + shake_defender(2, 2)
+    for k in range(10):
+        w += emit_at(GUMB25, 2, 1, (0, 28))
+        if k in (3, 6):
+            w += bmove(side, 264, 2, 6 if k == 3 else -6, 0)
+        w += wait(1)
+    return w + wait(2)
+
+
+def _thumbtacks(side, s):
+    """Spikes (Thumbtacks): a box of thumbtacks. One flicked onto the foe's side - plink. Another - plink. Then they
+    dump the whole box and tacks bounce everywhere."""
+    sx = _sx(side)
+    box = _p(side, (sx * 30, 40), (-34, 26))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    spots = [(-24, -2), (22, 2)]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(TACK25, 2, 1, spots[i])]
+    w = se(s["pop"]) + _hold(TACK25, 1, 0, box, 3)
+    for n in range(2):                                                         # plink... plink...
+        w += se(s["whoosh"]) + _lob(TACK25, 2, side, box, (dx + spots[n][0], dy + spots[n][1]), 5, 20, lambda k: emit_at(TACK25, 1, 0, box) + dress())
+        on.append(n)
+        w += se(s["tspikes"]) + _hold(TACK25, 1, 0, box, 4, lambda k: dress())
+    w += se(s["whoosh"]) + _lob(TACK25, 1, side, box, (dx - sx * 20, dy + 20), 4, 16, lambda k: dress())   # THE WHOLE BOX
+    w += se(s["tspikes"]) + se(s["bonk"]) + emit_at(TACK25, 0, 1, (0, 10)) + shake_defender(2, 2)
+    for k in range(12):
+        w += dress() + (se(s["tspikes"]) if k % 4 == 0 else []) + wait(1)
+    return w + func(34, 8, 0, 1, rgb(255, 80, 80), 9, 0) + wait(2)
+
+
+def _copy_paste(side, s):
+    """Mirror Move (Copy Paste): the office copier. Press start - out comes a blank page. Again - a smudged mess.
+    Again - a perfect copy. *bling*"""
+    sx = _sx(side)
+    cp = _s23(side, 0, (106, 84))
+    tray = (cp[0] - sx * 26, cp[1] + 2)
+    w = se(s["pop"]) + _hold(COPY25, 1, 0, cp, 3)
+    for n, (kit, res) in enumerate(((COPY25, 2), (COPYB25, 1), (COPYB25, 2))):
+        w += se(s["lockon"]) + emit_at(COPY25, 0, 0, (cp[0], cp[1] + 10))
+        for k in range(4):                                                     # *whirr*
+            w += emit_at(COPY25, 1, 0, (cp[0] + (k % 2), cp[1])) + (se(s["rollout"]) if k == 0 else []) + wait(1)
+        for k in range(3):                                                     # *the page slides out*
+            w += emit_at(COPY25, 1, 0, cp) + emit_at(kit, res, 0, (tray[0] - sx * k * 6, tray[1] + k * 4)) + wait(1)
+        out = (tray[0] - sx * 12, tray[1] + 8)
+        if n == 0:
+            w += _hold(kit, res, 0, out, 4, lambda k: emit_at(COPY25, 1, 0, cp)) + shake_attacker(1, 1)
+        elif n == 1:
+            w += se(s["disable"]) + _hold(kit, res, 0, out, 4, lambda k: emit_at(COPY25, 1, 0, cp)) + shake_attacker(2, 2)
+        else:
+            w += se(s["bling"]) + flash_screen(2) + _hold(kit, res, 0, out, 8, lambda k: emit_at(COPY25, 1, 0, cp) + (emit_at(COPY25, 0, 0, out) if k == 1 else []))
+    return w + wait(2)
+
+
+def _receipts(side, s):
+    """Bide (Receipts): the receipt printer starts printing. And printing. And PRINTING - CVS long. Then they snatch
+    the whole thing and whip the foe with it - every receipt paid back double."""
+    sx = _sx(side)
+    pr = _s23(side, 0, (106, 86))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"]) + _hold(REC25, 1, 0, pr, 3)
+    for n, (kit, res, h) in enumerate(((REC25, 2, 22), (RECB25, 1, 40))):    # print... print... PRINT
+        w += se(s["rollout"])
+        for k in range(6 + 2 * n):
+            w += emit_at(REC25, 1, 0, pr) + emit_at(kit, res, 0, (pr[0], pr[1] + 8 + round(h * (k + 1) / (6 + 2 * n)))) + wait(1)
+        w += _hold(REC25, 1, 0, pr, 3, lambda k: emit_at(kit, res, 0, (pr[0], pr[1] + 8 + h)))
+    w += se(s["swipe"]) + _lob(RECB25, 1, side, (pr[0], pr[1] + 48), (dx, dy + 30), 4, 16, lambda k: emit_at(REC25, 1, 0, pr))   # *WHIP*
+    w += se(s["dslap"]) + se(s["bslam"]) + flash_screen(3) + emit_at(REC25, 0, 1, (0, 26)) + shake_defender(3, 2)
+    w += se(s["dslap"]) + flash_screen(3) + shake_defender(3, 2) + func(48)    # (double)
+    return w + _hold(REC25, 1, 0, pr, 4)
+
+
+def _max_out(side, s):
+    """Superpower (Max Out): curl the dumbbell - up, down. Press the barbell - up, down, shaking. Then they lift the
+    whole vending machine over their head... and throw it at the foe."""
+    sx = _sx(side)
+    db = (sx * 26, 30)
+    over = (0, 66)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = []
+    for k in range(6):                                                         # curl, curl
+        w += emit_at(GYM25, 1, 0, (db[0], db[1] + (10 if k % 3 == 1 else 0))) + (se(s["harden"]) if k % 3 == 1 else []) + wait(1)
+    for k in range(8):                                                         # press, press (shaking)
+        w += emit_at(GYM25, 2, 0, (over[0] + (k % 2), over[1] + (8 if k % 4 in (1, 2) else 0)))
+        if k % 4 == 1:
+            w += se(s["harden"]) + shake_attacker(1, 1)
+        if k == 6:
+            w += emit_at(GYM25, 0, 0, (0, 40))
+        w += wait(1)
+    w += se(s["focus"])
+    for k in range(8):                                                         # *the vending machine*
+        w += emit_at(GYMB25, 1, 0, (over[0] + (k % 2) * 2, over[1] + min(k, 4) * 3))
+        if k % 3 == 0:
+            w += shake_attacker(2, 1)
+        w += wait(1)
+    w += se(s["whoosh"]) + _lob(GYMB25, 1, side, (over[0], over[1] + 12), (dx, dy + 24), 5, 24)   # *THROWS IT*
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(5) + func(68, 5, 5, 1, 5, 0) + emit_at(GYMB25, 0, 1, (0, 24))
+    w += shake_defender(4, 3) + func(48) + func(34, 2, 0, 1, rgb(120, 140, 200), 10, 0)
+    return w + wait(4)
+
+
+def _hustle(side, s):
+    """Struggle (Hustle): no moves left. They open the wallet - a moth flies out. Shake it - nothing. So they just
+    start swinging, wild. (Hurts them too.)"""
+    sx = _sx(side)
+    wl = (sx * 26, 32)
+    w = se(s["pop"]) + _hold(HUST25, 1, 0, wl, 5, lambda k: se(s["astonish"]) if k == 1 else [])
+    for k in range(6):                                                         # *shake shake* - nothing
+        w += emit_at(HUST25, 1, 0, (wl[0] + (4 if k % 2 else -4), wl[1])) + (se(s["disable"]) if k == 4 else []) + wait(1)
+    w += _hold(HUST25, 1, 0, wl, 3)
+    for n in range(3):                                                         # swing, swing, SWING
+        w += bmove(side, 258, 2, sx * 18, 6) + se(s["bonk"] if n < 2 else s["bslam"]) + emit_at(HUST25, 0, 1, (((n * 13) % 20) - 10, 24))
+        w += shake_defender(1 + n, 1) + bmove(side, 258, 2, -sx * 18, -6) + wait(1)
+    w += func(48) + shake_attacker(2, 2) + func(34, 2, 0, 1, rgb(255, 80, 80), 9, 0)   # (recoil)
+    return w + wait(3)
+
+
+def _live_wire(side, s):
+    """Volt Tackle (Live Wire): a snapped power line hanging off the pole, the end sparking. ZZT. ZZT. They grab it -
+    lit up - and charge the foe with it. The transformer blows and the whole block flickers."""
+    sx = _sx(side)
+    pole = _s23(side, 0, (112, 70))
+    end = (pole[0] + 14, pole[1] - 22)
+    held = (sx * 16, 28)
+    scene = lambda: emit_at(WIRE26, 1, 0, pole)
+    w = se(s["pop"]) + _hold(WIRE26, 1, 0, pole, 3, lambda k: emit_at(WIRE26, 2, 0, end))
+    for n in range(2):                                                         # ZZT... ZZT...
+        w += se(s["spark"]) + emit_at(WIRE26, 0, 0, end) + shake_defender(n, 1) + _hold(WIRE26, 1, 0, pole, 4 + n, lambda k: emit_at(WIRE26, 2, 0, end))
+    w += se(s["whoosh"]) + _lob(WIRE26, 2, side, end, held, 4, 8, lambda k: scene())   # *grabs it*
+    for k in range(6):                                                         # *lit up*
+        w += scene() + emit_at(WIRE26, 2, 0, held)
+        if k % 2 == 0:
+            w += se(s["zap"]) + emit_at(WIRE26, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(255, 250, 80) if k % 4 == 0 else rgb(40, 40, 40), 13, 0)
+        w += wait(1)
+    w += func(33, 0, 1, 0, 14, 0) + bmove(side, 258, 3, sx * 30, 12) + se(s["tbolt"]) + se(s["kaboom"])   # CHARGE
+    w += flash_screen(6) + emit_at(WIRE26, 3, 1, (0, 24)) + emit_at(WIRE26, 3, 0, (pole[0] + 10, pole[1] + 18)) + func(68, 6, 6, 1, 10, 0)
+    for k in range(10):
+        if k % 2 == 0:
+            w += shake_defender(2, 1) + func(34, 8, 0, 1, rgb(255, 250, 80) if k % 4 == 0 else rgb(30, 30, 30), 14, 0)
+        if k == 4:
+            w += se(s["thunder"]) + flash_screen(3)
+        w += wait(1)
+    w += func(48) + bmove(side, 258, 4, -sx * 30, -12) + shake_attacker(2, 3) + func(33, 0, 1, 14, 0, 0)
+    return w + func(34, 8, 0, 1, rgb(255, 250, 80), 12, 0) + wait(3)
+
+
+def _fire_cart(side, s):
+    """Flare Blitz (Fire Cart): they hop in a shopping cart. It rolls - squeak - sparks off the wheels. Faster - it
+    catches. FASTER - fully on fire - and it plows into the foe. They climb out singed."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    y = _p(side, 82, 104)
+    xs = _p(side, (-40, 160), (300, 70))
+    at = lambda x: _s23(side, 0, (x, y))
+    w = se(s["whoosh"]) + func(40, 2, 1) + wait(2)                            # *hops in*
+    steps = [(.0, 0), (.12, 0), (.24, 0), (.34, 1), (.46, 1), (.58, 1), (.7, 2), (.84, 2), (1.0, 2)]
+    for k, (t, fire) in enumerate(steps):
+        x = round(xs[0] + (xs[1] - xs[0]) * t)
+        w += emit_at(CART26, res, 0, at(x))
+        if k % 2 == 0:
+            w += se(s["rollout"] if fire < 2 else s["flame"])
+        if fire == 1 and k % 2 == 1:
+            w += emit_at(CART26, 0, 0, at(x))
+        if fire == 2:
+            w += emit_at(CART26, 0, 0, at(x)) + (emit_at(CART26, 3, 0, at(x)) if k == 6 else [])
+        w += wait(1 if fire else 2)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(6) + func(33, 0, 1, 0, 10, rgb(160, 50, 0))   # CRASH
+    w += emit_at(CART26, 3, 1, (0, 20)) + emit_at(CARTB26, 0, 1, (0, 20)) + func(68, 6, 6, 1, 8, 0) + shake_defender(5, 4) + func(48)
+    w += func(34, 8, 0, 1, rgb(255, 100, 30), 14, 0) + wait(8)
+    w += func(33, 0, 1, 10, 0, rgb(160, 50, 0)) + func(40, 2, 0) + func(34, 2, 0, 1, rgb(50, 40, 40), 12, 0) + shake_attacker(2, 2)
+    return w + wait(4)
+
+
+def _wrecker(side, s):
+    """Rock Wrecker (Wrecker): a wrecking ball swings across - right over the foe's head. Back again, lower - the foe
+    ducks. Third swing comes in low and SMASHES them."""
+    import math as _m
+    fx, fy = _S23_AT["enemy" if side == "player" else "player"]
+    piv = (fx, fy - 150)
+    pos = lambda ang, r: _s23(side, 0, (round(piv[0] + r * _m.cos(ang)), round(piv[1] + r * _m.sin(ang))))
+    w = []
+    for n, (r, a0, a1) in enumerate(((112, 2.4, .74), (130, .74, 2.4), (150, 2.5, 1.57))):
+        w += se(s["whoosh"])
+        steps = 8 if n < 2 else 6
+        for k in range(steps):
+            t = (k + 1) / steps
+            a = a0 + (a1 - a0) * (t if n < 2 else t ** 1.6)
+            w += emit_at(WRECK26, 1, 0, pos(a, r))
+            if n == 1 and k == 2:
+                w += bmove(side, 264, 2, 0, -10)                               # *ducks*
+            if n == 1 and k == 6:
+                w += bmove(side, 264, 2, 0, 10)
+            w += wait(1)
+        if n < 2:
+            w += wait(3)
+    w += se(s["kaboom"]) + se(s["bslam"]) + se(s["explo"]) + flash_screen(7) + func(68, 8, 8, 1, 8, 0)   # SMASH
+    w += emit_at(WRECK26, 0, 1, (0, 20)) + emit_at(WRECKB26, 0, 1, (0, 10)) + bmove(side, 264, 3, -_sx(side) * -30, 20)
+    w += _hold(WRECK26, 1, 0, pos(1.57, 150), 4)
+    w += bmove(side, 264, 4, _sx(side) * -30, -20) + shake_defender(4, 3) + func(48)
+    for k in range(5):
+        w += emit_at(WRECK26, 1, 0, pos(1.57 - (k + 1) * .18, 150)) + wait(1)
+    return w + wait(4)
+
+
+def _headbanger(side, s):
+    """Head Smash (Headbanger): two amp stacks. The riff hits - headbang. Again - HEADBANG, pyro going off. Then they
+    full-send headbang straight into the foe."""
+    sx = _sx(side)
+    amps = [_s23(side, 0, (100, 84)), _s23(side, 0, _p(side, (34, 70), (218, 40)))]
+    rack = lambda: [w_ for a in amps for w_ in emit_at(HEAD26, 1, 0, a)]
+    w = se(s["bass"]) + _hold(HEAD26, 1, 0, amps[0], 3, lambda k: emit_at(HEAD26, 1, 0, amps[1]))
+    for n in range(2):                                                         # headbang... HEADBANG
+        w += se(s["bdrum"]) + se(s["bass"]) + flash_screen(2)
+        for k in range(4):
+            w += rack() + bmove(side, 258, 1, sx * 4, -8 if k % 2 == 0 else 8)
+            w += bmove(side, 258, 1, -sx * 4, 0) + func(34, 2, 0, 1, (rgb(255, 60, 60), rgb(60, 120, 255))[k % 2], 7 + 3 * n, 0) + wait(1)
+        w += emit_at(HEAD26, 0, 0, (amps[n][0], amps[n][1] + 30)) + _hold(HEAD26, 1, 0, amps[0], 3, lambda k: emit_at(HEAD26, 1, 0, amps[1]))
+    w += se(s["rage"]) + bmove(side, 258, 2, sx * 30, 12) + rack() + wait(1)  # FULL SEND
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(6) + func(68, 6, 6, 1, 6, 0)
+    for a in amps:
+        w += emit_at(HEAD26, 3, 0, (a[0], a[1] + 30))
+    w += shake_defender(5, 3) + func(48) + rack() + wait(2) + bmove(side, 258, 4, -sx * 30, -12)
+    return w + shake_attacker(3, 2) + func(34, 2, 0, 1, rgb(255, 60, 60), 12, 0) + _hold(HEAD26, 1, 0, amps[0], 4, lambda k: emit_at(HEAD26, 1, 0, amps[1]))
+
+
+def _soaker_flood(side, s):
+    """Water Spout (Super Soaker): a giant water gun. Pump. Pump. PUMPPUMPPUMP. Then the whole tank in one blast - a
+    flood straight into the foe."""
+    sx = _sx(side)
+    gun = _p(side, (sx * 26, 26), (-26, 16))
+    kit = _p(side, SOAK26, SOAKB26)
+    tip = _p(side, (48, 28), (-48, 18))
+    w = se(s["pop"]) + _hold(kit, 1, 0, gun, 3)
+    for n, (reps, gap) in enumerate(((1, 3), (1, 3), (3, 1))):               # pump... pump... PUMPPUMPPUMP
+        for r in range(reps):
+            w += se(s["harden"]) + _hold(kit, 2, 0, gun, gap) + _hold(kit, 1, 0, gun, gap)
+        if n == 2:
+            w += shake_attacker(1, 2)
+    w += func(33, 0, 1, 0, 10, rgb(40, 90, 200)) + se(s["hpump"]) + se(s["surf"]) + flash_screen(2)   # FWOOOSH
+    w += emit_at(SOAKC26, _p(side, 0, 1), 0, tip) + func(68, 4, 4, 1, 14, 0)
+    for k in range(18):
+        w += emit_at(kit, 1, 0, (gun[0] - sx * (k % 2), gun[1]))
+        if k % 4 == 0:
+            w += emit_at(SOAK26, 0, 1, (0, 24)) + shake_defender(2, 1) + se(s["splash"])
+        if k == 6:
+            w += bmove(side, 264, 4, sx * 14, 4) + func(34, 8, 0, 1, rgb(80, 150, 255), 14, 0)
+        w += wait(1)
+    w += bmove(side, 264, 4, -sx * 14, -4) + func(48) + func(33, 0, 1, 10, 0, rgb(40, 90, 200))
+    return w + _hold(kit, 1, 0, gun, 3)
+
+
+def _night_night(side, s):
+    """Spore (Night Night): a music box starts playing - the foe yawns. It keeps playing - they nod off. Then a giant
+    pacifier pops right in their mouth. Night night."""
+    mb = _s23(side, 0, (106, 86))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"]) + _hold(NIGHT26, 1, 0, mb, 3)
+    for n in range(2):                                                         # *plinky lullaby*
+        w += se(s["bling"])
+        for k in range(8):
+            w += emit_at(NIGHT26, 1, 0, (mb[0] + (k % 2), mb[1]))
+            if k % 3 == 0:
+                w += emit_at(NIGHT26, 0, 0, (mb[0], mb[1] + 26))
+            if k == 4:
+                w += bmove(side, 264, 3, 0, -4 - 2 * n) + (se(s["yawn"]) if n == 0 else [])
+            w += wait(1)
+        w += bmove(side, 264, 3, 0, 4 + 2 * n)
+    w += se(s["whoosh"]) + _lob(NIGHT26, 2, side, (mb[0], mb[1] + 20), (dx - _sx(side) * 14, dy + 26), 5, 20, lambda k: emit_at(NIGHT26, 1, 0, mb))
+    w += se(s["pop"]) + se(s["sleep"]) + func(34, 8, 0, 1, rgb(120, 150, 255), 10, 0)
+    for k in range(12):                                                        # *out*
+        w += emit_at(NIGHT26, 2, 1, (-_sx(side) * 14, 26)) + emit_at(NIGHT26, 1, 0, mb)
+        if k in (1, 7):
+            w += emit_at(NIGHTB26, 0, 1, (10, 44))
+        w += wait(1)
+    return w + wait(2)
+
+
+def _dome_piece(side, s):
+    """Skull Bash (Dome Piece), two turns. Turn 1: a football helmet comes down on their head - click - they knock on
+    it twice, solid. Turn 2: helmet on, they charge head first into the foe."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    head = _p(side, (sx * 2, 36), (0, 30))
+    one = se(s["whoosh"])
+    for k in range(4):
+        one += emit_at(DOME26, res, 0, (head[0], head[1] + round(40 * (1 - (k + 1) / 4)))) + wait(1)
+    one += se(s["harden"]) + _hold(DOME26, res, 0, head, 3)
+    for n in range(2):                                                         # knock knock
+        one += se(s["bonk"]) + emit_at(DOME26, 0, 0, (head[0], head[1] + 10)) + _hold(DOME26, res, 0, head, 4)
+    one += func(34, 2, 0, 1, rgb(150, 190, 255), 10, 0) + _hold(DOME26, res, 0, head, 3)
+    two = se(s["harden"]) + _hold(DOME26, res, 0, head, 3)
+    two += bmove(side, 258, 2, -sx * 6, -2) + _hold(DOME26, res, 0, head, 2)  # *wind up*
+    two += se(s["rage"]) + bmove(side, 258, 3, sx * 36, 14) + emit_at(DOME26, res, 0, head) + wait(1)   # CHARGE
+    two += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(5) + emit_at(DOME26, 0, 1, (0, 26)) + shake_defender(5, 3) + func(48) + func(68, 4, 4, 1, 4, 0)
+    two += _hold(DOME26, res, 0, head, 2) + bmove(side, 258, 4, -sx * 30, -12) + bmove(side, 258, 2, -sx * 6, -2)
+    return one, two + _hold(DOME26, res, 0, head, 3)
+
+
+def _dome_piece_turn2_first(side, s):
+    """Test only: Dome Piece's second turn on its own."""
+    return _dome_piece(side, s)[1]
+
+
+def _drill_ohko(side, s):
+    """Horn Drill (Drill): a cordless drill on the foe - bzzzt, sparks. A hammer drill - BZZZT. Then an industrial
+    drill with a bit the length of a car. That's it for them."""
+    sx = _sx(side)
+    at = _p(side, (-44, 24), (44, 24))
+    drills = _p(side, ((DRILL26, 1), (DRILL26, 2), (DRILLB26, 1)), ((DRILLB26, 2), (DRILLC26, 1), (DRILLC26, 2)))
+    w = []
+    for n, (kit, res) in enumerate(drills):                                    # bzzzt... BZZZT... BRRRRRRR
+        off = (at[0] - sx * 10 * n, at[1])
+        w += se(s["pop"]) + _hold(kit, res, 1, off, 2)
+        w += se(s["rollout"])
+        for k in range(5 + 2 * n):
+            w += emit_at(kit, res, 1, (off[0] + (k % 2) * sx * 2, off[1]))
+            if k % 2 == 0:
+                w += emit_at(DRILL26, 0, 1, (0, 22)) + shake_defender(1 + (n == 2), 1)
+            w += wait(1)
+        w += wait(2)
+    w += se(s["kaboom"]) + flash_screen(6) + func(68, 5, 5, 1, 5, 0) + shake_defender(5, 4) + func(48)
+    return w + func(34, 8, 0, 1, rgb(60, 60, 70), 14, 0) + wait(6)
+
+
+def _cold_case(side, s):
+    """Sheer Cold (Cold Case): the detective's evidence board, red string everywhere. The case file slides out. Stamped:
+    COLD CASE. And the foe's on ice - frozen solid in a block."""
+    bd = _s23(side, 0, (104, 80))
+    file_ = (bd[0] + _sx(side) * 6, bd[1] - 14)
+    w = func(33, 0, 1, 0, 8, rgb(30, 40, 70)) + se(s["pop"]) + _hold(COLD26, 1, 0, bd, 6)
+    for k in range(4):                                                         # *the file*
+        w += emit_at(COLD26, 2, 0, (file_[0], file_[1] - 30 + k * 8)) + emit_at(COLD26, 1, 0, bd) + wait(1)
+    w += _hold(COLD26, 1, 0, bd, 4, lambda k: emit_at(COLD26, 2, 0, file_))
+    w += se(s["bslam"]) + se(s["ishard"]) + flash_screen(4) + emit_at(COLD26, 0, 1, (0, 24))   # COLD. CASE.
+    w += func(34, 8, 0, 1, rgb(160, 210, 255), 15, 0) + shake_defender(2, 2)
+    for k in range(14):
+        w += emit_at(COLDB26, 1, 1, (0, 14)) + emit_at(COLD26, 2, 0, file_)
+        if k == 6:
+            w += emit_at(COLD26, 0, 1, (0, 30)) + se(s["ishard"])
+        w += wait(1)
+    return w + func(48) + func(33, 0, 1, 8, 0, rgb(30, 40, 70)) + wait(2)
+
+
+def _bat_rush(side, s):
+    """Bone Rush (Bat Rush): one bat swing off the foe - bonk. (Replays per hit.)"""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    w = se(s["whoosh"])
+    for k, (x, y) in enumerate(((-56, 52), (-40, 40), (-26, 30))):
+        w += emit_at(BAT26, res, 1, (sx * x, y)) + wait(1)
+    w += se(s["bonk"]) + emit_at(BAT26, 0, 1, (0, 30)) + shake_defender(2, 2) + emit_at(BAT26, res, 1, (-sx * 18, 26)) + wait(1)
+    return w + emit_at(BAT26, res, 1, (-sx * 12, 20)) + wait(2)
+
+
+def _speed_bag(side, s):
+    """Bullet Punch (Speed Bag): the speed bag - bap bap bap - faster - BAPBAPBAP - then the glove goes straight into
+    the foe before they can blink."""
+    sx = _sx(side)
+    bag = _p(side, (sx * 32, 48), (-34, 34))
+    w = []
+    for n, gap in enumerate((2, 1, 1)):                                        # bap bap... BAPBAPBAP
+        for k in range(4 + 2 * n):
+            w += emit_at(SPEED26, 1 + k % 2, 0, bag) + (se(s["dslap"]) if k % 2 == 0 else []) + wait(gap)
+        w += wait(1)
+    w += bmove(side, 258, 2, sx * 24, 8)                                       # POP
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    for k in range(2):
+        w += emit_at(SPEEDB26, _p(side, 1, 2), 1, (-sx * (20 - k * 8), 22)) + wait(1)
+    w += se(s["kaboom"]) + flash_screen(3) + emit_at(SPEED26, 0, 1, (-sx * 6, 22)) + shake_defender(3, 2) + func(48)
+    return w + bmove(side, 258, 3, -sx * 24, -8) + wait(2)
+
+
+def _trash_can(side, s):
+    """Gunk Shot (Trash Can): a trash bag off the foe's head. Another. Then the garbage truck backs up - beep beep -
+    and dumps the whole load on them. Flies, stink, everything."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    truck = _s23(side, 0, _p(side, (218, 34), (108, 96)))
+    start = (truck[0] + sx * 80, truck[1])
+    w = []
+    for n in range(2):                                                         # bag... bag...
+        w += se(s["whoosh"]) + _lob(TRASH26, 1, side, (sx * 20, 30), (dx, dy + 34), 5, 22)
+        w += se(s["bonk"]) + emit_at(TRASH26, 0, 1, (0, 34)) + shake_defender(1 + n, 2) + wait(3)
+    w += se(s["lockon"])
+    for k in range(6):                                                         # beep... beep... (backing up)
+        w += emit_at(TRASH26, 2, 0, _lerp(start, truck, (k + 1) / 6)) + (se(s["lockon"]) if k % 2 == 1 else []) + wait(1)
+    w += _hold(TRASH26, 2, 0, truck, 3)
+    w += se(s["splat"]) + se(s["sludge"]) + shake_defender(2, 2)              # *DUMP*
+    for k in range(4):
+        w += emit_at(TRASH26, 2, 0, truck) + emit_at(TRASHB26, 1, 1, (0, 30 + (3 - k) * 14)) + wait(1)
+    w += se(s["bslam"]) + func(34, 8, 0, 1, rgb(150, 200, 60), 13, 0) + func(48)
+    for k in range(12):
+        w += emit_at(TRASHB26, 1, 1, (0, 22)) + emit_at(TRASH26, 2, 0, truck)
+        if k % 4 == 0:
+            w += emit_at(TRASHB26, 0, 1, (0, 40)) + se(s["toxic"] if k == 0 else s["cough"])
+        w += wait(1)
+    return w + wait(2)
+
+
+def _comeback(side, s):
+    """Reversal (Comeback): the scoreboard - HOME 0, AWAY 99. Brutal. HOME 1, AWAY 99. Then the buzzer beater: HOME 100.
+    The crowd loses it, and the comeback lands on the foe."""
+    sx = _sx(side)
+    sb = _s23(side, 0, (108, 80))
+    w = se(s["pop"]) + _hold(SCORE26, 1, 0, sb, 8, lambda k: (se(s["faint"]) + func(34, 2, 0, 1, rgb(120, 120, 140), 9, 0)) if k == 2 else [])
+    w += se(s["bling"]) + _hold(SCORE26, 2, 0, sb, 8)                         # 1 - 99
+    w += se(s["alarm"]) + flash_screen(4) + emit_at(SCORE26, 0, 0, (sb[0], sb[1] + 20)) + se(s["chaching"])   # BUZZER BEATER
+    w += _hold(SCOREB26, 1, 0, sb, 8, lambda k: func(34, 2, 0, 1, rgb(255, 220, 80), 12, 0) if k == 1 else [])
+    w += bmove(side, 258, 2, sx * 24, 8) + se(s["kaboom"]) + flash_screen(3) + emit_at(SCOREB26, 0, 1, (0, 22))
+    w += shake_defender(4, 3) + func(48) + bmove(side, 258, 4, -sx * 24, -8)
+    return w + _hold(SCOREB26, 1, 0, sb, 4)
+
+
+def _wish_list(side, s):
+    """Wish (Wish List): a birthday cake. They blow out the candles - they relight. Blow - they relight (trick
+    candles). One giant blow and the whole cake goes flying. Wish granted."""
+    sx = _sx(side)
+    ck = _s23(side, 0, (106, 88))
+    w = se(s["pop"]) + _hold(CAKE26, 1, 0, ck, 4)
+    for n in range(2):                                                         # blow... *relights*
+        w += se(s["gust"]) + bmove(side, 258, 2, sx * 4, 2) + _hold(CAKE26, 2, 0, ck, 5) + bmove(side, 258, 2, -sx * 4, -2)
+        w += se(s["ember"]) + _hold(CAKE26, 1, 0, ck, 4 + n, lambda k: shake_attacker(1, 1) if k == 1 and n == 1 else [])
+    w += _hold(CAKE26, 1, 0, ck, 2) + se(s["gust"]) + se(s["whoosh"]) + bmove(side, 258, 2, sx * 8, 4)   # FWOOOO
+    w += _lob(CAKE26, 2, side, ck, (ck[0] + sx * 140, ck[1] + 60), 6, 30) + bmove(side, 258, 2, -sx * 8, -4)
+    w += se(s["bling"]) + se(s["absorb"]) + emit_at(CAKE26, 0, 0, (0, 20)) + func(34, 2, 0, 1, rgb(255, 240, 140), 11, 0)
+    return w + wait(8)
+
+
+def _deep_end(side, s):
+    """Dive (Deep End), two turns. Turn 1: a kiddie pool - they hop up and CANNONBALL in - splash - gone. Turn 2: a
+    pool under the foe, bubbles... then they burst up out of it and launch the foe."""
+    py = _p(side, 18, -4)
+    one = se(s["pop"]) + _hold(POOL26, 1, 0, (0, py), 3)
+    one += bmove(side, 258, 3, 0, 24) + _hold(POOL26, 1, 0, (0, py - 24), 3)       # *hops up*
+    one += se(s["whoosh"]) + bmove(side, 258, 2, 0, -24) + _hold(POOL26, 1, 0, (0, py), 1)
+    one += se(s["splash"]) + se(s["surf"]) + emit_at(POOL26, 0, 0, (0, py + 12)) + func(40, 2, 1)   # CANNONBALL
+    one += _hold(POOL26, 1, 0, (0, py), 8)
+    fy = _p(side, 6, -16)
+    two = se(s["pop"]) + _hold(POOL26, 1, 1, (0, fy), 3)
+    for k in range(6):                                                         # *bubbles*
+        two += emit_at(POOL26, 1, 1, (0, fy)) + (emit_at(POOL26, 3, 1, (((k * 7) % 20) - 10, fy + 6)) if k % 2 == 0 else []) + wait(1)
+    two += se(s["splash"]) + se(s["wfall"]) + emit_at(POOL26, 0, 1, (0, fy + 10)) + func(40, 2, 0) + flash_screen(3)   # SPLOOSH
+    two += bmove(side, 264, 3, 0, 22) + shake_defender(3, 2) + _hold(POOL26, 1, 1, (0, fy - 22), 3)
+    two += bmove(side, 264, 4, 0, -22) + func(48)
+    return one, two + _hold(POOL26, 1, 1, (0, fy), 3)
+
+
+def _deep_end_turn2_first(side, s):
+    """Test only: Deep End's second turn on its own (vanishes the attacker first, like the real turn 1)."""
+    return func(40, 2, 1) + _deep_end(side, s)[1]
+
+
+def _pillow_fight(side, s):
+    """FeatherDance (Pillow Fight): a pillow upside the foe's head - whack - whack - then one whack too hard and it
+    bursts. Feathers everywhere."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = []
+    for n in range(3):                                                         # whack... whack... WHACK
+        w += se(s["whoosh"]) + _lob(PILLOW26, 1, side, (sx * 20, 34), (dx - sx * 6, dy + 36), 4, 14)
+        w += se(s["flop"] if n < 2 else s["bslam"]) + shake_defender(1 + n, 2)
+        if n < 2:
+            w += emit_at(PILLOW26, 0, 1, (0, 36)) + _lob(PILLOW26, 1, side, (dx - sx * 6, dy + 36), (sx * 20, 34), 4, 10)
+    w += emit_at(PILLOW26, 2, 1, (0, 36)) + flash_screen(2) + func(34, 8, 0, 1, rgb(200, 200, 230), 11, 0)   # *POOF*
+    return w + wait(14)
+
+
+def _bad_sushi(side, s):
+    """Poison Fang (Bad Sushi): a tray of gas station sushi. One piece into the foe - gulp. Another - they go green.
+    Then the whole tray - badly poisoned."""
+    sx = _sx(side)
+    tray = _p(side, (-79, -5), (46, 40))
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    mouth = (dx, dy + 26)
+    tray_a = (dx + tray[0], dy + tray[1])
+    t = lambda: emit_at(SUSHI26, 1, 1, tray)
+    w = se(s["pop"]) + _hold(SUSHI26, 1, 1, tray, 4)
+    for n in range(2):                                                         # gulp... gulp...
+        w += se(s["whoosh"]) + _lob(SUSHI26, 2, side, (tray_a[0], tray_a[1] + 10), mouth, 4, 14, lambda k: t())
+        w += se(s["crunch"]) + t() + shake_defender(1, 1) + wait(1)
+        if n == 1:
+            w += func(34, 8, 0, 1, rgb(150, 210, 80), 9, 0) + se(s["cough"])
+        w += _hold(SUSHI26, 1, 1, tray, 4)
+    w += se(s["whoosh"]) + _lob(SUSHI26, 1, side, tray_a, mouth, 4, 18)        # THE WHOLE TRAY
+    w += se(s["crunch"]) + se(s["toxic"]) + func(34, 8, 0, 1, rgb(170, 70, 200), 14, 0) + shake_defender(3, 3)
+    for k in range(12):
+        if k % 3 == 0:
+            w += emit_at(SUSHI26, 0, 1, (0, 30))
+        if k == 6:
+            w += se(s["toxic2"])
+        w += wait(1)
+    return w + wait(2)
+
+
+def _blindside(side, s):
+    """Shadow Punch (Blindside): they duck under a cardboard box and creep up on the foe. The foe turns - the box
+    freezes. Creep. The foe turns - frozen. "!" - then POW out of nowhere."""
+    sx = _sx(side)
+    path = _p(side, ((92, 104), (118, 92), (144, 82)), ((160, 86), (132, 98), (104, 110)))
+    pts = [_s23(side, 0, p) for p in path]
+    box = lambda i, r=1: emit_at(SNEAK26, r, 0, pts[i])
+    w = se(s["whoosh"]) + func(40, 2, 1) + _hold(SNEAK26, 1, 0, pts[0], 3)
+    for n in range(2):                                                         # creep... freeze
+        for k in range(3):
+            w += emit_at(SNEAK26, 1, 0, _lerp(pts[n], pts[n + 1], (k + 1) / 3)) + (se(s["swipe"]) if k == 0 else []) + wait(1)
+        w += bmove(side, 264, 2, -sx * 8, 0) + _hold(SNEAK26, 1, 0, pts[n + 1], 4) + bmove(side, 264, 2, sx * 8, 0)
+        w += _hold(SNEAK26, 1, 0, pts[n + 1], 2)
+    w += se(s["alarm"]) + _hold(SNEAK26, 2, 0, pts[2], 4)                    # "!"
+    w += func(40, 2, 0) + bmove(side, 258, 2, sx * 30, 12) + se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4)   # POW
+    w += emit_at(SNEAK26, 0, 1, (0, 22)) + shake_defender(4, 3) + func(48)
+    w += _lob(SNEAK26, 1, side, pts[2], (pts[2][0] + sx * 40, pts[2][1] + 60), 4, 20)
+    return w + bmove(side, 258, 4, -sx * 30, -12) + wait(2)
+
+
+def _uppercut(side, s):
+    """Sky Uppercut (Uppercut): an uppercut - the foe pops up. Another - higher. Then the big one: they go all the way
+    up and out of sight... *ding* ... and come crashing back down."""
+    w = []
+    for n, h in enumerate((10, 22)):                                           # pop... POP...
+        for k in range(3):
+            w += emit_at(UPPER26, 1, 1, (0, -20 + k * 14)) + wait(1)
+        w += se(s["bonk"]) + emit_at(UPPER26, 0, 1, (0, 20)) + bmove(side, 264, 2, 0, h) + wait(2)
+        w += bmove(side, 264, 3, 0, -h) + wait(2)
+    for k in range(3):                                                         # TO THE MOON
+        w += emit_at(UPPER26, 1, 1, (0, -20 + k * 16)) + wait(1)
+    w += se(s["kaboom"]) + flash_screen(4) + emit_at(UPPER26, 0, 1, (0, 22)) + bmove(side, 264, 4, 0, 120)
+    w += se(s["whoosh"]) + wait(6) + se(s["bling"]) + emit_at(UPPER26, 2, 1, (0, 150)) + wait(8)   # *ding*
+    w += se(s["whoosh"]) + bmove(side, 264, 4, 0, -120) + wait(1)
+    w += se(s["bslam"]) + shake_defender(4, 3) + func(68, 3, 3, 1, 3, 0) + func(48)
+    return w + wait(3)
+
+
+def _sandbag(side, s):
+    """Sand Tomb (Sandbag): sandbags thud down round the foe - left - right - one more on top. Walled in. (Replays
+    as a trap: short.)"""
+    spots = [(-22, -8), (22, -8), (-12, 6), (12, 6), (0, 40)]
+    on = []
+    dress = lambda: [w_ for i in on for w_ in emit_at(SAND26, 1, 1, spots[i])]
+    w = []
+    for n, sp in enumerate(spots):
+        for k in range(2):
+            w += emit_at(SAND26, 1, 1, (sp[0], sp[1] + 30 - k * 15)) + dress() + wait(1)
+        on.append(n)
+        w += se(s["bslam"] if n == 4 else s["sand"]) + emit_at(SAND26, 0, 1, (sp[0], sp[1] + 4)) + dress() + wait(1)
+    w += shake_defender(2, 2) + func(34, 8, 0, 1, rgb(210, 185, 130), 9, 0)
+    for k in range(8):
+        w += dress() + wait(1)
+    return w
+
+
+def _weed_whacker(side, s):
+    """Leaf Blade (Weed Whacker): rev - clippings fly. Rev - more clippings. Then they swing round and edge the foe."""
+    sx = _sx(side)
+    tr = _p(side, (sx * 28, 24), (-28, 14))
+    res = _p(side, 1, 2)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["pop"]) + _hold(WEED26, res, 0, tr, 2)
+    for n in range(2):                                                         # rev... rev...
+        w += se(s["rollout"])
+        for k in range(4):
+            w += emit_at(WEED26, res, 0, (tr[0] + (k % 2), tr[1])) + (emit_at(WEED26, 0, 0, (tr[0] + sx * 18, tr[1] - 16)) if k % 2 == 0 else []) + wait(1)
+        w += wait(2)
+    w += se(s["whoosh"]) + _lob(WEED26, res, side, tr, (dx - sx * 18, dy + 10), 4, 10)   # *EDGES*
+    w += se(s["rollout"]) + se(s["slash"])
+    for k in range(8):
+        w += emit_at(WEED26, res, 1, (-sx * 18 + (k % 2) * 3, 10))
+        if k % 2 == 0:
+            w += emit_at(WEED26, 0, 1, (0, 14)) + shake_defender(1 + (k == 6) * 2, 1)
+        w += wait(1)
+    w += flash_screen(3) + func(48)
+    return w + _lob(WEED26, res, side, (dx - sx * 18, dy + 10), tr, 4, 10)
+
+
+def _whack_a_mole(side, s):
+    """Hammer Arm (Whack-a-Mole): a mole pops out of a hole - WHACK - gone, missed. It pops out another hole - WHACK -
+    missed. Then the foe pops up. WHACK."""
+    sx = _sx(side)
+    holes = [_s23(side, 0, (108, 84)), _s23(side, 0, (146, 64))]
+    mres = _p(side, 1, 2)
+    hs = lambda: [w_ for h in holes for w_ in emit_at(MOLE26, 1, 0, h)]
+    w = se(s["pop"]) + _hold(MOLE26, 1, 0, holes[0], 3, lambda k: emit_at(MOLE26, 1, 0, holes[1]))
+    for n, h in enumerate(holes):                                              # *pop* - WHACK - missed
+        mole = (h[0], h[1] + 12)
+        for k in range(3):
+            w += emit_at(MOLE26, 2, 0, (mole[0], mole[1] - 10 + k * 5)) + hs() + wait(1)
+        w += emit_at(MOLE26, 2, 0, mole) + hs() + wait(1)
+        w += emit_at(MOLEB26, mres, 0, (mole[0] - sx * 6, mole[1] + 26)) + hs() + wait(1)
+        w += se(s["bonk"]) + emit_at(MOLEB26, mres, 0, (mole[0] - sx * 6, mole[1] + 10)) + emit_at(MOLE26, 0, 0, (h[0], h[1] + 4)) + hs() + wait(1)
+        w += _hold(MOLE26, 1, 0, holes[0], 3, lambda k: emit_at(MOLE26, 1, 0, holes[1]) + (se(s["disable"]) if k == 0 else []))
+    w += bmove(side, 264, 2, 0, 10) + se(s["pop"]) + _hold(MOLE26, 1, 0, holes[0], 2, lambda k: emit_at(MOLE26, 1, 0, holes[1]))   # *the foe pops up*
+    w += emit_at(MOLEB26, mres, 1, (-sx * 6, 54)) + hs() + wait(1)
+    w += se(s["bslam"]) + se(s["bonk"]) + flash_screen(4) + emit_at(MOLEB26, mres, 1, (-sx * 6, 38)) + emit_at(MOLE26, 0, 1, (0, 30))   # WHACK
+    w += bmove(side, 264, 2, 0, -10) + shake_defender(4, 3) + func(48) + hs() + wait(1)
+    return w + _hold(MOLE26, 1, 0, holes[0], 4, lambda k: emit_at(MOLE26, 1, 0, holes[1]))
+
+
+def _chia_pet(side, s):
+    """Seed Bomb (Chia Pet): a spray bottle mists the foe's head - sprouts. Mist - fuzz. Mist - a full chia afro. Then
+    it bursts."""
+    sx = _sx(side)
+    head = (0, 40)
+    sp = (-sx * 18, 44)
+    w = []
+    for n, (kit, res) in enumerate(((CHIA26, 1), (CHIA26, 2), (CHIAB26, 1))):  # *spritz*... grow
+        for k in range(3):
+            w += emit_at(CHIAB26, 2, 1, (sp[0] + (k % 2) * 2, sp[1])) + (se(s["spray"]) if k == 0 else []) + (emit_at(CHIA26, 0, 1, (head[0], head[1] + 8)) if k == 1 else [])
+            if n:                                                              # the last stage stays up while it's misted
+                w += emit_at(CHIA26, n, 1, head)
+            w += wait(1)
+        w += se(s["lseed"]) + _hold(kit, res, 1, (head[0], head[1] - (8 if n == 2 else 0)), 5)
+    w += se(s["kaboom"]) + flash_screen(4) + emit_at(CHIAB26, 0, 1, (0, 46)) + shake_defender(4, 3) + func(48)   # *POP*
+    return w + func(34, 8, 0, 1, rgb(120, 220, 90), 11, 0) + wait(8)
+
+
+def _jet_ski(side, s):
+    """Aqua Jet (Jet Ski): on a jet ski - rev, spray - rev, spray - then it rips across and rams the foe."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    ys = _p(side, (118, 78), (94, 116))
+    xs = _p(side, (66, 172), (186, 70))
+    at = lambda x: _s23(side, 0, (x, round(ys[0] + (ys[1] - ys[0]) * (x - xs[0]) / (xs[1] - xs[0]))))
+    w = se(s["whoosh"]) + func(40, 2, 1) + _hold(SKI26, res, 0, at(xs[0]), 2)
+    for n in range(2):                                                         # rev... rev...
+        w += se(s["rollout"])
+        for k in range(4):
+            w += emit_at(SKI26, res, 0, (at(xs[0])[0], at(xs[0])[1] + (k % 2) * 2)) + (emit_at(SKI26, 0, 0, (at(xs[0])[0] - sx * 26, at(xs[0])[1] - 6)) if k % 2 == 0 else []) + wait(1)
+    w += se(s["jet"]) + se(s["surf"])
+    for k in range(5):                                                         # ZOOM
+        x = round(xs[0] + (xs[1] - xs[0]) * ((k + 1) / 5) ** 1.3)
+        w += emit_at(SKI26, res, 0, at(x)) + emit_at(SKI26, 0, 0, (at(x)[0] - sx * 30, at(x)[1] - 6)) + wait(1)
+    w += se(s["splash"]) + se(s["bslam"]) + flash_screen(3) + emit_at(SKI26, 3, 1, (0, 14)) + shake_defender(4, 3) + func(48)
+    w += _hold(SKI26, res, 0, at(xs[1]), 3) + func(40, 2, 0)
+    return w + wait(3)
+
+
+def _back_alley(side, s):
+    """Shadow Sneak (Back Alley): footsteps behind the foe - step, step - they spin round: nothing. Step, step - they
+    spin round: nothing. Then the hit comes from behind."""
+    sx = _sx(side)
+    w = func(40, 2, 1) + wait(2)
+    for n in range(2):                                                         # step... step... *turns*
+        for k in range(2):
+            w += se(s["swipe"]) + emit_at(ALLEY26, 0, 1, (sx * (22 + k * 8 - n * 4), -16 + k * 4)) + wait(4)
+        w += bmove(side, 264, 2, sx * 10, 0) + se(s["leer"]) + wait(5) + bmove(side, 264, 2, -sx * 10, 0) + wait(3)
+    w += se(s["shadow"]) + wait(2)                                              # *from behind*
+    w += se(s["kaboom"]) + flash_screen(4) + shake_defender(4, 3) + bmove(side, 264, 3, -sx * 16, 0)
+    w += wait(4) + bmove(side, 264, 3, sx * 16, 0) + func(40, 2, 0)
+    return w + wait(3)
+
+
+def _finesse(side, s):
+    """Covet (Finesse): "LEMME SEE THAT" - the foe's fresh snapback (sticker still on). They snatch it, try it on, check
+    the fit... and just walk off with it."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    bub = _s23(side, 0, _p(side, (100, 80), (126, 34)))
+    foe_hat, my_hat = _p(side, ((FINB26, 1), (FIN26, 2)), ((FIN26, 2), (FINB26, 1)))
+    on_foe = lambda: emit_at(foe_hat[0], foe_hat[1], 1, (0, 32))
+    w = se(s["pop"]) + _hold(FIN26, 1, 0, bub, 12, lambda k: on_foe() + (se(s["leer"]) if k == 6 else []))   # LEMME SEE THAT
+    w += _hold(foe_hat[0], foe_hat[1], 1, (0, 32), 3)
+    w += se(s["swipe"]) + shake_defender(1, 2) + _lob(my_hat[0], my_hat[1], side, (dx, dy + 32), (0, 44), 6, 18)   # *snatch*
+    for n in range(2):                                                         # fit check
+        w += bmove(side, 258, 2, 0, 4) + _hold(my_hat[0], my_hat[1], 0, (0, 44), 2) + bmove(side, 258, 2, 0, -4)
+        w += _hold(my_hat[0], my_hat[1], 0, (0, 44), 2)
+    w += se(s["bling"]) + emit_at(FIN26, 0, 0, (0, 48)) + _hold(my_hat[0], my_hat[1], 0, (0, 44), 4)
+    w += se(s["whoosh"]) + bmove(side, 258, 8, -sx * 72, 0)                    # ...and walks off (emits stay base-relative)
+    for k in range(4):
+        w += emit_at(my_hat[0], my_hat[1], 0, (-sx * 18 * (k + 1), 44)) + wait(1)
+    w += shake_defender(2, 3) + wait(6) + bmove(side, 258, 6, sx * 72, 0)
+    for k in range(3):
+        w += emit_at(my_hat[0], my_hat[1], 0, (-sx * 24 * (2 - k), 44)) + wait(1)
+    return w + _hold(my_hat[0], my_hat[1], 0, (0, 44), 3)
+
+
+def _ext_cord(side, s):
+    """Power Whip (Ext. Cord): somebody went and got the extension cord. It sits there coiled - the foe sees it and
+    shakes. Folded in half. Swing - the foe flinches. Swing - flinch. Then WHAP WHAP WHAP."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    coil = (sx * 30, 18)
+    res = _p(side, 1, 2)
+    at = (dx - sx * 34, dy + 18)
+    w = se(s["pop"]) + _hold(CORDB26, 1, 0, coil, 6, lambda k: shake_defender(1, 2) if k == 3 else [])
+    for n in range(2):                                                         # swing... swing...
+        w += se(s["whoosh"]) + emit_at(CORD26, res, 0, (at[0] - sx * 20, at[1] + 14)) + wait(1)
+        w += emit_at(CORD26, res, 0, at) + bmove(side, 264, 2, sx * 10, 0) + wait(1)
+        w += emit_at(CORD26, res, 0, (at[0] - sx * 20, at[1] + 14)) + wait(2) + bmove(side, 264, 2, -sx * 10, 0) + wait(2)
+    for k in range(3):                                                         # WHAP WHAP WHAP
+        w += emit_at(CORD26, res, 0, (at[0] - sx * 20, at[1] + 14)) + wait(1)
+        w += se(s["vwhip"]) + se(s["dslap"] if k < 2 else s["bslam"]) + emit_at(CORD26, res, 0, (at[0] + sx * 6, at[1] - 6))
+        w += emit_at(CORD26, 0, 1, (0, 20)) + shake_defender(1 + k, 2) + wait(1)
+    w += flash_screen(3) + func(34, 8, 0, 1, rgb(255, 90, 90), 9, 0) + func(48)
+    return w + wait(6)
+
+
+def _two_by_four(side, s):
+    """Wood Hammer (Two-by-Four): measure twice... (the tape measure goes across the foe, then again) ...cut once: a 2x4
+    upside their head. Splinters everywhere - and the attacker's hands sting too."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    tres, bres = _p(side, 1, 2), _p(side, 1, 2)
+    w = []
+    for n, h in enumerate((14, 30)):                                           # measure... measure again
+        for k in range(3):
+            w += emit_at(PLANK26, tres, 1, (-sx * (30 - k * 6), h)) + wait(1)
+        w += se(s["clock"]) + _hold(PLANK26, tres, 1, (-sx * 12, h), 5)
+    w += wait(3) + se(s["whoosh"])
+    for k, (x, y) in enumerate(((sx * 14, 50), (dx * .4, dy + 70), (dx - sx * 26, dy + 52))):   # ...swing once
+        w += emit_at(PLANKB26, bres, 0, (round(x), round(y))) + wait(1)
+    w += se(s["wslap"]) + se(s["crack"]) + flash_screen(4) + emit_at(PLANKB26, bres, 0, (dx - sx * 18, dy + 30))
+    w += emit_at(PLANK26, 0, 1, (0, 26)) + shake_defender(4, 3) + func(48) + wait(2)
+    w += _hold(PLANKB26, bres, 0, (dx - sx * 18, dy + 30), 4)
+    w += bmove(side, 258, 2, -sx * 10, 0) + func(34, 2, 0, 1, rgb(255, 120, 120), 9, 0) + wait(3)   # recoil: that stung
+    return w + bmove(side, 258, 3, sx * 10, 0) + wait(2)
+
+
+def _kick_back(side, s):
+    """Slack Off (Kick Back): a recliner under them. Pull the lever - *clunk* - footrest pops out. Lay all the way back.
+    Ahhhh - HP comes back."""
+    sx = _sx(side)
+    seat = _p(side, (0, -4), (0, -2))
+    st = _p(side, ((RECL26, 1), (RECL26, 2), (RECLB26, 1)), ((RECLB26, 2), (RECLC26, 1), (RECLC26, 2)))
+    w = se(s["pop"]) + _hold(st[0][0], st[0][1], 0, seat, 6)
+    w += se(s["clock"]) + bmove(side, 258, 2, 0, -4) + _hold(st[1][0], st[1][1], 0, seat, 6)   # *clunk* - footrest
+    w += se(s["flop"]) + bmove(side, 258, 2, -sx * 4, -4) + _hold(st[2][0], st[2][1], 0, seat, 4)   # all the way back
+    w += se(s["rest"]) + func(34, 2, 0, 1, rgb(140, 255, 160), 12, 0)
+    for k in range(10):                                                        # ahhhh
+        w += emit_at(st[2][0], st[2][1], 0, seat) + (emit_at(RECL26, 0, 0, (0, 30)) if k % 3 == 0 else []) + wait(1)
+    w += bmove(side, 258, 3, sx * 4, 8) + _hold(st[0][0], st[0][1], 0, seat, 3)
+    return w
+
+
+def _slow_jam(side, s):
+    """GrassWhistle (Slow Jam): setting the mood around the foe - a candle lit - another - another. The slow jam comes
+    on, love notes drift over, the foe sways... and dozes right off."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    spots = [(-30, 2), (30, 2), (sx * 44, 18)]
+    lit = []
+    cs = lambda: [w_ for i, p in enumerate(spots) for w_ in emit_at(JAM26, 1 if i in lit else 2, 1, p)]
+    w = se(s["pop"]) + _hold(JAM26, 2, 1, spots[0], 3, lambda k: emit_at(JAM26, 2, 1, spots[1]) + emit_at(JAM26, 2, 1, spots[2]))
+    for i in range(3):                                                         # *flick* - lit, lit, lit
+        lit.append(i)
+        w += se(s["ember"])
+        for k in range(3):
+            w += cs() + wait(1)
+    w += se(s["sscent"])
+    for k in range(16):                                                        # the slow jam: notes drift over, the foe sways
+        if k % 2 == 0:
+            t = (k % 8) / 8
+            w += emit_at(JAM26, 0, 0, (round(dx * t), round(dy * t + 30)))
+        if k in (2, 8):
+            w += bmove(side, 264, 3, sx * 6, 0)
+        if k in (5, 11):
+            w += bmove(side, 264, 3, -sx * 6, 0)
+        w += cs() + wait(1)
+    w += se(s["yawn"]) + bmove(side, 264, 3, 0, -6) + func(34, 8, 0, 1, rgb(80, 80, 160), 10, 0)   # ...out
+    for k in range(10):
+        w += (emit_at(JAMB26, 0, 1, (sx * 14, 36)) if k % 3 == 0 else []) + cs() + wait(1)
+    return w + bmove(side, 264, 3, 0, 6) + wait(2)
+
+
+def _send_it(side, s):
+    """Brave Bird (Send It): up on the projects roof in a bedsheet cape. Hop - nothing. Hop - nothing. Then they SEND
+    IT: up off the top of the screen and back down on the foe in a ball of fire. Crater. They're seeing stars."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    cres = _p(side, 1, 2)
+    roof = (0, 8)
+    cape = lambda j=0: emit_at(SEND27, cres, 0, (-sx * (14 + j), 18))
+    scene = lambda j=0: emit_at(SENDB27, 1, 0, roof) + cape(j)
+    w = se(s["pop"]) + bmove(side, 258, 2, 0, 8)
+    for k in range(5):
+        w += scene() + wait(1)
+    for n in range(2):                                                         # hop... nothing. hop... nothing.
+        w += se(s["whoosh"]) + bmove(side, 258, 2, 0, 10)
+        for k in range(3):
+            w += emit_at(SENDB27, 1, 0, roof) + cape(k % 2 * 3) + wait(1)
+        w += bmove(side, 258, 2, 0, -10) + _hold(SENDB27, 1, 0, roof, 4, lambda k: cape())
+    w += se(s["gust"]) + func(33, 0, 1, 0, 14, 0) + bmove(side, 258, 3, 0, 130)   # SEND IT
+    for k in range(5):
+        w += emit_at(SENDB27, 1, 0, roof) + wait(1)
+    w += se(s["flame"]) + bmove(side, 258, 4, dx, dy - 138)
+    for k in range(5):                                                         # the fireball comes down
+        t = (k + 1) / 5
+        x, y = round(dx * t), round(138 + (dy - 138) * t)
+        w += emit_at(SEND27, 0, 0, (x, y + 20)) + emit_at(SEND27, 0, 0, (x - sx * 8, y + 34)) + wait(1)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(6) + func(68, 6, 6, 1, 12, 0)
+    w += emit_at(SENDB27, 3, 1, (0, 10)) + emit_at(SENDB27, 2, 1, (0, -10)) + shake_defender(5, 4) + func(48)
+    for k in range(8):
+        w += emit_at(SENDB27, 2, 1, (0, -10)) + (emit_at(SEND27, 0, 1, (sx * (k - 4) * 4, 6)) if k % 2 == 0 else []) + wait(1)
+    w += bmove(side, 258, 4, -dx, -dy) + func(33, 0, 1, 14, 0, 0) + wait(2)   # *recoil*
+    for k in range(10):
+        w += (emit_at(SENDB27, 0, 0, (0, 40)) if k % 4 == 0 else []) + wait(1)
+    return w + func(34, 2, 0, 1, rgb(255, 120, 120), 11, 0) + shake_attacker(2, 3)
+
+
+def _allergy_szn(side, s):
+    """Seed Flare (Allergy Szn): the TV pollen count - HIGH. The foe sniffles. VERY HIGH - pollen everywhere. EXTREME
+    - a giant flower bursts open beside the foe and the whole screen goes yellow. ACHOO! - blown clean back."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    brd = _s23(side, 0, (104, 86))
+    flw = (-sx * 40, 12)
+    w = []
+    for n, (kit, res) in enumerate(((POLL27, 1), (POLL27, 2), (POLLB27, 1))):  # HIGH... VERY HIGH... EXTREME
+        w += se(s["alarm"] if n == 2 else s["pop"])
+        for k in range(8 + n * 2):
+            w += emit_at(kit, res, 0, brd)
+            if k % (4 - n) == 0:
+                w += emit_at(POLL27, 0, 1, (sx * (k * 9 % 40 - 20), 20 + k * 3 % 20))
+            if k == 4:
+                w += shake_defender(1 + n, 2) + (se(s["sscent"]) if n else [])
+            w += wait(1)
+    w += func(33, 0, 1, 0, 12, 0) + se(s["lseed"]) + _hold(POLLC27, 1, 1, flw, 5)   # the bud
+    w += se(s["kaboom"]) + se(s["sbomb"]) + flash_screen(5) + func(68, 5, 5, 1, 10, 0)   # *FWOOMP*
+    for k in range(12):                                                        # pollen EVERYWHERE
+        w += emit_at(POLLB27, 2, 1, flw)
+        if k % 2 == 0:
+            w += emit_at(POLLB27, 0, 1, (flw[0] + sx * (k * 7 % 30), 20 + k * 2)) + func(34, 8, 0, 1, rgb(250, 220, 60), 13, 0)
+        w += wait(1)
+    w += _hold(POLLB27, 2, 1, flw, 3) + se(s["bslam"]) + se(s["boom"]) + flash_screen(4)   # ACHOO!
+    w += emit_at(POLLC27, 2, 1, (sx * 6, 52)) + emit_at(POLL27, 0, 1, (0, 30)) + bmove(side, 264, 2, sx * 24, 0)
+    for k in range(8):
+        w += emit_at(POLLC27, 2, 1, (sx * 6, 52)) + emit_at(POLLB27, 2, 1, flw) + wait(1)
+    w += bmove(side, 264, 4, -sx * 24, 0) + wait(3) + func(48) + func(33, 0, 1, 12, 0, 0)   # func 48 restores the spot it saw: after the return
+    return w + wait(4)
+
+
+def _blackout(side, s):
+    """Dark Void (Blackout): the city skyline at night. The lights flicker - a block goes dark. Another. Then the whole
+    city: pitch black. Just a pair of eyes in the dark... and the foe's out cold."""
+    sx = _sx(side)
+    sky = _s23(side, 0, _p(side, (92, 80), (128, 62)))
+    eyes = (0, 34)
+    w = se(s["pop"]) + _hold(DARK27, 1, 0, sky, 6)
+    w += func(33, 0, 1, 0, 8, 0)
+    for n, (kit, res) in enumerate(((DARK27, 1), (DARK27, 2), (DARK27, 1), (DARK27, 2))):   # *flicker*
+        w += emit_at(kit, res, 0, sky) + (se(s["zap"]) if n == 1 else []) + wait(1)
+    w += se(s["disable"]) + _hold(DARK27, 2, 0, sky, 7)                      # a block goes dark
+    w += se(s["zap"]) + func(33, 0, 1, 8, 16, 0) + _hold(DARKB27, 1, 0, sky, 6)   # the whole city
+    w += se(s["shadow"]) + func(34, 8, 0, 1, rgb(10, 10, 20), 15, 0) + func(34, 2, 0, 1, rgb(10, 10, 20), 15, 0)
+    w += _hold(DARKB27, 1, 0, sky, 6)
+    for k in range(12):                                                        # just eyes. blink.
+        if k not in (5, 6):
+            w += emit_at(DARKB27, 2, 0, eyes)
+        if k == 2:
+            w += se(s["mlook"])
+        w += wait(1)
+    w += se(s["sleep"]) + shake_defender(2, 2)
+    for k in range(12):
+        w += (emit_at(DARKB27, 0, 1, (sx * 14, 36)) if k % 3 == 0 else []) + (emit_at(DARKB27, 2, 0, eyes) if k < 6 else []) + wait(1)
+    w += func(33, 0, 1, 16, 0, 0) + func(34, 8, 0, 1, rgb(80, 80, 160), 10, 0)
+    return w + wait(4)
+
+
+def _aura_farm(side, s):
+    """Aura Sphere (Aura Farm): a pose - "+100 AURA". A cooler pose - "+500 AURA". Then they cash ALL of it in: the
+    screen goes dark, a giant aura ball - thrown - and "+10000 AURA"."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    tag = _p(side, (sx * 34, 58), (-34, 30))
+    w = []
+    for n in range(2):                                                         # pose... +100. pose... +500.
+        w += se(s["swipe"]) + bmove(side, 258, 2, sx * (4 if n else -4), 6) + emit_at(AURA27, 0, 0, (0, 26))
+        w += se(s["bling"]) + _hold(AURA27, 1 + n, 0, tag, 9) + bmove(side, 258, 2, -sx * (4 if n else -4), -6) + wait(2)
+    w += func(33, 0, 1, 0, 14, 0) + se(s["focus"])                           # cash it ALL in
+    orb = (sx * 18, 34)
+    for k in range(10):
+        w += emit_at(AURAB27, 2, 0, (orb[0], orb[1] + (k % 2)))
+        if k % 3 == 0:
+            w += emit_at(AURA27, 0, 0, orb) + func(34, 2, 0, 1, rgb(170, 120, 255), 12, 0)
+        w += wait(1)
+    w += se(s["sbeam"]) + _lob(AURAB27, 2, side, orb, (dx, dy + 24), 4, 4)
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(6) + func(68, 6, 6, 1, 12, 0)
+    w += emit_at(AURA27, 3, 1, (0, 24)) + shake_defender(5, 4) + func(34, 8, 0, 1, rgb(170, 120, 255), 14, 0) + func(48)
+    w += func(33, 0, 1, 14, 0, 0) + se(s["bling"])
+    for k in range(12):                                                        # +10000 AURA
+        w += emit_at(AURAB27, 1, 0, tag) + (emit_at(AURA27, 0, 0, (0, 30)) if k % 4 == 0 else []) + wait(1)
+    return w
+
+
+def _rush_hour(side, s):
+    """Dragon Rush (Rush Hour): the subway pulls in - screech - doors open - and the entire rush hour pours out and
+    stampedes right over the foe. Coffee, briefcases, nobody stops."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    kit = _p(side, RUSH27, RUSHB27)
+    y = _p(side, 96, 80)
+    xs = _p(side, (-60, 104), (320, 150))
+    door = _s23(side, 0, (xs[1] + sx * 12, y + 2))
+    at = lambda x: _s23(side, 0, (x, y))
+    w = se(s["whoosh"]) + func(33, 0, 1, 0, 10, 0)
+    for k in range(6):                                                         # it pulls in
+        t = 1 - (1 - (k + 1) / 6) ** 2
+        w += emit_at(kit, 1, 0, at(round(xs[0] + (xs[1] - xs[0]) * t))) + (se(s["rollout"]) if k % 2 == 0 else []) + wait(1)
+    w += se(s["sface"]) + emit_at(RUSH27, 0, 0, at(xs[1] - sx * 30)) + _hold(kit, 1, 0, at(xs[1]), 5)   # *screech*
+    w += se(s["alarm"]) + _hold(kit, 2, 0, at(xs[1]), 3)                     # ding - doors open
+    goal = (dx + sx * 40, dy + 4)
+    for k in range(16):                                                        # THE STAMPEDE
+        w += emit_at(kit, 2, 0, at(xs[1]))
+        for j in range(2):
+            t = ((k * 2 + j) % 6 + 1) / 6
+            p = _lerp(door, goal, t)
+            w += emit_at(RUSHC27, 1 + (k + j) % 2, 0, (p[0], p[1] + (j * 6 - 3)))
+        if k % 3 == 0:
+            w += se(s["flop"] if k % 6 else s["bslam"]) + shake_defender(2, 1) + emit_at(RUSHC27, 0, 1, (0, 14))
+        if k == 6:
+            w += func(68, 4, 4, 1, 10, 0)
+        w += wait(1)
+    w += se(s["kaboom"]) + flash_screen(4) + _hold(kit, 1, 0, at(xs[1]), 3)
+    w += wait(2) + func(48) + func(33, 0, 1, 10, 0, 0)
+    for k in range(5):                                                         # it pulls out
+        w += emit_at(kit, 1, 0, at(xs[1] + sx * 40 * (k + 1))) + wait(1)
+    return w + wait(2)
+
+
+def _rip_shirt(side, s):
+    """Memento (RIP Shirt): they sway... sway... and drop. The airbrushed R.I.P. tee drifts down onto the foe - who
+    wears it, tearing up, and just deflates."""
+    sx = _sx(side)
+    w = []
+    for n in range(2):                                                         # sway... sway...
+        w += bmove(side, 258, 3, sx * 6 * (1 if n == 0 else -2), 0) + wait(3)
+    w += bmove(side, 258, 3, sx * 6, 0) + se(s["faint"]) + bmove(side, 258, 4, 0, -14)   # *drops*
+    w += func(34, 2, 0, 1, rgb(90, 90, 100), 13, 0) + wait(6)
+    w += se(s["mlook"])
+    for k in range(6):                                                         # the tee drifts down
+        w += emit_at(RIP27, 1, 1, (sx * (k % 2) * 3, 74 - k * 10)) + wait(1)
+    w += se(s["flop"]) + _hold(RIP27, 1, 1, (0, 14), 4)
+    for k in range(14):                                                        # tears
+        if k % 2 == 0:
+            w += emit_at(RIP27, 0, 1, (-6 + (k % 4) * 3, 50))
+        w += emit_at(RIP27, 1, 1, (0, 14))
+        if k == 4:
+            w += se(s["cry"] if "cry" in s else s["leer"]) + bmove(side, 264, 3, 0, -6) + func(34, 8, 0, 1, rgb(60, 70, 140), 12, 0)
+        w += wait(1)
+    w += bmove(side, 264, 3, 0, 6) + bmove(side, 258, 4, 0, 14)
+    return w + wait(2)
+
+
+def _fresh_fit(side, s):
+    """Refresh (Fresh Fit): they're covered in lint. The lint roller - roll, half of it's gone. Roll - all gone. Then a
+    spritz of cologne - spritz - SPRITZ - fresh."""
+    sx = _sx(side)
+    lint = [(-12, 18), (10, 30), (-4, 40), (14, 12), (-14, 34)]
+    gone = []
+    dots = lambda: [w_ for i, p in enumerate(lint) if i not in gone for w_ in emit_at(FRESH27, 0, 0, p)]
+    w = se(s["pop"]) + _hold(FRESH27, 0, 0, lint[0], 4, lambda k: dots())
+    for n in range(2):                                                         # roll... roll...
+        w += se(s["rollout"])
+        for k in range(5):
+            w += emit_at(FRESH27, 1, 0, (sx * 2, 46 - k * 8)) + dots() + wait(1)
+            if k == 2:
+                gone += [n * 2, n * 2 + 1] + ([4] if n else [])
+    w += _hold(FRESH27, 2, 0, (sx * 30, 40), 3)
+    for n in range(3):                                                         # spritz, spritz, SPRITZ
+        w += se(s["spray"]) + emit_at(FRESH27, 2, 0, (sx * 30, 40)) + emit_at(FRESHC27, 0, 0, (sx * 16, 40 - n * 4))
+        w += _hold(FRESH27, 2, 0, (sx * 30, 40), 2 + n)
+    w += se(s["bling"]) + emit_at(FRESHB27, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(255, 250, 220), 12, 0)
+    return w + wait(10)
+
+
+def _hotfoot(side, s):
+    """Blaze Kick (Hotfoot): slides and socks on summer asphalt - the heat shimmering. Hop - ow. Hop - OW. The slide
+    catches fire - and they kick it off right into the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    road = (0, 8)
+    foot = (sx * 10, 16)
+    w = se(s["pop"]) + _hold(HOT27, 1, 0, road, 5)
+    for n in range(2):                                                         # hop - ow. hop - OW.
+        w += se(s["ember"]) + bmove(side, 258, 2, 0, 8 + n * 4) + _hold(HOT27, 1, 0, road, 2)
+        w += bmove(side, 258, 2, 0, -8 - n * 4) + func(34, 2, 0, 1, rgb(255, 90, 60), 9 + n * 2, 0) + _hold(HOT27, 1, 0, road, 3)
+    w += se(s["flame"])
+    for k in range(5):                                                         # it catches
+        w += emit_at(HOT27, 1, 0, road) + emit_at(HOT27, 2, 0, foot) + (emit_at(HOT27, 0, 0, foot) if k == 2 else []) + wait(1)
+    w += se(s["whoosh"]) + _lob(HOT27, 2, side, foot, (dx, dy + 20), 5, 18, lambda k: emit_at(HOT27, 1, 0, road))   # KICKED
+    w += se(s["kaboom"]) + se(s["burn"]) + flash_screen(4) + emit_at(HOT27, 0, 1, (0, 20)) + emit_at(HOT27, 0, 1, (0, 34))
+    w += shake_defender(4, 3) + func(34, 8, 0, 1, rgb(255, 130, 40), 13, 0) + func(48)
+    for k in range(6):
+        w += emit_at(HOT27, 1, 0, road) + wait(1)
+    return w
+
+
+def _space_jam(side, s):
+    """Meteor Mash (Space Jam): a street hoop appears over the foe's head. A twinkle up in the sky. A bigger twinkle.
+    Then a basketball on fire comes in from orbit - through the hoop - SWISH - right onto the foe."""
+    sx = _sx(side)
+    hoop = (0, 62)
+    res = _p(side, 1, 2)
+    top = (-sx * 70, 150)
+    w = se(s["pop"]) + _hold(SPACEB27, 1, 1, hoop, 4)
+    for n in range(2):                                                         # *twinkle* ... *TWINKLE*
+        w += se(s["bling"]) + emit_at(SPACE27, 0, 1, (top[0] + sx * 20 * n, top[1] - 30 - n * 10))
+        w += _hold(SPACEB27, 1, 1, hoop, 6)
+    w += func(33, 0, 1, 0, 10, 0) + se(s["mbomb"])
+    for k in range(6):                                                         # incoming
+        t = (k + 1) / 6
+        w += emit_at(SPACE27, res, 1, (round(top[0] * (1 - t)) - sx * 10, round(top[1] + (hoop[1] - 4 - top[1]) * t))) + emit_at(SPACEB27, 1, 1, hoop) + wait(1)
+    w += se(s["swipe"]) + emit_at(SPACEB27, 1, 1, (hoop[0], hoop[1] - 3)) + emit_at(SPACE27, res, 1, (-sx * 10, 28)) + wait(1)   # SWISH
+    w += se(s["kaboom"]) + se(s["explo"]) + flash_screen(5) + func(68, 5, 5, 1, 10, 0) + emit_at(SPACE27, 3, 1, (0, 22))
+    w += shake_defender(5, 3) + func(48)
+    for k in range(6):
+        w += emit_at(SPACEB27, 1, 1, (hoop[0] + (k % 2) * 2, hoop[1])) + wait(1)
+    return w + func(33, 0, 1, 10, 0, 0) + emit_at(SPACE27, 0, 0, (0, 30)) + wait(4)
+
+
+def _dirty_water(side, s):
+    """Muddy Water (Dirty Water): the foe's waiting at the bus stop, a puddle by the curb. A car flies through it -
+    SPLASH. Another - SPLASH. Then the bus. Soaked."""
+    sx = _sx(side)
+    stop = (sx * 30, 16)
+    pud = (0, -12)
+    lane = -18
+    scene = lambda: emit_at(DIRTB27, 1, 1, stop) + emit_at(DIRTB27, 0, 1, pud)
+    w = se(s["pop"]) + _hold(DIRTB27, 1, 1, stop, 5, lambda k: emit_at(DIRTB27, 0, 1, pud))
+    for n, (res, steps) in enumerate(((1, 5), (1, 5), (2, 7))):                # car... car... THE BUS
+        w += se(s["rollout"] if n < 2 else s["whoosh"])
+        for k in range(steps):
+            x = round(-150 + 300 * (k + 1) / (steps + 1))
+            w += emit_at(DIRT27, res, 1, (x, lane + (10 if n == 2 else 0))) + scene()
+            if k == steps // 2:
+                w += se(s["splash"] if n < 2 else s["surf"]) + emit_at(DIRT27, 3 if n == 2 else 0, 1, (0, 10))
+                w += shake_defender(1 + n, 2) + func(34, 8, 0, 1, rgb(140, 110, 60), 10 + n * 2, 0)
+            w += wait(1)
+        w += _hold(DIRTB27, 1, 1, stop, 4 if n < 2 else 2, lambda k: emit_at(DIRTB27, 0, 1, pud))
+    w += func(48) + flash_screen(2)
+    return w + _hold(DIRTB27, 1, 1, stop, 6, lambda k: emit_at(DIRTB27, 0, 1, pud))
+
+
+def _cut_off(side, s):
+    """Heal Block (Cut Off): the foe at the bar, a drink right there. They lean for it - it slides away. Lean - slides
+    away. Then the bartender: "CUT OFF." Sad foe."""
+    sx = _sx(side)
+    bar = (0, 2)
+    glass = [(-sx * 18, 16), (-sx * 40, 16), (-sx * 64, 16)]
+    w = se(s["pop"]) + _hold(CUT27, 1, 1, bar, 4, lambda k: emit_at(CUT27, 2, 1, glass[0]))
+    for n in range(2):                                                         # lean... *sliiide*
+        w += bmove(side, 264, 3, -sx * 8, 0) + _hold(CUT27, 1, 1, bar, 2, lambda k: emit_at(CUT27, 2, 1, glass[n]))
+        w += se(s["swipe"])
+        for k in range(3):
+            w += emit_at(CUT27, 1, 1, bar) + emit_at(CUT27, 2, 1, _lerp(glass[n], glass[n + 1], (k + 1) / 3)) + wait(1)
+        w += bmove(side, 264, 3, sx * 8, 0) + _hold(CUT27, 1, 1, bar, 3, lambda k: emit_at(CUT27, 2, 1, glass[n + 1]))
+    w += se(s["bonk"])
+    for k in range(12):                                                        # "CUT OFF."
+        w += emit_at(CUTB27, 1, 1, (-sx * 6, 58)) + emit_at(CUT27, 1, 1, bar) + emit_at(CUT27, 2, 1, glass[2])
+        if k == 4:
+            w += se(s["disable"]) + func(34, 8, 0, 1, rgb(90, 90, 120), 12, 0) + bmove(side, 264, 3, 0, -6)
+        w += wait(1)
+    return w + bmove(side, 264, 3, 0, 6) + wait(2)
+
+
+def _time_out(side, s):
+    """Punishment (Time Out): a dunce cap drops on the foe's head - bonk. The egg timer goes down - tick... tock... the
+    foe fidgets... BRRRING - time's up, and it hits."""
+    sx = _sx(side)
+    cap = (0, 46)
+    tmr = (sx * 30, 10)
+    scene = lambda: emit_at(TIME27, 1, 1, cap)
+    w = []
+    for k in range(4):                                                         # the cap drops
+        w += emit_at(TIME27, 1, 1, (0, 100 - k * 18)) + wait(1)
+    w += se(s["bonk"]) + shake_defender(1, 2) + _hold(TIME27, 1, 1, cap, 3, lambda k: emit_at(TIME27, 2, 1, tmr))
+    for k in range(16):                                                        # tick... tock...
+        w += scene() + emit_at(TIME27, 2, 1, tmr)
+        if k % 4 == 0:
+            w += se(s["clock"])
+        if k == 8:
+            w += bmove(side, 264, 2, sx * 5, 0)
+        if k == 10:
+            w += bmove(side, 264, 2, -sx * 5, 0)
+        w += wait(1)
+    w += se(s["alarm"])
+    for k in range(6):                                                         # BRRRING
+        w += scene() + emit_at(TIMEB27, 1, 1, (tmr[0] + (k % 2) * 2, tmr[1])) + wait(1)
+    w += se(s["bslam"]) + flash_screen(4) + emit_at(TIME27, 0, 1, (0, 24)) + shake_defender(4, 3) + func(48)
+    return w + _hold(TIME27, 1, 1, cap, 6, lambda k: emit_at(TIMEB27, 1, 1, tmr))
+
+
+def _swap_bags(side, s):
+    """Switcheroo (Swap Bags): a red duffel by each of them. Swap - swap - SWAP, too fast to follow. They unzip theirs:
+    stacked with cash. The foe unzips theirs: dirty laundry. Stink lines."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    a, b = (sx * 34, 20), (dx - sx * 30, dy + 4)
+    both = lambda pa, pb: emit_at(SWAP27, 1, 0, pa) + emit_at(SWAP27, 1, 0, pb)
+    w = se(s["pop"]) + _hold(SWAP27, 1, 0, a, 5, lambda k: emit_at(SWAP27, 1, 0, b))
+    for n, steps in enumerate((5, 4, 3)):                                      # swap... swap... SWAP
+        w += se(s["whoosh"])
+        for k in range(steps):
+            t = (k + 1) / steps
+            h = round(30 * 4 * t * (1 - t))
+            pa, pb = _lerp(a, b, t), _lerp(b, a, t)
+            w += both((pa[0], pa[1] + h), (pb[0], pb[1] - h)) + wait(1)
+        a, b = b, a
+        w += both(a, b) + wait(1)
+    w += se(s["bling"]) + emit_at(SWAP27, 0, 0, (sx * 30, 20))                 # cash...
+    w += _hold(SWAP27, 2, 0, (sx * 34, 20), 5, lambda k: emit_at(SWAP27, 1, 0, (dx - sx * 30, dy + 4)))
+    w += se(s["smog"]) + shake_defender(2, 2) + func(34, 8, 0, 1, rgb(150, 190, 70), 12, 0)   # ...laundry
+    return w + _hold(SWAP27, 2, 0, (sx * 34, 20), 12, lambda k: emit_at(SWAPB27, 1, 0, (dx - sx * 30, dy + 4)))
+
+
+def _yap_session(side, s):
+    """Chatter (Yap Session): "AND THEN" - "GIRL..." - "ANYWAY SO LIKE" - then it just doesn't stop: bubbles on top of
+    bubbles till the foe's head is spinning."""
+    spots = [_s23(side, 0, p) for p in ((80, 64), (150, 60), (112, 86))]
+    lines = [(YAP27, 1), (YAP27, 2), (YAPB27, 1), (YAPC27, 1), (YAPB27, 2), (YAPC27, 2)]
+    w = []
+    up = []
+    for n in range(3):                                                         # AND THEN... GIRL... ANYWAY SO LIKE
+        up.append(n)
+        w += se(s["sface"] if n % 2 else s["pop"])
+        for k in range(6):
+            for i in up:
+                w += emit_at(lines[i][0], lines[i][1], 0, spots[i])
+            w += wait(1)
+    w += se(s["chatter"] if "chatter" in s else s["swagger"])
+    for k in range(16):                                                        # it doesn't stop
+        for j in range(3):
+            kit, res = lines[(k // 2 + j * 2) % 6]
+            w += emit_at(kit, res, 0, spots[j])
+        if k % 4 == 0:
+            w += se(s["pop"]) + emit_at(YAPC27, 0, 1, (0, 40))
+        if k in (4, 10):
+            w += bmove(side, 264, 2, 6, 0)
+        if k in (7, 13):
+            w += bmove(side, 264, 2, -6, 0)
+        w += wait(1)
+    w += se(s["confuse"]) + func(34, 8, 0, 1, rgb(250, 200, 80), 11, 0)
+    for k in range(8):
+        w += (emit_at(YAPC27, 0, 1, (0, 40)) if k % 3 == 0 else []) + wait(1)
+    return w
+
+
+def _moonwalk(side, s):
+    """Lunar Dance (Moonwalk): spotlight - fedora on. They moonwalk backwards and the dance floor lights up under every
+    step. Hat tip - *hee-hee* - and they moonwalk right off the screen."""
+    sx = _sx(side)
+    hy = _p(side, 30, 40)
+    hat = lambda x: emit_at(MOONB27, 1, 0, (x + _p(side, 10, 0), hy))
+    ty = _p(side, 4, -12)
+    tiles = [-sx * 12 * k for k in range(5)]
+    floor = lambda lit: [w_ for i, x in enumerate(tiles) for w_ in emit_at(MOON27, 2 if i in lit else 1, 0, (x, ty))]
+    w = func(33, 0, 1, 0, 12, 0) + se(s["pop"]) + _hold(MOONB27, 1, 0, (_p(side, 10, 0), hy), 4, lambda k: floor(()))
+    for n in range(1, 5):                                                      # step back - tile lights - step back
+        w += bmove(side, 258, 2, -sx * 12, 0) + se(s["swipe"] if n % 2 else s["peck"])
+        for k in range(3):
+            w += hat(tiles[n]) + floor((n,) if k < 2 else (n - 1, n)) + wait(1)
+    w += se(s["bling"]) + emit_at(MOONB27, 0, 0, (tiles[4], hy + 4))               # hat tip - hee-hee
+    for k in range(6):
+        w += hat(tiles[4]) if k not in (2, 3) else emit_at(MOONB27, 1, 0, (tiles[4] + _p(side, 10, 0), hy + 8))
+        w += floor((4,)) + wait(1)
+    w += se(s["whoosh"]) + bmove(side, 258, 6, -sx * 90, 0)                    # ...and gone
+    for k in range(5):
+        w += hat(tiles[4] - sx * 18 * (k + 1)) + floor(()) + wait(1)
+    w += func(33, 0, 1, 12, 0, 0) + wait(4) + bmove(side, 258, 4, sx * 138, 0)
+    return w + wait(2)
+
+
+def _back_rub(side, s):
+    """Acupressure (Back Rub): the back scratcher - scratch, scratch - ohhh right there. Then the little stat slot
+    machine over their head spins - ??? DEF SPD ATK DEF SPD... ATK."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    slot = _p(side, (sx * 6, 66), (-30, 40))
+    w = []
+    for n in range(2):                                                         # scratch scratch
+        w += se(s["swipe"])
+        for k in range(5):
+            w += emit_at(RUB27, res, 0, (-sx * 16, 24 + (k % 2) * 8 + n * 4)) + wait(1)
+        w += func(34, 2, 0, 1, rgb(255, 210, 200), 8, 0) + wait(1)
+    w += se(s["clock"])
+    reel = [(RUBB27, 1), (RUBC27, 1), (RUBC27, 2), (RUBB27, 2)]
+    for k in range(12):                                                        # it spins...
+        kit, r = reel[k % 4]
+        w += emit_at(kit, r, 0, slot) + (se(s["peck"]) if k % 2 == 0 else []) + wait(1 if k < 8 else 2)
+    w += se(s["bling"]) + emit_at(RUBC27, 0, 0, slot) + func(34, 2, 0, 1, rgb(255, 120, 80), 12, 0)   # ATK!
+    return w + _hold(RUBB27, 2, 0, slot, 10)
+
+
+def _flu_shot(side, s):
+    """Needle Arm (Flu Shot): an alcohol swab on the foe - the foe shivers. The needle comes in - they flinch away.
+    It comes in again - flinch. Then: JAB."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    arm = (-sx * 12, 20)
+    w = []
+    for k in range(5):                                                         # swab swab
+        w += emit_at(FLUB27, 1, 1, (arm[0] + (k % 2) * 4, arm[1] + (k % 2) * 2)) + wait(1)
+    w += shake_defender(1, 2) + wait(2)
+    for n in range(2):                                                         # it comes in - flinch
+        for k in range(3):
+            w += emit_at(FLU27, res, 1, (-sx * (60 - k * 10), 22)) + wait(1)
+        w += bmove(side, 264, 2, sx * 10, 0) + se(s["leer"])
+        for k in range(3):
+            w += emit_at(FLU27, res, 1, (-sx * (40 + k * 6), 22)) + wait(1)
+        w += bmove(side, 264, 2, -sx * 10, 0) + wait(2)
+    for k in range(3):                                                         # JAB
+        w += emit_at(FLU27, res, 1, (-sx * (54 - k * 12), 22)) + wait(1)
+    w += se(s["psting"]) + se(s["bslam"]) + flash_screen(3) + emit_at(FLU27, 0, 1, (-sx * 8, 22)) + shake_defender(4, 3)
+    w += _hold(FLU27, res, 1, (-sx * 30, 22), 6) + func(48)
+    return w + wait(2)
+
+
+def _bad_wind(side, s):
+    """Ominous Wind (Bad Wind): elevator doors slide shut on the foe - ding. Green starts seeping out the seam. More.
+    The doors open: the foe's green and coughing - and the attacker's just whistling."""
+    sx = _sx(side)
+    door = lambda gap: emit_at(WIND27, 1, 1, (-16 - gap, 18)) + emit_at(WIND27, 2, 1, (16 + gap, 18))
+    w = se(s["pop"])
+    for k in range(5):                                                         # *shhhk* - closed
+        w += door(30 - k * 7) + wait(1)
+    w += se(s["bling"]) + _hold(WIND27, 1, 1, (-16, 18), 6, lambda k: emit_at(WIND27, 2, 1, (16, 18)))   # ding
+    for k in range(14):                                                        # ...green
+        w += door(0)
+        if k % 3 == 0:
+            w += emit_at(WIND27, 0, 1, (0, 8 + k))
+        if k == 6:
+            w += se(s["smog"])
+        w += wait(1)
+    w += se(s["pop"])
+    for k in range(5):                                                         # doors open
+        w += door(k * 7) + (emit_at(WIND27, 0, 1, (0, 20)) if k % 2 == 0 else []) + wait(1)
+    w += se(s["cough"]) + func(34, 8, 0, 1, rgb(150, 200, 60), 13, 0) + shake_defender(2, 3)
+    w += se(s["swagger"]) + emit_at(WINDB27, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(220, 200, 255), 10, 0)   # *whistles*
+    for k in range(8):
+        w += (emit_at(WIND27, 0, 1, (0, 24)) if k % 3 == 0 else []) + wait(1)
+    return w
+
+
+def _tat_gun(side, s):
+    """Twineedle (Tat Gun): the tattoo gun - bzzzzzt on the foe - and a MOM heart tattoo. (Replays per hit: short.)"""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    w = se(s["zap"])
+    for k in range(7):                                                         # bzzzzt
+        w += emit_at(TAT27, res, 1, (-sx * (14 + (k % 2) * 2), 30 + (k % 2))) + (emit_at(TAT27, 0, 1, (-sx * 2, 18)) if k % 3 == 0 else [])
+        w += (se(s["zap"]) if k == 4 else []) + (shake_defender(1, 1) if k == 3 else []) + wait(1)
+    w += se(s["bling"]) + _hold(TATB27, 1, 1, (0, 16), 8)
+    return w
+
+
+def _cut_line(side, s):
+    """Me First (Cut Line): the deli counter - NOW SERVING 48. The foe's holding ticket 49. *ding* - 49! The foe steps
+    up... and the attacker cuts right in front, no ticket, and gets served first."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    sign = _s23(side, 0, _p(side, (110, 62), (118, 70)))
+    tkt = (sx * 18, 26)
+    w = se(s["pop"]) + _hold(DELI27, 1, 0, sign, 8, lambda k: emit_at(DELIB27, 1, 1, tkt))
+    w += se(s["bling"]) + _hold(DELI27, 2, 0, sign, 4, lambda k: emit_at(DELIB27, 1, 1, tkt))   # *ding* 49
+    w += bmove(side, 264, 3, -sx * 10, 0) + _hold(DELI27, 2, 0, sign, 3, lambda k: emit_at(DELIB27, 1, 1, tkt))
+    w += se(s["whoosh"]) + bmove(side, 258, 3, dx - sx * 36, dy)               # CUTS IN
+    w += _hold(DELI27, 2, 0, sign, 2, lambda k: emit_at(DELIB27, 1, 1, tkt))
+    w += se(s["bslam"]) + flash_screen(3) + emit_at(DELIB27, 0, 1, (0, 20)) + bmove(side, 264, 2, sx * 14, 0)
+    w += _hold(DELI27, 2, 0, sign, 6, lambda k: emit_at(DELIB27, 1, 1, tkt))
+    w += bmove(side, 258, 4, -(dx - sx * 36), -dy) + bmove(side, 264, 3, -sx * 4, 0) + wait(3) + func(48)
+    return w + wait(2)
+
+
+def _glow_up(side, s):
+    """Tail Glow (Glow Up): the satin bonnet comes off - pop. Edge control. The brush: swoop. Swoop. SWOOP. Edges
+    laid - and they GLOW."""
+    sx = _sx(side)
+    head = (0, 40)
+    jar = (sx * 30, 16)
+    bres = _p(side, 1, 2)
+    w = se(s["pop"]) + _hold(GLOW27, 1, 0, head, 5)
+    w += se(s["whoosh"]) + _lob(GLOW27, 1, side, head, (-sx * 50, 60), 4, 16)  # bonnet off
+    w += se(s["pop"]) + _hold(GLOW27, 2, 0, jar, 3)
+    for n in range(3):                                                         # swoop... swoop... SWOOP
+        w += se(s["swipe"])
+        for k in range(4):
+            w += emit_at(GLOW27, 2, 0, jar) + emit_at(GLOWB27, bres, 0, (sx * (-10 + k * 7), 46 - abs(k - 1.5) * 3)) + wait(1)
+        w += emit_at(GLOW27, 0, 0, (sx * 6, 44)) + _hold(GLOW27, 2, 0, jar, 2 + n)
+    w += func(33, 0, 1, 0, 10, 0) + se(s["bling"]) + flash_screen(3)          # GLOW UP
+    for k in range(12):
+        if k % 4 == 0:
+            w += emit_at(GLOWB27, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(255, 230, 120) if k % 8 == 0 else rgb(255, 255, 255), 13, 0)
+        w += wait(1)
+    return w + func(33, 0, 1, 10, 0, 0) + wait(2)
+
+
+def _stomach_bug(side, s):
+    """Gastro Acid (Stomach Bug): a gas station roller-grill hot dog, tossed to the foe - gulp. Rumble. RUMBLE. An OUT
+    OF ORDER sign gets hung on them."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = se(s["whoosh"]) + _lob(DOG27, 1, side, (sx * 20, 30), (dx, dy + 30), 6, 22)
+    w += se(s["crunch"]) + shake_defender(1, 1) + wait(6)                    # gulp
+    for n in range(2):                                                         # rumble... RUMBLE
+        w += se(s["rollout"]) + shake_defender(1 + n * 2, 3) + emit_at(DOG27, 0, 1, (0, 20))
+        w += func(34, 8, 0, 1, rgb(150, 200, 60), 9 + n * 3, 0) + wait(6)
+    for k in range(4):                                                         # OUT OF ORDER
+        w += emit_at(DOGB27, 1, 1, (0, 54 - k * 10)) + wait(1)
+    w += se(s["bonk"]) + se(s["disable"]) + _hold(DOGB27, 1, 1, (0, 14), 12)
+    return w + wait(2)
+
+
+def _rabbit_foot(side, s):
+    """Lucky Chant (Rabbit Foot): rub the lucky rabbit foot - then the scratch-off: scratch - a 7. Scratch - 7. Scratch -
+    7 - WIN... $2. Hey, a win's a win."""
+    sx = _sx(side)
+    foot = (sx * 26, 36)
+    tkt = _s23(side, 0, _p(side, (112, 70), (130, 64)))
+    w = se(s["pop"])
+    for k in range(6):                                                         # rub rub
+        w += emit_at(LUCK27, 1, 0, (foot[0] + (k % 2) * 2, foot[1] + (k % 2))) + (emit_at(LUCK27, 0, 0, foot) if k % 3 == 0 else []) + wait(1)
+    w += se(s["pop"]) + _hold(LUCK27, 2, 0, tkt, 4)
+    for kit, res in ((LUCKB27, 1), (LUCKB27, 2)):                             # scratch... scratch...
+        w += se(s["swipe"]) + _hold(kit, res, 0, tkt, 6)
+    w += se(s["swipe"]) + _hold(LUCKC27, 1, 0, tkt, 3) + se(s["bling"]) + emit_at(LUCKC27, 0, 0, tkt)   # WIN $2
+    return w + _hold(LUCKC27, 1, 0, tkt, 10)
+
+
+def _stiff_arm(side, s):
+    """Force Palm (Stiff Arm): the foe charges in - STIFF ARM, sent back. Charges again - STIFF ARM. The gold Heisman
+    pose. The foe's left twitching."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    run = (round(-dx * .45), round(-dy * .45))
+    w = []
+    for n in range(2):                                                         # charge... STIFF ARM
+        w += se(s["whoosh"]) + bmove(side, 264, 4, run[0], run[1]) + wait(3)
+        w += se(s["bslam"]) + emit_at(STIFF27, 0, 0, (sx * 30, 26)) + flash_screen(2)
+        w += bmove(side, 264, 3, -run[0], -run[1]) + wait(4)
+    w += se(s["bling"]) + func(33, 0, 1, 0, 8, 0) + _hold(STIFF27, 1, 0, (sx * 30, 24), 8)   # the Heisman
+    w += se(s["spark"]) + shake_defender(3, 3) + func(34, 8, 0, 1, rgb(255, 240, 80), 13, 0)
+    for k in range(8):
+        w += emit_at(STIFF27, 1, 0, (sx * 30, 24)) + (emit_at(STIFF27, 0, 1, (0, 24)) if k % 3 == 0 else []) + wait(1)
+    return w + func(48) + func(33, 0, 1, 8, 0, 0) + wait(2)
+
+
+def _hype_howl(side, s):
+    """Howl (Hype Howl): "AWOOO!" - the stands... nothing. AWOOO! - one fan. Then the WHOLE crowd throws their heads
+    back and howls. Hyped up."""
+    crowd = _s23(side, 0, _p(side, (150, 54), (100, 62)))
+    bub = _s23(side, 0, _p(side, (78, 72), (170, 30)))
+    w = se(s["pop"]) + _hold(HOWLB27, 1, 0, bub, 8, lambda k: emit_at(HOWL27, 1, 0, crowd))   # AWOOO!
+    w += _hold(HOWL27, 1, 0, crowd, 8)                                        # ...crickets
+    w += se(s["rage"]) + _hold(HOWLB27, 1, 0, bub, 6, lambda k: emit_at(HOWL27, 1, 0, crowd))
+    w += se(s["rage"]) + se(s["bslam"]) + flash_screen(2)                     # the WHOLE crowd
+    for k in range(14):
+        w += emit_at(HOWL27, 2, 0, (crowd[0], crowd[1] + (k % 2)))
+        if k % 4 == 0:
+            w += emit_at(HOWLB27, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(255, 120, 80), 12, 0)
+        w += wait(1)
+    return w + _hold(HOWL27, 1, 0, crowd, 3)
+
+
+def _namaste(side, s):
+    """Meditate (Namaste): a yoga mat rolls out. Stretch - up. Lean - deeper. Deeper... CRACK! A long pause. Then...
+    they actually feel amazing. Power up."""
+    sx = _sx(side)
+    mat = (0, 8)
+    m = lambda: emit_at(YOGA27, 1, 0, mat)
+    w = se(s["pop"]) + _hold(YOGA27, 1, 0, mat, 4)
+    w += se(s["swipe"]) + bmove(side, 258, 3, 0, 8) + _hold(YOGA27, 1, 0, mat, 6)   # stretch
+    w += se(s["swipe"]) + bmove(side, 258, 3, sx * 6, -4) + _hold(YOGA27, 1, 0, mat, 6)   # deeper
+    w += bmove(side, 258, 3, sx * 4, -2) + _hold(YOGA27, 1, 0, mat, 3)        # deeper...
+    w += se(s["crack"]) + se(s["bonk"]) + shake_attacker(2, 2)               # CRACK!
+    for k in range(10):
+        w += m() + emit_at(YOGA27, 2, 0, (sx * 24, 56)) + wait(1)
+    w += bmove(side, 258, 3, -sx * 10, -2) + _hold(YOGA27, 1, 0, mat, 6)      # ...
+    w += se(s["bling"]) + emit_at(YOGA27, 0, 0, (0, 30)) + func(34, 2, 0, 1, rgb(255, 140, 90), 12, 0)   # feels great
+    return w + _hold(YOGA27, 1, 0, mat, 8)
+
+
+def _lock_up(side, s):
+    """Imprison (Lock Up): the corner store's roll-down gate drops in front of the foe - rattle, sticks. Rattle, sticks.
+    SLAM. Padlock - click. Closed."""
+    gate = lambda y: emit_at(GATE27, 1, 1, (0, y))
+    w = se(s["pop"])
+    for n, (y0, y1) in enumerate(((110, 64), (64, 42))):                       # rattle... sticks
+        for k in range(4):
+            w += gate(round(y0 + (y1 - y0) * (k + 1) / 4)) + wait(1)
+        w += se(s["clock"]) + _hold(GATE27, 1, 1, (0, y1), 5)
+    for k in range(3):                                                         # SLAM
+        w += gate(round(42 - 26 * (k + 1) / 3)) + wait(1)
+    w += se(s["bslam"]) + se(s["crunch"]) + flash_screen(2) + emit_at(GATE27, 0, 1, (0, -6)) + shake_defender(3, 2)
+    w += _hold(GATE27, 1, 1, (0, 16), 4)
+    w += se(s["lockon"]) + _hold(GATE27, 2, 1, (0, 0), 1, lambda k: gate(16))   # *click*
+    w += func(34, 8, 0, 1, rgb(100, 100, 110), 12, 0)
+    for k in range(10):
+        w += emit_at(GATE27, 2, 1, (0, 0)) + gate(16) + wait(1)
+    return w
+
+
+def _look_at_me(side, s):
+    """Follow Me (Look at Me): a Vegas marquee pops up over them blinking LOOK. The foe glances over - looks away.
+    Glances - looks away. Then it just can't stop looking."""
+    sx = _sx(side)
+    sign = _s23(side, 0, _p(side, (100, 72), (176, 34)))
+    blink = lambda k: emit_at(LOOK27, 1 + (k // 2) % 2, 0, sign)
+    w = se(s["pop"])
+    k = 0
+    for n in range(2):                                                         # glance... away
+        for j in range(6):
+            w += blink(k) + (bmove(side, 264, 2, -sx * 6, 0) if j == 1 else []) + (bmove(side, 264, 2, sx * 6, 0) if j == 4 else []) + wait(1)
+            k += 1
+        w += se(s["bling"])
+    w += se(s["mlook"]) + bmove(side, 264, 3, -sx * 10, 0) + func(34, 8, 0, 1, rgb(255, 230, 120), 12, 0)   # locked on
+    for j in range(12):
+        w += blink(k) + (emit_at(LOOK27, 0, 0, (sign[0], sign[1] - 20)) if j % 4 == 0 else []) + wait(1)
+        k += 1
+    return w + bmove(side, 264, 3, sx * 10, 0) + wait(2)
+
+
+def _snowball(side, s):
+    """Ice Ball (Snowball): packed - pat pat - thrown - SPLAT. (Replays every turn: short.)"""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    hand = (sx * 22, 30)
+    w = se(s["pop"])
+    for k in range(4):                                                         # pat pat
+        w += emit_at(SNOW27, 1, 0, (hand[0], hand[1] + (k % 2))) + (se(s["flop"]) if k % 2 == 0 else []) + wait(1)
+    w += se(s["whoosh"]) + _lob(SNOW27, 1, side, hand, (dx, dy + 26), 5, 16)
+    w += se(s["splat"]) + emit_at(SNOW27, 0, 1, (0, 26)) + shake_defender(2, 2) + func(34, 8, 0, 1, rgb(200, 230, 255), 10, 0)
+    return w + wait(6)
+
+
+def _hoverboard(side, s):
+    """Magnet Rise (Hoverboard): they hop on a hoverboard - wobble - WOBBLE, almost eats it - then the thing lights up
+    and actually lifts off the ground. Floating."""
+    sx = _sx(side)
+    foot = _p(side, 8, -6)
+    board = lambda r, x=0, y=0: emit_at(HOVER27, r, 0, (x, foot + y))
+    w = se(s["pop"]) + _hold(HOVER27, 1, 0, (0, foot), 4)
+    for n, amp in enumerate((4, 8)):                                           # wobble... WOBBLE
+        for j, dx in enumerate((amp, -2 * amp, amp)):
+            w += bmove(side, 258, 2, dx, 0) + se(s["whoosh"] if j == 1 else s["swipe"])
+            off = (amp, -amp, 0)[j]
+            for k in range(2):
+                w += board(1, off) + wait(1)
+        w += _hold(HOVER27, 1, 0, (0, foot), 2)
+    w += se(s["mbomb"]) + se(s["bling"]) + flash_screen(2)                    # it LIFTS OFF
+    w += bmove(side, 258, 6, 0, 14)
+    for k in range(6):
+        w += board(2, 0, round(14 * (k + 1) / 6)) + wait(1)
+    for k in range(12):                                                        # floating
+        y = 14 + (2 if (k // 3) % 2 else 0)
+        w += board(2, 0, y) + (emit_at(HOVER27, 0, 0, (0, foot + y - 4)) if k % 4 == 0 else []) + wait(1)
+    w += bmove(side, 258, 4, 0, -14)
+    for k in range(4):
+        w += board(2, 0, round(14 * (1 - (k + 1) / 4))) + wait(1)
+    return w + _hold(HOVER27, 2, 0, (0, foot), 3)
+
+
+def _high_beams(side, s):
+    """Luster Purge (High Beams): pitch dark - a pair of headlights. Blink. Blink. Then FULL BRIGHTS straight in the
+    foe's face - the screen whites out - "CUT YOUR BRIGHTS!"."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    hl = (sx * 36, 22)
+    bub = _s23(side, 1, _p(side, (204, 24), (104, 66)))
+    w = func(33, 0, 1, 0, 14, 0) + se(s["pop"]) + _hold(BEAM28, 2, 0, hl, 4)
+    for n in range(2):                                                         # blink... blink...
+        w += se(s["lockon"]) + _hold(BEAM28, 1, 0, hl, 2) + _hold(BEAM28, 2, 0, hl, 3)
+    w += se(s["sbeam"]) + se(s["kaboom"]) + flash_screen(6) + func(68, 6, 6, 1, 12, 0)   # FULL BRIGHTS
+    for k in range(12):
+        w += emit_at(BEAM28, 1, 0, hl)
+        for t in (.3, .55, .8):
+            w += emit_at(BEAM28, 0, 0, (round(hl[0] + (dx - hl[0]) * t), round(hl[1] + (dy + 24 - hl[1]) * t)))
+        if k % 4 == 0:
+            w += func(34, 8, 0, 1, rgb(255, 255, 230), 15, 0) + emit_at(BEAMB28, 0, 1, (0, 24))
+        if k == 6:
+            w += se(s["thunder"]) + flash_screen(3)
+        w += wait(1)
+    w += se(s["leer"]) + func(33, 0, 1, 14, 4, 0)
+    for k in range(12):                                                        # "CUT YOUR BRIGHTS!"
+        w += emit_at(BEAMB28, 1, 1, bub) + (emit_at(BEAM28, 2, 0, hl) if k < 6 else []) + wait(1)
+    return w + func(48) + func(33, 0, 1, 4, 0, 0) + wait(2)
+
+
+def _fog_machine(side, s):
+    """Mist Ball (Fog Machine): the club fogger - pfft. Pfft. Then it floods the whole screen, lasers cutting through
+    the fog - the foe can't see a thing."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    fog = (sx * 36, 24)
+    w = se(s["pop"]) + _hold(FOG28, 1, 0, fog, 4)
+    for n in range(2):                                                         # pfft... pfft...
+        w += se(s["smoke"]) + emit_at(FOG28, 0, 0, (fog[0] + sx * 20, fog[1] + 6)) + _hold(FOG28, 1, 0, fog, 6)
+    w += func(33, 0, 1, 0, 14, 0) + se(s["haze"]) + se(s["mbomb"])             # FLOOD
+    for k in range(18):
+        w += emit_at(FOG28, 1, 0, fog)
+        t = (k % 6 + 1) / 6
+        w += emit_at(FOG28, 0, 0, (round(fog[0] + (dx - fog[0]) * t), round(fog[1] + (dy + 10 - fog[1]) * t + (k % 3) * 8)))
+        if k % 3 == 0:                                                         # strobes
+            w += func(34, 8, 0, 1, rgb(80, 255, 120) if k % 6 == 0 else rgb(255, 60, 90), 12, 0)
+        if k % 6 == 3:
+            w += flash_screen(2) + func(34, 8, 0, 1, rgb(160, 160, 180), 13, 0)
+        if k == 9:
+            w += se(s["kaboom"]) + shake_defender(4, 3)
+        w += wait(1)
+    return w + func(48) + func(33, 0, 1, 14, 0, 0) + wait(3)
+
+
+def _order_up(side, s):
+    """Attack Order (Order Up): a phone - ORDER PLACED. One delivery rider pulls up into the foe. Two more. Then every
+    delivery driver in the city swarms them at once. DELIVERED."""
+    sx = _sx(side)
+    ph = _s23(side, 0, _p(side, (112, 76), (160, 84)))
+    w = se(s["bling"]) + _hold(ORDER28, 1, 0, ph, 10)
+    left = lambda r, x, y=6: emit_at(ORDERB28, r, 1, (x, y))
+    right = lambda r, x, y=6: emit_at(ORDERC28, r, 1, (x, y))
+    w += se(s["rollout"])
+    for k in range(5):                                                         # one rider...
+        w += left(1, -130 + k * 24) + wait(1)
+    w += se(s["bonk"]) + emit_at(ORDER28, 0, 1, (0, 20)) + wait(3)
+    w += se(s["rollout"])
+    for k in range(5):                                                         # two more...
+        w += left(2, -130 + k * 24, 0) + right(1, 130 - k * 24, 12) + wait(1)
+    w += se(s["bonk"]) + emit_at(ORDER28, 0, 1, (0, 20)) + wait(3)
+    w += func(33, 0, 1, 0, 12, 0) + se(s["alarm"]) + se(s["rollout2"])        # THE WHOLE CITY
+    for k in range(16):
+        p = (k % 4 + 1) / 4
+        w += left(1 + k % 2, round(-130 + 110 * p), 2 + (k * 5) % 24) + right(1 + (k + 1) % 2, round(130 - 110 * p), (k * 7) % 28)
+        if k % 2 == 0:
+            w += left(2 - k % 2, round(-150 + 120 * p), 30 - (k * 3) % 16)
+        if k % 4 == 3:
+            w += se(s["bslam"]) + emit_at(ORDER28, 0, 1, (0, 20))
+        if k == 8:
+            w += func(68, 5, 5, 1, 10, 0) + flash_screen(3)
+        w += wait(1)
+    w += se(s["kaboom"]) + flash_screen(4) + shake_defender(4, 3) + func(48) + func(33, 0, 1, 12, 0, 0)
+    return w + se(s["bling"]) + _hold(ORDER28, 2, 0, ph, 10)
+
+
+def _sag_check(side, s):
+    """Gravity (Sag Check): jeans on both of them. They sag - boxers out. They SAG - round the knees. Then gravity
+    really kicks in: everybody sinks."""
+    sx = _sx(side)
+    a_j = (sx * 6, _p(side, 2, -14))
+    d_j = (0, _p(side, -14, 2))
+    both = lambda kit, r, sink=0: emit_at(kit, r, 0, (a_j[0], a_j[1] - sink)) + emit_at(kit, r, 1, (d_j[0], d_j[1] - sink))
+    w = se(s["pop"])
+    for k in range(5):
+        w += both(SAG28, 1) + wait(1)
+    for n, (kit, r) in enumerate(((SAG28, 2), (SAGB28, 1))):                   # sag... SAG
+        w += se(s["swipe"] if n == 0 else s["flop"])
+        for k in range(7):
+            w += both(kit, r) + wait(1)
+    w += func(33, 0, 1, 0, 12, 0) + se(s["epower"]) + se(s["kaboom"]) + flash_screen(4)   # GRAVITY
+    w += bmove(side, 258, 6, 0, -12) + bmove(side, 264, 6, 0, -12)
+    for k in range(10):
+        sink = min(12, 2 * (k + 1))
+        w += both(SAGB28, 1, sink) + (emit_at(SAGB28, 0, 1, (0, -6)) if k % 3 == 0 else []) + wait(1)
+    w += bmove(side, 258, 4, 0, 12) + bmove(side, 264, 4, 0, 12)
+    for k in range(4):
+        w += both(SAGB28, 1, 12 - 3 * (k + 1)) + wait(1)
+    w += wait(1) + func(68, 5, 5, 1, 10, 0) + func(48) + func(33, 0, 1, 12, 0, 0)   # the quake after everyone's back
+    return w + wait(4)
+
+
+def _last_wish(side, s):
+    """Healing Wish (Last Wish): night falls. A dandelion. They make a wish - blow, half the seeds go - BLOW - and
+    they float up and away with the seeds. Whoever's next gets the wish."""
+    sx = _sx(side)
+    dd = (sx * 36, 34)
+    w = func(33, 0, 1, 0, 14, 0) + se(s["pop"]) + _hold(WISH28, 1, 0, dd, 6)
+    w += se(s["bling"]) + emit_at(WISHB28, 0, 0, (dd[0], dd[1] + 22)) + _hold(WISH28, 1, 0, dd, 6)   # make a wish
+    w += se(s["gust"]) + emit_at(WISH28, 0, 0, dd) + _hold(WISH28, 2, 0, dd, 8)                      # blow
+    w += se(s["gust"]) + se(s["sscent"])                                                               # BLOW
+    for k in range(6):
+        w += emit_at(WISHB28, 1, 0, dd) + (emit_at(WISH28, 0, 0, (dd[0] - sx * k * 4, dd[1] + k * 3)) if k % 2 == 0 else []) + wait(1)
+    w += se(s["whoosh"]) + bmove(side, 258, 10, 0, 40) + func(34, 2, 0, 1, rgb(255, 255, 255), 14, 0)   # floating away
+    for k in range(12):
+        w += emit_at(WISHB28, 1, 0, dd) + (emit_at(WISH28, 0, 0, (0, 20 + k * 3)) if k % 2 == 0 else []) + wait(1)
+    w += func(40, 2, 1) + wait(6) + bmove(side, 258, 2, 0, -40) + wait(2) + func(40, 2, 0)
+    w += se(s["rest"]) + emit_at(WISHB28, 0, 0, (0, 26))
+    return w + func(33, 0, 1, 14, 0, 0) + wait(8)
+
+
+def _mirror_tint(side, s):
+    """Mirror Coat (Mirror Tint): a clear car window in front of them - squeegee, squeegee - the tint goes on, mirror
+    black. The foe fires a blast at it... and it bounces straight back into them."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    win = (sx * 32, 24)
+    w = se(s["pop"]) + _hold(TINT28, 1, 0, win, 4)
+    for n in range(2):                                                         # squeegee... squeegee
+        w += se(s["swipe"])
+        for k in range(4):
+            w += emit_at(TINTB28, 1, 0, (win[0] - 14 + k * 9, win[1] + 18 - n * 14)) + emit_at(TINT28, 1 + n, 0, win) + wait(1)
+    w += se(s["bling"]) + emit_at(TINTB28, 0, 0, win) + _hold(TINT28, 2, 0, win, 6)
+    foe = (dx, dy + 24)
+    w += se(s["psych"])
+    for k in range(5):                                                         # the foe's blast...
+        w += emit_at(TINT28, 0, 0, _lerp(foe, win, (k + 1) / 5)) + emit_at(TINT28, 2, 0, win) + wait(1)
+    w += se(s["reflect"]) + flash_screen(3) + emit_at(TINTB28, 0, 0, win)     # *PING*
+    for k in range(4):                                                         # ...right back
+        w += emit_at(TINT28, 0, 0, _lerp(win, foe, (k + 1) / 4)) + emit_at(TINT28, 2, 0, win) + wait(1)
+    w += se(s["kaboom"]) + flash_screen(4) + emit_at(TINTB28, 0, 1, (0, 24)) + shake_defender(4, 3) + func(48)
+    return w + _hold(TINT28, 2, 0, win, 5)
+
+
+def _jump_em(side, s):
+    """Beat Up (Jump Em): one of the crew pulls up next to the foe and swings. (Replays per teammate: short.)"""
+    sx = _sx(side)
+    res = 1 + (side == "enemy")
+    w = se(s["whoosh"])
+    for k in range(3):                                                         # pulls up
+        w += emit_at(CREW28, res, 1, (-sx * (70 - k * 14), 10)) + wait(1)
+    w += _hold(CREW28, res, 1, (-sx * 28, 10), 2)
+    w += se(s["bonk"]) + se(s["bslam"]) + emit_at(CREW28, 0, 1, (0, 22)) + func(48) + shake_defender(3, 2)
+    w += _hold(CREW28, res, 1, (-sx * 26, 10), 4)
+    for k in range(3):
+        w += emit_at(CREW28, res, 1, (-sx * (40 + k * 18), 10)) + wait(1)
+    return w + wait(8)
+
+
+def _quick_draw(side, s):
+    """Vacuum Wave (Quick Draw): a cowboy hat drops on. The town clock: 11:59. Tick... tick... 12:00 - DING - and
+    they're already drawn: a blast of air across the field before the foe even moves."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    clk = _s23(side, 0, (124, 70))
+    hat = (_p(side, 10, 0), _p(side, 32, 40))
+    scene = lambda r=1: emit_at(DRAW28, r, 0, clk) + emit_at(DRAWB28, 1, 0, hat)
+    w = []
+    for k in range(4):                                                         # the hat drops on
+        w += emit_at(DRAWB28, 1, 0, (hat[0], hat[1] + 30 - k * 10)) + wait(1)
+    w += se(s["pop"])
+    for k in range(14):                                                        # tick... tick...
+        w += scene() + (se(s["clock"]) if k % 5 == 0 else []) + wait(1)
+    w += se(s["bling"]) + scene(2) + wait(1)                                   # 12:00
+    w += se(s["kaboom"]) + flash_screen(3)
+    for k in range(4):                                                         # BANG - the air shot
+        p = _lerp((sx * 20, 30), (dx, dy + 24), (k + 1) / 4)
+        w += scene(2) + emit_at(DRAWB28, 0, 0, p) + emit_at(DRAWB28, 0, 0, _lerp((sx * 20, 30), (dx, dy + 24), k / 4)) + wait(1)
+    w += se(s["bslam"]) + emit_at(DRAWB28, 3, 1, (0, 24)) + shake_defender(4, 3) + func(48)
+    for k in range(6):
+        w += scene(2) + wait(1)
+    return w
+
+
+def _bad_vibes(side, s):
+    """Psywave (Bad Vibes): a VIBE CHECK meter next to the foe. GOOD... the needle slips to OK... then hard into BAD -
+    and bad vibes pour off the foe in waves."""
+    sx = _sx(side)
+    mtr = _s23(side, 0, _p(side, (128, 80), (114, 72)))
+    w = se(s["pop"]) + _hold(VIBE28, 1, 0, mtr, 8)
+    w += se(s["leer"]) + _hold(VIBE28, 2, 0, mtr, 8, lambda k: shake_defender(1, 1) if k == 2 else [])
+    w += se(s["alarm"]) + _hold(VIBEB28, 1, 0, mtr, 4)
+    w += se(s["psych"]) + func(34, 8, 0, 1, rgb(190, 80, 230), 13, 0)
+    for k in range(12):                                                        # the waves
+        w += emit_at(VIBEB28, 1, 0, mtr) + (emit_at(VIBEB28, 0, 1, (0, 22)) if k % 3 == 0 else [])
+        w += (se(s["psych"]) + shake_defender(2, 2) if k == 6 else []) + wait(1)
+    return w + func(48) + wait(2)
+
+
+def _hood_power(side, s):
+    """Nature Power (Hood Power): the bodega cat sits down next to the foe. Stares. Slow blink. Swat. Swat. Then it
+    stands up and SWATS. Sits back down like nothing happened."""
+    sx = _sx(side)
+    kit = _p(side, CAT28, CATB28)
+    cat = (-sx * 34, 2)
+    w = se(s["pop"]) + _hold(kit, 1, 1, cat, 10)
+    for n in range(2):                                                         # swat... swat...
+        w += se(s["swipe"]) + _hold(kit, 2, 1, cat, 2) + emit_at(CAT28, 0, 1, (-sx * 8, 26)) + shake_defender(1, 1)
+        w += _hold(kit, 1, 1, cat, 5)
+    w += _hold(kit, 2, 1, (cat[0], cat[1] + 4), 3)                            # stands up...
+    w += se(s["slash"]) + se(s["bslam"]) + flash_screen(3) + emit_at(CAT28, 0, 1, (0, 26)) + shake_defender(4, 3)   # SWAT
+    w += _hold(kit, 2, 1, (cat[0], cat[1] + 4), 3) + func(48)
+    return w + _hold(kit, 1, 1, cat, 8)
+
+
+def _tag_in(side, s):
+    """Assist (Tag In): a ring corner appears behind them. *TAG* - the luchador partner climbs the turnbuckle... and
+    comes off the top rope with a flying elbow on the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    corner = (-sx * 34, 22)
+    ck = _p(side, 1, 2)
+    lres = _p(side, 1, 2)
+    top = (corner[0], corner[1] + 40)
+    scene = lambda: emit_at(TAG28, ck, 0, corner)
+    w = se(s["pop"]) + _hold(TAG28, ck, 0, corner, 5)
+    w += se(s["dslap"]) + emit_at(TAGB28, 0, 0, (corner[0] + sx * 10, 30)) + _hold(TAG28, ck, 0, corner, 3)   # *TAG*
+    for k in range(4):                                                         # up the turnbuckle
+        w += scene() + emit_at(TAGB28, lres, 0, (corner[0], corner[1] + 10 + k * 10)) + wait(1)
+    w += se(s["whoosh"]) + _hold(TAG28, ck, 0, corner, 2, lambda k: emit_at(TAGB28, lres, 0, top))
+    w += _lob(TAGB28, lres, side, top, (dx - sx * 8, dy + 30), 6, 30, lambda k: scene())   # FLYING ELBOW
+    w += se(s["kaboom"]) + se(s["bslam"]) + flash_screen(4) + emit_at(TAGB28, 0, 1, (0, 24)) + shake_defender(4, 3)
+    w += _hold(TAGB28, lres, 1, (-sx * 8, 26), 4) + func(48)
+    return w + _hold(TAG28, ck, 0, corner, 3)
+
+
+def _bounce_back(side, s):
+    """Magic Coat (Bounce Back): a bouncy castle pops up round them - boing - boing. The foe lobs a nasty glob at
+    it... it bounces right off, back into the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    cas = (0, _p(side, 14, 4))
+    hit = (sx * 24, 34)
+    foe = (dx, dy + 24)
+    w = se(s["pop"]) + _hold(BOUNCE28, 1, 0, cas, 4)
+    for n in range(2):                                                         # boing... boing
+        w += se(s["flop"]) + bmove(side, 258, 3, 0, 14) + _hold(BOUNCE28, 1, 0, cas, 3)
+        w += bmove(side, 258, 3, 0, -14) + _hold(BOUNCE28, 1, 0, cas, 3)
+    w += se(s["sludge"])
+    for k in range(5):                                                         # the foe's glob...
+        w += emit_at(BOUNCE28, 1, 0, cas) + emit_at(BOUNCE28, 0, 0, _lerp(foe, hit, (k + 1) / 5)) + wait(1)
+    w += se(s["flop"]) + emit_at(BOUNCE28, 2, 0, hit)                         # *BOING*
+    for k in range(5):                                                         # ...right back
+        p = _lerp(hit, foe, (k + 1) / 5)
+        w += emit_at(BOUNCE28, 1, 0, cas) + emit_at(BOUNCE28, 0, 0, (p[0], p[1] + round(20 * (1 - abs(k - 2) / 2.5)))) + wait(1)
+    w += se(s["splat"]) + emit_at(BOUNCE28, 2, 1, (0, 24)) + func(48) + shake_defender(3, 2) + func(34, 8, 0, 1, rgb(160, 80, 220), 12, 0)
+    return w + _hold(BOUNCE28, 1, 0, cas, 5) + wait(8)
+
+
+def _hold_grudge(side, s):
+    """Grudge (Hold Grudge): a dartboard with the foe's photo pinned on it, X'd out. Thunk - outer ring. Thunk -
+    closer. Then BULLSEYE, right through the photo - and the foe feels it."""
+    sx = _sx(side)
+    board = _s23(side, 0, _p(side, (128, 66), (128, 70)))
+    dkit = _p(side, GRUDGE28, GRUDGEB28)
+    dres = _p(side, 2, 1)
+    start = (sx * 20, 34)
+    stuck = []
+    scene = lambda: emit_at(GRUDGE28, 1, 0, board) + [w_ for p in stuck for w_ in emit_at(dkit, dres, 0, p)]
+    w = se(s["pop"]) + _hold(GRUDGE28, 1, 0, board, 6)
+    for n, off in enumerate(((sx * -6, 18), (sx * -6, -12), (sx * -12, 2))):  # thunk... thunk... BULLSEYE
+        tgt = (board[0] + off[0], board[1] + off[1])
+        w += se(s["whoosh"])
+        for k in range(4):
+            w += scene() + emit_at(dkit, dres, 0, _lerp(start, tgt, (k + 1) / 4)) + wait(1)
+        stuck.append(tgt)
+        w += se(s["peck"] if n < 2 else s["bslam"]) + emit_at(GRUDGE28, 0, 0, tgt)
+        for k in range(5 if n < 2 else 2):
+            w += scene() + wait(1)
+    w += se(s["curse"]) + flash_screen(3) + func(48) + shake_defender(3, 3) + func(34, 8, 0, 1, rgb(90, 40, 110), 13, 0)
+    for k in range(8):
+        w += scene() + wait(1)
+    return w + wait(8)
+
+
+def _tickle_fight(side, s):
+    """Tickle (Tickle Fight): a feather duster - tickle, the foe flinches. Tickle tickle - they're trying not to laugh.
+    Then the full tickle attack - "HAHAHA" - totally defenseless."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    bub = _s23(side, 1, _p(side, (204, 24), (104, 66)))
+    w = []
+    for n, reps in enumerate((3, 5, 8)):                                       # tickle... tickle tickle... TICKLE
+        w += se(s["swipe"])
+        for k in range(reps):
+            w += emit_at(TICKLE28, res, 1, (-sx * (24 - (k % 2) * 6), 14 + (k % 3) * 6))
+            if k % 2 == 0:
+                w += emit_at(TICKLE28, 0, 1, (-sx * 10, 22)) + shake_defender(1 + n, 1)
+            w += wait(1)
+        w += wait(2)
+    w += se(s["swagger"]) + func(34, 8, 0, 1, rgb(255, 170, 200), 12, 0)
+    for k in range(12):                                                        # HAHAHA
+        w += emit_at(TICKLEB28, 1, 1, bub) + (func(48) + shake_defender(2, 1) if k % 4 == 0 else []) + wait(1)
+    return w + wait(4) + wait(8)
+
+
+def _galaxy_rag(side, s):
+    """Cosmic Power (Galaxy Rag): a galaxy-print durag drops on, tails flowing. The stars come off the print and orbit
+    them - a whole galaxy. Unbothered."""
+    sx = _sx(side)
+    res = _p(side, 2, 1)
+    head = (_p(side, 10, 0), _p(side, 32, 40))
+    w = []
+    for k in range(4):                                                         # drops on
+        w += emit_at(GAL28, res, 0, (head[0], head[1] + 30 - k * 10)) + wait(1)
+    w += se(s["bling"]) + _hold(GAL28, res, 0, head, 4) + func(33, 0, 1, 0, 10, 0)
+    import math
+    w += se(s["cosmic"] if "cosmic" in s else s["psych"])
+    for k in range(16):                                                        # the stars orbit
+        a = k * math.tau / 8
+        w += emit_at(GAL28, res, 0, head) + emit_at(GAL28, 0, 0, (round(math.cos(a) * 30), round(26 + math.sin(a) * 14)))
+        if k == 8:
+            w += emit_at(GAL28, 3, 0, (0, 26)) + se(s["bling"]) + func(34, 2, 0, 1, rgb(180, 140, 255), 12, 0)
+        w += wait(1)
+    return w + _hold(GAL28, res, 0, head, 4) + func(33, 0, 1, 10, 0, 0)
+
+
+def _ice_pick(side, s):
+    """Icicle Spear (Ice Pick): the bartender's ice pick - chip - chip - ice flying off the foe. (Replays per hit.)"""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    w = []
+    for n in range(2):                                                         # chip... chip
+        for k in range(2):
+            w += emit_at(PICK28, res, 1, (-sx * (30 - k * 8), 40 - k * 8)) + wait(1)
+        w += se(s["ishard"] if "ishard" in s else s["crack"]) + emit_at(PICK28, 0, 1, (-sx * 6, 24)) + shake_defender(1 + n, 1)
+        w += _hold(PICK28, res, 1, (-sx * 22, 32), 2)
+    return w + func(34, 8, 0, 1, rgb(190, 225, 255), 9, 0) + wait(3)
+
+
+def _blocked(side, s):
+    """Block (Blocked): the foe's phone - they text "hey". Nothing. "hey??". Nothing. Then the red banner: BLOCKED.
+    The foe's not going anywhere."""
+    sx = _sx(side)
+    ph = _s23(side, 1, _p(side, (164, 74), (108, 92)))
+    w = se(s["pop"]) + _hold(DM28, 1, 1, ph, 10)
+    w += se(s["peck"]) + _hold(DM28, 2, 1, ph, 10, lambda k: shake_defender(1, 1) if k == 3 else [])
+    w += se(s["bslam"]) + se(s["disable"]) + flash_screen(2) + emit_at(DMB28, 0, 1, ph)   # BLOCKED
+    w += func(34, 8, 0, 1, rgb(100, 100, 110), 12, 0)
+    for k in range(12):
+        w += emit_at(DMB28, 1, 1, ph) + (func(48) + shake_defender(2, 1) if k in (4, 8) else []) + wait(1)
+    return w + wait(4) + wait(8)
+
+
+def _rat_tail(side, s):
+    """Poison Tail (Rat Tail): a fat subway rat scurries up to the foe. Stops. Sniffs. Tail up - WHIP. Poisoned. It
+    scurries off like nothing happened."""
+    sx = _sx(side)
+    kit = _p(side, RAT28, RATB28)
+    y = _p(side, -8, 6)
+    w = se(s["swipe"])
+    for k in range(6):                                                         # scurry
+        w += emit_at(kit, 1, 1, (-sx * (120 - k * 18), y + (k % 2))) + wait(1)
+    w += _hold(kit, 1, 1, (-sx * 22, y), 6)                                    # sniff...
+    w += se(s["twhip"] if "twhip" in s else s["vwhip"]) + _hold(kit, 2, 1, (-sx * 22, y), 2)   # WHIP
+    w += se(s["bslam"]) + emit_at(RAT28, 0, 1, (0, 20)) + func(48) + shake_defender(3, 2) + func(34, 8, 0, 1, rgb(170, 70, 200), 12, 0)
+    w += _hold(kit, 2, 1, (-sx * 22, y), 3)
+    for k in range(6):                                                         # gone
+        w += emit_at(kit, 1, 1, (-sx * (22 - k * 22), y + (k % 2))) + wait(1)
+    return w + wait(8)
+
+
+def _kickback(side, s):
+    """Metal Burst (Kickback): they take it - wince - take it - then pay the foe back, a fat envelope stuffed with
+    cash, WITH INTEREST. SLAP."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    w = []
+    for n in range(2):                                                         # take it... take it
+        w += se(s["bonk"]) + flash_screen(1) + shake_attacker(1 + n, 2) + func(34, 2, 0, 1, rgb(255, 120, 120), 9, 0) + wait(5)
+    w += se(s["bling"]) + _hold(KICK28, 1, 0, (sx * 24, 40), 6)
+    w += se(s["whoosh"]) + _lob(KICK28, 1, side, (sx * 24, 40), (dx, dy + 30), 5, 18)
+    w += se(s["dslap"]) + se(s["bslam"]) + flash_screen(4) + emit_at(KICK28, 0, 1, (0, 30)) + shake_defender(4, 3)
+    w += _hold(KICK28, 1, 0, (dx, dy + 30), 8) + func(48)
+    return w
+
+
+def _pass_it_on(side, s):
+    """Psycho Shift (Pass It On): a hot potato in their hands - hot hot hot. Tossed to the foe - tossed back - tossed
+    again. The foe's stuck with it."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    me, foe = (sx * 14, 30), (dx, dy + 26)
+    w = se(s["ember"]) + func(34, 2, 0, 1, rgb(255, 120, 60), 9, 0)
+    for k in range(5):                                                         # hot hot hot
+        w += emit_at(POT28, 1, 0, (me[0] + (k % 2) * 3, me[1] + (k % 2) * 3)) + (emit_at(POT28, 0, 0, me) if k % 2 == 0 else []) + wait(1)
+    for n, (a, b) in enumerate(((me, foe), (foe, me), (me, foe))):            # toss... back... toss
+        w += se(s["whoosh"]) + _lob(POT28, 1, side, a, b, 4, 24)
+        w += se(s["ember"]) + (func(48) + shake_defender(1, 1) if b is foe else shake_attacker(1, 1))
+    w += se(s["burn"]) + func(34, 8, 0, 1, rgb(255, 120, 60), 12, 0)        # stuck with it
+    for k in range(8):
+        w += emit_at(POT28, 1, 0, (foe[0] + (k % 2) * 3, foe[1])) + (emit_at(POT28, 0, 0, foe) if k % 2 == 0 else []) + wait(1)
+    return w + wait(8)
+
+
+def _flip_script(side, s):
+    """Power Trick (Flip Script): a script page over them - ATK on top, DEF underneath. Flip. Flip back. FLIP - DEF on
+    top now, in red. Script flipped."""
+    pg = _s23(side, 0, _p(side, (104, 88), (160, 80)))
+    w = se(s["pop"]) + _hold(FLIP28, 1, 0, pg, 8)
+    for n, res in enumerate((2, 1, 2, 1, 2)):                                 # flip - flip - FLIP
+        w += se(s["swipe"]) + _hold(FLIP28, res, 0, pg, 3 if n < 4 else 2)
+    w += se(s["bling"]) + emit_at(FLIP28, 0, 0, pg) + func(34, 2, 0, 1, rgb(255, 120, 80), 12, 0)
+    return w + _hold(FLIP28, 2, 0, pg, 10)
+
+
+def _cosplay(side, s):
+    """Role Play (Cosplay): a cheap costume bag pops up - rip - out comes a rubber mask of the foe. Mask on. Pose.
+    The foe: "...REALLY?"."""
+    sx = _sx(side)
+    bag = (sx * 30, 30)
+    head = (_p(side, 10, 0), _p(side, 30, 40))
+    bub = _s23(side, 1, _p(side, (204, 24), (104, 66)))
+    w = se(s["pop"]) + _hold(COS28, 1, 0, bag, 8)
+    w += se(s["slash"]) + emit_at(COS28, 0, 0, bag) + wait(2)                 # *rip*
+    w += se(s["whoosh"]) + _lob(COS28, 2, side, bag, head, 4, 18)
+    w += se(s["bling"]) + bmove(side, 258, 2, 0, 8) + _hold(COS28, 2, 0, (head[0], head[1] + 8), 3)   # pose
+    w += bmove(side, 258, 2, 0, -8) + _hold(COS28, 2, 0, head, 3)
+    for k in range(12):                                                        # "...REALLY?"
+        w += emit_at(COS28, 2, 0, head) + emit_at(COSB28, 1, 1, bub) + wait(1)
+    return w
+
+
+def _guard_swarm(side, s):
+    """Defend Order (Guard Swarm): a mall cop on a segway rolls up. Another. Then a whole ring of them circling the
+    attacker, whistles going. Nobody's getting through."""
+    import math
+    sx = _sx(side)
+    w = se(s["whistle"] if "whistle" in s else s["alarm"])
+    for k in range(5):                                                         # one...
+        w += emit_at(COP28, 1, 0, (-120 + k * 18, 6)) + wait(1)
+    w += _hold(COP28, 1, 0, (-30, 6), 2)
+    for k in range(5):                                                         # two...
+        w += emit_at(COP28, 1, 0, (-30, 6)) + emit_at(COP28, 2, 0, (120 - k * 18, 10)) + wait(1)
+    w += se(s["alarm"]) + func(34, 2, 0, 1, rgb(150, 200, 255), 12, 0)
+    for k in range(16):                                                        # the ring
+        for j in range(4):
+            a = (k / 16 + j / 4) * math.tau
+            res = 1 if math.sin(a) < 0 else 2
+            w += emit_at(COP28, res, 0, (round(math.cos(a) * 44), round(10 + math.sin(a) * 14)))
+        if k % 5 == 0:
+            w += emit_at(COP28, 0, 0, (0, 30))
+        w += wait(1)
+    return w
+
+
+def _honey_heal(side, s):
+    """Heal Order (Honey Heal): a big mug of tea. The honey bear - squeeze, a drizzle. Squeeze. Then a sip... ahhh."""
+    sx = _sx(side)
+    mug = (sx * 30, 14)
+    bear = (sx * 30, 44)
+    w = se(s["pop"]) + _hold(HONEY28, 2, 0, mug, 4)
+    for n in range(2):                                                         # squeeze... squeeze
+        w += se(s["absorb"])
+        for k in range(5):
+            w += emit_at(HONEY28, 2, 0, mug) + emit_at(HONEY28, 1, 0, (bear[0], bear[1] - (k % 2) * 2))
+            w += (emit_at(HONEY28, 0, 0, (bear[0], bear[1] - 10)) if k % 2 == 0 else []) + wait(1)
+    w += se(s["rest"]) + _lob(HONEY28, 2, side, mug, (sx * 8, 34), 3, 8)      # sip...
+    w += emit_at(HONEYB28, 0, 0, (0, 26)) + func(34, 2, 0, 1, rgb(140, 255, 160), 12, 0)
+    return w + _hold(HONEY28, 2, 0, (sx * 8, 34), 10)
+
+
+def _edge_up(side, s):
+    """Sharpen (Edge Up): the knife on the honing steel - shing. Shing. SHIIING - sparks - and a glint off the edge."""
+    sx = _sx(side)
+    st = (sx * 30, 36)
+    w = se(s["pop"]) + _hold(EDGE28, 2, 0, st, 3)
+    for n in range(3):                                                         # shing... shing... SHIIING
+        w += se(s["slash"])
+        for k in range(3):
+            w += emit_at(EDGE28, 1, 0, (st[0] - 6 + k * 6, st[1] + 10 - k * 6)) + emit_at(EDGE28, 2, 0, st) + wait(1)
+        w += emit_at(EDGE28, 0, 0, (st[0] + 4, st[1])) + emit_at(EDGE28, 2, 0, st) + emit_at(EDGE28, 1, 0, (st[0] + 6, st[1] - 8)) + wait(2 if n < 2 else 1)
+    w += se(s["bling"]) + flash_screen(2) + func(34, 2, 0, 1, rgb(255, 120, 80), 12, 0)   # glint
+    return w + _hold(EDGE28, 1, 0, (st[0], st[1] + 6), 8)
+
+
+def _blend_in(side, s):
+    """Camouflage (Blend In): a hi-vis vest drops on, a clipboard in hand - they walk right up past the foe like they
+    belong there. The foe just nods: "YOU GOOD." Walk back. Never questioned."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    vest = (0, _p(side, 16, 22))
+    clip = (sx * 22, 24)
+    walk = (round(dx * .45), round(dy * .45))
+    gear = lambda o=(0, 0): emit_at(VIS28, 1, 0, (vest[0] + o[0], vest[1] + o[1])) + emit_at(VIS28, 2, 0, (clip[0] + o[0], clip[1] + o[1]))
+    w = []
+    for k in range(4):                                                         # vest drops on
+        w += emit_at(VIS28, 1, 0, (vest[0], vest[1] + 30 - k * 10)) + wait(1)
+    w += se(s["pop"]) + emit_at(VIS28, 0, 0, vest)
+    for k in range(5):
+        w += gear() + wait(1)
+    w += se(s["swipe"]) + bmove(side, 258, 8, walk[0], walk[1])               # walks right up
+    for k in range(5):
+        w += gear(_lerp((0, 0), walk, (k + 1) / 5)) + wait(1)
+    bub = _s23(side, 1, _p(side, (204, 24), (104, 66)))
+    for k in range(12):                                                        # "YOU GOOD."
+        w += gear(walk) + emit_at(VISB28, 1, 1, bub) + (bmove(side, 264, 2, 0, -3) if k == 3 else []) + (bmove(side, 264, 2, 0, 3) if k == 6 else []) + wait(1)
+    w += bmove(side, 258, 6, -walk[0], -walk[1])
+    for k in range(4):
+        w += gear(_lerp(walk, (0, 0), (k + 1) / 4)) + wait(1)
+    return w + func(34, 2, 0, 1, rgb(220, 255, 80), 11, 0) + _hold(VIS28, 1, 0, vest, 4)
+
+
+def _night_vision(side, s):
+    """Miracle Eye (Night Vision): the goggles flip down over their eyes - click - the whole screen goes dark and green.
+    Beep... beep... the foe lights up bright. Nowhere to hide."""
+    head = (_p(side, 10, 0), _p(side, 28, 36))
+    w = []
+    for k in range(3):                                                         # flip down
+        w += emit_at(NV28, 1, 0, (head[0], head[1] + 16 - k * 8)) + wait(1)
+    w += se(s["lockon"]) + func(33, 0, 1, 0, 15, 0)
+    w += func(34, 2, 0, 1, rgb(80, 255, 110), 14, 0)
+    for k in range(18):                                                        # beep... beep...
+        w += emit_at(NV28, 1, 0, head)
+        if k % 6 == 0:
+            w += se(s["lockon2"] if "lockon2" in s else s["lockon"]) + emit_at(NV28, 0, 1, (0, 24))
+        if k == 12:
+            w += se(s["bling"]) + func(34, 8, 0, 1, rgb(220, 255, 220), 15, 0) + flash_screen(2)
+        w += wait(1)
+    return w + func(33, 0, 1, 15, 0, 0) + _hold(NV28, 1, 0, head, 3)
+
+
+def _paranoia(side, s):
+    """Worry Seed (Paranoia): 3 a.m. Thought clouds start popping up over the foe: DID I LOCK IT? ... DID THEY SEE
+    THAT? ... 3:00 AM. The foe's wide awake and twitching. No sleep tonight."""
+    spots = [_s23(side, 1, p) for p in _p(side, ((182, 32), (124, 66)), ((104, 70), (152, 58)))]
+    w = func(33, 0, 1, 0, 10, 0)
+    shown = []
+    for n, (kit, res) in enumerate(((THINK28, 1), (THINK28, 2), (THINKB28, 1))):
+        w += se(s["pop"] if n < 2 else s["alarm"])
+        sp = spots[n % 2]
+        for k in range(10 if n < 2 else 12):
+            w += emit_at(kit, res, 1, sp) + (shake_defender(1 + n, 1) if k == 3 else []) + wait(1)
+    w += se(s["leer"]) + func(34, 8, 0, 1, rgb(220, 220, 255), 12, 0) + emit_at(THINKB28, 0, 1, (0, 30))
+    return w + func(33, 0, 1, 10, 0, 0) + wait(4)
+
+
+def _fresh_scent(side, s):
+    """Aromatherapy (Fresh Scent): stink lines coming off them. A pine-tree air freshener pops up - sniff. Another. Then
+    a whole forest of them dangling all round. Fresh."""
+    sx = _sx(side)
+    trees = [((sx * 30, 52), TREE28, 1), ((-sx * 26, 46), TREE28, 2), ((sx * 12, 66), TREEB28, 1), ((-sx * 8, 60), TREE28, 1),
+             ((sx * 40, 34), TREE28, 2), ((-sx * 36, 30), TREEB28, 1)]
+    up = []
+    hang = lambda: [w_ for i in up for w_ in emit_at(trees[i][1], trees[i][2], 0, trees[i][0])]
+    w = []
+    for k in range(6):                                                         # stinky
+        w += (emit_at(TREE28, 0, 0, (0, 24)) if k % 2 == 0 else []) + wait(1)
+    for n, group in enumerate(([0], [1], [2, 3, 4, 5])):                       # one... two... a forest
+        up += group
+        w += se(s["pop"] if n < 2 else s["bling"])
+        for k in range(6):
+            w += hang() + (emit_at(TREE28, 0, 0, (0, 24)) if n < 2 and k == 2 else []) + wait(1)
+    w += se(s["sscent"]) + emit_at(TREEB28, 0, 0, (0, 26)) + func(34, 2, 0, 1, rgb(140, 255, 160), 12, 0)
+    for k in range(8):
+        w += hang() + wait(1)
+    return w
+
+
+def _mood_swap(side, s):
+    """Heart Swap (Mood Swap): a mood ring floats over each of them - red over the attacker, blue over the foe. They
+    swap places. Now the attacker's chill and the foe's heated."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    a, b = (0, _p(side, 64, 54)), (dx, dy + 46)
+    both = lambda pa, pb: emit_at(MOOD28, 1, 0, pa) + emit_at(MOOD28, 2, 0, pb)
+    w = se(s["pop"]) + func(34, 2, 0, 1, rgb(255, 90, 90), 10, 0) + func(34, 8, 0, 1, rgb(90, 140, 255), 10, 0)
+    for k in range(8):
+        w += both(a, b) + wait(1)
+    w += se(s["psych"]) + se(s["whoosh"])
+    for k in range(6):                                                         # they swap
+        t = (k + 1) / 6
+        h = round(24 * 4 * t * (1 - t))
+        pa, pb = _lerp(a, b, t), _lerp(b, a, t)
+        w += both((pa[0], pa[1] + h), (pb[0], pb[1] - h)) + wait(1)
+    w += se(s["bling"]) + emit_at(MOOD28, 0, 0, a) + emit_at(MOOD28, 0, 1, (0, 46))
+    w += func(34, 2, 0, 1, rgb(90, 140, 255), 12, 0) + func(34, 8, 0, 1, rgb(255, 90, 90), 12, 0)
+    for k in range(10):
+        w += both(b, a) + wait(1)
+    return w
+
+
+def _blow_dryer(side, s):
+    """Razor Wind (Blow Dryer), two turns. Turn 1: a salon blow dryer - plug in - click, low - click, HIGH, rattling
+    in their hand. Turn 2: aimed at the foe - razor gusts rip across the field."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    res = _p(side, 1, 2)
+    dr = (sx * 30, 30)
+    one = se(s["pop"]) + _hold(DRY29, res, 0, dr, 5)
+    for n in range(2):                                                         # click, low... click, HIGH
+        one += se(s["clock"]) + se(s["gust"] if n else s["whoosh"])
+        for k in range(6 + n * 4):
+            one += emit_at(DRY29, res, 0, (dr[0] + (k % 2) * (1 + n), dr[1] + (k % 2) * n))
+            if k % (3 - n) == 0:
+                one += emit_at(DRY29, 0, 0, (dr[0] + sx * (18 + k * 2), dr[1] + 4))
+            one += wait(1)
+    one += _hold(DRY29, res, 0, dr, 3)
+    two = se(s["gust"]) + se(s["razor"] if "razor" in s else s["slash"]) + _hold(DRY29, res, 0, dr, 2)
+    for k in range(10):                                                        # razor gusts
+        two += emit_at(DRY29, res, 0, dr)
+        for j in range(2):
+            t = ((k + j * 3) % 5 + 1) / 5
+            p = _lerp(dr, (dx, dy + 24), t)
+            two += emit_at(DRY29, 0, 0, (p[0], p[1] + (j * 12 - 6)))
+        if k % 3 == 2:
+            two += se(s["slash"]) + emit_at(DRY29, 3, 1, (0, 24)) + func(48) + shake_defender(2, 1)
+        two += wait(1)
+    two += wait(3) + wait(8)
+    return one, two
+
+
+def _blow_dryer_turn2_first(side, s):
+    """Test only: Blow Dryer's second turn on its own."""
+    return _blow_dryer(side, s)[1]
+
+
+def _snow_globe(side, s):
+    """Weather Ball (Snow Globe): a snow globe of the block. Shake - flurries. Shake - more. SHAKE - the weather inside
+    goes wild, lightning and all. Thrown - SMASH - a blizzard bursts out over the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    g = (sx * 30, 42)
+    w = se(s["pop"]) + _hold(GLOBE29, 1, 0, g, 4)
+    for n in range(2):                                                         # shake... shake...
+        w += se(s["swipe"])
+        for k in range(5):
+            w += emit_at(GLOBE29, 1, 0, (g[0] + (3 if k % 2 else -3) * (n + 1), g[1])) + wait(1)
+        w += _hold(GLOBE29, 1, 0, g, 3)
+    w += se(s["thunder"])
+    for k in range(6):                                                         # SHAKE - the storm
+        w += emit_at(GLOBE29, 2, 0, (g[0] + (5 if k % 2 else -5), g[1] + (k % 2) * 2)) + wait(1)
+    w += se(s["whoosh"]) + _lob(GLOBE29, 2, side, g, (dx, dy + 30), 5, 24)
+    w += se(s["ishard"] if "ishard" in s else s["crack"]) + se(s["blizzard"]) + flash_screen(4)   # SMASH
+    w += emit_at(GLOBE29, 0, 1, (0, 30)) + emit_at(GLOBE29, 0, 1, (0, 10)) + func(48) + shake_defender(4, 3)
+    w += func(34, 8, 0, 1, rgb(210, 235, 255), 13, 0)
+    for k in range(8):
+        w += (emit_at(GLOBE29, 0, 1, (sx * (k - 4) * 6, 40)) if k % 3 == 0 else []) + wait(1)
+    return w + wait(3) + wait(8)
+
+
+def _spinners(side, s):
+    """Mirror Shot (Spinners): a chrome spinner rim rolls in next to them, still spinning. Glint. Glint. Then the sun
+    hits it just right - a blinding glare straight in the foe's eyes."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    rim = (sx * 34, 16)
+    spin = lambda k: emit_at(RIM29, 1 + k % 2, 0, rim)
+    w = se(s["rollout"])
+    for k in range(5):                                                         # rolls in
+        w += emit_at(RIM29, 1 + k % 2, 0, (rim[0] - sx * (40 - k * 8), rim[1])) + wait(1)
+    for n in range(2):                                                         # glint... glint...
+        for k in range(5):
+            w += spin(k) + (se(s["bling"]) + emit_at(RIM29, 0, 0, (rim[0] - 6, rim[1] + 8)) if k == 2 else []) + wait(1)
+    w += se(s["sbeam"]) + flash_screen(5)                                     # GLARE
+    for k in range(12):
+        w += spin(k)
+        for t in (.3, .55, .8):
+            p = _lerp(rim, (dx, dy + 26), t)
+            w += emit_at(RIMB29, 0, 0, p)
+        if k == 2:
+            w += func(34, 8, 0, 1, rgb(255, 255, 230), 15, 0) + func(48) + shake_defender(3, 3)
+        w += wait(1)
+    return w + wait(3) + wait(8)
+
+
+def _throw_shade(side, s):
+    """Psycho Cut (Throw Shade): a lampshade lands on their head like they're the life of the party. Then they throw
+    shade - literally - the lampshade flies spinning like a blade and slices clean through the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    head = (_p(side, 10, 0), _p(side, 34, 44))
+    w = []
+    for k in range(4):                                                         # lands on their head
+        w += emit_at(SHADE29, 1, 0, (head[0], head[1] + 30 - k * 10)) + wait(1)
+    w += se(s["pop"]) + bmove(side, 258, 2, 0, 4) + _hold(SHADE29, 1, 0, (head[0], head[1] + 4), 4) + bmove(side, 258, 2, 0, -4)
+    w += _hold(SHADE29, 1, 0, head, 4)
+    w += se(s["psych"]) + se(s["whoosh"])
+    for k in range(7):                                                         # THROWN - spinning
+        p = _lerp(head, (dx + sx * 20, dy + 26), (k + 1) / 7)
+        w += emit_at(SHADE29, 1 + k % 2, 0, p) + wait(1)
+    w += se(s["slash"]) + se(s["bslam"]) + flash_screen(3) + emit_at(SHADE29, 0, 1, (0, 24)) + func(48) + shake_defender(4, 3)
+    for k in range(4):                                                         # and gone
+        w += emit_at(SHADE29, 1 + k % 2, 0, (dx + sx * (36 + k * 20), dy + 30 + k * 6)) + wait(1)
+    return w + wait(3) + wait(8)
+
+
+def _burned_cd(side, s):
+    """Copycat (Burned CD): a burned CD - MIX COPY in sharpie - into the boombox. Skip. Skip. Then it plays: a
+    bootleg copy of the last move, blasted at the foe."""
+    sx = _sx(side)
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    bb = (sx * 36, 28)
+    cd = _p(side, (sx * 6, 66), (-30, 42))
+    w = se(s["pop"]) + _hold(CD29, 1, 0, cd, 8, lambda k: emit_at(CD29, 2, 0, bb))
+    w += se(s["whoosh"]) + _lob(CD29, 1, side, cd, (bb[0], bb[1] + 10), 4, 10, lambda k: emit_at(CD29, 2, 0, bb))
+    for n in range(2):                                                         # skip... skip...
+        w += se(s["peck"]) + _hold(CD29, 2, 0, (bb[0] + (2 if n else -2), bb[1]), 2) + _hold(CD29, 2, 0, bb, 4)
+    w += se(s["bling"]) + se(s["bslam"])                                       # it plays
+    for k in range(8):
+        w += emit_at(CD29, 2, 0, (bb[0] + (k % 2), bb[1]))
+        if k % 2 == 0:
+            w += emit_at(CD29, 0, 0, _lerp(bb, (dx, dy + 24), (k + 2) / 8))
+        w += wait(1)
+    w += se(s["kaboom"]) + flash_screen(3) + emit_at(CD29, 0, 1, (0, 24)) + func(48) + shake_defender(3, 3)
+    return w + _hold(CD29, 2, 0, bb, 4) + wait(8)
+
+
+def _face_swap(side, s):
+    """Transform (Face Swap): the phone comes out, face-swap filter on - SCAN, the line sweeps their face. SWAP - the two
+    of them flicker back and forth. DONE."""
+    ph = _s23(side, 0, _p(side, (110, 84), (156, 82)))
+    w = se(s["pop"]) + _hold(SWAP29, 1, 0, ph, 10, lambda k: se(s["lockon"]) if k == 3 else [])
+    w += se(s["psych"])
+    for k in range(10):                                                        # SWAP - flicker
+        w += emit_at(SWAP29, 2, 0, ph)
+        if k % 2 == 0:
+            col = (rgb(255, 120, 220), rgb(120, 255, 220))[(k // 2) % 2]
+            w += func(34, 2, 0, 1, col, 11, 0) + func(34, 8, 0, 1, col, 11, 0)
+        w += wait(1)
+    w += se(s["bling"]) + emit_at(SWAPB29, 0, 0, (0, 30))
+    return w + _hold(SWAPB29, 1, 0, ph, 10)
+
+
+def _caricature(side, s):
+    """Sketch (Caricature): a street caricature artist's easel next to the foe. Sketch sketch - rough lines. Sketch -
+    then the reveal: a big-head caricature of the foe, huge grin. Keeping that one."""
+    sx = _sx(side)
+    ea = _s23(side, 0, _p(side, (128, 72), (118, 76)))
+    pen = lambda k: emit_at(EASELB29, 2, 0, (ea[0] + (k % 3 - 1) * 6, ea[1] + 4 + (k % 2) * 6))
+    w = se(s["pop"]) + _hold(EASEL29, 1, 0, ea, 5)
+    w += se(s["swipe"])
+    for k in range(8):                                                         # sketch... sketch...
+        w += emit_at(EASEL29, 1 if k < 4 else 2, 0, ea) + pen(k) + (se(s["swipe"]) if k == 4 else []) + wait(1)
+    w += bmove(side, 264, 2, 0, 4) + _hold(EASEL29, 2, 0, ea, 3) + bmove(side, 264, 2, 0, -4)   # the foe leans in
+    w += se(s["bling"]) + emit_at(EASELB29, 0, 0, ea) + flash_screen(2)       # the reveal
+    w += _hold(EASELB29, 1, 0, ea, 6) + shake_defender(2, 2)
+    return w + _hold(EASELB29, 1, 0, ea, 8)
+
+
+def _rebrand(side, s):
+    """Conversion (Rebrand): the paint roller comes out - roll, a stripe of new color. Roll - another. Then the full
+    coat: a whole new look. Rebranded."""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    w = []
+    for n in range(3):                                                         # roll... roll... full coat
+        w += se(s["swipe"])
+        for k in range(5):
+            w += emit_at(ROLL29, res, 0, (sx * (n * 10 - 10), 50 - k * 9)) + (emit_at(ROLL29, 0, 0, (sx * (n * 10 - 10), 34 - k * 6)) if k % 2 == 0 else []) + wait(1)
+        w += func(34, 2, 0, 1, rgb(40, 190, 180), 7 + n * 3, 0) + wait(2)
+    w += se(s["bling"]) + emit_at(ROLL29, 0, 0, (0, 30)) + flash_screen(2)
+    return w + _hold(ROLL29, res, 0, (sx * 30, 30), 6)
+
+
+def _b_side(side, s):
+    """Conversion 2 (B-Side): a cassette - SIDE A. Pop it out, flip it - SIDE B. Click, play - a whole new sound."""
+    tp = _s23(side, 0, _p(side, (110, 82), (156, 80)))
+    w = se(s["pop"]) + _hold(TAPE29, 1, 0, tp, 8)
+    w += se(s["clock"])
+    for k in range(6):                                                         # flip...
+        w += emit_at(TAPE29, 1 if k < 3 else 2, 0, (tp[0], tp[1] + (6 if k in (2, 3) else 0))) + wait(1)
+    w += se(s["clock"]) + _hold(TAPE29, 2, 0, tp, 4)                          # click - play
+    w += se(s["bling"]) + emit_at(TAPE29, 0, 0, tp) + func(34, 2, 0, 1, rgb(255, 120, 150), 12, 0)
+    return w + _hold(TAPE29, 2, 0, tp, 8)
+
+
+def _take_the_l(side, s):
+    """Swallow (Take the L): a giant red L floats down in front of them. They look at it. Shrug. GULP - the whole
+    thing. ...and they actually feel better."""
+    sx = _sx(side)
+    mouth = (_p(side, 12, 0), _p(side, 30, 34))
+    w = se(s["whoosh"])
+    for k in range(6):                                                         # it floats down
+        w += emit_at(L29, 1, 0, (sx * 30, 90 - k * 10)) + wait(1)
+    w += _hold(L29, 1, 0, (sx * 30, 34), 8)                                    # ...look at it
+    w += bmove(side, 258, 2, 0, 4) + _hold(L29, 1, 0, (sx * 30, 34), 3) + bmove(side, 258, 2, 0, -4)   # shrug
+    w += se(s["whoosh"]) + _lob(L29, 1, side, (sx * 30, 34), mouth, 4, 6)
+    w += se(s["crunch"]) + shake_attacker(2, 3) + wait(6)                      # GULP
+    w += se(s["rest"]) + emit_at(L29, 0, 0, (0, 28)) + func(34, 2, 0, 1, rgb(140, 255, 160), 12, 0)
+    return w + wait(10)
+
+
+def _power_trade(side, s):
+    """Power Swap (Power Trade): a tub of pre-workout over them, a box of chamomile tea over the foe. Swapped. Now
+    the foe's hyped up and they're... calm. On purpose."""
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    a, b = (0, _p(side, 62, 54)), (dx, dy + 46)
+    both = lambda pa, pb, r=(1, 2): emit_at(TRADE29, r[0], 0, pa) + emit_at(TRADE29, r[1], 0, pb)
+    w = se(s["pop"])
+    for k in range(8):
+        w += both(a, b) + wait(1)
+    w += se(s["whoosh"])
+    for k in range(6):                                                         # swap
+        t = (k + 1) / 6
+        h = round(24 * 4 * t * (1 - t))
+        pa, pb = _lerp(a, b, t), _lerp(b, a, t)
+        w += both((pa[0], pa[1] + h), (pb[0], pb[1] - h)) + wait(1)
+    w += se(s["bling"]) + emit_at(TRADE29, 0, 0, a) + emit_at(TRADE29, 0, 1, (0, 46))
+    w += func(34, 2, 0, 1, rgb(250, 230, 150), 11, 0) + func(34, 8, 0, 1, rgb(255, 90, 90), 11, 0)
+    for k in range(10):
+        w += both(b, a) + wait(1)
+    return w
+
+
+def _guard_trade(side, s):
+    """Guard Swap (Guard Trade): they're under a busted bodega umbrella, the foe's under a big sturdy golf umbrella.
+    Swapped. Then it starts pouring - right on the foe."""
+    dx, dy = TARGET_FROM_ATTACKER[side]
+    a, b = (0, _p(side, 58, 52)), (dx, dy + 44)
+    both = lambda pa, pb: emit_at(UMB29, 2, 0, pa) + emit_at(UMB29, 1, 0, pb)
+    w = se(s["pop"])
+    for k in range(8):
+        w += both(a, b) + wait(1)
+    w += se(s["whoosh"])
+    for k in range(6):                                                         # swap
+        t = (k + 1) / 6
+        h = round(24 * 4 * t * (1 - t))
+        pa, pb = _lerp(a, b, t), _lerp(b, a, t)
+        w += both((pa[0], pa[1] + h), (pb[0], pb[1] - h)) + wait(1)
+    w += se(s["raindance"] if "raindance" in s else s["splash"])
+    for k in range(14):                                                        # ...and it pours on the foe
+        w += both(b, a)
+        if k % 2 == 0:
+            w += emit_at(UMB29, 0, 0, (dx + (k % 4 - 2) * 6, dy + 60))
+        if k == 6:
+            w += func(34, 8, 0, 1, rgb(120, 170, 255), 12, 0) + shake_defender(1, 2)
+        w += wait(1)
+    return w
+
+
+def _shove_off(side, s):
+    """Arm Thrust (Shove Off): a push broom sweeps the foe right off their spot - shove. (Replays per hit: short.)"""
+    sx = _sx(side)
+    res = _p(side, 1, 2)
+    w = se(s["swipe"])
+    for k in range(3):
+        w += emit_at(BROOM29, res, 1, (-sx * (50 - k * 10), 6)) + wait(1)
+    w += se(s["bonk"]) + func(48) + bmove(side, 264, 2, sx * 10, 0) + emit_at(BROOM29, 0, 1, (-sx * 10, -2))
+    w += emit_at(BROOM29, res, 1, (-sx * 16, 6)) + wait(1) + emit_at(BROOM29, res, 1, (-sx * 14, 6)) + wait(2)
+    w += bmove(side, 264, 3, -sx * 10, 0) + wait(3)
+    return w + wait(8)
+
+
+def _dirty_cross(side, s):
+    """Cross Poison (Dirty Cross): a spray can by the foe - rattle rattle. PSST - one stroke. PSST - the other. A dirty
+    green X tagged right on them. Toxic."""
+    sx = _sx(side)
+    can = (-sx * 28, 34)
+    w = se(s["pop"])
+    for k in range(6):                                                         # rattle rattle
+        w += emit_at(SPRAY29, 1, 1, (can[0], can[1] + (3 if k % 2 else -3))) + (se(s["peck"]) if k % 2 == 0 else []) + wait(1)
+    for n in range(2):                                                         # PSST... PSST
+        w += se(s["spray"])
+        for k in range(4):
+            y = 40 - k * 10
+            x = (-12 + k * 8) * (1 if n == 0 else -1)
+            w += emit_at(SPRAY29, 1, 1, can) + emit_at(SPRAY29, 0, 1, (x, y)) + wait(1)
+    w += se(s["slash"]) + se(s["toxic"]) + flash_screen(2) + func(48) + shake_defender(3, 2)   # TAGGED
+    w += func(34, 8, 0, 1, rgb(110, 230, 60), 12, 0)
+    for k in range(10):
+        w += emit_at(SPRAY29, 2, 1, (0, 22)) + (emit_at(SPRAY29, 1, 1, can) if k < 5 else []) + wait(1)
+    return w + wait(3) + wait(8)
+
+
+def _open_window(side, s):
+    """Defog (Open Window): fog everywhere. A window - they shove it open. Then a greasy pizza box, fanning like
+    crazy - the fog rolls out the window till it's clear."""
+    win = _s23(side, 0, (124, 70))
+    fan = (win[0] + 30, win[1] - 20)
+    w = func(33, 0, 1, 0, 8, 0) + se(s["haze"] if "haze" in s else s["smoke"])
+    for k in range(8):                                                         # fog everywhere
+        w += emit_at(WIN29, 0, 0, (win[0] + (k * 37 % 120) - 60, win[1] + (k * 23 % 60) - 40)) + emit_at(WIN29, 1, 0, win) + wait(1)
+    w += se(s["swipe"]) + _hold(WIN29, 2, 0, win, 3)                          # shoved open
+    for k in range(14):                                                        # fan it out
+        w += emit_at(WIN29, 2, 0, win) + emit_at(WINB29, 1 + k % 2, 0, (fan[0] + (k % 2) * 6, fan[1] + (k % 2) * 4))
+        if k % 2 == 0:
+            p = (win[0] + 60 - k * 4, win[1] - 30 + (k * 5) % 30)
+            w += emit_at(WIN29, 0, 0, p) + se(s["gust"] if k % 4 == 0 else s["whoosh"])
+        w += wait(1)
+    w += func(33, 0, 1, 8, 0, 0) + se(s["bling"]) + func(34, 8, 0, 1, rgb(220, 220, 230), 10, 0)
+    return w + _hold(WIN29, 2, 0, win, 6)
 
 
 VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dangle, 9: _payday, 10: _full_auto, 11: _rpg,
@@ -10335,35 +17345,241 @@ VARIANTS = {97: _fly_turn2_first, 99: _calibrate, 7: _chain_swing, 8: _chain_dan
             262: _flash_bang,
             263: _hit_the_gym,
             264: _clown_on,
-            265: _swipe,
-            266: _one_punch,
+            265: _scam_likely,
+            266: _fair_one,
             267: _tax_punch,
-            268: _iron_wing,
-            269: _flashbang_switch,
-            270: _rock_trap,
-            271: _trip_wire,
-            272: _grudge,
-            273: _front,
+            268: _chicken_wing,
+            269: _ring_light,
+            270: _spike_strip,
+            271: _got_laced,
+            272: _big_mad,
+            273: _rental_lambo,
             274: _inside_job,
-            275: _wall_climb,
-            276: _fake_pass,
-            277: _smoke_screen,
+            275: _parkour,
+            276: _crossover,
+            277: _vape_cloud,
             278: _plug_in,
             279: _bed_bugs,
-            280: _squeeze_out,
+            280: _shakedown,
             281: _loud_pack,
-            282: _grind,
-            283: _sniff_out,
+            282: _same_smoke,
+            283: _k9_unit,
             284: _hide_out,
-            285: _rock_candy,
+            285: _bling_beam,
             286: _mooch,
             287: _peep_game,
             288: _zaza_storm,
             289: _dip_out,
-            290: _mouthwash_spit,
+            290: _spit_bars2,
             291: _post_up,
             292: _stab_combo,
-            293: _blood_pact,
+            293: _ride_or_die,
+            294: _pistol_whip,
+            295: _double_tap,
+            296: _licked_it,
+            297: _ricochet,
+            298: _smooth_talk,
+            494: _power_trade,
+            495: _guard_trade,
+            496: _shove_off,
+            497: _dirty_cross,
+            498: _open_window,
+            489: _face_swap,
+            490: _caricature,
+            491: _rebrand,
+            492: _b_side,
+            493: _take_the_l,
+            484: _blow_dryer,
+            499: _blow_dryer_turn2_first,
+            485: _snow_globe,
+            486: _spinners,
+            487: _throw_shade,
+            488: _burned_cd,
+            479: _blend_in,
+            480: _night_vision,
+            481: _paranoia,
+            482: _fresh_scent,
+            483: _mood_swap,
+            474: _flip_script,
+            475: _cosplay,
+            476: _guard_swarm,
+            477: _honey_heal,
+            478: _edge_up,
+            469: _ice_pick,
+            470: _blocked,
+            471: _rat_tail,
+            472: _kickback,
+            473: _pass_it_on,
+            464: _tag_in,
+            465: _bounce_back,
+            466: _hold_grudge,
+            467: _tickle_fight,
+            468: _galaxy_rag,
+            459: _mirror_tint,
+            460: _jump_em,
+            461: _quick_draw,
+            462: _bad_vibes,
+            463: _hood_power,
+            454: _high_beams,
+            455: _fog_machine,
+            456: _order_up,
+            457: _sag_check,
+            458: _last_wish,
+            449: _namaste,
+            450: _lock_up,
+            451: _look_at_me,
+            452: _snowball,
+            453: _hoverboard,
+            444: _glow_up,
+            445: _stomach_bug,
+            446: _rabbit_foot,
+            447: _stiff_arm,
+            448: _hype_howl,
+            439: _back_rub,
+            440: _flu_shot,
+            441: _bad_wind,
+            442: _tat_gun,
+            443: _cut_line,
+            434: _cut_off,
+            435: _time_out,
+            436: _swap_bags,
+            437: _yap_session,
+            438: _moonwalk,
+            429: _rip_shirt,
+            430: _fresh_fit,
+            431: _hotfoot,
+            432: _space_jam,
+            433: _dirty_water,
+            424: _send_it,
+            425: _allergy_szn,
+            426: _blackout,
+            427: _aura_farm,
+            428: _rush_hour,
+            417: _finesse,
+            418: _ext_cord,
+            419: _two_by_four,
+            420: _kick_back,
+            421: _slow_jam,
+            412: _weed_whacker,
+            413: _whack_a_mole,
+            414: _chia_pet,
+            415: _jet_ski,
+            416: _back_alley,
+            407: _pillow_fight,
+            408: _bad_sushi,
+            409: _blindside,
+            410: _uppercut,
+            411: _sandbag,
+            402: _speed_bag,
+            403: _trash_can,
+            404: _comeback,
+            405: _wish_list,
+            406: _deep_end,
+            423: _deep_end_turn2_first,
+            397: _night_night,
+            398: _dome_piece,
+            422: _dome_piece_turn2_first,
+            399: _drill_ohko,
+            400: _cold_case,
+            401: _bat_rush,
+            392: _live_wire,
+            393: _fire_cart,
+            394: _wrecker,
+            395: _headbanger,
+            396: _soaker_flood,
+            387: _thumbtacks,
+            388: _copy_paste,
+            389: _receipts,
+            390: _max_out,
+            391: _hustle,
+            382: _two_piece,
+            383: _jump_out,
+            384: _roll_up,
+            385: _waffle_iron,
+            386: _bazooka,
+            377: _moon_bath,
+            378: _slime_down,
+            379: _last_verse,
+            380: _lip_gloss,
+            381: _bottle_rain,
+            372: _three_sixty_deal,
+            373: _eat_good,
+            374: _waterworks,
+            375: _bone_toss,
+            376: _shmoney,
+            367: _spoon_bend,
+            368: _pinched,
+            369: _lights_out,
+            370: _palm_reader,
+            371: _jackhammer,
+            362: _burn_it_down,
+            363: _hydrant_bomb,
+            364: _gun_garden,
+            365: _meteor_drop,
+            366: _blow_up,
+            356: _hat_trick,
+            357: _reverse_card,
+            358: _rise_n_grind,
+            359: _sinkhole,
+            351: _snap_out,
+            352: _lint_trap,
+            353: _bait_switch,
+            354: _the_wobble,
+            355: _claw_machine,
+            346: _petty,
+            347: _bad_trip,
+            348: _wildin_out,
+            349: _bite_style,
+            350: _bounced_out,
+            340: _flamin_hot,
+            341: _air_strike,
+            361: _air_strike_turn2_first,
+            342: _brick_wall,
+            343: _triple_tap,
+            344: _nail_gun,
+            345: _staple_gun,
+            335: _rip_space,
+            336: _ghost_ride,
+            360: _ghost_ride_turn2_first,
+            337: _mind_blown,
+            338: _bad_omen,
+            339: _compactor,
+            330: _full_auto_insane,
+            331: _eighteen_wheeler,
+            332: _holy_fire,
+            333: _sentencing,
+            334: _clock_out,
+            324: _gas_up,
+            325: _door_kick,
+            326: _getaway,
+            327: _bug_zapper,
+            328: _split_bill,
+            319: _clothesline,
+            320: _bullhorn,
+            321: _hype_man,
+            322: _ring_ya_bell,
+            323: _heat_check,
+            314: _cold_cocked,
+            315: _last_call,
+            316: _tanning_bed,
+            329: _tanning_bed_turn2_first,
+            317: _victory_lap,
+            318: _gift_bomb,
+            309: _sawing_logs,
+            310: _snuck_him,
+            311: _fence_hop,
+            312: _trap_house,
+            313: _muah,
+            304: _mall_ninja,
+            305: _m80,
+            306: _zip_tie,
+            307: _onion_breath,
+            308: _rage_quit,
+            299: _got_milk,
+            300: _half_off,
+            301: _crop_duster,
+            302: _death_stare,
+            303: _catch_a_fade,
             101: _asleep, 102: _poisoned, 103: _burned, 104: _frozen, 105: _paralyzed, 106: _confused,
             107: _crushin, 108: _clout_up, 109: _store_run, 110: _stash, 112: _gains, 113: _down_bad, 114: _henny,
             1: _sniper, 2: _shotgun, 3: _spray, 4: _point_blank, 5: _gangsta, 6: _drive_by}
@@ -10483,36 +17699,242 @@ KITS = {97: (PLANE, FELICIA, CLAIM), 99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE
         261: (REMOTE19, SEPIA19),
         262: (CAMERA19, FLASH19),
         263: (GYM19,),
-        264: (CLOWN20,),
-        265: (SWIPE20,),
+        264: (CLOWN20, CLOWNB22),
+        265: (SWIPE20, SCAM20, COINS20),
         266: (PUNCHM20,),
-        267: (PIGGY20, COINS20,),
-        268: (IRON20,),
-        269: (LIGHT20,),
-        270: (LEGO20,),
-        271: (LACES20,),
-        272: (GAUGE20, STEAM20,),
-        273: (FRONT20,),
-        274: (SAFE20,),
-        275: (CLIMB20,),
-        276: (FOOTB20,),
-        277: (FOG20, FOGFX20,),
-        278: (AMP20, AMPFX20,),
-        279: (BUGS20, BUGFX20,),
+        267: (PIGGY20, COINS20, TAXS22, TAXB22),
+        268: (IRON20, WINGB22),
+        269: (LIGHT20, LIGHTB22),
+        270: (LEGO20, SPIKEB22),
+        271: (LACES20, LACEB22),
+        272: (GAUGE20, STEAM20, MADB22, MADC22),
+        273: (FRONT20, SIGNS20),
+        274: (SAFE20, SAFEB22),
+        275: (CLIMB20, PARKB22),
+        276: (FOOTB20, SIGNS20),
+        277: (FOGFX20, FOG20),
+        278: (AMP20, AMPFX20, PLUGB22),
+        279: (BUGS20, BUGB22),
         280: (MOP20,),
-        281: (FANNY20, MONEY20,),
-        282: (TREAD20,),
-        283: (SLEUTH20,),
-        284: (FICUS20,),
+        281: (FANNY20, MONEY20, LOUDB22),
+        282: (TREAD20, SMOKEB22),
+        283: (SLEUTH20, K9B22),
+        284: (FICUS20, HIDEB22),
         285: (CANDY20, GEMBEAM20,),
-        286: (SHAKE20,),
+        286: (SHAKE20, MOOCHB22),
         287: (SCOPE20,),
-        288: (LEAVES20,),
-        289: (EXIT20,),
-        290: (MOUTH20, SPITFX20,),
-        291: (CHAIR20,),
-        292: (SLASH20, COMBO20,),
+        288: (LEAVES20, ZAZAB22, ZAZAC22),
+        289: (EXIT20, DIPB22),
+        290: (MOUTH20, SPITB22),
+        291: (CHAIR20, POSTB22),
+        292: (SLASH20, COMBO20, COMBOB22),
         293: (BFF20, LINK20,),
+        294: (WHIP21,),
+        295: (DTAP21, DTAPB21, HEART21),
+        296: (LICK21, SIGNS21),
+        297: (GUN, SMOKE, RICO21, RICOB21),
+        298: (TALK21, TALKB21, SIGNS21),
+        494: (TRADE29,),
+        495: (UMB29,),
+        496: (BROOM29,),
+        497: (SPRAY29,),
+        498: (WIN29, WINB29,),
+        489: (SWAP29, SWAPB29,),
+        490: (EASEL29, EASELB29,),
+        491: (ROLL29,),
+        492: (TAPE29,),
+        493: (L29,),
+        484: (DRY29,),
+        499: (DRY29,),
+        485: (GLOBE29,),
+        486: (RIM29, RIMB29,),
+        487: (SHADE29,),
+        488: (CD29,),
+        479: (VIS28, VISB28,),
+        480: (NV28,),
+        481: (THINK28, THINKB28,),
+        482: (TREE28, TREEB28,),
+        483: (MOOD28,),
+        474: (FLIP28,),
+        475: (COS28, COSB28,),
+        476: (COP28,),
+        477: (HONEY28, HONEYB28,),
+        478: (EDGE28,),
+        469: (PICK28,),
+        470: (DM28, DMB28,),
+        471: (RAT28, RATB28,),
+        472: (KICK28,),
+        473: (POT28,),
+        464: (TAG28, TAGB28,),
+        465: (BOUNCE28,),
+        466: (GRUDGE28, GRUDGEB28,),
+        467: (TICKLE28, TICKLEB28,),
+        468: (GAL28,),
+        459: (TINT28, TINTB28,),
+        460: (CREW28,),
+        461: (DRAW28, DRAWB28,),
+        462: (VIBE28, VIBEB28,),
+        463: (CAT28, CATB28,),
+        454: (BEAM28, BEAMB28,),
+        455: (FOG28, FOGB28,),
+        456: (ORDER28, ORDERB28, ORDERC28,),
+        457: (SAG28, SAGB28,),
+        458: (WISH28, WISHB28,),
+        449: (YOGA27,),
+        450: (GATE27,),
+        451: (LOOK27,),
+        452: (SNOW27,),
+        453: (HOVER27,),
+        444: (GLOW27, GLOWB27,),
+        445: (DOG27, DOGB27,),
+        446: (LUCK27, LUCKB27, LUCKC27,),
+        447: (STIFF27,),
+        448: (HOWL27, HOWLB27,),
+        439: (RUB27, RUBB27, RUBC27,),
+        440: (FLU27, FLUB27,),
+        441: (WIND27, WINDB27,),
+        442: (TAT27, TATB27,),
+        443: (DELI27, DELIB27,),
+        434: (CUT27, CUTB27,),
+        435: (TIME27, TIMEB27,),
+        436: (SWAP27, SWAPB27,),
+        437: (YAP27, YAPB27, YAPC27,),
+        438: (MOON27, MOONB27,),
+        429: (RIP27,),
+        430: (FRESH27, FRESHB27, FRESHC27,),
+        431: (HOT27,),
+        432: (SPACE27, SPACEB27,),
+        433: (DIRT27, DIRTB27,),
+        424: (SEND27, SENDB27,),
+        425: (POLL27, POLLB27, POLLC27,),
+        426: (DARK27, DARKB27,),
+        427: (AURA27, AURAB27,),
+        428: (RUSH27, RUSHB27, RUSHC27,),
+        417: (FIN26, FINB26,),
+        418: (CORD26, CORDB26,),
+        419: (PLANK26, PLANKB26,),
+        420: (RECL26, RECLB26, RECLC26,),
+        421: (JAM26, JAMB26,),
+        412: (WEED26,),
+        413: (MOLE26, MOLEB26,),
+        414: (CHIA26, CHIAB26,),
+        415: (SKI26,),
+        416: (ALLEY26,),
+        407: (PILLOW26,),
+        408: (SUSHI26,),
+        409: (SNEAK26,),
+        410: (UPPER26,),
+        411: (SAND26,),
+        402: (SPEED26, SPEEDB26,),
+        403: (TRASH26, TRASHB26,),
+        404: (SCORE26, SCOREB26,),
+        405: (CAKE26,),
+        406: (POOL26,),
+        423: (POOL26,),
+        397: (NIGHT26, NIGHTB26,),
+        398: (DOME26,),
+        422: (DOME26,),
+        399: (DRILL26, DRILLB26, DRILLC26,),
+        400: (COLD26, COLDB26,),
+        401: (BAT26,),
+        392: (WIRE26,),
+        393: (CART26, CARTB26,),
+        394: (WRECK26, WRECKB26,),
+        395: (HEAD26,),
+        396: (SOAK26, SOAKB26, SOAKC26,),
+        387: (TACK25,),
+        388: (COPY25, COPYB25,),
+        389: (REC25, RECB25,),
+        390: (GYM25, GYMB25,),
+        391: (HUST25,),
+        382: (CHICK25,),
+        383: (BUSH25,),
+        384: (SKATE25,),
+        385: (WAFF25,),
+        386: (GUM25, GUMB25,),
+        377: (MOON25, MOONB25,),
+        378: (SLIME25, SLIMEB25,),
+        379: (VERSE25, VERSEB25, VERSEC25,),
+        380: (GLOSS25, GLOSSB25,),
+        381: (BOTTLE25,),
+        372: (DEAL25, DEALB25, DEALC25,),
+        373: (PLATE25, PLATEB25,),
+        374: (TEAR25,),
+        375: (BONE25,),
+        376: (SHM25,),
+        367: (SPOON25, SPOONB25, SPOONC25,),
+        368: (PIN25, PINB25,),
+        369: (LAMP25, LAMPB25, LAMPC25,),
+        370: (PALM25, PALMB25,),
+        371: (JACK25, JACKB25,),
+        362: (BURN25, BURNB25, BURNC25,),
+        363: (HYD25, HYDB25,),
+        364: (GUN25, GUNB25, GUNC25,),
+        365: (MET25, METB25,),
+        366: (BLOW25, BLOWB25, BLOWC25,),
+        356: (HATS24, HATSB24,),
+        357: (CARD24, CARDB24,),
+        358: (RISE24, RISEB24, RISEC24,),
+        359: (SINK24, SINKB24,),
+        351: (SNAP24, SNAPB24,),
+        352: (LINT24, LINTB24, LINTC24,),
+        353: (SHELL24, SHELLB24,),
+        354: (WOB24,),
+        355: (CLAW24,),
+        346: (PETTY24, PETTYB24,),
+        347: (TRIP24, TRIPB24,),
+        348: (WILD24, WILDB24,),
+        349: (BITE24,),
+        350: (CLUB24, CLUBB24,),
+        340: (HOT24, HOTB24, HOTC24,),
+        341: (AIR24, AIRB24,),
+        361: (AIR24, AIRB24,),
+        342: (WALL24, WALLB24,),
+        343: (TAP24,),
+        344: (NAIL24, NAILB24,),
+        345: (STAPLE24, STAPLEB24,),
+        335: (RIP24, RIPB24,),
+        336: (GHOST24, GHOSTB24,),
+        360: (GHOST24, GHOSTB24,),
+        337: (MIND24, MINDB24, MINDC24,),
+        338: (OMEN24, OMENB24, OMENC24,),
+        339: (CRUSH24, CRUSHB24,),
+        330: (FA24, FAB24, FAC24,),
+        331: (TRUCK24, TRUCKB24,),
+        332: (HOLY24, HOLYB24, HOLYC24,),
+        333: (GAVEL24, GAVELB24,),
+        334: (CLOCK24, CLOCKB24, CLOCKC24,),
+        324: (GAS23, GASB23, GASC23,),
+        325: (DOOR23, DOORB23,),
+        326: (SCOOT23, SCOOTB23, SCOOTC23,),
+        327: (ZAPR23, ZAPRB23,),
+        328: (BILL23, BILLB23,),
+        319: (LINE23, LINEB23,),
+        320: (HORN23, HORNB23,),
+        321: (HYPE23, HYPEB23,),
+        322: (DING23, DINGB23,),
+        323: (THERMO23, THERMOB23,),
+        314: (FREEZE23, FREEZEB23,),
+        315: (BELL23, BELLB23, BELLC23,),
+        316: (TAN23, TANB23,),
+        329: (TAN23, TANB23,),
+        317: (TROPHY23,),
+        318: (GIFT23, GIFTB23, GIFTC23,),
+        309: (LOG23, LOGB23, LOGC23,),
+        310: (SNUCK23, SNUCKB23,),
+        311: (FENCE23,),
+        312: (TRAP23,),
+        313: (KISS23, KISSB23,),
+        304: (NINJA23, NINJAB23,),
+        305: (M8023, M80B23,),
+        306: (ZIP23, ZIPB23,),
+        307: (ONION23, ONIONB23,),
+        308: (RAGE23, RAGEB23,),
+        299: (MILK23, MILKB23, MILKC23,),
+        300: (HALF23, HALFB23, HALFC23,),
+        301: (DUST23, DUSTB23,),
+        302: (STARE23,),
+        303: (FADE23, FADEB23,),
         101: (SNORE, SNOREZ), 102: (BADBATCH, TOXB), 103: (BURNS, BURNF), 104: (ICED, ICEG),
         105: (TASED, JAGS), 106: (WHERE, QMARKS), 107: (CRUSH, HEARTS2), 108: (CLOUT, CLOUTUPS),
         109: (STOREBAG, LOOKS), 110: (STASH, STASHG), 112: (GAINS, UPS), 113: (DOWNBAD, DOWNS), 114: (HENNY, DRIPS, AHHH)}
@@ -10521,8 +17943,9 @@ KITS = {97: (PLANE, FELICIA, CLAIM), 99: (GUN, HOUSE, YOLK), 1: (GUN, KIT, SMOKE
 LOOPING_SE = {1914, 1915, 1938, 1946, 1972, 1982, 2010, 2041, 2065, 2121}   # SEs the game's own scripts stop with 44
 
 
-def variant(k, sounds):
-    """Animation script words for feel k; sounds = {"pop": seq, "boom": seq, ...}."""
+def variant(k, sounds, player_only=False):
+    """Animation script words for feel k; sounds = {"pop": seq, "boom": seq, ...}. player_only (showcase only):
+    the enemy side just frees the kits and ends, so a long reel fits the battle heap."""
     kits = KITS[k]
     _SLOT.clear()
     _SLOT.update({ps: i for i, ps in enumerate(kits)})
@@ -10551,7 +17974,8 @@ def variant(k, sounds):
 
     head = (PRELUDE + [51, 0, LOAD[kits[0]]] + PRELUDE_END +
             [w for i, ps in enumerate(kits[1:], 1) for w in (51, i, LOAD[ps])])
-    p, e = body("player"), body("enemy")
+    p = body("player")
+    e = [1] + func(62, 2) + func(62, 8) + [50] + frees + [4] if player_only else body("enemy")
     # JumpBySide attacker: [64, 0, off->player, off->enemy]; offsets count from their own word
     j = len(head)
     words = head + [64, 0, 2, 1 + len(p)] + p + e

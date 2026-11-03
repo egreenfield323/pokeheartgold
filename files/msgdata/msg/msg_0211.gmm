@@ -70,11 +70,11 @@
 	</row>
 	<row id="msg_0211_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A deep fog drapes the area...\nWould you like to use Clear Air? {YESNO 0}</language>
+		<language name="English">A deep fog drapes the area...\nWould you like to use Open Window? {YESNO 0}</language>
 	</row>
 	<row id="msg_0211_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Clear Air!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Open Window!\r</language>
 	</row>
 	<row id="msg_0211_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,11 +82,11 @@
 	</row>
 	<row id="msg_0211_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wall is very rocky...\nWould you like to use Wall Climb? {YESNO 0}</language>
+		<language name="English">The wall is very rocky...\nWould you like to use Parkour? {YESNO 0}</language>
 	</row>
 	<row id="msg_0211_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Wall Climb!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Parkour!\r</language>
 	</row>
 	<row id="msg_0211_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0211_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wall Climb can’t be used if you have\nsomeone with you.</language>
+		<language name="English">Parkour can’t be used if you have\nsomeone with you.</language>
 	</row>
 	<row id="msg_0211_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0211_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} used Flashbang!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} used Ring Light!\r</language>
 	</row>
 	<row id="msg_0211_00029" index="29">
 		<attribute name="window_context_name">used</attribute>

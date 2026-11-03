@@ -4,7 +4,7 @@
   "1": "Pryce: I'm impressed by your skill.\\rWith that strong will, I know you\\ngon' get past anything life throw.\\fYou worthy of this Chain!\\r",
   "2": "{STRVAR_1 3, 0, 0} got\\nthe Glacier Chain from Pryce!",
   "3": "Pryce: That Chain raise your\\nhomies' Special stats.\\rIt also let your homies use\\nFlush It to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
-  "4": "Pryce: That TM is Ice Storm.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice.",
+  "4": "Pryce: That TM is Bag of Ice.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice.",
   "5": "Pryce: When the ice melt, spring come.\\rYou and your homies gon' be together a\\nlong time. Cherish it.\\fAnd call your grandparents.",
   "6": "Pryce: It's you...\\rSince you here, why don't we\\ntake a pic together? {YESNO 0}",
   "7": "Pryce: Some advice before the pic.\\rBreathe in. Relax. Then smile SLOW.\\nOld man smile. Mysterious.\\fYou ready?\\r",

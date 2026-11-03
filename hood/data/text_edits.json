@@ -1,8 +1,8 @@
 {
   "msg_0056_D15R0103": {
     "2": "{STRVAR_1 3, 0, 0} called\\nthe Getaway Car!",
-    "4": "Hmmm...\\nYou scrap real smooth.\\rYou can handle Falkner,\\nno doubt.\\rAnd you can put this to use...\\rIt’s a TM called Flashbang.\\nTake it!\\r",
-    "5": "When a homie learn Flashbang, you\\ncan light up caves no matter how dark\\fthey.\\rTry it on BELLSPROUT,\\nfor example..."
+    "4": "Hmmm...\\nYou scrap real smooth.\\rYou can handle Falkner,\\nno doubt.\\rAnd you can put this to use...\\rIt’s a TM called Ring Light.\\nTake it!\\r",
+    "5": "When a homie learn Ring Light, you\\ncan light up caves no matter how dark\\fthey.\\rTry it on BELLSPROUT,\\nfor example..."
   },
   "msg_0322_R02R0201": {
     "0": "Oh my GOOD GRILLS! You the first\\nvisitor I had in YEARS.\\rI’m goin’ CRAZY with joy! My cat left!\\rYou look bright as a Gold Grill, so\\nlemme give you a lil present.\\r"
@@ -201,14 +201,14 @@
     "63": "No. of boulders pushed using the\\nhidden move Muscle"
   },
   "msg_0047_D01R0101": {
-    "16": "Brock: Good looks!\\nI been lookin’ for BONSLY!\\rThe RHYHORN I gave you know the move\\nTaser Grill! I raised it from a Egg.\\rI’m so proud of it, ’cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!",
-    "17": "Brock: That RHYHORN I gave you know\\nTaser Grill! I raised it from a Egg.\\rI’m so proud of it, ’cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!\\n\\n"
+    "16": "Brock: Good looks!\\nI been lookin’ for BONSLY!\\rThe RHYHORN I gave you know the move\\nJump Start! I raised it from a Egg.\\rI’m so proud of it, ’cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!",
+    "17": "Brock: That RHYHORN I gave you know\\nJump Start! I raised it from a Egg.\\rI’m so proud of it, ’cause it can\\ntake down Water-type homies, which\\fis usually a tough matchup.\\rTake good care of it for me!\\n\\n"
   },
   "msg_0053_D11R0106": {
-    "3": "Blaine: Here, I’ll give you this too.\\nIt’s called Overcook!\\rIt got a lil drawback, but it’s\\npowerful and worth it!\\r"
+    "3": "Blaine: Here, I’ll give you this too.\\nIt’s called Burnt Toast!\\rIt got a lil drawback, but it’s\\npowerful and worth it!\\r"
   },
   "msg_0063_D22R0102": {
-    "6": "Ed: My PARASECT\\nknock homies out\\fwith Knockout Gas."
+    "6": "Ed: My PARASECT\\nknock homies out\\fwith Night Night."
   },
   "msg_0066_D23R0102": {
     "61": "FMJ",
@@ -241,18 +241,19 @@
     "2": "That thing you picked up over there...\\nit was a HM, wasn’t it?\\rI’m the one who dropped it...but I\\nwant you to keep it.\\fYou put in the work, right?\\rIt’s Beam Me Up.\\nHave fun climbin’ waterfalls!\\rMe?\\rI need new shoes before I\\ncan enjoy no waterfalls."
   },
   "msg_0129_D44R0102": {
-    "3": "That’s Dragon Beam.\\rWell, Dragon Beam is like... er...\\nnever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r",
+    "3": "That’s Firecrackers.\\rWell, Firecrackers is like... er...\\nnever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r",
     "5": "What’s the matter?\\nIf you headed to the Big\\fLeague, go back to New Bark Town\\fand Ride Da Wave along Route 27.\\rYour face...tellin’ me you got\\nsome unfinished business...\\rC’mon!\\rWhatever you gotta face now,\\ndon’t you DARE give up!\\rIf you do, I’ma feel even worse\\nabout losin’ to you!\\fGive it everythin’.\\r"
   },
   "msg_0136_D48R0101": {
-    "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Wall Climb\\nAND Ride Da Wave.\\r"
+    "8": "Chuck: The way to the Embedded Tower\\nis harder than you can imagine.\\rYou need Parkour\\nAND Ride Da Wave.\\r"
   },
   "msg_0168": {
     "42": "No. of Go Out Loud used",
     "43": "No. of Kaboom used"
   },
   "msg_0191": {
-    "423": "It can break any barrier, such as Riot\\nShield and Bulletproof."
+    "423": "It can break any barrier, such as Riot\\nShield and Bulletproof.",
+    "382": "SCOOT OFF\\n40 BP"
   },
   "msg_0197": {
     "200": "{STRVAR_1 1, 0, 0} is protected\\nby Security!",
@@ -263,14 +264,14 @@
     "245": "{STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
     "246": "The wild {STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
     "247": "The opp’s {STRVAR_1 1, 0, 0} was trapped\\nby Sandbag!",
-    "273": "{STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
-    "274": "The wild {STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
-    "275": "The opp’s {STRVAR_1 1, 0, 0} is protected\\nby Smoke Screen!",
+    "273": "{STRVAR_1 1, 0, 0} is protected\\nby Vape Cloud!",
+    "274": "The wild {STRVAR_1 1, 0, 0} is protected\\nby Vape Cloud!",
+    "275": "The opp’s {STRVAR_1 1, 0, 0} is protected\\nby Vape Cloud!",
     "296": "{STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
     "297": "The wild {STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
     "298": "The opp’s {STRVAR_1 1, 0, 0}’s health is\\nsapped by Freeloader!",
-    "427": "Caltrops were scattered all around\\nyour team’s feet!",
-    "428": "Caltrops were scattered all around\\nthe feet of the opp’s team!",
+    "427": "Thumbtacks were scattered all\\naround your team’s feet!",
+    "428": "Thumbtacks were scattered all\\naround the feet of the opp’s team!",
     "448": "Big Bass {STRVAR_1 50, 0, 0}!",
     "494": "{STRVAR_1 1, 0, 0} was subjected\\nto Clown On!",
     "495": "The wild {STRVAR_1 1, 0, 0} was subjected\\nto Clown On!",
@@ -281,13 +282,13 @@
     "574": "{STRVAR_1 1, 0, 0}’s {STRVAR_1 6, 1, 0}\\nwas bounced back by Bounce Back!",
     "575": "The wild {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} was bounced back by\\fBounce Back!",
     "576": "The opp’s {STRVAR_1 1, 0, 0}’s\\n{STRVAR_1 6, 1, 0} was bounced back by\\fBounce Back!",
-    "798": "Copy Cat failed!",
-    "997": "Heavy Vibes intensified!",
-    "1004": "Heavy Vibes returned to normal!",
-    "1085": "Your team’s Lucky Charm wore off!",
-    "1086": "The opp’s Lucky Charm wore off!",
-    "1241": "The Lucky Charm shielded your team\\nfrom critical hits!",
-    "1242": "The Lucky Charm shielded the opp\\nfrom critical hits!"
+    "798": "Copy Paste failed!",
+    "997": "Everybody’s pants are sagging!",
+    "1004": "Belts back on. Pants up!",
+    "1085": "Your team’s Rabbit Foot wore off!",
+    "1086": "The opp’s Rabbit Foot wore off!",
+    "1241": "The Rabbit Foot shielded your team\\nfrom critical hits!",
+    "1242": "The Rabbit Foot shielded the opp\\nfrom critical hits!"
   },
   "msg_0211": {
     "1": "{STRVAR_1 0, 0, 0} used Box Cutter!\\r",
@@ -300,15 +301,15 @@
     "12": "{STRVAR_1 0, 0, 0}’s Muscle made it\\npossible to move boulders around!",
     "15": "{STRVAR_1 0, 0, 0} used Ride Da Wave!\\r",
     "16": "Ride Da Wave can’t be used if you\\nhave someone with you.",
-    "17": "A deep fog drapes the area...\\nWould you like to use Clear Air? {YESNO 0}",
-    "18": "{STRVAR_1 0, 0, 0} used Clear Air!\\r",
-    "20": "The wall is very rocky...\\nWould you like to use Wall Climb? {YESNO 0}",
-    "21": "{STRVAR_1 0, 0, 0} used Wall Climb!\\r",
-    "23": "Wall Climb can’t be used if you have\\nsomeone with you.",
+    "17": "A deep fog drapes the area...\\nWould you like to use Open Window? {YESNO 0}",
+    "18": "{STRVAR_1 0, 0, 0} used Open Window!\\r",
+    "20": "The wall is very rocky...\\nWould you like to use Parkour? {YESNO 0}",
+    "21": "{STRVAR_1 0, 0, 0} used Parkour!\\r",
+    "23": "Parkour can’t be used if you have\\nsomeone with you.",
     "24": "It’s a large waterfall.\\nWould you like to use Beam Me Up? {YESNO 0}",
     "25": "{STRVAR_1 0, 0, 0} used Beam Me Up.\\r",
     "27": "Dip Out to {STRVAR_1 4, 0, 0}, the last\\nplace you or your Pokémon rested?",
-    "28": "{STRVAR_1 0, 0, 0} used Flashbang!\\r",
+    "28": "{STRVAR_1 0, 0, 0} used Ring Light!\\r",
     "29": "It’s a huge swirl of water.\\nWould you like to use Flush It? {YESNO 0}",
     "30": "{STRVAR_1 0, 0, 0} used Flush It.\\r",
     "32": "It’s a moderately sized tree.\\nWould you like to use Dome Check? {YESNO 0}",
@@ -316,7 +317,7 @@
   },
   "msg_0221": {
     "269": "A Pokémon held item that extends the\\nduration of the holder’s barrier moves\\nlike Riot Shield and Bulletproof.",
-    "282": "A Pokémon held item that extends the\\nduration of the move Ice Storm used by\\nthe holder.",
+    "282": "A Pokémon held item that extends the\\nduration of the move Bag of Ice used by\\nthe holder.",
     "283": "A Pokémon held item that extends the\\nduration of the move Dust Up used\\nby the holder.",
     "284": "A Pokémon held item that extends the\\nduration of the move Heat Lamp used\\nby the holder.",
     "285": "A Pokémon held item that extends the\\nduration of the move Make It Rain used\\nby the holder.",
@@ -324,7 +325,7 @@
     "358": "The user attacks with tough fists,\\netc. It can also break any barrier\\nsuch as Riot Shield and Bulletproof."
   },
   "msg_0246": {
-    "51": "Ed: My PARASECT put homies to sleep\\nwith Knockout Gas. It’s legal. Barely."
+    "51": "Ed: My PARASECT put homies to sleep\\nwith Night Night. It’s legal. Barely."
   },
   "msg_0273": {
     "5": "Catch Flight to {STRVAR_1 4, 0, 0}?",
@@ -335,7 +336,7 @@
     "17": "Manager: TM57 is my Power Bank!\\rIt shoot beams, and it can\\nsometimes raise Special Attack!"
   },
   "msg_0372_R28R0101": {
-    "2": "It’s got Iron Wing!\\rI wore a dress inspired by this move\\nat my debut show... The critics HATED\\fit.\\rAlas... Bein’ a legend is SO demandin’.\\rI been retired a while, but people\\nnever stop chasin’ me...\\flike YOU! Get out! ...Come back!"
+    "2": "It’s got Chicken Wing!\\rI wore a dress inspired by this move\\nat my debut show... The critics HATED\\fit.\\rAlas... Bein’ a legend is SO demandin’.\\rI been retired a while, but people\\nnever stop chasin’ me...\\flike YOU! Get out! ...Come back!"
   },
   "msg_0378_R31": {
     "8": "TM44 is...\\n...Zzz...\\f...\\r...Umm... Nap!\\rLike, “I need a nap,” but\\nshorter. Nap. You feel me?\\fIt put you to sleep and heal you up."
@@ -363,20 +364,20 @@
     "21": "West: Eek! East! H-help!\\nNarrator: The young couple came to\\nthe Lake of Rage. West accidentally sat\\non a GYARADOS, which is now swimmin’\\naround the lake with West on its back!\\nEast: Oh no! West! I can’t swim! And I\\nain’t got no homies that know\\nRide Da Wave!\\nNarrator: The GYARADOS West\\nridin’ on ain’t listenin’ to\\nNOTHIN’ East sayin’!\\nIt’s crashin’ through the waves on\\nthe lake!\\nThe Serial Radio Drama: Waves of Love!\\nTheir love gon’ last forever!"
   },
   "msg_0419": {
-    "4": "At the end of the day, our search\\nparty came up empty.\\nThey had to leave the deep dark\\nUnion Cave. They also lost Gary.\\n“If only we had Flashbang!” the leader\\ncried. Gary is still in there.\\nTune in next time for the crazy\\nconclusion, “The Cave That Went Black”!"
+    "4": "At the end of the day, our search\\nparty came up empty.\\nThey had to leave the deep dark\\nUnion Cave. They also lost Gary.\\n“If only we had Ring Light!” the leader\\ncried. Gary is still in there.\\nTune in next time for the crazy\\nconclusion, “The Cave That Went Black”!"
   },
   "msg_0430": {
     "48": "You can place it using Ride Da Wave.\\nThe Pokémon by the\\nwater seem to like it."
   },
   "msg_0451_T01R0301": {
-    "56": "Professor Oak: That Hidden Machine\\ngot the move Wall Climb!\\rWhen you teach it to a homie,\\nyou can climb rock walls that got\\fsteps carved in ’em.\\r",
-    "57": "When you use Wall Climb,\\nyou can climb rock walls that got\\fsteps carved in ’em.\\rYou gon’ discover all kinds\\nof new stuff!"
+    "56": "Professor Oak: That Hidden Machine\\ngot the move Parkour!\\rWhen you teach it to a homie,\\nyou can climb rock walls that got\\fsteps carved in ’em.\\r",
+    "57": "When you use Parkour,\\nyou can climb rock walls that got\\fsteps carved in ’em.\\rYou gon’ discover all kinds\\nof new stuff!"
   },
   "msg_0452_T02": {
     "6": "TM85 is Dream Killer...\\n...Zzzzz..."
   },
   "msg_0454_T02GYM0101": {
-    "3": "Blue: With this Chain, you can\\nuse the HM move Wall Climb!\\fHere!\\rTake this too!\\r",
+    "3": "Blue: With this Chain, you can\\nuse the HM move Parkour!\\fHere!\\rTake this too!\\r",
     "4": "Blue: It’s got Slow Mo!\\rIt let slower homies move\\nbefore faster homies for a while.\\rIt’s a real tricky move, ain’t it?\\nJust like me!"
   },
   "msg_0462_T03GYM0101": {
@@ -419,11 +420,11 @@
     "4": "Falkner: Use a TM and a homie\\nlearn a new move on the spot.\\rThink before you use it--a TM\\nonly work once.\\rTM51 is Crash Pad.\\nIt heal up half the max HP.\\rThere’s blocks in the cities and\\ntowns up ahead. Run ’em all!\\rAs for where you go next...\\fI’d hit up Azalea Town."
   },
   "msg_0560_T22R0301": {
-    "16": "If your homie passed out, it can\\nonly use moves like Dream Talk and\\fLoud Snore.\\rA passed-out homie don’t wake up\\nafter the scrap.\\fWake it up with a Red Bull.\\r"
+    "16": "If your homie passed out, it can\\nonly use moves like Dream Talk and\\fLoud Sawing Logs.\\rA passed-out homie don’t wake up\\nafter the scrap.\\fWake it up with a Red Bull.\\r"
   },
   "msg_0567_T23GYM0102": {
     "3": "Bugsy: You know what the\\nHive Chain do?\\rWith it, homies up to Lv. 30\\nlisten to you, even traded ones.\\rHomies that know Box Cutter can use\\nit outside of battle too.\\rHere, I want you to have this too.\\r",
-    "5": "Bugsy: TM89 is U-Turn.\\rYour homie hit ’em, then tag\\nout with the next homie\\fin your crew.\\rAin’t that hard?"
+    "5": "Bugsy: TM89 is Scoot Off.\\rYour homie hit ’em, then tag\\nout with the next homie\\fin your crew.\\rAin’t that hard?"
   },
   "msg_0572_T24": {
     "0": "You crossed the sea to get here?\\rThat musta been rough.\\rIt’d be way easier if your\\nhomie knew how to Catch Flight...\\r",
@@ -434,14 +435,14 @@
   },
   "msg_0574_T24GYM0101": {
     "5": "Chuck: The Storm Chain let your\\nhomies Catch Flight to any city or\\ftown you been to!\\rHere, take this too!\\r",
-    "6": "Chuck: That’s One Punch.\\rIt miss if they hit you first,\\nbut if it land, it’s LIGHTS OUT!"
+    "6": "Chuck: That’s the Fair One.\\rIt miss if they hit you first,\\nbut if it land, it’s LIGHTS OUT!"
   },
   "msg_0582_T25GYM0101": {
     "5": "Whitney: The Plain Chain let your\\nhomies use Muscle outside\\fof battle.\\rOh, you can have this too!\\r",
     "7": "Whitney: It’s Rizz Up!\\nIt use all a homie’s charm.\\rPerfect for a cutie\\nlike me, right?\\fThat’s right!\\rI heard this thing called the\\nPokéathlon Dome just opened\\fby the National Park.\\rYou should go, since you\\nSO good at scrappin’ with homies!"
   },
   "msg_0606_T26GYM0101": {
-    "5": "Jasmine: It’s called Steel Toe...\\rYour homie kick ’em with\\nsteel-toe boots, sometimes\\flowerin’ their Defense..."
+    "5": "Jasmine: It’s called Wreckin Ball...\\rYour homie swing a wreckin’\\nball at ’em, sometimes\\flowerin’ their Defense..."
   },
   "msg_0611_T26R0701": {
     "0": "You! How your homie trainin’ comin’?\\rYou ever notice big round boulders in\\nthe mountains right in your way?\\rMove ’em with Muscle!\\rOld Heads at Mt. Mortar got extra,\\nor so I heard. They got everythin’."
@@ -458,10 +459,10 @@
   },
   "msg_0622_T28GYM0101": {
     "3": "Pryce: That Chain raise your\\nhomies’ Special stats.\\rIt also let your homies use\\nFlush It to get across\\freal whirlpools.\\rAnd this... This a gift from me!\\r",
-    "4": "Pryce: That TM is Ice Storm.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice."
+    "4": "Pryce: That TM is Bag of Ice.\\rIt bring a hailstorm for five\\nturns. The hail hurt\\fevery type except Ice."
   },
   "msg_0631_T30GYM0101": {
-    "7": "Clair: That’s Dragon Beam.\\rWell, Dragon Beam is like...umm...\\nNever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r"
+    "7": "Clair: That’s Firecrackers.\\rWell, Firecrackers is like...umm...\\nNever mind!\\rIt’s some kinda huge energy.\\nIf you don’t want it, you don’t\\fgotta take it. Whatever.\\r"
   },
   "msg_0666": {
     "50": "If you Dome Check a tree, sometimes a\\nhomie might fall out!\\fOn your head. Wear a helmet.\\r"
@@ -481,8 +482,8 @@
     "18": "You know...?\\rRock, Ground, and Steel types\\ncan’t get hurt by Dust Up."
   },
   "msg_0724": {
-    "102": "Do the MONSTER Moon Punch!\\nIt’s my catchphrase!",
-    "103": "My Moon Punch go straight to\\nyour heart!\\r"
+    "102": "Do the MONSTER Space Jam!\\nIt’s my catchphrase!",
+    "103": "My Space Jam go straight to\\nyour heart!\\r"
   },
   "msg_0744_W40": {
     "16": "I see... No Ride Da Wave yet...\\nThis just between you and me...\\rA man in Ecruteak gave me\\nRide Da Wave. Bet he still there.\\rWhy don’t you go check?\\r",

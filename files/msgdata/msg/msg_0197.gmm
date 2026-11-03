@@ -1095,15 +1095,15 @@
 	</row>
 	<row id="msg_0197_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} is protected\nby Vape Cloud!</language>
 	</row>
 	<row id="msg_0197_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
+		<language name="English">The wild {STRVAR_1 1, 0, 0} is protected\nby Vape Cloud!</language>
 	</row>
 	<row id="msg_0197_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is protected\nby Smoke Screen!</language>
+		<language name="English">The opp’s {STRVAR_1 1, 0, 0} is protected\nby Vape Cloud!</language>
 	</row>
 	<row id="msg_0197_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
@@ -1711,11 +1711,11 @@
 	</row>
 	<row id="msg_0197_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caltrops were scattered all around\nyour team’s feet!</language>
+		<language name="English">Thumbtacks were scattered all\naround your team’s feet!</language>
 	</row>
 	<row id="msg_0197_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caltrops were scattered all around\nthe feet of the opp’s team!</language>
+		<language name="English">Thumbtacks were scattered all\naround the feet of the opp’s team!</language>
 	</row>
 	<row id="msg_0197_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
@@ -3196,7 +3196,7 @@
 	</row>
 	<row id="msg_0197_00798" index="798">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copy Cat failed!</language>
+		<language name="English">Copy Paste failed!</language>
 	</row>
 	<row id="msg_0197_00799" index="799">
 		<attribute name="window_context_name">used</attribute>
@@ -4002,7 +4002,7 @@
 	</row>
 	<row id="msg_0197_00997" index="997">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heavy Vibes intensified!</language>
+		<language name="English">Everybody’s pants are sagging!</language>
 	</row>
 	<row id="msg_0197_00998" index="998">
 		<attribute name="window_context_name">used</attribute>
@@ -4030,7 +4030,7 @@
 	</row>
 	<row id="msg_0197_01004" index="1004">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heavy Vibes returned to normal!</language>
+		<language name="English">Belts back on. Pants up!</language>
 	</row>
 	<row id="msg_0197_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
@@ -4354,11 +4354,11 @@
 	</row>
 	<row id="msg_0197_01085" index="1085">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your team’s Lucky Charm wore off!</language>
+		<language name="English">Your team’s Rabbit Foot wore off!</language>
 	</row>
 	<row id="msg_0197_01086" index="1086">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The opp’s Lucky Charm wore off!</language>
+		<language name="English">The opp’s Rabbit Foot wore off!</language>
 	</row>
 	<row id="msg_0197_01087" index="1087">
 		<attribute name="window_context_name">used</attribute>
@@ -4978,11 +4978,11 @@
 	</row>
 	<row id="msg_0197_01241" index="1241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lucky Charm shielded your team\nfrom critical hits!</language>
+		<language name="English">The Rabbit Foot shielded your team\nfrom critical hits!</language>
 	</row>
 	<row id="msg_0197_01242" index="1242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lucky Charm shielded the opp\nfrom critical hits!</language>
+		<language name="English">The Rabbit Foot shielded the opp\nfrom critical hits!</language>
 	</row>
 	<row id="msg_0197_01243" index="1243">
 		<attribute name="window_context_name">used</attribute>

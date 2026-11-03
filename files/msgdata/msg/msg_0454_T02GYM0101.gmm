@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: With this Chain, you can\nuse the HM move Wall Climb!\fHere!\rTake this too!\r</language>
+		<language name="English">Blue: With this Chain, you can\nuse the HM move Parkour!\fHere!\rTake this too!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

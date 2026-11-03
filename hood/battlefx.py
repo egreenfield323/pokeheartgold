@@ -93,22 +93,22 @@ BUILTIN = {"whoosh": 1916, "bonk": 1827, "splat": 1928, "spray": 1941, "zap": 19
 #   174 stone cold, 175 rizz up (date night), 176 pickup line, 177 ice cold (window AC), 178 ground game
 #   (pothole), 179 tailgate, 180 iced out (shaved-ice machine), 181 photo op (ring light)
 MOVES = {
-    "Tackle": 5, "Double Kick": 5, "Lick": 5,
-    "Fury Attack": 3, "Triple Kick": 3, "Pin Missile": 3, "Spike Cannon": 3, "Swift": 3,
-    "Scratch": 4,
+    "Tackle": 5, "Double Kick": 295, "Lick": 296,
+    "Fury Attack": 3, "Triple Kick": 343, "Pin Missile": 344, "Spike Cannon": 345, "Swift": 297,
+    "Scratch": 294,
     "Wing Attack": 2,
     "Iron Head": 1,
     "Quick Attack": 6,
     "Psychic": 7, "Confusion": 8,
     "Pay Day": 9,
-    "Hyper Beam": 10,
-"Sacred Fire": 11, "Roar of Time": 11, "Spacial Rend": 11, "Shadow Force": 11,
-    "Psycho Boost": 11, "Doom Desire": 11, "Judgment": 11, "Crush Grip": 11, "Magma Storm": 11,
+    "Hyper Beam": 330,
+"Sacred Fire": 332, "Roar of Time": 334, "Spacial Rend": 335, "Shadow Force": 336,
+    "Psycho Boost": 337, "Doom Desire": 338, "Judgment": 333, "Crush Grip": 339, "Magma Storm": 340,
     "Fire Blast": 12,
-    "Rock Throw": 13, "Rock Slide": 13,
+    "Rock Throw": 13, "Rock Slide": 342,
     "Egg Bomb": 14,
     "Water Gun": 15, "Bone Club": 16, "ThunderShock": 17, "Screech": 18, "Earthquake": 19,
-    "Hypnosis": 8, "Sky Attack": 11, "Giga Impact": 10,
+    "Hypnosis": 298, "Sky Attack": 341, "Giga Impact": 331,
     "Ember": 20, "Leer": 21, "Growl": 22, "Sand-Attack": 23, "Gust": 24,
     "Fly": 25, "Surf": 26, "Thunder": 27, "Dragon Rage": 28, "Flamethrower": 29, "Razor Leaf": 30, "Pound": 31,
     "Bite": 32, "Crunch": 33, "Slash": 34, "SmokeScreen": 35, "Flame Wheel": 36, "Brick Break": 37,
@@ -144,6 +144,42 @@ MOVES = {
     "Encore": 203, "Baton Pass": 204, "Metal Claw": 205, "Fire Spin": 206, "Taunt": 207, "Knock Off": 208, "Whirlwind": 209, "Seismic Toss": 210, "Low Kick": 211, "Dark Pulse": 212, "Future Sight": 213, "Fake Out": 214, "Nasty Plot": 215, "Iron Defense": 216, "Uproar": 217, "Endure": 218, "Last Resort": 219, "Close Combat": 220, "Calm Mind": 221, "Powder Snow": 222, "Thrash": 223, "Bounce": 224, "X-Scissor": 225, "Lava Plume": 226, "Stockpile": 227, "Counter": 228, "Crabhammer": 229, "Metal Sound": 230, "Bug Buzz": 231, "Whirlpool": 232,
     "Natural Gift": 234, "Roost": 235, "Fling": 236, "Dream Eater": 237, "Dragon Claw": 238, "U-turn": 239, "Dragon Pulse": 240, "Silver Wind": 241, "Hail": 242, "Embargo": 243, "Will-O-Wisp": 244, "Shock Wave": 245, "False Swipe": 246, "Substitute": 247, "Shadow Claw": 248, "Iron Tail": 249, "Hidden Power": 250, "Bullet Seed": 251, "Rock Tomb": 252, "Overheat": 253, "Energy Ball": 254, "Sleep Talk": 255, "Skill Swap": 256, "Focus Blast": 257, "Recycle": 258, "Pluck": 259, "Avalanche": 260, "Trick Room": 261, "Flash Cannon": 262, "Bulk Up": 263,
     "Torment": 264, "Snatch": 265, "Focus Punch": 266, "Drain Punch": 267, "Steel Wing": 268, "Flash": 269, "Stealth Rock": 270, "Grass Knot": 271, "Frustration": 272, "Facade": 273, "Secret Power": 274, "Rock Climb": 275, "Feint": 276, "Mist": 277, "Charge": 278, "Bug Bite": 279, "Wring Out": 280, "Magical Leaf": 281, "Endeavor": 282, "Odor Sleuth": 283, "Withdraw": 284, "Power Gem": 285, "Leech Life": 286, "Detect": 287, "Leaf Storm": 288, "Teleport": 289, "Spit Up": 290, "Ingrain": 291, "Fury Cutter": 292, "Destiny Bond": 293,
+    "Milk Drink": 299, "Super Fang": 300, "Poison Gas": 301, "Glare": 302, "Mega Punch": 303,
+    "Karate Chop": 304, "DynamicPunch": 305, "Bind": 306, "DragonBreath": 307, "Outrage": 308,
+    "Snore": 309, "Mach Punch": 310, "Hi Jump Kick": 311, "Spider Web": 312, "Sweet Kiss": 313,
+    "Ice Punch": 314, "Heal Bell": 315, "SolarBeam": 316, "Petal Dance": 317, "Present": 318,
+    "Cross Chop": 319, "Megahorn": 320, "Hyper Voice": 321, "Dizzy Punch": 322, "Heat Wave": 323,
+    "Flatter": 324, "Mega Kick": 325, "ExtremeSpeed": 326, "Zap Cannon": 327, "Pain Split": 328,
+    "Spite": 346, "Nightmare": 347, "Metronome": 348, "Mimic": 349, "Vital Throw": 350,
+    "SmellingSalt": 351, "Cotton Spore": 352, "Trick": 353, "Teeter Dance": 354, "Crush Claw": 355,
+    "Tri Attack": 356, "Trump Card": 357, "Morning Sun": 358, "Fissure": 359,
+    "Blast Burn": 362, "Hydro Cannon": 363, "Frenzy Plant": 364, "Draco Meteor": 365, "Eruption": 366,
+    "Kinesis": 367, "ViceGrip": 368, "Guillotine": 369, "Mind Reader": 370, "Drill Peck": 371,
+    "Submission": 372, "Softboiled": 373, "Fake Tears": 374, "Bonemerang": 375, "Dragon Dance": 376,
+    "Moonlight": 377, "Acid Armor": 378, "Perish Song": 379, "Lovely Kiss": 380, "Barrage": 381,
+    "Comet Punch": 382, "Jump Kick": 383, "Rolling Kick": 384, "Clamp": 385, "Octazooka": 386,
+    "Spikes": 387, "Mirror Move": 388, "Bide": 389, "Superpower": 390, "Struggle": 391,
+    "Volt Tackle": 392, "Flare Blitz": 393, "Rock Wrecker": 394, "Head Smash": 395, "Water Spout": 396,
+    "Spore": 397, "Skull Bash": 398, "Horn Drill": 399, "Sheer Cold": 400, "Bone Rush": 401,
+    "Bullet Punch": 402, "Gunk Shot": 403, "Reversal": 404, "Wish": 405, "Dive": 406,
+    "FeatherDance": 407, "Poison Fang": 408, "Shadow Punch": 409, "Sky Uppercut": 410, "Sand Tomb": 411,
+    "Leaf Blade": 412, "Hammer Arm": 413, "Seed Bomb": 414, "Aqua Jet": 415, "Shadow Sneak": 416,
+    "Covet": 417, "Power Whip": 418, "Wood Hammer": 419, "Slack Off": 420, "GrassWhistle": 421,
+    "Brave Bird": 424, "Seed Flare": 425, "Dark Void": 426, "Aura Sphere": 427, "Dragon Rush": 428,
+    "Memento": 429, "Refresh": 430, "Blaze Kick": 431, "Meteor Mash": 432, "Muddy Water": 433,
+    "Heal Block": 434, "Punishment": 435, "Switcheroo": 436, "Chatter": 437, "Lunar Dance": 438,
+    "Acupressure": 439, "Needle Arm": 440, "Ominous Wind": 441, "Twineedle": 442, "Me First": 443,
+    "Tail Glow": 444, "Gastro Acid": 445, "Lucky Chant": 446, "Force Palm": 447, "Howl": 448,
+    "Meditate": 449, "Imprison": 450, "Follow Me": 451, "Ice Ball": 452, "Magnet Rise": 453,
+    "Luster Purge": 454, "Mist Ball": 455, "Attack Order": 456, "Gravity": 457, "Healing Wish": 458,
+    "Mirror Coat": 459, "Beat Up": 460, "Vacuum Wave": 461, "Psywave": 462, "Nature Power": 463,
+    "Assist": 464, "Magic Coat": 465, "Grudge": 466, "Tickle": 467, "Cosmic Power": 468,
+    "Icicle Spear": 469, "Block": 470, "Poison Tail": 471, "Metal Burst": 472, "Psycho Shift": 473,
+    "Power Trick": 474, "Role Play": 475, "Defend Order": 476, "Heal Order": 477, "Sharpen": 478,
+    "Camouflage": 479, "Miracle Eye": 480, "Worry Seed": 481, "Aromatherapy": 482, "Heart Swap": 483,
+    "Razor Wind": 484, "Weather Ball": 485, "Mirror Shot": 486, "Psycho Cut": 487, "Copycat": 488,
+    "Transform": 489, "Sketch": 490, "Conversion": 491, "Conversion 2": 492, "Swallow": 493,
+    "Power Swap": 494, "Guard Swap": 495, "Arm Thrust": 496, "Cross Poison": 497, "Defog": 498,
 }
 
 
@@ -267,7 +303,7 @@ def pad(rom, only=None):
         rom.deviceCapacity += 1
 
 
-def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
+def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None, player_only=False):
     """Test copy of a built ROM where FMJ (Tackle) plays every effect back to back (or just `order`).
     pad_to pads the script to a fixed size so the ROM layout - and so savestates - stay the same."""
     import struct
@@ -298,7 +334,7 @@ def showcase(rom_path, out_path, order=None, pad_to=None, pad_in_script=None):
     head += [4]
     off = len(head)
     for n, k in enumerate(order):
-        w = gunfx.variant(k, seqs)
+        w = gunfx.variant(k, seqs, player_only=player_only)   # (player_only: long reels - the enemy side plays nothing)
         for i, name, args in A.disasm(w):
             if w[i] == 4:
                 w[i] = 11                                      # End -> Return

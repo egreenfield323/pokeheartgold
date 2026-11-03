@@ -1152,7 +1152,7 @@
 	</row>
 	<row id="msg_0221_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon held item that extends the\nduration of the move Ice Storm used by\nthe holder.</language>
+		<language name="English">A Pokémon held item that extends the\nduration of the move Bag of Ice used by\nthe holder.</language>
 	</row>
 	<row id="msg_0221_00283" index="283">
 		<attribute name="window_context_name">used</attribute>

@@ -51,12 +51,51 @@ Move animations are built in Python and patched into the ROM: `hood/fxart.py` (p
   targets/attackers always end back on their spot.
 - Pokémon/props never stay displaced. The variant tail resets both battlers; don't fight it.
 
+## The gold standard: Scam Likely, Rental Lambo, Crossover (variants 265, 273, 276)
+
+The user called these "literally so good. that should be the new standard". The 30-move set they replaced
+(set 20 as first built) was called "pretty poor and not funny at all". The difference:
+
+- **It starts with the NAME.** A good name is a hood phrase that already IS a scene: Scam Likely (the robocall),
+  Rental Lambo (stuntin' in a car that isn't yours), Crossover (breaking ankles). A name that is just a synonym
+  of the original move (Iron Wing, Rock Trap, Sniff Out, Wall Climb) gives you a literal prop and no joke:
+  a clothes iron, LEGO, a magnifier, a climbing wall. **If the name can't carry a scene, rename it first**
+  (moves.json + apply_move_names/apply_move_desc + the old name in dialogue, see "Renaming a move" below).
+- **A real situation everybody recognizes, with a twist the viewer can see coming but still laughs at:** the
+  car's extended warranty call, the repo man, the ankle breaker, the crowd going OHHHH.
+- **Rule of three:** expected, expected, then it breaks. Decline, decline, ANSWER. Cross, cross, ANKLES GONE.
+  Stunt, stunt... beep beep beep. Make the third one longer or more frantic (the third ring wobbles harder).
+- **Hold the beat.** Leave a comic pause before the punchline (the empty spot where the Lambo was, *...*,
+  then REPO'D!). Hold the punchline for 8-14 ticks so it can be read.
+- **The hit comes after the joke** and grows out of it: the attacker takes the repo out on the foe; the
+  zoned-out foe's money pours out to the attacker; the ball bonks the foe who's already on the floor.
+- **The foe reacts.** It follows the crossovers with bmove, drops when its ankles go, and greys out
+  while on the call. A foe that just shakes is a prop holder.
+- **Words that ARE the punchline are welcome:** a sign (REPO'D!, ANKLES GONE!, OHHHH!) or text on a prop
+  (SCAM / LIKELY on the phone, NOPE, HELLO?, the warranty bubble). These are the lines people quote.
+  Generic sound-effect signs (WHAM!) still aren't.
+- Testing for placement isn't testing for funny. Watch the zooms in order and ask "where's the laugh?"
+  If you can't point to the frame, it isn't there yet.
+
+## Renaming a move
+
+`hood/data/moves.json` (12 chars max; check no other move has the same or a near-identical name, e.g. Hot Box
+vs Hotbox, Rise n Grind vs Rise & Grind) -> `python hood/apply_move_names.py` -> update the description in
+`hood/data/move_desc.json` -> `python hood/apply_move_desc.py`. `apply_move_mentions.py` only swaps ORIGINAL
+names, so a rename of an existing hood name must also be swapped by hand wherever dialogue says the OLD hood
+name: grep `files/msgdata/msg/*.gmm` (TM gifts, msg_0211 field prompts, msg_0197 battle messages, item
+descriptions in msg_0221), write through `text_edits` (check + write_rows + the edits overlay) and update
+`hood/data/dialogue/*.json` too (that file uses straight apostrophes). When matching names in gmm text, a
+name right after a literal `\n` has an "n" before it, so a `(?<![A-Za-z])` boundary misses it.
+Lines that describe the old gag (Jasmine's "steel-toe boots") need rewording, not just a name swap.
+
 ## Making them super detailed and good (the process - every batch)
 
 The user rejects "simple and cheap". Quantity never lowers the bar ("don't decrease quality just because of the
 greater quantity"). For every move:
 
-1. **Pitch first.** A table of move -> gag, one line each, before writing code. The user edits it (Air Cutter's
+1. **Pitch first** unless the user said to just go (they did for whole batches; then still prototype 2-3 and
+   check them against "The gold standard" before doing the rest). A table of move -> gag, one line each, before writing code. The user edits it (Air Cutter's
    "Mixtape" was rejected: no link to air - the gag must fit the move's TYPE/mechanic AND its hood name).
 2. **A gag = a little scene in 3 beats**: setup (the prop arrives, something builds - rattling, charging,
    winding up, a pose) -> escalation (repeats getting bigger/faster, a reaction from the foe) -> payoff (the hit
@@ -153,7 +192,9 @@ greater quantity"). For every move:
 - **File 82's res 3 is odd**: quad aspect 1.4 + a 6-frame start delay (+48/+50; set 17 resets them for all its
   kits), and a polygon field (bytes 80-83, zeroing it makes the particle invisible) that draws the quad
   ~`RES3_DROP` (18.6) px per unit of scale BELOW its emitter. Props on res 3 next to the same art on res 1/2 (the
-  3-plate barbell, a held gun) need `+ RES3_DROP * scl` on y.
+  3-plate barbell, a held gun) need `+ RES3_DROP * scl` on y. **Keep 1:1 text props and signs OFF res 3**: a
+  1:1 phone there landed far down-right of where it should, and a red ANKLES GONE! sign came out washed-out
+  grey-green. Put them on res 1/2 (add a second kit if you run out).
 - **A re-emitted spinning prop restarts its rotation every emission** - overlapping copies at different angles
   = a grey blob (the first Gun Twirl). Spinners are ONE long-life particle (Gun Twirl, the Mudslinging tire).
 - **Alpha puffs/flames (16x32) scaled past ~.5 turn into blurry smears** ("light shafts", flame hits, mud
@@ -179,6 +220,9 @@ greater quantity"). For every move:
 
 - `emit_at(kit, res, who, (x, y))`: who 0 attacker / 1 defender; offsets are SCREEN px (y up), NOT mirrored -
   mirror yourself with `sx = 1 if side == "player" else -1`.
+- **`emit_at` is relative to the battler's CURRENT spot**: once a `bmove`/`func(57)` has moved it, everything
+  emitted on that battler moves too. Scenery that must stay put while the attacker runs around (Parkour's
+  mailbox and hydrant) goes on the OTHER battler, offset by `TARGET_FROM_ATTACKER`.
 - `TARGET_FROM_ATTACKER = {"player": (121, 59), "enemy": (-121, -59)}`; player origin ~(64,140) on screen,
   enemy ~(190,90). Screen is 256x192.
 - Particle quad: 0.745 screen px per 64px-texture texel per 1.0 scale in battle (measured); a 32px texture is
@@ -190,6 +234,16 @@ greater quantity"). For every move:
   `(a) if side == "player" else (b)` "for the foe" backwards put Ground Game's hole under your HP box for a while.
 - HP boxes: the foe's covers the top-left (y < ~52, x < ~120), yours the bottom-right. Player-side signs sit 50px
   above the homie (`_sign_at`) so they clear the foe's box.
+- **Where props can go** (player attacking; measured on capture frames, top screen 256x192): the foe's box is
+  x 0-124, y 18-54; yours is x 136-256, y 98-130; the message box starts at y 143. Clear zones: right of the
+  foe's box (x >= 133, y < 90), the lane between the boxes (y 56-90), and the stage between your homie and your
+  box (x 80-135, y 56-142, foe-relative about (-80, -5)). Anything at the foe's feet is right on top of your box,
+  so props there get cut off (the tied sneakers were half-hidden). A 64px 1:1 prop just left of the foe
+  (foe-relative (-40, 0)) hits BOTH boxes; put it on the stage instead.
+- **Run `python -I hood/test/clipcheck.py FRAME_DIR --min 20 --sheet out.png` on every reel.** It flags frames
+  where animation pixels touch a box edge and saves those frames with the edges outlined. The user spotted
+  clipping that 1-in-9-frame contact sheets missed. Some flags are just props sitting next to a box, or a battler
+  moving; look at the sheet and fix anything that's actually cut off.
 - Measured: your HP box is x > ~135, y ~93-140; the message box (shown during the move) y > ~143 - both hide
   particles. The clear horizontal lane across the whole screen is y ~55-90 (Flop's tumbleweed rolls at y 70).
 - Rotation: `rot(b, rs, res, spin=per_frame, init=angle)`, 0x10000 = full turn; spin needs flag bit 12.
@@ -215,6 +269,8 @@ greater quantity"). For every move:
 - Ball signs (`ballfx`) and GLOW UP! (`evofx`) follow the same rules with their own camera factors.
 
 ## Draw order
+- **Across kits, the order in `KITS[variant]` decides: later kits draw ON TOP.** Vape Cloud's shades were buried
+  under the fog until `KITS[277]` went from `(FOG20, FOGFX20)` to `(FOGFX20, FOG20)`.
 - A prop drawn over a Pokémon hides it (particles always draw over battlers): big props at the foe's centre
   cover the foe (the first manhole hid Pidgey). Put it at the edge/feet, or let it cover on purpose (frozen in
   an ice block).
@@ -239,6 +295,10 @@ greater quantity"). For every move:
   `func(33, 0, 1, from, to, colour)` background fade (lights down / flood blue / hot box).
 
 ## Testing (DeSmuME)
+
+- **Ongoing work and its checklist: `.claude/plans/anim-redo-plan.md`.** Read it first and tick items as you go.
+- **One command per test:** `bash hood/test/reel/reel.sh NAME V1 V2 ...` (fast-patch + showcase + two capture
+  segments + clipcheck, written to `hood/test/reels_out/`). Zoom with `hood/test/reel/zoomd.py`.
 
 - `showcase(order=[...])` blanks every kit the reel (and the effect animations) doesn't load, so a/0/2/9 stays
   under its fixed 4 MB however many kits exist. Capture frames are 256x384 (both screens): crop (0,0,256,192).

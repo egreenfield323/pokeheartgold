@@ -124,7 +124,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? You remember me from Violet City?\fYou trippin’. That was my twin.\rAnyway, you gon’ show me how to get\noutta this forest? I been here since\fTuesday. {YESNO 0}</language>
+		<language name="English">What? You remember me from Violet City?\fNever happened. We never met.\rI’m the family’s getaway driver.\nI got lost. In a forest.\fDURING the getaway.\rYou gon’ show me the way out? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

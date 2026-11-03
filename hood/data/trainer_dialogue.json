@@ -333,6 +333,21 @@
       "TRMSG_LOSE": "......",
       "TRMSG_LAST_POKE": "......!",
       "TRMSG_LAST_POKE_HALF": "..."
+    },
+    "Zuki": {
+      "TRMSG_LOSE": "...Fine. You family now. Don't make me regret it."
+    },
+    "Naoko": {
+      "TRMSG_LOSE": "I lost. Like I lose on every map."
+    },
+    "Miki": {
+      "TRMSG_LOSE": "...Respect."
+    },
+    "Sayo": {
+      "TRMSG_LOSE": "My sandals slipped. That's the story we tellin'."
+    },
+    "Kuni": {
+      "TRMSG_LOSE": "Down here nobody lose. ...Keep this quiet."
     }
   },
   "class_always": [

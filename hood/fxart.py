@@ -8728,19 +8728,28 @@ def lego_brick(size=32):
 
 
 def tied_laces(size=64):
-    """The foe's two sneakers side by side with the laces tied TOGETHER in a big knot."""
+    """Two big white high-top sneakers, side view, toes pointing apart - black soles, a red stripe, the
+    tongue and lace holes - and their red laces knotted TOGETHER in a big bow between them."""
     im, d, S = _big(size)
     OUT = (20, 20, 25, 255)
-    for x0, flip in ((.02, False), (.52, True)):
-        shoe = [(S * (x0 + .02), S * .76), (S * (x0 + .12), S * .5), (S * (x0 + .3), S * .48), (S * (x0 + .44), S * .64), (S * (x0 + .46), S * .76)]
-        if flip:
-            shoe = [(S * (2 * x0 + .46) - x, y) for x, y in shoe]
-        _outline_poly(d, shoe, (250, 250, 250, 255), OUT, 6)
-        d.rectangle([S * x0, S * .76, S * (x0 + .46), S * .84], fill=(60, 60, 66, 255), outline=OUT, width=5)
-    d.line([(S * .24, S * .52), (S * .4, S * .34), (S * .5, S * .44), (S * .6, S * .34), (S * .76, S * .52)], fill=(220, 40, 40, 255), width=6)
-    d.ellipse([S * .44, S * .36, S * .56, S * .48], fill=(220, 40, 40, 255), outline=OUT, width=4)    # the knot
-    d.line([(S * .5, S * .48), (S * .44, S * .62)], fill=(220, 40, 40, 255), width=5)
-    d.line([(S * .5, S * .48), (S * .58, S * .6)], fill=(220, 40, 40, 255), width=5)
+    RED = (220, 40, 40, 255)
+    for flip in (False, True):
+        def X(x):
+            return S * (1 - x) if flip else S * x
+        upper = [(X(.02), S * .78), (X(.04), S * .56), (X(.18), S * .5), (X(.22), S * .22), (X(.4), S * .2),
+                 (X(.44), S * .5), (X(.46), S * .78)]
+        _outline_poly(d, upper, (250, 250, 250, 255), OUT, 6)
+        d.rectangle([min(X(.02), X(.48)), S * .78, max(X(.02), X(.48)), S * .9], fill=(30, 30, 34, 255), outline=OUT, width=5)  # sole
+        d.line([(X(.06), S * .66), (X(.42), S * .58)], fill=RED, width=7)                                   # the stripe
+        for k in range(3):                                                                                  # lace holes
+            y = S * (.28 + k * .08)
+            d.ellipse([min(X(.37), X(.41)), y, max(X(.37), X(.41)), y + S * .04], fill=OUT)
+        d.line([(X(.22), S * .22), (X(.18), S * .14)], fill=(250, 250, 250, 255), width=8)                 # the tongue
+    d.line([(S * .4, S * .3), (S * .5, S * .44), (S * .6, S * .3)], fill=RED, width=6)                      # laces...
+    d.line([(S * .4, S * .38), (S * .5, S * .44), (S * .6, S * .38)], fill=RED, width=6)
+    for sx_ in (-1, 1):                                                                                     # ...the bow
+        d.polygon([(S * .5, S * .44), (S * (.5 + sx_ * .12), S * .36), (S * (.5 + sx_ * .12), S * .52)], fill=RED, outline=OUT)
+    d.ellipse([S * .46, S * .4, S * .54, S * .48], fill=RED, outline=OUT, width=3)
     return _shrink(im, size)
 
 
@@ -9088,3 +9097,6139 @@ def bff_half(size=64, right=False):
     _texted(im, [("BE", (20, 20)), ("ST", (22, 28))] if not right else [("FRI", (44, 20)), ("ENDS", (42, 28))],
             (120, 60, 0, 255), (250, 205, 60, 255))
     return im
+
+
+# ---- prototypes: the funnier redo (Rental Lambo, Scam Likely, Crossover) ---------------------------------
+
+def tow_truck(size=64):
+    """A red tow truck facing left: the cab, a light bar on top, the boom and hook hanging off the back (right)."""
+    im, d, S = _big(size)
+    OUT = (30, 10, 10, 255)
+    R, R_D = (220, 40, 40, 255), (160, 20, 25, 255)
+    d.rectangle([S * .04, S * .36, S * .36, S * .74], fill=R, outline=OUT, width=7)                    # cab
+    d.rectangle([S * .08, S * .42, S * .26, S * .56], fill=(150, 200, 240, 255), outline=OUT, width=5)
+    d.rectangle([S * .1, S * .3, S * .3, S * .36], fill=(255, 170, 20, 255), outline=OUT, width=4)       # light bar
+    d.rectangle([S * .36, S * .5, S * .8, S * .74], fill=R_D, outline=OUT, width=7)                     # bed
+    d.line([(S * .5, S * .5), (S * .84, S * .24)], fill=(60, 60, 66, 255), width=12)                    # boom
+    d.line([(S * .84, S * .24), (S * .9, S * .56)], fill=(30, 30, 34, 255), width=4)                    # cable
+    d.arc([S * .84, S * .52, S * .98, S * .66], 300, 200, fill=(170, 170, 180, 255), width=7)           # hook
+    d.rectangle([S * .04, S * .72, S * .82, S * .78], fill=(60, 60, 66, 255), outline=OUT, width=4)
+    for x in (.18, .66):
+        d.ellipse([S * (x - .1), S * .68, S * (x + .1), S * .96], fill=(30, 30, 34, 255), outline=OUT, width=6)
+        d.ellipse([S * (x - .04), S * .77, S * (x + .04), S * .87], fill=(200, 200, 210, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("TOW", (35, 37))], (255, 255, 255, 255), (120, 10, 10, 255))
+
+
+def lambo_hooked(size=64):
+    """The Lambo with its nose yanked up on the tow hook (the left end high), tilted."""
+    return cardboard_lambo(size).rotate(14, resample=Image.BICUBIC, center=(size * .5, size * .62))
+
+
+def scam_phone(size=64, state="ring"):
+    """A big smartphone. ring: SCAM / LIKELY on the screen, green and red buttons. declined: a red DECLINED
+    screen. answered: a green CALL 0:01 screen (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    d.rounded_rectangle([S * .14, S * .02, S * .86, S * .98], 18, fill=(30, 30, 36, 255), outline=OUT, width=8)
+    scr = {"ring": (25, 30, 50, 255), "declined": (220, 40, 40, 255), "answered": (60, 190, 90, 255)}[state]
+    d.rounded_rectangle([S * .19, S * .1, S * .81, S * .86], 8, fill=scr)
+    if state == "ring":
+        for x, c in ((.36, (60, 200, 90, 255)), (.64, (230, 50, 50, 255))):
+            d.ellipse([S * (x - .07), S * .68, S * (x + .07), S * .82], fill=c, outline=OUT, width=4)
+    im = _shrink(im, size)
+    words = {"ring": [("SCAM", (32, 12)), ("LIKELY", (32, 20))],
+             "declined": [("NOPE", (32, 26))],
+             "answered": [("HELLO?", (32, 26))]}[state]
+    fill = (255, 60, 50, 255) if state == "ring" else (255, 255, 255, 255)
+    return _texted(im, words, fill)
+
+
+def warranty_bubble(size=64):
+    """A speech bubble with the robocall: WE BEEN / TRYIN TO / REACH YOU / UR CARS / WARRANTY (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rounded_rectangle([S * .02, S * .02, S * .98, S * .8], 26, fill=(255, 255, 255, 255), outline=OUT, width=8)
+    d.polygon([(S * .34, S * .76), (S * .12, S * .98), (S * .2, S * .74)], fill=(255, 255, 255, 255), outline=OUT)
+    d.line([(S * .34, S * .76), (S * .12, S * .98), (S * .2, S * .74)], fill=OUT, width=7)
+    im = _shrink(im, size)
+    return _texted(im, [("WE BEEN TRYIN", (32, 5)), ("TO REACH YOU", (32, 13)), ("ABOUT UR CARS", (32, 21)),
+                        ("WARRANTY", (32, 30))], (20, 20, 25, 255), (255, 255, 255, 255))
+
+
+# ---- common-move redo: Pistol Whip, Double Tap, Licked It, Ricochet, Smooth Talk --------------------------
+
+def click_bubble(size=32):
+    """A small white speech bubble: *click* - the gun's empty (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rounded_rectangle([S * .02, S * .14, S * .98, S * .7], 22, fill=(255, 255, 255, 255), outline=OUT, width=7)
+    d.polygon([(S * .2, S * .66), (S * .1, S * .92), (S * .38, S * .68)], fill=(255, 255, 255, 255))
+    d.line([(S * .2, S * .7), (S * .1, S * .92), (S * .38, S * .7)], fill=OUT, width=6)
+    im = _shrink(im, size)
+    return _texted(im, [("CLICK", (16, 9))], (20, 20, 25, 255), (255, 255, 255, 255))
+
+
+def goose_egg(size=32):
+    """A big shiny red lump - the bump on the head after a pistol whip."""
+    im, d, S = _big(size)
+    OUT = (90, 10, 20, 255)
+    d.pieslice([S * .06, S * .3, S * .94, S * 1.3], 180, 360, fill=(240, 90, 100, 255), outline=OUT, width=8)   # a dome
+    d.pieslice([S * .2, S * .44, S * .8, S * 1.16], 180, 360, fill=(250, 130, 135, 255))
+    d.ellipse([S * .3, S * .42, S * .48, S * .56], fill=(255, 235, 235, 255))
+    d.line([(S * .06, S * .8), (S * .94, S * .8)], fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def post_phone(size=64, liked=0, blocked=False):
+    """A phone showing a post: a duck-lips selfie, a heart under it (filled red after a like, with +1/+2) - or
+    the red U GOT BLOCKED screen (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    d.rounded_rectangle([S * .16, S * .02, S * .84, S * .98], 18, fill=(30, 30, 36, 255), outline=OUT, width=8)
+    d.rounded_rectangle([S * .21, S * .1, S * .79, S * .88], 8, fill=(220, 40, 40, 255) if blocked else (250, 250, 252, 255))
+    if not blocked:
+        d.rectangle([S * .25, S * .16, S * .75, S * .56], fill=(120, 180, 240, 255), outline=OUT, width=4)     # the pic
+        d.ellipse([S * .38, S * .26, S * .62, S * .5], fill=(250, 210, 160, 255), outline=OUT, width=4)
+        d.ellipse([S * .53, S * .36, S * .63, S * .44], fill=(240, 120, 140, 255), outline=OUT, width=3)      # duck lips
+        for x in (.44, .53):
+            d.ellipse([S * x, S * .32, S * (x + .04), S * .36], fill=OUT)
+        hx, hy = S * .32, S * .66
+        heart = [(hx, hy + S * .04), (hx - S * .06, hy - S * .02), (hx - S * .04, hy - S * .07), (hx, hy - S * .04),
+                 (hx + S * .04, hy - S * .07), (hx + S * .06, hy - S * .02)]
+        d.polygon(heart, fill=(240, 40, 70, 255) if liked else (250, 250, 252, 255), outline=OUT)
+    im = _shrink(im, size)
+    if blocked:
+        return _texted(im, [("U GOT", (32, 20)), ("BLOCKED", (32, 28))], (255, 255, 255, 255))
+    return _texted(im, [(f"+{liked}", (40, 39))], (240, 40, 70, 255), (255, 255, 255, 255)) if liked else im
+
+
+def like_heart(size=64):
+    """A big puffy red like-heart with a white outline and a shine."""
+    im, d, S = _big(size)
+    OUT = (255, 255, 255, 255)
+    d.ellipse([S * .06, S * .14, S * .54, S * .6], fill=(235, 30, 60, 255))
+    d.ellipse([S * .46, S * .14, S * .94, S * .6], fill=(235, 30, 60, 255))
+    d.polygon([(S * .1, S * .48), (S * .9, S * .48), (S * .5, S * .92)], fill=(235, 30, 60, 255))
+    d.arc([S * .06, S * .14, S * .54, S * .6], 140, 330, fill=OUT, width=8)
+    d.arc([S * .46, S * .14, S * .94, S * .6], 210, 40, fill=OUT, width=8)
+    d.line([(S * .1, S * .5), (S * .5, S * .92), (S * .9, S * .5)], fill=OUT, width=8)
+    d.ellipse([S * .16, S * .22, S * .3, S * .36], fill=(255, 200, 210, 255))
+    return _shrink(im, size)
+
+
+def triple_scoop(size=64, licked=False):
+    """A triple-scoop cone: chocolate, vanilla, strawberry, sprinkles on top - or with a big lick stripe slurped
+    up through all three (wet shine)."""
+    im, d, S = _big(size)
+    OUT = (60, 30, 20, 255)
+    d.polygon([(S * .3, S * .6), (S * .7, S * .6), (S * .5, S * .98)], fill=(220, 160, 80, 255), outline=OUT)
+    d.line([(S * .3, S * .6), (S * .5, S * .98), (S * .7, S * .6)], fill=OUT, width=6)
+    for k in range(3):
+        d.line([(S * (.36 + k * .1), S * .62), (S * (.44 + k * .06), S * .86)], fill=(180, 120, 50, 255), width=4)
+    for y, c in ((.46, (120, 70, 40, 255)), (.3, (250, 245, 225, 255)), (.14, (250, 150, 180, 255))):
+        d.ellipse([S * .28, S * (y - .02), S * .72, S * (y + .2)], fill=c, outline=OUT, width=6)
+    for x, y, c in ((.4, .18, (60, 160, 240)), (.5, .14, (250, 220, 40)), (.58, .2, (60, 200, 90)), (.46, .24, (240, 60, 60))):
+        d.rectangle([S * x, S * y, S * (x + .05), S * (y + .02)], fill=c + (255,))
+    if licked:                                                         # one long lick right up all three scoops
+        for y, c in ((.46, (90, 50, 28, 255)), (.3, (225, 215, 190, 255)), (.14, (220, 115, 150, 255))):
+            d.rounded_rectangle([S * .44, S * (y + .0), S * .58, S * (y + .17)], 10, fill=c)
+        d.line([(S * .47, S * .16), (S * .47, S * .58)], fill=(255, 255, 255, 230), width=4)                  # wet shine
+        d.rounded_rectangle([S * .64, S * .5, S * .7, S * .7], 6, fill=(250, 245, 225, 255), outline=OUT, width=3)  # a drip
+    return _shrink(im, size)
+
+
+def stop_sign(size=64, holed=False):
+    """A red octagon STOP sign on a pole (shown at 1:1) - with a bullet hole once it's been pinged."""
+    import math
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    d.rectangle([S * .46, S * .56, S * .54, S * .99], fill=(150, 150, 160, 255), outline=OUT, width=4)
+    pts = [(S * .5 + S * .3 * math.cos(math.pi / 8 + k * math.pi / 4), S * .32 + S * .3 * math.sin(math.pi / 8 + k * math.pi / 4)) for k in range(8)]
+    _outline_poly(d, pts, (220, 30, 35, 255), OUT, 7)
+    pts2 = [(S * .5 + S * .25 * math.cos(math.pi / 8 + k * math.pi / 4), S * .32 + S * .25 * math.sin(math.pi / 8 + k * math.pi / 4)) for k in range(8)]
+    d.line(pts2 + [pts2[0]], fill=(255, 255, 255, 255), width=4)
+    if holed:
+        d.ellipse([S * .58, S * .1, S * .7, S * .22], fill=(20, 20, 20, 255), outline=(200, 200, 200, 255), width=3)
+    im = _shrink(im, size)
+    return _texted(im, [("STOP", (32, 18))], (255, 255, 255, 255), (150, 10, 15, 255))
+
+
+def metal_trashcan(size=64, dented=False):
+    """A ribbed silver garbage can with its lid on - or dented in with the lid popped up off it."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 36, 255)
+    body = [(S * .2, S * .32), (S * .8, S * .32), (S * .74, S * .96), (S * .26, S * .96)]
+    if dented:
+        body = [(S * .2, S * .32), (S * .8, S * .32), (S * .74, S * .96), (S * .26, S * .96), (S * .34, S * .64), (S * .22, S * .5)]
+    _outline_poly(d, body, (170, 175, 185, 255), OUT, 7)
+    for k in range(4):
+        y = S * (.42 + k * .13)
+        d.line([(S * .36, y), (S * .7, y)], fill=(120, 125, 135, 255), width=5)
+    d.line([(S * .3, S * .36), (S * .3, S * .46)], fill=(230, 235, 240, 255), width=6)
+    if dented:
+        d.ellipse([S * .2, S * .02, S * .86, S * .18], fill=(180, 185, 195, 255), outline=OUT, width=6)
+    else:
+        d.ellipse([S * .14, S * .2, S * .86, S * .36], fill=(180, 185, 195, 255), outline=OUT, width=6)
+        d.rounded_rectangle([S * .42, S * .14, S * .58, S * .22], 5, fill=(150, 150, 160, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def street_pigeon(size=64):
+    """A fat grey city pigeon mid-flap, flying left: green neck shine, orange eye, pink feet."""
+    im, d, S = _big(size)
+    OUT = (25, 25, 30, 255)
+    d.ellipse([S * .2, S * .38, S * .78, S * .74], fill=(150, 155, 170, 255), outline=OUT, width=7)       # body
+    d.polygon([(S * .74, S * .5), (S * .98, S * .44), (S * .98, S * .64), (S * .74, S * .64)], fill=(90, 95, 110, 255), outline=OUT)
+    d.polygon([(S * .4, S * .46), (S * .66, S * .04), (S * .78, S * .1), (S * .62, S * .5)], fill=(170, 175, 190, 255), outline=OUT)  # wing
+    d.line([(S * .5, S * .3), (S * .7, S * .1)], fill=(90, 95, 110, 255), width=6)
+    d.ellipse([S * .04, S * .26, S * .34, S * .54], fill=(140, 145, 160, 255), outline=OUT, width=7)     # head
+    d.arc([S * .16, S * .4, S * .4, S * .6], 30, 150, fill=(90, 190, 140, 255), width=8)
+    d.ellipse([S * .12, S * .32, S * .2, S * .4], fill=(250, 140, 30, 255), outline=OUT, width=3)
+    d.polygon([(S * .05, S * .4), (S * 0, S * .44), (S * .06, S * .46)], fill=(60, 60, 66, 255))
+    for x in (.42, .54):
+        d.line([(S * x, S * .72), (S * (x - .02), S * .84)], fill=(240, 130, 150, 255), width=6)
+    return _shrink(im, size)
+
+
+def long_rose(size=64):
+    """A single long-stem red rose, held sideways - the smooth talker's prop."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 15, 255)
+    d.line([(S * .08, S * .78), (S * .66, S * .42)], fill=(50, 140, 50, 255), width=10)
+    for x, y in ((.3, .64), (.46, .54)):
+        d.ellipse([S * (x - .07), S * (y - .1), S * (x + .05), S * y], fill=(70, 170, 70, 255), outline=(20, 70, 20, 255), width=4)
+    d.ellipse([S * .6, S * .18, S * .94, S * .52], fill=(210, 20, 40, 255), outline=OUT, width=7)
+    d.arc([S * .66, S * .24, S * .88, S * .46], 180, 450, fill=(140, 0, 20, 255), width=6)
+    d.arc([S * .72, S * .3, S * .82, S * .4], 0, 300, fill=(140, 0, 20, 255), width=5)
+    return _shrink(im, size)
+
+
+def line_bubble(lines, size=64):
+    """A white speech bubble (tail bottom-left) holding a pickup line, up to 4 short lines (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    h = .22 + .12 * len(lines)
+    top = .78 - h
+    d.rounded_rectangle([S * .02, S * top, S * .98, S * .8], 26, fill=(255, 255, 255, 255), outline=OUT, width=8)
+    d.polygon([(S * .34, S * .76), (S * .12, S * .98), (S * .2, S * .74)], fill=(255, 255, 255, 255))
+    d.line([(S * .34, S * .78), (S * .12, S * .98), (S * .2, S * .78)], fill=OUT, width=7)
+    im = _shrink(im, size)
+    y0 = round(size * top) + 6
+    return _texted(im, [(t, (32, y0 + k * 8)) for k, t in enumerate(lines)], (20, 20, 25, 255), (255, 255, 255, 255))
+
+
+def zzz_drift(size=32):
+    """A big blue Z with a white outline, for the foe dozing off."""
+    im, d, S = _big(size)
+    OUT = (255, 255, 255, 255)
+    z = [(S * .18, S * .16), (S * .84, S * .16), (S * .84, S * .3), (S * .42, S * .7), (S * .84, S * .7), (S * .84, S * .86),
+         (S * .16, S * .86), (S * .16, S * .72), (S * .58, S * .3), (S * .18, S * .3)]
+    _outline_poly(d, z, (70, 120, 240, 255), OUT, 7)
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch A: Fair One, Tax Punch, Chicken Wing, Ring Light, Big Mad -------------------------
+
+def fight_bell(size=64):
+    """A brass boxing-ring bell on its wooden mount, the little hammer mid-swing."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 5, 255)
+    d.rounded_rectangle([S * .08, S * .06, S * .92, S * .2], 6, fill=(140, 80, 40, 255), outline=OUT, width=6)    # mount
+    d.rectangle([S * .46, S * .2, S * .54, S * .3], fill=(90, 90, 96, 255), outline=OUT, width=4)
+    d.pieslice([S * .14, S * .26, S * .86, S * .98], 180, 360, fill=(240, 190, 50, 255), outline=OUT, width=8)
+    d.line([(S * .14, S * .62), (S * .86, S * .62)], fill=OUT, width=8)
+    d.arc([S * .24, S * .34, S * .6, S * .7], 200, 260, fill=(255, 245, 190, 255), width=8)                  # shine
+    d.line([(S * .9, S * .3), (S * .7, S * .56)], fill=(110, 70, 40, 255), width=7)                           # hammer
+    d.ellipse([S * .62, S * .5, S * .74, S * .62], fill=(60, 60, 66, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def paystub(size=64, net=False):
+    """A pay stub: green PAY STUB header, ruled lines, and GROSS $1000 - or, after taxes, NET PAY $3.12 in
+    red (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 34, 255)
+    d.rectangle([S * .1, S * .04, S * .9, S * .96], fill=(250, 250, 245, 255), outline=OUT, width=7)
+    d.rectangle([S * .1, S * .04, S * .9, S * .2], fill=(60, 160, 90, 255), outline=OUT, width=7)
+    for k in range(4):
+        y = S * (.3 + k * .08)
+        d.line([(S * .18, y), (S * .82, y)], fill=(190, 190, 195, 255), width=4)
+    d.line([(S * .18, S * .68), (S * .82, S * .68)], fill=OUT, width=4)
+    im = _shrink(im, size)
+    _texted(im, [("PAY STUB", (32, 4))], (255, 255, 255, 255), (20, 80, 40, 255))
+    if net:
+        return _texted(im, [("NET PAY", (32, 46)), ("$3.12", (32, 54))], (230, 40, 40, 255), (255, 255, 255, 255), font=GLYPHS)
+    return _texted(im, [("GROSS", (32, 46)), ("$1000", (32, 54))], (30, 120, 60, 255), (255, 255, 255, 255), font=GLYPHS)
+
+
+def chicken_wing(size=64):
+    """A giant lemon pepper wing (a drumette): the fried meaty end, pepper specks, a lemon wedge, tapering to the
+    bone with its double knob."""
+    im, d, S = _big(size)
+    OUT = (80, 40, 10, 255)
+    d.line([(S * .6, S * .52), (S * .86, S * .5)], fill=(250, 245, 230, 255), width=int(S * .1))           # bone
+    d.line([(S * .6, S * .52), (S * .86, S * .5)], fill=OUT, width=4)
+    for y in (.42, .56):
+        d.ellipse([S * .82, S * (y - .06), S * .96, S * (y + .07)], fill=(250, 245, 230, 255), outline=OUT, width=5)
+    meat = [(S * .04, S * .5), (S * .1, S * .26), (S * .3, S * .16), (S * .5, S * .26), (S * .66, S * .44),
+            (S * .66, S * .6), (S * .5, S * .74), (S * .3, S * .84), (S * .1, S * .76)]
+    _outline_poly(d, meat, (220, 150, 55, 255), OUT, 8)
+    d.line([(S * .14, S * .34), (S * .3, S * .24), (S * .46, S * .3)], fill=(250, 205, 110, 255), width=7)   # crispy shine
+    for k in range(16):                                                          # lemon pepper
+        x, y = .1 + (k * 37 % 50) / 100, .3 + (k * 23 % 44) / 100
+        d.ellipse([S * x, S * y, S * (x + .025), S * (y + .025)], fill=(50, 40, 25, 255))
+    d.pieslice([S * .16, S * .48, S * .46, S * .8], 200, 340, fill=(250, 230, 60, 255), outline=OUT, width=5)  # lemon wedge
+    return _shrink(im, size)
+
+
+def ranch_cup(size=32):
+    """A little plastic cup of ranch, filled to the brim, the lid peeled back."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    d.polygon([(S * .12, S * .36), (S * .88, S * .36), (S * .76, S * .92), (S * .24, S * .92)], fill=(235, 240, 245, 255), outline=OUT)
+    d.line([(S * .12, S * .36), (S * .24, S * .92), (S * .76, S * .92), (S * .88, S * .36)], fill=OUT, width=6)
+    d.ellipse([S * .1, S * .28, S * .9, S * .44], fill=(250, 250, 240, 255), outline=OUT, width=6)
+    d.ellipse([S * .3, S * .32, S * .44, S * .38], fill=(140, 200, 120, 255))                               # herbs
+    d.ellipse([S * .58, S * .31, S * .66, S * .36], fill=(140, 200, 120, 255))
+    d.polygon([(S * .7, S * .3), (S * .98, S * .02), (S * .98, S * .2)], fill=(250, 250, 255, 255), outline=OUT)   # the lid
+    return _shrink(im, size)
+
+
+def influencer_light(size=64, level="10%"):
+    """An influencer ring light on a tripod, a phone clipped in the middle, the brightness readout on the base
+    (10% / 50% / 9000% - the ring glows hotter each step) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    glow = {"10%": (250, 240, 200, 255), "50%": (255, 250, 170, 255), "9000%": (255, 255, 255, 255)}[level]
+    d.line([(S * .5, S * .62), (S * .5, S * .9)], fill=(60, 60, 66, 255), width=8)
+    for x in (.24, .76):
+        d.line([(S * .5, S * .86), (S * x, S * .99)], fill=(60, 60, 66, 255), width=7)
+    if level != "10%":
+        d.ellipse([S * .0, S * .0, S * 1.0, S * .66], fill=glow[:3] + (110,))
+    d.ellipse([S * .14, S * .04, S * .86, S * .62], fill=(40, 40, 46, 255), outline=OUT, width=6)
+    d.ellipse([S * .2, S * .1, S * .8, S * .56], fill=glow)
+    d.ellipse([S * .32, S * .2, S * .68, S * .46], fill=(140, 200, 120, 0))
+    d.ellipse([S * .32, S * .2, S * .68, S * .46], fill=(90, 160, 90, 255))                                    # the backdrop
+    d.rounded_rectangle([S * .42, S * .2, S * .58, S * .46], 5, fill=(30, 30, 36, 255), outline=OUT, width=4)   # phone
+    d.rounded_rectangle([S * .3, S * .66, S * .7, S * .8], 5, fill=(30, 30, 36, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    return _texted(im, [(level, (32, 43))], (255, 220, 60, 255) if level != "9000%" else (255, 60, 40, 255), font=SMALL)
+
+
+def flip_table(size=64):
+    """A wooden folding table caught mid-flip: tabletop seen at an angle, the legs kicking up."""
+    im, d, S = _big(size)
+    OUT = (50, 25, 10, 255)
+    top = [(S * .04, S * .5), (S * .62, S * .18), (S * .96, S * .38), (S * .38, S * .72)]
+    _outline_poly(d, top, (180, 120, 60, 255), OUT, 8)
+    d.line([(S * .12, S * .5), (S * .62, S * .24)], fill=(215, 160, 95, 255), width=6)
+    for a, b in (((.16, .56), (.06, .9)), ((.36, .68), (.3, .98)), ((.86, .44), (.96, .78))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(140, 90, 40, 255), width=9)
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch B: Clown On, Spike Strip, Got Laced, Inside Job, Parkour --------------------------
+
+def rainbow_wig(size=64):
+    """A big curly rainbow clown wig: puffs of red, orange, yellow, green, blue round a bald-cap middle."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 30, 255)
+    cols = [(240, 50, 50), (250, 150, 30), (250, 220, 40), (70, 200, 80), (60, 130, 240), (160, 70, 220)]
+    pts = [(.12, .62), (.1, .42), (.2, .24), (.36, .14), (.52, .12), (.68, .16), (.82, .26), (.9, .44), (.88, .62)]
+    for k, (x, y) in enumerate(pts):
+        c = cols[k % len(cols)]
+        d.ellipse([S * (x - .12), S * (y - .12), S * (x + .12), S * (y + .12)], fill=c + (255,), outline=OUT, width=6)
+    return _shrink(im, size)                                                    # (open in the middle: their face shows)
+
+
+def clown_shoes(size=64):
+    """A pair of giant floppy red clown shoes with yellow laces, toes pointing out."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    for x0, flip in ((.0, True), (.5, False)):
+        if flip:
+            d.ellipse([S * .0, S * .5, S * .44, S * .86], fill=(220, 30, 40, 255), outline=OUT, width=7)
+            d.ellipse([S * .26, S * .46, S * .5, S * .76], fill=(220, 30, 40, 255), outline=OUT, width=7)
+            d.line([(S * .3, S * .56), (S * .44, S * .62)], fill=(250, 220, 40, 255), width=6)
+            d.arc([S * .06, S * .56, S * .24, S * .7], 200, 290, fill=(255, 150, 150, 255), width=6)
+        else:
+            d.ellipse([S * .56, S * .5, S * 1.0, S * .86], fill=(220, 30, 40, 255), outline=OUT, width=7)
+            d.ellipse([S * .5, S * .46, S * .74, S * .76], fill=(220, 30, 40, 255), outline=OUT, width=7)
+            d.line([(S * .56, S * .62), (S * .7, S * .56)], fill=(250, 220, 40, 255), width=6)
+            d.arc([S * .76, S * .56, S * .94, S * .7], 250, 340, fill=(255, 150, 150, 255), width=6)
+    return _shrink(im, size)
+
+
+def spike_strip(size=64):
+    """A police spike strip unrolled flat: a black accordion strip with a row of silver spikes sticking up."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rectangle([S * .02, S * .58, S * .98, S * .72], fill=(40, 40, 46, 255), outline=OUT, width=6)
+    for k in range(10):
+        x = S * (.06 + k * .095)
+        d.polygon([(x, S * .6), (x + S * .04, S * .36), (x + S * .08, S * .6)], fill=(210, 215, 225, 255), outline=OUT)
+        d.line([(x + S * .02, S * .56), (x + S * .04, S * .42)], fill=(255, 255, 255, 255), width=3)
+    d.rectangle([S * .02, S * .64, S * .98, S * .66], fill=(240, 200, 40, 255))
+    return _shrink(im, size)
+
+
+def pizza_scooter(size=64, flat=False):
+    """A red delivery moped facing left with the PIZZA box on the back rack, nobody on it - or with both tires
+    blown flat and the whole thing sagging."""
+    im, d, S = _big(size)
+    OUT = (30, 10, 10, 255)
+    sag = .06 if flat else 0
+    body = [(S * .12, S * (.56 + sag)), (S * .3, S * (.4 + sag)), (S * .7, S * (.44 + sag)), (S * .86, S * (.6 + sag)), (S * .2, S * (.66 + sag))]
+    _outline_poly(d, body, (220, 40, 40, 255), OUT, 7)
+    d.line([(S * .2, S * (.42 + sag)), (S * .14, S * (.2 + sag))], fill=(60, 60, 66, 255), width=8)          # handlebar
+    d.line([(S * .06, S * (.2 + sag)), (S * .22, S * (.2 + sag))], fill=(30, 30, 34, 255), width=8)
+    d.rectangle([S * .56, S * (.22 + sag), S * .94, S * (.42 + sag)], fill=(250, 245, 235, 255), outline=OUT, width=6)   # pizza box
+    for x in (.2, .78):
+        if flat:
+            d.ellipse([S * (x - .12), S * .78, S * (x + .12), S * .9], fill=(30, 30, 34, 255), outline=OUT, width=6)
+        else:
+            d.ellipse([S * (x - .1), S * .64, S * (x + .1), S * .9], fill=(30, 30, 34, 255), outline=OUT, width=6)
+            d.ellipse([S * (x - .04), S * .73, S * (x + .04), S * .81], fill=(200, 200, 210, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("PIZZA", (48, round(size * (.25 + sag))))], (220, 40, 40, 255), (255, 255, 255, 255))
+
+
+def pizza_hat(size=64):
+    """A whole pepperoni pizza flopped over like a hat, cheese dripping down the sides."""
+    im, d, S = _big(size)
+    OUT = (90, 40, 10, 255)
+    d.pieslice([S * .04, S * .2, S * .96, S * 1.1], 180, 360, fill=(230, 170, 80, 255), outline=OUT, width=8)   # crust
+    d.pieslice([S * .12, S * .28, S * .88, S * 1.02], 180, 360, fill=(250, 220, 110, 255))
+    for x, y in ((.3, .44), (.5, .36), (.68, .46), (.42, .56), (.6, .58)):
+        d.ellipse([S * (x - .07), S * (y - .06), S * (x + .07), S * (y + .06)], fill=(200, 50, 40, 255), outline=OUT, width=3)
+    for x in (.16, .4, .78):
+        d.rounded_rectangle([S * x, S * .62, S * (x + .06), S * .84], 8, fill=(250, 220, 110, 255))
+    return _shrink(im, size)
+
+
+def flying_sneaker(size=32):
+    """One white sneaker flying off, laces flapping."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    shoe = [(S * .06, S * .7), (S * .2, S * .36), (S * .5, S * .32), (S * .7, S * .5), (S * .96, S * .58), (S * .96, S * .74)]
+    _outline_poly(d, shoe, (250, 250, 250, 255), OUT, 6)
+    d.rectangle([S * .06, S * .7, S * .96, S * .82], fill=(220, 40, 40, 255), outline=OUT, width=5)
+    d.line([(S * .4, S * .36), (S * .56, S * .12)], fill=(220, 40, 40, 255), width=5)
+    d.line([(S * .46, S * .38), (S * .7, S * .2)], fill=(220, 40, 40, 255), width=5)
+    return _shrink(im, size)
+
+
+def safe_inside_man(size=64):
+    """The wall safe swung open - and a guy in a black ski mask crouched INSIDE it, waving."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rectangle([S * .08, S * .1, S * .92, S * .9], fill=(120, 125, 135, 255), outline=OUT, width=8)
+    d.rectangle([S * .16, S * .18, S * .84, S * .82], fill=(30, 30, 34, 255))
+    d.ellipse([S * .3, S * .3, S * .66, S * .7], fill=(25, 25, 30, 255), outline=(80, 80, 90, 255), width=5)    # ski mask
+    d.rectangle([S * .36, S * .42, S * .6, S * .5], fill=(240, 200, 160, 255))                                  # eye slot
+    for x in (.4, .52):
+        d.ellipse([S * x, S * .43, S * (x + .05), S * .49], fill=(255, 255, 255, 255))
+        d.ellipse([S * (x + .015), S * .445, S * (x + .035), S * .475], fill=OUT)
+    d.ellipse([S * .43, S * .56, S * .53, S * .64], fill=(240, 200, 160, 255))                                  # mouth hole
+    d.ellipse([S * .66, S * .3, S * .8, S * .44], fill=(25, 25, 30, 255), outline=(80, 80, 90, 255), width=4)  # the wave
+    d.rectangle([S * .9, S * .1, S * .99, S * .9], fill=(150, 155, 165, 255), outline=OUT, width=5)            # the door
+    return _shrink(im, size)
+
+
+def spring_glove(size=64):
+    """A red boxing glove on the end of a long coiled spring, punching left."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    for k in range(6):
+        x = S * (.44 + k * .09)
+        d.arc([x, S * .38, x + S * .12, S * .62], 0, 360, fill=(200, 200, 210, 255), width=6)
+    d.ellipse([S * .04, S * .24, S * .46, S * .76], fill=(220, 30, 40, 255), outline=OUT, width=8)
+    d.ellipse([S * .3, S * .34, S * .5, S * .66], fill=(200, 20, 30, 255), outline=OUT, width=6)               # cuff
+    d.arc([S * .1, S * .3, S * .3, S * .5], 180, 260, fill=(255, 150, 150, 255), width=7)
+    return _shrink(im, size)
+
+
+def blue_mailbox(size=64):
+    """A blue USPS-style street mailbox: rounded top, the pull-down slot, four little legs."""
+    im, d, S = _big(size)
+    OUT = (10, 20, 50, 255)
+    d.rounded_rectangle([S * .2, S * .1, S * .8, S * .82], 30, fill=(40, 80, 180, 255), outline=OUT, width=8)
+    d.rectangle([S * .2, S * .4, S * .8, S * .82], fill=(40, 80, 180, 255))
+    d.line([(S * .2, S * .4), (S * .2, S * .82), (S * .8, S * .82), (S * .8, S * .4)], fill=OUT, width=8)
+    d.rounded_rectangle([S * .3, S * .26, S * .7, S * .38], 6, fill=(90, 130, 220, 255), outline=OUT, width=5)
+    d.ellipse([S * .38, S * .5, S * .62, S * .7], fill=(250, 250, 250, 255), outline=OUT, width=4)
+    for x in (.24, .7):
+        d.rectangle([S * x, S * .82, S * (x + .06), S * .96], fill=(30, 30, 40, 255))
+    return _shrink(im, size)
+
+
+def fire_hydrant(size=64):
+    """A red fire hydrant: domed cap, the side nozzles, the chained cap, a bolt on top."""
+    im, d, S = _big(size)
+    OUT = (50, 10, 10, 255)
+    d.rectangle([S * .44, S * .04, S * .56, S * .14], fill=(200, 30, 30, 255), outline=OUT, width=4)
+    d.pieslice([S * .26, S * .1, S * .74, S * .46], 180, 360, fill=(220, 40, 40, 255), outline=OUT, width=7)
+    d.rectangle([S * .3, S * .28, S * .7, S * .86], fill=(220, 40, 40, 255), outline=OUT, width=7)
+    for x in (.12, .7):
+        d.rectangle([S * x, S * .44, S * (x + .18), S * .6], fill=(200, 30, 30, 255), outline=OUT, width=6)
+    d.ellipse([S * .4, S * .5, S * .6, S * .7], fill=(240, 220, 60, 255), outline=OUT, width=5)
+    d.rectangle([S * .22, S * .86, S * .78, S * .96], fill=(180, 25, 25, 255), outline=OUT, width=6)
+    d.line([(S * .36, S * .34), (S * .36, S * .8)], fill=(255, 140, 140, 255), width=6)
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch C: Vape Cloud, Plug In, Bed Bugs, Shakedown, Loud Pack ---------------------------
+
+def vape_mod(size=64):
+    """A chunky box-mod vape held upright: the tank with purple juice, the drip tip, the fire button, a little
+    screen reading 80W."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .3, S * .44, S * .7, S * .96], 10, fill=(50, 50, 60, 255), outline=OUT, width=7)    # the box
+    d.rectangle([S * .38, S * .52, S * .62, S * .64], fill=(120, 220, 140, 255), outline=OUT, width=4)        # screen
+    d.ellipse([S * .44, S * .72, S * .56, S * .84], fill=(220, 40, 40, 255), outline=OUT, width=4)            # fire button
+    d.rectangle([S * .4, S * .16, S * .6, S * .44], fill=(170, 90, 220, 180), outline=OUT, width=6)          # tank
+    d.line([(S * .44, S * .2), (S * .44, S * .4)], fill=(240, 220, 255, 255), width=5)
+    d.rounded_rectangle([S * .44, S * .04, S * .56, S * .16], 5, fill=(30, 30, 34, 255), outline=OUT, width=4)   # drip tip
+    d.line([(S * .34, S * .5), (S * .34, S * .9)], fill=(110, 110, 125, 255), width=5)
+    return _shrink(im, size)
+
+
+def cool_shades(size=64):
+    """Black wraparound shades with a white glint - the only thing you can see in the cloud."""
+    im, d, S = _big(size)
+    OUT = (5, 5, 8, 255)
+    d.line([(S * .04, S * .4), (S * .96, S * .4)], fill=OUT, width=10)
+    for x in (.06, .54):
+        d.rounded_rectangle([S * x, S * .36, S * (x + .4), S * .62], 14, fill=(20, 20, 26, 255), outline=OUT, width=6)
+        d.line([(S * (x + .08), S * .44), (S * (x + .18), S * .44)], fill=(255, 255, 255, 255), width=6)
+    return _shrink(im, size)
+
+
+def phone_charge(size=64, level="1%"):
+    """A phone face-on at a battery level: a battery icon with the % (red at 1-3%, green at 100%), the cable
+    plugged in at the bottom (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    full = level == "100%"
+    d.rounded_rectangle([S * .2, S * .02, S * .8, S * .86], 16, fill=(30, 30, 36, 255), outline=OUT, width=8)
+    d.rounded_rectangle([S * .25, S * .09, S * .75, S * .78], 8, fill=(20, 24, 34, 255))
+    d.rounded_rectangle([S * .32, S * .26, S * .64, S * .44], 5, outline=(240, 240, 240, 255), width=5)
+    d.rectangle([S * .64, S * .31, S * .68, S * .39], fill=(240, 240, 240, 255))
+    fill = (60, 220, 90, 255) if full else (230, 40, 40, 255)
+    d.rectangle([S * .35, S * .29, S * (.36 + (.26 if full else .03)), S * .41], fill=fill)
+    d.line([(S * .5, S * .86), (S * .5, S * .99)], fill=(240, 240, 240, 255), width=8)                       # the cable
+    im = _shrink(im, size)
+    return _texted(im, [(level, (32, 33))], fill, font=SMALL)
+
+
+def fast_charger(size=64):
+    """A giant brick wall charger, FAST on it in yellow, a lightning bolt, the thick cable whipping off."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .16, S * .14, S * .84, S * .76], 12, fill=(245, 245, 245, 255), outline=OUT, width=8)
+    for x in (.34, .58):
+        d.rectangle([S * x, S * .02, S * (x + .08), S * .16], fill=(190, 190, 200, 255), outline=OUT, width=4)    # prongs
+    d.polygon([(S * .52, S * .24), (S * .38, S * .48), (S * .5, S * .48), (S * .44, S * .66), (S * .64, S * .4),
+               (S * .52, S * .4), (S * .6, S * .24)], fill=(250, 210, 30, 255), outline=OUT)
+    d.line([(S * .5, S * .76), (S * .5, S * .86), (S * .8, S * .96)], fill=(245, 245, 245, 255), width=10)
+    d.line([(S * .5, S * .76), (S * .5, S * .86), (S * .8, S * .96)], fill=OUT, width=3)
+    return _shrink(im, size)
+
+
+def motel_bed(size=64):
+    """A sad motel bed: brown headboard, a saggy mattress with a stain, a thin floral blanket, one flat pillow."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 15, 255)
+    d.rounded_rectangle([S * .02, S * .22, S * .2, S * .78], 6, fill=(120, 70, 40, 255), outline=OUT, width=6)    # headboard
+    d.rectangle([S * .14, S * .5, S * .98, S * .72], fill=(230, 220, 200, 255), outline=OUT, width=6)          # mattress
+    d.ellipse([S * .56, S * .54, S * .7, S * .62], fill=(200, 180, 120, 255))                                 # the stain
+    d.rectangle([S * .4, S * .44, S * .98, S * .6], fill=(200, 110, 120, 255), outline=OUT, width=5)          # blanket
+    for x in (.48, .64, .8, .92):
+        d.ellipse([S * x, S * .48, S * (x + .05), S * .53], fill=(250, 220, 90, 255))
+    d.rounded_rectangle([S * .18, S * .42, S * .38, S * .52], 8, fill=(250, 250, 245, 255), outline=OUT, width=5)  # pillow
+    for x in (.18, .92):
+        d.rectangle([S * x, S * .72, S * (x + .05), S * .84], fill=(80, 50, 30, 255))
+    return _shrink(im, size)
+
+
+def key_ring(size=32):
+    """A ring of keys: three keys, a bottle opener, a little dice charm."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    d.ellipse([S * .3, S * .04, S * .62, S * .36], outline=(200, 200, 210, 255), width=9)
+    for k, (a, c) in enumerate(((-.2, (230, 200, 60)), (0, (200, 200, 210)), (.2, (190, 150, 90)))):
+        x = .46 + a
+        d.line([(S * .46, S * .3), (S * x, S * .7)], fill=c + (255,), width=10)
+        d.ellipse([S * (x - .1), S * .64, S * (x + .1), S * .84], fill=c + (255,), outline=OUT, width=4)
+    d.rectangle([S * .7, S * .3, S * .9, S * .5], fill=(240, 40, 40, 255), outline=OUT, width=4)
+    for x, y in ((.75, .35), (.83, .43)):
+        d.ellipse([S * x, S * y, S * (x + .04), S * (y + .04)], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def rubber_chicken(size=64):
+    """A yellow rubber chicken, limp, beak open mid-squeak, red comb, orange feet."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 0, 255)
+    d.ellipse([S * .3, S * .3, S * .82, S * .62], fill=(250, 220, 50, 255), outline=OUT, width=7)                 # body
+    d.line([(S * .34, S * .42), (S * .16, S * .2)], fill=(250, 220, 50, 255), width=int(S * .12))                 # neck
+    d.ellipse([S * .04, S * .06, S * .26, S * .28], fill=(250, 220, 50, 255), outline=OUT, width=6)               # head
+    d.polygon([(S * .08, S * .08), (S * .12, S * .0), (S * .18, S * .06), (S * .22, S * .0), (S * .24, S * .1)],
+              fill=(230, 40, 40, 255), outline=OUT)
+    d.polygon([(S * .04, S * .16), (S * -.0, S * .2), (S * .06, S * .24)], fill=(250, 140, 30, 255), outline=OUT)  # beak
+    d.ellipse([S * .12, S * .12, S * .16, S * .16], fill=OUT)
+    for x in (.48, .64):
+        d.line([(S * x, S * .6), (S * (x + .02), S * .86)], fill=(250, 140, 30, 255), width=7)
+        d.line([(S * (x - .04), S * .88), (S * (x + .08), S * .88)], fill=(250, 140, 30, 255), width=6)
+    d.arc([S * .4, S * .34, S * .7, S * .5], 200, 320, fill=(255, 245, 180, 255), width=6)
+    return _shrink(im, size)
+
+
+def boombox_pack(size=64):
+    """The neon fanny pack unzipped - and a little boombox sticking out of it, speakers thumping."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 30, 255)
+    d.rounded_rectangle([S * .14, S * .12, S * .86, S * .52], 8, fill=(60, 60, 70, 255), outline=OUT, width=7)    # boombox
+    d.line([(S * .3, S * .12), (S * .4, S * .02), (S * .6, S * .02), (S * .7, S * .12)], fill=OUT, width=6)       # handle
+    for x in (.3, .7):
+        d.ellipse([S * (x - .12), S * .18, S * (x + .12), S * .46], fill=(30, 30, 36, 255), outline=(200, 200, 210, 255), width=5)
+        d.ellipse([S * (x - .05), S * .26, S * (x + .05), S * .38], fill=(120, 120, 130, 255))
+    d.rectangle([S * .44, S * .2, S * .56, S * .3], fill=(120, 220, 255, 255), outline=OUT, width=3)
+    d.rounded_rectangle([S * .04, S * .44, S * .96, S * .84], 22, fill=(250, 60, 200, 255), outline=OUT, width=8)  # the pack
+    d.line([(S * .1, S * .5), (S * .9, S * .5)], fill=(60, 255, 140, 255), width=7)                               # zip
+    d.arc([S * .16, S * .52, S * .5, S * .74], 200, 260, fill=(255, 190, 240, 255), width=7)
+    return _shrink(im, size)
+
+
+def house_slipper(size=32):
+    """A fuzzy pink house slipper, flying sole-first."""
+    im, d, S = _big(size)
+    OUT = (90, 20, 50, 255)
+    d.ellipse([S * .06, S * .3, S * .94, S * .76], fill=(250, 150, 190, 255), outline=OUT, width=7)
+    d.pieslice([S * .44, S * .24, S * .96, S * .74], 270, 450, fill=(255, 200, 225, 255), outline=OUT, width=6)
+    for k in range(6):
+        x = .5 + k * .07
+        d.ellipse([S * x, S * .28, S * (x + .06), S * .34], fill=(255, 235, 245, 255))
+    d.line([(S * .1, S * .6), (S * .5, S * .7)], fill=(160, 60, 110, 255), width=6)
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch D1: Same Smoke, K9 Unit, Hide Out, Bling Beam, Mooch -------------------------------
+
+def hoop_earrings(size=32):
+    """A pair of big gold hoop earrings."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 0, 255)
+    for x in (.04, .52):
+        d.ellipse([S * x, S * .2, S * (x + .44), S * .64], outline=OUT, width=12)
+        d.ellipse([S * x, S * .2, S * (x + .44), S * .64], outline=(250, 200, 40, 255), width=7)
+        d.arc([S * (x + .06), S * .26, S * (x + .2), S * .44], 160, 250, fill=(255, 250, 200, 255), width=4)
+    return _shrink(im, size)
+
+
+def rope_chain(size=64):
+    """A thick gold rope chain coming off, swinging in a U."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 0, 255)
+    d.arc([S * .06, S * -.3, S * .94, S * .8], 20, 160, fill=OUT, width=18)
+    d.arc([S * .06, S * -.3, S * .94, S * .8], 20, 160, fill=(250, 200, 40, 255), width=12)
+    import math
+    for k in range(14):                                                           # the rope twist
+        a = math.radians(24 + k * 9.5)
+        x, y = S * .5 + S * .44 * math.cos(a), S * .25 + S * .55 * math.sin(a)
+        d.line([(x - 4, y - 5), (x + 4, y + 5)], fill=(255, 245, 190, 255), width=3)
+    return _shrink(im, size)
+
+
+def jelly_jar(size=64):
+    """A tub of petroleum jelly, lid off, a big shiny scoop of it, a blue JELLY label - fight prep."""
+    im, d, S = _big(size)
+    OUT = (20, 30, 60, 255)
+    d.rounded_rectangle([S * .2, S * .36, S * .8, S * .94], 10, fill=(235, 240, 250, 255), outline=OUT, width=7)
+    d.rectangle([S * .2, S * .52, S * .8, S * .78], fill=(40, 90, 200, 255), outline=OUT, width=5)
+    d.ellipse([S * .22, S * .26, S * .78, S * .44], fill=(250, 245, 215, 255), outline=OUT, width=6)
+    d.ellipse([S * .38, S * .18, S * .6, S * .34], fill=(255, 250, 225, 255), outline=OUT, width=5)            # the scoop
+    d.arc([S * .42, S * .2, S * .52, S * .28], 180, 300, fill=(255, 255, 255, 255), width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("JELLY", (32, 37))], (255, 255, 255, 255), (20, 40, 100, 255))
+
+
+def k9_dog(size=64, barking=False):
+    """A police German shepherd facing left in a blue K9 vest - trotting, or sat up barking with its mouth open."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 10, 255)
+    TAN, BLK = (200, 140, 70, 255), (45, 35, 30, 255)
+    if barking:
+        d.ellipse([S * .4, S * .4, S * .86, S * .9], fill=TAN, outline=OUT, width=7)                               # sat body
+        d.rectangle([S * .44, S * .46, S * .8, S * .66], fill=(40, 70, 170, 255), outline=OUT, width=5)           # vest
+        d.line([(S * .5, S * .8), (S * .5, S * .96)], fill=TAN, width=12)
+        head = (.28, .2)
+    else:
+        d.ellipse([S * .3, S * .4, S * .92, S * .72], fill=TAN, outline=OUT, width=7)
+        d.rectangle([S * .4, S * .42, S * .76, S * .62], fill=(40, 70, 170, 255), outline=OUT, width=5)
+        for x in (.36, .48, .76, .86):
+            d.line([(S * x, S * .68), (S * (x - .02), S * .94)], fill=TAN, width=10)
+        d.line([(S * .9, S * .5), (S * .99, S * .36)], fill=BLK, width=9)                                          # tail
+        head = (.12, .3)
+    hx, hy = head
+    d.ellipse([S * hx, S * hy, S * (hx + .3), S * (hy + .26)], fill=TAN, outline=OUT, width=7)
+    d.polygon([(S * (hx + .16), S * (hy + .02)), (S * (hx + .2), S * (hy - .14)), (S * (hx + .28), S * (hy + .06))], fill=BLK, outline=OUT)
+    d.polygon([(S * (hx + .02), S * (hy + .1)), (S * (hx - .1), S * (hy + .16)), (S * (hx + .02), S * (hy + .22))], fill=TAN, outline=OUT)  # snout
+    d.ellipse([S * (hx - .12), S * (hy + .12), S * (hx - .06), S * (hy + .18)], fill=OUT)
+    d.ellipse([S * (hx + .08), S * (hy + .08), S * (hx + .13), S * (hy + .13)], fill=OUT)
+    if barking:
+        d.polygon([(S * (hx - .08), S * (hy + .2)), (S * (hx + .06), S * (hy + .22)), (S * (hx - .04), S * (hy + .32))], fill=(200, 40, 50, 255), outline=OUT)
+    im = _shrink(im, size)
+    return _texted(im, [("K9", (round(size * (.62 if barking else .58)), round(size * (.5 if barking else .46))))], (255, 255, 255, 255), (20, 30, 90, 255))
+
+
+def sandwich(size=32):
+    """A fat sub sandwich: bread, lettuce, tomato, cheese."""
+    im, d, S = _big(size)
+    OUT = (80, 45, 10, 255)
+    d.rounded_rectangle([S * .04, S * .52, S * .96, S * .72], 12, fill=(220, 160, 80, 255), outline=OUT, width=5)
+    d.rectangle([S * .06, S * .44, S * .94, S * .54], fill=(90, 190, 60, 255))
+    d.rectangle([S * .08, S * .38, S * .92, S * .46], fill=(250, 210, 50, 255))
+    for x in (.16, .42, .68):
+        d.ellipse([S * x, S * .32, S * (x + .2), S * .42], fill=(220, 50, 40, 255), outline=OUT, width=3)
+    d.rounded_rectangle([S * .04, S * .16, S * .96, S * .36], 12, fill=(230, 175, 90, 255), outline=OUT, width=5)
+    for x in (.2, .45, .7):
+        d.line([(S * x, S * .2), (S * (x + .08), S * .26)], fill=(255, 225, 160, 255), width=3)
+    return _shrink(im, size)
+
+
+def tiny_cactus(size=32, fallen=False):
+    """A tiny potted cactus (way too small to hide behind) - or tipped over on its side."""
+    im, d, S = _big(size)
+    OUT = (20, 50, 20, 255)
+    d.polygon([(S * .26, S * .66), (S * .74, S * .66), (S * .66, S * .96), (S * .34, S * .96)], fill=(200, 100, 50, 255), outline=OUT)
+    d.rounded_rectangle([S * .38, S * .14, S * .62, S * .7], 12, fill=(70, 170, 70, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .16, S * .34, S * .3, S * .56], 8, fill=(70, 170, 70, 255), outline=OUT, width=4)
+    d.line([(S * .28, S * .5), (S * .4, S * .5)], fill=(70, 170, 70, 255), width=8)
+    for x, y in ((.44, .3), (.56, .42), (.46, .56), (.2, .4)):
+        d.line([(S * x, S * y), (S * (x + .04), S * (y - .04))], fill=(255, 255, 220, 255), width=3)
+    d.ellipse([S * .46, S * .06, S * .56, S * .16], fill=(250, 100, 160, 255), outline=OUT, width=3)            # a flower
+    im = _shrink(im, size)
+    return im.rotate(80, resample=Image.NEAREST, center=(size * .5, size * .9)) if fallen else im
+
+
+def big_chain(size=64):
+    """An iced-out chain: a heavy gold rope with a huge diamond-crusted $ medallion."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 0, 255)
+    d.arc([S * .08, S * -.36, S * .92, S * .5], 25, 155, fill=OUT, width=14)
+    d.arc([S * .08, S * -.36, S * .92, S * .5], 25, 155, fill=(250, 200, 40, 255), width=9)
+    d.ellipse([S * .26, S * .36, S * .74, S * .84], fill=(250, 200, 40, 255), outline=OUT, width=8)
+    d.ellipse([S * .32, S * .42, S * .68, S * .78], fill=(200, 240, 255, 255), outline=(120, 160, 200, 255), width=4)
+    for k in range(10):                                                           # the ice
+        x, y = .36 + (k * 37 % 28) / 100, .46 + (k * 23 % 28) / 100
+        d.ellipse([S * x, S * y, S * (x + .04), S * (y + .04)], fill=(255, 255, 255, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("$", (32, 26))], (250, 200, 40, 255), (90, 60, 0, 255), font=GLYPHS)
+
+
+def food_tray(size=64, burger=True):
+    """A red fast-food tray: a carton of fries, a soda, and a burger (or just the empty wrapper once it's gone)."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    d.polygon([(S * .02, S * .7), (S * .98, S * .7), (S * .9, S * .86), (S * .1, S * .86)], fill=(200, 40, 40, 255), outline=OUT)
+    d.rectangle([S * .72, S * .3, S * .9, S * .7], fill=(250, 250, 250, 255), outline=OUT, width=5)            # soda
+    d.line([(S * .82, S * .3), (S * .86, S * .14)], fill=(220, 40, 40, 255), width=6)
+    for k in range(5):                                                            # fries
+        x = .1 + k * .05
+        d.rectangle([S * x, S * .3, S * (x + .04), S * .5], fill=(250, 210, 60, 255), outline=OUT, width=2)
+    d.polygon([(S * .06, S * .44), (S * .38, S * .44), (S * .34, S * .7), (S * .1, S * .7)], fill=(220, 40, 40, 255), outline=OUT)
+    if burger:
+        d.pieslice([S * .38, S * .3, S * .7, S * .62], 180, 360, fill=(220, 150, 60, 255), outline=OUT, width=5)
+        d.rectangle([S * .38, S * .46, S * .7, S * .52], fill=(110, 60, 30, 255))
+        d.rectangle([S * .38, S * .52, S * .7, S * .56], fill=(90, 190, 60, 255))
+        d.rounded_rectangle([S * .38, S * .56, S * .7, S * .68], 6, fill=(220, 150, 60, 255), outline=OUT, width=5)
+    else:
+        d.polygon([(S * .4, S * .66), (S * .5, S * .56), (S * .62, S * .62), (S * .68, S * .68)], fill=(240, 230, 210, 255), outline=OUT)
+    return _shrink(im, size)
+
+
+def french_fry(size=32):
+    """A single golden fry."""
+    im, d, S = _big(size)
+    OUT = (120, 70, 0, 255)
+    d.rounded_rectangle([S * .4, S * .06, S * .6, S * .94], 6, fill=(250, 210, 60, 255), outline=OUT, width=6)
+    d.line([(S * .46, S * .12), (S * .46, S * .5)], fill=(255, 245, 180, 255), width=4)
+    return _shrink(im, size)
+
+
+def burger(size=32):
+    """A whole burger: sesame bun, lettuce, cheese, patty."""
+    im, d, S = _big(size)
+    OUT = (60, 30, 10, 255)
+    d.pieslice([S * .06, S * .14, S * .94, S * .66], 180, 360, fill=(220, 150, 60, 255), outline=OUT, width=6)
+    for x, y in ((.3, .26), (.5, .22), (.66, .3)):
+        d.ellipse([S * x, S * y, S * (x + .06), S * (y + .04)], fill=(255, 245, 210, 255))
+    d.rectangle([S * .06, S * .4, S * .94, S * .48], fill=(90, 190, 60, 255))
+    d.polygon([(S * .06, S * .48), (S * .94, S * .48), (S * .8, S * .56), (S * .2, S * .56)], fill=(250, 200, 40, 255))
+    d.rounded_rectangle([S * .08, S * .54, S * .92, S * .68], 6, fill=(110, 60, 30, 255), outline=OUT, width=4)
+    d.rounded_rectangle([S * .06, S * .68, S * .94, S * .84], 8, fill=(220, 150, 60, 255), outline=OUT, width=5)
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch D2: Peep Game, Zaza Storm, Dip Out, Spit Bars, Post Up -----------------------------
+
+def playbook_clipboard(size=64):
+    """A clipboard with the foe's game plan on it: PLAN: / HIT EM, an X-and-O doodle (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 10, 255)
+    d.rounded_rectangle([S * .14, S * .06, S * .86, S * .96], 8, fill=(160, 110, 60, 255), outline=OUT, width=7)
+    d.rectangle([S * .22, S * .14, S * .78, S * .9], fill=(250, 250, 245, 255), outline=OUT, width=4)
+    d.rounded_rectangle([S * .36, S * .02, S * .64, S * .14], 5, fill=(190, 190, 200, 255), outline=OUT, width=5)
+    d.line([(S * .3, S * .7), (S * .4, S * .8)], fill=(220, 40, 40, 255), width=5)                          # X
+    d.line([(S * .4, S * .7), (S * .3, S * .8)], fill=(220, 40, 40, 255), width=5)
+    d.ellipse([S * .56, S * .68, S * .7, S * .82], outline=(40, 80, 200, 255), width=5)                      # O
+    d.line([(S * .42, S * .75), (S * .54, S * .75)], fill=(40, 40, 46, 255), width=3)
+    im = _shrink(im, size)
+    return _texted(im, [("PLAN:", (32, 14)), ("HIT EM", (32, 26))], (20, 20, 25, 255), (250, 250, 245, 255))
+
+
+def weather_map(size=64, level="LIGHT"):
+    """A TV weather report: a map with a green blob over the hood, and a banner reading LIGHT / MODERATE /
+    SEVERE (the blob grows and goes red) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    col = {"LIGHT": (90, 200, 90, 255), "MODERATE": (240, 200, 40, 255), "SEVERE": (230, 40, 40, 255)}[level]
+    grow = {"LIGHT": .1, "MODERATE": .18, "SEVERE": .28}[level]
+    d.rounded_rectangle([S * .02, S * .04, S * .98, S * .9], 10, fill=(40, 40, 46, 255), outline=OUT, width=8)
+    d.rectangle([S * .08, S * .1, S * .92, S * .66], fill=(90, 150, 230, 255))
+    d.polygon([(S * .14, S * .6), (S * .2, S * .2), (S * .5, S * .14), (S * .86, S * .26), (S * .8, S * .62)], fill=(170, 200, 120, 255))
+    d.ellipse([S * (.5 - grow), S * (.38 - grow * .8), S * (.5 + grow), S * (.38 + grow * .8)], fill=col[:3] + (200,))
+    d.rectangle([S * .08, S * .66, S * .92, S * .84], fill=col, outline=OUT, width=4)
+    d.rectangle([S * .44, S * .9, S * .56, S * .98], fill=(40, 40, 46, 255))
+    im = _shrink(im, size)
+    words = [(level, (32, 44))] + ([("ZAZA", (32, 6))] if level == "SEVERE" else [])
+    return _texted(im, words, (255, 255, 255, 255), (20, 20, 25, 255))
+
+
+def window_pane(size=64, broken=False):
+    """A wooden window frame with four panes - or smashed out, jagged shards left in the frame."""
+    im, d, S = _big(size)
+    OUT = (50, 30, 15, 255)
+    d.rectangle([S * .1, S * .08, S * .9, S * .92], fill=(140, 90, 50, 255), outline=OUT, width=7)
+    for x0, y0 in ((.16, .14), (.52, .14), (.16, .52), (.52, .52)):
+        d.rectangle([S * x0, S * y0, S * (x0 + .32), S * (y0 + .34)], fill=(170, 220, 250, 255) if not broken else (40, 40, 50, 255), outline=OUT, width=4)
+        if broken:
+            d.polygon([(S * x0, S * y0), (S * (x0 + .12), S * y0), (S * x0, S * (y0 + .14))], fill=(170, 220, 250, 255))
+            d.polygon([(S * (x0 + .32), S * (y0 + .34)), (S * (x0 + .2), S * (y0 + .34)), (S * (x0 + .32), S * (y0 + .2))], fill=(170, 220, 250, 255))
+        else:
+            d.line([(S * (x0 + .06), S * (y0 + .24)), (S * (x0 + .2), S * (y0 + .06))], fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def jail_bar(size=64):
+    """One heavy steel jail bar, flying."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.rounded_rectangle([S * .42, S * .02, S * .58, S * .98], 8, fill=(150, 155, 170, 255), outline=OUT, width=6)
+    d.line([(S * .47, S * .08), (S * .47, S * .9)], fill=(230, 235, 245, 255), width=5)
+    return _shrink(im, size)
+
+
+def jail_cell(size=64):
+    """The front of a jail cell: a steel frame and six bars (the foe shows through behind them)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.rectangle([S * .04, S * .04, S * .96, S * .14], fill=(110, 115, 130, 255), outline=OUT, width=6)
+    d.rectangle([S * .04, S * .86, S * .96, S * .96], fill=(110, 115, 130, 255), outline=OUT, width=6)
+    for k in range(6):
+        x = .1 + k * .158
+        d.rectangle([S * x, S * .14, S * (x + .06), S * .86], fill=(150, 155, 170, 255), outline=OUT, width=4)
+        d.line([(S * (x + .02), S * .16), (S * (x + .02), S * .84)], fill=(230, 235, 245, 255), width=3)
+    d.rectangle([S * .4, S * .44, S * .6, S * .58], fill=(200, 170, 60, 255), outline=OUT, width=4)           # the lock
+    return _shrink(im, size)
+
+
+def cooler_box(size=64):
+    """A red and white picnic cooler, lid cracked, ice and a soda can peeking out."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    d.rounded_rectangle([S * .08, S * .4, S * .92, S * .9], 10, fill=(220, 40, 40, 255), outline=OUT, width=7)
+    d.rounded_rectangle([S * .06, S * .26, S * .94, S * .42], 8, fill=(250, 250, 250, 255), outline=OUT, width=7)
+    d.rectangle([S * .4, S * .5, S * .6, S * .58], fill=(250, 250, 250, 255), outline=OUT, width=4)             # handle
+    for x in (.2, .36):
+        d.rectangle([S * x, S * .16, S * (x + .12), S * .28], fill=(200, 235, 255, 255), outline=(120, 160, 200, 255), width=3)
+    d.rectangle([S * .6, S * .08, S * .74, S * .28], fill=(40, 120, 220, 255), outline=OUT, width=4)            # a can
+    return _shrink(im, size)
+
+
+def bbq_grill(size=64):
+    """A black kettle grill on its legs, lid propped, burgers and dogs sizzling, smoke rolling up."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    for a, b in (((.3, .62), (.18, .96)), ((.7, .62), (.82, .96)), ((.5, .66), (.5, .96))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(60, 60, 66, 255), width=7)
+    d.chord([S * .1, S * .3, S * .9, S * .8], 0, 180, fill=(40, 40, 46, 255), outline=OUT, width=7)              # the bowl
+    d.ellipse([S * .66, S * .02, S * .98, S * .34], fill=(40, 40, 46, 255), outline=OUT, width=6)              # the lid, propped
+    d.line([(S * .12, S * .55), (S * .88, S * .55)], fill=(150, 150, 160, 255), width=4)
+    for x in (.2, .44):
+        d.ellipse([S * x, S * .44, S * (x + .18), S * .56], fill=(110, 60, 30, 255), outline=OUT, width=4)       # burgers
+    d.rounded_rectangle([S * .64, S * .46, S * .82, S * .54], 6, fill=(200, 90, 60, 255), outline=OUT, width=3)  # a dog
+    for x in (.3, .5):
+        d.ellipse([S * x, S * .18, S * (x + .14), S * .32], fill=(220, 220, 225, 180))
+    return _shrink(im, size)
+
+
+# ---- set 20 redo, batch D3: Stab Combo, Ride or Die -------------------------------------------------------
+
+def handcuff(size=32):
+    """One steel handcuff, snapped shut, a chain link hanging off it."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.ellipse([S * .1, S * .2, S * .7, S * .8], outline=OUT, width=14)
+    d.ellipse([S * .1, S * .2, S * .7, S * .8], outline=(190, 195, 210, 255), width=8)
+    d.rectangle([S * .54, S * .36, S * .76, S * .56], fill=(150, 155, 170, 255), outline=OUT, width=4)        # the lock box
+    d.ellipse([S * .74, S * .38, S * .96, S * .56], outline=(190, 195, 210, 255), width=6)                    # a link
+    d.arc([S * .16, S * .26, S * .4, S * .5], 180, 260, fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def cuff_key(size=32):
+    """A little silver handcuff key."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.ellipse([S * .06, S * .3, S * .4, S * .64], fill=(200, 205, 220, 255), outline=OUT, width=6)
+    d.ellipse([S * .16, S * .4, S * .3, S * .54], fill=(0, 0, 0, 0), outline=OUT, width=4)
+    d.rectangle([S * .38, S * .42, S * .9, S * .52], fill=(200, 205, 220, 255), outline=OUT, width=4)
+    d.rectangle([S * .76, S * .52, S * .86, S * .66], fill=(200, 205, 220, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+# ---- set 23, batch 1: Got Milk, Half Off, Crop Duster, Death Stare, Catch a Fade -----------------------------
+
+def milk_gallon(size=64, level="full", label=True):
+    """A plastic gallon jug of whole milk: blue cap, the handle up top, a red label reading MILK (shown at 1:1).
+    level: full / half / empty (the clear plastic shows how much is left)."""
+    im, d, S = _big(size)
+    OUT = (30, 40, 70, 255)
+    milk = {"full": .28, "half": .6, "empty": 1.1}[level]
+    d.rounded_rectangle([S * .2, S * .22, S * .8, S * .96], 22, fill=(225, 232, 240, 150), outline=OUT, width=8)   # the jug
+    if milk < 1:
+        d.rounded_rectangle([S * .2, S * milk, S * .8, S * .96], 22, fill=(252, 252, 255, 255), outline=OUT, width=8)
+    d.polygon([(S * .3, S * .22), (S * .42, S * .1), (S * .58, S * .1), (S * .58, S * .22)], fill=(230, 235, 242, 200))
+    d.line([(S * .3, S * .22), (S * .42, S * .1)], fill=OUT, width=7)
+    d.rounded_rectangle([S * .56, S * .1, S * .82, S * .34], 10, outline=OUT, width=9)                             # handle
+    d.rounded_rectangle([S * .38, S * .02, S * .56, S * .12], 4, fill=(40, 110, 230, 255), outline=OUT, width=6)  # cap
+    if label:
+        d.rectangle([S * .2, S * .5, S * .8, S * .76], fill=(220, 40, 40, 255), outline=OUT, width=6)
+    d.line([(S * .27, S * .3), (S * .27, S * .44)], fill=(255, 255, 255, 255), width=6)                           # shine
+    im = _shrink(im, size)
+    return _texted(im, [("MILK", (32, 35))], (255, 255, 255, 255), (120, 10, 10, 255)) if label else im
+
+
+def milk_chug(size=64):
+    """The jug tipped right over (no text: tilted), milk glugging out the spout to the left."""
+    im = milk_gallon(size, "half", label=False).rotate(125, resample=Image.BICUBIC, expand=False)
+    d = ImageDraw.Draw(im)
+    for k, (x, y) in enumerate(((10, 46), (6, 54), (12, 58))):
+        d.ellipse([x, y, x + 6 - k, y + 6 - k], fill=(252, 252, 255, 255), outline=(150, 160, 190, 255))
+    return im
+
+
+def price_gun(size=64):
+    """An orange price labeler gun: a sticker roll on top, the trigger, a fresh sticker poking out the nose."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 5, 255)
+    d.polygon([(S * .08, S * .3), (S * .74, S * .3), (S * .84, S * .44), (S * .74, S * .56), (S * .08, S * .56)],
+              fill=(250, 140, 30, 255), outline=OUT)
+    d.line([(S * .08, S * .3), (S * .74, S * .3), (S * .84, S * .44), (S * .74, S * .56), (S * .08, S * .56), (S * .08, S * .3)], fill=OUT, width=7)
+    d.ellipse([S * .2, S * .06, S * .52, S * .38], fill=(250, 250, 245, 255), outline=OUT, width=7)              # roll
+    d.ellipse([S * .32, S * .18, S * .4, S * .26], fill=(120, 120, 130, 255))
+    d.rounded_rectangle([S * .14, S * .54, S * .34, S * .96], 8, fill=(60, 60, 66, 255), outline=OUT, width=7)  # grip
+    d.rounded_rectangle([S * .4, S * .56, S * .62, S * .82], 8, fill=(250, 140, 30, 255), outline=OUT, width=7)  # trigger
+    d.rectangle([S * .82, S * .36, S * .98, S * .5], fill=(255, 255, 255, 255), outline=OUT, width=4)             # sticker
+    d.line([(S * .14, S * .36), (S * .7, S * .36)], fill=(255, 200, 120, 255), width=5)
+    return _shrink(im, size)
+
+
+def price_sticker(text, size=32, fill=(255, 230, 60, 255), ink=(20, 20, 25, 255)):
+    """A small price sticker (rounded rectangle) with one word on it (shown at 1:1)."""
+    im, d, S = _big(size)
+    d.rounded_rectangle([S * .04, S * .22, S * .96, S * .78], 16, fill=fill, outline=(20, 20, 25, 255), width=6)
+    return _texted(_shrink(im, size), [(text, (16, 13))], ink, fill)
+
+
+def half_off_tag(size=64):
+    """A huge red clearance tag on a string: 50% / OFF in big white letters (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 0, 0, 255)
+    d.polygon([(S * .18, S * .14), (S * .96, S * .14), (S * .96, S * .86), (S * .18, S * .86), (S * .02, S * .5)],
+              fill=(220, 30, 30, 255))
+    d.line([(S * .18, S * .14), (S * .96, S * .14), (S * .96, S * .86), (S * .18, S * .86), (S * .02, S * .5), (S * .18, S * .14)],
+           fill=OUT, width=8)
+    d.ellipse([S * .12, S * .44, S * .22, S * .56], fill=(0, 0, 0, 0), outline=OUT, width=5)                       # hole
+    im = _shrink(im, size)
+    _big_text(im, "50%", (37, 23), (255, 255, 255, 255), scale=2, font=SMALL)
+    _big_text(im, "OFF", (37, 41), (255, 240, 120, 255), scale=2, font=SMALL)
+    return im
+
+
+def crop_duster(size=64):
+    """A yellow crop-duster biplane facing right: two wings, struts, a red propeller blur, a spray bar under the
+    lower wing, the pilot's leather cap in the open cockpit."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 5, 255)
+    Y, YD = (250, 210, 40, 255), (200, 150, 20, 255)
+    d.polygon([(S * .06, S * .34), (S * .16, S * .4), (S * .16, S * .5), (S * .06, S * .58)], fill=YD, outline=OUT)  # tail fin
+    d.line([(S * .06, S * .34), (S * .16, S * .4), (S * .16, S * .5), (S * .06, S * .58), (S * .06, S * .34)], fill=OUT, width=6)
+    d.rounded_rectangle([S * .1, S * .42, S * .84, S * .6], 18, fill=Y, outline=OUT, width=7)                       # fuselage
+    d.rounded_rectangle([S * .26, S * .24, S * .76, S * .32], 8, fill=Y, outline=OUT, width=6)                      # top wing
+    d.rounded_rectangle([S * .26, S * .6, S * .78, S * .68], 8, fill=YD, outline=OUT, width=6)                      # low wing
+    for x in (.34, .66):
+        d.line([(S * x, S * .32), (S * x, S * .6)], fill=OUT, width=5)                                               # struts
+    d.ellipse([S * .44, S * .3, S * .58, S * .44], fill=(110, 60, 30, 255), outline=OUT, width=5)                   # pilot cap
+    d.rectangle([S * .84, S * .44, S * .9, S * .58], fill=(80, 80, 90, 255), outline=OUT, width=4)                  # nose
+    d.ellipse([S * .88, S * .26, S * .98, S * .76], fill=(230, 60, 40, 140), outline=(140, 20, 10, 255), width=4)   # prop blur
+    d.line([(S * .3, S * .74), (S * .74, S * .74)], fill=(120, 120, 130, 255), width=6)                             # spray bar
+    for x in (.36, .5, .64):
+        d.line([(S * x, S * .68), (S * x, S * .76)], fill=(120, 120, 130, 255), width=4)
+    for x in (.24, .42, .6, .76):
+        d.ellipse([S * x, S * .82, S * (x + .08), S * .9], fill=(140, 220, 60, 200))                                 # the dust
+    return _shrink(im, size)
+
+
+def house_fly(size=32):
+    """A fat cartoon housefly: black body, big red eyes, two see-through wings up."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 10, 255)
+    for x0 in (.18, .5):
+        d.ellipse([S * x0, S * .06, S * (x0 + .34), S * .46], fill=(220, 235, 255, 170), outline=(90, 110, 140, 255), width=6)
+    d.ellipse([S * .22, S * .38, S * .82, S * .9], fill=(40, 40, 46, 255), outline=OUT, width=7)
+    d.ellipse([S * .14, S * .4, S * .36, S * .62], fill=(200, 30, 30, 255), outline=OUT, width=5)
+    d.ellipse([S * .3, S * .46, S * .5, S * .64], fill=(200, 30, 30, 255), outline=OUT, width=5)
+    d.line([(S * .5, S * .6), (S * .7, S * .62)], fill=(110, 110, 120, 255), width=4)
+    return _shrink(im, size)
+
+
+def stare_eyes(size=64):
+    """Two narrowed eyes glowing in the dark: slanted black brows, red irises, a white glint - the look."""
+    im, d, S = _big(size)
+    OUT = (10, 0, 0, 255)
+    for x0, sgn in ((.06, 1), (.54, -1)):
+        x1 = x0 + .4
+        d.chord([S * x0, S * .34, S * x1, S * .74], 180, 360, fill=(255, 250, 220, 255), outline=OUT, width=7)
+        d.chord([S * x0, S * .5, S * x1, S * .62], 0, 180, fill=(255, 250, 220, 255), outline=OUT, width=7)
+        cx = S * (x0 + .2 + sgn * .03)
+        d.ellipse([cx - S * .08, S * .44, cx + S * .08, S * .6], fill=(220, 20, 20, 255), outline=OUT, width=5)
+        d.ellipse([cx - S * .03, S * .49, cx + S * .03, S * .55], fill=OUT)
+        d.ellipse([cx + S * .02, S * .46, cx + S * .05, S * .49], fill=(255, 255, 255, 255))
+        a, b = (S * x0, S * .26), (S * x1, S * .42)
+        if sgn < 0:
+            a, b = (S * x0, S * .42), (S * x1, S * .26)
+        d.line([a, b], fill=OUT, width=16)                                                                            # brows
+    return _shrink(im, size)
+
+
+def barber_pole(size=64, phase=0):
+    """A barber pole: chrome caps, a glass tube with red, white and blue stripes (phase 0/1 shifts the stripes:
+    flip between them and it spins)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 30, 255)
+    d.rectangle([S * .36, S * .14, S * .64, S * .86], fill=(255, 255, 255, 255))
+    step = .18
+    for k in range(-2, 8):
+        y = .14 + k * step + phase * step / 2
+        for c, off in (((220, 30, 30, 255), 0), ((40, 70, 210, 255), step / 2)):
+            yy = y + off
+            d.polygon([(S * .36, S * yy), (S * .64, S * (yy - .1)), (S * .64, S * (yy - .1 + step / 4)),
+                       (S * .36, S * (yy + step / 4))], fill=c)
+    d.rectangle([S * 0, S * 0, S * 1, S * .14], fill=(0, 0, 0, 0))
+    d.rectangle([S * 0, S * .86, S * 1, S * 1], fill=(0, 0, 0, 0))
+    d.rectangle([S * .36, S * .14, S * .64, S * .86], outline=OUT, width=6)
+    d.line([(S * .41, S * .18), (S * .41, S * .82)], fill=(255, 255, 255, 200), width=5)                          # glass shine
+    for y0, y1 in ((.02, .14), (.86, .98)):
+        d.rounded_rectangle([S * .3, S * y0, S * .7, S * y1], 8, fill=(200, 205, 215, 255), outline=OUT, width=6)
+        d.line([(S * .36, S * (y0 + .04)), (S * .6, S * (y0 + .04))], fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def hair_clippers(size=64):
+    """Barber clippers, blade down: a black body with a silver blade and a little cord."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.line([(S * .5, S * .82), (S * .62, S * .96), (S * .9, S * .98)], fill=(40, 40, 46, 255), width=8)            # cord
+    d.rounded_rectangle([S * .32, S * .22, S * .68, S * .86], 26, fill=(40, 40, 46, 255), outline=OUT, width=7)
+    d.rounded_rectangle([S * .38, S * .3, S * .46, S * .7], 6, fill=(110, 110, 120, 255))                         # shine
+    d.rectangle([S * .44, S * .5, S * .56, S * .58], fill=(220, 180, 60, 255), outline=OUT, width=4)              # switch
+    d.rectangle([S * .28, S * .08, S * .72, S * .24], fill=(210, 215, 225, 255), outline=OUT, width=6)            # blade
+    for k in range(7):
+        x = .3 + k * .065
+        d.line([(S * x, S * .02), (S * x, S * .1)], fill=(170, 175, 185, 255), width=5)                            # teeth
+    return _shrink(im, size)
+
+
+def hair_snip(n=16):
+    """A little clump of cut hair (alpha only): three short curved strands."""
+    def f(x, y):
+        for cx, cy, r in ((5, 9, 4), (8, 7, 5), (11, 9, 4)):
+            dd = ((x - cx) ** 2 + (y - cy) ** 2) ** .5
+            if abs(dd - r) < .8 and y < cy + 1:
+                return 1
+        return 0
+    return _alpha(n, n, f)
+
+
+# ---- set 23, batch 2: Mall Ninja, M-80, Zip Tie, Onion Breath, Rage Quit ---------------------------------------
+
+def ninja_headband(size=64):
+    """A white karate headband (hachimaki) curved round an invisible head: a red rising sun on the front, the
+    knot at the side and its two tails flying out."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 20, 255)
+    d.arc([S * .04, S * .1, S * .76, S * .8], 20, 160, fill=OUT, width=int(S * .2))
+    d.arc([S * .06, S * .12, S * .74, S * .78], 22, 158, fill=(250, 250, 250, 255), width=int(S * .14))
+    d.ellipse([S * .3, S * .62, S * .5, S * .82], fill=(220, 30, 30, 255), outline=OUT, width=5)                   # the sun
+    d.ellipse([S * .66, S * .5, S * .82, S * .66], fill=(250, 250, 250, 255), outline=OUT, width=6)               # knot
+    for a, b, c in (((.8, .54), (.98, .3), (.92, .5)), ((.8, .62), (.98, .82), (.88, .66))):
+        d.polygon([(S * a[0], S * a[1]), (S * b[0], S * b[1]), (S * c[0], S * c[1])], fill=(250, 250, 250, 255))
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1]), (S * c[0], S * c[1]), (S * a[0], S * a[1])], fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def board_chairs(size=64, broken=False):
+    """A pine board laid across two grey folding chairs (the strip-mall dojo setup) - or the board snapped in
+    the middle, both halves sagging."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 10, 255)
+    for x0 in (.06, .66):
+        d.rectangle([S * x0, S * .5, S * (x0 + .28), S * .58], fill=(150, 155, 165, 255), outline=OUT, width=5)  # seat
+        d.line([(S * (x0 + .02), S * .58), (S * (x0 + .26), S * .96)], fill=(110, 115, 125, 255), width=7)
+        d.line([(S * (x0 + .26), S * .58), (S * (x0 + .02), S * .96)], fill=(110, 115, 125, 255), width=7)
+        d.rectangle([S * (x0 + .2), S * .2, S * (x0 + .26), S * .52], fill=(150, 155, 165, 255), outline=OUT, width=4)  # back
+    WOOD, WOOD_D = (230, 190, 120, 255), (170, 120, 60, 255)
+    if not broken:
+        d.rectangle([S * .04, S * .38, S * .96, S * .5], fill=WOOD, outline=OUT, width=6)
+        for x in (.2, .45, .7):
+            d.arc([S * x, S * .4, S * (x + .12), S * .48], 200, 340, fill=WOOD_D, width=3)                         # grain
+    else:
+        d.polygon([(S * .04, S * .38), (S * .46, S * .46), (S * .5, S * .56), (S * .04, S * .5)], fill=WOOD, outline=OUT)
+        d.polygon([(S * .96, S * .38), (S * .54, S * .46), (S * .5, S * .56), (S * .96, S * .5)], fill=WOOD, outline=OUT)
+        d.line([(S * .04, S * .38), (S * .46, S * .46), (S * .5, S * .56), (S * .04, S * .5), (S * .04, S * .38)], fill=OUT, width=6)
+        d.line([(S * .96, S * .38), (S * .54, S * .46), (S * .5, S * .56), (S * .96, S * .5), (S * .96, S * .38)], fill=OUT, width=6)
+        for x, y in ((.44, .5), (.56, .5), (.5, .58)):
+            d.line([(S * x, S * y), (S * (x + .03), S * (y + .06))], fill=WOOD_D, width=4)                         # splinters
+    return _shrink(im, size)
+
+
+def chop_streak(size=64):
+    """A white karate-chop motion arc with speed lines (the hand itself isn't drawn)."""
+    im, d, S = _big(size)
+    d.arc([S * .08, S * .08, S * .92, S * .92], 200, 300, fill=(255, 255, 255, 255), width=int(S * .1))
+    d.arc([S * .16, S * .16, S * .84, S * .84], 205, 295, fill=(180, 220, 255, 255), width=int(S * .04))
+    for k in range(3):
+        a = .18 + k * .12
+        d.line([(S * a, S * (.6 - k * .1)), (S * (a + .14), S * (.74 - k * .1))], fill=(255, 255, 255, 220), width=5)
+    return _shrink(im, size)
+
+
+def m80(size=64):
+    """An M-80: a fat red cardboard tube with a black band and a twisted green fuse out the side."""
+    im, d, S = _big(size)
+    OUT = (40, 5, 5, 255)
+    d.rounded_rectangle([S * .3, S * .4, S * .78, S * .86], 12, fill=(200, 30, 30, 255), outline=OUT, width=8)
+    d.rectangle([S * .3, S * .56, S * .78, S * .66], fill=(30, 30, 34, 255))
+    d.rounded_rectangle([S * .3, S * .4, S * .78, S * .86], 12, outline=OUT, width=8)
+    d.line([(S * .38, S * .46), (S * .38, S * .8)], fill=(255, 120, 110, 255), width=6)                         # shine
+    d.ellipse([S * .3, S * .34, S * .78, S * .48], fill=(220, 200, 160, 255), outline=OUT, width=6)               # end cap
+    d.line([(S * .54, S * .4), (S * .48, S * .22), (S * .56, S * .1)], fill=(40, 150, 60, 255), width=8)          # fuse
+    return _shrink(im, size)
+
+
+def m80_blast(size=64):
+    """A cartoon explosion: a yellow-white core, an orange flame burst, a ring of dark smoke puffs."""
+    import math
+    im, d, S = _big(size)
+    OUT = (40, 20, 10, 255)
+    for k in range(9):
+        a = k * 2 * math.pi / 9
+        cx, cy = S * (.5 + .34 * math.cos(a)), S * (.5 + .3 * math.sin(a))
+        d.ellipse([cx - S * .14, cy - S * .14, cx + S * .14, cy + S * .14], fill=(90, 85, 85, 255), outline=OUT, width=6)
+    pts = []
+    for k in range(24):
+        a = k * 2 * math.pi / 24
+        r = .4 if k % 2 == 0 else .26
+        pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * math.sin(a))))
+    d.polygon(pts, fill=(255, 130, 20, 255), outline=OUT)
+    d.line(pts + [pts[0]], fill=OUT, width=6)
+    d.ellipse([S * .32, S * .32, S * .68, S * .68], fill=(255, 230, 80, 255))
+    d.ellipse([S * .4, S * .4, S * .6, S * .6], fill=(255, 255, 230, 255))
+    return _shrink(im, size)
+
+
+def zip_tie(size=64, color=(30, 30, 34, 255), hi=(110, 110, 120, 255)):
+    """A zip tie cinched into a wide loop (seen at an angle): ridged strap, the square lock head and a long tail
+    sticking out."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255) if color[0] > 100 else (200, 200, 205, 255)
+    d.ellipse([S * .04, S * .3, S * .96, S * .66], outline=OUT, width=int(S * .1))
+    d.ellipse([S * .05, S * .31, S * .95, S * .65], outline=color, width=int(S * .07))
+    import math
+    for k in range(18):
+        a = k * 2 * math.pi / 18
+        x, y = S * (.5 + .44 * math.cos(a)), S * (.48 + .16 * math.sin(a))
+        d.line([(x, y - S * .02), (x, y + S * .02)], fill=hi, width=3)                                         # ridges
+    d.rectangle([S * .42, S * .56, S * .6, S * .74], fill=color, outline=OUT, width=6)                           # lock head
+    d.polygon([(S * .5, S * .72), (S * .6, S * .72), (S * .86, S * .96), (S * .76, S * .98)], fill=color)
+    d.line([(S * .5, S * .72), (S * .76, S * .98), (S * .86, S * .96), (S * .6, S * .72)], fill=OUT, width=5)    # tail
+    return _shrink(im, size)
+
+
+def red_onion(size=64, bites=0):
+    """A raw red onion, purple-red skin with layer lines, a dry sprout and roots - with 1 or 2 bites out of it
+    showing the white rings inside."""
+    im, d, S = _big(size)
+    OUT = (50, 10, 40, 255)
+    d.ellipse([S * .14, S * .24, S * .86, S * .92], fill=(170, 40, 110, 255), outline=OUT, width=8)
+    for x0, x1 in ((.26, .74), (.38, .62)):
+        d.arc([S * x0, S * .26, S * x1, S * .9], 100, 260, fill=(110, 20, 70, 255), width=5)
+        d.arc([S * x0, S * .26, S * x1, S * .9], 280, 80, fill=(110, 20, 70, 255), width=5)
+    d.arc([S * .2, S * .32, S * .5, S * .62], 200, 260, fill=(240, 150, 200, 255), width=6)                      # shine
+    d.polygon([(S * .44, S * .28), (S * .5, S * .04), (S * .56, S * .28)], fill=(200, 170, 110, 255), outline=OUT)
+    d.line([(S * .44, S * .28), (S * .5, S * .04), (S * .56, S * .28)], fill=OUT, width=5)                      # sprout
+    for x in (.44, .5, .56):
+        d.line([(S * .5, S * .9), (S * x, S * .98)], fill=(220, 200, 160, 255), width=4)                         # roots
+    for n in range(bites):
+        cx, cy = (S * .8, S * .48) if n == 0 else (S * .74, S * .74)
+        d.ellipse([cx - S * .16, cy - S * .14, cx + S * .16, cy + S * .14], fill=(250, 240, 250, 255), outline=OUT, width=5)
+        d.arc([cx - S * .1, cy - S * .08, cx + S * .1, cy + S * .08], 120, 240, fill=(220, 160, 210, 255), width=4)
+        d.ellipse([cx, cy - S * .2, cx + S * .3, cy + S * .2], fill=(0, 0, 0, 0))
+    return _shrink(im, size)
+
+
+def stink_wave(n=16):
+    """A wavy stink line (alpha only), for breath."""
+    import math
+
+    def f(x, y):
+        yy = 8 + 3 * math.sin(x / 2.2)
+        return 1 if abs(y - yy) < 1.3 and 1 < x < 15 else 0
+    return _alpha(n, n, f)
+
+
+def gaming_monitor(size=64, cracked=False):
+    """A gaming monitor on its stand, the screen reading GAME OVER in red - or the same with the screen
+    smashed (a spiderweb crack) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    d.rounded_rectangle([S * .04, S * .1, S * .96, S * .72], 8, fill=(30, 30, 36, 255), outline=OUT, width=7)
+    d.rectangle([S * .1, S * .16, S * .9, S * .66], fill=(10, 10, 30, 255))
+    d.line([(S * .1, S * .68), (S * .9, S * .68)], fill=(80, 200, 255, 255), width=4)                           # RGB strip
+    d.rectangle([S * .44, S * .72, S * .56, S * .86], fill=(50, 50, 56, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .26, S * .84, S * .74, S * .94], 6, fill=(50, 50, 56, 255), outline=OUT, width=5)
+    if cracked:
+        import math
+        c = (S * .62, S * .36)
+        for k in range(7):
+            a = k * 2 * math.pi / 7 + .3
+            d.line([c, (c[0] + S * .3 * math.cos(a), c[1] + S * .24 * math.sin(a))], fill=(230, 240, 255, 255), width=4)
+        d.ellipse([c[0] - S * .1, c[1] - S * .08, c[0] + S * .1, c[1] + S * .08], outline=(230, 240, 255, 255), width=3)
+    im = _shrink(im, size)
+    # keep the screen dark round the words, crack lines included
+    return _texted(im, [("GAME", (30, 15)), ("OVER", (30, 25))], (255, 50, 50, 255), (10, 10, 30, 255))
+
+
+def gamepad(size=64):
+    """A black gamepad: two grips, a d-pad, four coloured face buttons, two sticks."""
+    im, d, S = _big(size)
+    OUT = (5, 5, 8, 255)
+    B = (40, 40, 46, 255)
+    d.ellipse([S * .04, S * .3, S * .38, S * .86], fill=B, outline=OUT, width=7)
+    d.ellipse([S * .62, S * .3, S * .96, S * .86], fill=B, outline=OUT, width=7)
+    d.rounded_rectangle([S * .16, S * .26, S * .84, S * .62], 20, fill=B, outline=OUT, width=7)
+    d.rectangle([S * .16, S * .32, S * .84, S * .58], fill=B)
+    d.rectangle([S * .14, S * .4, S * .3, S * .46], fill=(120, 120, 130, 255))                                   # d-pad
+    d.rectangle([S * .19, S * .35, S * .25, S * .51], fill=(120, 120, 130, 255))
+    for (x, y), c in (((.72, .34), (240, 200, 40)), ((.66, .42), (40, 120, 230)), ((.78, .42), (220, 40, 40)), ((.72, .5), (40, 190, 80))):
+        d.ellipse([S * (x - .04), S * (y - .04), S * (x + .04), S * (y + .04)], fill=c + (255,), outline=OUT, width=3)
+    for x in (.38, .58):
+        d.ellipse([S * (x - .06), S * .5, S * (x + .06), S * .62], fill=(90, 90, 100, 255), outline=OUT, width=4)
+    d.line([(S * .2, S * .32), (S * .4, S * .3)], fill=(110, 110, 120, 255), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 23, batch 3: Sawing Logs, Snuck Him, Fence Hop, Trap House, Muah ---------------------------------------
+
+def log_side(size=64):
+    """A chunky firewood log lying on its side: rough brown bark, a knot, and the pale end with growth rings."""
+    im, d, S = _big(size)
+    OUT = (40, 22, 8, 255)
+    d.rectangle([S * .14, S * .34, S * .8, S * .7], fill=(120, 75, 35, 255))
+    d.line([(S * .14, S * .34), (S * .8, S * .34)], fill=OUT, width=7)
+    d.line([(S * .14, S * .7), (S * .8, S * .7)], fill=OUT, width=7)
+    d.ellipse([S * .04, S * .34, S * .24, S * .7], fill=(120, 75, 35, 255), outline=OUT, width=7)
+    for y in (.42, .52, .62):
+        d.line([(S * .22, S * y), (S * .7, S * (y + .02))], fill=(85, 50, 20, 255), width=4)                       # bark
+    d.ellipse([S * .44, S * .44, S * .54, S * .54], fill=(85, 50, 20, 255), outline=OUT, width=3)                 # knot
+    d.ellipse([S * .7, S * .32, S * .92, S * .72], fill=(230, 200, 140, 255), outline=OUT, width=7)               # end
+    for r in (.06, .11):
+        d.ellipse([S * (.81 - r * .55), S * (.52 - r), S * (.81 + r * .55), S * (.52 + r)], outline=(170, 120, 60, 255), width=3)
+    return _shrink(im, size)
+
+
+def log_half(size=64):
+    """Half a split log, flying: bark on top, the pale split face underneath."""
+    im, d, S = _big(size)
+    OUT = (40, 22, 8, 255)
+    d.chord([S * .08, S * .2, S * .92, S * .8], 180, 360, fill=(120, 75, 35, 255), outline=OUT, width=7)
+    d.rectangle([S * .08, S * .48, S * .92, S * .58], fill=(235, 205, 145, 255), outline=OUT, width=6)
+    for x in (.3, .5, .7):
+        d.line([(S * x, S * .5), (S * (x + .06), S * .56)], fill=(190, 140, 80, 255), width=3)
+    return _shrink(im, size)
+
+
+def handsaw(size=64):
+    """A handsaw: a shiny trapezoid blade with teeth along the bottom and a wooden D-handle."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.polygon([(S * .3, S * .3), (S * .96, S * .42), (S * .96, S * .56), (S * .3, S * .62)], fill=(205, 210, 220, 255))
+    d.line([(S * .3, S * .3), (S * .96, S * .42), (S * .96, S * .56), (S * .3, S * .62)], fill=OUT, width=6)
+    for k in range(12):
+        x = .32 + k * .053
+        d.polygon([(S * x, S * (.62 - k * .005)), (S * (x + .026), S * (.68 - k * .005)), (S * (x + .053), S * (.615 - k * .005))], fill=OUT)
+    d.line([(S * .36, S * .36), (S * .9, S * .46)], fill=(255, 255, 255, 255), width=4)
+    d.rounded_rectangle([S * .04, S * .26, S * .34, S * .68], 12, fill=(170, 100, 40, 255), outline=OUT, width=7)  # handle
+    d.rounded_rectangle([S * .12, S * .38, S * .26, S * .56], 6, fill=(0, 0, 0, 0), outline=OUT, width=5)
+    return _shrink(im, size)
+
+
+def chainsaw(size=64):
+    """An orange chainsaw: the engine body with a pull cord and handle, a long bar with the chain round it."""
+    im, d, S = _big(size)
+    OUT = (20, 12, 5, 255)
+    d.rounded_rectangle([S * .44, S * .44, S * .98, S * .6], 14, fill=(170, 175, 185, 255), outline=OUT, width=6)  # bar
+    for k in range(10):
+        x = .48 + k * .05
+        d.rectangle([S * x, S * .42, S * (x + .025), S * .46], fill=OUT)
+        d.rectangle([S * x, S * .58, S * (x + .025), S * .62], fill=OUT)
+    d.rounded_rectangle([S * .06, S * .32, S * .5, S * .74], 12, fill=(250, 120, 20, 255), outline=OUT, width=7)  # engine
+    d.rectangle([S * .12, S * .4, S * .3, S * .52], fill=(40, 40, 46, 255))
+    d.arc([S * .14, S * .12, S * .5, S * .48], 180, 360, fill=OUT, width=10)                                      # handle
+    d.arc([S * .14, S * .12, S * .5, S * .48], 180, 360, fill=(40, 40, 46, 255), width=6)
+    d.line([(S * .1, S * .5), (S * .02, S * .6)], fill=(230, 230, 230, 255), width=4)                             # pull cord
+    return _shrink(im, size)
+
+
+def big_z_snore(size=32):
+    """A fat white Z with a dark blue outline, for loud snoring."""
+    im, d, S = _big(size)
+    z = [(S * .14, S * .12), (S * .86, S * .12), (S * .86, S * .3), (S * .44, S * .7), (S * .86, S * .7), (S * .86, S * .88),
+         (S * .14, S * .88), (S * .14, S * .7), (S * .56, S * .3), (S * .14, S * .3)]
+    _outline_poly(d, z, (255, 255, 255, 255), (30, 40, 120, 255), 9)
+    return _shrink(im, size)
+
+
+def impact_star(size=64):
+    """A jagged yellow-white impact star with a red rim - the sucker punch landing."""
+    import math
+    im, d, S = _big(size)
+    pts = []
+    for k in range(16):
+        a = k * 2 * math.pi / 16 + .2
+        r = .46 if k % 2 == 0 else .2
+        pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * math.sin(a))))
+    _outline_poly(d, pts, (255, 235, 60, 255), (200, 30, 20, 255), 10)
+    d.ellipse([S * .38, S * .38, S * .62, S * .62], fill=(255, 255, 230, 255))
+    return _shrink(im, size)
+
+
+def chain_fence(size=64):
+    """A chain-link fence panel between two steel posts, with a red BEWARE OF DOG plaque (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    WIRE = (175, 180, 190, 255)
+    for k in range(-6, 12):
+        x = .08 + k * .1
+        d.line([(S * x, S * .1), (S * (x + .8), S * .9)], fill=WIRE, width=3)
+        d.line([(S * (x + .8), S * .1), (S * x, S * .9)], fill=WIRE, width=3)
+    d.rectangle([0, 0, S * .06, S], fill=(0, 0, 0, 0))
+    d.rectangle([S * .94, 0, S, S], fill=(0, 0, 0, 0))
+    d.rectangle([0, 0, S, S * .08], fill=(0, 0, 0, 0))
+    d.rectangle([0, S * .92, S, S], fill=(0, 0, 0, 0))
+    d.line([(S * .08, S * .12), (S * .92, S * .12)], fill=(140, 145, 155, 255), width=8)                          # top rail
+    for x in (.06, .9):
+        d.rectangle([S * x, S * .04, S * (x + .06), S * .96], fill=(140, 145, 155, 255), outline=OUT, width=5)
+    d.rectangle([S * .2, S * .52, S * .8, S * .8], fill=(210, 30, 30, 255), outline=OUT, width=6)                   # plaque
+    im = _shrink(im, size)
+    return _texted(im, [("BEWARE", (32, 35)), ("OF DOG", (32, 43))], (255, 255, 255, 255), (120, 0, 0, 255))
+
+
+def guard_dog(size=64):
+    """A pit bull's head and front paws popping up, barking: spiked collar, mouth wide, ears back, angry brows."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 15, 255)
+    FUR, FUR_D = (150, 140, 140, 255), (100, 92, 92, 255)
+    d.ellipse([S * .16, S * .14, S * .84, S * .76], fill=FUR, outline=OUT, width=8)
+    for pts in (((.18, .3), (.06, .12), (.32, .2)), ((.82, .3), (.94, .12), (.68, .2))):
+        _outline_poly(d, [(S * x, S * y) for x, y in pts], FUR_D, OUT, 6)                                            # ears
+    d.ellipse([S * .3, S * .42, S * .7, S * .74], fill=(220, 210, 205, 255), outline=OUT, width=6)                 # muzzle
+    d.chord([S * .36, S * .52, S * .64, S * .76], 0, 180, fill=(160, 30, 40, 255), outline=OUT, width=6)          # open mouth
+    for x in (.4, .56):
+        d.polygon([(S * x, S * .6), (S * (x + .04), S * .67), (S * (x + .08), S * .6)], fill=(255, 255, 255, 255))   # fangs
+    d.ellipse([S * .44, S * .44, S * .56, S * .52], fill=OUT)                                                       # nose
+    for x0, a, b in ((.28, (.26, .3), (.44, .38)), (.58, (.56, .38), (.74, .3))):
+        d.ellipse([S * x0, S * .34, S * (x0 + .12), S * .44], fill=(255, 255, 255, 255), outline=OUT, width=4)
+        d.ellipse([S * (x0 + .04), S * .37, S * (x0 + .08), S * .42], fill=OUT)
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=OUT, width=7)                                       # brows
+    d.rounded_rectangle([S * .2, S * .74, S * .8, S * .84], 6, fill=(30, 30, 34, 255), outline=OUT, width=4)       # collar
+    for x in (.28, .4, .52, .64):
+        d.polygon([(S * x, S * .74), (S * (x + .04), S * .66), (S * (x + .08), S * .74)], fill=(220, 225, 235, 255))
+    for x in (.14, .66):
+        d.ellipse([S * x, S * .82, S * (x + .2), S * .98], fill=FUR, outline=OUT, width=6)                          # paws
+    return _shrink(im, size)
+
+
+def glue_trap(size=64):
+    """A flat cardboard glue trap seen from the front-top: a shiny yellow glue bed, a drip at the edge."""
+    im, d, S = _big(size)
+    OUT = (60, 40, 10, 255)
+    d.polygon([(S * .1, S * .52), (S * .9, S * .52), (S * .98, S * .82), (S * .02, S * .82)], fill=(190, 150, 90, 255), outline=OUT)
+    d.line([(S * .1, S * .52), (S * .9, S * .52), (S * .98, S * .82), (S * .02, S * .82), (S * .1, S * .52)], fill=OUT, width=7)
+    d.polygon([(S * .16, S * .57), (S * .84, S * .57), (S * .9, S * .78), (S * .1, S * .78)], fill=(250, 220, 60, 255))
+    d.line([(S * .22, S * .62), (S * .5, S * .62)], fill=(255, 255, 200, 255), width=5)                            # shine
+    d.line([(S * .3, S * .7), (S * .42, S * .7)], fill=(255, 255, 200, 255), width=4)
+    d.ellipse([S * .62, S * .78, S * .7, S * .9], fill=(250, 220, 60, 255), outline=OUT, width=3)                 # drip
+    return _shrink(im, size)
+
+
+def cheese_wedge(size=32):
+    """A wedge of yellow cheese with holes."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 0, 255)
+    _outline_poly(d, [(S * .06, S * .78), (S * .94, S * .78), (S * .94, S * .44), (S * .06, S * .62)], (255, 210, 40, 255), OUT, 8)
+    _outline_poly(d, [(S * .06, S * .62), (S * .94, S * .44), (S * .8, S * .26)], (255, 235, 120, 255), OUT, 8)
+    for x, y, r in ((.3, .66, .06), (.6, .62, .08), (.8, .7, .05)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(220, 160, 20, 255))
+    return _shrink(im, size)
+
+
+def glue_strand(n=16):
+    """A stretched sticky strand (alpha only): a thin wobbly vertical string with a blob."""
+    import math
+
+    def f(x, y):
+        xx = 8 + 1.5 * math.sin(y / 2.5)
+        return 1 if abs(x - xx) < .9 or ((x - xx) ** 2 + (y - 12) ** 2 < 4) else 0
+    return _alpha(n, n, f)
+
+
+def lipstick_kiss(size=64):
+    """A bright red lipstick kiss print: two plump lips with the crease lines."""
+    im, d, S = _big(size)
+    OUT = (110, 0, 20, 255)
+    R, RL = (230, 20, 60, 255), (255, 120, 150, 255)
+    d.pieslice([S * .08, S * .26, S * .52, S * .66], 180, 360, fill=R)
+    d.pieslice([S * .48, S * .26, S * .92, S * .66], 180, 360, fill=R)
+    d.chord([S * .08, S * .3, S * .92, S * .8], 0, 180, fill=R)
+    d.polygon([(S * .08, S * .46), (S * .92, S * .46), (S * .92, S * .56), (S * .08, S * .56)], fill=R)
+    d.line([(S * .1, S * .52), (S * .3, S * .48), (S * .5, S * .54), (S * .7, S * .48), (S * .9, S * .52)], fill=OUT, width=7)
+    for x in (.24, .4, .6, .76):
+        d.line([(S * x, S * .62), (S * x, S * .72)], fill=(180, 0, 40, 255), width=4)
+    d.ellipse([S * .2, S * .32, S * .34, S * .4], fill=RL)
+    return _shrink(im, size)
+
+
+def phone_who(size=64):
+    """A phone in a pink case, the screen showing a text from bae: WHO IS / SHE?? with angry red emoji
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 30, 255)
+    d.rounded_rectangle([S * .14, S * .02, S * .86, S * .98], 18, fill=(250, 120, 180, 255), outline=OUT, width=8)
+    d.rounded_rectangle([S * .2, S * .1, S * .8, S * .9], 8, fill=(250, 250, 255, 255))
+    d.rounded_rectangle([S * .24, S * .3, S * .76, S * .62], 14, fill=(230, 40, 60, 255))                          # text bubble
+    for x in (.34, .58):
+        d.ellipse([S * x, S * .7, S * (x + .12), S * .82], fill=(240, 60, 40, 255), outline=OUT, width=4)          # angry faces
+        d.line([(S * (x + .02), S * .72), (S * (x + .1), S * .75)], fill=OUT, width=3)
+    d.rectangle([S * .4, S * .12, S * .6, S * .16], fill=OUT)                                                       # notch
+    im = _shrink(im, size)
+    return _texted(im, [("WHO IS", (32, 21)), ("SHE??", (32, 30))], (255, 255, 255, 255), (230, 40, 60, 255))
+
+
+# ---- set 23, batch 4: Cold Cocked, Last Call, Tanning Bed, Victory Lap, Gift Bomb -------------------------------
+
+def chest_freezer(size=64):
+    """A white chest freezer with the lid flung open, frost on the rim and cold mist inside."""
+    im, d, S = _big(size)
+    OUT = (40, 50, 70, 255)
+    d.polygon([(S * .1, S * .36), (S * .9, S * .36), (S * .96, S * .1), (S * .16, S * .1)], fill=(225, 232, 242, 255), outline=OUT)
+    d.line([(S * .1, S * .36), (S * .9, S * .36), (S * .96, S * .1), (S * .16, S * .1), (S * .1, S * .36)], fill=OUT, width=7)   # lid up
+    d.polygon([(S * .2, S * .32), (S * .82, S * .32), (S * .86, S * .14), (S * .24, S * .14)], fill=(190, 215, 240, 255))
+    d.rounded_rectangle([S * .06, S * .44, S * .94, S * .94], 8, fill=(245, 248, 252, 255), outline=OUT, width=8)  # body
+    d.rectangle([S * .06, S * .4, S * .94, S * .52], fill=(160, 210, 245, 255), outline=OUT, width=6)              # frosty opening
+    for x in (.14, .3, .52, .7, .84):
+        d.polygon([(S * x, S * .52), (S * (x + .03), S * .6), (S * (x + .06), S * .52)], fill=(200, 235, 255, 255))   # icicles
+    d.rectangle([S * .4, S * .62, S * .6, S * .68], fill=(150, 155, 165, 255), outline=OUT, width=4)              # handle
+    d.ellipse([S * .78, S * .82, S * .86, S * .9], fill=(80, 200, 90, 255))                                        # power light
+    return _shrink(im, size)
+
+
+def popsicle(size=32):
+    """A red, white and blue rocket popsicle on a stick."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 40, 255)
+    d.rectangle([S * .44, S * .7, S * .56, S * .98], fill=(225, 190, 130, 255), outline=OUT, width=5)
+    d.polygon([(S * .5, S * .02), (S * .74, S * .26), (S * .26, S * .26)], fill=(220, 40, 40, 255), outline=OUT)
+    d.rectangle([S * .26, S * .26, S * .74, S * .48], fill=(250, 250, 250, 255), outline=OUT, width=5)
+    d.rectangle([S * .22, S * .48, S * .78, S * .72], fill=(40, 90, 220, 255), outline=OUT, width=5)
+    d.line([(S * .5, S * .02), (S * .74, S * .26), (S * .26, S * .26), (S * .5, S * .02)], fill=OUT, width=5)
+    return _shrink(im, size)
+
+
+def peas_bag(size=32):
+    """A frozen bag of peas: a green bag, crimped top, a bowl of peas pictured on the front, frost."""
+    im, d, S = _big(size)
+    OUT = (10, 50, 20, 255)
+    d.rounded_rectangle([S * .14, S * .14, S * .86, S * .94], 10, fill=(40, 170, 70, 255), outline=OUT, width=6)
+    d.rectangle([S * .12, S * .06, S * .88, S * .18], fill=(30, 140, 60, 255), outline=OUT, width=5)
+    for k in range(6):
+        d.line([(S * (.16 + k * .13), S * .07), (S * (.16 + k * .13), S * .17)], fill=OUT, width=3)
+    d.ellipse([S * .26, S * .42, S * .74, S * .82], fill=(250, 250, 250, 255), outline=OUT, width=4)
+    for x, y in ((.4, .56), (.52, .52), (.6, .62), (.46, .66), (.36, .66)):
+        d.ellipse([S * (x - .06), S * (y - .06), S * (x + .06), S * (y + .06)], fill=(120, 220, 80, 255), outline=OUT, width=2)
+    d.line([(S * .2, S * .3), (S * .4, S * .24)], fill=(220, 245, 255, 255), width=5)                                # frost
+    return _shrink(im, size)
+
+
+def frozen_turkey(size=64):
+    """A whole frozen turkey: a pale icy body, two drumsticks with paper frills, frost and a little icicle."""
+    im, d, S = _big(size)
+    OUT = (60, 50, 60, 255)
+    SKIN = (240, 220, 190, 255)
+    d.ellipse([S * .1, S * .3, S * .78, S * .84], fill=SKIN, outline=OUT, width=8)
+    for a, b in (((.62, .4), (.9, .2)), ((.66, .62), (.94, .52))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=SKIN, width=int(S * .12))
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=OUT, width=4)
+        d.ellipse([S * (b[0] - .07), S * (b[1] - .07), S * (b[0] + .07), S * (b[1] + .07)], fill=(255, 255, 255, 255), outline=OUT, width=4)
+    d.ellipse([S * .1, S * .3, S * .78, S * .84], outline=OUT, width=8)
+    d.arc([S * .2, S * .36, S * .6, S * .66], 200, 300, fill=(255, 255, 255, 255), width=6)                      # shine
+    for x, y in ((.24, .5), (.42, .44), (.36, .66), (.56, .7)):
+        d.line([(S * (x - .04), S * y), (S * (x + .04), S * y)], fill=(170, 220, 255, 255), width=4)
+        d.line([(S * x, S * (y - .04)), (S * x, S * (y + .04))], fill=(170, 220, 255, 255), width=4)            # frost sparkles
+    d.polygon([(S * .4, S * .82), (S * .44, S * .96), (S * .48, S * .82)], fill=(190, 230, 255, 255))           # icicle
+    return _shrink(im, size)
+
+
+def frost_crystal(n=16):
+    """A six-armed frost sparkle (alpha only)."""
+    import math
+
+    def f(x, y):
+        dx, dy = x - 7.5, y - 7.5
+        r = math.hypot(dx, dy)
+        if r > 7:
+            return 0
+        a = math.atan2(dy, dx) % (math.pi / 3)
+        return 1 if min(a, math.pi / 3 - a) * r < .9 or r < 1.6 else 0
+    return _alpha(n, n, f)
+
+
+def bar_bell(size=64, swing=0):
+    """A brass bar bell hanging from a wall bracket with a rope pull; swing -1/0/1 tilts it mid-ring."""
+    im, d, S = _big(size)
+    OUT = (50, 30, 5, 255)
+    d.rectangle([S * .08, S * .06, S * .2, S * .3], fill=(90, 60, 30, 255), outline=OUT, width=5)                  # bracket
+    d.line([(S * .2, S * .14), (S * .56, S * .14)], fill=(60, 60, 66, 255), width=7)
+    bell = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    b = ImageDraw.Draw(bell)
+    b.line([(S * .56, S * .14), (S * .56, S * .26)], fill=(60, 60, 66, 255), width=6)
+    b.chord([S * .34, S * .22, S * .78, S * .74], 180, 360, fill=(240, 190, 50, 255), outline=OUT, width=7)
+    b.rectangle([S * .34, S * .48, S * .78, S * .66], fill=(240, 190, 50, 255))
+    b.polygon([(S * .34, S * .66), (S * .28, S * .74), (S * .84, S * .74), (S * .78, S * .66)], fill=(220, 160, 30, 255))
+    b.line([(S * .34, S * .48), (S * .34, S * .66), (S * .28, S * .74), (S * .84, S * .74), (S * .78, S * .66), (S * .78, S * .48)], fill=OUT, width=7)
+    b.line([(S * .42, S * .34), (S * .42, S * .6)], fill=(255, 240, 160, 255), width=6)                            # shine
+    b.ellipse([S * .5, S * .72, S * .62, S * .84], fill=(120, 90, 40, 255), outline=OUT, width=4)                # clapper
+    b.line([(S * .56, S * .84), (S * .5, S * .98)], fill=(200, 170, 110, 255), width=6)                           # rope
+    if swing:
+        bell = bell.rotate(-14 * swing, center=(S * .56, S * .14), resample=Image.BICUBIC)
+    im.alpha_composite(bell)
+    return _shrink(im, size)
+
+
+def mirror_ball(size=64, phase=0):
+    """A mirror disco ball on its chain: a grid of grey/white facets; phase 0/1 moves the bright facets so it
+    twinkles as it turns."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    d.line([(S * .5, 0), (S * .5, S * .16)], fill=(150, 150, 160, 255), width=6)
+    d.ellipse([S * .16, S * .14, S * .84, S * .82], fill=(170, 175, 190, 255), outline=OUT, width=7)
+    for i in range(7):
+        for j in range(7):
+            x, y = .2 + i * .09, .18 + j * .09
+            if ((x + .045 - .5) ** 2 + (y + .045 - .48) ** 2) > .1:
+                continue
+            c = (255, 255, 255, 255) if (i + j + phase) % 3 == 0 else ((120, 125, 140, 255) if (i * j + phase) % 2 else (200, 205, 220, 255))
+            d.rectangle([S * x, S * y, S * (x + .08), S * (y + .08)], fill=c)
+    d.ellipse([S * .16, S * .14, S * .84, S * .82], outline=OUT, width=7)
+    return _shrink(im, size)
+
+
+def tanning_bed(size=64, shut=False):
+    """A tanning bed (clamshell): silver shell with the purple-blue UV tubes glowing inside; open (the lid
+    raised) or shut (the glow leaking out the seam)."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 40, 255)
+    SHELL, SHELL_D = (200, 205, 220, 255), (140, 145, 165, 255)
+    d.rounded_rectangle([S * .04, S * .62, S * .96, S * .86], 14, fill=SHELL, outline=OUT, width=7)               # base
+    d.rectangle([S * .1, S * .86, S * .2, S * .96], fill=SHELL_D, outline=OUT, width=5)
+    d.rectangle([S * .8, S * .86, S * .9, S * .96], fill=SHELL_D, outline=OUT, width=5)
+    if shut:
+        d.rounded_rectangle([S * .04, S * .38, S * .96, S * .64], 30, fill=SHELL, outline=OUT, width=7)
+        d.rectangle([S * .08, S * .6, S * .92, S * .66], fill=(190, 120, 255, 255))                              # glow seam
+        d.line([(S * .14, S * .44), (S * .86, S * .44)], fill=(240, 240, 250, 255), width=5)
+    else:
+        d.polygon([(S * .04, S * .62), (S * .2, S * .06), (S * .96, S * .2), (S * .96, S * .62)], fill=SHELL_D, outline=OUT)
+        d.line([(S * .04, S * .62), (S * .2, S * .06), (S * .96, S * .2), (S * .96, S * .62)], fill=OUT, width=7)
+        d.polygon([(S * .14, S * .56), (S * .26, S * .14), (S * .88, S * .26), (S * .88, S * .56)], fill=(120, 60, 220, 255))
+        for k in range(4):
+            y = .26 + k * .08
+            d.line([(S * .24, S * (y - .02)), (S * .84, S * (y + .04))], fill=(220, 190, 255, 255), width=5)       # UV tubes
+        d.rectangle([S * .1, S * .62, S * .9, S * .68], fill=(160, 100, 240, 255))
+    return _shrink(im, size)
+
+
+def sun_ray(n=16):
+    """A long thin ray of light (alpha only): bright core, soft edges."""
+    def f(x, y):
+        dy = abs(y - 7.5)
+        return max(0, 1 - dy / 3) if 1 < x < 15 else 0
+    return _alpha(n, n, f)
+
+
+def victory_trophy(size=64):
+    """A big gold trophy cup: two handles, a star on the front, a black base with a gold plate."""
+    im, d, S = _big(size)
+    OUT = (60, 40, 0, 255)
+    G, GL, GD = (250, 200, 40, 255), (255, 240, 150, 255), (200, 140, 20, 255)
+    for x0 in (.06, .7):
+        d.ellipse([S * x0, S * .14, S * (x0 + .24), S * .44], outline=OUT, width=12)
+        d.ellipse([S * x0, S * .14, S * (x0 + .24), S * .44], outline=G, width=6)
+    d.chord([S * .2, S * -.1, S * .8, S * .62], 0, 180, fill=G, outline=OUT, width=8)
+    d.rectangle([S * .2, S * .06, S * .8, S * .26], fill=G)
+    d.line([(S * .2, S * .06), (S * .8, S * .06)], fill=OUT, width=8)
+    d.line([(S * .2, S * .06), (S * .2, S * .26)], fill=OUT, width=8)
+    d.line([(S * .8, S * .06), (S * .8, S * .26)], fill=OUT, width=8)
+    d.line([(S * .3, S * .14), (S * .32, S * .4)], fill=GL, width=6)                                              # shine
+    d.rectangle([S * .44, S * .6, S * .56, S * .74], fill=GD, outline=OUT, width=5)                               # stem
+    d.rectangle([S * .26, S * .74, S * .74, S * .96], fill=(40, 30, 30, 255), outline=OUT, width=6)               # base
+    d.rectangle([S * .36, S * .8, S * .64, S * .9], fill=G)
+    import math
+    pts = []
+    for k in range(10):
+        a = -math.pi / 2 + k * math.pi / 5
+        r = .1 if k % 2 == 0 else .045
+        pts.append((S * (.5 + r * math.cos(a)), S * (.3 + r * math.sin(a))))
+    d.polygon(pts, fill=GL, outline=OUT)
+    return _shrink(im, size)
+
+
+def rose_petal(n=16):
+    """A single curled rose petal (alpha only)."""
+    def f(x, y):
+        dx, dy = (x - 7.5) / 6, (y - 8) / 4.5
+        return 1 if dx * dx + dy * dy < 1 and not (dx > .3 and dy < -.2) else 0
+    return _alpha(n, n, f)
+
+
+def gift_box(size=64, wrap=(220, 30, 40, 255), ribbon=(255, 210, 40, 255)):
+    """A wrapped present: coloured paper, a ribbon cross and a big bow on top."""
+    im, d, S = _big(size)
+    OUT = (30, 15, 15, 255)
+    d.rectangle([S * .14, S * .4, S * .86, S * .94], fill=wrap, outline=OUT, width=7)
+    d.rectangle([S * .08, S * .3, S * .92, S * .44], fill=wrap, outline=OUT, width=7)                             # lid
+    d.rectangle([S * .44, S * .3, S * .56, S * .94], fill=ribbon, outline=OUT, width=4)
+    for pts in (((.5, .3), (.22, .08), (.24, .28)), ((.5, .3), (.78, .08), (.76, .28))):
+        _outline_poly(d, [(S * x, S * y) for x, y in pts], ribbon, OUT, 6)                                          # bow
+    d.ellipse([S * .44, S * .22, S * .56, S * .34], fill=ribbon, outline=OUT, width=4)
+    d.line([(S * .2, S * .5), (S * .2, S * .86)], fill=(255, 255, 255, 120), width=5)
+    return _shrink(im, size)
+
+
+def cartoon_bomb(size=64):
+    """A round black cartoon bomb with a shine and a short lit fuse."""
+    im, d, S = _big(size)
+    OUT = (5, 5, 10, 255)
+    d.ellipse([S * .14, S * .3, S * .8, S * .96], fill=(30, 30, 38, 255), outline=OUT, width=8)
+    d.rectangle([S * .4, S * .22, S * .58, S * .34], fill=(90, 90, 100, 255), outline=OUT, width=5)
+    d.line([(S * .49, S * .22), (S * .6, S * .1), (S * .74, S * .08)], fill=(200, 170, 110, 255), width=6)
+    d.ellipse([S * .26, S * .44, S * .4, S * .58], fill=(140, 140, 160, 255))
+    return _shrink(im, size)
+
+
+def confetti_boom(size=64):
+    """A party explosion: a white-hot centre, a red/yellow burst, and ribbon and confetti flying out."""
+    import math
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    pts = []
+    for k in range(20):
+        a = k * 2 * math.pi / 20
+        r = .44 if k % 2 == 0 else .28
+        pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * math.sin(a))))
+    _outline_poly(d, pts, (255, 90, 40, 255), OUT, 7)
+    d.ellipse([S * .28, S * .28, S * .72, S * .72], fill=(255, 220, 60, 255))
+    d.ellipse([S * .38, S * .38, S * .62, S * .62], fill=(255, 255, 230, 255))
+    for k, c in enumerate(((60, 200, 255), (255, 60, 200), (120, 230, 60), (255, 255, 255), (160, 90, 255), (255, 230, 40))):
+        a = k * 2 * math.pi / 6 + .5
+        x, y = .5 + .4 * math.cos(a), .5 + .4 * math.sin(a)
+        d.rectangle([S * (x - .04), S * (y - .025), S * (x + .04), S * (y + .025)], fill=c + (255,), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def confetti_bit(n=16):
+    """A small confetti rectangle (alpha only)."""
+    return _alpha(n, n, lambda x, y: 1 if 4 < x < 12 and 6 < y < 10 else 0)
+
+
+# ---- set 23, batch 5: Clothesline, Bullhorn, Hype Man, Ring Ya Bell, Heat Check -----------------------------------
+
+def clothesline_rig(size=64):
+    """A backyard clothesline: two wooden T-posts and a sagging rope between them with three clothespins."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 10, 255)
+    WOOD = (160, 110, 60, 255)
+    for x in (.04, .9):
+        d.rectangle([S * x, S * .3, S * (x + .06), S * .98], fill=WOOD, outline=OUT, width=5)
+        d.rectangle([S * (x - .03), S * .28, S * (x + .09), S * .34], fill=WOOD, outline=OUT, width=4)
+    d.arc([S * .07, S * -.04, S * .93, S * .62], 22, 158, fill=OUT, width=7)
+    d.arc([S * .07, S * -.04, S * .93, S * .62], 22, 158, fill=(240, 240, 235, 255), width=3)                      # rope
+    for x in (.3, .5, .7):
+        y = .56 - .06 * (1 - abs(x - .5) / .5) * -1
+        d.rectangle([S * (x - .015), S * (y - .02), S * (x + .015), S * (y + .07)], fill=(220, 190, 130, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def white_tee(size=32):
+    """A plain white tee hung by the shoulders."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 70, 255)
+    _outline_poly(d, [(S * .3, S * .1), (S * .7, S * .1), (S * .96, S * .3), (S * .82, S * .44), (S * .74, S * .36), (S * .74, S * .94),
+                      (S * .26, S * .94), (S * .26, S * .36), (S * .18, S * .44), (S * .04, S * .3)], (250, 250, 250, 255), OUT, 7)
+    d.arc([S * .38, S * .02, S * .62, S * .2], 0, 180, fill=OUT, width=5)
+    return _shrink(im, size)
+
+
+def line_boxers(size=32):
+    """Red boxer shorts with white hearts, hung on the line."""
+    im, d, S = _big(size)
+    OUT = (60, 0, 10, 255)
+    _outline_poly(d, [(S * .1, S * .16), (S * .9, S * .16), (S * .96, S * .86), (S * .56, S * .86), (S * .5, S * .5), (S * .44, S * .86),
+                      (S * .04, S * .86)], (220, 30, 50, 255), OUT, 7)
+    d.rectangle([S * .1, S * .14, S * .9, S * .26], fill=(250, 250, 250, 255), outline=OUT, width=5)
+    for x, y in ((.24, .46), (.74, .5), (.3, .7), (.8, .74)):
+        d.ellipse([S * (x - .05), S * (y - .05), S * (x + .05), S * (y + .05)], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def bullhorn(size=64):
+    """A police bullhorn (megaphone): a white flared horn with a red rim, a black pistol grip and trigger."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.polygon([(S * .14, S * .36), (S * .5, S * .3), (S * .94, S * .1), (S * .94, S * .78), (S * .5, S * .58), (S * .14, S * .52)],
+              fill=(245, 245, 245, 255))
+    d.line([(S * .14, S * .36), (S * .5, S * .3), (S * .94, S * .1), (S * .94, S * .78), (S * .5, S * .58), (S * .14, S * .52), (S * .14, S * .36)],
+           fill=OUT, width=7)
+    d.ellipse([S * .86, S * .1, S * .98, S * .78], fill=(220, 30, 30, 255), outline=OUT, width=6)                # rim
+    d.ellipse([S * .89, S * .2, S * .95, S * .68], fill=(60, 60, 66, 255))
+    d.rectangle([S * .04, S * .36, S * .16, S * .52], fill=(60, 60, 66, 255), outline=OUT, width=5)              # mouthpiece
+    d.rounded_rectangle([S * .3, S * .52, S * .44, S * .9], 6, fill=(40, 40, 46, 255), outline=OUT, width=5)     # grip
+    d.rectangle([S * .44, S * .58, S * .5, S * .7], fill=(220, 30, 30, 255), outline=OUT, width=3)               # trigger
+    d.line([(S * .5, S * .36), (S * .86, S * .2)], fill=(200, 200, 210, 255), width=4)
+    return _shrink(im, size)
+
+
+def feedback_squiggle(n=16):
+    """A zig-zag squeal line (alpha only), for mic feedback."""
+    def f(x, y):
+        t = (x % 4) / 4
+        yy = 8 + 6 * (t if t < .5 else 1 - t) - 1.5
+        return 1 if abs(y - yy) < 1.2 and 1 < x < 15 else 0
+    return _alpha(n, n, f)
+
+
+def hype_bubble(text, size=64, scale=1):
+    """A white shout bubble (spiky at the edges) with one word at 1x or 2x pixel scale (shown at 1:1)."""
+    import math
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    pts = []
+    for k in range(28):
+        a = k * 2 * math.pi / 28
+        r = .46 if k % 2 == 0 else .4
+        pts.append((S * (.5 + r * math.cos(a)), S * (.46 + r * .7 * math.sin(a))))
+    _outline_poly(d, pts, (255, 255, 255, 255), OUT, 8)
+    d.polygon([(S * .3, S * .7), (S * .14, S * .96), (S * .42, S * .72)], fill=(255, 255, 255, 255))
+    d.line([(S * .3, S * .74), (S * .14, S * .96), (S * .42, S * .74)], fill=OUT, width=7)
+    im = _shrink(im, size)
+    if scale == 1:
+        return _texted(im, [(text, (32, 26))], (20, 20, 25, 255), (255, 255, 255, 255))
+    _big_text(im, text, (32, 30), (230, 30, 30, 255), scale=scale, font=SMALL)
+    return im
+
+
+def doorbell_plate(size=64):
+    """A doorbell on a slice of brick wall: a brass plate with a glowing round button and a house number."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 10, 255)
+    d.rectangle([S * .1, S * .06, S * .9, S * .94], fill=(170, 70, 50, 255), outline=OUT, width=7)                # brick
+    for y in range(6):
+        yy = .06 + y * .147
+        d.line([(S * .1, S * yy), (S * .9, S * yy)], fill=(120, 50, 35, 255), width=4)
+        for x in ((.3, .62) if y % 2 else (.46, .78)):
+            d.line([(S * x, S * yy), (S * x, S * (yy + .147))], fill=(120, 50, 35, 255), width=4)
+    d.rounded_rectangle([S * .32, S * .22, S * .68, S * .78], 10, fill=(230, 190, 70, 255), outline=OUT, width=6)  # plate
+    d.ellipse([S * .4, S * .4, S * .6, S * .6], fill=(255, 250, 200, 255), outline=OUT, width=5)                   # button
+    d.ellipse([S * .45, S * .45, S * .55, S * .55], fill=(255, 220, 80, 255))
+    return _shrink(im, size)
+
+
+def dizzy_bird(size=32):
+    """A little yellow cartoon bird with its wings up (the ones that circle a knocked-out head)."""
+    im, d, S = _big(size)
+    OUT = (60, 40, 0, 255)
+    d.ellipse([S * .2, S * .3, S * .8, S * .86], fill=(255, 220, 40, 255), outline=OUT, width=6)
+    d.polygon([(S * .3, S * .44), (S * .1, S * .1), (S * .5, S * .36)], fill=(255, 240, 120, 255), outline=OUT)
+    d.polygon([(S * .7, S * .44), (S * .9, S * .1), (S * .5, S * .36)], fill=(255, 240, 120, 255), outline=OUT)
+    d.polygon([(S * .76, S * .56), (S * .98, S * .62), (S * .76, S * .68)], fill=(250, 140, 30, 255), outline=OUT)
+    d.ellipse([S * .58, S * .46, S * .68, S * .56], fill=OUT)
+    return _shrink(im, size)
+
+
+def thermostat(size=64, temp="72"):
+    """A wall thermostat: a beige box, a dark screen with the temperature in big digits (red at 99), up/down
+    buttons (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 35, 30, 255)
+    d.rounded_rectangle([S * .14, S * .1, S * .86, S * .9], 14, fill=(235, 225, 205, 255), outline=OUT, width=8)
+    d.rectangle([S * .24, S * .2, S * .76, S * .56], fill=(30, 50, 40, 255) if temp != "99" else (60, 10, 10, 255), outline=OUT, width=5)
+    for y, up in ((.66, True), (.66, False)):
+        x = .36 if up else .64
+        d.ellipse([S * (x - .09), S * (y - .07), S * (x + .09), S * (y + .11)], fill=(200, 190, 170, 255), outline=OUT, width=5)
+        tri = [(S * x, S * (y - .02)), (S * (x - .05), S * (y + .06)), (S * (x + .05), S * (y + .06))] if up else \
+              [(S * x, S * (y + .08)), (S * (x - .05), S * y), (S * (x + .05), S * y)]
+        d.polygon(tri, fill=OUT)
+    im = _shrink(im, size)
+    col = {"72": (120, 255, 160, 255), "85": (255, 200, 60, 255), "99": (255, 60, 40, 255)}[temp]
+    _big_text(im, temp, (30, 24), col, scale=2)
+    _texted(im, [("F", (44, 16))], col, (30, 50, 40, 255) if temp != "99" else (60, 10, 10, 255))
+    return im
+
+
+def heat_shimmer(n=16):
+    """A rising heat-haze ripple (alpha only): two short wavy vertical lines."""
+    import math
+
+    def f(x, y):
+        for cx in (5, 11):
+            if abs(x - (cx + 1.5 * math.sin(y / 2))) < 1 and 2 < y < 14:
+                return 1
+        return 0
+    return _alpha(n, n, f)
+
+
+def shout_arc(n=16):
+    """A sound-wave arc ")" (alpha only), for shouting."""
+    import math
+
+    def f(x, y):
+        r = math.hypot(x - 2, y - 7.5)
+        return 1 if abs(r - 10) < 1.4 and x > 6 else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 23, batch 6: Gas Up, Door Kick, Getaway, Bug Zapper, Split Bill ---------------------------------------
+
+def gas_pump(size=64, amount="$5.00"):
+    """A red gas pump: the price screen reading `amount`, the octane buttons, the hose looping out the right side
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (30, 10, 10, 255)
+    d.rectangle([S * .08, S * .9, S * .7, S * .98], fill=(120, 120, 130, 255), outline=OUT, width=5)            # island
+    d.rounded_rectangle([S * .12, S * .06, S * .66, S * .92], 10, fill=(210, 30, 30, 255), outline=OUT, width=8)
+    d.rectangle([S * .18, S * .14, S * .6, S * .38], fill=(20, 30, 20, 255), outline=OUT, width=5)              # screen
+    for k, c in enumerate(((240, 240, 240), (240, 200, 40), (60, 180, 80))):
+        d.rectangle([S * (.2 + k * .13), S * .46, S * (.3 + k * .13), S * .54], fill=c + (255,), outline=OUT, width=3)
+    d.rectangle([S * .22, S * .62, S * .56, S * .84], fill=(250, 250, 250, 255), outline=OUT, width=4)          # logo panel
+    d.line([(S * .3, S * .7), (S * .48, S * .7)], fill=(210, 30, 30, 255), width=6)
+    d.line([(S * .3, S * .77), (S * .44, S * .77)], fill=(210, 30, 30, 255), width=6)
+    d.arc([S * .56, S * .3, S * .98, S * .9], 270, 90, fill=OUT, width=10)
+    d.arc([S * .56, S * .3, S * .98, S * .9], 270, 90, fill=(40, 40, 46, 255), width=6)                         # hose
+    im = _shrink(im, size)
+    col = (255, 60, 40, 255) if amount.startswith("$99") else (120, 255, 140, 255)
+    return _texted(im, [(amount, (25, 13))], col, (20, 30, 20, 255))
+
+
+def gas_nozzle(size=64):
+    """A gas pump nozzle: black grip and trigger guard, the silver spout pointing left, a bit of hose."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.line([(S * .74, S * .5), (S * .98, S * .3)], fill=(40, 40, 46, 255), width=int(S * .1))                    # hose
+    d.polygon([(S * .4, S * .36), (S * .78, S * .36), (S * .82, S * .58), (S * .44, S * .58)], fill=(40, 40, 46, 255), outline=OUT)
+    d.line([(S * .4, S * .36), (S * .78, S * .36), (S * .82, S * .58), (S * .44, S * .58), (S * .4, S * .36)], fill=OUT, width=6)
+    d.arc([S * .44, S * .46, S * .76, S * .86], 0, 180, fill=OUT, width=8)                                        # guard
+    d.rectangle([S * .54, S * .56, S * .62, S * .72], fill=(220, 40, 40, 255), outline=OUT, width=3)             # trigger
+    d.polygon([(S * .42, S * .4), (S * .04, S * .5), (S * .04, S * .56), (S * .42, S * .52)], fill=(200, 205, 215, 255), outline=OUT)
+    d.line([(S * .42, S * .4), (S * .04, S * .5), (S * .04, S * .56), (S * .42, S * .52)], fill=OUT, width=5)      # spout
+    return _shrink(im, size)
+
+
+def front_door(size=64, flying=False):
+    """A blue front door in its white frame: raised panels, a brass knob and knocker, a peephole - or (flying)
+    the door alone, off its hinges, hinge plates showing."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 40, 255)
+    if not flying:
+        d.rectangle([S * .12, S * .02, S * .88, S * .98], fill=(245, 245, 240, 255), outline=OUT, width=7)       # frame
+    d.rectangle([S * .2, S * .08, S * .8, S * .98], fill=(40, 80, 170, 255), outline=OUT, width=7)
+    for y0, y1 in ((.16, .46), (.56, .9)):
+        d.rectangle([S * .28, S * y0, S * .48, S * y1], fill=(60, 100, 190, 255), outline=(20, 40, 110, 255), width=5)
+        d.rectangle([S * .52, S * y0, S * .72, S * y1], fill=(60, 100, 190, 255), outline=(20, 40, 110, 255), width=5)
+    d.ellipse([S * .64, S * .5, S * .74, S * .6], fill=(240, 190, 50, 255), outline=OUT, width=4)                # knob
+    d.ellipse([S * .46, S * .2, S * .54, S * .28], fill=(30, 30, 40, 255), outline=(240, 190, 50, 255), width=3)   # peephole
+    d.arc([S * .42, S * .3, S * .58, S * .44], 0, 180, fill=(240, 190, 50, 255), width=6)                         # knocker
+    if flying:
+        for y in (.2, .76):
+            d.rectangle([S * .17, S * y, S * .23, S * (y + .08)], fill=(170, 170, 180, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def rental_scooter(size=64):
+    """A green rental e-scooter seen from the side, facing right: tall stem, handlebar, low deck, two small
+    wheels, a QR plate on the stem."""
+    im, d, S = _big(size)
+    OUT = (10, 30, 15, 255)
+    G = (60, 200, 90, 255)
+    d.line([(S * .14, S * .82), (S * .78, S * .82)], fill=OUT, width=int(S * .1))
+    d.line([(S * .14, S * .82), (S * .78, S * .82)], fill=(40, 40, 46, 255), width=int(S * .06))                # deck
+    d.line([(S * .76, S * .82), (S * .68, S * .14)], fill=OUT, width=int(S * .08))
+    d.line([(S * .76, S * .82), (S * .68, S * .14)], fill=G, width=int(S * .05))                                 # stem
+    d.line([(S * .56, S * .14), (S * .84, S * .12)], fill=OUT, width=10)                                          # handlebar
+    d.rectangle([S * .66, S * .36, S * .78, S * .48], fill=(250, 250, 250, 255), outline=OUT, width=4)          # QR plate
+    for x in (.18, .78):
+        d.ellipse([S * (x - .09), S * .78, S * (x + .09), S * .96], fill=(30, 30, 34, 255), outline=OUT, width=5)
+        d.ellipse([S * (x - .03), S * .84, S * (x + .03), S * .9], fill=G)
+    return _shrink(im, size)
+
+
+def battery_low(size=32, full=False):
+    """A battery icon: red with one sliver of charge - or full green (turbo)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 20, 255)
+    d.rounded_rectangle([S * .06, S * .26, S * .84, S * .74], 6, fill=(250, 250, 250, 255), outline=OUT, width=7)
+    d.rectangle([S * .84, S * .4, S * .96, S * .6], fill=OUT)
+    if full:
+        d.rectangle([S * .14, S * .34, S * .76, S * .66], fill=(60, 220, 80, 255))
+    else:
+        d.rectangle([S * .14, S * .34, S * .24, S * .66], fill=(230, 30, 30, 255))
+    return _shrink(im, size)
+
+
+def loot_sack(size=32):
+    """A tied canvas money sack with a big green $ on it."""
+    im, d, S = _big(size)
+    OUT = (50, 35, 15, 255)
+    d.ellipse([S * .12, S * .3, S * .88, S * .96], fill=(210, 180, 120, 255), outline=OUT, width=7)
+    d.polygon([(S * .36, S * .32), (S * .28, S * .06), (S * .5, S * .2), (S * .72, S * .06), (S * .64, S * .32)], fill=(210, 180, 120, 255), outline=OUT)
+    d.rectangle([S * .34, S * .26, S * .66, S * .34], fill=(120, 80, 40, 255))
+    im = _shrink(im, size)
+    _big_text(im, "$", (16, 21), (40, 160, 60, 255), scale=1)
+    return im
+
+
+def bug_zapper(size=64, lit=True):
+    """A porch bug zapper hanging from its hook: a black wire cage round a glowing purple-blue UV tube."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 16, 255)
+    d.arc([S * .42, S * .0, S * .58, S * .14], 180, 360, fill=OUT, width=6)                                       # hook
+    d.line([(S * .5, S * .07), (S * .5, S * .16)], fill=OUT, width=6)
+    d.rounded_rectangle([S * .24, S * .14, S * .76, S * .24], 6, fill=(40, 40, 46, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .24, S * .84, S * .76, S * .94], 6, fill=(40, 40, 46, 255), outline=OUT, width=5)
+    glow = (140, 60, 255, 255) if lit else (80, 70, 100, 255)
+    d.rectangle([S * .3, S * .24, S * .7, S * .84], fill=glow[:3] + (200,))
+    d.rounded_rectangle([S * .42, S * .26, S * .58, S * .82], 8, fill=(230, 220, 255, 255) if lit else (120, 110, 140, 255), outline=glow, width=4)
+    for k in range(7):
+        x = .3 + k * .066
+        d.line([(S * x, S * .24), (S * x, S * .84)], fill=(30, 30, 36, 255), width=3)                            # cage wires
+    for y in (.4, .6):
+        d.line([(S * .28, S * y), (S * .72, S * y)], fill=(30, 30, 36, 255), width=3)
+    return _shrink(im, size)
+
+
+def porch_moth(size=32):
+    """A fuzzy brown moth, wings spread."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 15, 255)
+    for pts in (((.5, .5), (.06, .2), (.14, .7)), ((.5, .5), (.94, .2), (.86, .7))):
+        _outline_poly(d, [(S * x, S * y) for x, y in pts], (180, 150, 100, 255), OUT, 6)
+    for x in (.24, .76):
+        d.ellipse([S * (x - .06), S * .36, S * (x + .06), S * .48], fill=(110, 80, 50, 255))
+    d.ellipse([S * .42, S * .3, S * .58, S * .8], fill=(120, 90, 55, 255), outline=OUT, width=5)
+    d.line([(S * .46, S * .32), (S * .36, S * .14)], fill=OUT, width=3)
+    d.line([(S * .54, S * .32), (S * .64, S * .14)], fill=OUT, width=3)
+    return _shrink(im, size)
+
+
+def check_folder(size=64):
+    """A restaurant check presenter, open: the black folder with the bill clipped in - TOTAL / $200 (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.rounded_rectangle([S * .04, S * .14, S * .96, S * .86], 8, fill=(30, 30, 34, 255), outline=OUT, width=7)
+    d.line([(S * .5, S * .16), (S * .5, S * .84)], fill=(70, 70, 76, 255), width=5)
+    d.rectangle([S * .5, S * .2, S * .96, S * .8], fill=(250, 250, 245, 255), outline=OUT, width=4)             # the bill
+    for y in (.56, .64, .72):
+        d.line([(S * .56, S * y), (S * .9, S * y)], fill=(170, 170, 170, 255), width=3)
+    d.rectangle([S * .12, S * .3, S * .4, S * .5], fill=(240, 240, 235, 255), outline=OUT, width=4)            # a card slot
+    im = _shrink(im, size)
+    return _texted(im, [("TOTAL", (47, 17)), ("$200", (47, 26))], (20, 20, 25, 255), (250, 250, 245, 255))
+
+
+def receipt_half(size=32, right=False):
+    """Half of a torn receipt: white paper, grey print lines, a ragged torn edge."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 66, 255)
+    pts = [(S * .2, S * .04), (S * .8, S * .04)]
+    for k in range(8):
+        pts.append((S * (.8 if k % 2 == 0 else .7), S * (.1 + k * .11)))
+    pts += [(S * .2, S * .96)]
+    if right:
+        pts = [(S - x, y) for x, y in pts]
+    _outline_poly(d, pts, (250, 250, 245, 255), OUT, 5)
+    for y in (.2, .32, .44, .56, .7):
+        x0, x1 = (.28, .6) if not right else (.4, .72)
+        d.line([(S * x0, S * y), (S * x1, S * y)], fill=(170, 170, 170, 255), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 24, batch 1 (INSANE): Full Auto, 18 Wheeler, Holy Fire, Sentencing, Clock Out --------------------------
+
+def jam_pistol(size=64):
+    """A black pistol, slide locked back (jammed), pointing right."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.rectangle([S * .14, S * .34, S * .8, S * .48], fill=(50, 50, 56, 255), outline=OUT, width=6)               # slide
+    d.rectangle([S * .74, S * .38, S * .92, S * .44], fill=(80, 80, 88, 255), outline=OUT, width=4)              # barrel out
+    d.polygon([(S * .2, S * .48), (S * .42, S * .48), (S * .36, S * .86), (S * .16, S * .86)], fill=(40, 40, 46, 255), outline=OUT)
+    d.line([(S * .2, S * .48), (S * .42, S * .48), (S * .36, S * .86), (S * .16, S * .86), (S * .2, S * .48)], fill=OUT, width=6)
+    d.arc([S * .38, S * .46, S * .58, S * .66], 0, 180, fill=OUT, width=5)                                        # trigger guard
+    d.line([(S * .2, S * .37), (S * .7, S * .37)], fill=(140, 140, 150, 255), width=3)
+    return _shrink(im, size)
+
+
+def mini_uzi(size=64):
+    """A boxy black uzi: stubby barrel, the long magazine down through the grip, a folding stock."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.rectangle([S * .2, S * .32, S * .78, S * .5], fill=(45, 45, 50, 255), outline=OUT, width=6)
+    d.rectangle([S * .78, S * .38, S * .94, S * .44], fill=(70, 70, 78, 255), outline=OUT, width=4)
+    d.rectangle([S * .42, S * .5, S * .54, S * .96], fill=(35, 35, 40, 255), outline=OUT, width=5)               # mag
+    d.line([(S * .2, S * .36), (S * .04, S * .3), (S * .04, S * .5)], fill=(60, 60, 66, 255), width=6)          # stock
+    d.line([(S * .24, S * .36), (S * .74, S * .36)], fill=(130, 130, 140, 255), width=3)
+    return _shrink(im, size)
+
+
+def minigun(size=64, phase=0):
+    """A minigun on a tripod: six barrels in a rotary cluster (phase shifts the barrel shine so it spins), the
+    motor housing, a brass ammo belt hanging off it, three tripod legs."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    for a, b in (((.36, .58), (.14, .96)), ((.36, .58), (.58, .96)), ((.36, .58), (.36, .96))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(60, 60, 66, 255), width=9)                     # tripod
+    d.rounded_rectangle([S * .16, S * .3, S * .46, S * .6], 10, fill=(70, 75, 60, 255), outline=OUT, width=7)    # motor
+    d.rectangle([S * .46, S * .32, S * .98, S * .56], fill=(55, 55, 60, 255), outline=OUT, width=6)              # barrels
+    for k in range(6):
+        y = .35 + k * .035
+        c = (230, 230, 240, 255) if (k + phase) % 3 == 0 else (110, 110, 120, 255)
+        d.line([(S * .48, S * y), (S * .96, S * y)], fill=c, width=3)
+    for x in (.58, .8):
+        d.rectangle([S * x, S * .3, S * (x + .04), S * .58], fill=(90, 90, 96, 255), outline=OUT, width=3)        # clamps
+    for k in range(6):                                                                                             # ammo belt
+        d.rectangle([S * (.2 - k * .02), S * (.6 + k * .06), S * (.28 - k * .02), S * (.66 + k * .06)], fill=(230, 180, 60, 255), outline=OUT, width=3)
+    d.rectangle([S * .22, S * .18, S * .3, S * .3], fill=(40, 40, 46, 255), outline=OUT, width=4)                # handle
+    return _shrink(im, size)
+
+
+def tracer_streak(n=16):
+    """A hot bullet tracer (alpha only): a bright horizontal streak, thicker at the head."""
+    def f(x, y):
+        w = .6 + x / 16 * 1.4
+        return max(0, 1 - abs(y - 7.5) / w) * (x / 15) if x > 1 else 0
+    return _alpha(n, n, f)
+
+
+def brass_shell(n=16):
+    """A spent brass casing (alpha only)."""
+    return _alpha(n, n, lambda x, y: 1 if 5 <= x <= 10 and 4 <= y <= 12 and not (y < 6 and (x == 5 or x == 10)) else 0)
+
+
+def muzzle_star(size=32):
+    """A big blinding muzzle flash: white core, yellow-orange spikes."""
+    import math
+    im, d, S = _big(size)
+    pts = []
+    for k in range(14):
+        a = k * 2 * math.pi / 14
+        r = .48 if k % 2 == 0 else .18
+        pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * .7 * math.sin(a))))
+    d.polygon(pts, fill=(255, 170, 30, 255))
+    d.ellipse([S * .3, S * .36, S * .7, S * .64], fill=(255, 240, 120, 255))
+    d.ellipse([S * .38, S * .42, S * .62, S * .58], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def semi_truck(size=64):
+    """An 18-wheeler facing right: a long silver trailer, a big red cab with a chrome grille, twin exhaust stacks,
+    a row of wheels (drawn on a wide canvas: the art fills the width, ~45% of the height)."""
+    im, d, S = _big(size)
+    OUT = (15, 10, 10, 255)
+    y0, y1 = .3, .74
+    d.rectangle([S * .02, S * y0, S * .66, S * (y1 - .06)], fill=(215, 220, 230, 255), outline=OUT, width=6)     # trailer
+    d.line([(S * .04, S * (y0 + .06)), (S * .64, S * (y0 + .06))], fill=(255, 255, 255, 255), width=4)
+    for x in (.2, .4):
+        d.line([(S * x, S * y0), (S * x, S * (y1 - .06))], fill=(160, 165, 175, 255), width=3)
+    d.rectangle([S * .66, S * (y0 + .08), S * .9, S * (y1 - .04)], fill=(210, 30, 30, 255), outline=OUT, width=6)  # cab
+    d.polygon([(S * .74, S * (y0 + .1)), (S * .86, S * (y0 + .1)), (S * .86, S * (y0 + .22)), (S * .74, S * (y0 + .22))], fill=(120, 190, 240, 255), outline=OUT)
+    d.rectangle([S * .9, S * (y0 + .14), S * .99, S * (y1 - .04)], fill=(200, 205, 215, 255), outline=OUT, width=5)  # grille
+    for k in range(4):
+        d.line([(S * .91, S * (y0 + .18 + k * .06)), (S * .98, S * (y0 + .18 + k * .06))], fill=(120, 120, 130, 255), width=3)
+    d.ellipse([S * .955, S * (y1 - .14), S * .99, S * (y1 - .09)], fill=(255, 250, 200, 255))                     # headlight
+    for x in (.68, .72):
+        d.rectangle([S * x, S * (y0 - .12), S * (x + .025), S * (y0 + .08)], fill=(200, 205, 215, 255), outline=OUT, width=3)  # stacks
+    for x in (.08, .16, .5, .58, .78, .9):
+        d.ellipse([S * (x - .05), S * (y1 - .1), S * (x + .05), S * y1 + S * .02], fill=(25, 25, 28, 255), outline=OUT, width=4)
+        d.ellipse([S * (x - .02), S * (y1 - .06), S * (x + .02), S * (y1 - .02)], fill=(180, 180, 190, 255))
+    return _shrink(im, size)
+
+
+def stained_glass(size=64, lit=False):
+    """An arched church window of coloured glass in lead lines (a cross in the middle); lit = blazing bright."""
+    im, d, S = _big(size)
+    OUT = (30, 25, 20, 255)
+    k = 1.0 if lit else .7
+    cols = [(220, 40, 60), (40, 90, 220), (250, 200, 40), (60, 170, 80), (160, 60, 200)]
+    d.rounded_rectangle([S * .14, S * .04, S * .86, S * .96], int(S * .36), fill=(60, 50, 40, 255), outline=OUT, width=8)
+    i = 0
+    for y in range(4):
+        for x in range(3):
+            c = cols[i % len(cols)]
+            i += 1
+            c = tuple(min(255, int(v * k + (60 if lit else 0))) for v in c) + (255,)
+            d.rectangle([S * (.22 + x * .19), S * (.2 + y * .19), S * (.39 + x * .19), S * (.37 + y * .19)], fill=c, outline=OUT, width=4)
+    d.pieslice([S * .22, S * .1, S * .78, S * .5], 180, 360, fill=(250, 220, 120, 255) if lit else (200, 170, 90, 255), outline=OUT, width=4)
+    d.rectangle([S * .46, S * .26, S * .54, S * .86], fill=(255, 245, 210, 255) if lit else (220, 210, 180, 255), outline=OUT, width=3)
+    d.rectangle([S * .34, S * .42, S * .66, S * .5], fill=(255, 245, 210, 255) if lit else (220, 210, 180, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def holy_ray(n=16):
+    """A soft vertical shaft of light (alpha only)."""
+    return _alpha(n, n, lambda x, y: max(0, 1 - abs(x - 7.5) / 6.5) ** 1.5)
+
+
+def gold_halo(size=32):
+    """A glowing gold halo ring seen at an angle."""
+    im, d, S = _big(size)
+    d.ellipse([S * .06, S * .32, S * .94, S * .68], outline=(140, 90, 0, 255), width=int(S * .12))
+    d.ellipse([S * .08, S * .34, S * .92, S * .66], outline=(255, 220, 60, 255), width=int(S * .07))
+    d.arc([S * .12, S * .36, S * .88, S * .64], 190, 260, fill=(255, 255, 220, 255), width=5)
+    return _shrink(im, size)
+
+
+def judge_gavel(size=64):
+    """A judge's wooden gavel, head at the top right, handle down-left, brass bands, on its sound block."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 5, 255)
+    W, WD = (160, 95, 45, 255), (110, 60, 25, 255)
+    d.line([(S * .2, S * .86), (S * .6, S * .38)], fill=OUT, width=int(S * .12))
+    d.line([(S * .2, S * .86), (S * .6, S * .38)], fill=W, width=int(S * .08))                                   # handle
+    head = [(S * .42, S * .3), (S * .7, S * .06), (S * .96, S * .34), (S * .68, S * .58)]
+    d.polygon(head, fill=W)
+    d.line(head + [head[0]], fill=OUT, width=7)
+    for t in (.3, .7):
+        a = (head[0][0] + (head[1][0] - head[0][0]) * t, head[0][1] + (head[1][1] - head[0][1]) * t)
+        b = (head[3][0] + (head[2][0] - head[3][0]) * t, head[3][1] + (head[2][1] - head[3][1]) * t)
+        d.line([a, b], fill=(230, 180, 60, 255), width=6)                                                          # brass bands
+    d.line([(S * .5, S * .26), (S * .74, S * .1)], fill=(210, 150, 90, 255), width=4)
+    return _shrink(im, size)
+
+
+def time_clock(size=64, t="4:58"):
+    """A punch time clock on the wall: grey box, a red digital readout (shown at 1:1), the card slot and a rack of
+    time cards beside it."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    d.rounded_rectangle([S * .08, S * .1, S * .74, S * .9], 10, fill=(180, 185, 195, 255), outline=OUT, width=8)
+    d.rectangle([S * .16, S * .2, S * .66, S * .44], fill=(20, 10, 10, 255), outline=OUT, width=5)               # display
+    d.rectangle([S * .24, S * .58, S * .58, S * .66], fill=(30, 30, 36, 255))                                      # card slot
+    d.rectangle([S * .78, S * .18, S * .96, S * .86], fill=(120, 90, 60, 255), outline=OUT, width=5)            # card rack
+    for k in range(4):
+        d.rectangle([S * .8, S * (.22 + k * .16), S * .94, S * (.32 + k * .16)], fill=(250, 245, 220, 255), outline=OUT, width=3)
+    im = _shrink(im, size)
+    _big_text(im, t, (26, 21), (255, 50, 40, 255) if t != "5:00" else (80, 255, 120, 255), scale=2)
+    return im
+
+
+def punch_card(size=32):
+    """A buff time card with ruled lines."""
+    im, d, S = _big(size)
+    OUT = (60, 50, 30, 255)
+    d.rectangle([S * .28, S * .04, S * .72, S * .96], fill=(250, 240, 200, 255), outline=OUT, width=6)
+    for k in range(6):
+        d.line([(S * .34, S * (.18 + k * .13)), (S * .66, S * (.18 + k * .13))], fill=(180, 160, 120, 255), width=4)
+    d.rectangle([S * .28, S * .04, S * .72, S * .14], fill=(220, 60, 60, 255), outline=OUT, width=5)
+    return _shrink(im, size)
+
+
+def wall_clock(size=32):
+    """A round white wall clock with a black rim and two hands (spins as a particle; no text)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.ellipse([S * .06, S * .06, S * .94, S * .94], fill=(250, 250, 250, 255), outline=OUT, width=int(S * .09))
+    for k in range(12):
+        import math
+        a = k * math.pi / 6
+        d.line([(S * (.5 + .34 * math.cos(a)), S * (.5 + .34 * math.sin(a))), (S * (.5 + .4 * math.cos(a)), S * (.5 + .4 * math.sin(a)))], fill=OUT, width=4)
+    d.line([(S * .5, S * .5), (S * .5, S * .2)], fill=OUT, width=6)
+    d.line([(S * .5, S * .5), (S * .72, S * .58)], fill=(220, 30, 30, 255), width=5)
+    return _shrink(im, size)
+
+
+def holy_flame(n=16):
+    """A small teardrop flame lick (alpha only, 16x16): pointed top, round bottom."""
+    def f(x, y):
+        dx = abs(x - 7.5)
+        if y > 9:
+            return max(0, 1 - ((dx / 5) ** 2 + ((y - 9.5) / 5) ** 2))
+        half = 5 * (y - 1) / 8.5
+        return max(0, 1 - dx / max(half, .1)) if y > 1 else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 24, batch 2 (INSANE): Rip Space, Ghost Ride, Mind Blown, Bad Omen, Compactor -----------------------------
+
+SMALL["="] = "...|###|...|###|...|..."
+
+
+def _galaxy(d, S, box):
+    """Paint a little piece of outer space into box (x0, y0, x1, y1): deep purple, a pink-blue nebula, stars."""
+    import random
+    x0, y0, x1, y1 = box
+    d.rectangle(box, fill=(20, 10, 45, 255))
+    d.ellipse([x0 + (x1 - x0) * .1, y0 + (y1 - y0) * .2, x0 + (x1 - x0) * .9, y0 + (y1 - y0) * .55], fill=(110, 40, 150, 255))
+    d.ellipse([x0 + (x1 - x0) * .25, y0 + (y1 - y0) * .45, x0 + (x1 - x0) * .8, y0 + (y1 - y0) * .8], fill=(40, 90, 190, 255))
+    r = random.Random(7)
+    for _ in range(int((x1 - x0) * (y1 - y0) / (S * S) * 60) + 4):
+        x, y = r.uniform(x0, x1), r.uniform(y0, y1)
+        s = r.choice((2, 3, 5))
+        d.ellipse([x - s, y - s, x + s, y + s], fill=(255, 255, 255, 255))
+
+
+def space_zipper(size=64, opened=0):
+    """A giant zipper running down the screen: opened 0 = zipped shut, 1 = the pull a third of the way down with a
+    sliver of outer space showing, 2 = all the way down, a wide V of galaxy between the two rows of teeth."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 26, 255)
+    TEETH = (200, 170, 60, 255)
+    pull_y = (.08, .38, .9)[opened]
+    gap = (0, .1, .34)[opened]
+    if opened:
+        poly = [(S * .5, S * pull_y), (S * (.5 - gap), S * .02), (S * (.5 + gap), S * .02)]
+        mask = Image.new("L", (S, S), 0)
+        ImageDraw.Draw(mask).polygon(poly, fill=255)
+        sp = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+        _galaxy(ImageDraw.Draw(sp), S, (0, 0, S, S))
+        im.paste(sp, (0, 0), mask)
+    for k in range(24):
+        y = .02 + k * .04
+        if y < pull_y and opened:
+            t = (pull_y - y) / max(pull_y - .02, .01)
+            for sgn in (-1, 1):
+                x = .5 + sgn * (gap * t + .02)
+                d.rectangle([S * (x - .03), S * y, S * (x + .03), S * (y + .025)], fill=TEETH, outline=OUT, width=3)
+        else:
+            d.rectangle([S * (.47 if k % 2 else .5), S * y, S * (.5 if k % 2 else .53), S * (y + .03)], fill=TEETH, outline=OUT, width=3)
+    d.rounded_rectangle([S * .42, S * (pull_y - .04), S * .58, S * (pull_y + .06)], 6, fill=(220, 220, 230, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .45, S * (pull_y + .05), S * .55, S * (pull_y + .2)], 8, fill=(200, 200, 210, 255), outline=OUT, width=5)
+    d.ellipse([S * .48, S * (pull_y + .12), S * .52, S * (pull_y + .16)], fill=OUT)
+    return _shrink(im, size)
+
+
+def sheet_ghost(size=64):
+    """A kid's Halloween ghost: a white bedsheet with two cut-out eye holes, wrinkles, the ragged hem."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 80, 255)
+    pts = [(S * .5, S * .06), (S * .78, S * .22), (S * .86, S * .9), (S * .76, S * .84), (S * .66, S * .94), (S * .56, S * .86),
+           (S * .46, S * .95), (S * .36, S * .86), (S * .26, S * .94), (S * .14, S * .88), (S * .22, S * .22)]
+    d.polygon(pts, fill=(250, 250, 255, 255))
+    d.line(pts + [pts[0]], fill=OUT, width=7)
+    for x in (.36, .56):
+        d.ellipse([S * x, S * .3, S * (x + .1), S * .44], fill=(15, 15, 25, 255))
+    for a, b in (((.3, .55), (.36, .8)), ((.66, .5), (.62, .78))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(200, 200, 220, 255), width=4)
+    return _shrink(im, size)
+
+
+def minivan(size=64, doors_open=True):
+    """A beige soccer-mom minivan facing right, sliding door wide open and nobody in it (ghost riding the whip)."""
+    im, d, S = _big(size)
+    OUT = (30, 25, 20, 255)
+    BODY = (220, 200, 160, 255)
+    y0, y1 = .34, .72
+    d.polygon([(S * .04, S * (y0 + .02)), (S * .62, S * y0), (S * .84, S * (y0 + .14)), (S * .96, S * (y0 + .2)), (S * .96, S * y1),
+               (S * .04, S * y1)], fill=BODY, outline=OUT)
+    d.line([(S * .04, S * (y0 + .02)), (S * .62, S * y0), (S * .84, S * (y0 + .14)), (S * .96, S * (y0 + .2)), (S * .96, S * y1),
+            (S * .04, S * y1), (S * .04, S * (y0 + .02))], fill=OUT, width=6)
+    for x0, x1 in ((.08, .24), (.62, .8)):
+        d.rectangle([S * x0, S * (y0 + .05), S * x1, S * (y0 + .15)], fill=(110, 150, 190, 255), outline=OUT, width=4)
+    if doors_open:
+        d.rectangle([S * .3, S * (y0 + .04), S * .56, S * (y1 - .04)], fill=(40, 35, 40, 255), outline=OUT, width=4)   # empty inside
+        d.rectangle([S * .14, S * (y0 + .04), S * .3, S * (y1 - .04)], fill=(205, 185, 145, 255), outline=OUT, width=4)  # slid door
+    d.line([(S * .04, S * (y1 - .1)), (S * .96, S * (y1 - .1))], fill=(170, 150, 110, 255), width=4)
+    d.rectangle([S * .9, S * (y0 + .26), S * .96, S * (y0 + .3)], fill=(255, 250, 200, 255))
+    for x in (.2, .78):
+        d.ellipse([S * (x - .08), S * (y1 - .08), S * (x + .08), S * (y1 + .08)], fill=(25, 25, 28, 255), outline=OUT, width=4)
+        d.ellipse([S * (x - .03), S * (y1 - .03), S * (x + .03), S * (y1 + .03)], fill=(170, 170, 180, 255))
+    return _shrink(im, size)
+
+
+def math_board(size=64, text="2+2=4"):
+    """A green classroom chalkboard in a wooden frame with a chalk tray, one line of chalk math (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 10, 255)
+    d.rectangle([S * .02, S * .16, S * .98, S * .8], fill=(150, 100, 50, 255), outline=OUT, width=7)
+    d.rectangle([S * .08, S * .22, S * .92, S * .74], fill=(40, 90, 60, 255))
+    d.rectangle([S * .06, S * .78, S * .94, S * .84], fill=(170, 120, 60, 255), outline=OUT, width=4)
+    d.rectangle([S * .7, S * .74, S * .8, S * .78], fill=(250, 250, 245, 255))                                       # chalk
+    d.line([(S * .14, S * .64), (S * .4, S * .66)], fill=(110, 150, 120, 255), width=4)                             # smudge
+    im = _shrink(im, size)
+    _big_text(im, text, (32, 28), (245, 245, 235, 255), scale=2, font=SMALL)
+    return im
+
+
+def question_mark(size=32):
+    """A fat purple question mark with a white outline."""
+    im = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    _big_text(im, "?", (16, 16), (170, 80, 230, 255), scale=3)
+    return im
+
+
+def galaxy_burst(size=64):
+    """MIND BLOWN: a ragged burst of outer space - purple, pink and blue swirls, stars, a white-hot centre."""
+    import math
+    im, d, S = _big(size)
+    pts = []
+    for k in range(22):
+        a = k * 2 * math.pi / 22
+        r = .47 if k % 2 == 0 else .33
+        pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * math.sin(a))))
+    mask = Image.new("L", (S, S), 0)
+    ImageDraw.Draw(mask).polygon(pts, fill=255)
+    sp = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    sd = ImageDraw.Draw(sp)
+    _galaxy(sd, S, (0, 0, S, S))
+    for k in range(3):
+        sd.arc([S * (.2 + k * .08), S * (.2 + k * .08), S * (.8 - k * .08), S * (.8 - k * .08)], k * 90, k * 90 + 200,
+               fill=((255, 120, 220, 255), (120, 220, 255, 255), (255, 240, 140, 255))[k], width=8)
+    sd.ellipse([S * .42, S * .42, S * .58, S * .58], fill=(255, 255, 255, 255))
+    im.paste(sp, (0, 0), mask)
+    d.line(pts + [pts[0]], fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def black_cat(size=64, step=0):
+    """A black cat walking left to right, tail up, yellow eyes; step 0/1 swaps the legs."""
+    im, d, S = _big(size)
+    C = (25, 22, 30, 255)
+    d.ellipse([S * .22, S * .42, S * .72, S * .68], fill=C)                                                             # body
+    d.ellipse([S * .64, S * .3, S * .88, S * .52], fill=C)                                                              # head
+    d.polygon([(S * .66, S * .34), (S * .68, S * .2), (S * .74, S * .32)], fill=C)
+    d.polygon([(S * .78, S * .32), (S * .84, S * .2), (S * .86, S * .36)], fill=C)
+    d.line([(S * .24, S * .5), (S * .1, S * .36), (S * .12, S * .14)], fill=C, width=int(S * .06))                     # tail
+    legs = ((.3, .44), (.56, .7)) if step == 0 else ((.36, .38), (.62, .66))
+    for a, b in legs:
+        d.line([(S * a, S * .62), (S * (a - .04), S * .86)], fill=C, width=int(S * .06))
+        d.line([(S * b, S * .62), (S * (b + .04), S * .86)], fill=C, width=int(S * .06))
+    for x in (.72, .8):
+        d.ellipse([S * x, S * .37, S * (x + .05), S * .43], fill=(250, 220, 40, 255))
+    return _shrink(im, size)
+
+
+def hand_mirror(size=64, cracked=False):
+    """A pink hand mirror (oval glass, handle) - or cracked right across."""
+    im, d, S = _big(size)
+    OUT = (60, 20, 40, 255)
+    d.line([(S * .5, S * .62), (S * .5, S * .96)], fill=OUT, width=int(S * .12))
+    d.line([(S * .5, S * .62), (S * .5, S * .96)], fill=(240, 120, 170, 255), width=int(S * .08))
+    d.ellipse([S * .2, S * .04, S * .8, S * .66], fill=(240, 120, 170, 255), outline=OUT, width=7)
+    d.ellipse([S * .27, S * .1, S * .73, S * .6], fill=(200, 230, 250, 255), outline=OUT, width=4)
+    d.line([(S * .35, S * .2), (S * .45, S * .14)], fill=(255, 255, 255, 255), width=5)
+    if cracked:
+        for a, b in (((.5, .34), (.3, .18)), ((.5, .34), (.7, .14)), ((.5, .34), (.34, .56)), ((.5, .34), (.68, .52)), ((.5, .34), (.72, .34))):
+            d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(40, 40, 60, 255), width=4)
+    return _shrink(im, size)
+
+
+def falling_star(size=64):
+    """A huge shooting star coming down from the top-right: a fat gold star with a white core and a long rainbow trail."""
+    import math
+    im, d, S = _big(size)
+    for k, c in enumerate(((255, 120, 200), (255, 220, 80), (120, 220, 255))):
+        o = (k - 1) * .05
+        d.line([(S * (.62 + o), S * (.38 - o)), (S * (.98 + o), S * (.02 - o))], fill=c + (220,), width=int(S * .06))
+    pts = []
+    for k in range(10):
+        a = -math.pi / 2 + k * math.pi / 5
+        r = .3 if k % 2 == 0 else .13
+        pts.append((S * (.4 + r * math.cos(a)), S * (.6 + r * math.sin(a))))
+    _outline_poly(d, pts, (255, 220, 50, 255), (160, 100, 0, 255), 8)
+    d.ellipse([S * .34, S * .54, S * .46, S * .66], fill=(255, 255, 230, 255))
+    return _shrink(im, size)
+
+
+def compactor_plate(size=64):
+    """One wall of a junkyard compactor: a riveted steel plate with yellow-black hazard stripes and a hydraulic
+    piston sticking out the back (the left side)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rectangle([S * .02, S * .44, S * .4, S * .56], fill=(170, 175, 185, 255), outline=OUT, width=6)              # piston
+    d.rectangle([S * .4, S * .04, S * .72, S * .96], fill=(120, 125, 135, 255), outline=OUT, width=8)
+    for k in range(6):
+        y = .1 + k * .15
+        d.polygon([(S * .66, S * y), (S * .72, S * (y - .06)), (S * .72, S * (y + .02)), (S * .66, S * (y + .08))], fill=(250, 200, 30, 255))
+    d.line([(S * .72, S * .04), (S * .72, S * .96)], fill=OUT, width=6)
+    for y in (.12, .5, .88):
+        for x in (.46, .6):
+            d.ellipse([S * x, S * (y - .02), S * (x + .04), S * (y + .02)], fill=(200, 205, 215, 255), outline=OUT, width=2)
+    return _shrink(im, size)
+
+
+def junk_cube(size=64):
+    """A crushed cube of compacted junk: dented metal, a squashed hubcap, a sneaker sticking out, a soda can."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 24, 255)
+    d.polygon([(S * .14, S * .3), (S * .5, S * .14), (S * .9, S * .28), (S * .9, S * .82), (S * .52, S * .96), (S * .14, S * .82)], fill=(110, 110, 120, 255))
+    d.polygon([(S * .14, S * .3), (S * .5, S * .44), (S * .52, S * .96), (S * .14, S * .82)], fill=(140, 140, 150, 255))
+    d.polygon([(S * .14, S * .3), (S * .5, S * .14), (S * .9, S * .28), (S * .5, S * .44)], fill=(170, 170, 180, 255))
+    for pts in (((.14, .3), (.5, .14), (.9, .28), (.9, .82), (.52, .96), (.14, .82), (.14, .3)), ((.14, .3), (.5, .44), (.9, .28)), ((.5, .44), (.52, .96))):
+        d.line([(S * x, S * y) for x, y in pts], fill=OUT, width=6)
+    d.ellipse([S * .2, S * .5, S * .38, S * .66], fill=(210, 210, 220, 255), outline=OUT, width=4)                 # hubcap
+    d.rectangle([S * .62, S * .5, S * .74, S * .7], fill=(220, 40, 40, 255), outline=OUT, width=3)                 # can
+    d.polygon([(S * .64, S * .24), (S * .84, S * .2), (S * .86, S * .3), (S * .7, S * .34)], fill=(250, 250, 250, 255), outline=OUT)   # sneaker
+    for a, b in (((.3, .74), (.44, .8)), ((.6, .78), (.8, .72))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(80, 80, 88, 255), width=4)                     # dents
+    return _shrink(im, size)
+
+
+# ---- set 24, batch 3: Flamin Hot, Air Strike, Brick Wall, Triple Tap, Nail Gun, Staple Gun -------------------------
+
+def hot_chips(size=64):
+    """A red bag of flaming-hot chips: crimped top, flames up the front, HOT in big letters (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 10, 0, 255)
+    d.polygon([(S * .18, S * .14), (S * .82, S * .14), (S * .88, S * .9), (S * .12, S * .9)], fill=(220, 30, 20, 255))
+    d.line([(S * .18, S * .14), (S * .82, S * .14), (S * .88, S * .9), (S * .12, S * .9), (S * .18, S * .14)], fill=OUT, width=7)
+    d.rectangle([S * .16, S * .06, S * .84, S * .16], fill=(200, 20, 10, 255), outline=OUT, width=5)
+    for k in range(7):
+        d.line([(S * (.2 + k * .1), S * .07), (S * (.2 + k * .1), S * .15)], fill=OUT, width=3)
+    for x, h in ((.24, .4), (.4, .3), (.56, .42), (.72, .32)):
+        d.polygon([(S * (x - .08), S * .9), (S * x, S * (.9 - h)), (S * (x + .08), S * .9)], fill=(255, 160, 30, 255))
+        d.polygon([(S * (x - .04), S * .9), (S * x, S * (.9 - h * .6)), (S * (x + .04), S * .9)], fill=(255, 240, 80, 255))
+    d.rectangle([S * .12, S * .86, S * .88, S * .92], fill=(200, 20, 10, 255))
+    im = _shrink(im, size)
+    _big_text(im, "HOT", (32, 22), (255, 240, 60, 255), scale=2, font=SMALL)
+    return im
+
+
+def hot_chip(size=32):
+    """One curly red-hot cheese puff, dusted with red powder."""
+    im, d, S = _big(size)
+    OUT = (90, 10, 0, 255)
+    d.arc([S * .1, S * .2, S * .9, S * .9], 200, 20, fill=OUT, width=int(S * .26))
+    d.arc([S * .12, S * .22, S * .88, S * .88], 200, 20, fill=(230, 40, 20, 255), width=int(S * .2))
+    for x, y in ((.24, .5), (.5, .26), (.78, .4)):
+        d.ellipse([S * (x - .04), S * (y - .04), S * (x + .04), S * (y + .04)], fill=(255, 120, 80, 255))
+    return _shrink(im, size)
+
+
+def bread_slice(size=32):
+    """A slice of white bread: tan crust, puffy top."""
+    im, d, S = _big(size)
+    OUT = (110, 70, 20, 255)
+    d.rounded_rectangle([S * .14, S * .36, S * .86, S * .92], 8, fill=(240, 225, 190, 255), outline=(190, 130, 60, 255), width=int(S * .08))
+    d.ellipse([S * .1, S * .1, S * .5, S * .5], fill=(240, 225, 190, 255), outline=(190, 130, 60, 255), width=int(S * .08))
+    d.ellipse([S * .5, S * .1, S * .9, S * .5], fill=(240, 225, 190, 255), outline=(190, 130, 60, 255), width=int(S * .08))
+    d.rectangle([S * .22, S * .36, S * .78, S * .5], fill=(240, 225, 190, 255))
+    for x, y in ((.36, .58), (.6, .7), (.48, .44)):
+        d.ellipse([S * x, S * y, S * (x + .04), S * (y + .04)], fill=(210, 190, 150, 255))
+    return _shrink(im, size)
+
+
+def bread_loaf(size=64):
+    """A whole sliced loaf in its plastic bag with the twist tie."""
+    im, d, S = _big(size)
+    OUT = (110, 70, 20, 255)
+    d.rounded_rectangle([S * .06, S * .3, S * .82, S * .8], 22, fill=(225, 175, 100, 255), outline=OUT, width=7)
+    for k in range(6):
+        x = .18 + k * .11
+        d.line([(S * x, S * .34), (S * x, S * .76)], fill=(190, 140, 70, 255), width=3)
+    d.rounded_rectangle([S * .04, S * .26, S * .84, S * .84], 24, outline=(220, 230, 250, 200), width=5)          # bag
+    d.polygon([(S * .84, S * .5), (S * .96, S * .38), (S * .96, S * .66)], fill=(230, 235, 250, 200))
+    d.rectangle([S * .82, S * .48, S * .88, S * .58], fill=(40, 120, 220, 255))                                     # twist tie
+    return _shrink(im, size)
+
+
+def pigeon_dive(size=32):
+    """A grey city pigeon diving down-right: wings swept back, the green-purple neck shine, orange eye."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    d.polygon([(S * .1, S * .1), (S * .5, S * .44), (S * .2, S * .48)], fill=(120, 125, 140, 255), outline=OUT)    # wing
+    d.ellipse([S * .3, S * .36, S * .82, S * .74], fill=(150, 155, 170, 255), outline=OUT, width=5)                # body
+    d.ellipse([S * .66, S * .6, S * .92, S * .86], fill=(110, 115, 130, 255), outline=OUT, width=5)                # head
+    d.arc([S * .6, S * .5, S * .86, S * .76], 90, 200, fill=(90, 170, 130, 255), width=6)                          # neck shine
+    d.ellipse([S * .76, S * .68, S * .82, S * .74], fill=(250, 140, 30, 255))
+    d.polygon([(S * .88, S * .78), (S * .98, S * .9), (S * .84, S * .86)], fill=(60, 60, 66, 255))                  # beak
+    d.polygon([(S * .3, S * .5), (S * .06, S * .62), (S * .3, S * .62)], fill=(100, 105, 120, 255), outline=OUT)   # tail
+    return _shrink(im, size)
+
+
+def brick_wall(size=64, rows=3, tipped=0):
+    """A red brick wall built up 1-3 courses from the bottom, grey mortar; tipped = degrees it's falling over."""
+    im, d, S = _big(size)
+    OUT = (60, 20, 15, 255)
+    for r in range(rows):
+        y1 = .96 - r * .2
+        y0 = y1 - .2
+        off = 0 if r % 2 == 0 else .12
+        x = .04 - off
+        while x < .96:
+            a, b = max(x, .04), min(x + .24, .96)
+            if b - a > .04:
+                d.rectangle([S * a, S * y0, S * b, S * y1], fill=(180, 60, 40, 255), outline=(150, 150, 150, 255), width=6)
+                d.line([(S * (a + .02), S * (y0 + .04)), (S * (b - .03), S * (y0 + .04))], fill=(220, 110, 80, 255), width=3)
+            x += .24
+    d.rectangle([S * .04, S * (.96 - rows * .2), S * .96, S * .96], outline=OUT, width=5)
+    if tipped:
+        im = im.rotate(-tipped, center=(S * .5, S * .96), resample=Image.BICUBIC)
+    return _shrink(im, size)
+
+
+def tap_shoe(size=64):
+    """A black patent tap-dance shoe with a ribbon bow and the silver tap plates on the toe and heel."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    d.polygon([(S * .08, S * .36), (S * .36, S * .36), (S * .6, S * .5), (S * .9, S * .54), (S * .94, S * .68), (S * .08, S * .68)],
+              fill=(25, 25, 30, 255))
+    d.line([(S * .08, S * .36), (S * .36, S * .36), (S * .6, S * .5), (S * .9, S * .54), (S * .94, S * .68), (S * .08, S * .68), (S * .08, S * .36)], fill=OUT, width=6)
+    d.line([(S * .14, S * .42), (S * .34, S * .42)], fill=(140, 140, 160, 255), width=4)                            # shine
+    d.ellipse([S * .46, S * .36, S * .58, S * .48], fill=(220, 30, 40, 255), outline=OUT, width=3)                 # bow
+    d.rectangle([S * .58, S * .68, S * .94, S * .76], fill=(210, 215, 225, 255), outline=OUT, width=4)             # toe tap
+    d.rectangle([S * .08, S * .68, S * .26, S * .8], fill=(210, 215, 225, 255), outline=OUT, width=4)              # heel tap
+    return _shrink(im, size)
+
+
+def nail_gun(size=64):
+    """A yellow and black pneumatic nail gun pointing right: the long magazine of nails underneath, the air hose."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 5, 255)
+    d.rounded_rectangle([S * .2, S * .24, S * .86, S * .46], 10, fill=(250, 200, 30, 255), outline=OUT, width=6)
+    d.rectangle([S * .82, S * .3, S * .96, S * .58], fill=(60, 60, 66, 255), outline=OUT, width=5)                 # nose
+    d.polygon([(S * .3, S * .46), (S * .44, S * .46), (S * .38, S * .82), (S * .24, S * .82)], fill=(40, 40, 46, 255), outline=OUT)   # grip
+    d.line([(S * .3, S * .46), (S * .44, S * .46), (S * .38, S * .82), (S * .24, S * .82), (S * .3, S * .46)], fill=OUT, width=5)
+    d.rectangle([S * .48, S * .46, S * .9, S * .58], fill=(170, 175, 185, 255), outline=OUT, width=4)             # magazine
+    for k in range(6):
+        d.line([(S * (.52 + k * .06), S * .48), (S * (.52 + k * .06), S * .56)], fill=(90, 90, 100, 255), width=3)
+    d.line([(S * .26, S * .82), (S * .1, S * .96)], fill=(220, 40, 40, 255), width=6)                              # hose
+    return _shrink(im, size)
+
+
+def nail_streak(n=16):
+    """A flying nail (alpha only): a thin shaft with a flat head at the back."""
+    return _alpha(n, n, lambda x, y: 1 if (2 <= x <= 14 and 7 <= y <= 8) or (x in (2, 3) and 5 <= y <= 10) else 0)
+
+
+def staple_gun(size=64):
+    """A big chrome-and-black office staple gun (the heavy-duty kind) pointing right."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.polygon([(S * .1, S * .5), (S * .86, S * .5), (S * .9, S * .66), (S * .1, S * .66)], fill=(200, 205, 215, 255), outline=OUT)   # base
+    d.line([(S * .1, S * .5), (S * .86, S * .5), (S * .9, S * .66), (S * .1, S * .66), (S * .1, S * .5)], fill=OUT, width=6)
+    d.polygon([(S * .14, S * .5), (S * .3, S * .22), (S * .84, S * .3), (S * .84, S * .48)], fill=(40, 40, 46, 255), outline=OUT)   # handle
+    d.line([(S * .14, S * .5), (S * .3, S * .22), (S * .84, S * .3), (S * .84, S * .48)], fill=OUT, width=6)
+    d.line([(S * .34, S * .3), (S * .78, S * .36)], fill=(120, 120, 130, 255), width=4)
+    d.rectangle([S * .84, S * .56, S * .92, S * .66], fill=(230, 60, 40, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def staple_bit(n=16):
+    """A flying staple (alpha only): a little squared-off U."""
+    return _alpha(n, n, lambda x, y: 1 if ((x in (4, 5, 11, 12) and 5 <= y <= 11) or (4 <= x <= 12 and y in (5, 6))) else 0)
+
+
+def stuck_staple(size=32):
+    """A big silver staple stuck in something (shown on the foe)."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 50, 255)
+    d.line([(S * .2, S * .7), (S * .2, S * .34), (S * .8, S * .34), (S * .8, S * .7)], fill=OUT, width=int(S * .14))
+    d.line([(S * .2, S * .7), (S * .2, S * .34), (S * .8, S * .34), (S * .8, S * .7)], fill=(220, 225, 235, 255), width=int(S * .08))
+    return _shrink(im, size)
+
+
+# ---- set 24, batch 4: Petty, Bad Trip, Wildin Out, Bite Style, Bounced Out ------------------------------------------
+
+def grey_hoodie(size=64):
+    """A grey pullover hoodie, hood up, drawstrings, the front pocket."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    G = (150, 150, 158, 255)
+    _outline_poly(d, [(S * .3, S * .2), (S * .7, S * .2), (S * .96, S * .5), (S * .84, S * .6), (S * .76, S * .5), (S * .76, S * .94),
+                      (S * .24, S * .94), (S * .24, S * .5), (S * .16, S * .6), (S * .04, S * .5)], G, OUT, 7)
+    d.ellipse([S * .32, S * .04, S * .68, S * .36], fill=(130, 130, 138, 255), outline=OUT, width=6)                # hood
+    d.ellipse([S * .4, S * .12, S * .6, S * .3], fill=(60, 60, 66, 255))
+    for x in (.44, .56):
+        d.line([(S * x, S * .34), (S * x, S * .52)], fill=(240, 240, 240, 255), width=4)                            # strings
+    d.rounded_rectangle([S * .34, S * .66, S * .66, S * .84], 6, outline=OUT, width=4)                               # pocket
+    return _shrink(im, size)
+
+
+def cuban_link(size=32):
+    """A thick gold Cuban-link chain, a loop."""
+    im, d, S = _big(size)
+    OUT = (110, 70, 0, 255)
+    import math
+    for k in range(14):
+        a = k * 2 * math.pi / 14
+        cx, cy = S * (.5 + .36 * math.cos(a)), S * (.46 + .3 * math.sin(a))
+        d.ellipse([cx - S * .1, cy - S * .07, cx + S * .1, cy + S * .07], fill=(250, 200, 50, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def cheap_lighter(size=32):
+    """A neon green 99-cent lighter."""
+    im, d, S = _big(size)
+    OUT = (10, 40, 10, 255)
+    d.rounded_rectangle([S * .34, S * .3, S * .66, S * .94], 6, fill=(90, 230, 70, 255), outline=OUT, width=5)
+    d.rectangle([S * .36, S * .14, S * .64, S * .3], fill=(190, 195, 205, 255), outline=OUT, width=4)
+    d.ellipse([S * .46, S * .16, S * .58, S * .28], fill=(90, 90, 96, 255))
+    d.line([(S * .42, S * .4), (S * .42, S * .84)], fill=(200, 255, 190, 255), width=4)
+    return _shrink(im, size)
+
+
+def dream_cloud(size=64, what="cash"):
+    """A dream thought-bubble (with the little trailing bubbles at the bottom-left) holding a picture: cash (a stack
+    of bills), bills (a pile of envelopes stamped red) or rent (a front door with a RENT DUE notice, shown at 1:1)."""
+    import math
+    im, d, S = _big(size)
+    OUT = (60, 50, 90, 255)
+    for k in range(9):
+        a = k * 2 * math.pi / 9
+        cx, cy = S * (.54 + .3 * math.cos(a)), S * (.42 + .24 * math.sin(a))
+        d.ellipse([cx - S * .16, cy - S * .16, cx + S * .16, cy + S * .16], fill=(245, 240, 255, 255), outline=OUT, width=6)
+    d.ellipse([S * .26, S * .16, S * .82, S * .68], fill=(245, 240, 255, 255))
+    for x, y, r in ((.14, .82, .06), (.06, .94, .04)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(245, 240, 255, 255), outline=OUT, width=4)
+    if what == "cash":
+        for k in range(4):
+            d.rectangle([S * .38, S * (.5 - k * .06), S * .72, S * (.56 - k * .06)], fill=(90, 190, 90, 255), outline=(20, 80, 20, 255), width=3)
+        d.ellipse([S * .5, S * .26, S * .6, S * .34], fill=(250, 200, 40, 255), outline=(120, 80, 0, 255), width=3)
+    elif what == "bills":
+        for k, (x, y) in enumerate(((.36, .48), (.5, .42), (.42, .32), (.56, .28))):
+            d.rectangle([S * x, S * y, S * (x + .2), S * (y + .13)], fill=(250, 250, 245, 255), outline=(80, 70, 60, 255), width=3)
+            d.rectangle([S * (x + .12), S * (y + .02), S * (x + .18), S * (y + .06)], fill=(220, 40, 40, 255))
+    else:
+        d.rectangle([S * .42, S * .2, S * .66, S * .62], fill=(150, 90, 50, 255), outline=(60, 30, 10, 255), width=4)   # door
+        d.ellipse([S * .6, S * .4, S * .64, S * .44], fill=(240, 190, 50, 255))
+        d.rectangle([S * .3, S * .3, S * .78, S * .5], fill=(255, 250, 240, 255), outline=(200, 30, 30, 255), width=4)  # notice
+    im = _shrink(im, size)
+    if what == "rent":
+        _texted(im, [("RENT", (34, 20)), ("DUE", (34, 27))], (220, 30, 30, 255), (255, 250, 240, 255))
+    return im
+
+
+def prize_wheel(size=64, turn=0):
+    """A game-show prize wheel: coloured wedges, one black wedge with a white ?, gold rim pegs; turn = how far it's
+    rotated (degrees), so a few frames make it spin. The red pointer at the top doesn't turn."""
+    import math
+    im, d, S = _big(size)
+    OUT = (20, 15, 10, 255)
+    cols = [(230, 40, 40), (250, 200, 40), (40, 120, 230), (60, 190, 80), (230, 120, 30), (160, 60, 200), (30, 30, 34), (250, 250, 250)]
+    wheel = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    w = ImageDraw.Draw(wheel)
+    for k, c in enumerate(cols):
+        w.pieslice([S * .08, S * .12, S * .92, S * .96], k * 45, (k + 1) * 45, fill=c + (255,), outline=OUT, width=4)
+    q = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    _big_text(q, "?", (int(S * .7), int(S * .66)), (255, 255, 255, 255), scale=6)
+    wheel.alpha_composite(q)
+    wheel = wheel.rotate(turn, center=(S * .5, S * .54), resample=Image.BICUBIC)
+    im.alpha_composite(wheel)
+    d.ellipse([S * .08, S * .12, S * .92, S * .96], outline=(220, 170, 40, 255), width=int(S * .05))
+    for k in range(16):
+        a = k * math.pi / 8
+        x, y = S * (.5 + .42 * math.cos(a)), S * (.54 + .42 * math.sin(a))
+        d.ellipse([x - 4, y - 4, x + 4, y + 4], fill=(255, 240, 160, 255))
+    d.ellipse([S * .44, S * .48, S * .56, S * .6], fill=(220, 170, 40, 255), outline=OUT, width=4)
+    d.polygon([(S * .42, S * .02), (S * .58, S * .02), (S * .5, S * .2)], fill=(220, 30, 30, 255), outline=OUT)      # pointer
+    return _shrink(im, size)
+
+
+def club_rope(size=64):
+    """A nightclub velvet rope between two brass stanchions."""
+    im, d, S = _big(size)
+    OUT = (60, 40, 0, 255)
+    for x in (.12, .82):
+        d.rectangle([S * x, S * .3, S * (x + .06), S * .9], fill=(230, 180, 50, 255), outline=OUT, width=5)
+        d.ellipse([S * (x - .02), S * .22, S * (x + .08), S * .32], fill=(250, 210, 80, 255), outline=OUT, width=4)
+        d.ellipse([S * (x - .06), S * .86, S * (x + .12), S * .96], fill=(230, 180, 50, 255), outline=OUT, width=4)
+    d.arc([S * .15, S * .1, S * .85, S * .6], 20, 160, fill=(120, 0, 20, 255), width=int(S * .09))
+    d.arc([S * .15, S * .1, S * .85, S * .6], 20, 160, fill=(200, 20, 50, 255), width=int(S * .06))
+    return _shrink(im, size)
+
+
+def list_clipboard(size=64):
+    """The bouncer's clipboard: THE LIST at the top, names, and lots crossed out (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 10, 255)
+    d.rounded_rectangle([S * .16, S * .06, S * .84, S * .96], 8, fill=(40, 40, 46, 255), outline=OUT, width=6)
+    d.rectangle([S * .22, S * .14, S * .78, S * .9], fill=(250, 250, 245, 255))
+    d.rounded_rectangle([S * .38, S * .02, S * .62, S * .12], 4, fill=(190, 190, 200, 255), outline=OUT, width=4)
+    for k in range(5):
+        y = .44 + k * .09
+        d.line([(S * .28, S * y), (S * .72, S * y)], fill=(80, 80, 90, 255), width=4)
+        if k % 2 == 0:
+            d.line([(S * .26, S * (y - .02)), (S * .74, S * (y + .01))], fill=(220, 30, 30, 255), width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("THE", (32, 11)), ("LIST", (32, 18))], (20, 20, 25, 255), (250, 250, 245, 255))
+
+
+# ---- set 24, batch 5: Snap Out, Lint Trap, Bait Switch, The Wobble, Claw Machine --------------------------------------
+
+def gym_sock(size=64):
+    """A crusty white tube sock with red and blue stripes, a yellowed toe, green stink lines rising off it."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 50, 255)
+    d.line([(S * .5, S * .14), (S * .5, S * .62), (S * .7, S * .82)], fill=OUT, width=int(S * .26))
+    d.line([(S * .5, S * .14), (S * .5, S * .62), (S * .7, S * .82)], fill=(245, 245, 235, 255), width=int(S * .2))
+    for y, c in ((.2, (220, 40, 40)), (.28, (40, 80, 200))):
+        d.line([(S * .41, S * y), (S * .59, S * y)], fill=c + (255,), width=6)
+    d.ellipse([S * .58, S * .7, S * .84, S * .92], fill=(220, 210, 130, 255), outline=OUT, width=5)               # yellowed toe
+    for x in (.24, .78):
+        d.arc([S * (x - .08), S * .06, S * (x + .08), S * .5], 100, 260, fill=(120, 200, 60, 255), width=5)         # stink
+    return _shrink(im, size)
+
+
+def clothes_dryer(size=64, open_door=False):
+    """A white front-load dryer: control panel with a dial, the round porthole door (clothes tumbling inside) - or the
+    door swung open."""
+    im, d, S = _big(size)
+    OUT = (40, 45, 55, 255)
+    d.rounded_rectangle([S * .1, S * .06, S * .9, S * .96], 8, fill=(240, 242, 246, 255), outline=OUT, width=7)
+    d.rectangle([S * .1, S * .06, S * .9, S * .22], fill=(200, 205, 215, 255), outline=OUT, width=5)
+    d.ellipse([S * .66, S * .09, S * .8, S * .2], fill=(90, 90, 100, 255), outline=OUT, width=3)                 # dial
+    for x in (.2, .28, .36):
+        d.ellipse([S * x, S * .12, S * (x + .05), S * .17], fill=(80, 200, 120, 255))
+    d.ellipse([S * .24, S * .32, S * .76, S * .84], fill=(170, 175, 185, 255), outline=OUT, width=7)
+    if open_door:
+        d.ellipse([S * .3, S * .38, S * .7, S * .78], fill=(60, 60, 70, 255))
+        d.ellipse([S * .74, S * .34, S * .98, S * .82], fill=(170, 200, 230, 200), outline=OUT, width=6)          # door swung
+    else:
+        d.ellipse([S * .3, S * .38, S * .7, S * .78], fill=(150, 190, 225, 255))
+        d.ellipse([S * .36, S * .5, S * .5, S * .62], fill=(220, 60, 60, 255))                                     # clothes inside
+        d.ellipse([S * .48, S * .44, S * .62, S * .58], fill=(60, 120, 220, 255))
+    return _shrink(im, size)
+
+
+def lint_screen(size=64):
+    """The dryer's lint trap pulled out: a white plastic frame, mesh, caked with a thick grey felt of lint."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 70, 255)
+    d.rounded_rectangle([S * .2, S * .06, S * .8, S * .94], 10, fill=(240, 240, 245, 255), outline=OUT, width=6)
+    d.rectangle([S * .27, S * .14, S * .73, S * .86], fill=(170, 165, 170, 255))
+    import random
+    r = random.Random(3)
+    for _ in range(40):
+        x, y = r.uniform(.28, .72), r.uniform(.15, .85)
+        d.ellipse([S * (x - .04), S * (y - .03), S * (x + .04), S * (y + .03)], fill=(200, 195, 200, 255))
+    d.rectangle([S * .4, S * .02, S * .6, S * .08], fill=(240, 240, 245, 255), outline=OUT, width=4)            # pull tab
+    return _shrink(im, size)
+
+
+def lint_blanket(size=64):
+    """A giant fuzzy wad of grey lint (with a stray blue thread and a hair)."""
+    import math, random
+    im, d, S = _big(size)
+    r = random.Random(5)
+    for _ in range(26):
+        a, rr = r.uniform(0, 2 * math.pi), r.uniform(0, .26)
+        x, y = .5 + rr * math.cos(a), .52 + rr * .8 * math.sin(a)
+        s = r.uniform(.1, .18)
+        d.ellipse([S * (x - s), S * (y - s * .8), S * (x + s), S * (y + s * .8)], fill=(175 + r.randint(-15, 15),) * 3 + (255,))
+    d.line([(S * .2, S * .4), (S * .44, S * .5), (S * .7, S * .36)], fill=(60, 100, 220, 255), width=4)
+    d.arc([S * .4, S * .5, S * .8, S * .8], 200, 330, fill=(60, 40, 30, 255), width=3)
+    return _shrink(im, size)
+
+
+def solo_cup(size=32):
+    """A red party cup turned upside down (the shell game cup)."""
+    im, d, S = _big(size)
+    OUT = (80, 0, 10, 255)
+    d.polygon([(S * .28, S * .1), (S * .72, S * .1), (S * .86, S * .9), (S * .14, S * .9)], fill=(220, 30, 40, 255))
+    d.line([(S * .28, S * .1), (S * .72, S * .1), (S * .86, S * .9), (S * .14, S * .9), (S * .28, S * .1)], fill=OUT, width=6)
+    d.rectangle([S * .14, S * .8, S * .86, S * .9], fill=(250, 250, 250, 255), outline=OUT, width=4)
+    for y in (.3, .48):
+        d.line([(S * .24, S * y), (S * .76, S * y)], fill=(180, 20, 30, 255), width=3)
+    return _shrink(im, size)
+
+
+def cardboard_table(size=64):
+    """A cardboard box flipped over as a street table."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 20, 255)
+    d.polygon([(S * .04, S * .42), (S * .96, S * .42), (S * .9, S * .56), (S * .1, S * .56)], fill=(215, 170, 110, 255), outline=OUT)
+    d.line([(S * .04, S * .42), (S * .96, S * .42), (S * .9, S * .56), (S * .1, S * .56), (S * .04, S * .42)], fill=OUT, width=6)
+    d.rectangle([S * .1, S * .56, S * .9, S * .9], fill=(190, 145, 90, 255), outline=OUT, width=6)
+    d.line([(S * .5, S * .56), (S * .5, S * .9)], fill=(160, 120, 70, 255), width=4)
+    d.rectangle([S * .44, S * .62, S * .56, S * .7], fill=(230, 200, 150, 255))                                     # tape
+    return _shrink(im, size)
+
+
+def gold_watch(size=32):
+    """A big gold wristwatch (the foe's item, under one of the cups)."""
+    im, d, S = _big(size)
+    OUT = (110, 70, 0, 255)
+    d.rectangle([S * .38, S * .04, S * .62, S * .96], fill=(240, 190, 50, 255), outline=OUT, width=4)
+    d.ellipse([S * .2, S * .26, S * .8, S * .74], fill=(250, 210, 70, 255), outline=OUT, width=6)
+    d.ellipse([S * .3, S * .36, S * .7, S * .64], fill=(250, 250, 240, 255))
+    d.line([(S * .5, S * .5), (S * .5, S * .4)], fill=OUT, width=3)
+    d.line([(S * .5, S * .5), (S * .6, S * .52)], fill=OUT, width=3)
+    return _shrink(im, size)
+
+
+def dance_note(size=32):
+    """A pink pair of beamed eighth notes with a white outline."""
+    im, d, S = _big(size)
+    OUT = (255, 255, 255, 255)
+    C = (250, 80, 170, 255)
+    for x in (.22, .62):
+        d.ellipse([S * x, S * .64, S * (x + .2), S * .82], fill=C, outline=OUT, width=5)
+        d.line([(S * (x + .18), S * .72), (S * (x + .18), S * .2)], fill=OUT, width=10)
+        d.line([(S * (x + .18), S * .72), (S * (x + .18), S * .2)], fill=C, width=5)
+    d.polygon([(S * .38, S * .14), (S * .82, S * .06), (S * .82, S * .18), (S * .38, S * .26)], fill=C, outline=OUT)
+    return _shrink(im, size)
+
+
+def claw_grabber(size=64, shut=False):
+    """An arcade claw machine claw hanging from its cable: a chrome hub and three prongs, open wide or clamped shut."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    CH = (210, 215, 225, 255)
+    d.line([(S * .5, 0), (S * .5, S * .3)], fill=(60, 60, 66, 255), width=6)                                        # cable
+    d.rounded_rectangle([S * .38, S * .28, S * .62, S * .44], 6, fill=CH, outline=OUT, width=5)
+    prongs = ((.3, .2, .44), (.5, .5, .5), (.7, .8, .56)) if not shut else ((.42, .44, .46), (.5, .5, .5), (.58, .56, .54))
+    for x0, x1, x2 in prongs:
+        tip_y = .86 if not shut else .78
+        d.line([(S * x0 + (S * .08 if x0 < .5 else -S * .08 if x0 > .5 else 0), S * .42), (S * x1, S * .64), (S * x2, S * tip_y)], fill=OUT, width=10)
+        d.line([(S * x0 + (S * .08 if x0 < .5 else -S * .08 if x0 > .5 else 0), S * .42), (S * x1, S * .64), (S * x2, S * tip_y)], fill=CH, width=6)
+    return _shrink(im, size)
+
+
+# ---- set 24, batch 6: Hat Trick, Reverse Card, Rise n Grind, Sinkhole -------------------------------------------------
+
+def fitted_cap(size=64, color=(220, 40, 40, 255), emblem="fire"):
+    """A fitted baseball cap from the side, flat brim pointing right, the sticker still on the brim; the front panel
+    has an emblem: fire (flame), ice (snowflake) or zap (lightning bolt)."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 15, 255)
+    d.chord([S * .14, S * .2, S * .74, S * .84], 180, 360, fill=color, outline=OUT, width=7)
+    d.rectangle([S * .14, S * .5, S * .74, S * .58], fill=color)
+    d.line([(S * .14, S * .52), (S * .74, S * .52)], fill=OUT, width=5)
+    d.polygon([(S * .66, S * .5), (S * .98, S * .52), (S * .98, S * .6), (S * .66, S * .6)], fill=color, outline=OUT)   # flat brim
+    d.line([(S * .66, S * .5), (S * .98, S * .52), (S * .98, S * .6), (S * .66, S * .6)], fill=OUT, width=5)
+    d.ellipse([S * .84, S * .52, S * .92, S * .58], fill=(220, 200, 60, 255))                                          # sticker
+    d.ellipse([S * .4, S * .18, S * .48, S * .24], fill=color, outline=OUT, width=3)                                    # button
+    c = (255, 255, 255, 255)
+    if emblem == "fire":
+        d.polygon([(S * .44, S * .3), (S * .36, S * .46), (S * .44, S * .44), (S * .52, S * .46)], fill=(255, 210, 40, 255), outline=OUT)
+    elif emblem == "ice":
+        for a, b in (((.44, .28), (.44, .48)), ((.35, .33), (.53, .43)), ((.35, .43), (.53, .33))):
+            d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=c, width=5)
+    else:
+        d.polygon([(S * .46, S * .26), (S * .38, S * .38), (S * .45, S * .38), (S * .4, S * .5), (S * .52, S * .34), (S * .45, S * .34)], fill=(40, 40, 46, 255))
+    return _shrink(im, size)
+
+
+def game_card(size=64, label="+2", color=(220, 40, 40, 255)):
+    """A card from THAT card game: coloured face, a white oval, a big label (+2, +4) or the two reverse arrows
+    (label="rev") (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .2, S * .06, S * .8, S * .94], 12, fill=(250, 250, 250, 255), outline=OUT, width=6)
+    d.rounded_rectangle([S * .25, S * .11, S * .75, S * .89], 8, fill=color)
+    d.ellipse([S * .26, S * .26, S * .74, S * .74], fill=(250, 250, 250, 255))
+    if label == "rev":
+        for sgn in (1, -1):
+            cx, cy = S * .5 + sgn * S * .06, S * .5 - sgn * S * .06
+            d.line([(cx - sgn * S * .1, cy + sgn * S * .1), (cx + sgn * S * .08, cy - sgn * S * .08)], fill=color, width=int(S * .07))
+            tip = (cx + sgn * S * .12, cy - sgn * S * .12)
+            d.polygon([tip, (tip[0] - sgn * S * .12, tip[1]), (tip[0], tip[1] + sgn * S * .12)], fill=color)
+    im = _shrink(im, size)
+    if label != "rev":
+        _big_text(im, label, (32, 32), color, scale=2, font=SMALL)
+    return im
+
+
+def bedside_clock(size=64, t="6:00", ringing=False):
+    """A black bedside alarm clock with a big red digital time (shown at 1:1); ringing adds little shake lines."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.polygon([(S * .1, S * .3), (S * .9, S * .3), (S * .96, S * .82), (S * .04, S * .82)], fill=(35, 35, 40, 255))
+    d.line([(S * .1, S * .3), (S * .9, S * .3), (S * .96, S * .82), (S * .04, S * .82), (S * .1, S * .3)], fill=OUT, width=6)
+    d.rectangle([S * .14, S * .38, S * .86, S * .72], fill=(15, 5, 5, 255))
+    d.rounded_rectangle([S * .3, S * .2, S * .7, S * .3], 6, fill=(120, 120, 130, 255), outline=OUT, width=4)          # snooze bar
+    if ringing:
+        for x0, sgn in ((.02, -1), (.98, 1)):
+            for k in range(2):
+                d.line([(S * (x0 - sgn * .02), S * (.36 + k * .14)), (S * (x0 + sgn * .0), S * (.42 + k * .14))], fill=(255, 220, 60, 255), width=5)
+    im = _shrink(im, size)
+    _big_text(im, t, (32, 35), (255, 40, 30, 255), scale=2)
+    return im
+
+
+def coffee_mug(size=32):
+    """A white coffee mug, steam curling up."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 20, 255)
+    d.rounded_rectangle([S * .2, S * .42, S * .68, S * .94], 8, fill=(250, 250, 245, 255), outline=OUT, width=6)
+    d.ellipse([S * .58, S * .52, S * .86, S * .8], outline=OUT, width=7)
+    d.ellipse([S * .22, S * .4, S * .66, S * .5], fill=(110, 60, 30, 255), outline=OUT, width=4)
+    for x in (.32, .5):
+        d.arc([S * (x - .06), S * .06, S * (x + .06), S * .36], 90, 270, fill=(220, 220, 230, 255), width=5)
+    return _shrink(im, size)
+
+
+def sunrise(size=64):
+    """A big rising sun: orange-yellow half disc with rays fanning up."""
+    import math
+    im, d, S = _big(size)
+    for k in range(9):
+        a = math.pi + k * math.pi / 8
+        d.polygon([(S * .5, S * .8), (S * (.5 + .5 * math.cos(a - .1)), S * (.8 + .5 * math.sin(a - .1))),
+                   (S * (.5 + .5 * math.cos(a + .1)), S * (.8 + .5 * math.sin(a + .1)))], fill=(255, 210, 80, 180))
+    d.pieslice([S * .18, S * .48, S * .82, S * 1.12], 180, 360, fill=(255, 170, 40, 255))
+    d.pieslice([S * .26, S * .56, S * .74, S * 1.04], 180, 360, fill=(255, 220, 90, 255))
+    return _shrink(im, size)
+
+
+def road_crack(size=64, big=False):
+    """A jagged crack splitting the asphalt (seen flat on the ground) - bigger and wider with big=True."""
+    im, d, S = _big(size)
+    w = .1 if big else .05
+    pts = [(.06, .5), (.22, .44), (.34, .56), (.5, .46), (.64, .58), (.8, .48), (.94, .54)]
+    d.polygon([(S * .02, S * .38), (S * .98, S * .38), (S * .98, S * .66), (S * .02, S * .66)], fill=(70, 70, 76, 200))
+    up = [(S * x, S * (y - w)) for x, y in pts]
+    dn = [(S * x, S * (y + w)) for x, y in reversed(pts)]
+    d.polygon(up + dn, fill=(15, 12, 10, 255))
+    for x, y in pts[1:-1:2]:
+        d.line([(S * x, S * y), (S * (x + .06), S * (y - .16))], fill=(15, 12, 10, 255), width=5)
+    return _shrink(im, size)
+
+
+def sinkhole(size=64):
+    """A sinkhole opening in the street: a deep black pit with a ragged ring of broken asphalt chunks round the rim."""
+    import math
+    im, d, S = _big(size)
+    d.ellipse([S * .04, S * .3, S * .96, S * .78], fill=(70, 70, 76, 255))
+    d.ellipse([S * .12, S * .36, S * .88, S * .72], fill=(5, 5, 8, 255))
+    d.ellipse([S * .2, S * .36, S * .8, S * .56], fill=(60, 40, 30, 255))
+    for k in range(10):
+        a = k * 2 * math.pi / 10
+        x, y = S * (.5 + .44 * math.cos(a)), S * (.54 + .22 * math.sin(a))
+        d.polygon([(x - 10, y), (x, y - 8), (x + 12, y - 2), (x + 4, y + 8)], fill=(110, 110, 118, 255), outline=(30, 30, 34, 255))
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 1 (INSANE): Burn It Down, Hydrant Bomb, Gun Garden, Meteor Drop, Blow Up -----------------------
+
+def barrel_grill(size=64):
+    """A cookout barrel grill on legs: black drum cut in half, lid propped open, charcoal glowing, a spatula hanging."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    for a, b in (((.2, .62), (.12, .96)), ((.8, .62), (.88, .96))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(50, 50, 56, 255), width=7)
+    d.chord([S * .06, S * .32, S * .94, S * .78], 0, 180, fill=(40, 40, 46, 255), outline=OUT, width=7)
+    d.chord([S * .06, S * .02, S * .94, S * .48], 180, 360, fill=(55, 55, 62, 255), outline=OUT, width=7)     # lid up
+    d.line([(S * .1, S * .55), (S * .9, S * .55)], fill=(160, 160, 170, 255), width=5)                         # grate
+    for x in (.2, .34, .48, .62, .76):
+        d.ellipse([S * x, S * .52, S * (x + .1), S * .6], fill=(255, 120, 30, 255))                             # coals
+    d.line([(S * .9, S * .4), (S * .98, S * .7)], fill=(170, 170, 180, 255), width=5)                         # spatula
+    return _shrink(im, size)
+
+
+def lighter_fluid(size=32):
+    """A can of charcoal lighter fluid: a squeeze bottle, red cap and a flame logo."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 0, 255)
+    d.rounded_rectangle([S * .26, S * .26, S * .74, S * .96], 8, fill=(250, 210, 40, 255), outline=OUT, width=6)
+    d.polygon([(S * .4, S * .26), (S * .46, S * .04), (S * .54, S * .04), (S * .6, S * .26)], fill=(220, 40, 30, 255), outline=OUT)
+    d.polygon([(S * .5, S * .44), (S * .38, S * .74), (S * .62, S * .74)], fill=(230, 60, 20, 255))
+    d.polygon([(S * .5, S * .56), (S * .44, S * .74), (S * .56, S * .74)], fill=(255, 220, 60, 255))
+    return _shrink(im, size)
+
+
+def fireball_cloud(size=64):
+    """A mushroom-shaped fireball: a churning orange-red cap of flame on a smoky stalk."""
+    import math
+    im, d, S = _big(size)
+    d.rectangle([S * .4, S * .5, S * .6, S * .96], fill=(90, 80, 80, 255))
+    d.ellipse([S * .26, S * .82, S * .74, S * .98], fill=(110, 100, 100, 255))
+    for k in range(10):
+        a = math.pi + k * math.pi / 9
+        cx, cy = S * (.5 + .34 * math.cos(a)), S * (.42 + .26 * math.sin(a))
+        d.ellipse([cx - S * .14, cy - S * .14, cx + S * .14, cy + S * .14], fill=(230, 70, 20, 255))
+    d.ellipse([S * .14, S * .2, S * .86, S * .6], fill=(250, 120, 30, 255))
+    d.ellipse([S * .26, S * .26, S * .74, S * .52], fill=(255, 200, 60, 255))
+    d.ellipse([S * .38, S * .32, S * .62, S * .46], fill=(255, 250, 200, 255))
+    return _shrink(im, size)
+
+
+def red_hydrant(size=64, capless=False):
+    """A big red fire hydrant: the bonnet, side nozzle caps, the chains - or with the top blown off (a dark hole)."""
+    im, d, S = _big(size)
+    OUT = (60, 0, 0, 255)
+    R, RL = (220, 30, 30, 255), (255, 110, 100, 255)
+    d.rectangle([S * .3, S * .86, S * .7, S * .96], fill=(180, 20, 20, 255), outline=OUT, width=6)
+    d.rounded_rectangle([S * .32, S * .36, S * .68, S * .88], 8, fill=R, outline=OUT, width=7)
+    d.rectangle([S * .2, S * .5, S * .32, S * .64], fill=R, outline=OUT, width=5)
+    d.rectangle([S * .68, S * .5, S * .8, S * .64], fill=R, outline=OUT, width=5)
+    d.line([(S * .38, S * .42), (S * .38, S * .82)], fill=RL, width=6)
+    d.rectangle([S * .28, S * .3, S * .72, S * .38], fill=(200, 25, 25, 255), outline=OUT, width=5)
+    if capless:
+        d.ellipse([S * .34, S * .24, S * .66, S * .36], fill=(20, 10, 10, 255), outline=OUT, width=5)
+    else:
+        d.chord([S * .34, S * .14, S * .66, S * .44], 180, 360, fill=R, outline=OUT, width=6)
+        d.rectangle([S * .46, S * .08, S * .54, S * .16], fill=(200, 25, 25, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def pipe_wrench(size=32):
+    """A heavy red pipe wrench."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 15, 255)
+    d.line([(S * .2, S * .9), (S * .62, S * .32)], fill=OUT, width=int(S * .16))
+    d.line([(S * .2, S * .9), (S * .62, S * .32)], fill=(200, 40, 40, 255), width=int(S * .1))
+    d.polygon([(S * .5, S * .26), (S * .76, S * .06), (S * .9, S * .2), (S * .66, S * .42)], fill=(170, 175, 185, 255), outline=OUT)
+    d.line([(S * .5, S * .26), (S * .76, S * .06), (S * .9, S * .2), (S * .66, S * .42), (S * .5, S * .26)], fill=OUT, width=5)
+    return _shrink(im, size)
+
+
+def water_jet(n=16):
+    """A blob of rushing water (alpha only): a fat rounded streak."""
+    return _alpha(n, n, lambda x, y: max(0, 1 - ((x - 7.5) / 7) ** 2 - ((y - 7.5) / 4) ** 2))
+
+
+def flower_bed(size=64, stage=0):
+    """A little flower bed of dirt with a white picket edge; stage 0 = just dirt with bullets planted, 1 = sprouts,
+    2 = taller stems with leaves."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 10, 255)
+    d.rectangle([S * .04, S * .7, S * .96, S * .92], fill=(110, 70, 35, 255), outline=OUT, width=6)
+    for k in range(9):
+        x = .06 + k * .1
+        d.polygon([(S * x, S * .7), (S * (x + .03), S * .62), (S * (x + .06), S * .7)], fill=(250, 250, 250, 255), outline=OUT)
+    for x in (.22, .5, .78):
+        if stage == 0:
+            d.rectangle([S * (x - .03), S * .64, S * (x + .03), S * .72], fill=(230, 180, 60, 255), outline=OUT, width=3)
+        else:
+            h = .5 if stage == 1 else .3
+            d.line([(S * x, S * .72), (S * x, S * h)], fill=(60, 160, 60, 255), width=6)
+            d.ellipse([S * (x - .1), S * (h + .06), S * x, S * (h + .14)], fill=(80, 190, 80, 255), outline=OUT, width=3)
+            if stage == 2:
+                d.ellipse([S * x, S * (h + .14), S * (x + .1), S * (h + .22)], fill=(80, 190, 80, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def watering_can(size=32):
+    """A green watering can, spout to the right."""
+    im, d, S = _big(size)
+    OUT = (10, 40, 10, 255)
+    d.rounded_rectangle([S * .14, S * .4, S * .62, S * .9], 8, fill=(60, 170, 80, 255), outline=OUT, width=6)
+    d.line([(S * .6, S * .78), (S * .94, S * .4)], fill=OUT, width=int(S * .12))
+    d.line([(S * .6, S * .78), (S * .94, S * .4)], fill=(60, 170, 80, 255), width=int(S * .07))
+    d.arc([S * .16, S * .14, S * .56, S * .56], 180, 360, fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def gun_flower(size=64):
+    """A tall flower on a green stem with leaves - but the bloom is a black pistol pointing right, petals round the grip."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.line([(S * .4, S * .98), (S * .4, S * .44)], fill=(60, 160, 60, 255), width=8)
+    for y, sgn in ((.78, -1), (.62, 1)):
+        d.ellipse([S * (.4 + (0 if sgn > 0 else -.18)), S * y, S * (.4 + (.18 if sgn > 0 else 0)), S * (y + .08)], fill=(80, 190, 80, 255), outline=OUT, width=3)
+    for k in range(6):
+        import math
+        a = k * math.pi / 3
+        cx, cy = S * (.4 + .12 * math.cos(a)), S * (.36 + .12 * math.sin(a))
+        d.ellipse([cx - S * .07, cy - S * .07, cx + S * .07, cy + S * .07], fill=(250, 120, 180, 255), outline=OUT, width=3)
+    d.rectangle([S * .34, S * .26, S * .86, S * .36], fill=(40, 40, 46, 255), outline=OUT, width=5)                 # slide
+    d.polygon([(S * .34, S * .36), (S * .48, S * .36), (S * .44, S * .52), (S * .32, S * .52)], fill=(40, 40, 46, 255), outline=OUT)
+    d.ellipse([S * .34, S * .3, S * .46, S * .42], fill=(255, 220, 60, 255))
+    return _shrink(im, size)
+
+
+def meteor_rock(size=64):
+    """A flaming meteor coming down from the top-right: a cratered grey-brown rock, flames streaming behind it."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 15, 255)
+    for k, (c, w) in enumerate((((255, 90, 20), .24), ((255, 170, 40), .16), ((255, 240, 140), .08))):
+        d.polygon([(S * .5, S * (.5 - w)), (S * .98, S * .02), (S * (.5 + w), S * .5)], fill=c + (255,))
+    d.ellipse([S * .2, S * .42, S * .62, S * .84], fill=(120, 100, 85, 255), outline=OUT, width=7)
+    for x, y, r in ((.34, .56, .06), (.48, .7, .05), (.3, .72, .04)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(80, 65, 55, 255))
+    d.arc([S * .24, S * .46, S * .58, S * .8], 200, 280, fill=(255, 150, 60, 255), width=5)
+    return _shrink(im, size)
+
+
+def notif_phone(size=64, count="1"):
+    """A phone lit up with notifications: a red badge with the count (1 / 12 / 99+) in the corner and message bars
+    on the screen (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .24, S * .06, S * .76, S * .96], 14, fill=(30, 30, 36, 255), outline=OUT, width=7)
+    d.rectangle([S * .29, S * .14, S * .71, S * .86], fill=(60, 120, 220, 255))
+    n = {"1": 1, "12": 3, "99+": 5}[count]
+    for k in range(n):
+        d.rounded_rectangle([S * .32, S * (.34 + k * .1), S * .68, S * (.42 + k * .1)], 5, fill=(250, 250, 255, 255))
+    bw = {"1": .16, "12": .22, "99+": .32}[count]
+    d.ellipse([S * (.82 - bw), S * .02, S * .9, S * .2], fill=(230, 30, 30, 255), outline=(255, 255, 255, 255), width=5)
+    im = _shrink(im, size)
+    _texted(im, [(count, (round(64 * (.86 - bw / 2)), 3))], (255, 255, 255, 255), (230, 30, 30, 255))
+    return im
+
+
+def notif_bell(size=32):
+    """A little yellow notification bell with a red dot."""
+    im, d, S = _big(size)
+    OUT = (80, 50, 0, 255)
+    d.chord([S * .2, S * .14, S * .8, S * .9], 180, 360, fill=(255, 210, 40, 255), outline=OUT, width=6)
+    d.rectangle([S * .2, S * .52, S * .8, S * .72], fill=(255, 210, 40, 255), outline=OUT, width=6)
+    d.ellipse([S * .42, S * .7, S * .58, S * .86], fill=(255, 210, 40, 255), outline=OUT, width=4)
+    d.ellipse([S * .62, S * .08, S * .86, S * .32], fill=(230, 30, 30, 255), outline=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 2: Spoon Bend, Pinched, Lights Out, Palm Reader, Jackhammer ---------------------------------------
+
+def bent_spoon(size=64, bent=False):
+    """A shiny steel spoon standing up - or bent over in the middle."""
+    im, d, S = _big(size)
+    OUT = (40, 45, 60, 255)
+    M, ML = (200, 205, 220, 255), (250, 252, 255, 255)
+    if not bent:
+        d.ellipse([S * .38, S * .06, S * .62, S * .38], fill=M, outline=OUT, width=6)
+        d.line([(S * .5, S * .36), (S * .5, S * .94)], fill=OUT, width=int(S * .1))
+        d.line([(S * .5, S * .36), (S * .5, S * .94)], fill=M, width=int(S * .06))
+        d.line([(S * .45, S * .12), (S * .45, S * .28)], fill=ML, width=4)
+    else:
+        d.line([(S * .5, S * .94), (S * .5, S * .52), (S * .72, S * .36)], fill=OUT, width=int(S * .1))
+        d.line([(S * .5, S * .94), (S * .5, S * .52), (S * .72, S * .36)], fill=M, width=int(S * .06))
+        d.ellipse([S * .66, S * .18, S * .94, S * .42], fill=M, outline=OUT, width=6)
+    return _shrink(im, size)
+
+
+def bent_fork(size=64, bent=False):
+    """A steel fork standing up - or bent over."""
+    im, d, S = _big(size)
+    OUT = (40, 45, 60, 255)
+    M = (200, 205, 220, 255)
+    pts = [(S * .5, S * .94), (S * .5, S * .4)] if not bent else [(S * .5, S * .94), (S * .5, S * .56), (S * .72, S * .42)]
+    d.line(pts, fill=OUT, width=int(S * .1))
+    d.line(pts, fill=M, width=int(S * .06))
+    hx, hy = pts[-1]
+    for k in range(4):
+        if not bent:
+            x = hx + (k - 1.5) * S * .05
+            d.line([(x, hy), (x, hy - S * .3)], fill=OUT, width=7)
+            d.line([(x, hy), (x, hy - S * .3)], fill=M, width=3)
+        else:
+            y = hy + (k - 1.5) * S * .05
+            d.line([(hx, y), (hx + S * .24, y - S * .1)], fill=OUT, width=7)
+            d.line([(hx, y), (hx + S * .24, y - S * .1)], fill=M, width=3)
+    return _shrink(im, size)
+
+
+def stop_post(size=64, bent=False):
+    """A STOP sign on its pole (shown at 1:1) - or the pole bent right over, the sign hanging upside-down-ish
+    (bent version has no readable text)."""
+    import math
+    im, d, S = _big(size)
+    OUT = (20, 20, 24, 255)
+    if not bent:
+        d.rectangle([S * .47, S * .4, S * .53, S * .98], fill=(160, 165, 175, 255), outline=OUT, width=3)
+        cx, cy, r = S * .5, S * .26, S * .24
+    else:
+        d.line([(S * .5, S * .98), (S * .5, S * .62), (S * .7, S * .5)], fill=OUT, width=int(S * .08))
+        d.line([(S * .5, S * .98), (S * .5, S * .62), (S * .7, S * .5)], fill=(160, 165, 175, 255), width=int(S * .05))
+        cx, cy, r = S * .78, S * .66, S * .2
+    pts = [(cx + r * math.cos(math.pi / 8 + k * math.pi / 4), cy + r * math.sin(math.pi / 8 + k * math.pi / 4)) for k in range(8)]
+    _outline_poly(d, pts, (210, 30, 30, 255), (250, 250, 250, 255), 6)
+    im = _shrink(im, size)
+    if not bent:
+        _texted(im, [("STOP", (32, 14))], (255, 255, 255, 255), (210, 30, 30, 255))
+    return im
+
+
+def clothespin(size=64):
+    """A wooden clothespin, jaws to the left, the steel spring in the middle."""
+    im, d, S = _big(size)
+    OUT = (70, 40, 10, 255)
+    W = (225, 185, 120, 255)
+    d.polygon([(S * .06, S * .4), (S * .94, S * .3), (S * .94, S * .44), (S * .12, S * .5)], fill=W, outline=OUT)
+    d.polygon([(S * .06, S * .6), (S * .94, S * .7), (S * .94, S * .56), (S * .12, S * .5)], fill=(210, 170, 105, 255), outline=OUT)
+    d.line([(S * .06, S * .4), (S * .94, S * .3), (S * .94, S * .44), (S * .12, S * .5), (S * .06, S * .4)], fill=OUT, width=5)
+    d.line([(S * .06, S * .6), (S * .94, S * .7), (S * .94, S * .56), (S * .12, S * .5), (S * .06, S * .6)], fill=OUT, width=5)
+    d.ellipse([S * .5, S * .4, S * .66, S * .6], outline=(170, 175, 185, 255), width=6)
+    return _shrink(im, size)
+
+
+def floor_lamp(size=64, on=True):
+    """A floor lamp with a drum shade, glowing - or off."""
+    im, d, S = _big(size)
+    OUT = (30, 25, 20, 255)
+    if on:
+        d.polygon([(S * .3, S * .36), (S * .7, S * .36), (S * .9, S * .7), (S * .1, S * .7)], fill=(255, 240, 160, 110))
+    d.polygon([(S * .32, S * .08), (S * .68, S * .08), (S * .76, S * .36), (S * .24, S * .36)],
+              fill=(255, 230, 140, 255) if on else (170, 150, 110, 255), outline=OUT)
+    d.line([(S * .32, S * .08), (S * .68, S * .08), (S * .76, S * .36), (S * .24, S * .36), (S * .32, S * .08)], fill=OUT, width=5)
+    d.line([(S * .5, S * .36), (S * .5, S * .92)], fill=(90, 80, 70, 255), width=6)
+    d.ellipse([S * .34, S * .88, S * .66, S * .98], fill=(90, 80, 70, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def breaker_box(size=64, off=False):
+    """An open circuit breaker panel: grey box, two rows of switches and the big main lever - up (on) or down (off)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 24, 255)
+    d.rectangle([S * .14, S * .06, S * .86, S * .94], fill=(170, 175, 185, 255), outline=OUT, width=7)
+    d.rectangle([S * .22, S * .14, S * .78, S * .86], fill=(60, 62, 70, 255))
+    for r in range(4):
+        for c in range(2):
+            x, y = .3 + c * .26, .4 + r * .12
+            d.rectangle([S * x, S * y, S * (x + .16), S * (y + .08)], fill=(30, 30, 34, 255), outline=(120, 120, 130, 255), width=3)
+            d.rectangle([S * (x + (.02 if off else .1)), S * (y + .02), S * (x + (.06 if off else .14)), S * (y + .06)], fill=(240, 240, 245, 255))
+    d.rectangle([S * .4, S * .16, S * .6, S * .34], fill=(30, 30, 34, 255), outline=(200, 40, 40, 255), width=4)
+    d.rectangle([S * .44, S * (.26 if off else .18), S * .56, S * (.32 if off else .24)], fill=(220, 40, 40, 255))
+    return _shrink(im, size)
+
+
+def psychic_sign(size=64):
+    """A neon storefront sign: a pink hand-with-eye outline and PSYCHIC in glowing purple tubes (shown at 1:1)."""
+    im, d, S = _big(size)
+    d.rounded_rectangle([S * .04, S * .14, S * .96, S * .86], 10, fill=(25, 15, 40, 255), outline=(90, 60, 120, 255), width=6)
+    d.ellipse([S * .38, S * .2, S * .62, S * .44], outline=(255, 90, 200, 255), width=6)
+    d.ellipse([S * .46, S * .28, S * .54, S * .36], fill=(255, 90, 200, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("PSYCHIC", (32, 33))], (230, 170, 255, 255), (120, 40, 170, 255))
+
+
+def seer_ball(size=64, vision=0):
+    """A crystal ball on a gold stand; vision 0 = swirling purple mist, 1 = thicker mist, 2 = a red target (the foe
+    locked in)."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 60, 255)
+    d.polygon([(S * .3, S * .78), (S * .7, S * .78), (S * .78, S * .94), (S * .22, S * .94)], fill=(220, 170, 50, 255), outline=OUT)
+    d.ellipse([S * .18, S * .14, S * .82, S * .8], fill=(170, 140, 240, 220), outline=OUT, width=7)
+    if vision < 2:
+        for k in range(2 + vision * 2):
+            d.arc([S * (.28 + k * .04), S * (.26 + k * .05), S * (.72 - k * .03), S * (.68 - k * .04)], k * 70, k * 70 + 180,
+                  fill=(255, 255, 255, 200), width=6)
+    else:
+        for r, c in ((.22, (230, 30, 30)), (.14, (255, 255, 255)), (.07, (230, 30, 30))):
+            d.ellipse([S * (.5 - r), S * (.47 - r), S * (.5 + r), S * (.47 + r)], fill=c + (255,))
+    d.arc([S * .26, S * .2, S * .5, S * .44], 200, 260, fill=(255, 255, 255, 255), width=6)
+    return _shrink(im, size)
+
+
+def jackhammer(size=64):
+    """A pneumatic jackhammer: T handles, the yellow body, the steel chisel bit at the bottom."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 5, 255)
+    d.rectangle([S * .14, S * .06, S * .86, S * .16], fill=(40, 40, 46, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .34, S * .14, S * .66, S * .62], 10, fill=(250, 200, 30, 255), outline=OUT, width=7)
+    d.rectangle([S * .4, S * .24, S * .6, S * .32], fill=(40, 40, 46, 255))
+    d.rectangle([S * .44, S * .62, S * .56, S * .9], fill=(180, 185, 195, 255), outline=OUT, width=5)
+    d.polygon([(S * .44, S * .9), (S * .56, S * .9), (S * .5, S * .98)], fill=(180, 185, 195, 255), outline=OUT)
+    d.line([(S * .66, S * .3), (S * .9, S * .4)], fill=(40, 40, 46, 255), width=6)                                  # air hose
+    return _shrink(im, size)
+
+
+def apt_window(size=64, lit=False):
+    """An apartment window at dawn: dark panes - or the light snapped on (yellow), blinds half up."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 30, 255)
+    d.rectangle([S * .1, S * .08, S * .9, S * .92], fill=(170, 90, 70, 255), outline=OUT, width=7)                 # brick
+    glass = (255, 230, 120, 255) if lit else (40, 50, 80, 255)
+    d.rectangle([S * .22, S * .2, S * .78, S * .78], fill=glass, outline=(240, 240, 240, 255), width=7)
+    d.line([(S * .5, S * .2), (S * .5, S * .78)], fill=(240, 240, 240, 255), width=6)
+    d.rectangle([S * .24, S * .22, S * .76, S * .38], fill=(230, 225, 210, 255))                                  # blinds
+    for y in (.26, .3, .34):
+        d.line([(S * .24, S * y), (S * .76, S * y)], fill=(190, 185, 170, 255), width=2)
+    d.rectangle([S * .18, S * .78, S * .82, S * .84], fill=(200, 200, 205, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 3: 360 Deal, Eat Good, Waterworks, Bone Toss, Shmoney ---------------------------------------------
+
+def record_contract(size=64, signed=0):
+    """A record deal contract: CONTRACT across the top, fine print, and the SIGN HERE line with a red X; signed 1 =
+    a scribbled signature on it, 2 = signature + initials scribbled down the side (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 50, 255)
+    d.polygon([(S * .14, S * .04), (S * .76, S * .04), (S * .9, S * .18), (S * .9, S * .96), (S * .14, S * .96)], fill=(250, 250, 245, 255), outline=OUT)
+    d.line([(S * .14, S * .04), (S * .76, S * .04), (S * .9, S * .18), (S * .9, S * .96), (S * .14, S * .96), (S * .14, S * .04)], fill=OUT, width=5)
+    for k in range(6):
+        d.line([(S * .22, S * (.32 + k * .07)), (S * .82, S * (.32 + k * .07))], fill=(170, 170, 180, 255), width=3)
+    d.line([(S * .3, S * .86), (S * .8, S * .86)], fill=OUT, width=4)
+    d.line([(S * .2, S * .8), (S * .26, S * .88)], fill=(220, 30, 30, 255), width=5)
+    d.line([(S * .26, S * .8), (S * .2, S * .88)], fill=(220, 30, 30, 255), width=5)
+    if signed:
+        d.line([(S * .34, S * .84), (S * .42, S * .76), (S * .48, S * .84), (S * .56, S * .74), (S * .64, S * .84), (S * .76, S * .78)], fill=(40, 60, 200, 255), width=5)
+    if signed > 1:
+        for y in (.36, .5, .64):
+            d.line([(S * .78, S * y), (S * .84, S * (y - .04)), (S * .86, S * (y + .02))], fill=(40, 60, 200, 255), width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("CONTRACT", (33, 8))], (20, 20, 25, 255), (250, 250, 245, 255))
+
+
+def fancy_pen(size=32):
+    """A shiny black fountain pen, nib down-left."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.line([(S * .2, S * .8), (S * .86, S * .14)], fill=OUT, width=int(S * .16))
+    d.line([(S * .2, S * .8), (S * .86, S * .14)], fill=(40, 40, 46, 255), width=int(S * .1))
+    d.line([(S * .44, S * .56), (S * .5, S * .5)], fill=(230, 190, 60, 255), width=int(S * .12))
+    d.polygon([(S * .2, S * .8), (S * .06, S * .94), (S * .14, S * .74)], fill=(230, 190, 60, 255))
+    return _shrink(im, size)
+
+
+def grandma_plate(size=64, full=False):
+    """A paper plate from grandma's kitchen: a scoop of mac and cheese, greens, a piece of fried chicken - or piled
+    into a mountain that's falling off the sides."""
+    im, d, S = _big(size)
+    OUT = (60, 40, 20, 255)
+    d.ellipse([S * .04, S * .6, S * .96, S * .92], fill=(250, 250, 245, 255), outline=OUT, width=6)
+    if not full:
+        d.ellipse([S * .14, S * .56, S * .42, S * .76], fill=(250, 200, 60, 255), outline=OUT, width=4)          # mac
+        d.ellipse([S * .44, S * .58, S * .66, S * .76], fill=(60, 120, 50, 255), outline=OUT, width=4)          # greens
+        d.ellipse([S * .62, S * .5, S * .88, S * .74], fill=(190, 120, 50, 255), outline=OUT, width=4)          # chicken
+    else:
+        d.polygon([(S * .08, S * .76), (S * .3, S * .24), (S * .5, S * .08), (S * .7, S * .22), (S * .92, S * .76)], fill=(250, 200, 60, 255), outline=OUT)
+        for x, y, c in ((.3, .5, (60, 120, 50)), (.6, .36, (190, 120, 50)), (.5, .6, (60, 120, 50)), (.72, .58, (190, 120, 50)), (.42, .3, (230, 230, 220))):
+            d.ellipse([S * (x - .1), S * (y - .07), S * (x + .1), S * (y + .07)], fill=c + (255,), outline=OUT, width=4)
+        d.ellipse([S * .86, S * .8, S * .96, S * .9], fill=(250, 200, 60, 255), outline=OUT, width=3)            # spillover
+    return _shrink(im, size)
+
+
+def cook_pot(size=64):
+    """A big dented aluminum cooking pot with steam rising, a ladle sticking out."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    d.rectangle([S * .14, S * .38, S * .86, S * .9], fill=(190, 195, 205, 255), outline=OUT, width=7)
+    d.ellipse([S * .1, S * .3, S * .9, S * .46], fill=(140, 145, 155, 255), outline=OUT, width=6)
+    d.ellipse([S * .16, S * .32, S * .84, S * .44], fill=(250, 200, 60, 255))
+    for x in (.04, .86):
+        d.rectangle([S * x, S * .46, S * (x + .1), S * .52], fill=(60, 60, 66, 255), outline=OUT, width=3)
+    d.line([(S * .6, S * .38), (S * .82, S * .04)], fill=(170, 175, 185, 255), width=7)                              # ladle
+    for x in (.3, .44):
+        d.arc([S * (x - .06), S * .04, S * (x + .06), S * .3], 90, 270, fill=(230, 230, 240, 255), width=5)
+    d.line([(S * .22, S * .5), (S * .22, S * .82)], fill=(240, 240, 250, 255), width=5)
+    return _shrink(im, size)
+
+
+def dog_bone(size=64):
+    """A big white cartoon dog bone."""
+    im, d, S = _big(size)
+    OUT = (90, 80, 60, 255)
+    W = (250, 245, 230, 255)
+    d.rectangle([S * .22, S * .42, S * .78, S * .58], fill=W)
+    for x in (.12, .88):
+        for y in (.38, .62):
+            d.ellipse([S * (x - .1), S * (y - .1), S * (x + .1), S * (y + .1)], fill=W, outline=OUT, width=6)
+    d.line([(S * .22, S * .42), (S * .78, S * .42)], fill=OUT, width=6)
+    d.line([(S * .22, S * .58), (S * .78, S * .58)], fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def band_stack(size=32):
+    """A stack of cash with a yellow money band."""
+    im, d, S = _big(size)
+    OUT = (20, 60, 20, 255)
+    for k in range(3):
+        y = .36 + k * .1
+        d.rectangle([S * .1, S * y, S * .9, S * (y + .2)], fill=(110, 190, 100, 255), outline=OUT, width=4)
+    d.rectangle([S * .42, S * .34, S * .58, S * .78], fill=(250, 210, 50, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 4: Moon Bath, Slime Down, Last Verse, Lip Gloss, Bottle Rain ---------------------------------------
+
+def big_moon(size=64):
+    """A big pale full moon with grey craters and a soft glow ring."""
+    im, d, S = _big(size)
+    d.ellipse([S * .02, S * .02, S * .98, S * .98], fill=(255, 255, 220, 70))
+    d.ellipse([S * .12, S * .12, S * .88, S * .88], fill=(250, 248, 225, 255), outline=(200, 195, 160, 255), width=6)
+    for x, y, r in ((.36, .36, .1), (.6, .56, .13), (.42, .68, .07), (.66, .3, .06)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(215, 210, 180, 255))
+    return _shrink(im, size)
+
+
+def sun_reflector(size=64):
+    """A fold-out silver tanning reflector (three panels), held open."""
+    im, d, S = _big(size)
+    OUT = (60, 65, 80, 255)
+    for x0, x1, c in ((.06, .36, (200, 210, 230)), (.36, .64, (240, 245, 255)), (.64, .94, (200, 210, 230))):
+        d.polygon([(S * x0, S * (.3 if x0 < .3 or x0 > .6 else .24)), (S * x1, S * (.24 if x1 < .7 else .3)),
+                   (S * x1, S * (.7 if x1 < .7 else .64)), (S * x0, S * (.64 if x0 < .3 or x0 > .6 else .7))], fill=c + (255,), outline=OUT)
+    for x in (.36, .64):
+        d.line([(S * x, S * .24), (S * x, S * .7)], fill=OUT, width=4)
+    d.line([(S * .44, S * .32), (S * .5, S * .5)], fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def beach_lounger(size=64):
+    """A striped folding beach lounger, reclined."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 20, 255)
+    for x, c in ((.0, (240, 80, 80)), (.12, (250, 250, 250)), (.24, (60, 140, 230)), (.36, (250, 250, 250)), (.48, (240, 80, 80))):
+        d.polygon([(S * (.08 + x), S * .62), (S * (.2 + x), S * .62), (S * (.2 + x * .3 + .5), S * (.3 + x * .1)), (S * (.08 + x * .3 + .5), S * (.3 + x * .1))], fill=c + (255,)) if False else None
+    d.polygon([(S * .06, S * .64), (S * .62, S * .64), (S * .62, S * .72), (S * .06, S * .72)], fill=(60, 140, 230, 255), outline=OUT)   # seat
+    d.polygon([(S * .62, S * .64), (S * .94, S * .22), (S * .98, S * .28), (S * .66, S * .72)], fill=(240, 80, 80, 255), outline=OUT)   # back
+    for k in range(3):
+        d.line([(S * (.16 + k * .16), S * .64), (S * (.16 + k * .16), S * .72)], fill=(250, 250, 250, 255), width=6)
+    for a, b in (((.12, .72), (.06, .92)), ((.56, .72), (.66, .92)), ((.8, .48), (.9, .92))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(170, 175, 185, 255), width=6)
+    return _shrink(im, size)
+
+
+def slime_bucket(size=64, tipped=False):
+    """A metal bucket brimming with bright green slime, dripping down the side - or tipped over, slime pouring out."""
+    im, d, S = _big(size)
+    OUT = (30, 40, 30, 255)
+    bucket = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    b = ImageDraw.Draw(bucket)
+    b.polygon([(S * .2, S * .3), (S * .8, S * .3), (S * .72, S * .92), (S * .28, S * .92)], fill=(170, 175, 185, 255), outline=OUT)
+    b.line([(S * .2, S * .3), (S * .8, S * .3), (S * .72, S * .92), (S * .28, S * .92), (S * .2, S * .3)], fill=OUT, width=6)
+    b.ellipse([S * .2, S * .22, S * .8, S * .38], fill=(120, 230, 60, 255), outline=OUT, width=5)
+    b.ellipse([S * .3, S * .3, S * .4, S * .52], fill=(120, 230, 60, 255))
+    b.arc([S * .16, S * .04, S * .84, S * .5], 200, 340, fill=OUT, width=5)                                        # handle
+    if tipped:
+        bucket = bucket.rotate(130, center=(S * .5, S * .5), resample=Image.BICUBIC)
+        b = ImageDraw.Draw(bucket)
+        b.polygon([(S * .4, S * .7), (S * .2, S * .98), (S * .7, S * .98), (S * .56, S * .7)], fill=(120, 230, 60, 255))
+    im.alpha_composite(bucket)
+    return _shrink(im, size)
+
+
+def slime_goo(size=64):
+    """A big blob of green slime dripping down over something (to cover a battler)."""
+    im, d, S = _big(size)
+    G, GL = (110, 220, 50, 230), (200, 255, 150, 255)
+    d.ellipse([S * .1, S * .04, S * .9, S * .5], fill=G)
+    for x, h in ((.16, .78), (.3, .62), (.44, .9), (.58, .7), (.72, .84), (.84, .6)):
+        d.rounded_rectangle([S * (x - .06), S * .3, S * (x + .06), S * h], 10, fill=G)
+        d.ellipse([S * (x - .07), S * (h - .06), S * (x + .07), S * (h + .06)], fill=G)
+    d.arc([S * .2, S * .1, S * .6, S * .36], 200, 300, fill=GL, width=8)
+    return _shrink(im, size)
+
+
+def stage_mic(size=64):
+    """A handheld mic held upright: a silver mesh ball head on top, a tapered black handle, a gold band."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.polygon([(S * .4, S * .42), (S * .6, S * .42), (S * .55, S * .96), (S * .45, S * .96)], fill=(40, 40, 46, 255), outline=OUT)
+    d.line([(S * .4, S * .42), (S * .6, S * .42), (S * .55, S * .96), (S * .45, S * .96), (S * .4, S * .42)], fill=OUT, width=6)
+    d.rectangle([S * .4, S * .42, S * .6, S * .5], fill=(230, 190, 60, 255), outline=OUT, width=4)
+    d.ellipse([S * .3, S * .06, S * .7, S * .46], fill=(200, 205, 215, 255), outline=OUT, width=6)
+    for k in range(4):
+        d.line([(S * (.37 + k * .09), S * .1), (S * (.37 + k * .09), S * .42)], fill=(140, 145, 155, 255), width=3)
+    d.line([(S * .3, S * .26), (S * .7, S * .26)], fill=(140, 145, 155, 255), width=3)
+    d.arc([S * .36, S * .12, S * .56, S * .3], 200, 280, fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def lip_gloss(size=32):
+    """A tube of pink lip gloss with the wand pulled out."""
+    im, d, S = _big(size)
+    OUT = (80, 20, 50, 255)
+    d.rounded_rectangle([S * .14, S * .46, S * .44, S * .96], 8, fill=(255, 140, 200, 255), outline=OUT, width=5)
+    d.rectangle([S * .14, S * .46, S * .44, S * .58], fill=(240, 240, 245, 255), outline=OUT, width=4)
+    d.line([(S * .5, S * .5), (S * .82, S * .12)], fill=OUT, width=7)
+    d.ellipse([S * .72, S * .04, S * .9, S * .22], fill=(255, 100, 180, 255), outline=OUT, width=4)
+    d.line([(S * .2, S * .62), (S * .2, S * .86)], fill=(255, 220, 240, 255), width=4)
+    return _shrink(im, size)
+
+
+def glossy_lips(size=64):
+    """Big glossy pink lips with white shine spots - so shiny they sparkle."""
+    im, d, S = _big(size)
+    OUT = (110, 0, 50, 255)
+    R = (250, 80, 160, 255)
+    d.pieslice([S * .08, S * .24, S * .52, S * .64], 180, 360, fill=R)
+    d.pieslice([S * .48, S * .24, S * .92, S * .64], 180, 360, fill=R)
+    d.chord([S * .08, S * .3, S * .92, S * .8], 0, 180, fill=R)
+    d.polygon([(S * .08, S * .44), (S * .92, S * .44), (S * .92, S * .56), (S * .08, S * .56)], fill=R)
+    d.line([(S * .1, S * .5), (S * .3, S * .46), (S * .5, S * .52), (S * .7, S * .46), (S * .9, S * .5)], fill=OUT, width=6)
+    for x, y, r in ((.28, .36, .06), (.66, .36, .05), (.48, .66, .07), (.3, .64, .03)):
+        d.ellipse([S * (x - r), S * (y - r * .6), S * (x + r), S * (y + r * .6)], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def sleep_z16(n=16):
+    """A small Z (alpha only)."""
+    return _alpha(n, n, lambda x, y: 1 if (3 <= y <= 4 and 3 <= x <= 12) or (11 <= y <= 12 and 3 <= x <= 12) or
+                  (4 < y < 11 and abs(x - (12 - (y - 4) * 9 / 7)) < 1.3) else 0)
+
+
+def water_bottle(size=32):
+    """A plastic water bottle: clear with a blue label and cap."""
+    im, d, S = _big(size)
+    OUT = (40, 60, 90, 255)
+    d.rounded_rectangle([S * .32, S * .22, S * .68, S * .94], 10, fill=(200, 230, 250, 200), outline=OUT, width=5)
+    d.rectangle([S * .4, S * .06, S * .6, S * .2], fill=(40, 100, 220, 255), outline=OUT, width=4)
+    d.rectangle([S * .32, S * .5, S * .68, S * .7], fill=(40, 120, 230, 255))
+    d.line([(S * .4, S * .28), (S * .4, S * .46)], fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 5: Two-Piece, Jump Out, Roll Up, Waffle Iron, Bazooka -----------------------------------------------
+
+def drumstick(size=32):
+    """A crispy fried chicken drumstick."""
+    im, d, S = _big(size)
+    OUT = (90, 45, 10, 255)
+    d.line([(S * .62, S * .62), (S * .9, S * .9)], fill=(250, 245, 230, 255), width=int(S * .12))
+    d.ellipse([S * .82, S * .82, S * .98, S * .98], fill=(250, 245, 230, 255), outline=OUT, width=3)
+    d.ellipse([S * .08, S * .08, S * .7, S * .7], fill=(205, 130, 50, 255), outline=OUT, width=6)
+    for x, y in ((.24, .26), (.44, .2), (.3, .46), (.52, .4)):
+        d.ellipse([S * x, S * y, S * (x + .1), S * (y + .08)], fill=(230, 170, 80, 255))
+    return _shrink(im, size)
+
+
+def shrub(size=64, rustle=0):
+    """A round hedge bush; rustle 1/2 jiggles the leaves (a different leaf pattern)."""
+    import random
+    im, d, S = _big(size)
+    OUT = (20, 60, 20, 255)
+    d.ellipse([S * .04, S * .2, S * .96, S * .96], fill=(50, 140, 50, 255), outline=OUT, width=7)
+    r = random.Random(11 + rustle)
+    for _ in range(16):
+        x, y = r.uniform(.14, .82), r.uniform(.3, .82)
+        d.ellipse([S * x, S * y, S * (x + .12), S * (y + .09)], fill=(80, 180, 70, 255), outline=(40, 110, 40, 255), width=3)
+    return _shrink(im, size)
+
+
+def roller_skate(size=64):
+    """A white quad roller skate: high-top boot, pink wheels, a red toe stop, laces."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 30, 255)
+    d.polygon([(S * .2, S * .1), (S * .5, S * .1), (S * .52, S * .5), (S * .86, S * .56), (S * .88, S * .7), (S * .16, S * .7)],
+              fill=(250, 250, 250, 255), outline=OUT)
+    d.line([(S * .2, S * .1), (S * .5, S * .1), (S * .52, S * .5), (S * .86, S * .56), (S * .88, S * .7), (S * .16, S * .7), (S * .2, S * .1)], fill=OUT, width=6)
+    for y in (.2, .3, .4):
+        d.line([(S * .3, S * y), (S * .46, S * (y + .04))], fill=(240, 80, 150, 255), width=4)
+    d.rectangle([S * .16, S * .7, S * .88, S * .76], fill=(170, 175, 185, 255), outline=OUT, width=4)
+    for x in (.26, .74):
+        d.ellipse([S * (x - .1), S * .72, S * (x + .1), S * .92], fill=(250, 100, 170, 255), outline=OUT, width=5)
+    d.ellipse([S * .84, S * .64, S * .96, S * .76], fill=(220, 40, 40, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def waffle_iron(size=64, shut=False):
+    """A waffle iron: open (two gridded plates, hinge at the back) or clamped shut with steam slits."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 24, 255)
+    if not shut:
+        d.polygon([(S * .1, S * .66), (S * .9, S * .66), (S * .96, S * .9), (S * .04, S * .9)], fill=(60, 60, 66, 255), outline=OUT)
+        d.polygon([(S * .14, S * .68), (S * .86, S * .68), (S * .9, S * .86), (S * .1, S * .86)], fill=(140, 140, 150, 255))
+        d.polygon([(S * .1, S * .62), (S * .9, S * .62), (S * .82, S * .1), (S * .18, S * .1)], fill=(60, 60, 66, 255), outline=OUT)
+        d.polygon([(S * .16, S * .58), (S * .84, S * .58), (S * .78, S * .16), (S * .22, S * .16)], fill=(140, 140, 150, 255))
+        for k in range(1, 5):
+            d.line([(S * (.2 + k * .12), S * .18), (S * (.18 + k * .13), S * .56)], fill=(90, 90, 100, 255), width=3)
+            d.line([(S * .2, S * (.18 + k * .08)), (S * .8, S * (.18 + k * .08))], fill=(90, 90, 100, 255), width=3)
+    else:
+        d.rounded_rectangle([S * .06, S * .4, S * .94, S * .86], 14, fill=(60, 60, 66, 255), outline=OUT, width=7)
+        d.line([(S * .06, S * .62), (S * .94, S * .62)], fill=(250, 200, 80, 255), width=5)
+        d.rectangle([S * .4, S * .26, S * .6, S * .4], fill=(40, 40, 46, 255), outline=OUT, width=4)
+    d.rectangle([S * .9, S * .6, S * .99, S * .68], fill=(200, 40, 40, 255), outline=OUT, width=3)                 # light
+    return _shrink(im, size)
+
+
+def gum_bubble(size=64):
+    """A big shiny pink bubblegum bubble."""
+    im, d, S = _big(size)
+    d.ellipse([S * .06, S * .06, S * .94, S * .94], fill=(255, 140, 200, 235), outline=(200, 60, 140, 255), width=6)
+    d.ellipse([S * .2, S * .16, S * .44, S * .34], fill=(255, 230, 245, 255))
+    d.ellipse([S * .6, S * .66, S * .7, S * .74], fill=(255, 200, 230, 255))
+    return _shrink(im, size)
+
+
+def gum_splat(size=64):
+    """Popped bubblegum stuck all over something: pink stringy splat."""
+    import math
+    im, d, S = _big(size)
+    P = (255, 130, 195, 255)
+    d.ellipse([S * .26, S * .3, S * .74, S * .7], fill=P)
+    for k in range(9):
+        a = k * 2 * math.pi / 9 + .3
+        r = .4 if k % 2 else .3
+        x, y = .5 + r * math.cos(a), .5 + r * .8 * math.sin(a)
+        d.line([(S * .5, S * .5), (S * x, S * y)], fill=P, width=int(S * .07))
+        d.ellipse([S * (x - .05), S * (y - .05), S * (x + .05), S * (y + .05)], fill=P)
+    d.arc([S * .32, S * .34, S * .56, S * .5], 200, 300, fill=(255, 220, 240, 255), width=5)
+    return _shrink(im, size)
+
+
+# ---- set 25, batch 6: Thumbtacks, Copy Paste, Receipts, Max Out, Hustle ------------------------------------------------
+
+def thumbtack(size=32):
+    """A red push pin / thumbtack, point down."""
+    im, d, S = _big(size)
+    OUT = (80, 0, 0, 255)
+    d.line([(S * .5, S * .56), (S * .5, S * .96)], fill=(190, 195, 205, 255), width=int(S * .08))
+    d.rounded_rectangle([S * .26, S * .44, S * .74, S * .58], 6, fill=(220, 30, 30, 255), outline=OUT, width=4)
+    d.rectangle([S * .38, S * .2, S * .62, S * .46], fill=(220, 30, 30, 255), outline=OUT, width=4)
+    d.ellipse([S * .22, S * .04, S * .78, S * .26], fill=(240, 50, 50, 255), outline=OUT, width=4)
+    d.ellipse([S * .32, S * .08, S * .44, S * .14], fill=(255, 180, 180, 255))
+    return _shrink(im, size)
+
+
+def tack_box(size=64):
+    """A little cardboard box of thumbtacks, flap open, TACKS printed on it (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (80, 50, 20, 255)
+    d.rectangle([S * .16, S * .4, S * .84, S * .86], fill=(210, 165, 105, 255), outline=OUT, width=6)
+    d.polygon([(S * .16, S * .4), (S * .84, S * .4), (S * .74, S * .24), (S * .26, S * .24)], fill=(190, 145, 90, 255), outline=OUT)
+    for x in (.34, .48, .62):
+        d.ellipse([S * (x - .05), S * .3, S * (x + .05), S * .38], fill=(220, 30, 30, 255), outline=(80, 0, 0, 255), width=3)
+    im = _shrink(im, size)
+    return _texted(im, [("TACKS", (32, 36))], (255, 255, 255, 255), (120, 70, 20, 255))
+
+
+def photocopier(size=64):
+    """An office photocopier: grey body, the lid, a control panel with a green start button, the output tray."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 36, 255)
+    d.rectangle([S * .12, S * .3, S * .88, S * .94], fill=(210, 212, 218, 255), outline=OUT, width=7)
+    d.rectangle([S * .1, S * .2, S * .9, S * .32], fill=(180, 182, 190, 255), outline=OUT, width=6)
+    d.rectangle([S * .56, S * .38, S * .84, S * .5], fill=(90, 92, 100, 255), outline=OUT, width=4)
+    d.ellipse([S * .74, S * .4, S * .82, S * .48], fill=(60, 200, 90, 255))
+    d.rectangle([S * .02, S * .58, S * .14, S * .64], fill=(170, 172, 180, 255), outline=OUT, width=4)          # out tray
+    d.rectangle([S * .2, S * .6, S * .8, S * .86], fill=(195, 197, 205, 255), outline=(150, 150, 160, 255), width=4)
+    return _shrink(im, size)
+
+
+def copy_page(size=32, quality=0):
+    """A sheet of paper out of the copier: 0 = blank, 1 = smudged grey mess, 2 = a crisp perfect star icon."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 70, 255)
+    d.rectangle([S * .18, S * .06, S * .82, S * .94], fill=(250, 250, 250, 255), outline=OUT, width=4)
+    if quality == 1:
+        for x, y in ((.3, .3), (.5, .5), (.42, .66), (.6, .3)):
+            d.ellipse([S * x, S * y, S * (x + .2), S * (y + .14)], fill=(120, 120, 130, 160))
+    elif quality == 2:
+        import math
+        pts = []
+        for k in range(10):
+            a = -math.pi / 2 + k * math.pi / 5
+            r = .26 if k % 2 == 0 else .11
+            pts.append((S * (.5 + r * math.cos(a)), S * (.5 + r * math.sin(a))))
+        d.polygon(pts, fill=(20, 20, 24, 255))
+    return _shrink(im, size)
+
+
+def receipt_printer(size=64):
+    """A black point-of-sale receipt printer with paper feeding out the top."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.rounded_rectangle([S * .14, S * .5, S * .86, S * .94], 10, fill=(40, 40, 46, 255), outline=OUT, width=7)
+    d.rectangle([S * .3, S * .44, S * .7, S * .54], fill=(25, 25, 28, 255), outline=OUT, width=4)
+    d.rectangle([S * .34, S * .1, S * .66, S * .5], fill=(250, 250, 245, 255), outline=(150, 150, 150, 255), width=3)
+    for y in (.18, .26, .34, .42):
+        d.line([(S * .38, S * y), (S * .62, S * y)], fill=(170, 170, 170, 255), width=3)
+    d.ellipse([S * .74, S * .58, S * .8, S * .64], fill=(60, 200, 90, 255))
+    return _shrink(im, size)
+
+
+def long_receipt(size=64):
+    """A ridiculously long receipt, curling at the bottom - CVS long."""
+    im, d, S = _big(size)
+    d.rectangle([S * .4, S * .0, S * .6, S * .86], fill=(250, 250, 245, 255), outline=(150, 150, 150, 255), width=3)
+    d.arc([S * .36, S * .76, S * .7, S * 1.0], 0, 270, fill=(250, 250, 245, 255), width=int(S * .06))
+    for k in range(18):
+        y = .04 + k * .045
+        d.line([(S * .43, S * y), (S * (.5 + (k % 3) * .03), S * y)], fill=(160, 160, 160, 255), width=3)
+    return _shrink(im, size)
+
+
+def dumbbell(size=32):
+    """A chrome dumbbell."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 36, 255)
+    d.rectangle([S * .3, S * .44, S * .7, S * .56], fill=(200, 205, 215, 255), outline=OUT, width=4)
+    for x in (.12, .7):
+        d.rounded_rectangle([S * x, S * .28, S * (x + .18), S * .72], 4, fill=(60, 60, 66, 255), outline=OUT, width=5)
+    return _shrink(im, size)
+
+
+def oly_barbell(size=64):
+    """A loaded Olympic barbell: a long bar with big red plates on each end."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 24, 255)
+    d.rectangle([S * .02, S * .47, S * .98, S * .53], fill=(200, 205, 215, 255), outline=OUT, width=3)
+    for x in (.08, .8):
+        d.rounded_rectangle([S * x, S * .22, S * (x + .1), S * .78], 6, fill=(200, 30, 30, 255), outline=OUT, width=5)
+        d.rounded_rectangle([S * (x + (.1 if x < .5 else -.06)), S * .3, S * (x + (.16 if x < .5 else 0)), S * .7], 4, fill=(40, 40, 46, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def vending_machine(size=64):
+    """A red soda vending machine: rows of cans behind glass, the coin slot and the dispenser."""
+    im, d, S = _big(size)
+    OUT = (40, 0, 0, 255)
+    d.rectangle([S * .14, S * .04, S * .86, S * .96], fill=(210, 30, 30, 255), outline=OUT, width=7)
+    d.rectangle([S * .2, S * .1, S * .62, S * .7], fill=(150, 200, 230, 255), outline=OUT, width=5)
+    for r in range(4):
+        for c in range(3):
+            d.rectangle([S * (.24 + c * .13), S * (.14 + r * .14), S * (.32 + c * .13), S * (.24 + r * .14)],
+                        fill=((240, 240, 240), (40, 90, 220), (250, 200, 40))[(r + c) % 3] + (255,), outline=OUT, width=2)
+    d.rectangle([S * .68, S * .2, S * .8, S * .4], fill=(60, 60, 66, 255), outline=OUT, width=4)
+    d.rectangle([S * .22, S * .76, S * .6, S * .88], fill=(30, 30, 34, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def moth_wallet(size=64):
+    """A brown leather wallet flopped open - completely empty - with a little moth fluttering out."""
+    im, d, S = _big(size)
+    OUT = (50, 30, 10, 255)
+    d.rounded_rectangle([S * .06, S * .44, S * .5, S * .9], 8, fill=(140, 90, 50, 255), outline=OUT, width=6)
+    d.rounded_rectangle([S * .5, S * .44, S * .94, S * .9], 8, fill=(150, 100, 55, 255), outline=OUT, width=6)
+    d.rectangle([S * .12, S * .52, S * .44, S * .62], fill=(100, 60, 30, 255))
+    d.rectangle([S * .56, S * .52, S * .88, S * .62], fill=(100, 60, 30, 255))
+    for pts in (((.62, .3), (.48, .12), (.56, .34)), ((.62, .3), (.76, .12), (.68, .34))):
+        _outline_poly(d, [(S * x, S * y) for x, y in pts], (200, 180, 140, 255), (60, 50, 30, 255), 4)
+    d.ellipse([S * .58, S * .24, S * .66, S * .38], fill=(120, 100, 70, 255))
+    return _shrink(im, size)
+
+
+# ---- set 26, batch 1 (INSANE): Live Wire, Fire Cart, Wrecker, Headbanger, Super Soaker -------------------------------
+
+def utility_pole(size=64):
+    """A wooden utility pole with a crossbar, a grey transformer can, and one power line snapped and hanging down."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 10, 255)
+    d.rectangle([S * .44, S * .04, S * .54, S * .98], fill=(130, 90, 50, 255), outline=OUT, width=5)
+    d.rectangle([S * .14, S * .12, S * .86, S * .18], fill=(130, 90, 50, 255), outline=OUT, width=4)
+    for x in (.18, .82):
+        d.rectangle([S * (x - .02), S * .06, S * (x + .02), S * .12], fill=(200, 230, 240, 255), outline=OUT, width=2)
+    d.rounded_rectangle([S * .56, S * .24, S * .76, S * .46], 6, fill=(150, 155, 165, 255), outline=OUT, width=5)
+    d.line([(S * .82, S * .1), (S * .9, S * .4), (S * .84, S * .7), (S * .92, S * .92)], fill=(30, 30, 34, 255), width=6)   # the snapped line
+    d.line([(S * .18, S * .1), (S * .02, S * .2)], fill=(30, 30, 34, 255), width=5)
+    return _shrink(im, size)
+
+
+def wire_end(size=32):
+    """The sparking end of a snapped power line."""
+    im, d, S = _big(size)
+    d.line([(S * .1, S * .1), (S * .5, S * .5)], fill=(30, 30, 34, 255), width=int(S * .12))
+    for a, b in (((.5, .5), (.86, .3)), ((.5, .5), (.9, .62)), ((.5, .5), (.66, .9)), ((.5, .5), (.3, .82))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(255, 250, 120, 255), width=5)
+    d.ellipse([S * .4, S * .4, S * .6, S * .6], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def zig_bolt(n=16):
+    """A short zig-zag lightning bolt (alpha only)."""
+    def f(x, y):
+        xx = 8 + (3 if (y // 4) % 2 else -3) * (1 - abs((y % 4) - 2) / 2)
+        return 1 if abs(x - xx) < 1.6 and 1 < y < 15 else 0
+    return _alpha(n, n, f)
+
+
+def grocery_cart(size=64):
+    """A chrome shopping cart facing right, the red handle at the back, four casters."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 46, 255)
+    C = (200, 205, 215, 255)
+    d.polygon([(S * .12, S * .26), (S * .9, S * .3), (S * .8, S * .66), (S * .2, S * .66)], fill=(220, 225, 235, 120), outline=OUT)
+    for k in range(6):
+        x = .16 + k * .13
+        d.line([(S * x, S * .28), (S * (x + .02), S * .66)], fill=C, width=4)
+    for k in range(3):
+        y = .34 + k * .1
+        d.line([(S * .14, S * y), (S * .88, S * (y + .02))], fill=C, width=4)
+    d.line([(S * .12, S * .26), (S * .9, S * .3), (S * .8, S * .66), (S * .2, S * .66), (S * .12, S * .26)], fill=OUT, width=6)
+    d.line([(S * .12, S * .26), (S * .04, S * .14)], fill=OUT, width=7)
+    d.line([(S * .0, S * .14), (S * .1, S * .14)], fill=(220, 30, 30, 255), width=9)                                # handle
+    d.line([(S * .2, S * .66), (S * .26, S * .82), (S * .82, S * .82), (S * .8, S * .66)], fill=OUT, width=6)
+    for x in (.28, .78):
+        d.ellipse([S * (x - .06), S * .82, S * (x + .06), S * .94], fill=(30, 30, 34, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def demo_ball(size=64):
+    """A huge black wrecking ball on its chain (the chain runs up off the top)."""
+    im, d, S = _big(size)
+    OUT = (5, 5, 8, 255)
+    for k in range(5):
+        y = k * .08
+        d.ellipse([S * .46, S * y, S * .54, S * (y + .1)], outline=(110, 110, 120, 255), width=5)
+    d.rectangle([S * .44, S * .38, S * .56, S * .46], fill=(70, 70, 76, 255), outline=OUT, width=4)
+    d.ellipse([S * .14, S * .42, S * .86, S * .98], fill=(40, 40, 46, 255), outline=OUT, width=7)
+    d.arc([S * .22, S * .5, S * .6, S * .8], 200, 290, fill=(140, 140, 150, 255), width=8)
+    return _shrink(im, size)
+
+
+def amp_stack(size=64):
+    """A tall guitar amp stack: two black speaker cabinets, grille cloth, a gold logo plate, knobs on the head."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.rectangle([S * .18, S * .04, S * .82, S * .2], fill=(30, 30, 34, 255), outline=OUT, width=6)
+    for k in range(5):
+        d.ellipse([S * (.26 + k * .11), S * .1, S * (.32 + k * .11), S * .16], fill=(230, 190, 60, 255))
+    for y0 in (.2, .58):
+        d.rectangle([S * .14, S * y0, S * .86, S * (y0 + .38)], fill=(30, 30, 34, 255), outline=OUT, width=6)
+        d.rectangle([S * .2, S * (y0 + .05), S * .8, S * (y0 + .33)], fill=(70, 70, 76, 255))
+        for k in range(6):
+            d.line([(S * .2, S * (y0 + .08 + k * .045)), (S * .8, S * (y0 + .08 + k * .045))], fill=(55, 55, 60, 255), width=2)
+    d.rectangle([S * .4, S * .24, S * .6, S * .3], fill=(230, 190, 60, 255))
+    return _shrink(im, size)
+
+
+def mega_soaker(size=64, pumped=False):
+    """A giant neon water gun: green body, big orange water tank on top, the pump handle under the barrel (slid back
+    when pumped)."""
+    im, d, S = _big(size)
+    OUT = (20, 30, 10, 255)
+    d.rounded_rectangle([S * .14, S * .4, S * .84, S * .58], 10, fill=(80, 210, 70, 255), outline=OUT, width=6)
+    d.rectangle([S * .84, S * .44, S * .98, S * .54], fill=(250, 230, 40, 255), outline=OUT, width=4)             # nozzle
+    d.rounded_rectangle([S * .24, S * .12, S * .66, S * .42], 14, fill=(250, 130, 30, 220), outline=OUT, width=6)  # tank
+    d.line([(S * .3, S * .18), (S * .3, S * .36)], fill=(255, 220, 160, 255), width=5)
+    d.polygon([(S * .2, S * .58), (S * .34, S * .58), (S * .28, S * .86), (S * .14, S * .86)], fill=(80, 210, 70, 255), outline=OUT)
+    px = .5 if pumped else .64
+    d.rounded_rectangle([S * px, S * .58, S * (px + .2), S * .7], 6, fill=(250, 230, 40, 255), outline=OUT, width=5)   # pump
+    return _shrink(im, size)
+
+
+# ---- set 26, batch 2: Night Night, Dome Piece, Drill, Cold Case, Bat Rush ---------------------------------------------
+
+def music_box(size=64):
+    """A little pink music box, lid open, a tiny ballerina on top, the wind-up key on the side."""
+    im, d, S = _big(size)
+    OUT = (80, 30, 60, 255)
+    d.rectangle([S * .16, S * .56, S * .84, S * .92], fill=(250, 170, 210, 255), outline=OUT, width=6)
+    d.polygon([(S * .16, S * .56), (S * .84, S * .56), (S * .9, S * .26), (S * .22, S * .26)], fill=(255, 200, 230, 255), outline=OUT)
+    d.line([(S * .16, S * .56), (S * .84, S * .56), (S * .9, S * .26), (S * .22, S * .26), (S * .16, S * .56)], fill=OUT, width=5)
+    d.line([(S * .5, S * .56), (S * .5, S * .38)], fill=(200, 180, 200, 255), width=4)
+    d.ellipse([S * .44, S * .3, S * .56, S * .4], fill=(255, 240, 240, 255), outline=OUT, width=3)
+    d.polygon([(S * .4, S * .5), (S * .6, S * .5), (S * .5, S * .4)], fill=(255, 150, 200, 255), outline=OUT)
+    d.rectangle([S * .84, S * .68, S * .96, S * .74], fill=(230, 190, 60, 255), outline=OUT, width=3)
+    d.ellipse([S * .9, S * .62, S * .98, S * .8], outline=(230, 190, 60, 255), width=4)
+    return _shrink(im, size)
+
+
+def big_pacifier(size=64):
+    """A giant baby pacifier: blue shield, ring handle, the nipple pointing left."""
+    im, d, S = _big(size)
+    OUT = (20, 40, 90, 255)
+    d.ellipse([S * .04, S * .38, S * .34, S * .62], fill=(255, 230, 190, 230), outline=OUT, width=5)
+    d.rounded_rectangle([S * .3, S * .2, S * .52, S * .8], 18, fill=(90, 160, 240, 255), outline=OUT, width=6)
+    d.ellipse([S * .5, S * .26, S * .96, S * .74], outline=OUT, width=int(S * .1))
+    d.ellipse([S * .5, S * .26, S * .96, S * .74], outline=(250, 230, 80, 255), width=int(S * .06))
+    return _shrink(im, size)
+
+
+def football_helmet(size=64):
+    """A red football helmet facing right, white stripe, grey face mask."""
+    im, d, S = _big(size)
+    OUT = (40, 0, 0, 255)
+    d.chord([S * .06, S * .08, S * .86, S * .88], 150, 420, fill=(220, 30, 30, 255), outline=OUT, width=7)
+    d.arc([S * .16, S * .1, S * .76, S * .5], 200, 340, fill=(255, 255, 255, 255), width=8)
+    d.ellipse([S * .3, S * .44, S * .44, S * .58], fill=(30, 30, 34, 255))                                        # ear hole
+    for y in (.52, .66, .8):
+        d.line([(S * .6, S * y), (S * .96, S * y)], fill=(170, 175, 185, 255), width=6)
+    d.line([(S * .72, S * .48), (S * .72, S * .84)], fill=(170, 175, 185, 255), width=6)
+    return _shrink(im, size)
+
+
+def power_drill(size=64, big=0):
+    """A cordless power drill pointing right; big 1 = a heavier hammer drill, 2 = a giant industrial drill (yellow,
+    long auger bit)."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 5, 255)
+    body = ((40, 120, 220), (230, 60, 30), (250, 200, 30))[big]
+    bit = (.66, .78, .98)[big]
+    d.rounded_rectangle([S * .1, S * .3, S * .56, S * .5], 10, fill=body + (255,), outline=OUT, width=6)
+    d.polygon([(S * .22, S * .5), (S * .36, S * .5), (S * .32, S * .84), (S * .18, S * .84)], fill=(40, 40, 46, 255), outline=OUT)
+    d.rectangle([S * .14, S * .84, S * .38, S * .94], fill=(40, 40, 46, 255), outline=OUT, width=4)                # battery
+    d.rectangle([S * .56, S * .34, S * .64, S * .46], fill=(60, 60, 66, 255), outline=OUT, width=4)                # chuck
+    d.line([(S * .64, S * .4), (S * bit, S * .4)], fill=(190, 195, 205, 255), width=int(S * (.04 + big * .02)))
+    for k in range(int((bit - .64) / .06)):
+        x = .66 + k * .06
+        d.line([(S * x, S * .36), (S * (x + .03), S * .44)], fill=(110, 110, 120, 255), width=3)
+    return _shrink(im, size)
+
+
+def evidence_board(size=64):
+    """A detective's corkboard: pinned photos and notes connected with red string."""
+    im, d, S = _big(size)
+    OUT = (60, 35, 15, 255)
+    d.rectangle([S * .04, S * .1, S * .96, S * .9], fill=(200, 150, 90, 255), outline=OUT, width=7)
+    pins = [(.2, .24), (.7, .22), (.45, .5), (.22, .7), (.76, .7)]
+    for a, b in ((0, 2), (1, 2), (2, 3), (2, 4), (0, 1)):
+        d.line([(S * pins[a][0], S * pins[a][1]), (S * pins[b][0], S * pins[b][1])], fill=(220, 30, 30, 255), width=3)
+    for k, (x, y) in enumerate(pins):
+        d.rectangle([S * (x - .09), S * (y - .07), S * (x + .09), S * (y + .07)], fill=(250, 250, 245, 255) if k % 2 else (240, 230, 160, 255), outline=OUT, width=3)
+        d.ellipse([S * (x - .02), S * (y - .1), S * (x + .02), S * (y - .06)], fill=(220, 30, 30, 255))
+    return _shrink(im, size)
+
+
+def case_file(size=64):
+    """A manila case file with a big red COLD CASE stamp across it (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 20, 255)
+    d.rectangle([S * .1, S * .16, S * .9, S * .88], fill=(230, 200, 130, 255), outline=OUT, width=6)
+    d.rectangle([S * .1, S * .08, S * .4, S * .18], fill=(230, 200, 130, 255), outline=OUT, width=5)
+    d.rectangle([S * .14, S * .42, S * .86, S * .66], outline=(200, 30, 30, 255), width=6)
+    im = _shrink(im, size)
+    return _texted(im, [("COLD", (32, 28)), ("CASE", (32, 35))], (200, 30, 30, 255), (230, 200, 130, 255))
+
+
+def case_ice(size=64):
+    """A big clear ice block with frosted edges and shine (drawn over a frozen battler)."""
+    im, d, S = _big(size)
+    d.rounded_rectangle([S * .06, S * .06, S * .94, S * .94], 12, fill=(170, 220, 250, 120), outline=(230, 245, 255, 255), width=8)
+    d.line([(S * .2, S * .16), (S * .2, S * .5)], fill=(255, 255, 255, 220), width=8)
+    d.line([(S * .3, S * .16), (S * .3, S * .3)], fill=(255, 255, 255, 220), width=5)
+    for x, y in ((.7, .8), (.82, .66), (.6, .9)):
+        d.line([(S * (x - .04), S * y), (S * (x + .04), S * y)], fill=(255, 255, 255, 255), width=4)
+        d.line([(S * x, S * (y - .04)), (S * x, S * (y + .04))], fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def alu_bat(size=64):
+    """An aluminum softball bat, silver with a black grip, angled."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 36, 255)
+    d.line([(S * .16, S * .86), (S * .84, S * .18)], fill=OUT, width=int(S * .16))
+    d.line([(S * .16, S * .86), (S * .84, S * .18)], fill=(200, 205, 215, 255), width=int(S * .11))
+    d.line([(S * .1, S * .92), (S * .34, S * .68)], fill=(30, 30, 34, 255), width=int(S * .1))
+    d.line([(S * .4, S * .56), (S * .8, S * .18)], fill=(250, 250, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def tiny_note(n=16):
+    """A single eighth note (alpha only)."""
+    def f(x, y):
+        head = ((x - 5.5) / 3.2) ** 2 + ((y - 12) / 2.4) ** 2 < 1
+        stem = 7.6 <= x <= 8.8 and 2 <= y <= 12
+        flag = 8.8 <= x <= 12 and 2 <= y <= 4 + (x - 8.8) * .6
+        return 1 if head or stem or flag else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 26, batch 3: Speed Bag, Trash Can, Comeback, Wish List, Deep End ---------------------------------------------
+
+def speed_bag(size=64, swing=0):
+    """A boxing speed bag hanging under its round wooden platform; swing -1/0/1 tilts it mid-bounce."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    d.ellipse([S * .1, S * .04, S * .9, S * .2], fill=(150, 100, 50, 255), outline=OUT, width=6)
+    bag = Image.new("RGBA", (S, S), (0, 0, 0, 0))
+    b = ImageDraw.Draw(bag)
+    b.line([(S * .5, S * .18), (S * .5, S * .26)], fill=(60, 60, 66, 255), width=6)
+    b.ellipse([S * .32, S * .24, S * .68, S * .8], fill=(200, 30, 30, 255), outline=OUT, width=6)
+    b.arc([S * .36, S * .3, S * .56, S * .6], 200, 280, fill=(255, 140, 130, 255), width=6)
+    if swing:
+        bag = bag.rotate(-28 * swing, center=(S * .5, S * .2), resample=Image.BICUBIC)
+    im.alpha_composite(bag)
+    return _shrink(im, size)
+
+
+def red_glove(size=64):
+    """A red boxing glove punching right, white cuff."""
+    im, d, S = _big(size)
+    OUT = (60, 0, 0, 255)
+    d.rounded_rectangle([S * .06, S * .36, S * .3, S * .7], 8, fill=(250, 250, 250, 255), outline=OUT, width=6)
+    d.ellipse([S * .24, S * .2, S * .94, S * .84], fill=(220, 30, 30, 255), outline=OUT, width=7)
+    d.ellipse([S * .3, S * .56, S * .56, S * .86], fill=(200, 25, 25, 255), outline=OUT, width=6)                  # thumb
+    d.arc([S * .36, S * .26, S * .8, S * .56], 200, 300, fill=(255, 140, 130, 255), width=7)
+    return _shrink(im, size)
+
+
+def trash_bag(size=32):
+    """A black trash bag, tied at the top, bulging."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 12, 255)
+    d.ellipse([S * .12, S * .3, S * .88, S * .96], fill=(40, 40, 46, 255), outline=OUT, width=5)
+    d.polygon([(S * .4, S * .32), (S * .3, S * .06), (S * .5, S * .2), (S * .7, S * .06), (S * .6, S * .32)], fill=(40, 40, 46, 255), outline=OUT)
+    d.arc([S * .22, S * .4, S * .5, S * .7], 200, 280, fill=(110, 110, 120, 255), width=5)
+    return _shrink(im, size)
+
+
+def garbage_truck(size=64):
+    """A green garbage truck facing right, the big compactor body tipped up at the back, dripping."""
+    im, d, S = _big(size)
+    OUT = (10, 30, 10, 255)
+    d.polygon([(S * .02, S * .24), (S * .62, S * .3), (S * .62, S * .72), (S * .06, S * .72)], fill=(60, 150, 70, 255), outline=OUT)
+    d.line([(S * .02, S * .24), (S * .62, S * .3), (S * .62, S * .72), (S * .06, S * .72), (S * .02, S * .24)], fill=OUT, width=6)
+    for k in range(3):
+        d.line([(S * (.14 + k * .14), S * .3), (S * (.16 + k * .14), S * .7)], fill=(40, 110, 50, 255), width=4)
+    d.rectangle([S * .62, S * .38, S * .94, S * .72], fill=(240, 240, 240, 255), outline=OUT, width=6)          # cab
+    d.rectangle([S * .74, S * .42, S * .9, S * .54], fill=(120, 180, 230, 255), outline=OUT, width=4)
+    for x in (.18, .44, .8):
+        d.ellipse([S * (x - .08), S * .66, S * (x + .08), S * .82], fill=(25, 25, 28, 255), outline=OUT, width=4)
+    d.ellipse([S * .02, S * .7, S * .08, S * .78], fill=(140, 160, 60, 255))                                       # drip
+    return _shrink(im, size)
+
+
+def trash_pile(size=64):
+    """A heap of garbage: bags, a pizza box, a banana peel, a fish skeleton, flies."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 22, 255)
+    d.ellipse([S * .04, S * .5, S * .96, S * .98], fill=(70, 70, 76, 255), outline=OUT, width=5)
+    for x, y in ((.2, .52), (.5, .42), (.72, .56)):
+        d.ellipse([S * (x - .14), S * (y - .12), S * (x + .14), S * (y + .12)], fill=(40, 40, 46, 255), outline=OUT, width=5)
+    d.polygon([(S * .32, S * .66), (S * .58, S * .6), (S * .62, S * .72), (S * .36, S * .78)], fill=(210, 170, 110, 255), outline=OUT)   # pizza box
+    d.arc([S * .66, S * .66, S * .86, S * .86], 180, 330, fill=(250, 220, 60, 255), width=8)                      # banana peel
+    d.line([(S * .1, S * .76), (S * .28, S * .76)], fill=(230, 230, 230, 255), width=4)                            # fish bones
+    for x in (.14, .18, .22):
+        d.line([(S * x, S * .72), (S * x, S * .8)], fill=(230, 230, 230, 255), width=3)
+    return _shrink(im, size)
+
+
+def scoreboard(size=64, home="0", away="99"):
+    """A stadium scoreboard: HOME and AWAY with big amber digits (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 14, 255)
+    d.rectangle([S * .02, S * .12, S * .98, S * .8], fill=(20, 20, 26, 255), outline=(120, 120, 130, 255), width=7)
+    d.rectangle([S * .44, S * .8, S * .56, S * .96], fill=(90, 90, 96, 255), outline=OUT, width=4)
+    d.line([(S * .5, S * .18), (S * .5, S * .74)], fill=(80, 80, 90, 255), width=4)
+    im = _shrink(im, size)
+    _texted(im, [("HOME", (16, 10)), ("AWAY", (48, 10))], (255, 255, 255, 255), (20, 20, 26, 255))
+    _big_text(im, home, (16, 32), (255, 190, 40, 255), scale=2, font=SMALL)
+    _big_text(im, away, (48, 32), (255, 190, 40, 255), scale=2, font=SMALL)
+    return im
+
+
+def bday_cake(size=64, lit=True):
+    """A birthday cake: pink frosting, sprinkles, three candles - flames on (lit) or smoking out."""
+    im, d, S = _big(size)
+    OUT = (80, 40, 30, 255)
+    d.rectangle([S * .12, S * .5, S * .88, S * .9], fill=(250, 240, 220, 255), outline=OUT, width=6)
+    d.rectangle([S * .12, S * .5, S * .88, S * .62], fill=(255, 150, 200, 255), outline=OUT, width=5)
+    for x in (.2, .34, .5, .66, .8):
+        d.rectangle([S * x, S * .66, S * (x + .04), S * .7], fill=((80, 160, 250), (250, 200, 40), (120, 220, 90))[int(x * 10) % 3] + (255,))
+    for x in (.3, .5, .7):
+        d.rectangle([S * (x - .03), S * .3, S * (x + .03), S * .5], fill=(120, 190, 250, 255), outline=OUT, width=3)
+        if lit:
+            d.ellipse([S * (x - .04), S * .16, S * (x + .04), S * .3], fill=(255, 200, 40, 255))
+            d.ellipse([S * (x - .02), S * .21, S * (x + .02), S * .29], fill=(255, 250, 200, 255))
+        else:
+            d.line([(S * x, S * .28), (S * (x + .03), S * .2), (S * (x - .02), S * .12)], fill=(180, 180, 185, 255), width=4)
+    return _shrink(im, size)
+
+
+def kiddie_pool(size=64):
+    """An inflatable blue kiddie pool full of water, seen from the side-top."""
+    im, d, S = _big(size)
+    OUT = (20, 40, 90, 255)
+    d.ellipse([S * .04, S * .44, S * .96, S * .9], fill=(60, 130, 230, 255), outline=OUT, width=7)
+    d.ellipse([S * .14, S * .5, S * .86, S * .8], fill=(120, 200, 250, 255))
+    d.arc([S * .04, S * .44, S * .96, S * .9], 200, 340, fill=(160, 210, 255, 255), width=6)
+    d.arc([S * .3, S * .56, S * .6, S * .7], 200, 320, fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 26, batch 4: Pillow Fight, Bad Sushi, Blindside, Uppercut, Sandbag ---------------------------------------------
+
+def fluffy_pillow(size=64):
+    """A big white bed pillow with puffy corners and a seam."""
+    im, d, S = _big(size)
+    OUT = (110, 110, 130, 255)
+    d.rounded_rectangle([S * .06, S * .24, S * .94, S * .76], 30, fill=(250, 250, 255, 255), outline=OUT, width=6)
+    for x, y in ((.06, .24), (.94, .24), (.06, .76), (.94, .76)):
+        d.ellipse([S * (x - .06), S * (y - .06), S * (x + .06), S * (y + .06)], fill=(250, 250, 255, 255), outline=OUT, width=4)
+    d.line([(S * .2, S * .5), (S * .8, S * .5)], fill=(210, 210, 225, 255), width=4)
+    d.arc([S * .14, S * .3, S * .5, S * .48], 200, 300, fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def sushi_tray(size=64):
+    """A gas-station sushi tray: clear plastic lid, six rolls, a fake grass divider, a little wasabi - kind of grey."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 50, 255)
+    d.rounded_rectangle([S * .04, S * .36, S * .96, S * .82], 8, fill=(30, 30, 34, 255), outline=OUT, width=5)
+    for k in range(6):
+        x = .12 + (k % 3) * .2
+        y = .42 + (k // 3) * .18
+        d.ellipse([S * x, S * y, S * (x + .16), S * (y + .14)], fill=(40, 50, 40, 255), outline=OUT, width=3)
+        d.ellipse([S * (x + .03), S * (y + .03), S * (x + .13), S * (y + .11)], fill=(235, 230, 220, 255))
+        d.ellipse([S * (x + .06), S * (y + .05), S * (x + .1), S * (y + .09)], fill=(230, 120, 100, 255))
+    d.polygon([(S * .74, S * .48), (S * .9, S * .48), (S * .82, S * .76)], fill=(60, 180, 70, 255))               # plastic grass
+    d.ellipse([S * .76, S * .7, S * .88, S * .78], fill=(140, 190, 60, 255))                                       # wasabi
+    d.rounded_rectangle([S * .02, S * .26, S * .98, S * .4], 6, fill=(220, 235, 245, 150), outline=OUT, width=4)   # lid
+    return _shrink(im, size)
+
+
+def sushi_roll(size=32):
+    """One maki roll, a little off-color."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 30, 255)
+    d.ellipse([S * .1, S * .1, S * .9, S * .9], fill=(40, 50, 40, 255), outline=OUT, width=6)
+    d.ellipse([S * .22, S * .22, S * .78, S * .78], fill=(225, 225, 205, 255))
+    d.ellipse([S * .38, S * .38, S * .62, S * .62], fill=(200, 140, 110, 255))
+    return _shrink(im, size)
+
+
+def sneak_box(size=64, alert=False):
+    """A cardboard box sneaking along (someone's under it) - with a red ! over it when spotted."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 20, 255)
+    d.rectangle([S * .12, S * .4, S * .88, S * .9], fill=(205, 160, 100, 255), outline=OUT, width=6)
+    d.polygon([(S * .12, S * .4), (S * .88, S * .4), (S * .8, S * .3), (S * .2, S * .3)], fill=(185, 140, 85, 255), outline=OUT)
+    d.rectangle([S * .44, S * .4, S * .56, S * .9], fill=(230, 200, 150, 255))                                     # tape
+    d.rectangle([S * .3, S * .56, S * .44, S * .62], fill=(40, 30, 20, 255))                                       # peep slit
+    if alert:
+        d.rectangle([S * .46, S * .0, S * .56, S * .18], fill=(230, 30, 30, 255))
+        d.rectangle([S * .46, S * .21, S * .56, S * .27], fill=(230, 30, 30, 255))
+    return _shrink(im, size)
+
+
+def upper_glove(size=64):
+    """A red boxing glove punching straight up, white cuff at the bottom."""
+    im, d, S = _big(size)
+    OUT = (60, 0, 0, 255)
+    d.rounded_rectangle([S * .32, S * .7, S * .68, S * .94], 8, fill=(250, 250, 250, 255), outline=OUT, width=6)
+    d.ellipse([S * .18, S * .06, S * .82, S * .76], fill=(220, 30, 30, 255), outline=OUT, width=7)
+    d.ellipse([S * .08, S * .36, S * .38, S * .64], fill=(200, 25, 25, 255), outline=OUT, width=6)
+    d.arc([S * .26, S * .12, S * .6, S * .5], 200, 300, fill=(255, 140, 130, 255), width=7)
+    return _shrink(im, size)
+
+
+def sandbag(size=32):
+    """A tan burlap sandbag, tied."""
+    im, d, S = _big(size)
+    OUT = (90, 70, 30, 255)
+    d.rounded_rectangle([S * .06, S * .3, S * .94, S * .78], 14, fill=(215, 190, 130, 255), outline=OUT, width=5)
+    for x in (.26, .5, .74):
+        d.line([(S * x, S * .34), (S * (x + .04), S * .74)], fill=(190, 160, 100, 255), width=3)
+    d.ellipse([S * .82, S * .44, S * .96, S * .62], fill=(190, 160, 100, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+# ---- set 26, batch 5: Weed Whacker, Sledgehammer, Seed Toss, Jet Ski, Back Alley ----------------------------------------
+
+def string_trimmer(size=64):
+    """A weed whacker: orange motor at the top, long shaft, the spinning head with the line at the bottom right."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 5, 255)
+    d.line([(S * .2, S * .2), (S * .8, S * .8)], fill=(20, 15, 5, 255), width=int(S * .11))
+    d.line([(S * .2, S * .2), (S * .8, S * .8)], fill=(170, 175, 185, 255), width=int(S * .07))
+    d.rounded_rectangle([S * .06, S * .06, S * .32, S * .3], 8, fill=(250, 130, 30, 255), outline=OUT, width=6)
+    d.line([(S * .42, S * .36), (S * .5, S * .3)], fill=OUT, width=6)                                            # handle
+    d.ellipse([S * .66, S * .66, S * .96, S * .96], fill=(60, 60, 66, 255), outline=OUT, width=6)
+    for a, b in (((.82, .82), (.98, .7)), ((.82, .82), (.66, .98))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(250, 220, 60, 255), width=7)
+    return _shrink(im, size)
+
+
+def grass_clip(n=16):
+    """A grass clipping (alpha only): a short thin blade."""
+    return _alpha(n, n, lambda x, y: 1 if abs((x - 3) - (y - 3) * .8) < 1.1 and 2 < y < 14 else 0)
+
+
+
+
+def jet_ski(size=64):
+    """A red and white jet ski facing right, handlebars up, spray kicking off the back."""
+    im, d, S = _big(size)
+    OUT = (30, 10, 10, 255)
+    d.polygon([(S * .04, S * .56), (S * .8, S * .5), (S * .98, S * .62), (S * .86, S * .74), (S * .08, S * .74)], fill=(220, 30, 30, 255), outline=OUT)
+    d.line([(S * .04, S * .56), (S * .8, S * .5), (S * .98, S * .62), (S * .86, S * .74), (S * .08, S * .74), (S * .04, S * .56)], fill=OUT, width=6)
+    d.polygon([(S * .2, S * .5), (S * .56, S * .48), (S * .52, S * .56), (S * .2, S * .58)], fill=(240, 240, 245, 255), outline=OUT)  # seat
+    d.line([(S * .62, S * .5), (S * .66, S * .3)], fill=(60, 60, 66, 255), width=6)
+    d.line([(S * .58, S * .3), (S * .74, S * .28)], fill=(60, 60, 66, 255), width=7)                              # handlebars
+    d.line([(S * .1, S * .68), (S * .8, S * .66)], fill=(250, 250, 250, 255), width=4)
+    for x, y in ((.0, .7), (.06, .8), (.02, .62)):
+        d.ellipse([S * x, S * y, S * (x + .08), S * (y + .08)], fill=(200, 230, 255, 255))
+    return _shrink(im, size)
+
+
+def shoe_print(n=16):
+    """A sneaker footprint (alpha only): sole with a tread gap and the heel."""
+    def f(x, y):
+        sole = ((x - 7.5) / 3.6) ** 2 + ((y - 5.5) / 4.6) ** 2 < 1
+        heel = ((x - 7.5) / 2.8) ** 2 + ((y - 12.5) / 2.4) ** 2 < 1
+        return (.85 if y % 3 else .4) if sole else (1 if heel else 0)
+    return _alpha(n, n, f)
+
+
+def mole_hole(size=64):
+    """A dirt mound with a dark hole in the top (the whack-a-mole hole)."""
+    im, d, S = _big(size)
+    OUT = (50, 30, 10, 255)
+    d.chord([S * .06, S * .44, S * .94, S * 1.2], 180, 360, fill=(140, 95, 50, 255), outline=OUT, width=6)
+    d.ellipse([S * .3, S * .5, S * .7, S * .64], fill=(30, 20, 10, 255))
+    for x, y in ((.2, .7), (.76, .74), (.5, .78)):
+        d.ellipse([S * x, S * y, S * (x + .06), S * (y + .04)], fill=(110, 75, 40, 255))
+    return _shrink(im, size)
+
+
+def arcade_mole(size=64):
+    """A cartoon mole popping up: brown fur, pink nose, buck teeth, beady eyes."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 10, 255)
+    d.rounded_rectangle([S * .28, S * .2, S * .72, S * .9], 22, fill=(140, 90, 60, 255), outline=OUT, width=6)
+    for x in (.38, .56):
+        d.ellipse([S * x, S * .34, S * (x + .06), S * .42], fill=OUT)
+    d.ellipse([S * .44, S * .44, S * .56, S * .54], fill=(255, 140, 170, 255), outline=OUT, width=3)
+    d.rectangle([S * .46, S * .54, S * .54, S * .62], fill=(255, 255, 255, 255), outline=OUT, width=2)
+    return _shrink(im, size)
+
+
+def foam_mallet(size=64):
+    """A whack-a-mole foam mallet: a big padded red head on a yellow handle."""
+    im, d, S = _big(size)
+    OUT = (60, 10, 10, 255)
+    d.line([(S * .2, S * .9), (S * .56, S * .4)], fill=OUT, width=int(S * .1))
+    d.line([(S * .2, S * .9), (S * .56, S * .4)], fill=(250, 210, 40, 255), width=int(S * .06))
+    d.rounded_rectangle([S * .4, S * .1, S * .96, S * .44], 18, fill=(220, 40, 40, 255), outline=OUT, width=7)
+    d.line([(S * .48, S * .18), (S * .86, S * .18)], fill=(255, 130, 120, 255), width=6)
+    return _shrink(im, size)
+
+
+def chia_fuzz(size=64, stage=0):
+    """Chia sprouts growing on top of someone's head: 0 = a few green sprouts, 1 = a fuzzy layer, 2 = a full green afro."""
+    import random
+    im, d, S = _big(size)
+    r = random.Random(4 + stage)
+    if stage == 2:
+        d.ellipse([S * .06, S * .1, S * .94, S * .84], fill=(70, 160, 60, 255), outline=(30, 90, 30, 255), width=6)
+    n = (8, 30, 70)[stage]
+    top, bot = ((.62, .9), (.4, .9), (.12, .8))[stage]
+    for _ in range(n):
+        x, y = r.uniform(.14, .86), r.uniform(top, bot)
+        d.line([(S * x, S * (y + .08)), (S * (x + r.uniform(-.04, .04)), S * y)], fill=(60, 170, 60, 255), width=4)
+        d.ellipse([S * (x - .03), S * (y - .03), S * (x + .03), S * (y + .03)], fill=(140, 220, 100, 255))
+    return _shrink(im, size)
+
+
+def spray_bottle(size=32):
+    """A blue plant mister spray bottle, nozzle right."""
+    im, d, S = _big(size)
+    OUT = (20, 40, 80, 255)
+    d.rounded_rectangle([S * .2, S * .4, S * .6, S * .96], 8, fill=(120, 190, 250, 220), outline=OUT, width=5)
+    d.rectangle([S * .26, S * .26, S * .54, S * .4], fill=(250, 250, 250, 255), outline=OUT, width=4)
+    d.polygon([(S * .54, S * .26), (S * .9, S * .26), (S * .9, S * .34), (S * .54, S * .34)], fill=(250, 250, 250, 255), outline=OUT)
+    d.line([(S * .54, S * .36), (S * .68, S * .5)], fill=OUT, width=5)
+    return _shrink(im, size)
+
+
+# ---- set 26, batch 6: Finesse, Ext. Cord, Two-by-Four, Kick Back, Slow Jam ----------------------------------------------
+
+def lemme_bubble(size=64):
+    """A white speech bubble: LEMME / SEE THAT (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rounded_rectangle([S * .02, S * .22, S * .98, S * .74], 26, fill=(255, 255, 255, 255), outline=OUT, width=8)
+    d.polygon([(S * .22, S * .7), (S * .12, S * .94), (S * .4, S * .72)], fill=(255, 255, 255, 255))
+    d.line([(S * .22, S * .74), (S * .12, S * .94), (S * .4, S * .74)], fill=OUT, width=7)
+    im = _shrink(im, size)
+    return _texted(im, [("LEMME", (32, 19)), ("SEE THAT", (32, 30))], (20, 20, 25, 255), (255, 255, 255, 255))
+
+
+def fresh_snapback(size=64):
+    """A brand-new snapback: black crown, flat red brim with the gold sticker still on it, the button on top."""
+    im, d, S = _big(size)
+    OUT = (15, 10, 10, 255)
+    d.chord([S * .12, S * .14, S * .84, S * .9], 180, 360, fill=(30, 30, 40, 255), outline=OUT, width=7)
+    d.rectangle([S * .12, S * .5, S * .84, S * .6], fill=(30, 30, 40, 255), outline=OUT, width=6)
+    d.line([(S * .48, S * .16), (S * .48, S * .5)], fill=(70, 70, 85, 255), width=4)                             # panel seam
+    d.ellipse([S * .44, S * .1, S * .52, S * .18], fill=(30, 30, 40, 255), outline=OUT, width=3)                 # button
+    d.polygon([(S * .5, S * .56), (S * .98, S * .56), (S * .98, S * .68), (S * .5, S * .66)], fill=(220, 30, 40, 255), outline=OUT)
+    d.line([(S * .5, S * .56), (S * .98, S * .56), (S * .98, S * .68), (S * .5, S * .66)], fill=OUT, width=6)    # flat brim
+    d.ellipse([S * .7, S * .57, S * .82, S * .66], fill=(250, 210, 50, 255), outline=(150, 110, 0, 255), width=3)  # the sticker
+    d.arc([S * .2, S * .22, S * .56, S * .56], 200, 260, fill=(110, 110, 130, 255), width=5)                      # shine
+    return _shrink(im, size)
+
+
+def ext_cord(size=64, swung=False):
+    """The orange extension cord: coiled up with the plug hanging out - or swung out long, folded over double."""
+    im, d, S = _big(size)
+    OUT = (90, 30, 0, 255)
+    OR = (250, 130, 20, 255)
+    if not swung:
+        for k in range(4):
+            r = .3 - k * .03
+            d.ellipse([S * (.5 - r), S * (.48 - r * .9), S * (.5 + r), S * (.48 + r * .9)], outline=OUT, width=13)
+            d.ellipse([S * (.5 - r), S * (.48 - r * .9), S * (.5 + r), S * (.48 + r * .9)], outline=OR, width=8)
+        d.line([(S * .74, S * .62), (S * .82, S * .84)], fill=OUT, width=12)
+        d.line([(S * .74, S * .62), (S * .82, S * .84)], fill=OR, width=7)
+        plug = (.82, .84)
+    else:                                                                       # folded double: the loop is the business end
+        for off in (-.035, .035):
+            pts = [(S * (.08 + t * .84), S * (.5 + off + .22 * __import__("math").sin(t * 5.2))) for t in [i / 24 for i in range(25)]]
+            d.line(pts, fill=OUT, width=12, joint="curve")
+            d.line(pts, fill=OR, width=7, joint="curve")
+        d.ellipse([S * .86, S * .2, S * .98, S * .64], outline=OUT, width=12)
+        d.ellipse([S * .86, S * .2, S * .98, S * .64], outline=OR, width=7)
+        plug = (.08, .5)
+    px, py = plug
+    d.rectangle([S * (px - .06), S * (py - .02), S * (px + .06), S * (py + .1)], fill=(240, 240, 235, 255), outline=OUT, width=4)
+    for x in (-.03, .02):                                                       # the prongs
+        d.rectangle([S * (px + x), S * (py + .1), S * (px + x + .015), S * (py + .16)], fill=(200, 200, 200, 255), outline=OUT, width=2)
+    return _shrink(im, size)
+
+
+def tape_measure(size=64):
+    """A yellow tape measure, the tape pulled out long to the right with tick marks and the little hook."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 0, 255)
+    d.rectangle([S * .3, S * .56, S * .96, S * .66], fill=(255, 235, 90, 255), outline=OUT, width=4)
+    for k in range(16):                                                         # ticks
+        x = .33 + k * .04
+        d.line([(S * x, S * .56), (S * x, S * (.6 if k % 4 else .63))], fill=OUT, width=3)
+    d.rectangle([S * .94, S * .5, S * .98, S * .7], fill=(170, 170, 180, 255), outline=OUT, width=3)          # the hook
+    d.rounded_rectangle([S * .02, S * .36, S * .38, S * .76], 12, fill=(250, 200, 30, 255), outline=OUT, width=7)
+    d.ellipse([S * .1, S * .44, S * .3, S * .66], fill=(60, 60, 66, 255), outline=OUT, width=4)
+    d.rectangle([S * .14, S * .28, S * .26, S * .38], fill=(60, 60, 66, 255), outline=OUT, width=4)            # the lock button
+    return _shrink(im, size)
+
+
+def two_by_four(size=64):
+    """A 2x4: a long pale pine board on the diagonal, wood grain, a knot, and a bent nail sticking out the end."""
+    im, d, S = _big(size)
+    OUT = (90, 55, 20, 255)
+    pts = [(S * .06, S * .82), (S * .82, S * .06), (S * .96, S * .2), (S * .2, S * .96)]
+    _outline_poly(d, pts, (235, 195, 130, 255), OUT, 7)
+    d.polygon([(S * .82, S * .06), (S * .96, S * .2), (S * .9, S * .2), (S * .78, S * .1)], fill=(210, 160, 95, 255))   # end grain
+    for k in range(3):                                                          # the grain
+        o = .05 + k * .04
+        d.line([(S * (.14 + o), S * (.82 + o * .2)), (S * (.84 + o * .2), S * (.12 + o))], fill=(200, 150, 90, 255), width=3)
+    d.ellipse([S * .42, S * .5, S * .52, S * .58], fill=(160, 100, 50, 255), outline=OUT, width=3)             # knot
+    d.line([(S * .88, S * .12), (S * .98, S * .02), (S * .98, S * .1)], fill=(150, 150, 160, 255), width=5)      # bent nail
+    return _shrink(im, size)
+
+
+def wood_chip(n=16):
+    """A splinter (alpha only): a thin jagged sliver."""
+    return _alpha(n, n, lambda x, y: 1 if abs((x - 8) - (y - 8) * .35) < 1.3 - abs(y - 8) * .07 and 1 < y < 15 else 0)
+
+
+def recliner(size=64, stage=0):
+    """A brown leather recliner. 0 = upright, 1 = footrest popped out, 2 = laid all the way back."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 10, 255)
+    BR, HI = (130, 75, 40, 255), (170, 105, 60, 255)
+    back = [((.1, .08), (.44, .08), (.44, .62), (.1, .62)), ((.02, .2), (.34, .1), (.44, .62), (.1, .66)),
+            ((-.02, .5), (.06, .3), (.44, .56), (.4, .68))][stage]
+    _outline_poly(d, [(S * x, S * y) for x, y in back], BR, OUT, 7)
+    a, b_, c, e = back                                                          # tufted padding: two seams across the back
+    lerp = lambda p, q, t: (S * (p[0] + (q[0] - p[0]) * t), S * (p[1] + (q[1] - p[1]) * t))
+    for t in (.33, .66):
+        d.line([lerp(a, e, t), lerp(b_, c, t)], fill=HI, width=5)
+    d.rounded_rectangle([S * .3, S * .52, S * .72, S * .7], 10, fill=HI, outline=OUT, width=7)                  # the seat cushion
+    d.rounded_rectangle([S * .26, S * .44, S * .7, S * .54], 8, fill=BR, outline=OUT, width=6)                  # armrest
+    d.rectangle([S * .3, S * .7, S * .7, S * .86], fill=(100, 55, 30, 255), outline=OUT, width=6)               # base
+    d.line([(S * .66, S * .56), (S * .76, S * .5)], fill=(60, 60, 66, 255), width=6)                             # the lever
+    if stage:
+        foot = ((.7, .66), (.96, .58), (.98, .7), (.72, .78)) if stage == 1 else ((.7, .6), (.98, .54), (.98, .66), (.72, .72))
+        _outline_poly(d, [(S * x, S * y) for x, y in foot], HI, OUT, 6)
+    return _shrink(im, size)
+
+
+def jar_candle(size=32, lit=True):
+    """A red jar candle - flame on top when lit."""
+    im, d, S = _big(size)
+    OUT = (60, 10, 20, 255)
+    d.rounded_rectangle([S * .22, S * .44, S * .78, S * .96], 8, fill=(200, 40, 60, 255), outline=OUT, width=6)
+    d.rectangle([S * .22, S * .56, S * .78, S * .66], fill=(255, 200, 210, 255))                                # the label band
+    if lit:
+        d.ellipse([S * .36, S * .06, S * .64, S * .46], fill=(255, 170, 40, 255))
+        d.ellipse([S * .43, S * .2, S * .57, S * .44], fill=(255, 250, 200, 255))
+    d.line([(S * .5, S * .38), (S * .5, S * .46)], fill=OUT, width=4)
+    return _shrink(im, size)
+
+
+def love_note(n=16):
+    """A music note with a heart for a head (alpha only)."""
+    def f(x, y):
+        heart = ((x - 5) ** 2 + (y - 11) ** 2 < 6.5 or (x - 9) ** 2 + (y - 11) ** 2 < 6.5) and y < 13 or (y >= 12 and abs(x - 7) < 15 - y)
+        stem = 10 <= x <= 11 and 1 <= y <= 11
+        flag = 11 <= x <= 14 and 1 <= y <= 3 + (x - 11) * .4
+        return 1 if heart or stem or flag else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 27, batch 1: Send It, Allergy Szn, Blackout, Aura Farm, Rush Hour --------------------------------------------
+
+def hero_cape(size=64, flap=0):
+    """A red bedsheet cape tied at the neck, billowing out to the left (flap 1 = blown higher)."""
+    im, d, S = _big(size)
+    OUT = (70, 0, 10, 255)
+    lift = .16 * flap
+    pts = [(S * .62, S * .14), (S * .72, S * .2), (S * .66, S * .5), (S * .5, S * (.92 - lift)), (S * .3, S * (.8 - lift)),
+           (S * .12, S * (.86 - lift * 1.6)), (S * .06, S * (.6 - lift * 1.4)), (S * .4, S * .3)]
+    _outline_poly(d, pts, (220, 30, 40, 255), OUT, 7)
+    d.line([(S * .56, S * .28), (S * .24, S * (.72 - lift))], fill=(250, 90, 100, 255), width=5)                 # fold
+    d.line([(S * .5, S * .34), (S * .4, S * (.82 - lift))], fill=(170, 20, 30, 255), width=5)
+    d.ellipse([S * .56, S * .08, S * .74, S * .22], fill=(250, 250, 250, 255), outline=OUT, width=4)             # the knot
+    return _shrink(im, size)
+
+
+def dive_goggles(size=32):
+    """Big swim/aviator goggles: two round blue lenses with glare, black strap."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.line([(S * .0, S * .5), (S * 1.0, S * .5)], fill=OUT, width=10)
+    for x in (.08, .52):
+        d.ellipse([S * x, S * .26, S * (x + .4), S * .74], fill=(90, 190, 250, 255), outline=OUT, width=7)
+        d.arc([S * (x + .08), S * .34, S * (x + .3), S * .58], 200, 280, fill=(240, 250, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def roof_ledge(size=64):
+    """The edge of a projects rooftop: a brick parapet with a tar cap, a satellite dish on it."""
+    im, d, S = _big(size)
+    OUT = (40, 15, 10, 255)
+    d.rectangle([S * .0, S * .5, S * 1.0, S * 1.0], fill=(160, 70, 50, 255), outline=OUT, width=6)
+    for r in range(4):                                                          # bricks
+        y = .58 + r * .11
+        d.line([(0, S * y), (S, S * y)], fill=(110, 45, 30, 255), width=3)
+        for c in range(6):
+            x = (c + (r % 2) * .5) / 6
+            d.line([(S * x, S * (y - .11)), (S * x, S * y)], fill=(110, 45, 30, 255), width=3)
+    d.rectangle([S * .0, S * .44, S * 1.0, S * .52], fill=(70, 70, 75, 255), outline=OUT, width=5)            # cap
+    d.chord([S * .66, S * .08, S * .96, S * .38], 120, 300, fill=(220, 220, 225, 255), outline=OUT, width=5)    # dish
+    d.line([(S * .82, S * .24), (S * .84, S * .44)], fill=OUT, width=5)
+    return _shrink(im, size)
+
+
+def dive_crater(size=64):
+    """A smoking impact crater: a cracked dark bowl with rubble chunks thrown up round the rim."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 15, 255)
+    d.ellipse([S * .04, S * .5, S * .96, S * .94], fill=(120, 95, 70, 255), outline=OUT, width=7)
+    d.ellipse([S * .18, S * .58, S * .82, S * .86], fill=(50, 35, 25, 255))
+    for a, b in (((.3, .7), (.18, .62)), ((.66, .74), (.82, .64)), ((.5, .62), (.52, .54))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=OUT, width=4)
+    for x, y, r in ((.08, .44, .07), (.86, .42, .06), (.3, .42, .05), (.68, .4, .05)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(140, 115, 90, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def pollen_board(size=64, level="HIGH"):
+    """The TV pollen count graphic: POLLEN COUNT over a level bar, green - orange - red by level (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    col = {"HIGH": (240, 200, 40, 255), "VERY HIGH": (250, 130, 30, 255), "EXTREME": (230, 30, 30, 255)}[level]
+    n = {"HIGH": 2, "VERY HIGH": 3, "EXTREME": 4}[level]
+    d.rounded_rectangle([S * .02, S * .14, S * .98, S * .86], 14, fill=(30, 40, 80, 255), outline=OUT, width=7)
+    for k in range(4):                                                          # the level bar
+        x = .12 + k * .2
+        d.rectangle([S * x, S * .6, S * (x + .16), S * .76], fill=col if k < n else (70, 80, 110, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("POLLEN", (32, 12)), (level, (32, 23))], (255, 255, 255, 255), (20, 20, 25, 255))
+
+
+def monster_flower(size=64, open_=1):
+    """A giant yellow flower (open_ 0 = a fat bud, 1 = wide open with a pollen-dusted centre)."""
+    im, d, S = _big(size)
+    OUT = (60, 50, 0, 255)
+    d.line([(S * .5, S * .56), (S * .5, S * 1.0)], fill=(40, 120, 40, 255), width=int(S * .08))
+    d.ellipse([S * .52, S * .74, S * .8, S * .86], fill=(70, 170, 60, 255), outline=(30, 80, 30, 255), width=4)  # leaf
+    if not open_:
+        d.ellipse([S * .34, S * .24, S * .66, S * .62], fill=(110, 180, 70, 255), outline=(30, 80, 30, 255), width=6)
+        d.polygon([(S * .4, S * .3), (S * .5, S * .14), (S * .6, S * .3)], fill=(250, 210, 60, 255), outline=OUT)
+        return _shrink(im, size)
+    import math
+    for k in range(10):
+        a = k * math.tau / 10
+        cx, cy = .5 + .3 * math.cos(a), .4 + .3 * math.sin(a)
+        d.ellipse([S * (cx - .14), S * (cy - .14), S * (cx + .14), S * (cy + .14)], fill=(250, 210, 40, 255), outline=OUT, width=4)
+    d.ellipse([S * .3, S * .2, S * .7, S * .6], fill=(140, 80, 30, 255), outline=OUT, width=6)
+    for k in range(14):
+        x, y = .36 + (k * 37 % 28) / 100, .26 + (k * 23 % 28) / 100
+        d.ellipse([S * x, S * y, S * (x + .04), S * (y + .04)], fill=(255, 240, 120, 255))
+    return _shrink(im, size)
+
+
+def pollen_dot(n=16):
+    """A fuzzy pollen grain (alpha only): a soft dot with a spiky rim."""
+    c = (n - 1) / 2
+
+    def f(x, y):
+        r = ((x - c) ** 2 + (y - c) ** 2) ** .5
+        return 1 if r < 3.5 else (.6 if r < 5.5 and (x + y) % 2 == 0 else 0)
+    return _alpha(n, n, f)
+
+
+def city_skyline(size=64, lit=3):
+    """A row of project towers at night; `lit` of the 3 blocks still have yellow windows on (0 = all dark)."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 20, 255)
+    towers = [(.0, .3, .3), (.28, .12, .26), (.52, .38, .22), (.72, .2, .28)]
+    for i, (x, top, w) in enumerate(towers):
+        d.rectangle([S * x, S * top, S * (x + w), S * 1.0], fill=(40, 40, 60, 255), outline=OUT, width=5)
+        on = (i * 3) // 4 < lit
+        for r in range(int((1 - top) / .1) - 1):
+            for c in range(int(w / .08)):
+                wx, wy = x + .04 + c * .08, top + .06 + r * .1
+                if wx + .04 < x + w:
+                    lamp = (250, 220, 90, 255) if on and (r * 7 + c * 3 + i) % 5 else (20, 20, 35, 255)
+                    d.rectangle([S * wx, S * wy, S * (wx + .04), S * (wy + .05)], fill=lamp)
+    return _shrink(im, size)
+
+
+def dark_eyes(size=32):
+    """Two glowing white eyes with tiny pupils, floating in the dark."""
+    im, d, S = _big(size)
+    for x in (.1, .56):
+        d.ellipse([S * x, S * .3, S * (x + .34), S * .7], fill=(250, 250, 255, 255), outline=(120, 120, 180, 255), width=4)
+        d.ellipse([S * (x + .12), S * .42, S * (x + .22), S * .58], fill=(10, 10, 20, 255))
+    return _shrink(im, size)
+
+
+def aura_tag(size=64, n="+100"):
+    """A floating gamer-style score popup: "+100" over AURA in glowing purple (shown at 1:1)."""
+    im, d, S = _big(size)
+    d.rounded_rectangle([S * .04, S * .24, S * .96, S * .76], 16, fill=(60, 20, 100, 230), outline=(200, 140, 255, 255), width=6)
+    im = _shrink(im, size)
+    return _texted(im, [(n, (32, 18)), ("AURA", (32, 30))], (255, 230, 120, 255), (60, 0, 90, 255), font=SMALL)
+
+
+def aura_orb(size=64):
+    """A huge glowing aura ball: a white-hot core in layered blue-violet rings, crackling rim."""
+    im, d, S = _big(size)
+    for r, c in ((.48, (90, 60, 220, 140)), (.4, (120, 90, 250, 200)), (.3, (170, 150, 255, 255)), (.18, (235, 230, 255, 255)), (.08, (255, 255, 255, 255))):
+        d.ellipse([S * (.5 - r), S * (.5 - r), S * (.5 + r), S * (.5 + r)], fill=c)
+    import math
+    for k in range(8):
+        a = k * math.tau / 8 + .3
+        d.line([(S * (.5 + .36 * math.cos(a)), S * (.5 + .36 * math.sin(a))), (S * (.5 + .48 * math.cos(a + .2)), S * (.5 + .48 * math.sin(a + .2)))],
+               fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def subway_car(size=64, doors_open=False):
+    """The front half of a silver subway car: windows, a lit route sign, sliding doors (open = dark gap)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rounded_rectangle([S * .0, S * .14, S * 1.0, S * .9], 14, fill=(190, 195, 205, 255), outline=OUT, width=7)
+    d.rectangle([S * .0, S * .66, S * 1.0, S * .72], fill=(40, 120, 220, 255))                                  # the stripe
+    d.rectangle([S * .06, S * .2, S * .34, S * .3], fill=(20, 20, 20, 255), outline=OUT, width=3)                # route sign
+    d.ellipse([S * .1, S * .21, S * .18, S * .29], fill=(250, 140, 30, 255))
+    for x in (.42, .8):                                                          # windows
+        d.rectangle([S * x, S * .24, S * (x + .14), S * .44], fill=(140, 190, 230, 255), outline=OUT, width=4)
+    if doors_open:
+        d.rectangle([S * .58, S * .24, S * .76, S * .86], fill=(30, 30, 40, 255), outline=OUT, width=5)
+    else:
+        d.rectangle([S * .58, S * .24, S * .76, S * .86], fill=(170, 175, 185, 255), outline=OUT, width=5)
+        d.line([(S * .67, S * .24), (S * .67, S * .86)], fill=OUT, width=4)
+        for x in (.6, .69):
+            d.rectangle([S * x, S * .3, S * (x + .06), S * .46], fill=(140, 190, 230, 255), outline=OUT, width=3)
+    d.ellipse([S * .1, S * .82, S * .26, S * .98], fill=(50, 50, 55, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def commuter(size=32, tint=0):
+    """A rush-hour commuter mid-stride: suit (3 colors), briefcase swinging, coffee cup held up."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    suit = [(50, 60, 90, 255), (90, 60, 50, 255), (60, 60, 64, 255)][tint % 3]
+    d.ellipse([S * .38, S * .04, S * .62, S * .26], fill=(220, 170, 130, 255) if tint != 1 else (140, 90, 60, 255), outline=OUT, width=4)
+    d.rounded_rectangle([S * .34, S * .24, S * .66, S * .62], 6, fill=suit, outline=OUT, width=4)
+    d.line([(S * .42, S * .62), (S * .3, S * .96)], fill=OUT, width=7)                                           # legs mid-stride
+    d.line([(S * .58, S * .62), (S * .72, S * .96)], fill=OUT, width=7)
+    d.rectangle([S * .06, S * .48, S * .32, S * .66], fill=(110, 70, 30, 255), outline=OUT, width=4)            # briefcase
+    d.rectangle([S * .68, S * .14, S * .84, S * .34], fill=(250, 250, 245, 255), outline=OUT, width=3)          # coffee
+    d.rectangle([S * .68, S * .14, S * .84, S * .18], fill=(40, 30, 20, 255))
+    return _shrink(im, size)
+
+
+# ---- set 27, batch 2: RIP Shirt, Fresh Fit, Hotfoot, Space Jam, Dirty Water -------------------------------------------
+
+def rip_tee(size=64):
+    """An airbrushed memorial tee: white shirt, a sky-blue cloud with a gold halo and wings, R.I.P. across the top
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 50, 255)
+    pts = [(S * .3, S * .06), (S * .42, S * .1), (S * .58, S * .1), (S * .7, S * .06), (S * .98, S * .24), (S * .88, S * .42),
+           (S * .78, S * .36), (S * .78, S * .98), (S * .22, S * .98), (S * .22, S * .36), (S * .12, S * .42), (S * .02, S * .24)]
+    _outline_poly(d, pts, (250, 250, 250, 255), OUT, 7)
+    d.arc([S * .4, S * .02, S * .6, S * .18], 0, 180, fill=OUT, width=5)                                         # collar
+    d.ellipse([S * .3, S * .46, S * .7, S * .9], fill=(150, 200, 250, 255))                                       # the airbrush cloud
+    for x in (.24, .62):                                                                                          # wings
+        d.ellipse([S * x, S * .56, S * (x + .14), S * .78], fill=(255, 255, 255, 255), outline=(180, 200, 230, 255), width=3)
+    d.ellipse([S * .42, S * .58, S * .58, S * .8], fill=(60, 50, 70, 255))                                         # a silhouette
+    d.ellipse([S * .4, S * .5, S * .6, S * .58], outline=(250, 200, 40, 255), width=5)                            # halo
+    im = _shrink(im, size)
+    return _texted(im, [("R.I.P.", (32, 17))], (60, 120, 220, 255), (255, 255, 255, 255))
+
+
+def lint_roller(size=64):
+    """A lint roller: the sticky white roll with lint stuck on, red handle."""
+    im, d, S = _big(size)
+    OUT = (40, 10, 10, 255)
+    d.line([(S * .5, S * .52), (S * .7, S * .96)], fill=OUT, width=int(S * .12))
+    d.line([(S * .5, S * .52), (S * .7, S * .96)], fill=(220, 40, 40, 255), width=int(S * .07))
+    d.rounded_rectangle([S * .08, S * .14, S * .92, S * .5], 14, fill=(250, 250, 240, 255), outline=OUT, width=6)
+    for x, y in ((.2, .26), (.36, .38), (.6, .22), (.78, .36), (.48, .3)):
+        d.ellipse([S * x, S * y, S * (x + .06), S * (y + .05)], fill=(150, 140, 130, 255))
+    d.line([(S * .1, S * .2), (S * .9, S * .2)], fill=(220, 220, 210, 255), width=3)
+    return _shrink(im, size)
+
+
+def lint_ball(n=16):
+    """A lint fuzzball (alpha only): a scruffy clump."""
+    c = (n - 1) / 2
+    return _alpha(n, n, lambda x, y: 1 if ((x - c) ** 2 + (y - c) ** 2) ** .5 < 3 + ((x * 7 + y * 3) % 4) * .6 else 0)
+
+
+def amber_cologne(size=32):
+    """A fancy cologne bottle: faceted amber glass, gold cap, a black label."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 0, 255)
+    d.polygon([(S * .2, S * .4), (S * .8, S * .4), (S * .9, S * .7), (S * .7, S * .96), (S * .3, S * .96), (S * .1, S * .7)],
+              fill=(230, 150, 40, 230), outline=OUT)
+    d.line([(S * .2, S * .4), (S * .8, S * .4), (S * .9, S * .7), (S * .7, S * .96), (S * .3, S * .96), (S * .1, S * .7), (S * .2, S * .4)], fill=OUT, width=5)
+    d.rectangle([S * .38, S * .14, S * .62, S * .4], fill=(250, 210, 60, 255), outline=OUT, width=5)
+    d.rectangle([S * .32, S * .6, S * .68, S * .76], fill=(20, 20, 20, 255))
+    d.line([(S * .26, S * .5), (S * .34, S * .84)], fill=(255, 230, 170, 255), width=4)
+    return _shrink(im, size)
+
+
+def hot_asphalt(size=64):
+    """A patch of black summer asphalt baking: a yellow road line, wavy heat shimmer rising off it."""
+    im, d, S = _big(size)
+    d.polygon([(S * .0, S * .62), (S * 1.0, S * .62), (S * .9, S * .96), (S * .1, S * .96)], fill=(40, 40, 46, 255), outline=(15, 15, 20, 255))
+    d.line([(S * .3, S * .8), (S * .7, S * .8)], fill=(250, 210, 40, 255), width=7)
+    import math
+    for k in range(4):                                                           # heat shimmer
+        x0 = .16 + k * .22
+        pts = [(S * (x0 + .04 * math.sin(t * 2.4)), S * (.56 - t * .1)) for t in range(5)]
+        d.line(pts, fill=(255, 150, 80, 200), width=5, joint="curve")
+    return _shrink(im, size)
+
+
+def hood_slide(size=64, lit=False):
+    """A black slide sandal with a white strap stripe, a white tube sock still in it - and on fire if lit."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 15, 255)
+    if lit:
+        for x, h in ((.2, .1), (.42, .0), (.64, .06), (.84, .2)):
+            d.polygon([(S * (x - .12), S * .6), (S * x, S * h), (S * (x + .12), S * .6)], fill=(250, 120, 20, 255))
+            d.polygon([(S * (x - .06), S * .6), (S * x, S * (h + .2)), (S * (x + .06), S * .6)], fill=(255, 230, 90, 255))
+    d.rounded_rectangle([S * .04, S * .72, S * .96, S * .88], 10, fill=(30, 30, 35, 255), outline=OUT, width=5)  # sole
+    d.ellipse([S * .1, S * .3, S * .66, S * .78], fill=(250, 250, 250, 255), outline=(150, 150, 160, 255), width=5)  # the sock
+    d.rectangle([S * .2, S * .1, S * .54, S * .44], fill=(250, 250, 250, 255), outline=(150, 150, 160, 255), width=5)
+    for y in (.16, .24):
+        d.line([(S * .22, S * y), (S * .52, S * y)], fill=(220, 40, 40, 255), width=4)                          # sock stripes
+    d.chord([S * .42, S * .5, S * .94, S * .9], 180, 360, fill=(30, 30, 35, 255), outline=OUT, width=5)         # strap
+    d.line([(S * .5, S * .64), (S * .86, S * .64)], fill=(250, 250, 250, 255), width=5)
+    return _shrink(im, size)
+
+
+def meteor_ball(size=64):
+    """A basketball coming in from orbit: the ball bottom-right, a long flaming re-entry tail up-left."""
+    im, d, S = _big(size)
+    OUT = (40, 15, 0, 255)
+    d.polygon([(S * .02, S * .1), (S * .2, S * .02), (S * .74, S * .5), (S * .5, S * .74)], fill=(250, 120, 20, 230))
+    d.polygon([(S * .2, S * .24), (S * .3, S * .2), (S * .7, S * .56), (S * .56, S * .68)], fill=(255, 230, 100, 255))
+    d.ellipse([S * .5, S * .5, S * .96, S * .96], fill=(235, 120, 30, 255), outline=OUT, width=6)
+    d.line([(S * .73, S * .5), (S * .73, S * .96)], fill=OUT, width=4)
+    d.line([(S * .5, S * .73), (S * .96, S * .73)], fill=OUT, width=4)
+    d.arc([S * .58, S * .5, S * 1.0, S * .96], 120, 240, fill=OUT, width=4)
+    d.arc([S * .46, S * .5, S * .88, S * .96], 300, 60, fill=OUT, width=4)
+    return _shrink(im, size)
+
+
+def street_hoop(size=64):
+    """A street basketball hoop: white backboard with the red square, orange rim, a chain net."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rectangle([S * .14, S * .04, S * .86, S * .46], fill=(245, 245, 250, 255), outline=OUT, width=6)
+    d.rectangle([S * .38, S * .2, S * .62, S * .4], outline=(220, 30, 30, 255), width=5)
+    d.ellipse([S * .28, S * .4, S * .72, S * .54], outline=(250, 110, 20, 255), width=7)
+    for k in range(5):                                                           # chain net
+        x = .3 + k * .1
+        d.line([(S * x, S * .5), (S * (.42 + k * .04), S * .82)], fill=(170, 170, 180, 255), width=3)
+    d.line([(S * .36, S * .66), (S * .64, S * .66)], fill=(170, 170, 180, 255), width=3)
+    return _shrink(im, size)
+
+
+def bus_stop(size=64):
+    """A bus stop sign on a pole: the blue BUS STOP plate with a bus icon (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 20, 40, 255)
+    d.line([(S * .5, S * .4), (S * .5, S * 1.0)], fill=(140, 140, 150, 255), width=int(S * .06))
+    d.rounded_rectangle([S * .2, S * .02, S * .8, S * .44], 8, fill=(30, 80, 200, 255), outline=OUT, width=6)
+    d.rectangle([S * .36, S * .28, S * .64, S * .38], fill=(255, 255, 255, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("BUS", (32, 3)), ("STOP", (32, 11))], (255, 255, 255, 255), OUT)
+
+
+def curb_car(size=64):
+    """A boxy old sedan doing 40 down the block: maroon body, chrome bumper, side view facing right."""
+    im, d, S = _big(size)
+    OUT = (20, 10, 10, 255)
+    d.polygon([(S * .02, S * .5), (S * .24, S * .48), (S * .34, S * .3), (S * .7, S * .3), (S * .8, S * .48), (S * .98, S * .52),
+               (S * .98, S * .74), (S * .02, S * .74)], fill=(130, 30, 40, 255), outline=OUT)
+    d.line([(S * .02, S * .5), (S * .24, S * .48), (S * .34, S * .3), (S * .7, S * .3), (S * .8, S * .48), (S * .98, S * .52),
+            (S * .98, S * .74), (S * .02, S * .74), (S * .02, S * .5)], fill=OUT, width=6)
+    d.polygon([(S * .38, S * .35), (S * .52, S * .35), (S * .52, S * .48), (S * .3, S * .48)], fill=(160, 210, 240, 255))
+    d.polygon([(S * .56, S * .35), (S * .68, S * .35), (S * .76, S * .48), (S * .56, S * .48)], fill=(160, 210, 240, 255))
+    d.rectangle([S * .9, S * .6, S * .99, S * .7], fill=(220, 220, 225, 255), outline=OUT, width=3)             # bumper
+    for x in (.2, .76):
+        d.ellipse([S * (x - .1), S * .64, S * (x + .1), S * .86], fill=(25, 25, 25, 255), outline=OUT, width=4)
+        d.ellipse([S * (x - .04), S * .7, S * (x + .04), S * .8], fill=(200, 200, 205, 255))
+    return _shrink(im, size)
+
+
+def city_bus(size=64):
+    """A big city bus, side view facing right: white and blue, a row of windows, the route sign lit up."""
+    im, d, S = _big(size)
+    OUT = (15, 20, 40, 255)
+    d.rounded_rectangle([S * .0, S * .16, S * 1.0, S * .82], 10, fill=(240, 240, 245, 255), outline=OUT, width=6)
+    d.rectangle([S * .0, S * .6, S * 1.0, S * .7], fill=(30, 90, 210, 255))
+    for k in range(5):
+        x = .04 + k * .17
+        d.rectangle([S * x, S * .26, S * (x + .13), S * .46], fill=(130, 180, 220, 255), outline=OUT, width=3)
+    d.rectangle([S * .88, S * .2, S * .99, S * .56], fill=(110, 160, 210, 255), outline=OUT, width=3)          # windshield
+    d.rectangle([S * .6, S * .18, S * .86, S * .24], fill=(250, 180, 30, 255))                                  # route sign
+    for x in (.18, .8):
+        d.ellipse([S * (x - .09), S * .72, S * (x + .09), S * .92], fill=(25, 25, 25, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def mud_splash(n=16):
+    """A splatter of dirty water (alpha only): a blob with a couple of drops."""
+    def f(x, y):
+        return 1 if ((x - 7) / 5) ** 2 + ((y - 9) / 4) ** 2 < 1 or (x - 12) ** 2 + (y - 3) ** 2 < 3 or (x - 3) ** 2 + (y - 2) ** 2 < 2 else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 27, batch 3: Cut Off, Time Out, Swap Bags, Yap Session, Moonwalk -----------------------------------------------
+
+def liquor_glass(size=32):
+    """A rocks glass of brown liquor with two ice cubes."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 10, 255)
+    d.polygon([(S * .14, S * .2), (S * .86, S * .2), (S * .78, S * .94), (S * .22, S * .94)], fill=(220, 235, 245, 150))
+    d.polygon([(S * .18, S * .46), (S * .82, S * .46), (S * .78, S * .9), (S * .22, S * .9)], fill=(190, 110, 30, 255))
+    for x, y in ((.3, .4), (.52, .48)):
+        d.rectangle([S * x, S * y, S * (x + .18), S * (y + .16)], fill=(235, 245, 255, 255), outline=(150, 180, 200, 255), width=3)
+    d.line([(S * .14, S * .2), (S * .86, S * .2), (S * .78, S * .94), (S * .22, S * .94), (S * .14, S * .2)], fill=OUT, width=5)
+    d.line([(S * .24, S * .28), (S * .28, S * .84)], fill=(255, 255, 255, 255), width=4)
+    return _shrink(im, size)
+
+
+def bar_top(size=64):
+    """A stretch of dark wood bar counter with a brass rail."""
+    im, d, S = _big(size)
+    OUT = (30, 15, 5, 255)
+    d.rectangle([S * .0, S * .5, S * 1.0, S * .66], fill=(110, 60, 30, 255), outline=OUT, width=6)
+    d.rectangle([S * .0, S * .66, S * 1.0, S * 1.0], fill=(70, 35, 15, 255), outline=OUT, width=6)
+    d.line([(S * .0, S * .55), (S * 1.0, S * .55)], fill=(160, 100, 50, 255), width=4)
+    d.line([(S * .0, S * .88), (S * 1.0, S * .88)], fill=(220, 180, 60, 255), width=7)                         # brass rail
+    return _shrink(im, size)
+
+
+def dunce_cap(size=64):
+    """A tall white paper dunce cap with a big D on it (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    d.polygon([(S * .5, S * .02), (S * .82, S * .92), (S * .18, S * .92)], fill=(250, 250, 245, 255), outline=OUT)
+    d.line([(S * .5, S * .02), (S * .82, S * .92), (S * .18, S * .92), (S * .5, S * .02)], fill=OUT, width=7)
+    d.line([(S * .2, S * .86), (S * .8, S * .86)], fill=(220, 40, 40, 255), width=6)
+    im = _shrink(im, size)
+    return _texted(im, [("D", (32, 34))], (220, 40, 40, 255), (255, 255, 255, 255), font=GLYPHS)
+
+
+def egg_timer(size=32, ring=False):
+    """A wind-up kitchen egg timer, white with red numbers - shaking when it rings."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 20, 255)
+    d.ellipse([S * .12, S * .2, S * .88, S * .9], fill=(250, 250, 245, 255), outline=OUT, width=6)
+    d.rectangle([S * .4, S * .06, S * .6, S * .24], fill=(220, 40, 40, 255), outline=OUT, width=4)
+    for k in range(6):
+        import math
+        a = k * math.tau / 6
+        d.line([(S * (.5 + .26 * math.cos(a)), S * (.55 + .26 * math.sin(a))), (S * (.5 + .32 * math.cos(a)), S * (.55 + .32 * math.sin(a)))],
+               fill=(220, 40, 40, 255), width=4)
+    d.line([(S * .5, S * .55), (S * .62, S * .4)], fill=OUT, width=4)
+    if ring:
+        for x0 in (.0, .88):
+            d.arc([S * (x0 - .1), S * .2, S * (x0 + .22), S * .7], 120 if x0 else 300, 240 if x0 else 60, fill=OUT, width=4)
+    return _shrink(im, size)
+
+
+def gym_duffel(size=64, open_=None):
+    """A red gym duffel bag; open_ "cash" = stuffed with money, "laundry" = dirty socks and stink lines."""
+    im, d, S = _big(size)
+    OUT = (50, 5, 5, 255)
+    if open_ == "cash":
+        for k in range(5):
+            x = .2 + k * .12
+            d.rectangle([S * x, S * (.2 + (k % 2) * .06), S * (x + .14), S * .5], fill=(110, 180, 90, 255), outline=(30, 80, 30, 255), width=3)
+    elif open_ == "laundry":
+        d.ellipse([S * .26, S * .2, S * .48, S * .5], fill=(230, 225, 200, 255), outline=(120, 110, 80, 255), width=3)
+        d.ellipse([S * .5, S * .26, S * .74, S * .5], fill=(200, 200, 190, 255), outline=(120, 110, 80, 255), width=3)
+        for x in (.32, .5, .68):                                                     # stink lines
+            d.arc([S * (x - .05), S * .0, S * (x + .05), S * .2], 90, 270, fill=(140, 180, 60, 255), width=4)
+    d.rounded_rectangle([S * .06, S * .4, S * .94, S * .9], 24, fill=(200, 30, 40, 255), outline=OUT, width=7)
+    d.arc([S * .3, S * .2, S * .7, S * .6], 180, 360, fill=OUT, width=8)                                          # handles
+    d.line([(S * .1, S * .58), (S * .9, S * .58)], fill=(250, 250, 250, 255), width=5)                           # zipper line
+    d.ellipse([S * .1, S * .54, S * .16, S * .62], fill=(200, 200, 200, 255))
+    return _shrink(im, size)
+
+
+def lightup_tile(size=32, lit=False):
+    """A dance-floor tile: dark when off, lit glowing white-pink when stepped on."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 30, 255)
+    d.polygon([(S * .12, S * .3), (S * .88, S * .3), (S * .98, S * .78), (S * .02, S * .78)],
+              fill=(255, 220, 250, 255) if lit else (130, 110, 170, 255), outline=OUT)
+    d.line([(S * .12, S * .3), (S * .88, S * .3), (S * .98, S * .78), (S * .02, S * .78), (S * .12, S * .3)], fill=OUT, width=5)
+    if lit:
+        d.polygon([(S * .3, S * .4), (S * .7, S * .4), (S * .76, S * .66), (S * .24, S * .66)], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def black_fedora(size=32):
+    """A black fedora with a white band."""
+    im, d, S = _big(size)
+    OUT = (5, 5, 10, 255)
+    d.ellipse([S * .02, S * .56, S * .98, S * .82], fill=(25, 25, 30, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .22, S * .2, S * .78, S * .68], 12, fill=(30, 30, 36, 255), outline=OUT, width=5)
+    d.rectangle([S * .22, S * .52, S * .78, S * .62], fill=(245, 245, 245, 255))
+    d.line([(S * .5, S * .22), (S * .5, S * .34)], fill=OUT, width=5)                                             # the pinch
+    return _shrink(im, size)
+
+
+# ---- set 27, batch 4: Back Rub, Flu Shot, Bad Wind, Tat Gun, Cut Line ---------------------------------------------------
+
+def back_scratcher(size=64):
+    """A bamboo back scratcher: a long jointed cane, the curled little rake of a tip at the top right."""
+    im, d, S = _big(size)
+    OUT = (70, 45, 10, 255)
+    d.line([(S * .08, S * .94), (S * .74, S * .26)], fill=OUT, width=int(S * .11))
+    d.line([(S * .08, S * .94), (S * .74, S * .26)], fill=(220, 190, 110, 255), width=int(S * .07))
+    for t in (.3, .6):                                                                                           # bamboo joints
+        x, y = .08 + .66 * t, .94 - .68 * t
+        d.line([(S * (x - .05), S * (y - .05)), (S * (x + .05), S * (y + .05))], fill=OUT, width=6)
+    d.line([(S * .7, S * .3), (S * .86, S * .14)], fill=OUT, width=int(S * .11))
+    d.line([(S * .7, S * .3), (S * .86, S * .14)], fill=(220, 190, 110, 255), width=int(S * .07))
+    d.ellipse([S * .72, S * .0, S * .98, S * .26], fill=(220, 190, 110, 255), outline=OUT, width=6)          # the cupped tip
+    for k in range(4):                                                                                           # rake fingers
+        a, b = (.74 + k * .07, .04 + k * .07), (.78 + k * .07, -.02 + k * .07)
+        d.line([(S * a[0], S * a[1]), (S * (a[0] + .1), S * (a[1] - .02))], fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def stat_slot(size=64, stat="???"):
+    """A tiny slot machine window showing one stat (ATK / DEF / SPD / ???) with a lever (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 0, 255)
+    d.rounded_rectangle([S * .06, S * .22, S * .8, S * .78], 12, fill=(220, 40, 40, 255), outline=OUT, width=7)
+    d.rectangle([S * .16, S * .34, S * .7, S * .66], fill=(255, 250, 235, 255), outline=OUT, width=5)
+    d.line([(S * .88, S * .5), (S * .88, S * .18)], fill=(170, 170, 180, 255), width=6)                         # lever
+    d.ellipse([S * .82, S * .08, S * .96, S * .22], fill=(250, 210, 40, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    return _texted(im, [(stat, (28, 27))], (200, 20, 20, 255), (255, 250, 235, 255))
+
+
+def alcohol_swab(size=32):
+    """An alcohol prep pad: a small white square in a torn foil packet."""
+    im, d, S = _big(size)
+    OUT = (90, 90, 110, 255)
+    d.polygon([(S * .1, S * .3), (S * .7, S * .2), (S * .9, S * .7), (S * .3, S * .82)], fill=(200, 210, 225, 255), outline=OUT)
+    d.polygon([(S * .2, S * .36), (S * .64, S * .3), (S * .78, S * .64), (S * .34, S * .72)], fill=(255, 255, 255, 255))
+    d.line([(S * .3, S * .45), (S * .6, S * .4)], fill=(120, 170, 230, 255), width=4)
+    return _shrink(im, size)
+
+
+def flu_syringe(size=64):
+    """A big cartoon syringe pointing right: clear barrel with yellow vaccine, plunger, a long shiny needle."""
+    im, d, S = _big(size)
+    OUT = (30, 40, 60, 255)
+    d.rectangle([S * .02, S * .4, S * .1, S * .6], fill=(220, 220, 230, 255), outline=OUT, width=4)             # plunger end
+    d.rectangle([S * .1, S * .47, S * .22, S * .53], fill=(220, 220, 230, 255), outline=OUT, width=3)
+    d.rectangle([S * .22, S * .36, S * .64, S * .64], fill=(220, 240, 250, 180), outline=OUT, width=5)          # barrel
+    d.rectangle([S * .36, S * .4, S * .62, S * .6], fill=(250, 220, 80, 255))
+    for x in (.3, .4, .5):
+        d.line([(S * x, S * .36), (S * x, S * .44)], fill=OUT, width=3)
+    d.polygon([(S * .64, S * .44), (S * .72, S * .46), (S * .72, S * .54), (S * .64, S * .56)], fill=(200, 200, 210, 255), outline=OUT)
+    d.line([(S * .72, S * .5), (S * .98, S * .5)], fill=(210, 215, 230, 255), width=4)                          # the needle
+    d.line([(S * .74, S * .48), (S * .92, S * .48)], fill=(255, 255, 255, 255), width=2)
+    return _shrink(im, size)
+
+
+def elevator_door(size=64):
+    """One brushed-steel elevator door panel (the right edge is the seam), a little floor-number light up top."""
+    im, d, S = _big(size)
+    OUT = (40, 45, 55, 255)
+    d.rectangle([S * .1, S * .02, S * .96, S * .98], fill=(180, 185, 195, 255), outline=OUT, width=7)
+    for k in range(6):                                                                                            # brushed lines
+        y = .14 + k * .14
+        d.line([(S * .18, S * y), (S * .88, S * (y + .02))], fill=(205, 210, 220, 255), width=3)
+    d.line([(S * .94, S * .04), (S * .94, S * .96)], fill=(110, 115, 125, 255), width=5)
+    return _shrink(im, size)
+
+
+def tattoo_gun(size=64):
+    """A tattoo machine pointing down-right: coils, the frame, a grip, the needle tip, ink drop."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.line([(S * .5, S * .5), (S * .88, S * .9)], fill=OUT, width=int(S * .1))                                  # grip + tube
+    d.line([(S * .5, S * .5), (S * .88, S * .9)], fill=(180, 180, 190, 255), width=int(S * .06))
+    d.line([(S * .88, S * .9), (S * .96, S * .98)], fill=(60, 60, 66, 255), width=3)                            # needle
+    d.ellipse([S * .92, S * .92, S * 1.0, S * 1.0], fill=(30, 30, 40, 255))
+    for x, y in ((.14, .2), (.3, .12)):                                                                           # coils
+        d.rounded_rectangle([S * x, S * y, S * (x + .14), S * (y + .3)], 6, fill=(200, 120, 40, 255), outline=OUT, width=5)
+    d.polygon([(S * .1, S * .5), (S * .54, S * .3), (S * .6, S * .54), (S * .2, S * .62)], fill=(50, 50, 60, 255), outline=OUT)
+    d.line([(S * .1, S * .5), (S * .54, S * .3), (S * .6, S * .54), (S * .2, S * .62), (S * .1, S * .5)], fill=OUT, width=5)
+    d.line([(S * .1, S * .5), (S * .02, S * .7)], fill=(60, 60, 66, 255), width=5)                              # clip cord
+    return _shrink(im, size)
+
+
+def mom_tattoo(size=64):
+    """A classic heart tattoo: red heart, a banner across it reading MOM (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 40, 255)
+    d.ellipse([S * .14, S * .16, S * .52, S * .54], fill=(220, 30, 50, 255), outline=OUT, width=6)
+    d.ellipse([S * .48, S * .16, S * .86, S * .54], fill=(220, 30, 50, 255), outline=OUT, width=6)
+    d.polygon([(S * .16, S * .42), (S * .84, S * .42), (S * .5, S * .88)], fill=(220, 30, 50, 255))
+    d.line([(S * .16, S * .44), (S * .5, S * .88), (S * .84, S * .44)], fill=OUT, width=6)
+    d.ellipse([S * .24, S * .22, S * .36, S * .32], fill=(255, 150, 160, 255))
+    d.polygon([(S * .02, S * .4), (S * .98, S * .4), (S * .92, S * .5), (S * .98, S * .6), (S * .02, S * .6), (S * .08, S * .5)],
+              fill=(250, 240, 200, 255), outline=OUT)
+    d.line([(S * .02, S * .4), (S * .98, S * .4), (S * .92, S * .5), (S * .98, S * .6), (S * .02, S * .6), (S * .08, S * .5), (S * .02, S * .4)], fill=OUT, width=5)
+    im = _shrink(im, size)
+    return _texted(im, [("MOM", (32, 28))], (30, 40, 120, 255), (250, 240, 200, 255))
+
+
+def deli_sign(size=64, n="48"):
+    """The deli counter's red NOW SERVING sign with the number in LED digits (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 0, 0, 255)
+    d.rounded_rectangle([S * .04, S * .16, S * .96, S * .84], 10, fill=(200, 30, 30, 255), outline=OUT, width=7)
+    d.rectangle([S * .26, S * .46, S * .74, S * .76], fill=(20, 10, 10, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("NOW", (32, 12)), ("SERVING", (32, 20)), (n, (32, 31))], (255, 250, 220, 255), (90, 0, 0, 255))
+
+
+def deli_ticket(size=32):
+    """A pulled deli number ticket: a red paper tab, a big 49 (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (90, 10, 10, 255)
+    d.rectangle([S * .1, S * .2, S * .9, S * .8], fill=(250, 90, 90, 255), outline=OUT, width=6)
+    for x in (.1, .9):
+        d.ellipse([S * (x - .06), S * .44, S * (x + .06), S * .56], fill=(0, 0, 0, 0))
+    im = _shrink(im, size)
+    return _texted(im, [("49", (16, 12))], (255, 255, 255, 255), OUT)
+
+
+# ---- set 27, batch 5: Glow Up, Stomach Bug, Rabbit Foot, Stiff Arm, Hype Howl -------------------------------------------
+
+def gas_hot_dog(size=64):
+    """A gas station roller-grill hot dog in a paper boat: wrinkly shiny dog, grill stripes, mustard zigzag."""
+    im, d, S = _big(size)
+    OUT = (60, 20, 10, 255)
+    d.polygon([(S * .04, S * .5), (S * .96, S * .5), (S * .86, S * .8), (S * .14, S * .8)], fill=(250, 250, 245, 255), outline=OUT)
+    d.line([(S * .04, S * .5), (S * .96, S * .5), (S * .86, S * .8), (S * .14, S * .8), (S * .04, S * .5)], fill=OUT, width=5)
+    d.rounded_rectangle([S * .1, S * .36, S * .9, S * .6], 20, fill=(230, 180, 110, 255), outline=OUT, width=6)  # bun
+    d.rounded_rectangle([S * .04, S * .3, S * .96, S * .46], 18, fill=(170, 60, 40, 255), outline=OUT, width=6)  # the dog
+    for x in (.24, .44, .64, .84):
+        d.line([(S * x, S * .31), (S * (x - .04), S * .45)], fill=(110, 30, 20, 255), width=4)                  # grill stripes
+    d.line([(S * .14, S * .34), (S * .34, S * .32)], fill=(255, 180, 160, 255), width=4)                        # sheen
+    d.line([(S * x, S * (.34 if k % 2 else .4)) for k, x in enumerate([.16, .26, .36, .46, .56, .66, .76, .86])], fill=(250, 210, 30, 255), width=5)
+    return _shrink(im, size)
+
+
+def out_of_order(size=64):
+    """A hand-written OUT OF ORDER sign on cardboard, hung on a string (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (80, 50, 20, 255)
+    d.line([(S * .2, S * .3), (S * .5, S * .06), (S * .8, S * .3)], fill=(60, 60, 60, 255), width=4)
+    d.rectangle([S * .06, S * .28, S * .94, S * .78], fill=(215, 175, 115, 255), outline=OUT, width=6)
+    im = _shrink(im, size)
+    return _texted(im, [("OUT OF", (32, 25)), ("ORDER", (32, 35))], (200, 20, 20, 255), (255, 235, 200, 255))
+
+
+def rabbit_foot(size=32):
+    """A lucky rabbit foot keychain: dyed-green fuzzy foot, a gold cap and ring."""
+    im, d, S = _big(size)
+    OUT = (20, 60, 20, 255)
+    d.ellipse([S * .2, S * .34, S * .74, S * .96], fill=(80, 200, 90, 255), outline=OUT, width=5)
+    for x, y in ((.3, .78), (.46, .84), (.62, .78)):
+        d.ellipse([S * x, S * y, S * (x + .1), S * (y + .1)], fill=(140, 230, 140, 255))
+    d.rectangle([S * .34, S * .24, S * .6, S * .38], fill=(250, 210, 50, 255), outline=(120, 90, 0, 255), width=4)
+    d.ellipse([S * .38, S * .02, S * .56, S * .24], outline=(250, 210, 50, 255), width=5)
+    return _shrink(im, size)
+
+
+def scratch_ticket(size=64, stage=0):
+    """A scratch-off lottery ticket: LUCKY 7s, three silver panels scratched off one by one; stage 3 = WINNER $2
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 60, 255)
+    d.rectangle([S * .04, S * .12, S * .96, S * .88], fill=(250, 230, 90, 255), outline=OUT, width=6)
+    d.rectangle([S * .04, S * .12, S * .96, S * .3], fill=(200, 40, 140, 255), outline=OUT, width=6)
+    for k in range(3):
+        x = .12 + k * .27
+        d.rectangle([S * x, S * .4, S * (x + .22), S * .66], fill=(255, 255, 255, 255) if k < stage else (190, 195, 205, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    words = [("LUCKY 7", (32, 9))] + [("7", (round(S / 4 * 0 + 12 + k * 17.3) + 2, 29)) for k in range(min(stage, 3))]
+    if stage >= 3:
+        words.append(("WIN $2", (32, 45)))
+    return _texted(im, words, (40, 20, 60, 255), (255, 255, 255, 255))
+
+
+def heisman_statue(size=64):
+    """A gold football trophy figure mid stiff-arm: one leg kicked up, ball tucked, the arm straight out, on a base."""
+    im, d, S = _big(size)
+    OUT = (110, 70, 0, 255)
+    G = (250, 200, 50, 255)
+    d.rectangle([S * .26, S * .84, S * .74, S * .98], fill=(60, 40, 20, 255), outline=OUT, width=5)            # base
+    d.ellipse([S * .44, S * .06, S * .58, S * .2], fill=G, outline=OUT, width=4)                                 # helmet
+    d.polygon([(S * .42, S * .2), (S * .6, S * .2), (S * .62, S * .5), (S * .4, S * .5)], fill=G, outline=OUT)  # body
+    d.line([(S * .42, S * .26), (S * .1, S * .24)], fill=OUT, width=int(S * .09))                               # the stiff arm
+    d.line([(S * .42, S * .26), (S * .1, S * .24)], fill=G, width=int(S * .05))
+    d.ellipse([S * .58, S * .26, S * .76, S * .4], fill=(200, 140, 30, 255), outline=OUT, width=4)               # ball
+    d.line([(S * .46, S * .5), (S * .44, S * .84)], fill=OUT, width=int(S * .09))                               # plant leg
+    d.line([(S * .46, S * .5), (S * .44, S * .84)], fill=G, width=int(S * .05))
+    d.line([(S * .56, S * .5), (S * .82, S * .62), (S * .78, S * .44)], fill=OUT, width=int(S * .09))          # kicked leg
+    d.line([(S * .56, S * .5), (S * .82, S * .62), (S * .78, S * .44)], fill=G, width=int(S * .05))
+    return _shrink(im, size)
+
+
+def howl_crowd(size=64, howl=False):
+    """A row of fans in the stands (silhouettes in team colors) - heads thrown back, mouths open when they howl."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 25, 255)
+    for k in range(5):
+        x = .02 + k * .2
+        col = [(200, 40, 50, 255), (40, 80, 200, 255), (230, 180, 40, 255), (40, 160, 80, 255), (150, 60, 180, 255)][k]
+        d.rounded_rectangle([S * x, S * .58, S * (x + .16), S * 1.0], 8, fill=col, outline=OUT, width=4)
+        hy = .36 if howl else .42
+        d.ellipse([S * (x + .01), S * hy, S * (x + .15), S * (hy + .18)], fill=(170, 120, 90, 255) if k % 2 else (230, 190, 150, 255), outline=OUT, width=4)
+        if howl:
+            d.ellipse([S * (x + .05), S * (hy + .02), S * (x + .11), S * (hy + .09)], fill=(60, 10, 20, 255))
+    d.rectangle([S * .0, S * .88, S * 1.0, S * 1.0], fill=(120, 120, 130, 255), outline=OUT, width=4)        # the rail
+    return _shrink(im, size)
+
+
+def satin_bonnet(size=64):
+    """A shiny pink satin bonnet, puffed round with an elastic band."""
+    im, d, S = _big(size)
+    OUT = (110, 20, 70, 255)
+    d.ellipse([S * .1, S * .14, S * .9, S * .78], fill=(240, 120, 190, 255), outline=OUT, width=7)
+    d.chord([S * .1, S * .5, S * .9, S * .86], 0, 180, fill=(250, 160, 210, 255), outline=OUT, width=6)
+    for k in range(5):
+        x = .2 + k * .15
+        d.line([(S * x, S * .7), (S * (x + .02), S * .78)], fill=OUT, width=3)                                 # elastic gathers
+    d.arc([S * .22, S * .22, S * .6, S * .56], 200, 290, fill=(255, 220, 240, 255), width=7)                    # satin shine
+    return _shrink(im, size)
+
+
+def edge_gel(size=32):
+    """A tub of edge control: squat jar, black lid, orange label."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 20, 255)
+    d.rounded_rectangle([S * .14, S * .36, S * .86, S * .92], 8, fill=(240, 235, 225, 255), outline=OUT, width=5)
+    d.rectangle([S * .1, S * .2, S * .9, S * .38], fill=(30, 30, 30, 255), outline=OUT, width=4)
+    d.rectangle([S * .2, S * .5, S * .8, S * .76], fill=(250, 140, 30, 255))
+    return _shrink(im, size)
+
+
+def edge_brush(size=32):
+    """A little edge brush: a skinny black handle with a tiny bristle head."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 10, 255)
+    d.line([(S * .1, S * .9), (S * .66, S * .34)], fill=(30, 30, 30, 255), width=7)
+    d.rounded_rectangle([S * .6, S * .1, S * .92, S * .4], 6, fill=(240, 240, 240, 255), outline=OUT, width=4)
+    for k in range(4):
+        x = .64 + k * .07
+        d.line([(S * x, S * .14), (S * x, S * .36)], fill=(120, 120, 120, 255), width=2)
+    return _shrink(im, size)
+
+
+# ---- set 27, batch 6: Namaste, Lock Up, Look at Me, Snowball, Hoverboard -------------------------------------------------
+
+def yoga_mat(size=64):
+    """A purple yoga mat rolled out flat (seen from the front, in perspective), the rolled-up end curling at the back."""
+    im, d, S = _big(size)
+    OUT = (50, 20, 70, 255)
+    d.rounded_rectangle([S * .02, S * .7, S * .84, S * .82], 6, fill=(150, 80, 200, 255), outline=OUT, width=6)   # flat mat
+    d.line([(S * .06, S * .76), (S * .8, S * .76)], fill=(180, 120, 230, 255), width=3)
+    d.ellipse([S * .74, S * .54, S * .98, S * .84], fill=(170, 100, 220, 255), outline=OUT, width=6)              # the roll
+    d.ellipse([S * .8, S * .62, S * .92, S * .76], fill=(110, 50, 150, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def roll_gate(size=64, tag=True):
+    """A corner store's roll-down security gate: corrugated steel slats, a spray-painted tag, the bottom bar."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 45, 255)
+    d.rectangle([S * .02, S * .0, S * .98, S * .96], fill=(160, 165, 170, 255), outline=OUT, width=6)
+    for k in range(10):
+        y = .06 + k * .09
+        d.line([(S * .04, S * y), (S * .96, S * y)], fill=(120, 125, 130, 255), width=4)
+        d.line([(S * .04, S * (y + .02)), (S * .96, S * (y + .02))], fill=(190, 195, 200, 255), width=2)
+    if tag:
+        d.line([(S * x, S * y) for x, y in ((.2, .5), (.3, .3), (.36, .56), (.46, .34), (.54, .58), (.64, .32), (.78, .5))],
+               fill=(230, 40, 140, 255), width=8, joint="curve")
+        d.line([(S * .18, S * .62), (S * .8, S * .58)], fill=(40, 160, 230, 255), width=5)
+    d.rectangle([S * .02, S * .88, S * .98, S * .98], fill=(90, 90, 95, 255), outline=OUT, width=5)
+    return _shrink(im, size)
+
+
+def big_padlock(size=32):
+    """A heavy brass padlock, shackle closed."""
+    im, d, S = _big(size)
+    OUT = (80, 50, 0, 255)
+    d.arc([S * .24, S * .04, S * .76, S * .6], 180, 360, fill=(170, 170, 180, 255), width=int(S * .1))
+    d.line([(S * .29, S * .32), (S * .29, S * .48)], fill=(170, 170, 180, 255), width=int(S * .1))
+    d.line([(S * .71, S * .32), (S * .71, S * .48)], fill=(170, 170, 180, 255), width=int(S * .1))
+    d.rounded_rectangle([S * .14, S * .44, S * .86, S * .96], 8, fill=(220, 170, 50, 255), outline=OUT, width=5)
+    d.ellipse([S * .44, S * .6, S * .56, S * .72], fill=(40, 30, 10, 255))
+    d.line([(S * .5, S * .7), (S * .5, S * .84)], fill=(40, 30, 10, 255), width=4)
+    return _shrink(im, size)
+
+
+def marquee_arrow(size=64, phase=0):
+    """A Vegas marquee arrow sign pointing down-left: LOOK in red, chase bulbs round the edge (phase flips which glow)
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 20, 0, 255)
+    pts = [(S * .1, S * .14), (S * .9, S * .14), (S * .9, S * .52), (S * .4, S * .52), (S * .4, S * .7), (S * .06, S * .5), (S * .4, S * .3), (S * .4, S * .42), (S * .1, S * .42)]
+    pts = [(S * .2, S * .1), (S * .96, S * .1), (S * .96, S * .46), (S * .36, S * .46), (S * .36, S * .62), (S * .04, S * .3), (S * .36, S * .0), (S * .36, S * .1)]
+    _outline_poly(d, pts, (250, 220, 90, 255), OUT, 6)
+    import math
+    for k, (x, y) in enumerate(((.42, .14), (.54, .14), (.66, .14), (.78, .14), (.9, .14), (.9, .42), (.78, .42), (.66, .42), (.54, .42), (.42, .42))):
+        on = (k + phase) % 2 == 0
+        d.ellipse([S * (x - .03), S * (y - .03), S * (x + .03), S * (y + .03)], fill=(255, 255, 230, 255) if on else (170, 120, 40, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("LOOK", (42, 12))], (220, 30, 30, 255), (255, 240, 200, 255))
+
+
+def snowball(size=32):
+    """A hand-packed snowball: lumpy white with blue shading."""
+    im, d, S = _big(size)
+    OUT = (90, 120, 160, 255)
+    d.ellipse([S * .12, S * .12, S * .88, S * .88], fill=(245, 250, 255, 255), outline=OUT, width=6)
+    for x, y in ((.3, .58), (.54, .66), (.62, .4)):
+        d.ellipse([S * x, S * y, S * (x + .14), S * (y + .1)], fill=(200, 220, 240, 255))
+    d.arc([S * .22, S * .2, S * .56, S * .5], 200, 280, fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def hoverboard(size=64, glow=False):
+    """A self-balancing hoverboard: two wheels in fenders, a black deck with blue LED strips - glowing underneath if lit."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 20, 255)
+    if glow:
+        d.ellipse([S * .04, S * .72, S * .96, S * .98], fill=(80, 200, 255, 150))
+    for x in (.04, .7):                                                                                        # wheels + fenders
+        d.chord([S * x, S * .36, S * (x + .26), S * .86], 180, 360, fill=(240, 240, 245, 255), outline=OUT, width=6)
+        d.ellipse([S * (x + .03), S * .5, S * (x + .23), S * .82], fill=(40, 40, 46, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .22, S * .54, S * .78, S * .7], 8, fill=(30, 30, 36, 255), outline=OUT, width=6)
+    d.line([(S * .28, S * .66), (S * .72, S * .66)], fill=(60, 180, 255, 255), width=5)
+    for x in (.3, .56):
+        d.rounded_rectangle([S * x, S * .54, S * (x + .14), S * .6], 3, fill=(80, 80, 90, 255))                 # foot pads
+    return _shrink(im, size)
+
+
+def marquee_down(size=64, phase=0):
+    """A Vegas marquee sign pointing straight down: LOOK in red on a gold board, chase bulbs round it, the arrow tip
+    below (phase flips which bulbs glow) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 20, 0, 255)
+    pts = [(S * .06, S * .08), (S * .94, S * .08), (S * .94, S * .5), (S * .7, S * .5), (S * .5, S * .82), (S * .3, S * .5), (S * .06, S * .5)]
+    _outline_poly(d, pts, (250, 220, 90, 255), OUT, 6)
+    bulbs = [(.14 + k * .12, .15) for k in range(7)] + [(.86 - k * .12, .43) for k in range(7)]
+    for k, (x, y) in enumerate(bulbs):
+        on = (k + phase) % 2 == 0
+        d.ellipse([S * (x - .03), S * (y - .03), S * (x + .03), S * (y + .03)], fill=(255, 255, 230, 255) if on else (170, 120, 40, 255))
+    d.polygon([(S * .42, S * .54), (S * .58, S * .54), (S * .5, S * .7)], fill=(255, 255, 230, 255) if phase else (220, 60, 40, 255))
+    im = _shrink(im, size)
+    return _texted(im, [("LOOK", (32, 15))], (220, 30, 30, 255), (255, 240, 200, 255))
+
+
+# ---- set 28, batch 1: High Beams, Fog Machine, Order Up, Sag Check, Last Wish -------------------------------------------
+
+def headlights(size=64, on=True):
+    """A pair of round car headlights in the dark: chrome rings, glass lit blazing white-yellow (dim grey when off)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    for x in (.04, .56):
+        if on:
+            d.ellipse([S * (x - .04), S * .22, S * (x + .44), S * .78], fill=(255, 250, 200, 120))
+        d.ellipse([S * x, S * .28, S * (x + .4), S * .72], fill=(200, 205, 215, 255), outline=OUT, width=6)        # chrome
+        d.ellipse([S * (x + .06), S * .34, S * (x + .34), S * .66], fill=(255, 255, 235, 255) if on else (110, 115, 125, 255))
+        if on:
+            d.ellipse([S * (x + .12), S * .4, S * (x + .24), S * .52], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def brights_cone(n=16):
+    """A soft beam of light (alpha only): bright on the left, fading and widening to the right."""
+    return _alpha(n, n, lambda x, y: max(0, (1 - x / 16) * (1 - abs(y - 7.5) / (2 + x * .4))))
+
+
+def club_fogger(size=64):
+    """A club fog machine: black box, a chrome nozzle on the front, a red LED and a hose of fog coming off it."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 15, 255)
+    d.rounded_rectangle([S * .06, S * .44, S * .7, S * .86], 8, fill=(40, 40, 46, 255), outline=OUT, width=6)
+    d.rectangle([S * .7, S * .56, S * .86, S * .7], fill=(200, 205, 215, 255), outline=OUT, width=5)            # nozzle
+    d.ellipse([S * .14, S * .52, S * .22, S * .6], fill=(255, 40, 40, 255))
+    d.line([(S * .3, S * .56), (S * .6, S * .56)], fill=(90, 90, 100, 255), width=4)                              # vents
+    d.line([(S * .3, S * .64), (S * .6, S * .64)], fill=(90, 90, 100, 255), width=4)
+    for x, y, r in ((.88, .5, .06), (.94, .4, .07), (.86, .3, .08)):                                              # fog curling out
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(230, 230, 240, 230))
+    return _shrink(im, size)
+
+
+def laser_line(n=16):
+    """A thin straight laser beam (alpha only): a hard bright line across the middle."""
+    return _alpha(n, n, lambda x, y: 1 if abs(y - 7.5) < .8 else (.4 if abs(y - 7.5) < 1.6 else 0))
+
+
+def order_phone(size=64, done=False):
+    """A phone showing a delivery app: ORDER PLACED with a scooter icon (done: DELIVERED with a check) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .22, S * .04, S * .78, S * .96], 14, fill=(30, 30, 36, 255), outline=OUT, width=6)
+    d.rectangle([S * .27, S * .12, S * .73, S * .86], fill=(250, 80, 60, 255) if not done else (60, 190, 90, 255))
+    d.ellipse([S * .38, S * .54, S * .62, S * .78], fill=(255, 255, 255, 255))
+    if done:
+        d.line([(S * .43, S * .66), (S * .49, S * .72), (S * .58, S * .6)], fill=(60, 190, 90, 255), width=6)
+    else:
+        d.rectangle([S * .44, S * .6, S * .56, S * .7], fill=(250, 80, 60, 255))
+    im = _shrink(im, size)
+    words = [("DELIV-", (32, 12)), ("ERED", (32, 21))] if done else [("ORDER", (32, 12)), ("PLACED", (32, 21))]
+    return _texted(im, words, (255, 255, 255, 255), (40, 20, 20, 255))
+
+
+def delivery_rider(size=64, tint=0):
+    """A delivery rider on a scooter, side view facing right: helmet, the big square insulated bag on the back."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    bag = [(250, 80, 60, 255), (250, 190, 40, 255), (60, 190, 90, 255)][tint % 3]
+    d.rectangle([S * .04, S * .14, S * .36, S * .46], fill=bag, outline=OUT, width=6)                            # the bag
+    d.line([(S * .1, S * .3), (S * .3, S * .3)], fill=(255, 255, 255, 255), width=4)
+    d.rounded_rectangle([S * .3, S * .3, S * .56, S * .62], 8, fill=(60, 70, 90, 255), outline=OUT, width=5)    # rider body
+    d.ellipse([S * .42, S * .08, S * .66, S * .32], fill=bag, outline=OUT, width=5)                             # helmet
+    d.rectangle([S * .56, S * .16, S * .66, S * .24], fill=(140, 190, 230, 255))                                 # visor
+    d.line([(S * .5, S * .44), (S * .74, S * .5)], fill=OUT, width=6)                                            # arm to bars
+    d.polygon([(S * .2, S * .7), (S * .78, S * .66), (S * .86, S * .44), (S * .92, S * .44), (S * .84, S * .76), (S * .2, S * .78)],
+              fill=(230, 230, 235, 255), outline=OUT)
+    for x in (.24, .8):
+        d.ellipse([S * (x - .1), S * .7, S * (x + .1), S * .92], fill=(30, 30, 30, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def sag_jeans(size=64, stage=0):
+    """Baggy blue jeans: 0 = up at the waist with a belt loop line, 1 = sagging with plaid boxers out, 2 = round the knees."""
+    im, d, S = _big(size)
+    OUT = (15, 25, 60, 255)
+    top = (.06, .3, .56)[stage]
+    if stage:
+        d.rectangle([S * .14, S * .04, S * .86, S * (top + .04)], fill=(220, 60, 60, 255), outline=(90, 10, 10, 255), width=5)   # boxers
+        for k in range(4):
+            x = .2 + k * .18
+            d.line([(S * x, S * .04), (S * x, S * top)], fill=(250, 220, 220, 255), width=3)
+        d.line([(S * .14, S * (top * .5)), (S * .86, S * (top * .5))], fill=(250, 220, 220, 255), width=3)
+    d.polygon([(S * .1, S * top), (S * .9, S * top), (S * .96, S * .98), (S * .56, S * .98), (S * .5, S * (top + .3)),
+               (S * .44, S * .98), (S * .04, S * .98)], fill=(60, 100, 180, 255), outline=OUT)
+    d.line([(S * .1, S * top), (S * .9, S * top), (S * .96, S * .98), (S * .56, S * .98), (S * .5, S * (top + .3)), (S * .44, S * .98),
+            (S * .04, S * .98), (S * .1, S * top)], fill=OUT, width=6)
+    d.line([(S * .1, S * (top + .06)), (S * .9, S * (top + .06))], fill=(40, 70, 140, 255), width=4)            # waistband
+    d.line([(S * .3, S * (top + .14)), (S * .26, S * .9)], fill=(110, 150, 220, 255), width=4)                  # fade
+    return _shrink(im, size)
+
+
+def dandelion(size=64, stage=0):
+    """A dandelion clock on its stem: 0 = a full white puff, 1 = half blown, 2 = a bare stem."""
+    im, d, S = _big(size)
+    import math
+    d.line([(S * .5, S * .5), (S * .54, S * .98)], fill=(70, 150, 60, 255), width=int(S * .05))
+    d.ellipse([S * .44, S * .44, S * .56, S * .56], fill=(170, 160, 90, 255))
+    n = (26, 12, 0)[stage]
+    for k in range(n):
+        a = k * math.tau / 26 + (.6 if stage else 0)
+        x, y = .5 + .34 * math.cos(a), .5 + .34 * math.sin(a)
+        d.line([(S * .5, S * .5), (S * x, S * y)], fill=(235, 235, 240, 255), width=3)
+        d.ellipse([S * (x - .04), S * (y - .04), S * (x + .04), S * (y + .04)], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def dandelion_seed(n=16):
+    """A dandelion seed parachute (alpha only): a fluffy fan on top, a thin stalk below."""
+    def f(x, y):
+        fan = y < 7 and abs(x - 7.5) < (7 - y) * .9 + 1 and (x + y) % 2 == 0
+        stalk = abs(x - 7.5) < .7 and 6 <= y <= 14
+        return 1 if fan or stalk else 0
+    return _alpha(n, n, f)
+
+
+# ---- set 28, batch 2: Mirror Tint, Jump Em, Quick Draw, Bad Vibes, Hood Power ---------------------------------------------
+
+def tint_glass(size=64, tinted=False):
+    """A car's side window glass in its rubber frame: clear see-through, or mirror-tinted black with a chrome sheen."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    pts = [(S * .06, S * .9), (S * .2, S * .14), (S * .9, S * .14), (S * .96, S * .9)]
+    _outline_poly(d, pts, (20, 20, 30, 255) if tinted else (190, 225, 245, 120), OUT, 8)
+    if tinted:
+        d.polygon([(S * .3, S * .2), (S * .5, S * .2), (S * .26, S * .84), (S * .1, S * .84)], fill=(140, 150, 180, 255))
+        d.polygon([(S * .56, S * .2), (S * .62, S * .2), (S * .4, S * .84), (S * .34, S * .84)], fill=(110, 120, 150, 255))
+    else:
+        d.line([(S * .34, S * .24), (S * .2, S * .7)], fill=(255, 255, 255, 200), width=5)
+    return _shrink(im, size)
+
+
+def tint_squeegee(size=32):
+    """A rubber-bladed squeegee: black blade, orange handle."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 20, 255)
+    d.rectangle([S * .06, S * .14, S * .94, S * .3], fill=(30, 30, 30, 255), outline=OUT, width=4)
+    d.rectangle([S * .14, S * .3, S * .86, S * .42], fill=(160, 160, 170, 255), outline=OUT, width=4)
+    d.line([(S * .5, S * .42), (S * .5, S * .96)], fill=OUT, width=int(S * .16))
+    d.line([(S * .5, S * .42), (S * .5, S * .96)], fill=(250, 140, 30, 255), width=int(S * .1))
+    return _shrink(im, size)
+
+
+def crew_member(size=64, tint=0):
+    """One of the crew pulling up: a full figure in a hoodie (hood up, face in shadow), jeans, fresh kicks."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 15, 255)
+    col = [(60, 60, 70, 255), (150, 30, 40, 255), (40, 70, 140, 255)][tint % 3]
+    d.polygon([(S * .3, S * .3), (S * .7, S * .3), (S * .76, S * .62), (S * .24, S * .62)], fill=col, outline=OUT)
+    d.line([(S * .3, S * .3), (S * .7, S * .3), (S * .76, S * .62), (S * .24, S * .62), (S * .3, S * .3)], fill=OUT, width=5)
+    d.ellipse([S * .34, S * .04, S * .66, S * .36], fill=col, outline=OUT, width=5)                               # the hood
+    d.ellipse([S * .41, S * .12, S * .59, S * .32], fill=(25, 20, 20, 255))                                       # shadowed face
+    d.rectangle([S * .38, S * .46, S * .62, S * .56], fill=tuple(max(0, c - 30) for c in col[:3]) + (255,), outline=OUT, width=3)   # pocket
+    d.rectangle([S * .3, S * .62, S * .48, S * .9], fill=(50, 80, 140, 255), outline=OUT, width=4)
+    d.rectangle([S * .52, S * .62, S * .7, S * .9], fill=(50, 80, 140, 255), outline=OUT, width=4)
+    for x in (.26, .5):
+        d.rounded_rectangle([S * x, S * .88, S * (x + .24), S * .98], 4, fill=(250, 250, 250, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def cowboy_hat(size=32):
+    """A tan cowboy hat with a dark band."""
+    im, d, S = _big(size)
+    OUT = (60, 35, 10, 255)
+    d.chord([S * .02, S * .44, S * .98, S * .86], 180, 360, fill=(200, 150, 90, 255), outline=OUT, width=5)
+    d.ellipse([S * .02, S * .54, S * .98, S * .8], fill=(200, 150, 90, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .26, S * .18, S * .74, S * .64], 12, fill=(210, 160, 100, 255), outline=OUT, width=5)
+    d.rectangle([S * .26, S * .5, S * .74, S * .6], fill=(70, 40, 20, 255))
+    d.line([(S * .5, S * .2), (S * .5, S * .34)], fill=OUT, width=4)
+    return _shrink(im, size)
+
+
+def noon_clock(size=64, noon=False):
+    """A big town clock face: hands at 11:59 - or straight up at 12:00 (noon) with the 12 lit red."""
+    im, d, S = _big(size)
+    OUT = (40, 25, 10, 255)
+    import math
+    d.ellipse([S * .06, S * .06, S * .94, S * .94], fill=(250, 240, 210, 255), outline=OUT, width=8)
+    for k in range(12):
+        a = k * math.tau / 12 - math.pi / 2
+        d.line([(S * (.5 + .34 * math.cos(a)), S * (.5 + .34 * math.sin(a))), (S * (.5 + .4 * math.cos(a)), S * (.5 + .4 * math.sin(a)))],
+               fill=(220, 30, 30, 255) if (k == 0 and noon) else OUT, width=7 if k % 3 == 0 else 4)
+    m = -math.pi / 2 - (0 if noon else math.tau / 60)
+    h = -math.pi / 2 - (0 if noon else math.tau / 720)
+    d.line([(S * .5, S * .5), (S * (.5 + .22 * math.cos(h)), S * (.5 + .22 * math.sin(h)))], fill=OUT, width=9)
+    d.line([(S * .5, S * .5), (S * (.5 + .34 * math.cos(m)), S * (.5 + .34 * math.sin(m)))], fill=OUT, width=6)
+    d.ellipse([S * .45, S * .45, S * .55, S * .55], fill=(220, 30, 30, 255))
+    return _shrink(im, size)
+
+
+def air_ring(n=16):
+    """A shockwave ring of air (alpha only): a thin bright circle."""
+    c = (n - 1) / 2
+    return _alpha(n, n, lambda x, y: max(0, 1 - abs(((x - c) ** 2 + (y - c) ** 2) ** .5 - 6) / 1.4))
+
+
+def vibe_meter(size=64, level=0):
+    """A VIBE CHECK gauge: green-yellow-red arc, the needle on GOOD (0), OK (1) or BAD (2) (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    import math
+    d.rounded_rectangle([S * .04, S * .1, S * .96, S * .9], 10, fill=(40, 40, 50, 255), outline=OUT, width=6)
+    for k, col in enumerate(((80, 200, 90, 255), (240, 210, 50, 255), (230, 50, 50, 255))):
+        d.arc([S * .16, S * .3, S * .84, S * .98], 180 + k * 60, 240 + k * 60, fill=col, width=12)
+    a = math.pi + (level * 60 + 30) * math.pi / 180
+    d.line([(S * .5, S * .64), (S * (.5 + .3 * math.cos(a)), S * (.64 + .3 * math.sin(a)))], fill=(255, 255, 255, 255), width=6)
+    d.ellipse([S * .45, S * .59, S * .55, S * .69], fill=(255, 255, 255, 255))
+    im = _shrink(im, size)
+    word = ("GOOD", "OK", "BAD")[level]
+    return _texted(im, [("VIBE CHECK", (32, 9)), (word, (32, 45))], (255, 255, 255, 255) if level < 2 else (255, 90, 90, 255), (20, 20, 25, 255))
+
+
+def bodega_cat(size=64, swat=False):
+    """The bodega cat: a fat orange tabby sat on its haunches, unimpressed - or up on its back legs mid-swat."""
+    im, d, S = _big(size)
+    OUT = (70, 30, 0, 255)
+    OR, LT = (240, 150, 50, 255), (255, 210, 150, 255)
+    body = [S * .24, S * (.36 if swat else .46), S * .76, S * .96]
+    d.ellipse(body, fill=OR, outline=OUT, width=6)
+    d.ellipse([S * .34, S * (.56 if swat else .64), S * .66, S * .94], fill=LT)                                    # belly
+    hy = .1 if swat else .2
+    d.ellipse([S * .28, S * hy, S * .72, S * (hy + .38)], fill=OR, outline=OUT, width=6)                            # head
+    for x in (.3, .62):                                                                                             # ears
+        d.polygon([(S * x, S * (hy + .1)), (S * (x + .04), S * (hy - .06)), (S * (x + .1), S * (hy + .06))], fill=OR, outline=OUT)
+    for x in (.38, .56):                                                                                            # eyes, half-shut
+        d.line([(S * x, S * (hy + .18)), (S * (x + .08), S * (hy + .18))], fill=OUT, width=6)
+    d.polygon([(S * .47, S * (hy + .25)), (S * .53, S * (hy + .25)), (S * .5, S * (hy + .29))], fill=(240, 120, 140, 255))
+    for k in range(3):                                                                                              # stripes
+        d.arc([S * .3, S * (hy + .02 + k * .04), S * .7, S * (hy + .2 + k * .04)], 220, 320, fill=(200, 100, 20, 255), width=4)
+    if swat:
+        d.line([(S * .72, S * .52), (S * .94, S * .3)], fill=OUT, width=int(S * .13))
+        d.line([(S * .72, S * .52), (S * .94, S * .3)], fill=OR, width=int(S * .08))
+        d.ellipse([S * .86, S * .2, S * 1.0, S * .34], fill=LT, outline=OUT, width=4)
+    d.arc([S * .04, S * .5, S * .34, S * .96], 90, 250, fill=OR, width=int(S * .08))                                # tail
+    return _shrink(im, size)
+
+
+# ---- set 28, batch 3: Tag In, Bounce Back, Hold Grudge, Tickle Fight, Galaxy Rag ------------------------------------------
+
+def ring_corner(size=64):
+    """A wrestling ring corner: a padded red turnbuckle post with three ropes running off to the right."""
+    im, d, S = _big(size)
+    OUT = (20, 10, 10, 255)
+    d.rectangle([S * .06, S * .06, S * .18, S * .98], fill=(170, 170, 180, 255), outline=OUT, width=5)
+    for k, y in enumerate((.18, .4, .62)):
+        d.line([(S * .18, S * (y + .04)), (S * 1.0, S * (y + .1))], fill=OUT, width=8)
+        d.line([(S * .18, S * (y + .04)), (S * 1.0, S * (y + .1))], fill=(250, 250, 250, 255) if k != 1 else (220, 40, 40, 255), width=5)
+        d.rounded_rectangle([S * .02, S * (y - .02), S * .24, S * (y + .1)], 6, fill=(220, 30, 40, 255), outline=OUT, width=4)
+    return _shrink(im, size)
+
+
+def luchador(size=64):
+    """A tag-team partner in a luchador mask, mid flying-elbow: arms tucked, knee up, cape-less, all business."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 15, 255)
+    d.ellipse([S * .34, S * .04, S * .66, S * .36], fill=(40, 90, 200, 255), outline=OUT, width=5)            # the mask
+    d.polygon([(S * .38, S * .14), (S * .48, S * .18), (S * .4, S * .24)], fill=(255, 255, 255, 255))         # eye holes
+    d.polygon([(S * .62, S * .14), (S * .52, S * .18), (S * .6, S * .24)], fill=(255, 255, 255, 255))
+    d.line([(S * .5, S * .04), (S * .5, S * .12)], fill=(250, 210, 40, 255), width=6)                          # mask stripe
+    d.ellipse([S * .44, S * .27, S * .56, S * .33], fill=(220, 60, 60, 255))                                    # mouth hole
+    d.rounded_rectangle([S * .3, S * .34, S * .7, S * .66], 10, fill=(200, 150, 110, 255), outline=OUT, width=5)
+    d.rectangle([S * .3, S * .6, S * .7, S * .74], fill=(40, 90, 200, 255), outline=OUT, width=4)             # trunks
+    d.line([(S * .38, S * .74), (S * .26, S * .96)], fill=OUT, width=int(S * .1))
+    d.line([(S * .38, S * .74), (S * .26, S * .96)], fill=(200, 150, 110, 255), width=int(S * .06))
+    d.line([(S * .62, S * .74), (S * .78, S * .62)], fill=OUT, width=int(S * .1))                              # knee up
+    d.line([(S * .62, S * .74), (S * .78, S * .62)], fill=(200, 150, 110, 255), width=int(S * .06))
+    d.line([(S * .7, S * .4), (S * .9, S * .28)], fill=OUT, width=int(S * .1))                                  # the elbow
+    d.line([(S * .7, S * .4), (S * .9, S * .28)], fill=(200, 150, 110, 255), width=int(S * .06))
+    return _shrink(im, size)
+
+
+def bouncy_castle(size=64):
+    """A kids' inflatable bouncy castle: red and yellow puffy turrets, a blue mesh doorway."""
+    im, d, S = _big(size)
+    OUT = (60, 10, 10, 255)
+    d.rounded_rectangle([S * .06, S * .36, S * .94, S * .96], 16, fill=(230, 50, 50, 255), outline=OUT, width=6)
+    for x in (.04, .74):                                                                                          # turrets
+        d.rounded_rectangle([S * x, S * .1, S * (x + .22), S * .5], 12, fill=(250, 210, 40, 255), outline=OUT, width=6)
+        d.ellipse([S * (x + .02), S * .02, S * (x + .2), S * .18], fill=(40, 120, 230, 255), outline=OUT, width=5)
+    d.rounded_rectangle([S * .32, S * .5, S * .68, S * .9], 20, fill=(80, 150, 240, 255), outline=OUT, width=5)
+    for k in range(4):
+        x = .38 + k * .08
+        d.line([(S * x, S * .52), (S * x, S * .88)], fill=(40, 90, 180, 255), width=3)
+    for x in (.18, .82):
+        d.line([(S * x, S * .5), (S * x, S * .92)], fill=(200, 30, 30, 255), width=4)                           # puffy seams
+    return _shrink(im, size)
+
+
+def grudge_dartboard(size=64):
+    """A pub dartboard with a photo of the foe pinned dead center - a big X already drawn on it."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 15, 255)
+    import math
+    d.ellipse([S * .04, S * .04, S * .96, S * .96], fill=(20, 20, 20, 255), outline=OUT, width=6)
+    for k in range(20):
+        a0, a1 = k * 18 - 9, k * 18 + 9
+        d.pieslice([S * .1, S * .1, S * .9, S * .9], a0, a1, fill=(240, 220, 170, 255) if k % 2 else (30, 30, 30, 255))
+    d.ellipse([S * .1, S * .1, S * .9, S * .9], outline=(200, 40, 40, 255), width=5)
+    d.rectangle([S * .32, S * .3, S * .68, S * .72], fill=(250, 250, 245, 255), outline=OUT, width=4)        # the photo
+    d.ellipse([S * .42, S * .36, S * .58, S * .5], fill=(120, 110, 100, 255))
+    d.chord([S * .36, S * .48, S * .64, S * .76], 180, 360, fill=(120, 110, 100, 255))
+    d.line([(S * .34, S * .32), (S * .66, S * .7)], fill=(220, 20, 20, 255), width=5)
+    d.line([(S * .66, S * .32), (S * .34, S * .7)], fill=(220, 20, 20, 255), width=5)
+    d.ellipse([S * .47, S * .02, S * .53, S * .08], fill=(170, 170, 180, 255))                                  # the tack
+    return _shrink(im, size)
+
+
+def throw_dart(size=32):
+    """A dart pointing right: steel tip, knurled barrel, red flights."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 20, 255)
+    d.polygon([(S * .02, S * .3), (S * .26, S * .44), (S * .26, S * .56), (S * .02, S * .7)], fill=(220, 30, 40, 255), outline=OUT)
+    d.rectangle([S * .24, S * .44, S * .66, S * .56], fill=(170, 170, 180, 255), outline=OUT, width=4)
+    d.line([(S * .66, S * .5), (S * .98, S * .5)], fill=(210, 210, 220, 255), width=4)
+    return _shrink(im, size)
+
+
+def feather_duster(size=64):
+    """A rainbow feather duster: a fat fluffy head of colored plumes on a wood handle."""
+    im, d, S = _big(size)
+    OUT = (40, 20, 10, 255)
+    d.line([(S * .1, S * .92), (S * .5, S * .5)], fill=OUT, width=int(S * .09))
+    d.line([(S * .1, S * .92), (S * .5, S * .5)], fill=(180, 120, 60, 255), width=int(S * .05))
+    import math
+    cols = [(250, 80, 120, 255), (250, 180, 40, 255), (80, 200, 230, 255), (150, 90, 230, 255), (90, 210, 110, 255)]
+    for k in range(16):
+        a = -math.pi * .9 + k * math.pi * 1.1 / 15
+        x, y = .66 + .26 * math.cos(a), .34 + .26 * math.sin(a)
+        d.ellipse([S * (x - .1), S * (y - .1), S * (x + .1), S * (y + .1)], fill=cols[k % 5])
+    d.ellipse([S * .5, S * .2, S * .8, S * .5], fill=(250, 240, 250, 255))
+    return _shrink(im, size)
+
+
+def galaxy_durag(size=64):
+    """A galaxy-print durag: deep purple-blue satin printed with stars and a nebula swirl, long tails flowing."""
+    im, d, S = _big(size)
+    OUT = (20, 10, 40, 255)
+    d.chord([S * .12, S * .1, S * .88, S * .9], 180, 360, fill=(50, 30, 120, 255), outline=OUT, width=6)
+    d.rectangle([S * .12, S * .46, S * .88, S * .56], fill=(40, 25, 100, 255), outline=OUT, width=5)
+    for pts in (((.8, .5), (.98, .66), (.9, .96)), ((.76, .54), (.88, .8), (.74, .98))):                        # tails
+        d.line([(S * x, S * y) for x, y in pts], fill=OUT, width=int(S * .1), joint="curve")
+        d.line([(S * x, S * y) for x, y in pts], fill=(70, 40, 150, 255), width=int(S * .06), joint="curve")
+    d.ellipse([S * .3, S * .18, S * .62, S * .4], fill=(200, 80, 200, 140))                                     # nebula
+    for x, y in ((.24, .3), (.4, .16), (.56, .36), (.7, .24), (.46, .42), (.34, .4)):
+        d.ellipse([S * (x - .02), S * (y - .02), S * (x + .02), S * (y + .02)], fill=(255, 255, 255, 255))
+    d.line([(S * .66, S * .28), (S * .74, S * .28)], fill=(255, 255, 220, 255), width=3)
+    d.line([(S * .7, S * .24), (S * .7, S * .32)], fill=(255, 255, 220, 255), width=3)
+    return _shrink(im, size)
+
+
+# ---- set 28, batch 4: Ice Pick, Blocked, Rat Tail, Kickback, Pass It On -----------------------------------------------------
+
+def bar_ice_pick(size=64):
+    """A bartender's ice pick pointing down-right: a long steel spike out of a red wood handle."""
+    im, d, S = _big(size)
+    OUT = (30, 10, 10, 255)
+    d.line([(S * .12, S * .12), (S * .4, S * .4)], fill=OUT, width=int(S * .16))
+    d.line([(S * .12, S * .12), (S * .4, S * .4)], fill=(200, 40, 40, 255), width=int(S * .1))
+    d.rectangle([S * .38, S * .36, S * .46, S * .46], fill=(170, 170, 180, 255), outline=OUT, width=3)        # ferrule
+    d.line([(S * .44, S * .44), (S * .94, S * .94)], fill=(210, 215, 225, 255), width=5)
+    d.line([(S * .46, S * .44), (S * .9, S * .88)], fill=(255, 255, 255, 255), width=2)
+    return _shrink(im, size)
+
+
+def ice_shard(n=16):
+    """A chipped-off ice shard (alpha only): a jagged triangle."""
+    return _alpha(n, n, lambda x, y: 1 if y > 3 and abs(x - 7.5 - (y - 9) * .3) < (14 - y) * .55 else 0)
+
+
+def dm_phone(size=64, stage=0):
+    """A phone in a DM: 0 = the foe texts "hey", 1 = "hey??" "hello??", 2 = a red BLOCKED banner (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .22, S * .04, S * .78, S * .96], 14, fill=(30, 30, 36, 255), outline=OUT, width=6)
+    d.rectangle([S * .27, S * .12, S * .73, S * .86], fill=(245, 245, 250, 255))
+    for k in range(min(stage + 1, 2)):
+        y = .2 + k * .2
+        d.rounded_rectangle([S * .3, S * y, S * .62, S * (y + .14)], 8, fill=(220, 225, 235, 255))
+    if stage == 2:
+        d.rectangle([S * .22, S * .58, S * .78, S * .76], fill=(220, 30, 30, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    words = [("hey", (29, 14))] + ([("hey??", (29, 27))] if stage >= 1 else [])
+    im = _texted(im, words, (20, 20, 25, 255), (245, 245, 250, 255))
+    if stage == 2:
+        im = _texted(im, [("BLOCKED", (32, 40))], (255, 255, 255, 255), (120, 0, 0, 255))
+    return im
+
+
+def subway_rat(size=64, whip=False):
+    """A fat grey subway rat scurrying right: pink ears and nose, beady eye, long pink tail (whipped up overhead when
+    whip)."""
+    im, d, S = _big(size)
+    OUT = (30, 25, 25, 255)
+    if whip:
+        d.line([(S * .2, S * .62), (S * .1, S * .3), (S * .3, S * .06), (S * .6, S * .1)], fill=(230, 140, 150, 255), width=6, joint="curve")
+    else:
+        d.line([(S * .2, S * .66), (S * .06, S * .74), (S * .02, S * .6)], fill=(230, 140, 150, 255), width=6, joint="curve")
+    d.ellipse([S * .16, S * .46, S * .72, S * .86], fill=(130, 125, 125, 255), outline=OUT, width=6)
+    d.polygon([(S * .6, S * .5), (S * .96, S * .7), (S * .62, S * .82)], fill=(140, 135, 135, 255), outline=OUT)
+    d.line([(S * .6, S * .5), (S * .96, S * .7), (S * .62, S * .82)], fill=OUT, width=5)
+    d.ellipse([S * .56, S * .38, S * .7, S * .54], fill=(240, 160, 170, 255), outline=OUT, width=4)            # ear
+    d.ellipse([S * .74, S * .56, S * .8, S * .62], fill=OUT)                                                      # eye
+    d.ellipse([S * .92, S * .66, S * 1.0, S * .74], fill=(240, 120, 140, 255))                                    # nose
+    for x in (.3, .56):
+        d.line([(S * x, S * .84), (S * (x - .04), S * .94)], fill=(230, 140, 150, 255), width=4)                # feet
+    return _shrink(im, size)
+
+
+def interest_envelope(size=64):
+    """A fat bank envelope stuffed with cash, bills poking out, WITH INTEREST scrawled on it (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 50, 30, 255)
+    for k in range(4):
+        x = .2 + k * .14
+        d.rectangle([S * x, S * .12, S * (x + .2), S * .4], fill=(120, 190, 100, 255), outline=(30, 80, 30, 255), width=3)
+    d.rectangle([S * .06, S * .3, S * .94, S * .84], fill=(240, 225, 190, 255), outline=OUT, width=6)
+    d.polygon([(S * .06, S * .3), (S * .5, S * .56), (S * .94, S * .3)], fill=(225, 205, 160, 255), outline=OUT)
+    im = _shrink(im, size)
+    return _texted(im, [("WITH", (32, 37)), ("INTEREST", (32, 45))], (200, 20, 20, 255), (255, 245, 220, 255))
+
+
+def hot_potato(size=32):
+    """A baked potato so hot it's glowing red at the edges, steam squiggles coming off it."""
+    im, d, S = _big(size)
+    OUT = (70, 30, 10, 255)
+    d.ellipse([S * .08, S * .36, S * .92, S * .9], fill=(200, 120, 60, 255), outline=(230, 40, 20, 255), width=8)
+    for x, y in ((.3, .54), (.6, .62), (.46, .72)):
+        d.ellipse([S * x, S * y, S * (x + .06), S * (y + .05)], fill=OUT)
+    for x in (.3, .5, .7):
+        d.arc([S * (x - .08), S * .0, S * (x + .08), S * .34], 90, 270, fill=(255, 255, 255, 230), width=4)
+    return _shrink(im, size)
+
+
+# ---- set 28, batch 5: Flip Script, Cosplay, Guard Swarm, Honey Heal, Edge Up ---------------------------------------------
+
+def script_page(size=64, flipped=False):
+    """A movie script page: SCRIPT at the top, ATK over DEF in big type - swapped (DEF over ATK) when flipped
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (40, 40, 50, 255)
+    d.rectangle([S * .14, S * .04, S * .86, S * .96], fill=(250, 250, 240, 255), outline=OUT, width=6)
+    for y in (.62, .7, .78, .86):
+        d.line([(S * .24, S * y), (S * .76, S * y)], fill=(180, 180, 190, 255), width=3)
+    for y in (.1, .2):
+        d.ellipse([S * .18, S * y, S * .24, S * (y + .06)], fill=(120, 120, 130, 255))                           # binder holes
+    im = _shrink(im, size)
+    a, b = ("DEF", "ATK") if flipped else ("ATK", "DEF")
+    return _texted(im, [("SCRIPT", (34, 6)), (a, (34, 17)), (b, (34, 27))], (200, 30, 30, 255) if flipped else (30, 30, 40, 255), (250, 250, 240, 255))
+
+
+def costume_bag(size=64):
+    """A cheap Halloween costume in its plastic bag: a hanger hook up top, COSTUME across, a goofy mask pictured
+    (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    d.arc([S * .4, S * .0, S * .6, S * .16], 180, 360, fill=(160, 160, 170, 255), width=5)
+    d.rectangle([S * .12, S * .1, S * .88, S * .96], fill=(240, 120, 30, 230), outline=OUT, width=6)
+    d.ellipse([S * .3, S * .4, S * .7, S * .86], fill=(120, 200, 90, 255), outline=OUT, width=5)                  # the mask pic
+    for x in (.38, .54):
+        d.ellipse([S * x, S * .54, S * (x + .08), S * .62], fill=OUT)
+    d.arc([S * .4, S * .62, S * .6, S * .76], 20, 160, fill=OUT, width=4)
+    im = _shrink(im, size)
+    return _texted(im, [("COSTUME", (32, 12))], (255, 255, 255, 255), (60, 20, 0, 255))
+
+
+def cheap_mask(size=64):
+    """A cheap rubber monster mask: lime green, googly eyes, a lopsided grin, the elastic string."""
+    im, d, S = _big(size)
+    OUT = (20, 40, 10, 255)
+    d.line([(S * .06, S * .44), (S * .94, S * .44)], fill=(240, 240, 240, 255), width=3)
+    d.ellipse([S * .16, S * .1, S * .84, S * .92], fill=(130, 210, 80, 255), outline=OUT, width=6)
+    for x, r in ((.28, .12), (.56, .1)):
+        d.ellipse([S * x, S * .28, S * (x + 2 * r), S * (.28 + 2 * r)], fill=(255, 255, 255, 255), outline=OUT, width=4)
+        d.ellipse([S * (x + r * .7), S * (.28 + r * .9), S * (x + r * 1.3), S * (.28 + r * 1.5)], fill=OUT)
+    d.chord([S * .3, S * .52, S * .74, S * .8], 0, 180, fill=(60, 20, 20, 255), outline=OUT, width=4)
+    d.rectangle([S * .4, S * .66, S * .48, S * .72], fill=(255, 255, 255, 255))
+    return _shrink(im, size)
+
+
+def mall_cop(size=64):
+    """A mall cop on a segway, side view facing right: white shirt, cap and badge, the two-wheeled stand-up scooter."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.line([(S * .56, S * .3), (S * .66, S * .84)], fill=(60, 60, 66, 255), width=6)                             # handle bar post
+    d.line([(S * .5, S * .3), (S * .64, S * .28)], fill=(60, 60, 66, 255), width=6)
+    d.rounded_rectangle([S * .3, S * .24, S * .54, S * .58], 8, fill=(240, 240, 245, 255), outline=OUT, width=5)  # shirt
+    d.ellipse([S * .44, S * .32, S * .5, S * .38], fill=(250, 200, 50, 255))                                     # badge
+    d.rectangle([S * .3, S * .58, S * .54, S * .84], fill=(40, 50, 80, 255), outline=OUT, width=4)               # pants
+    d.ellipse([S * .32, S * .04, S * .52, S * .24], fill=(220, 170, 130, 255), outline=OUT, width=4)              # head
+    d.rectangle([S * .3, S * .02, S * .54, S * .1], fill=(40, 50, 80, 255), outline=OUT, width=3)                # cap
+    d.line([(S * .5, S * .08), (S * .6, S * .1)], fill=(40, 50, 80, 255), width=4)                                # brim
+    d.rectangle([S * .24, S * .84, S * .76, S * .9], fill=(60, 60, 66, 255), outline=OUT, width=3)               # deck
+    for x in (.28, .72):
+        d.ellipse([S * (x - .08), S * .82, S * (x + .08), S * .98], fill=(30, 30, 30, 255), outline=OUT, width=3)
+    return _shrink(im, size)
+
+
+def honey_bear(size=32):
+    """A plastic honey bear squeeze bottle: amber honey, a yellow cap on its head."""
+    im, d, S = _big(size)
+    OUT = (110, 60, 0, 255)
+    d.ellipse([S * .2, S * .44, S * .8, S * .98], fill=(240, 160, 30, 230), outline=OUT, width=5)
+    d.ellipse([S * .28, S * .2, S * .72, S * .56], fill=(240, 160, 30, 230), outline=OUT, width=5)
+    for x in (.26, .6):
+        d.ellipse([S * x, S * .16, S * (x + .14), S * .3], fill=(240, 160, 30, 230), outline=OUT, width=4)
+    d.rectangle([S * .42, S * .02, S * .58, S * .2], fill=(250, 220, 50, 255), outline=OUT, width=4)
+    d.ellipse([S * .38, S * .32, S * .44, S * .38], fill=OUT)
+    d.ellipse([S * .56, S * .32, S * .62, S * .38], fill=OUT)
+    return _shrink(im, size)
+
+
+def tea_mug(size=32):
+    """A big white mug of steaming tea with a tea bag tag hanging off it."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 20, 255)
+    d.rounded_rectangle([S * .14, S * .34, S * .74, S * .94], 8, fill=(250, 250, 250, 255), outline=OUT, width=5)
+    d.ellipse([S * .14, S * .3, S * .74, S * .42], fill=(170, 100, 40, 255), outline=OUT, width=4)
+    d.arc([S * .62, S * .46, S * .92, S * .8], 270, 90, fill=OUT, width=6)
+    d.line([(S * .3, S * .36), (S * .26, S * .62)], fill=(200, 200, 200, 255), width=2)
+    d.rectangle([S * .2, S * .6, S * .32, S * .72], fill=(250, 210, 60, 255), outline=OUT, width=2)
+    for x in (.34, .5):
+        d.arc([S * (x - .06), S * .0, S * (x + .06), S * .28], 90, 270, fill=(255, 255, 255, 220), width=4)
+    return _shrink(im, size)
+
+
+def chef_knife(size=64):
+    """A big chef's knife pointing up-right: wide steel blade with a shine line, black riveted handle."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.polygon([(S * .38, S * .62), (S * .92, S * .08), (S * .96, S * .16), (S * .5, S * .72)], fill=(215, 220, 230, 255), outline=OUT)
+    d.line([(S * .38, S * .62), (S * .92, S * .08), (S * .96, S * .16), (S * .5, S * .72), (S * .38, S * .62)], fill=OUT, width=5)
+    d.line([(S * .46, S * .62), (S * .9, S * .18)], fill=(255, 255, 255, 255), width=3)
+    d.line([(S * .1, S * .92), (S * .42, S * .66)], fill=OUT, width=int(S * .12))
+    d.line([(S * .1, S * .92), (S * .42, S * .66)], fill=(40, 40, 46, 255), width=int(S * .08))
+    for t in (.3, .6):
+        x, y = .1 + .32 * t, .92 - .26 * t
+        d.ellipse([S * (x - .02), S * (y - .02), S * (x + .02), S * (y + .02)], fill=(200, 200, 210, 255))
+    return _shrink(im, size)
+
+
+def honing_steel(size=64):
+    """A honing steel: a long ridged steel rod, a guard and a wood handle, pointing up-left."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.line([(S * .1, S * .1), (S * .62, S * .62)], fill=(150, 155, 165, 255), width=int(S * .06))
+    for k in range(6):
+        t = .1 + k * .14
+        x, y = .1 + .52 * t, .1 + .52 * t
+        d.line([(S * (x - .02), S * (y + .02)), (S * (x + .02), S * (y - .02))], fill=(100, 105, 115, 255), width=2)
+    d.line([(S * .56, S * .68), (S * .68, S * .56)], fill=OUT, width=8)                                          # guard
+    d.line([(S * .64, S * .64), (S * .92, S * .92)], fill=OUT, width=int(S * .11))
+    d.line([(S * .64, S * .64), (S * .92, S * .92)], fill=(150, 100, 50, 255), width=int(S * .07))
+    return _shrink(im, size)
+
+
+# ---- set 28, batch 6: Blend In, Night Vision, Paranoia, Fresh Scent, Mood Swap ----------------------------------------------
+
+def hivis_vest(size=64):
+    """A hi-vis safety vest: neon yellow-green with two silver reflective stripes, open front."""
+    im, d, S = _big(size)
+    OUT = (60, 70, 0, 255)
+    d.rectangle([S * .28, S * .1, S * .72, S * .96], fill=(170, 200, 30, 255), outline=OUT, width=5)   # the back, seen through the front
+    d.arc([S * .3, S * -.04, S * .7, S * .24], 0, 180, fill=OUT, width=6)                                      # neckline
+    for flip in (False, True):
+        xs = (lambda x: 1 - x) if flip else (lambda x: x)
+        pts = [(xs(.1), .1), (xs(.32), .1), (xs(.44), .5), (xs(.44), .96), (xs(.08), .96), (xs(.04), .4)]
+        _outline_poly(d, [(S * x, S * y) for x, y in pts], (210, 250, 40, 255), OUT, 6)
+        for y in (.6, .78):
+            d.line([(S * xs(.06), S * y), (S * xs(.44), S * y)], fill=(210, 215, 225, 255), width=7)
+    return _shrink(im, size)
+
+
+def work_clipboard(size=32):
+    """A brown clipboard with a checklist - looks official."""
+    im, d, S = _big(size)
+    OUT = (60, 35, 10, 255)
+    d.rounded_rectangle([S * .14, S * .1, S * .86, S * .96], 6, fill=(180, 120, 60, 255), outline=OUT, width=5)
+    d.rectangle([S * .22, S * .2, S * .78, S * .88], fill=(250, 250, 245, 255))
+    d.rectangle([S * .36, S * .04, S * .64, S * .16], fill=(170, 170, 180, 255), outline=OUT, width=4)
+    for y in (.34, .5, .66):
+        d.line([(S * .28, S * y), (S * .36, S * (y + .06)), (S * .44, S * (y - .04))], fill=(40, 160, 60, 255), width=4)
+        d.line([(S * .5, S * y), (S * .72, S * y)], fill=(150, 150, 160, 255), width=3)
+    return _shrink(im, size)
+
+
+def nv_goggles(size=64):
+    """Night vision goggles: a black binocular housing on a head strap, two glowing green lenses."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 10, 255)
+    d.line([(S * .0, S * .5), (S * 1.0, S * .5)], fill=(40, 40, 40, 255), width=8)
+    d.rounded_rectangle([S * .14, S * .3, S * .86, S * .7], 12, fill=(40, 45, 40, 255), outline=OUT, width=6)
+    for x in (.2, .54):
+        d.ellipse([S * x, S * .32, S * (x + .26), S * .68], fill=(30, 30, 30, 255), outline=OUT, width=5)
+        d.ellipse([S * (x + .04), S * .36, S * (x + .22), S * .64], fill=(80, 255, 110, 255))
+        d.ellipse([S * (x + .06), S * .38, S * (x + .12), S * .46], fill=(220, 255, 220, 255))
+    d.rectangle([S * .44, S * .16, S * .56, S * .32], fill=(40, 45, 40, 255), outline=OUT, width=4)          # the mount
+    return _shrink(im, size)
+
+
+def thought_cloud(size=64, lines=("?",)):
+    """A cloud-shaped thought bubble with trailing puffs bottom-left, holding a 3 a.m. thought (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (30, 30, 40, 255)
+    blobs = [(.06, .3, .4, .64), (.24, .16, .62, .52), (.5, .18, .9, .54), (.62, .34, .98, .68), (.3, .42, .74, .76), (.06, .46, .4, .76)]
+    for b in blobs:
+        d.ellipse([S * v for v in b], fill=OUT)
+    for b in blobs:
+        d.ellipse([S * (b[0] + .03), S * (b[1] + .03), S * (b[2] - .03), S * (b[3] - .03)], fill=(255, 255, 255, 255))
+    for x, y, r in ((.18, .84, .05), (.08, .94, .03)):
+        d.ellipse([S * (x - r), S * (y - r), S * (x + r), S * (y + r)], fill=(255, 255, 255, 255), outline=OUT, width=4)
+    im = _shrink(im, size)
+    y0 = 31 - 4 * len(lines)
+    return _texted(im, [(t, (33, y0 + k * 8)) for k, t in enumerate(lines)], (30, 30, 40, 255), (255, 255, 255, 255))
+
+
+def freshener_tree(size=32, col=0):
+    """A little pine-tree car air freshener on its string (green, red or black ice)."""
+    im, d, S = _big(size)
+    c = [(60, 170, 70, 255), (220, 50, 60, 255), (30, 30, 40, 255)][col % 3]
+    OUT = (20, 40, 20, 255)
+    d.line([(S * .5, S * .0), (S * .5, S * .22)], fill=(250, 250, 250, 255), width=3)
+    pts = [(.5, .18), (.66, .4), (.58, .4), (.76, .6), (.64, .6), (.84, .84), (.56, .84), (.56, .96), (.44, .96), (.44, .84),
+           (.16, .84), (.36, .6), (.24, .6), (.42, .4), (.34, .4)]
+    _outline_poly(d, [(S * x, S * y) for x, y in pts], c, OUT, 4)
+    return _shrink(im, size)
+
+
+def mood_ring(size=32, col=0):
+    """A mood ring: a silver band with a big oval stone (0 = red angry, 1 = blue chill, 2 = purple swapped)."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 70, 255)
+    stone = [(220, 40, 50, 255), (40, 130, 240, 255), (160, 60, 220, 255)][col % 3]
+    d.ellipse([S * .14, S * .4, S * .86, S * .96], outline=(200, 205, 215, 255), width=int(S * .1))
+    d.ellipse([S * .14, S * .4, S * .86, S * .96], outline=OUT, width=3)
+    d.ellipse([S * .28, S * .04, S * .72, S * .5], fill=stone, outline=OUT, width=5)
+    d.ellipse([S * .36, S * .1, S * .5, S * .24], fill=(255, 255, 255, 200))
+    return _shrink(im, size)
+
+
+# ---- set 29, batch 1: Blow Dryer, Snow Globe, Spinners, Throw Shade, Burned CD --------------------------------------------
+
+def blow_dryer(size=64):
+    """A hot pink salon blow dryer pointing right: round motor body, the nozzle, a handle down, the cord."""
+    im, d, S = _big(size)
+    OUT = (60, 10, 40, 255)
+    d.rectangle([S * .44, S * .3, S * .9, S * .5], fill=(240, 90, 170, 255), outline=OUT, width=6)              # nozzle
+    d.rectangle([S * .86, S * .26, S * .96, S * .54], fill=(60, 60, 66, 255), outline=OUT, width=4)
+    d.ellipse([S * .1, S * .16, S * .52, S * .62], fill=(240, 90, 170, 255), outline=OUT, width=6)              # motor
+    d.ellipse([S * .2, S * .26, S * .42, S * .52], fill=(60, 60, 66, 255))
+    for k in range(4):
+        d.line([(S * .23, S * (.3 + k * .06)), (S * .39, S * (.3 + k * .06))], fill=(120, 120, 130, 255), width=3)  # vent grille
+    d.line([(S * .32, S * .58), (S * .4, S * .92)], fill=OUT, width=int(S * .13))                               # handle
+    d.line([(S * .32, S * .58), (S * .4, S * .92)], fill=(240, 90, 170, 255), width=int(S * .09))
+    d.rectangle([S * .34, S * .66, S * .4, S * .72], fill=(255, 255, 255, 255))                                  # switch
+    d.line([(S * .4, S * .92), (S * .2, S * .98), (S * .04, S * .9)], fill=(60, 60, 66, 255), width=4)          # cord
+    return _shrink(im, size)
+
+
+def gust_slash(n=16):
+    """A razor gust (alpha only): a thin curved crescent."""
+    def f(x, y):
+        r1 = ((x - 4) ** 2 + (y - 8) ** 2) ** .5
+        return 1 if 8.5 < r1 < 10.5 and x > 6 else 0
+    return _alpha(n, n, f)
+
+
+def hood_snow_globe(size=64, storm=False):
+    """A snow globe of the block on a black base: a little row of buildings and a streetlight inside; storm = snow,
+    lightning and a little tornado swirling inside the glass."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 30, 255)
+    d.ellipse([S * .1, S * .04, S * .9, S * .84], fill=(200, 230, 255, 140) if not storm else (110, 120, 160, 200), outline=OUT, width=6)
+    for x, h in ((.26, .3), (.4, .22), (.54, .32), (.66, .26)):                                                   # the block
+        d.rectangle([S * x, S * (.66 - h), S * (x + .12), S * .66], fill=(150, 80, 60, 255), outline=OUT, width=3)
+        d.rectangle([S * (x + .03), S * (.66 - h + .05), S * (x + .06), S * (.66 - h + .09)], fill=(250, 220, 90, 255))
+    d.line([(S * .22, S * .66), (S * .22, S * .4)], fill=OUT, width=4)
+    d.ellipse([S * .19, S * .36, S * .27, S * .42], fill=(255, 240, 150, 255))
+    d.rectangle([S * .14, S * .64, S * .86, S * .72], fill=(240, 245, 250, 255))                                  # snow on the ground
+    d.polygon([(S * .14, S * .76), (S * .86, S * .76), (S * .94, S * .98), (S * .06, S * .98)], fill=(30, 30, 36, 255), outline=OUT)
+    import random
+    r = random.Random(7)
+    for _ in range(26 if storm else 10):
+        x, y = r.uniform(.2, .8), r.uniform(.12, .62)
+        d.ellipse([S * x, S * y, S * (x + .03), S * (y + .03)], fill=(255, 255, 255, 255))
+    if storm:
+        d.line([(S * .6, S * .14), (S * .54, S * .3), (S * .62, S * .3), (S * .56, S * .46)], fill=(255, 240, 80, 255), width=5)
+        for k in range(3):
+            d.arc([S * (.3 + k * .03), S * (.16 + k * .08), S * (.48 - k * .02), S * (.24 + k * .08)], 0, 300, fill=(230, 230, 240, 255), width=3)
+    d.arc([S * .2, S * .1, S * .5, S * .4], 200, 270, fill=(255, 255, 255, 255), width=5)
+    return _shrink(im, size)
+
+
+def spinner_rim(size=64, angle=0):
+    """A chrome spinner rim on a tire: the outer spinner blades rotated by `angle` degrees, sun-glint on the chrome."""
+    im, d, S = _big(size)
+    import math
+    OUT = (20, 20, 25, 255)
+    d.ellipse([S * .02, S * .02, S * .98, S * .98], fill=(30, 30, 34, 255), outline=OUT, width=6)               # tire
+    d.ellipse([S * .14, S * .14, S * .86, S * .86], fill=(200, 205, 215, 255), outline=OUT, width=5)
+    for k in range(5):                                                                                           # spinner blades
+        a = math.radians(angle + k * 72)
+        b = a + .5
+        d.polygon([(S * .5, S * .5), (S * (.5 + .34 * math.cos(a)), S * (.5 + .34 * math.sin(a))), (S * (.5 + .34 * math.cos(b)), S * (.5 + .34 * math.sin(b)))],
+                  fill=(235, 240, 250, 255), outline=(120, 125, 140, 255))
+    d.ellipse([S * .42, S * .42, S * .58, S * .58], fill=(250, 210, 50, 255), outline=OUT, width=4)
+    d.polygon([(S * .3, S * .22), (S * .36, S * .3), (S * .3, S * .38), (S * .24, S * .3)], fill=(255, 255, 255, 255))   # glint
+    return _shrink(im, size)
+
+
+def lampshade(size=64):
+    """A fringed living-room lampshade: cream drum shade with a gold trim and little tassels hanging off the rim."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 20, 255)
+    d.polygon([(S * .28, S * .16), (S * .72, S * .16), (S * .9, S * .7), (S * .1, S * .7)], fill=(245, 230, 190, 255), outline=OUT)
+    d.line([(S * .28, S * .16), (S * .72, S * .16), (S * .9, S * .7), (S * .1, S * .7), (S * .28, S * .16)], fill=OUT, width=6)
+    d.line([(S * .12, S * .64), (S * .88, S * .64)], fill=(220, 170, 50, 255), width=6)
+    d.line([(S * .24, S * .24), (S * .76, S * .24)], fill=(220, 170, 50, 255), width=5)
+    for k in range(8):                                                                                           # tassels
+        x = .14 + k * .103
+        d.line([(S * x, S * .7), (S * x, S * .84)], fill=(220, 170, 50, 255), width=3)
+        d.ellipse([S * (x - .025), S * .82, S * (x + .025), S * .88], fill=(200, 140, 40, 255))
+    d.line([(S * .36, S * .2), (S * .26, S * .6)], fill=(255, 250, 230, 255), width=4)
+    return _shrink(im, size)
+
+
+def burned_cd(size=64):
+    """A burned CD-R: rainbow-sheen silver disc with the hole, MIX hand-written on it in sharpie (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (60, 60, 70, 255)
+    d.ellipse([S * .04, S * .04, S * .96, S * .96], fill=(215, 220, 230, 255), outline=OUT, width=5)
+    for a0, col in ((200, (180, 230, 255, 255)), (250, (255, 200, 240, 255)), (300, (220, 255, 200, 255))):
+        d.arc([S * .12, S * .12, S * .88, S * .88], a0, a0 + 40, fill=col, width=10)
+    d.ellipse([S * .36, S * .36, S * .64, S * .64], fill=(240, 240, 245, 255), outline=OUT, width=3)
+    d.ellipse([S * .44, S * .44, S * .56, S * .56], fill=(0, 0, 0, 0), outline=OUT, width=3)
+    im = _shrink(im, size)
+    return _texted(im, [("MIX", (32, 10)), ("COPY", (32, 46))], (20, 20, 25, 255), (215, 220, 230, 255))
+
+
+def cd_boombox(size=64):
+    """A silver CD boombox: two big speakers, the CD lid on top popped open, a little LCD."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.line([(S * .2, S * .2), (S * .3, S * .06), (S * .7, S * .06), (S * .8, S * .2)], fill=(80, 80, 90, 255), width=6)   # handle
+    d.rounded_rectangle([S * .04, S * .2, S * .96, S * .86], 10, fill=(190, 195, 205, 255), outline=OUT, width=6)
+    for x in (.08, .64):
+        d.ellipse([S * x, S * .4, S * (x + .28), S * .8], fill=(40, 40, 46, 255), outline=OUT, width=4)
+        d.ellipse([S * (x + .09), S * .53, S * (x + .19), S * .67], fill=(90, 90, 100, 255))
+    d.ellipse([S * .38, S * .26, S * .62, S * .5], fill=(220, 225, 235, 255), outline=OUT, width=4)             # CD lid
+    d.rectangle([S * .4, S * .58, S * .6, S * .7], fill=(120, 200, 140, 255), outline=OUT, width=3)             # LCD
+    return _shrink(im, size)
+
+
+# ---- set 29, batch 2: Face Swap, Caricature, Rebrand, B-Side, Take the L ------------------------------------------------
+
+def faceswap_phone(size=64, stage=0):
+    """A phone running a face-swap filter: a face outline with tracking dots; 0 = SCAN with a scan line, 1 = SWAP with
+    two arrows, 2 = a sparkle and DONE (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (15, 15, 20, 255)
+    d.rounded_rectangle([S * .22, S * .04, S * .78, S * .96], 14, fill=(30, 30, 36, 255), outline=OUT, width=6)
+    d.rectangle([S * .27, S * .12, S * .73, S * .86], fill=(40, 30, 70, 255))
+    d.ellipse([S * .36, S * .26, S * .64, S * .62], outline=(120, 255, 200, 255), width=4)
+    for x, y in ((.44, .4), (.56, .4), (.5, .48), (.44, .55), (.56, .55)):
+        d.ellipse([S * (x - .015), S * (y - .015), S * (x + .015), S * (y + .015)], fill=(120, 255, 200, 255))
+    if stage == 0:
+        d.line([(S * .28, S * .46), (S * .72, S * .46)], fill=(255, 80, 200, 255), width=4)
+    elif stage == 1:
+        d.arc([S * .3, S * .2, S * .7, S * .68], 200, 340, fill=(255, 220, 80, 255), width=4)
+        d.arc([S * .3, S * .2, S * .7, S * .68], 20, 160, fill=(255, 220, 80, 255), width=4)
+    im = _shrink(im, size)
+    word = ("SCAN", "SWAP", "DONE")[stage]
+    return _texted(im, [(word, (32, 44))], (255, 255, 255, 255), (60, 20, 90, 255))
+
+
+def art_easel(size=64, stage=0):
+    """A street artist's easel with a canvas: 0 = blank, 1 = rough pencil lines, 2 = a finished big-head caricature
+    (giant head, tiny body, huge grin)."""
+    im, d, S = _big(size)
+    OUT = (60, 35, 10, 255)
+    for a, b in (((.2, .98), (.42, .1)), ((.8, .98), (.58, .1)), ((.5, .98), (.5, .5))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=(170, 110, 50, 255), width=7)
+    d.rectangle([S * .14, S * .08, S * .86, S * .7], fill=(252, 250, 240, 255), outline=OUT, width=6)
+    d.rectangle([S * .1, S * .68, S * .9, S * .74], fill=(170, 110, 50, 255), outline=OUT, width=3)
+    if stage == 1:
+        d.arc([S * .3, S * .14, S * .7, S * .5], 30, 330, fill=(120, 120, 130, 255), width=3)
+        d.line([(S * .5, S * .5), (S * .5, S * .62)], fill=(120, 120, 130, 255), width=3)
+    elif stage == 2:
+        d.ellipse([S * .26, S * .12, S * .74, S * .54], fill=(250, 210, 170, 255), outline=(30, 30, 30, 255), width=4)   # the giant head
+        for x in (.38, .56):
+            d.ellipse([S * x, S * .24, S * (x + .08), S * .34], fill=(255, 255, 255, 255), outline=(30, 30, 30, 255), width=3)
+        d.chord([S * .34, S * .32, S * .66, S * .5], 0, 180, fill=(255, 255, 255, 255), outline=(30, 30, 30, 255), width=3)   # grin
+        d.rectangle([S * .46, S * .54, S * .54, S * .62], fill=(80, 140, 220, 255), outline=(30, 30, 30, 255), width=2)   # tiny body
+        d.line([(S * .47, S * .62), (S * .45, S * .67)], fill=(30, 30, 30, 255), width=3)
+        d.line([(S * .53, S * .62), (S * .55, S * .67)], fill=(30, 30, 30, 255), width=3)
+    return _shrink(im, size)
+
+
+def artist_pencil(size=32):
+    """A big yellow pencil, point down-left."""
+    im, d, S = _big(size)
+    OUT = (40, 30, 0, 255)
+    d.line([(S * .3, S * .7), (S * .9, S * .1)], fill=OUT, width=int(S * .2))
+    d.line([(S * .3, S * .7), (S * .9, S * .1)], fill=(250, 200, 40, 255), width=int(S * .14))
+    d.polygon([(S * .22, S * .64), (S * .36, S * .78), (S * .08, S * .92)], fill=(240, 210, 160, 255), outline=OUT)
+    d.polygon([(S * .14, S * .82), (S * .18, S * .86), (S * .08, S * .92)], fill=(40, 40, 40, 255))
+    d.line([(S * .84, S * .04), (S * .96, S * .16)], fill=(240, 140, 160, 255), width=int(S * .12))
+    return _shrink(im, size)
+
+
+def paint_roller(size=64):
+    """A paint roller loaded with wet teal paint, drips coming off, the bent metal frame and black grip."""
+    im, d, S = _big(size)
+    OUT = (20, 30, 30, 255)
+    d.rounded_rectangle([S * .08, S * .1, S * .74, S * .34], 12, fill=(40, 190, 180, 255), outline=OUT, width=6)
+    for x in (.2, .44, .62):
+        d.ellipse([S * x, S * .3, S * (x + .06), S * .44], fill=(40, 190, 180, 255))
+    d.line([(S * .74, S * .22), (S * .86, S * .22), (S * .86, S * .5), (S * .62, S * .62)], fill=(170, 170, 180, 255), width=6)
+    d.line([(S * .62, S * .62), (S * .3, S * .94)], fill=OUT, width=int(S * .12))
+    d.line([(S * .62, S * .62), (S * .3, S * .94)], fill=(40, 40, 46, 255), width=int(S * .08))
+    d.line([(S * .14, S * .16), (S * .6, S * .16)], fill=(150, 240, 230, 255), width=4)
+    return _shrink(im, size)
+
+
+def bside_tape(size=64, side_b=False):
+    """A cassette tape: label with SIDE A (or SIDE B, flipped), the two reels, the window (shown at 1:1)."""
+    im, d, S = _big(size)
+    OUT = (20, 20, 25, 255)
+    d.rounded_rectangle([S * .04, S * .18, S * .96, S * .82], 8, fill=(40, 40, 46, 255) if not side_b else (220, 60, 80, 255), outline=OUT, width=6)
+    d.rectangle([S * .12, S * .24, S * .88, S * .56], fill=(250, 245, 225, 255), outline=OUT, width=4)
+    d.rectangle([S * .26, S * .42, S * .74, S * .54], fill=(30, 30, 36, 255))
+    for x in (.34, .66):
+        d.ellipse([S * (x - .05), S * .43, S * (x + .05), S * .53], fill=(250, 250, 250, 255))
+    d.polygon([(S * .24, S * .82), (S * .3, S * .66), (S * .7, S * .66), (S * .76, S * .82)], fill=(90, 90, 100, 255), outline=OUT)
+    im = _shrink(im, size)
+    return _texted(im, [("SIDE B" if side_b else "SIDE A", (32, 17))], (200, 30, 40, 255) if side_b else (30, 30, 40, 255), (250, 245, 225, 255))
+
+
+def giant_l(size=64):
+    """A giant red letter L, chunky and shiny with a dark outline - the L they're about to take."""
+    im, d, S = _big(size)
+    OUT = (70, 0, 10, 255)
+    pts = [(.22, .06), (.46, .06), (.46, .7), (.82, .7), (.82, .94), (.22, .94)]
+    _outline_poly(d, [(S * x, S * y) for x, y in pts], (230, 30, 40, 255), OUT, 8)
+    d.line([(S * .28, S * .12), (S * .28, S * .86)], fill=(255, 140, 140, 255), width=6)
+    d.line([(S * .32, S * .76), (S * .76, S * .76)], fill=(255, 140, 140, 255), width=5)
+    return _shrink(im, size)
+
+
+# ---- set 29, batch 3: Power Trade, Guard Trade, Shove Off, Dirty Cross, Open Window ----------------------------------------
+
+def preworkout_tub(size=32):
+    """A tub of pre-workout: black with a red lightning bolt and a scoop lid."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 10, 255)
+    d.rounded_rectangle([S * .16, S * .3, S * .84, S * .96], 8, fill=(30, 30, 34, 255), outline=OUT, width=5)
+    d.rectangle([S * .12, S * .16, S * .88, S * .32], fill=(230, 40, 40, 255), outline=OUT, width=4)
+    d.polygon([(S * .56, S * .38), (S * .36, S * .66), (S * .5, S * .66), (S * .42, S * .9), (S * .66, S * .58), (S * .52, S * .58)], fill=(250, 220, 40, 255))
+    return _shrink(im, size)
+
+
+def chamomile_box(size=32):
+    """A soft yellow box of chamomile tea with a little daisy on it."""
+    im, d, S = _big(size)
+    OUT = (110, 90, 30, 255)
+    d.rectangle([S * .12, S * .2, S * .88, S * .9], fill=(250, 235, 160, 255), outline=OUT, width=5)
+    for k in range(6):
+        import math
+        a = k * math.tau / 6
+        x, y = .5 + .14 * math.cos(a), .52 + .14 * math.sin(a)
+        d.ellipse([S * (x - .08), S * (y - .08), S * (x + .08), S * (y + .08)], fill=(255, 255, 255, 255))
+    d.ellipse([S * .43, S * .45, S * .57, S * .59], fill=(250, 190, 40, 255))
+    d.line([(S * .5, S * .66), (S * .5, S * .84)], fill=(90, 160, 70, 255), width=4)
+    return _shrink(im, size)
+
+
+def big_umbrella(size=64, busted=False):
+    """A big black golf umbrella, open - or a busted bodega umbrella: spokes snapped, canopy flipped inside out."""
+    im, d, S = _big(size)
+    OUT = (10, 10, 15, 255)
+    if busted:
+        d.polygon([(S * .5, S * .5), (S * .08, S * .1), (S * .3, S * .3), (S * .48, S * .04), (S * .62, S * .3), (S * .9, S * .14)],
+                  fill=(60, 60, 70, 255), outline=OUT)
+        for x, y in ((.08, .1), (.48, .04), (.9, .14), (.2, .4)):
+            d.line([(S * .5, S * .5), (S * x, S * y)], fill=(160, 160, 170, 255), width=3)
+    else:
+        d.chord([S * .02, S * .1, S * .98, S * .8], 180, 360, fill=(30, 30, 40, 255), outline=OUT, width=6)
+        for x in (.26, .5, .74):
+            d.line([(S * .5, S * .14), (S * x, S * .45)], fill=(90, 90, 110, 255), width=3)
+        d.arc([S * .1, S * .16, S * .5, S * .6], 200, 260, fill=(120, 120, 140, 255), width=5)
+    d.line([(S * .5, S * .44), (S * .5, S * .9)], fill=(170, 170, 180, 255), width=5)
+    d.arc([S * .5, S * .82, S * .66, S * .98], 0, 180, fill=(120, 70, 30, 255), width=7)                        # the hook handle
+    return _shrink(im, size)
+
+
+def push_broom(size=64):
+    """A wide push broom pointing right: long wood handle, a fat black bristle head."""
+    im, d, S = _big(size)
+    OUT = (20, 15, 10, 255)
+    d.line([(S * .02, S * .2), (S * .66, S * .5)], fill=OUT, width=int(S * .08))
+    d.line([(S * .02, S * .2), (S * .66, S * .5)], fill=(200, 150, 90, 255), width=int(S * .05))
+    d.rectangle([S * .62, S * .16, S * .78, S * .84], fill=(150, 100, 50, 255), outline=OUT, width=5)          # block
+    for k in range(10):                                                                                           # bristles
+        y = .2 + k * .065
+        d.line([(S * .78, S * y), (S * .96, S * y)], fill=(30, 30, 30, 255), width=4)
+    return _shrink(im, size)
+
+
+def spray_can(size=64):
+    """A spray paint can: toxic green, white cap and nozzle, a drip down the side."""
+    im, d, S = _big(size)
+    OUT = (10, 30, 10, 255)
+    d.rounded_rectangle([S * .3, S * .3, S * .7, S * .96], 10, fill=(90, 210, 60, 255), outline=OUT, width=6)
+    d.rectangle([S * .3, S * .52, S * .7, S * .68], fill=(30, 30, 30, 255))
+    d.chord([S * .3, S * .14, S * .7, S * .46], 180, 360, fill=(240, 240, 240, 255), outline=OUT, width=5)
+    d.rectangle([S * .44, S * .06, S * .56, S * .18], fill=(240, 240, 240, 255), outline=OUT, width=4)
+    d.line([(S * .38, S * .3), (S * .38, S * .42)], fill=(90, 210, 60, 255), width=5)
+    d.line([(S * .36, S * .36), (S * .36, S * .5)], fill=(160, 255, 120, 255), width=3)
+    return _shrink(im, size)
+
+
+def paint_x(size=64):
+    """A dripping spray-painted X tag in toxic green."""
+    im, d, S = _big(size)
+    G, OUT = (110, 230, 60, 255), (30, 70, 10, 255)
+    for a, b in (((.12, .12), (.88, .82)), ((.86, .1), (.14, .84))):
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=OUT, width=int(S * .18))
+        d.line([(S * a[0], S * a[1]), (S * b[0], S * b[1])], fill=G, width=int(S * .12))
+    for x, y in ((.2, .84), (.84, .86), (.5, .54)):                                                              # drips
+        d.line([(S * x, S * y), (S * x, S * (y + .12))], fill=G, width=5)
+        d.ellipse([S * (x - .03), S * (y + .1), S * (x + .03), S * (y + .16)], fill=G)
+    return _shrink(im, size)
+
+
+def sash_window(size=64, opened=False):
+    """An apartment sash window in a brick wall: closed, or the bottom pane pushed up with the night air coming in."""
+    im, d, S = _big(size)
+    OUT = (30, 20, 15, 255)
+    d.rectangle([S * .0, S * .0, S * 1.0, S * 1.0], fill=(160, 70, 50, 255))
+    for r in range(8):
+        y = r * .125
+        d.line([(0, S * y), (S, S * y)], fill=(120, 50, 35, 255), width=3)
+    d.rectangle([S * .14, S * .08, S * .86, S * .92], fill=(240, 240, 235, 255), outline=OUT, width=6)
+    top = (.14, .08, .86, .5)
+    d.rectangle([S * .2, S * .14, S * .8, S * .46], fill=(150, 190, 220, 255), outline=OUT, width=4)
+    if opened:
+        d.rectangle([S * .2, S * .52, S * .8, S * .86], fill=(20, 20, 40, 255))                                  # open air
+        d.rectangle([S * .18, S * .4, S * .82, S * .5], fill=(240, 240, 235, 255), outline=OUT, width=4)        # the pane pushed up
+    else:
+        d.rectangle([S * .2, S * .54, S * .8, S * .86], fill=(150, 190, 220, 255), outline=OUT, width=4)
+        d.line([(S * .14, S * .5), (S * .86, S * .5)], fill=OUT, width=6)
+    return _shrink(im, size)
+
+
+def pizza_box_fan(size=64):
+    """A greasy flat pizza box being waved like a fan, a grease spot on the lid."""
+    im, d, S = _big(size)
+    OUT = (90, 60, 20, 255)
+    d.polygon([(S * .06, S * .3), (S * .9, S * .14), (S * .96, S * .64), (S * .12, S * .82)], fill=(225, 195, 140, 255), outline=OUT)
+    d.line([(S * .06, S * .3), (S * .9, S * .14), (S * .96, S * .64), (S * .12, S * .82), (S * .06, S * .3)], fill=OUT, width=6)
+    d.ellipse([S * .5, S * .34, S * .72, S * .5], fill=(190, 140, 70, 255))                                     # grease spot
+    d.line([(S * .12, S * .82), (S * .96, S * .64), (S * .96, S * .7), (S * .14, S * .88)], fill=OUT, width=4)
+    return _shrink(im, size)

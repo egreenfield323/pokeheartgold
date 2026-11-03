@@ -1681,7 +1681,7 @@
 	</row>
 	<row id="msg_0191_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">U-TURN\n40 BP</language>
+		<language name="English">SCOOT OFF\n40 BP</language>
 	</row>
 	<row id="msg_0191_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
