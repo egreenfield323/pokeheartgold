@@ -6,1870 +6,1870 @@
 	</row>
 	<row id="msg_0749_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stomps the foe out\nwith whatever’s handy.\nBasic but\ndisrespectful.</language>
+		<language name="English">Stomps the foe out\nwith whatever’s\nhandy. Basic but\ndisrespectful.\n</language>
 	</row>
 	<row id="msg_0749_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strip mall dojo chop.\nLands critical hits\neasy.</language>
+		<language name="English">Strip mall dojo chop.\nLands critical hits\neasy.\n</language>
 	</row>
 	<row id="msg_0749_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Backhands the foe two\nto five times. Pure\ndisrespect.</language>
+		<language name="English">Backhands the foe two\nto five times. Pure\ndisrespect.\n</language>
 	</row>
 	<row id="msg_0749_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A two-piece and then\nsome. Hits two to five\ntimes.</language>
+		<language name="English">A two-piece and then\nsome. Hits two to five\ntimes.\n</language>
 	</row>
 	<row id="msg_0749_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Asks if the foe wants\na fade. They get one.</language>
+		<language name="English">Asks if the foe wants\na fade. They get one.\n</language>
 	</row>
 	<row id="msg_0749_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Makes it rain on the\nfoe. Picks up cash\nafter the battle.</language>
+		<language name="English">Makes it rain on the\nfoe. Picks up cash\nafter the battle.\n</language>
 	</row>
 	<row id="msg_0749_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hands too hot to hold.\nMay leave the foe\nburned.</language>
+		<language name="English">Hands too hot to\nhold. May leave the\nfoe burned.\n</language>
 	</row>
 	<row id="msg_0749_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cold cocks the foe\nwith a frozen turkey.\nMay freeze them.</language>
+		<language name="English">Cold cocks the foe\nwith a frozen turkey.\nMay freeze them.\n</language>
 	</row>
 	<row id="msg_0749_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A punch with a taser\ntaped to the fist. May\nparalyze.</language>
+		<language name="English">A punch with a taser\ntaped to the fist. May\nparalyze.\n</language>
 	</row>
 	<row id="msg_0749_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walks up and pistol\nwhips the foe. Old\nschool.</language>
+		<language name="English">Walks up and pistol\nwhips the foe. Old\nschool.\n</language>
 	</row>
 	<row id="msg_0749_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A clothespin on the\nfoe. Then a bigger\none.</language>
+		<language name="English">A clothespin on the\nfoe. Then a bigger\none.\n</language>
 	</row>
 	<row id="msg_0749_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lights out. If it\nlands, the foe is\ndone. Rarely lands.</language>
+		<language name="English">Lights out. If it\nlands, the foe is\ndone. Rarely lands.\n</language>
 	</row>
 	<row id="msg_0749_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plugs in the blow\ndryer, cranks it to\nHIGH, then blasts.\nHits next turn. High\ncrit ratio.</language>
+		<language name="English">Blow dryer on HIGH,\nthen it blasts next\nturn. High crit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spins the gun on a\nfinger like a movie.\nSharply raises Attack.</language>
+		<language name="English">Spins the gun on a\nfinger like a movie.\nSharply raises\nAttack.\n</language>
 	</row>
 	<row id="msg_0749_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shanks the foe with a\nbox cutter. Can clear\nsmall trees outside.</language>
+		<language name="English">Shanks the foe with a\nbox cutter. Can clear\nsmall trees outside.\n</language>
 	</row>
 	<row id="msg_0749_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fans the foe with a\nblast of wind. Hits\nflyers mid-air.</language>
+		<language name="English">Fans the foe with a\nblast of wind. Hits\nflyers mid-air.\n</language>
 	</row>
 	<row id="msg_0749_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rolls up on the foe’s\nside and lets off a\nshot.</language>
+		<language name="English">Rolls up on the foe’s\nside and lets off a\nshot.\n</language>
 	</row>
 	<row id="msg_0749_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Runs the foe off the\nblock. Ends wild\nbattles.</language>
+		<language name="English">Runs the foe off the\nblock. Ends wild\nbattles.\n</language>
 	</row>
 	<row id="msg_0749_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Catches a flight on\nturn one, dive-bombs\nthe foe on turn two.</language>
+		<language name="English">Catches a flight on\nturn one, dive-bombs\nthe foe on turn two.\n</language>
 	</row>
 	<row id="msg_0749_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zip ties the foe for\ntwo to five turns.\nThey ain’t going\nnowhere.</language>
+		<language name="English">Zip ties the foe for\ntwo to five turns.\nThey ain’t going\nnowhere.\n</language>
 	</row>
 	<row id="msg_0749_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Body bags the foe with\na full-weight slam.</language>
+		<language name="English">Body bags the foe with\na full-weight slam.\n</language>
 	</row>
 	<row id="msg_0749_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Takes off the belt and\nwhips the foe with it.</language>
+		<language name="English">Takes off the belt and\nwhips the foe with it.\n</language>
 	</row>
 	<row id="msg_0749_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A curb stomp. May make\nthe foe flinch.</language>
+		<language name="English">A curb stomp. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two quick shots, pop\npop. Hits twice.</language>
+		<language name="English">Two quick shots, pop\npop. Hits twice.\n</language>
 	</row>
 	<row id="msg_0749_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kicks the door off its\nhinges onto the foe.</language>
+		<language name="English">Kicks the door off its\nhinges onto the foe.\n</language>
 	</row>
 	<row id="msg_0749_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jumps out the bushes\nwith a kick. Hurts the\nuser if it misses.</language>
+		<language name="English">Jumps out the bushes\nwith a kick. Hurts the\nuser if it misses.\n</language>
 	</row>
 	<row id="msg_0749_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rolls up on skates\nwith a spin kick. May\nmake the foe flinch.</language>
+		<language name="English">Rolls up on skates\nwith a spin kick. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pocket sand to the\neyes. Lowers the foe’s\naccuracy.</language>
+		<language name="English">Pocket sand to the\neyes. Lowers the\nfoe’s accuracy.\n</language>
 	</row>
 	<row id="msg_0749_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Checks the foe’s dome\nwith a running\nheadbutt. May make\nthem flinch.</language>
+		<language name="English">Checks the foe’s dome\nwith a running\nheadbutt. May make\nthem flinch.\n</language>
 	</row>
 	<row id="msg_0749_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leans on the air horn\nright in the foe’s\near.</language>
+		<language name="English">Leans on the air horn\nright in the foe’s\near.\n</language>
 	</row>
 	<row id="msg_0749_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spray and pray, two to\nfive shots. Somebody’s\ngetting hit.</language>
+		<language name="English">Spray and pray, two\nto five shots.\nSomebody’s getting\nhit.\n</language>
 	</row>
 	<row id="msg_0749_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A drill, a bigger\ndrill, an industrial\ndrill. If it hits, the\nfoe is done.</language>
+		<language name="English">A drill, a bigger drill,\nan industrial drill. If\nit hits, the foe is\ndone.\n</language>
 	</row>
 	<row id="msg_0749_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Full metal jacket. A\nbasic shot that always\nshows up.</language>
+		<language name="English">Full metal jacket. A\nbasic shot that\nalways shows up.\n</language>
 	</row>
 	<row id="msg_0749_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A belly flop off the\ndiving board, right\nonto the foe. May\nparalyze.</language>
+		<language name="English">A belly flop off the\ndiving board, right\nonto the foe. May\nparalyze.\n</language>
 	</row>
 	<row id="msg_0749_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Duct tapes the foe for\ntwo to five turns.</language>
+		<language name="English">Duct tapes the foe\nfor two to five turns.\n</language>
 	</row>
 	<row id="msg_0749_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charges in swinging a\nfolding chair. Hurts\nthe user too.</language>
+		<language name="English">Charges in swinging a\nfolding chair. Hurts\nthe user too.\n</language>
 	</row>
 	<row id="msg_0749_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crashes out for two to\nthree turns, then gets\nconfused.</language>
+		<language name="English">Crashes out for two\nto three turns, then\ngets confused.\n</language>
 	</row>
 	<row id="msg_0749_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goes kamikaze. Big\ndamage but the user\ntakes some recoil.</language>
+		<language name="English">Goes kamikaze. Big\ndamage but the user\ntakes some recoil.\n</language>
 	</row>
 	<row id="msg_0749_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Twerks on the foe. So\ndisrespectful their\nDefense drops.</language>
+		<language name="English">Twerks on the foe. So\ndisrespectful their\nDefense drops.\n</language>
 	</row>
 	<row id="msg_0749_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A quick shiv dipped in\nsomething nasty. May\npoison.</language>
+		<language name="English">A quick shiv dipped in\nsomething nasty. May\npoison.\n</language>
 	</row>
 	<row id="msg_0749_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two buzzes of a tattoo\ngun. MOM. It gets\ninfected: may poison.</language>
+		<language name="English">Two buzzes of a\ntattoo gun. MOM. It\ngets infected: may\npoison.\n</language>
 	</row>
 	<row id="msg_0749_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fires a nail gun two\nto five times.</language>
+		<language name="English">Fires a nail gun two to\nfive times.\n</language>
 	</row>
 	<row id="msg_0749_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A cold stare down.\nLowers the foe’s\nDefense.</language>
+		<language name="English">A cold stare down.\nLowers the foe’s\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chomps down with a\nfull set of gold\ngrillz. May make the\nfoe flinch.</language>
+		<language name="English">Chomps down with a\nfull set of gold grillz.\nMay make the foe\nflinch.\n</language>
 	</row>
 	<row id="msg_0749_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talks trash until the\nfoe’s Attack drops.</language>
+		<language name="English">Talks trash until the\nfoe’s Attack drops.\n</language>
 	</row>
 	<row id="msg_0749_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woop woop. The foe\nruns off. Ends wild\nbattles.</language>
+		<language name="English">Woop woop. The foe\nruns off. Ends wild\nbattles.\n</language>
 	</row>
 	<row id="msg_0749_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drops a track so\nsmooth the foe falls\nasleep.</language>
+		<language name="English">Drops a track so\nsmooth the foe falls\nasleep.\n</language>
 	</row>
 	<row id="msg_0749_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bass boosted till the\nfoe’s head rattles.\nMay confuse.</language>
+		<language name="English">Bass boosted till the\nfoe’s head rattles.\nMay confuse.\n</language>
 	</row>
 	<row id="msg_0749_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pops the trunk on a\nwall of subs. Always\ndoes 20 damage.</language>
+		<language name="English">Pops the trunk on a\nwall of subs. Always\ndoes 20 damage.\n</language>
 	</row>
 	<row id="msg_0749_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jams the foe’s gun.\nTheir last move can’t\nbe used for a while.</language>
+		<language name="English">Jams the foe’s gun.\nTheir last move can’t\nbe used for a while.\n</language>
 	</row>
 	<row id="msg_0749_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws battery acid.\nMay lower the foe’s\nSp. Def.</language>
+		<language name="English">Throws battery acid.\nMay lower the foe’s\nSp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hot shot. May leave\nthe foe burned.</language>
+		<language name="English">A hot shot. May leave\nthe foe burned.\n</language>
 	</row>
 	<row id="msg_0749_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lobs a Molotov. Flames\neverywhere. May burn\nthe foe.</language>
+		<language name="English">Lobs a Molotov.\nFlames everywhere.\nMay burn the foe.\n</language>
 	</row>
 	<row id="msg_0749_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blows a vape cloud\nover the team. Stats\ncan’t be lowered for 5\nturns.</language>
+		<language name="English">Blows a vape cloud\nover the team. Stats\ncan’t be lowered for 5\nturns.\n</language>
 	</row>
 	<row id="msg_0749_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cracks open a fire\nhydrant on the foe.</language>
+		<language name="English">Cracks open a fire\nhydrant on the foe.\n</language>
 	</row>
 	<row id="msg_0749_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Opens a fire hose on\nthe foe, full blast.\nMassive pressure.</language>
+		<language name="English">Opens a fire hose on\nthe foe, full blast.\nMassive pressure.\n</language>
 	</row>
 	<row id="msg_0749_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hydrant wave floods\nthe whole block. Hits\neverybody. Rides\nacross water outside.</language>
+		<language name="English">A hydrant wave floods\nthe whole block. Hits\neverybody. Rides\nacross water outside.\n</language>
 	</row>
 	<row id="msg_0749_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ices the foe out in\ndiamonds. May freeze\nthem solid.</language>
+		<language name="English">Ices the foe out in\ndiamonds. May freeze\nthem solid.\n</language>
 	</row>
 	<row id="msg_0749_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shaved-ice machine\nburies the block. May\nfreeze.</language>
+		<language name="English">A shaved-ice machine\nburies the block. May\nfreeze.\n</language>
 	</row>
 	<row id="msg_0749_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Puts the laser sight\nright on them. May\nconfuse.</language>
+		<language name="English">Puts the laser sight\nright on them. May\nconfuse.\n</language>
 	</row>
 	<row id="msg_0749_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stream of spit to\nthe face. May lower\nthe foe’s Speed.</language>
+		<language name="English">A stream of spit to\nthe face. May lower\nthe foe’s Speed.\n</language>
 	</row>
 	<row id="msg_0749_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The liquor store neon\nsign lights them up.\nMay lower Attack.</language>
+		<language name="English">The liquor store neon\nsign lights them up.\nMay lower Attack.\n</language>
 	</row>
 	<row id="msg_0749_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pistol jams, so out\ncomes the minigun.\nFull auto. The user\nhas to reload next\nturn.</language>
+		<language name="English">Pistol jams, so out\ncomes the minigun.\nFull auto. Has to\nreload next turn.\n</language>
 	</row>
 	<row id="msg_0749_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokes the foe hard in\nthe chest.</language>
+		<language name="English">Pokes the foe hard in\nthe chest.\n</language>
 	</row>
 	<row id="msg_0749_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A jackhammer at 6\na.m., right on the\nfoe.</language>
+		<language name="English">A jackhammer at 6\na.m., right on the\nfoe.\n</language>
 	</row>
 	<row id="msg_0749_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gets the foe to sign a\n360 deal. The user\ntakes recoil.</language>
+		<language name="English">Gets the foe to sign a\n360 deal. The user\ntakes recoil.\n</language>
 	</row>
 	<row id="msg_0749_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweeps the leg. Hits\nharder on heavier\nfoes.</language>
+		<language name="English">Sweeps the leg. Hits\nharder on heavier\nfoes.\n</language>
 	</row>
 	<row id="msg_0749_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Claps back on a\nphysical hit for\ndouble the damage.</language>
+		<language name="English">Claps back on a\nphysical hit for\ndouble the damage.\n</language>
 	</row>
 	<row id="msg_0749_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suplexes the foe.\nDamage equals the\nuser’s level.</language>
+		<language name="English">Suplexes the foe.\nDamage equals the\nuser’s level.\n</language>
 	</row>
 	<row id="msg_0749_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pure muscle. Can push\nboulders outside\nbattle.</language>
+		<language name="English">Pure muscle. Can push\nboulders outside\nbattle.\n</language>
 	</row>
 	<row id="msg_0749_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taxes the foe. The\nuser gets half of it\nback.</language>
+		<language name="English">Taxes the foe. The\nuser gets half of it\nback.\n</language>
 	</row>
 	<row id="msg_0749_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big tax. The receipt\nnever ends. The user\nkeeps half the damage\nas HP.</language>
+		<language name="English">Big tax. The receipt\nnever ends. The user\nkeeps half the damage\nas HP.\n</language>
 	</row>
 	<row id="msg_0749_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The freeloading cousin\nmoves in. Drains the\nfoe’s HP every turn.</language>
+		<language name="English">The freeloading cousin\nmoves in. Drains the\nfoe’s HP every turn.\n</language>
 	</row>
 	<row id="msg_0749_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bulks up. Raises\nAttack and Sp. Atk.</language>
+		<language name="English">Bulks up. Raises\nAttack and Sp. Atk.\n</language>
 	</row>
 	<row id="msg_0749_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flings razor-sharp\nzaza leaves. High\ncritical-hit ratio.</language>
+		<language name="English">Flings razor-sharp\nzaza leaves. High\ncritical-hit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bakes in the tanning\nbed one turn, fires\nthe tan the next.</language>
+		<language name="English">Bakes in the tanning\nbed one turn, fires\nthe tan the next.\n</language>
 	</row>
 	<row id="msg_0749_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pepper spray to the\nface. Poisons the foe.</language>
+		<language name="English">Pepper spray to the\nface. Poisons the foe.\n</language>
 	</row>
 	<row id="msg_0749_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clamps a parking boot\non the foe. Paralyzes\nthem.</language>
+		<language name="English">Clamps a parking boot\non the foe. Paralyzes\nthem.\n</language>
 	</row>
 	<row id="msg_0749_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hands the foe a fat\ncigar. One drag and\nthey’re out cold.</language>
+		<language name="English">Hands the foe a fat\ncigar. One drag and\nthey’re out cold.\n</language>
 	</row>
 	<row id="msg_0749_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Takes a victory lap\nfor two to three\nturns, then gets\nconfused.</language>
+		<language name="English">Takes a victory lap\nfor two to three\nturns, then gets\nconfused.\n</language>
 	</row>
 	<row id="msg_0749_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Silly string\neverywhere. Lowers the\nfoe’s Speed.</language>
+		<language name="English">Silly string\neverywhere. Lowers\nthe foe’s Speed.\n</language>
 	</row>
 	<row id="msg_0749_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Road rage. Always does\n40 damage.</language>
+		<language name="English">Road rage. Always\ndoes 40 damage.\n</language>
 	</row>
 	<row id="msg_0749_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Doughnuts around the\nfoe for two to five\nturns. They’re\ntrapped.</language>
+		<language name="English">Doughnuts around the\nfoe for two to five\nturns. They’re\ntrapped.\n</language>
 	</row>
 	<row id="msg_0749_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tases the foe. May\nparalyze.</language>
+		<language name="English">Tases the foe. May\nparalyze.\n</language>
 	</row>
 	<row id="msg_0749_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The big taser. May\nparalyze the foe.</language>
+		<language name="English">The big taser. May\nparalyze the foe.\n</language>
 	</row>
 	<row id="msg_0749_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stun taser.\nParalyzes the foe.</language>
+		<language name="English">A stun taser.\nParalyzes the foe.\n</language>
 	</row>
 	<row id="msg_0749_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drops a live power\nline on the foe. May\nparalyze.</language>
+		<language name="English">Drops a live power line\non the foe. May\nparalyze.\n</language>
 	</row>
 	<row id="msg_0749_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tosses a brick at the\nfoe’s head.</language>
+		<language name="English">Tosses a brick at the\nfoe’s head.\n</language>
 	</row>
 	<row id="msg_0749_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drops the bass so hard\nthe whole block\nshakes. Hits\neverybody.</language>
+		<language name="English">Drops the bass so\nhard the whole block\nshakes. Hits\neverybody.\n</language>
 	</row>
 	<row id="msg_0749_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Opens a sinkhole under\nthe foe. If it lands,\nthey’re done.</language>
+		<language name="English">Opens a sinkhole\nunder the foe. If it\nlands, they’re done.\n</language>
 	</row>
 	<row id="msg_0749_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lays low underground,\nthen pops up on turn\ntwo.</language>
+		<language name="English">Lays low underground,\nthen pops up on turn\ntwo.\n</language>
 	</row>
 	<row id="msg_0749_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A double cup of the\ndirty stuff, to the\nface. Badly poisons\nthe foe.</language>
+		<language name="English">A double cup of the\ndirty stuff, to the\nface. Badly poisons\nthe foe.\n</language>
 	</row>
 	<row id="msg_0749_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dangles the chain in\nfront of the foe’s\nface. May confuse.</language>
+		<language name="English">Dangles the chain in\nfront of the foe’s\nface. May confuse.\n</language>
 	</row>
 	<row id="msg_0749_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swings the chain like\na hypnotist. May lower\nSp. Def.</language>
+		<language name="English">Swings the chain like a\nhypnotist. May lower\nSp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smooth talks the foe\nstraight to sleep.</language>
+		<language name="English">Smooth talks the foe\nstraight to sleep.\n</language>
 	</row>
 	<row id="msg_0749_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yoga class. Something\ncracks, but it works.\nRaises Attack.</language>
+		<language name="English">Yoga class. Something\ncracks, but it works.\nRaises Attack.\n</language>
 	</row>
 	<row id="msg_0749_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Laces up the fresh\npair. Sharply raises\nSpeed.</language>
+		<language name="English">Laces up the fresh\npair. Sharply raises\nSpeed.\n</language>
 	</row>
 	<row id="msg_0749_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rolls up in the whip,\nlets off, peels out.\nAlways goes first.</language>
+		<language name="English">Rolls up in the whip,\nlets off, peels out.\nAlways goes first.\n</language>
 	</row>
 	<row id="msg_0749_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starts beef with a\nT-bone. Attack goes up\nevery time the user\ngets hit.</language>
+		<language name="English">Starts beef with a\nT-bone. Attack goes\nup every time the\nuser gets hit.\n</language>
 	</row>
 	<row id="msg_0749_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dips out of a wild\nbattle.</language>
+		<language name="English">Dips out of a wild\nbattle.\n</language>
 	</row>
 	<row id="msg_0749_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clocks in for the\nnight shift and mops\nthe foe out. Damage\nequals the user’s\nlevel.</language>
+		<language name="English">Clocks in for the\nnight shift, mops the\nfoe. Damage = the\nuser’s level.\n</language>
 	</row>
 	<row id="msg_0749_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bites the foe’s whole\nstyle and copies its\nlast move.</language>
+		<language name="English">Bites the foe’s whole\nstyle and copies its\nlast move.\n</language>
 	</row>
 	<row id="msg_0749_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sets off the car\nalarm. Sharply lowers\nthe foe’s Defense.</language>
+		<language name="English">Sets off the car\nalarm. Sharply lowers\nthe foe’s Defense.\n</language>
 	</row>
 	<row id="msg_0749_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calls the squad up.\nRaises evasion.</language>
+		<language name="English">Calls the squad up.\nRaises evasion.\n</language>
 	</row>
 	<row id="msg_0749_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reloads and patches\nup. Restores half its\nmax HP.</language>
+		<language name="English">Reloads and patches\nup. Restores half its\nmax HP.\n</language>
 	</row>
 	<row id="msg_0749_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws on the Kevlar.\nRaises Defense.</language>
+		<language name="English">Throws on the Kevlar.\nRaises Defense.\n</language>
 	</row>
 	<row id="msg_0749_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ducks into a clothing\nrack. Sharply raises\nevasion.</language>
+		<language name="English">Ducks into a clothing\nrack. Sharply raises\nevasion.\n</language>
 	</row>
 	<row id="msg_0749_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hotboxes the whole\nspot. Lowers the foe’s\naccuracy.</language>
+		<language name="English">Hotboxes the whole\nspot. Lowers the\nfoe’s accuracy.\n</language>
 	</row>
 	<row id="msg_0749_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shines a flashlight in\nthe foe’s eyes.\nConfuses them.</language>
+		<language name="English">Shines a flashlight in\nthe foe’s eyes.\nConfuses them.\n</language>
 	</row>
 	<row id="msg_0749_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hides out in the trap\nhouse. Raises Defense.</language>
+		<language name="English">Hides out in the trap\nhouse. Raises\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fetal position. Raises\nDefense.</language>
+		<language name="English">Fetal position. Raises\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shoves the couch, the\nmattress, and the\ndresser in front.\nSharply raises\nDefense.</language>
+		<language name="English">Shoves the couch and\nthe mattress in\nfront. Sharply raises\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A riot shield. Cuts\nspecial damage for 5\nturns.</language>
+		<language name="English">A riot shield. Cuts\nspecial damage for 5\nturns.\n</language>
 	</row>
 	<row id="msg_0749_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waves a dish towel and\nsprays air freshener.\nClears all stat\nchanges.</language>
+		<language name="English">Waves a dish towel and\nsprays air freshener.\nClears all stat\nchanges.\n</language>
 	</row>
 	<row id="msg_0749_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The corner-store\nbulletproof glass.\nCuts physical damage\nfor 5 turns.</language>
+		<language name="English">The corner-store\nbulletproof glass.\nCuts physical damage\nfor 5 turns.\n</language>
 	</row>
 	<row id="msg_0749_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Locks in. Critical\nhits come easier.</language>
+		<language name="English">Locks in. Critical hits\ncome easier.\n</language>
 	</row>
 	<row id="msg_0749_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keeps receipts for two\nturns. Then hits back\ndouble.</language>
+		<language name="English">Keeps receipts for\ntwo turns. Then hits\nback double.\n</language>
 	</row>
 	<row id="msg_0749_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spins the wheel. Uses\na random move. Could\nbe anything.</language>
+		<language name="English">Spins the wheel. Uses\na random move. Could\nbe anything.\n</language>
 	</row>
 	<row id="msg_0749_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Runs the foe’s last\nmove through the\ncopier.</language>
+		<language name="English">Runs the foe’s last\nmove through the\ncopier.\n</language>
 	</row>
 	<row id="msg_0749_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goes out loud. Huge\ndamage, but the user\nfaints.</language>
+		<language name="English">Goes out loud. Huge\ndamage, but the user\nfaints.\n</language>
 	</row>
 	<row id="msg_0749_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs the foe’s house,\nthen the foe.</language>
+		<language name="English">Eggs the foe’s house,\nthen the foe.\n</language>
 	</row>
 	<row id="msg_0749_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Licks the foe’s ice\ncream. They’re too\ngrossed out to move.\nMay paralyze.</language>
+		<language name="English">Licks the foe’s ice\ncream. They’re too\ngrossed out to move.\nMay paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hooptie backfires in\nthe foe’s face. May\npoison.</language>
+		<language name="English">A hooptie backfires in\nthe foe’s face. May\npoison.\n</language>
 	</row>
 	<row id="msg_0749_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws gutter slop.\nMay poison the foe.</language>
+		<language name="English">Throws gutter slop.\nMay poison the foe.\n</language>
 	</row>
 	<row id="msg_0749_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swings the bat for the\nfences. May make the\nfoe flinch.</language>
+		<language name="English">Swings the bat for the\nfences. May make the\nfoe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A fire bomb. Big\nflames. May burn the\nfoe.</language>
+		<language name="English">A fire bomb. Big\nflames. May burn the\nfoe.\n</language>
 	</row>
 	<row id="msg_0749_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hydrant under the\nfoe blasts them sky\nhigh. May make them\nflinch. Climbs\nwaterfalls outside.</language>
+		<language name="English">A hydrant blasts the\nfoe sky high. May\nflinch. Climbs\nwaterfalls.\n</language>
 	</row>
 	<row id="msg_0749_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Presses the foe in a\nwaffle iron for two to\nfive turns.</language>
+		<language name="English">Presses the foe in a\nwaffle iron for two to\nfive turns.\n</language>
 	</row>
 	<row id="msg_0749_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shots that ricochet\ntill they hit. Never\nmisses.</language>
+		<language name="English">Shots that ricochet\ntill they hit. Never\nmisses.\n</language>
 	</row>
 	<row id="msg_0749_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Straps on a helmet one\nturn, charges the\nnext. Raises Defense.</language>
+		<language name="English">Straps on a helmet\none turn, charges the\nnext. Raises Defense.\n</language>
 	</row>
 	<row id="msg_0749_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Staples the foe two to\nfive times.</language>
+		<language name="English">Staples the foe two\nto five times.\n</language>
 	</row>
 	<row id="msg_0749_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A choke hold. May\nlower the foe’s Speed.</language>
+		<language name="English">A choke hold. May\nlower the foe’s\nSpeed.\n</language>
 	</row>
 	<row id="msg_0749_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Didn’t see nothing.\nSharply raises Sp.\nDef.</language>
+		<language name="English">Didn’t see nothing.\nSharply raises Sp.\nDef.\n</language>
 	</row>
 	<row id="msg_0749_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bends a spoon, a fork,\nthen a stop sign.\nLowers the foe’s\naccuracy.</language>
+		<language name="English">Bends a spoon, a\nfork, then a stop\nsign. Lowers the foe’s\naccuracy.\n</language>
 	</row>
 	<row id="msg_0749_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandma fixes a plate.\nThen the whole pot.\nRestores half its max\nHP.</language>
+		<language name="English">Grandma fixes a plate.\nThen the whole pot.\nRestores half its max\nHP.\n</language>
 	</row>
 	<row id="msg_0749_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hops the fence with a\nknee. Hurts the user\nif it misses.</language>
+		<language name="English">Hops the fence with a\nknee. Hurts the user\nif it misses.\n</language>
 	</row>
 	<row id="msg_0749_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A death stare in the\ndark. Paralyzes the\nfoe.</language>
+		<language name="English">A death stare in the\ndark. Paralyzes the\nfoe.\n</language>
 	</row>
 	<row id="msg_0749_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kills the dream of a\nsleeping foe and takes\nhalf as HP.</language>
+		<language name="English">Kills the dream of a\nsleeping foe and takes\nhalf as HP.\n</language>
 	</row>
 	<row id="msg_0749_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walks by the foe real\ncasual. Poisons them.</language>
+		<language name="English">Walks by the foe real\ncasual. Poisons them.\n</language>
 	</row>
 	<row id="msg_0749_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws water bottles\ntwo to five times.</language>
+		<language name="English">Throws water bottles\ntwo to five times.\n</language>
 	</row>
 	<row id="msg_0749_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mooches off the foe.\nHeals half the damage\ndealt.</language>
+		<language name="English">Mooches off the foe.\nHeals half the damage\ndealt.\n</language>
 	</row>
 	<row id="msg_0749_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lip gloss so shiny the\nfoe falls asleep.</language>
+		<language name="English">Lip gloss so shiny the\nfoe falls asleep.\n</language>
 	</row>
 	<row id="msg_0749_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calls in a pigeon air\nstrike. Charges a\nturn. May make the foe\nflinch.</language>
+		<language name="English">Calls in a pigeon air\nstrike. Charges a\nturn. May make the\nfoe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Face swap filter.\nTurns into the foe.</language>
+		<language name="English">Face swap filter.\nTurns into the foe.\n</language>
 	</row>
 	<row id="msg_0749_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spits on the foe. May\nlower Speed.</language>
+		<language name="English">Spits on the foe. May\nlower Speed.\n</language>
 	</row>
 	<row id="msg_0749_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ding-dong ditch, then\nrings the foe’s bell\nfor real. May confuse.</language>
+		<language name="English">Ding-dong ditch, then\nrings the foe’s bell\nfor real. May confuse.\n</language>
 	</row>
 	<row id="msg_0749_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A music box and a\npacifier. Puts the foe\nto sleep.</language>
+		<language name="English">A music box and a\npacifier. Puts the foe\nto sleep.\n</language>
 	</row>
 	<row id="msg_0749_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A ring light right in\nthe foe’s eyes. Lowers\naccuracy.</language>
+		<language name="English">A ring light right in\nthe foe’s eyes.\nLowers accuracy.\n</language>
 	</row>
 	<row id="msg_0749_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Checks the vibe. The\nvibes are bad. Random\ndamage.</language>
+		<language name="English">Checks the vibe. The\nvibes are bad. Random\ndamage.\n</language>
 	</row>
 	<row id="msg_0749_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flops around. Does\nabsolutely nothing.</language>
+		<language name="English">Flops around. Does\nabsolutely nothing.\n</language>
 	</row>
 	<row id="msg_0749_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gets slimed. Sharply\nraises Defense.</language>
+		<language name="English">Gets slimed. Sharply\nraises Defense.\n</language>
 	</row>
 	<row id="msg_0749_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s hammer time. High\ncritical-hit ratio.</language>
+		<language name="English">It’s hammer time. High\ncritical-hit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kaboom. Massive\ndamage, but the user\nfaints.</language>
+		<language name="English">Kaboom. Massive\ndamage, but the user\nfaints.\n</language>
 	</row>
 	<row id="msg_0749_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pickpockets the foe\ntwo to five times.</language>
+		<language name="English">Pickpockets the foe\ntwo to five times.\n</language>
 	</row>
 	<row id="msg_0749_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws a bone that\ncomes right back. Hits\ntwice.</language>
+		<language name="English">Throws a bone that\ncomes right back. Hits\ntwice.\n</language>
 	</row>
 	<row id="msg_0749_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Takes a nap. Full HP\nand status cured,\nasleep two turns.</language>
+		<language name="English">Takes a nap. Full HP\nand status cured,\nasleep two turns.\n</language>
 	</row>
 	<row id="msg_0749_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Builds a brick wall on\nthe foe, then drops\nit. May make them\nflinch.</language>
+		<language name="English">Builds a brick wall on\nthe foe, then drops\nit. May make them\nflinch.\n</language>
 	</row>
 	<row id="msg_0749_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gold wind-up\nchattering teeth chomp\nthe foe. May make them\nflinch.</language>
+		<language name="English">Gold wind-up\nchattering teeth\nchomp the foe. May\nmake them flinch.\n</language>
 	</row>
 	<row id="msg_0749_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Knife on the\nsharpening steel.\nRaises Attack.</language>
+		<language name="English">Knife on the\nsharpening steel.\nRaises Attack.\n</language>
 	</row>
 	<row id="msg_0749_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Paint roller, new\ncolor: a full rebrand.\nChanges type.</language>
+		<language name="English">Paint roller, new\ncolor: a full rebrand.\nChanges type.\n</language>
 	</row>
 	<row id="msg_0749_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hat trick, three\nfitted caps. May burn,\nfreeze or paralyze.</language>
+		<language name="English">A hat trick, three\nfitted caps. May burn,\nfreeze or paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slaps a clearance tag\non the foe. Takes half\nits HP.</language>
+		<language name="English">Slaps a clearance tag\non the foe. Takes half\nits HP.\n</language>
 	</row>
 	<row id="msg_0749_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A switchblade slash.\nHigh critical-hit\nratio.</language>
+		<language name="English">A switchblade slash.\nHigh critical-hit\nratio.\n</language>
 	</row>
 	<row id="msg_0749_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Puts a fall guy out\nfront using a quarter\nof its HP.</language>
+		<language name="English">Puts a fall guy out\nfront using a quarter\nof its HP.\n</language>
 	</row>
 	<row id="msg_0749_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Out of moves. Just\nhustling. Hurts the\nuser too.</language>
+		<language name="English">Out of moves. Just\nhustling. Hurts the\nuser too.\n</language>
 	</row>
 	<row id="msg_0749_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A caricature artist\ndraws the foe’s last\nmove. Keeps it\nforever.</language>
+		<language name="English">A caricature artist\ndraws the foe’s last\nmove. Keeps it\nforever.\n</language>
 	</row>
 	<row id="msg_0749_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tap shoes to the face,\ngetting stronger every\ntap.</language>
+		<language name="English">Tap shoes to the\nface, getting\nstronger every tap.\n</language>
 	</row>
 	<row id="msg_0749_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jacks the foe’s held\nitem.</language>
+		<language name="English">Jacks the foe’s held\nitem.\n</language>
 	</row>
 	<row id="msg_0749_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lures the foe onto a\nglue trap. They can’t\nleave.</language>
+		<language name="English">Lures the foe onto a\nglue trap. They can’t\nleave.\n</language>
 	</row>
 	<row id="msg_0749_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reads the foe’s palm.\nThe next move can’t\nmiss.</language>
+		<language name="English">Reads the foe’s palm.\nThe next move can’t\nmiss.\n</language>
 	</row>
 	<row id="msg_0749_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sleeping foe dreams\nthe rent is due. Loses\nHP every turn.</language>
+		<language name="English">A sleeping foe dreams\nthe rent is due. Loses\nHP every turn.\n</language>
 	</row>
 	<row id="msg_0749_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Does a burnout into\nthe foe. May burn\nthem.</language>
+		<language name="English">Does a burnout into\nthe foe. May burn\nthem.\n</language>
 	</row>
 	<row id="msg_0749_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saws logs so loud it\nhurts. Only works\nwhile asleep.</language>
+		<language name="English">Saws logs so loud it\nhurts. Only works\nwhile asleep.\n</language>
 	</row>
 	<row id="msg_0749_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cusses everybody out.\nWorks different for\nGhost types.</language>
+		<language name="English">Cusses everybody\nout. Works different\nfor Ghost types.\n</language>
 	</row>
 	<row id="msg_0749_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Windmills both arms\nlike a maniac. Hits\nharder the lower their\nHP.</language>
+		<language name="English">Windmills both arms\nlike a maniac. Hits\nharder the lower\ntheir HP.\n</language>
 	</row>
 	<row id="msg_0749_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flips the tape to the\nB-side. Changes type\nto resist the last\nhit.</language>
+		<language name="English">Flips the tape to the\nB-side. Changes type\nto resist the last\nhit.\n</language>
 	</row>
 	<row id="msg_0749_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Air Force: fighter\njets, then a giant\nsneaker from the sky.\nHigh critical-hit\nratio.</language>
+		<language name="English">Fighter jets, then a\ngiant sneaker from\nthe sky. High crit\nratio.\n</language>
 	</row>
 	<row id="msg_0749_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Empties the dryer lint\ntrap on the foe.\nSharply lowers Speed.</language>
+		<language name="English">Empties the dryer lint\ntrap on the foe.\nSharply lowers Speed.\n</language>
 	</row>
 	<row id="msg_0749_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Down 0 to 99, then the\nbuzzer beater.\nStronger the lower its\nHP.</language>
+		<language name="English">Down 0 to 99, then\nthe buzzer beater.\nStronger the lower\nits HP.\n</language>
 	</row>
 	<row id="msg_0749_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petty. Takes back\neverything it ever\ngave. Cuts the PP of\nthe foe’s last move.</language>
+		<language name="English">Petty. Takes back\neverything it ever\ngave. Cuts the PP of\nthe foe’s last move.\n</language>
 	</row>
 	<row id="msg_0749_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws a snow cone.\nMay freeze the foe.</language>
+		<language name="English">Throws a snow cone.\nMay freeze the foe.\n</language>
 	</row>
 	<row id="msg_0749_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ducks and covers.\nDodges everything for\na turn.</language>
+		<language name="English">Ducks and covers.\nDodges everything for\na turn.\n</language>
 	</row>
 	<row id="msg_0749_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Yo, free money!”\nSnuck him. Always goes\nfirst.</language>
+		<language name="English">“Yo, free money!”\nSnuck him. Always goes\nfirst.\n</language>
 	</row>
 	<row id="msg_0749_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flashes the gold\ngrill. So bright it\nsharply lowers the\nfoe’s Speed.</language>
+		<language name="English">Flashes the gold grill.\nSo bright it sharply\nlowers the foe’s\nSpeed.\n</language>
 	</row>
 	<row id="msg_0749_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sneak diss that\nnever misses.</language>
+		<language name="English">A sneak diss that\nnever misses.\n</language>
 	</row>
 	<row id="msg_0749_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blows the foe a kiss.\nNow they got\nquestions. Confuses.</language>
+		<language name="English">Blows the foe a kiss.\nNow they got\nquestions. Confuses.\n</language>
 	</row>
 	<row id="msg_0749_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beats the box. Maxes\nAttack for half its\nHP.</language>
+		<language name="English">Beats the box. Maxes\nAttack for half its\nHP.\n</language>
 	</row>
 	<row id="msg_0749_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stink bomb. May\npoison the foe.</language>
+		<language name="English">A stink bomb. May\npoison the foe.\n</language>
 	</row>
 	<row id="msg_0749_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mudslinging. Lowers\nthe foe’s accuracy.</language>
+		<language name="English">Mudslinging. Lowers\nthe foe’s accuracy.\n</language>
 	</row>
 	<row id="msg_0749_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blows a Bazooka bubble\ntill it pops in the\nfoe’s face. May lower\naccuracy.</language>
+		<language name="English">Blows a Bazooka\nbubble till it pops in\nthe foe’s face. May\nlower accuracy.\n</language>
 	</row>
 	<row id="msg_0749_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spills a box of\nthumbtacks. Hurts foes\nthat switch in.</language>
+		<language name="English">Spills a box of\nthumbtacks. Hurts\nfoes that switch in.\n</language>
 	</row>
 	<row id="msg_0749_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant bug zapper.\nInaccurate, but always\nparalyzes.</language>
+		<language name="English">A giant bug zapper.\nInaccurate, but\nalways paralyzes.\n</language>
 	</row>
 	<row id="msg_0749_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clocks the foe on\nsight. No hiding, no\ndodging, no ghosting.</language>
+		<language name="English">Clocks the foe on\nsight. No hiding, no\ndodging, no ghosting.\n</language>
 	</row>
 	<row id="msg_0749_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ride or die. If the\nuser goes down, the\nfoe goes down too.</language>
+		<language name="English">Ride or die. If the\nuser goes down, the\nfoe goes down too.\n</language>
 	</row>
 	<row id="msg_0749_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spits the last verse\nand drops the mic.\nEverybody faints in\nthree turns.</language>
+		<language name="English">Spits the last verse\nand drops the mic.\nEverybody faints in\nthree turns.\n</language>
 	</row>
 	<row id="msg_0749_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A window AC cranked to\nmax. Lowers the foe’s\nSpeed.</language>
+		<language name="English">A window AC cranked\nto max. Lowers the\nfoe’s Speed.\n</language>
 	</row>
 	<row id="msg_0749_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Peeps the game. Dodges\neverything for a turn.</language>
+		<language name="English">Peeps the game.\nDodges everything for\na turn.\n</language>
 	</row>
 	<row id="msg_0749_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swings the bat two to\nfive times.</language>
+		<language name="English">Swings the bat two to\nfive times.\n</language>
 	</row>
 	<row id="msg_0749_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Binoculars up. The\nnext move can’t miss.</language>
+		<language name="English">Binoculars up. The\nnext move can’t miss.\n</language>
 	</row>
 	<row id="msg_0749_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rage quits for two to\nthree turns, then gets\nconfused.</language>
+		<language name="English">Rage quits for two to\nthree turns, then\ngets confused.\n</language>
 	</row>
 	<row id="msg_0749_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kicks up a dust storm\nwith a leaf blower.\nEverybody eats dirt\nfor five turns.</language>
+		<language name="English">Kicks up a dust storm\nwith a leaf blower.\nEverybody eats dirt\nfor five turns.\n</language>
 	</row>
 	<row id="msg_0749_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An IRS audit. The user\nkeeps half the damage\nas HP.</language>
+		<language name="English">An IRS audit. The user\nkeeps half the damage\nas HP.\n</language>
 	</row>
 	<row id="msg_0749_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tough it out. Survives\nany hit with 1 HP.</language>
+		<language name="English">Tough it out. Survives\nany hit with 1 HP.\n</language>
 	</row>
 	<row id="msg_0749_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits the foe with\nrizz. Sharply lowers\nits Attack.</language>
+		<language name="English">Hits the foe with rizz.\nSharply lowers its\nAttack.\n</language>
 	</row>
 	<row id="msg_0749_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rolls out for five\nturns, harder every\nhit.</language>
+		<language name="English">Rolls out for five\nturns, harder every\nhit.\n</language>
 	</row>
 	<row id="msg_0749_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just grazes them.\nAlways leaves at least\n1 HP.</language>
+		<language name="English">Just grazes them.\nAlways leaves at least\n1 HP.\n</language>
 	</row>
 	<row id="msg_0749_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A drip check in the\nmirror. Confuses the\nfoe, but sharply\nraises their Attack.</language>
+		<language name="English">A drip check in the\nmirror. Confuses the\nfoe, but sharply\nraises their Attack.\n</language>
 	</row>
 	<row id="msg_0749_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chugs a whole gallon.\nRestores half its max\nHP.</language>
+		<language name="English">Chugs a whole gallon.\nRestores half its max\nHP.\n</language>
 	</row>
 	<row id="msg_0749_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flicks a lighter till\nit zaps, then charges\nin. May paralyze.</language>
+		<language name="English">Flicks a lighter till it\nzaps, then charges\nin. May paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stab combo that gets\nstronger every hit.</language>
+		<language name="English">A stab combo that\ngets stronger every\nhit.\n</language>
 	</row>
 	<row id="msg_0749_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slaps the foe with a\ngiant lemon pepper\nwing. May raise\nDefense.</language>
+		<language name="English">Slaps the foe with a\ngiant lemon pepper\nwing. May raise\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blocks off the exit.\nThe foe can’t leave.</language>
+		<language name="English">Blocks off the exit.\nThe foe can’t leave.\n</language>
 	</row>
 	<row id="msg_0749_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A candlelit date for\ntwo. The foe may be\ntoo infatuated to\nattack.</language>
+		<language name="English">A candlelit date for\ntwo. The foe may be\ntoo infatuated to\nattack.\n</language>
 	</row>
 	<row id="msg_0749_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swings at the foe in\nits sleep. Only works\nwhile asleep.</language>
+		<language name="English">Swings at the foe in\nits sleep. Only works\nwhile asleep.\n</language>
 	</row>
 	<row id="msg_0749_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Last call. Lights on.\nCures the whole crew’s\nstatus.</language>
+		<language name="English">Last call. Lights on.\nCures the whole\ncrew’s status.\n</language>
 	</row>
 	<row id="msg_0749_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits harder the more\nloyal the user is.</language>
+		<language name="English">Hits harder the more\nloyal the user is.\n</language>
 	</row>
 	<row id="msg_0749_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gift bomb. Might\nhurt, might heal. Who\nknows.</language>
+		<language name="English">A gift bomb. Might\nhurt, might heal. Who\nknows.\n</language>
 	</row>
 	<row id="msg_0749_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big mad. Hits harder\nthe less the user\nlikes you.</language>
+		<language name="English">Big mad. Hits harder\nthe less the user\nlikes you.\n</language>
 	</row>
 	<row id="msg_0749_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hires security. No\nstatus problems for 5\nturns.</language>
+		<language name="English">Hires security. No\nstatus problems for 5\nturns.\n</language>
 	</row>
 	<row id="msg_0749_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Splits the bill. Both\nsides share their HP\nevenly.</language>
+		<language name="English">Splits the bill. Both\nsides share their HP\nevenly.\n</language>
 	</row>
 	<row id="msg_0749_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can I get an amen?\nHoly fire from the\nheavens. Often burns\nthe foe.</language>
+		<language name="English">Can I get an amen?\nHoly fire from the\nheavens. Often burns\nthe foe.\n</language>
 	</row>
 	<row id="msg_0749_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant bass flops all\nover the block. Random\nstrength. Hits\neverybody.</language>
+		<language name="English">A giant bass flops all\nover the block.\nRandom strength. Hits\neverybody.\n</language>
 	</row>
 	<row id="msg_0749_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lights an M-80 by the\nfoe. Confuses them if\nit lands.</language>
+		<language name="English">Lights an M-80 by the\nfoe. Confuses them if\nit lands.\n</language>
 	</row>
 	<row id="msg_0749_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rams the foe with a\npolice bullhorn.</language>
+		<language name="English">Rams the foe with a\npolice bullhorn.\n</language>
 	</row>
 	<row id="msg_0749_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eats a raw onion and\nbreathes on the foe.\nMay paralyze.</language>
+		<language name="English">Eats a raw onion and\nbreathes on the foe.\nMay paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Passes it off to a\nteammate, stat changes\nand all.</language>
+		<language name="English">Passes it off to a\nteammate, stat\nchanges and all.\n</language>
 	</row>
 	<row id="msg_0749_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Run it back. The foe\nrepeats its last move\na few turns.</language>
+		<language name="English">Run it back. The foe\nrepeats its last move\na few turns.\n</language>
 	</row>
 	<row id="msg_0749_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chases down a foe\ntrying to switch out.\nDouble damage.</language>
+		<language name="English">Chases down a foe\ntrying to switch out.\nDouble damage.\n</language>
 	</row>
 	<row id="msg_0749_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Laps round the foe on\na BMX. Clears traps\nlike thumbtacks.</language>
+		<language name="English">Laps round the foe on\na BMX. Clears traps\nlike thumbtacks.\n</language>
 	</row>
 	<row id="msg_0749_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Way too much cologne.\nLowers evasion. Draws\nwild homies outside.</language>
+		<language name="English">Way too much cologne.\nLowers evasion. Draws\nwild homies outside.\n</language>
 	</row>
 	<row id="msg_0749_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wrecking ball. May\nlower the foe’s\nDefense.</language>
+		<language name="English">A wrecking ball. May\nlower the foe’s\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brass knucks. May\nraise the user’s\nAttack.</language>
+		<language name="English">Brass knucks. May\nraise the user’s\nAttack.\n</language>
 	</row>
 	<row id="msg_0749_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not on the list.\nBounced out the club.\nGoes last but never\nmisses.</language>
+		<language name="English">Not on the list.\nBounced out the club.\nGoes last but never\nmisses.\n</language>
 	</row>
 	<row id="msg_0749_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snooze, snooze, then\nrise and grind.\nRestores HP depending\non the weather.</language>
+		<language name="English">Snooze, snooze, then\nrise and grind.\nRestores HP depending\non the weather.\n</language>
 	</row>
 	<row id="msg_0749_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ring light, flashes,\nglow up. Restores HP.</language>
+		<language name="English">Ring light, flashes,\nglow up. Restores HP.\n</language>
 	</row>
 	<row id="msg_0749_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lays out under the\nmoon with a tanning\nreflector. Restores\nHP.</language>
+		<language name="English">Lays out under the\nmoon with a tanning\nreflector. Restores\nHP.\n</language>
 	</row>
 	<row id="msg_0749_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pulls the hidden\nstrap. Its type\ndepends on the user.</language>
+		<language name="English">Pulls the hidden\nstrap. Its type\ndepends on the user.\n</language>
 	</row>
 	<row id="msg_0749_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strings a clothesline\nand the foe runs into\nit. Lands critical\nhits easy.</language>
+		<language name="English">Strings a clothesline\nand the foe runs into\nit. Lands critical hits\neasy.\n</language>
 	</row>
 	<row id="msg_0749_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tornado. May make\nthe foe flinch.</language>
+		<language name="English">A tornado. May make\nthe foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Makes it rain for 5\nturns. Water moves get\nstronger.</language>
+		<language name="English">Makes it rain for 5\nturns. Water moves\nget stronger.\n</language>
 	</row>
 	<row id="msg_0749_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beach chair,\nreflector, sun cranked\nup for 5 turns. Fire\nmoves get stronger.</language>
+		<language name="English">Beach chair,\nreflector, sun up for\n5 turns. Fire moves\nhit harder.\n</language>
 	</row>
 	<row id="msg_0749_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hollow point round.\nMay lower the foe’s\nDefense.</language>
+		<language name="English">A hollow point round.\nMay lower the foe’s\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mirror tint on the\nwindows. Special\nattacks bounce back\ndouble.</language>
+		<language name="English">Mirror tint on the\nwindows. Special\nattacks bounce back\ndouble.\n</language>
 	</row>
 	<row id="msg_0749_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The hype man gets them\ngoing, copying the\nfoe’s stat changes.</language>
+		<language name="English">The hype man gets\nthem going, copying\nthe foe’s stat\nchanges.\n</language>
 	</row>
 	<row id="msg_0749_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The getaway, on a\nrental scooter. Goes\nfirst with a hard hit.</language>
+		<language name="English">The getaway, on a\nrental scooter. Goes\nfirst with a hard hit.\n</language>
 	</row>
 	<row id="msg_0749_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OG power. May raise\nall of the user’s\nstats.</language>
+		<language name="English">OG power. May raise\nall of the user’s\nstats.\n</language>
 	</row>
 	<row id="msg_0749_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rolls a Magic 8-Ball\nat the foe. Outlook\nnot good. May lower\nSp. Def.</language>
+		<language name="English">Rolls a Magic 8-Ball at\nthe foe. Outlook not\ngood. May lower Sp.\nDef.\n</language>
 	</row>
 	<row id="msg_0749_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Has a premonition. The\nhit lands two turns\nlater.</language>
+		<language name="English">Has a premonition. The\nhit lands two turns\nlater.\n</language>
 	</row>
 	<row id="msg_0749_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smash and grab. May\nlower the foe’s\nDefense.</language>
+		<language name="English">Smash and grab. May\nlower the foe’s\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flushes the foe down a\nswirl for two to five\nturns. Clears\nwhirlpools outside.</language>
+		<language name="English">Flushes the foe down\na swirl for two to five\nturns. Clears\nwhirlpools outside.\n</language>
 	</row>
 	<row id="msg_0749_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The whole crew pulls\nup, one at a time.</language>
+		<language name="English">The whole crew pulls\nup, one at a time.\n</language>
 	</row>
 	<row id="msg_0749_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crossover, crossover.\nBreaks the foe’s\nankles. First turn\nonly. Flinches.</language>
+		<language name="English">Crossover,\ncrossover, ankles\ngone. First turn only.\nFlinches.\n</language>
 	</row>
 	<row id="msg_0749_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turns up for three\nturns. Nobody sleeps.</language>
+		<language name="English">Turns up for three\nturns. Nobody sleeps.\n</language>
 	</row>
 	<row id="msg_0749_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stacks pancakes. Up to\nthree. Raises Defense\nand Sp. Def.</language>
+		<language name="English">Stacks pancakes. Up\nto three. Raises\nDefense and Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spits the bars stored\nup. More Stockpile,\nmore damage.</language>
+		<language name="English">Spits the bars stored\nup. More Stockpile,\nmore damage.\n</language>
 	</row>
 	<row id="msg_0749_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Takes the L. Swallows\nit whole and heals off\nwhat it stockpiled.</language>
+		<language name="English">Takes the L. Swallows\nit whole and heals off\nwhat it stockpiled.\n</language>
 	</row>
 	<row id="msg_0749_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cranks the thermostat\nto 99. May burn the\nfoe.</language>
+		<language name="English">Cranks the\nthermostat to 99. May\nburn the foe.\n</language>
 	</row>
 	<row id="msg_0749_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bag of ice bursts in\nthe sky. Hails on\neverybody for five\nturns.</language>
+		<language name="English">A bag of ice bursts in\nthe sky. Hails on\neverybody for five\nturns.\n</language>
 	</row>
 	<row id="msg_0749_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clowns on the foe so\nbad they can’t use the\nsame move twice in a\nrow.</language>
+		<language name="English">Clowns on the foe so\nbad they can’t use\nthe same move twice in\na row.\n</language>
 	</row>
 	<row id="msg_0749_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gasses the foe up till\nthey’re confused.\nRaises their Sp. Atk.</language>
+		<language name="English">Gasses the foe up till\nthey’re confused.\nRaises their Sp. Atk.\n</language>
 	</row>
 	<row id="msg_0749_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flicks a Bic at the\nfoe. Burns them.</language>
+		<language name="English">Flicks a Bic at the\nfoe. Burns them.\n</language>
 	</row>
 	<row id="msg_0749_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Faints, but the RIP\ntee hits so hard the\nfoe’s Attack and Sp.\nAtk drop way down.</language>
+		<language name="English">Faints, but the RIP\ntee hits so hard the\nfoe’s Attack and Sp.\nAtk drop way down.\n</language>
 	</row>
 	<row id="msg_0749_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stunts in a rental.\nHits harder when\nburned, poisoned or\nparalyzed.</language>
+		<language name="English">Stunts in a rental.\nHits harder when\nburned, poisoned or\nparalyzed.\n</language>
 	</row>
 	<row id="msg_0749_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Squares up for a fair\none. Fails if the user\ngets hit first.</language>
+		<language name="English">Squares up for a fair\none. Fails if the user\ngets hit first.\n</language>
 	</row>
 	<row id="msg_0749_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gym sock under the\nnose. Double damage if\nthey’re paralyzed.</language>
+		<language name="English">A gym sock under the\nnose. Double damage if\nthey’re paralyzed.\n</language>
 	</row>
 	<row id="msg_0749_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“LOOK AT ME.” Every\nfoe has to target the\nuser.</language>
+		<language name="English">“LOOK AT ME.” Every\nfoe has to target the\nuser.\n</language>
 	</row>
 	<row id="msg_0749_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bodega cat handles\nit. Changes with the\nspot.</language>
+		<language name="English">The bodega cat\nhandles it. Changes\nwith the spot.\n</language>
 	</row>
 	<row id="msg_0749_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plugs in the amp. Next\nElectric move hits\ntwice as hard.</language>
+		<language name="English">Plugs in the amp. Next\nElectric move hits\ntwice as hard.\n</language>
 	</row>
 	<row id="msg_0749_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drops a diss track.\nThe foe can only\nattack.</language>
+		<language name="English">Drops a diss track.\nThe foe can only\nattack.\n</language>
 	</row>
 	<row id="msg_0749_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The secret handshake.\nPowers up an ally’s\nmove.</language>
+		<language name="English">The secret\nhandshake. Powers up\nan ally’s move.\n</language>
 	</row>
 	<row id="msg_0749_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shell game. The foe\nalways picks wrong.\nSwaps held items.</language>
+		<language name="English">Shell game. The foe\nalways picks wrong.\nSwaps held items.\n</language>
 	</row>
 	<row id="msg_0749_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A cheap costume of the\nfoe. Copies its\nAbility.</language>
+		<language name="English">A cheap costume of\nthe foe. Copies its\nAbility.\n</language>
 	</row>
 	<row id="msg_0749_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blows out the birthday\ncandles. Heals next\nturn.</language>
+		<language name="English">Blows out the\nbirthday candles.\nHeals next turn.\n</language>
 	</row>
 	<row id="msg_0749_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tags in a random\nteammate’s move.</language>
+		<language name="English">Tags in a random\nteammate’s move.\n</language>
 	</row>
 	<row id="msg_0749_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Posts up in a lawn\nchair. Heals every\nturn but can’t leave.</language>
+		<language name="English">Posts up in a lawn\nchair. Heals every\nturn but can’t leave.\n</language>
 	</row>
 	<row id="msg_0749_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maxes out on\neverything, even the\nvending machine.\nLowers Attack and\nDefense.</language>
+		<language name="English">Maxes out on\neverything, even the\nvending machine.\nLowers Atk and Def.\n</language>
 	</row>
 	<row id="msg_0749_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hops in a bouncy\ncastle. Status moves\nbounce right back.</language>
+		<language name="English">Hops in a bouncy\ncastle. Status moves\nbounce right back.\n</language>
 	</row>
 	<row id="msg_0749_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Digs through the\nrecycling. Gets back a\nused item.</language>
+		<language name="English">Digs through the\nrecycling. Gets back a\nused item.\n</language>
 	</row>
 	<row id="msg_0749_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Their name’s on the\nlist. Double damage if\nthe user got hit this\nturn.</language>
+		<language name="English">Their name’s on the\nlist. Double damage if\nthe user got hit this\nturn.\n</language>
 	</row>
 	<row id="msg_0749_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karate chops through\nbricks. Breaks the\nfoe’s Reflect and\nLight Screen.</language>
+		<language name="English">Karate chops through\nbricks. Breaks the\nfoe’s Reflect and\nLight Screen.\n</language>
 	</row>
 	<row id="msg_0749_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reads them the terms\nand conditions. They\nfall asleep next turn.</language>
+		<language name="English">Reads them the terms\nand conditions. They\nfall asleep next turn.\n</language>
 	</row>
 	<row id="msg_0749_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sells the foe a\nbootleg. It falls\napart in their hands.\nKnocks off their item.</language>
+		<language name="English">Sells the foe a\nbootleg. It falls\napart in their hands.\nKnocks off their item.\n</language>
 	</row>
 	<row id="msg_0749_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rise and grind. Cuts\nthe foe’s HP down to\nmatch the user’s.</language>
+		<language name="English">Rise and grind. Cuts\nthe foe’s HP down to\nmatch the user’s.\n</language>
 	</row>
 	<row id="msg_0749_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its phone blows up.\nStronger the more HP\nthe user has.</language>
+		<language name="English">Its phone blows up.\nStronger the more HP\nthe user has.\n</language>
 	</row>
 	<row id="msg_0749_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trades cards with the\nfoe. Then trades\nspots. Swaps\nAbilities.</language>
+		<language name="English">Trades cards with the\nfoe. Then trades\nspots. Swaps\nAbilities.\n</language>
 	</row>
 	<row id="msg_0749_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Locks up every move\nthe foe shares with\nthe user.</language>
+		<language name="English">Locks up every move\nthe foe shares with\nthe user.\n</language>
 	</row>
 	<row id="msg_0749_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scrubs the kicks\nclean. Heals burn,\npoison and paralysis.</language>
+		<language name="English">Scrubs the kicks\nclean. Heals burn,\npoison and paralysis.\n</language>
 	</row>
 	<row id="msg_0749_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pins the foe’s photo\nto the dartboard. If\nthe user goes down, so\ndoes that move’s PP.</language>
+		<language name="English">The foe’s photo on\nthe dartboard. If the\nuser drops, that\nmove’s PP drops too.\n</language>
 	</row>
 	<row id="msg_0749_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scam calls the foe.\nSteals their healing\nor stat move and uses\nit.</language>
+		<language name="English">Scam calls the foe.\nSteals their healing\nor stat move and uses\nit.\n</language>
 	</row>
 	<row id="msg_0749_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An inside job. Its\nside effect depends on\nthe spot.</language>
+		<language name="English">An inside job. Its side\neffect depends on the\nspot.\n</language>
 	</row>
 	<row id="msg_0749_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannonballs into the\nkiddie pool, then\nsplashes up under the\nfoe.</language>
+		<language name="English">Cannonballs into the\nkiddie pool, then\nsplashes up under the\nfoe.\n</language>
 	</row>
 	<row id="msg_0749_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shoves the foe off\nwith a push broom, 2-5\ntimes.</language>
+		<language name="English">Shoves the foe off\nwith a push broom, 2-5\ntimes.\n</language>
 	</row>
 	<row id="msg_0749_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi-vis vest and a\nclipboard. Blends in\nanywhere. Changes\ntype.</language>
+		<language name="English">Hi-vis vest and a\nclipboard. Blends in\nanywhere. Changes\ntype.\n</language>
 	</row>
 	<row id="msg_0749_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bonnet off, edges\nlaid. A whole glow up.\nDrastically raises Sp.\nAtk.</language>
+		<language name="English">Bonnet off, edges\nlaid. A whole glow up.\nDrastically raises Sp.\nAtk.\n</language>
 	</row>
 	<row id="msg_0749_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flicks the brights on\nthe foe. Blink, blink,\nFULL BEAMS. May lower\nSp. Def.</language>
+		<language name="English">Flicks the brights on\nthe foe. Blink, blink,\nFULL BEAMS. May lower\nSp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The club fog machine,\ncranked all the way.\nMay lower Sp. Atk.</language>
+		<language name="English">The club fog machine,\ncranked all the way.\nMay lower Sp. Atk.\n</language>
 	</row>
 	<row id="msg_0749_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pillow fight till\nthe pillow bursts.\nSharply lowers the\nfoe’s Attack.</language>
+		<language name="English">A pillow fight till the\npillow bursts. Sharply\nlowers the foe’s\nAttack.\n</language>
 	</row>
 	<row id="msg_0749_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Does the Wobble.\nEverybody on the floor\ngets confused.</language>
+		<language name="English">Does the Wobble.\nEverybody on the\nfloor gets confused.\n</language>
 	</row>
 	<row id="msg_0749_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tiptoes over hot\nasphalt, then a\nflaming kick. High\ncrit ratio. May burn.</language>
+		<language name="English">Tiptoes over hot\nasphalt, then a\nflaming kick. High crit\nratio. May burn.\n</language>
 	</row>
 	<row id="msg_0749_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spa day in a mud bath.\nWeakens Electric\nmoves.</language>
+		<language name="English">Spa day in a mud bath.\nWeakens Electric\nmoves.\n</language>
 	</row>
 	<row id="msg_0749_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Packs and throws\nsnowballs for five\nturns, harder each\nhit.</language>
+		<language name="English">Packs and throws\nsnowballs for five\nturns, harder each\nhit.\n</language>
 	</row>
 	<row id="msg_0749_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swab, needle, jab. May\nmake the foe flinch.</language>
+		<language name="English">Swab, needle, jab. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kicks back in the\nrecliner. Restores\nhalf its max HP.</language>
+		<language name="English">Kicks back in the\nrecliner. Restores\nhalf its max HP.\n</language>
 	</row>
 	<row id="msg_0749_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hypes so loud it\nhurts. Yeah! What!\nOkay!</language>
+		<language name="English">Hypes so loud it\nhurts. Yeah! What!\nOkay!\n</language>
 	</row>
 	<row id="msg_0749_00305" index="305">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feeds the foe gas\nstation sushi. May\nbadly poison.</language>
+		<language name="English">Feeds the foe gas\nstation sushi. May\nbadly poison.\n</language>
 	</row>
 	<row id="msg_0749_00306" index="306">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grabbed by the claw\nmachine. May lower\nDefense.</language>
+		<language name="English">Grabbed by the claw\nmachine. May lower\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00307" index="307">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lighter fluid on the\ngrill. Too much. The\nuser rests next turn.</language>
+		<language name="English">Lighter fluid on the\ngrill. Too much. The\nuser rests next turn.\n</language>
 	</row>
 	<row id="msg_0749_00308" index="308">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cracks the fire\nhydrant wide open. The\nuser rests next turn.</language>
+		<language name="English">Cracks the fire\nhydrant wide open.\nThe user rests next\nturn.\n</language>
 	</row>
 	<row id="msg_0749_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A slam dunk from\norbit. May raise the\nuser’s Attack.</language>
+		<language name="English">A slam dunk from\norbit. May raise the\nuser’s Attack.\n</language>
 	</row>
 	<row id="msg_0749_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve been served.\nMay make the foe\nflinch.</language>
+		<language name="English">You’ve been served.\nMay make the foe\nflinch.\n</language>
 	</row>
 	<row id="msg_0749_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shakes a snow globe of\nthe block till the\nweather inside goes\nwild, then throws it.</language>
+		<language name="English">Shakes a snow globe\nof the block till the\nweather inside goes\nwild, then throws it.\n</language>
 	</row>
 	<row id="msg_0749_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hangs up air freshener\ntrees. Heals the\nteam’s status.</language>
+		<language name="English">Hangs up air\nfreshener trees.\nHeals the team’s\nstatus.\n</language>
 	</row>
 	<row id="msg_0749_00313" index="313">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crocodile tears.\nSharply lowers the\nfoe’s Sp. Def.</language>
+		<language name="English">Crocodile tears.\nSharply lowers the\nfoe’s Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A ceiling fan on HIGH\nflings its blades.\nHigh critical-hit\nratio.</language>
+		<language name="English">A ceiling fan on HIGH\nflings its blades. High\ncritical-hit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Burns the toast. Smoke\nalarm going off.\nSharply lowers the\nuser’s Sp. Atk.</language>
+		<language name="English">Burns the toast.\nSmoke alarm going off.\nSharply lowers the\nuser’s Sp. Atk.\n</language>
 	</row>
 	<row id="msg_0749_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calls the K9 unit.\nGhosts get hit and\nevasion gets ignored.</language>
+		<language name="English">Calls the K9 unit.\nGhosts get hit and\nevasion gets ignored.\n</language>
 	</row>
 	<row id="msg_0749_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A dump truck buries\nthe foe in gravel.\nLowers Speed.</language>
+		<language name="English">A dump truck buries\nthe foe in gravel.\nLowers Speed.\n</language>
 	</row>
 	<row id="msg_0749_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A glitter bomb. It’s\nnever coming out. May\nraise all stats.</language>
+		<language name="English">A glitter bomb. It’s\nnever coming out. May\nraise all stats.\n</language>
 	</row>
 	<row id="msg_0749_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A fork on a\nchalkboard. Sharply\nlowers the foe’s Sp.\nDef.</language>
+		<language name="English">A fork on a\nchalkboard. Sharply\nlowers the foe’s Sp.\nDef.\n</language>
 	</row>
 	<row id="msg_0749_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Candles, roses, a slow\njam. The foe falls\nasleep.</language>
+		<language name="English">Candles, roses, a slow\njam. The foe falls\nasleep.\n</language>
 	</row>
 	<row id="msg_0749_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A feather duster. The\nfoe can’t stop\nlaughing. Lowers\nAttack and Defense.</language>
+		<language name="English">A feather duster. The\nfoe can’t stop\nlaughing. Lowers\nAttack and Defense.\n</language>
 	</row>
 	<row id="msg_0749_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The galaxy durag goes\non. Raises Defense and\nSp. Def.</language>
+		<language name="English">The galaxy durag goes\non. Raises Defense\nand Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pumps a giant water\ngun. Stronger the more\nHP the user has.</language>
+		<language name="English">Pumps a giant water\ngun. Stronger the\nmore HP the user has.\n</language>
 	</row>
 	<row id="msg_0749_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finds full bars and\nblasts the foe with\nwifi. May confuse.</language>
+		<language name="English">Finds full bars and\nblasts the foe with\nwifi. May confuse.\n</language>
 	</row>
 	<row id="msg_0749_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sneaks up in a\ncardboard box. Never\nmisses.</language>
+		<language name="English">Sneaks up in a\ncardboard box. Never\nmisses.\n</language>
 	</row>
 	<row id="msg_0749_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant eye opens in\nthe sky and reads\ntheir future. May make\nthe foe flinch.</language>
+		<language name="English">A giant eye opens in\nthe sky and reads\ntheir future. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An uppercut that sends\nthe foe to the moon.</language>
+		<language name="English">An uppercut that\nsends the foe to the\nmoon.\n</language>
 	</row>
 	<row id="msg_0749_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stacks sandbags around\nthe foe for two to\nfive turns.</language>
+		<language name="English">Stacks sandbags\naround the foe for\ntwo to five turns.\n</language>
 	</row>
 	<row id="msg_0749_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Puts the foe on ice.\nIf it hits, they’re a\ncold case.</language>
+		<language name="English">Puts the foe on ice.\nIf it hits, they’re a\ncold case.\n</language>
 	</row>
 	<row id="msg_0749_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A car through the\npuddle at the bus\nstop. May lower\naccuracy.</language>
+		<language name="English">A car through the\npuddle at the bus\nstop. May lower\naccuracy.\n</language>
 	</row>
 	<row id="msg_0749_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spits sunflower seeds\nlike a machine gun,\ntwo to five times.</language>
+		<language name="English">Spits sunflower seeds\nlike a machine gun,\ntwo to five times.\n</language>
 	</row>
 	<row id="msg_0749_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An ace shot that never\nmisses.</language>
+		<language name="English">An ace shot that\nnever misses.\n</language>
 	</row>
 	<row id="msg_0749_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chips off ice with an\nice pick, 2-5 times.</language>
+		<language name="English">Chips off ice with an\nice pick, 2-5 times.\n</language>
 	</row>
 	<row id="msg_0749_00334" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pot on the head,\nbaking sheet up.\nSharply raises\nDefense.</language>
+		<language name="English">Pot on the head,\nbaking sheet up.\nSharply raises\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blocked. The foe can’t\nleave.</language>
+		<language name="English">Blocked. The foe\ncan’t leave.\n</language>
 	</row>
 	<row id="msg_0749_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AWOOO - the whole\ncrowd howls back.\nRaises Attack.</language>
+		<language name="English">AWOOO - the whole\ncrowd howls back.\nRaises Attack.\n</language>
 	</row>
 	<row id="msg_0749_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant lobster claw.\nClamps on. Old Bay\neverywhere.</language>
+		<language name="English">A giant lobster claw.\nClamps on. Old Bay\neverywhere.\n</language>
 	</row>
 	<row id="msg_0749_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plants bullets. Grows\na garden of guns. The\nuser rests next turn.</language>
+		<language name="English">Plants bullets. Grows\na garden of guns. The\nuser rests next turn.\n</language>
 	</row>
 	<row id="msg_0749_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits the gym. Raises\nAttack and Defense.</language>
+		<language name="English">Hits the gym. Raises\nAttack and Defense.\n</language>
 	</row>
 	<row id="msg_0749_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pogos off the top of\nthe screen, lands on\nthe foe’s head next\nturn. May paralyze.</language>
+		<language name="English">Pogos off the top of\nthe screen, lands on\nthe foe’s head next\nturn. May paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mud pie to the face.\nLowers the foe’s\nSpeed.</language>
+		<language name="English">A mud pie to the face.\nLowers the foe’s\nSpeed.\n</language>
 	</row>
 	<row id="msg_0749_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A subway rat whips the\nfoe with its tail. May\npoison.</language>
+		<language name="English">A subway rat whips\nthe foe with its tail.\nMay poison.\n</language>
 	</row>
 	<row id="msg_0749_00343" index="343">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Lemme see that real\nquick.” Walks off with\nthe foe’s item.</language>
+		<language name="English">“Lemme see that real\nquick.” Walks off with\nthe foe’s item.\n</language>
 	</row>
 	<row id="msg_0749_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grabs a downed power\nline and charges. Big\nrecoil. May paralyze.</language>
+		<language name="English">Grabs a downed power\nline and charges. Big\nrecoil. May paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bills fly out the\nfanny pack. Never\nmisses.</language>
+		<language name="English">Bills fly out the fanny\npack. Never misses.\n</language>
 	</row>
 	<row id="msg_0749_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Super Soaker and the\nsprinkler dance.\nWeakens Fire moves.</language>
+		<language name="English">Super Soaker and the\nsprinkler dance.\nWeakens Fire moves.\n</language>
 	</row>
 	<row id="msg_0749_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cucumbers on the eyes.\nRaises Sp. Atk and Sp.\nDef.</language>
+		<language name="English">Cucumbers on the\neyes. Raises Sp. Atk\nand Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Edges the foe with a\nweed whacker. Lands\ncritical hits easy.</language>
+		<language name="English">Edges the foe with a\nweed whacker. Lands\ncritical hits easy.\n</language>
 	</row>
 	<row id="msg_0749_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Does the shmoney\ndance. Raises Attack\nand Speed.</language>
+		<language name="English">Does the shmoney\ndance. Raises Attack\nand Speed.\n</language>
 	</row>
 	<row id="msg_0749_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pebbles at their\nwindow, two to five\ntimes. You up?</language>
+		<language name="English">Pebbles at their\nwindow, two to five\ntimes. You up?\n</language>
 	</row>
 	<row id="msg_0749_00351" index="351">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rubs a balloon on its\nhead. The static never\nmisses.</language>
+		<language name="English">Rubs a balloon on its\nhead. The static\nnever misses.\n</language>
 	</row>
 	<row id="msg_0749_00352" index="352">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A water balloon to the\ndome. May leave the\nfoe dazed and\nconfused.</language>
+		<language name="English">A water balloon to the\ndome. May leave the\nfoe dazed and\nconfused.\n</language>
 	</row>
 	<row id="msg_0749_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Black cat, broken\nmirror, then the sky\nfalls two turns later.</language>
+		<language name="English">Black cat, broken\nmirror, then the sky\nfalls two turns later.\n</language>
 	</row>
 	<row id="msg_0749_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mind blown. Sharply\nlowers the user’s Sp.\nAtk.</language>
+		<language name="English">Mind blown. Sharply\nlowers the user’s Sp.\nAtk.\n</language>
 	</row>
 	<row id="msg_0749_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crashes on an air\nmattress. Heals half\nits HP.</language>
+		<language name="English">Crashes on an air\nmattress. Heals half\nits HP.\n</language>
 	</row>
 	<row id="msg_0749_00356" index="356">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everybody’s pants sag\nfor five turns.\nNobody’s flying\nanywhere.</language>
+		<language name="English">Everybody’s pants\nsag for five turns.\nNobody’s flying\nanywhere.\n</language>
 	</row>
 	<row id="msg_0749_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Night vision goggles.\nGhosts can’t hide.\nEvasion ignored.</language>
+		<language name="English">Night vision goggles.\nGhosts can’t hide.\nEvasion ignored.\n</language>
 	</row>
 	<row id="msg_0749_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The alarm, then the\nchancla. Double damage\non a sleeping foe.</language>
+		<language name="English">The alarm, then the\nchancla. Double\ndamage on a sleeping\nfoe.\n</language>
 	</row>
 	<row id="msg_0749_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whack-a-mole, but the\nfoe’s the mole. Lowers\nthe user’s Speed.</language>
+		<language name="English">Whack-a-mole, but the\nfoe’s the mole.\nLowers the user’s\nSpeed.\n</language>
 	</row>
 	<row id="msg_0749_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flings a gold fidget\nspinner. Stronger the\nslower the user is.</language>
+		<language name="English">Flings a gold fidget\nspinner. Stronger the\nslower the user is.\n</language>
 	</row>
 	<row id="msg_0749_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Makes a wish on a\nshooting star and is\ngone. The next one in\ngets fully healed.</language>
+		<language name="English">Makes a wish on a\nshooting star and is\ngone. The next one in\ngets fully healed.\n</language>
 	</row>
 	<row id="msg_0749_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Salt in the wound.\nDouble damage if the\nfoe is under half HP.</language>
+		<language name="English">Salt in the wound.\nDouble damage if the\nfoe is under half HP.\n</language>
 	</row>
 	<row id="msg_0749_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws whatever fruit\nit’s holding.\nPineapple, watermelon.\nType depends on the\nfruit.</language>
+		<language name="English">Throws the fruit it’s\nholding. Type and\npower depend on the\nfruit.\n</language>
 	</row>
 	<row id="msg_0749_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Breaks the foe’s\nankles. Hits even\nthrough Protect or\nDetect.</language>
+		<language name="English">Breaks the foe’s\nankles. Hits even\nthrough Protect or\nDetect.\n</language>
 	</row>
 	<row id="msg_0749_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grabs the foe’s berry\nwith a reacher. Eats\nit.</language>
+		<language name="English">Grabs the foe’s berry\nwith a reacher. Eats\nit.\n</language>
 	</row>
 	<row id="msg_0749_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tailgate party.\nDoubles the team’s\nSpeed for a few turns.</language>
+		<language name="English">Tailgate party.\nDoubles the team’s\nSpeed for a few\nturns.\n</language>
 	</row>
 	<row id="msg_0749_00367" index="367">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A coin in the mall\nmassage chair. Sharply\nraises a random stat.</language>
+		<language name="English">A coin in the mall\nmassage chair.\nSharply raises a\nrandom stat.\n</language>
 	</row>
 	<row id="msg_0749_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Takes the hit, then\npays it back with\ninterest.</language>
+		<language name="English">Takes the hit, then\npays it back with\ninterest.\n</language>
 	</row>
 	<row id="msg_0749_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits on an e-scooter,\nthen pulls a U-turn\nand swaps out.</language>
+		<language name="English">Hits on an e-scooter,\nthen pulls a U-turn\nand swaps out.\n</language>
 	</row>
 	<row id="msg_0749_00370" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A throwdown. Lowers\nthe user’s Defense and\nSp. Def.</language>
+		<language name="English">A throwdown. Lowers\nthe user’s Defense\nand Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gets back at the foe:\ntheir stuff out on the\nlawn. Twice as hard if\nit moved first.</language>
+		<language name="English">Gets back at the foe:\ntheir stuff out on the\nlawn. Twice as hard if\nit moved first.\n</language>
 	</row>
 	<row id="msg_0749_00372" index="372">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Insurance payout.\nDouble damage if the\nfoe’s already hurt.</language>
+		<language name="English">Insurance payout.\nDouble damage if the\nfoe’s already hurt.\n</language>
 	</row>
 	<row id="msg_0749_00373" index="373">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caution tape and an\nevidence bag. The foe\ncan’t use items.</language>
+		<language name="English">Caution tape and an\nevidence bag. The foe\ncan’t use items.\n</language>
 	</row>
 	<row id="msg_0749_00374" index="374">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tosses the held item\nat the foe.</language>
+		<language name="English">Tosses the held item\nat the foe.\n</language>
 	</row>
 	<row id="msg_0749_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hot potato. Passes its\nstatus problem to the\nfoe.</language>
+		<language name="English">Hot potato. Passes\nits status problem to\nthe foe.\n</language>
 	</row>
 	<row id="msg_0749_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plays the reverse\ncard. Stronger the\nless PP it has left.</language>
+		<language name="English">Plays the reverse\ncard. Stronger the\nless PP it has left.\n</language>
 	</row>
 	<row id="msg_0749_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“You’re cut off.” The\nfoe can’t heal for\nfive turns.</language>
+		<language name="English">“You’re cut off.” The\nfoe can’t heal for\nfive turns.\n</language>
 	</row>
 	<row id="msg_0749_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shakes the foe down.\nStronger the more HP\nthey got.</language>
+		<language name="English">Shakes the foe down.\nStronger the more HP\nthey got.\n</language>
 	</row>
 	<row id="msg_0749_00379" index="379">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flips the script:\nswaps Attack and\nDefense.</language>
+		<language name="English">Flips the script:\nswaps Attack and\nDefense.\n</language>
 	</row>
 	<row id="msg_0749_00380" index="380">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gas station hot dog.\nThe foe’s Ability is\nout of commission.</language>
+		<language name="English">A gas station hot dog.\nThe foe’s Ability is\nout of commission.\n</language>
 	</row>
 	<row id="msg_0749_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rubs the rabbit foot.\nThe team can’t take\ncrits for five turns.</language>
+		<language name="English">Rubs the rabbit foot.\nThe team can’t take\ncrits for five turns.\n</language>
 	</row>
 	<row id="msg_0749_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skips the whole line\nand uses the foe’s\nmove first, harder.</language>
+		<language name="English">Skips the whole line\nand uses the foe’s\nmove first, harder.\n</language>
 	</row>
 	<row id="msg_0749_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plays a burned CD of\nthe last move used.</language>
+		<language name="English">Plays a burned CD of\nthe last move used.\n</language>
 	</row>
 	<row id="msg_0749_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swaps its pre-workout\nfor the foe’s\nchamomile tea: trades\nAttack and Sp. Atk\nchanges.</language>
+		<language name="English">Pre-workout for the\nfoe’s chamomile: swaps\nAttack and Sp. Atk\nchanges.\n</language>
 	</row>
 	<row id="msg_0749_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swaps its sturdy\numbrella for the foe’s\nbusted one: trades\nDefense and Sp. Def\nchanges.</language>
+		<language name="English">Good umbrella for the\nfoe’s busted one:\nswaps Def and Sp. Def\nchanges.\n</language>
 	</row>
 	<row id="msg_0749_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Time out in the\ncorner. Hits harder\nthe more the foe’s\nstats went up.</language>
+		<language name="English">Time out in the\ncorner. Hits harder\nthe more the foe’s\nstats went up.\n</language>
 	</row>
 	<row id="msg_0749_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Out of options. Throws\nthe kitchen sink. Only\nworks after every\nother move.</language>
+		<language name="English">Out of options.\nThrows the kitchen\nsink. Only works after\nevery other move.\n</language>
 	</row>
 	<row id="msg_0749_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">3 a.m. thoughts. The\nfoe can’t sleep.</language>
+		<language name="English">3 a.m. thoughts. The\nfoe can’t sleep.\n</language>
 	</row>
 	<row id="msg_0749_00389" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A cheap shot before\nthe foe attacks. Goes\nfirst.</language>
+		<language name="English">A cheap shot before\nthe foe attacks. Goes\nfirst.\n</language>
 	</row>
 	<row id="msg_0749_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scatters rusty nails.\nPoisons foes that\nswitch in.</language>
+		<language name="English">Scatters rusty nails.\nPoisons foes that\nswitch in.\n</language>
 	</row>
 	<row id="msg_0749_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swaps mood rings with\nthe foe: all stat\nchanges trade places.</language>
+		<language name="English">Swaps mood rings with\nthe foe: all stat\nchanges trade places.\n</language>
 	</row>
 	<row id="msg_0749_00392" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kicks back on a pool\nfloat. Restores a\nlittle HP every turn.</language>
+		<language name="English">Kicks back on a pool\nfloat. Restores a\nlittle HP every turn.\n</language>
 	</row>
 	<row id="msg_0749_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hops on a hoverboard\nand somehow it floats.\nImmune to Ground moves\nfor five turns.</language>
+		<language name="English">Hops on a hoverboard\nand somehow it floats.\nImmune to Ground\nmoves for five turns.\n</language>
 	</row>
 	<row id="msg_0749_00394" index="394">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rides a flaming\nshopping cart into the\nfoe. Big recoil. May\nburn.</language>
+		<language name="English">Rides a flaming\nshopping cart into the\nfoe. Big recoil. May\nburn.\n</language>
 	</row>
 	<row id="msg_0749_00395" index="395">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stiff arm to the\nface. May paralyze.</language>
+		<language name="English">A stiff arm to the\nface. May paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00396" index="396">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Farms aura pose by\npose, then throws all\nof it. Never misses.</language>
+		<language name="English">Farms aura pose by\npose, then throws all\nof it. Never misses.\n</language>
 	</row>
 	<row id="msg_0749_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A full car detail.\nSharply raises Speed.</language>
+		<language name="English">A full car detail.\nSharply raises Speed.\n</language>
 	</row>
 	<row id="msg_0749_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A dirty shiv. May\npoison the foe.</language>
+		<language name="English">A dirty shiv. May\npoison the foe.\n</language>
 	</row>
 	<row id="msg_0749_00399" index="399">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pure dark vibes off a\nblack candle. May make\nthe foe flinch.</language>
+		<language name="English">Pure dark vibes off a\nblack candle. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lights out, then slash\nmarks. High critical-\nhit ratio.</language>
+		<language name="English">Lights out, then slash\nmarks. High\ncritical-hit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snaps the foe with a\nwet durag.</language>
+		<language name="English">Snaps the foe with a\nwet durag.\n</language>
 	</row>
 	<row id="msg_0749_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ch-ch-ch-chia. Grows a\nwhole chia afro on the\nfoe till it bursts.</language>
+		<language name="English">Ch-ch-ch-chia. Grows\na whole chia afro on\nthe foe till it bursts.\n</language>
 	</row>
 	<row id="msg_0749_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A flurry of past due\nbills. May make the\nfoe flinch.</language>
+		<language name="English">A flurry of past due\nbills. May make the\nfoe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Salon shears. Snip,\nsnip. Leaves a bald\nspot.</language>
+		<language name="English">Salon shears. Snip,\nsnip. Leaves a bald\nspot.\n</language>
 	</row>
 	<row id="msg_0749_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One mosquito. The foe\nslaps themself. May\nlower Sp. Def.</language>
+		<language name="English">One mosquito. The foe\nslaps themself. May\nlower Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The parade dragon\ndances in.\nFirecrackers\neverywhere.</language>
+		<language name="English">The parade dragon\ndances in.\nFirecrackers\neverywhere.\n</language>
 	</row>
 	<row id="msg_0749_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rush hour stampede off\nthe subway. May make\nthe foe flinch.</language>
+		<language name="English">Rush hour stampede\noff the subway. May\nmake the foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fires a beam off the\nuser’s chain.</language>
+		<language name="English">Fires a beam off the\nuser’s chain.\n</language>
 	</row>
 	<row id="msg_0749_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taxes the foe with a\npunch. Heals half the\ndamage dealt.</language>
+		<language name="English">Taxes the foe with a\npunch. Heals half the\ndamage dealt.\n</language>
 	</row>
 	<row id="msg_0749_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">High noon. Draws\nfirst. Always goes\nfirst.</language>
+		<language name="English">High noon. Draws\nfirst. Always goes\nfirst.\n</language>
 	</row>
 	<row id="msg_0749_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A firework mortar. Big\nblast, bad aim. May\nlower Sp. Def.</language>
+		<language name="English">A firework mortar. Big\nblast, bad aim. May\nlower Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shotguns an energy\ndrink, fires the\ncaffeine. May lower\nSp. Def.</language>
+		<language name="English">Shotguns an energy\ndrink, fires the\ncaffeine. May lower\nSp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cape on, goggles down,\noff the roof of the\nprojects. Full send.\nBig recoil.</language>
+		<language name="English">Cape on, goggles\ndown, off the roof of\nthe projects. Full\nsend. Big recoil.\n</language>
 	</row>
 	<row id="msg_0749_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The manhole blows and\nlaunches the foe. May\nlower Sp. Def.</language>
+		<language name="English">The manhole blows and\nlaunches the foe. May\nlower Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shell game with two\nbags. Swaps held items\nwith the foe.</language>
+		<language name="English">Shell game with two\nbags. Swaps held items\nwith the foe.\n</language>
 	</row>
 	<row id="msg_0749_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plows into the foe in\nan 18-wheeler. The\nuser has to recover\nnext turn.</language>
+		<language name="English">Plows into the foe in\nan 18-wheeler. The\nuser has to recover\nnext turn.\n</language>
 	</row>
 	<row id="msg_0749_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pulls out the\nconspiracy board. It’s\nall connected. Sharply\nraises Sp. Atk.</language>
+		<language name="English">The conspiracy board.\nIt’s all connected.\nSharply raises Sp.\nAtk.\n</language>
 	</row>
 	<row id="msg_0749_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Works the speed bag,\nthen the foe. Always\ngoes first.</language>
+		<language name="English">Works the speed bag,\nthen the foe. Always\ngoes first.\n</language>
 	</row>
 	<row id="msg_0749_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A snow plow dumps a\nwall of snow. Twice as\nhard if hit first.</language>
+		<language name="English">A snow plow dumps a\nwall of snow. Twice as\nhard if hit first.\n</language>
 	</row>
 	<row id="msg_0749_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flicks ice cubes from\nthe cup. Always goes\nfirst.</language>
+		<language name="English">Flicks ice cubes from\nthe cup. Always goes\nfirst.\n</language>
 	</row>
 	<row id="msg_0749_00421" index="421">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Claws rip up out of\nthe foe’s shadow. High\ncritical-hit ratio.</language>
+		<language name="English">Claws rip up out of\nthe foe’s shadow. High\ncritical-hit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jumper cables to the\nfoe. May paralyze or\nflinch.</language>
+		<language name="English">Jumper cables to the\nfoe. May paralyze or\nflinch.\n</language>
 	</row>
 	<row id="msg_0749_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chugs a slushie, brain\nfreeze, icy chomp. May\nfreeze or flinch.</language>
+		<language name="English">Chugs a slushie, brain\nfreeze, icy chomp. May\nfreeze or flinch.\n</language>
 	</row>
 	<row id="msg_0749_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hot grill bite. May\nburn or flinch.</language>
+		<language name="English">A hot grill bite. May\nburn or flinch.\n</language>
 	</row>
 	<row id="msg_0749_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Footsteps behind the\nfoe. Always goes\nfirst.</language>
+		<language name="English">Footsteps behind the\nfoe. Always goes\nfirst.\n</language>
 	</row>
 	<row id="msg_0749_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pigeon drops one\nright on the foe’s\nhead. May lower\naccuracy.</language>
+		<language name="English">A pigeon drops one\nright on the foe’s\nhead. May lower\naccuracy.\n</language>
 	</row>
 	<row id="msg_0749_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throws shade.\nLiterally: a\nlampshade, spinning.\nHigh crit ratio.</language>
+		<language name="English">Throws shade.\nLiterally: a\nlampshade, spinning.\nHigh crit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rings the singing\nbowl, then a full-\nspeed headbutt. May\nmake the foe flinch.</language>
+		<language name="English">Rings the singing bowl,\nthen a full-speed\nheadbutt. May make\nthe foe flinch.\n</language>
 	</row>
 	<row id="msg_0749_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spinner rims catch the\nsun right in the foe’s\neyes. May lower\naccuracy.</language>
+		<language name="English">Spinner rims catch the\nsun right in the foe’s\neyes. May lower\naccuracy.\n</language>
 	</row>
 	<row id="msg_0749_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A disposable camera\nflash. Seeing spots.\nMay lower Sp. Def.</language>
+		<language name="English">A disposable camera\nflash. Seeing spots.\nMay lower Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Parkours off\neverything and lands\non the foe. May\nconfuse them.</language>
+		<language name="English">Parkours off\neverything and lands\non the foe. May\nconfuse them.\n</language>
 	</row>
 	<row id="msg_0749_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Opens a window and\nfans out the fog with\na pizza box. Lowers\nthe foe’s evasion.</language>
+		<language name="English">Opens a window and\nfans out the fog with\na pizza box. Lowers\nthe foe’s evasion.\n</language>
 	</row>
 	<row id="msg_0749_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits SLOW on the\nremote. The slow move\nfirst for five turns.</language>
+		<language name="English">Hits SLOW on the\nremote. The slow move\nfirst for five turns.\n</language>
 	</row>
 	<row id="msg_0749_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Meteors. Then a bigger\none. Sharply lowers\nthe user’s Sp. Atk.</language>
+		<language name="English">Meteors. Then a\nbigger one. Sharply\nlowers the user’s Sp.\nAtk.\n</language>
 	</row>
 	<row id="msg_0749_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Six cords, one outlet.\nShocks everybody. May\nparalyze.</language>
+		<language name="English">Six cords, one outlet.\nShocks everybody.\nMay paralyze.\n</language>
 	</row>
 	<row id="msg_0749_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The lava lamp erupts\non everybody. May\nburn.</language>
+		<language name="English">The lava lamp erupts\non everybody. May\nburn.\n</language>
 	</row>
 	<row id="msg_0749_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A storm of zaza. Hits\nhard but sharply\nlowers the user’s Sp.\nAtk.</language>
+		<language name="English">A storm of zaza. Hits\nhard but sharply\nlowers the user’s Sp.\nAtk.\n</language>
 	</row>
 	<row id="msg_0749_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goes and gets the\nextension cord.</language>
+		<language name="English">Goes and gets the\nextension cord.\n</language>
 	</row>
 	<row id="msg_0749_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wrecking ball. Third\nswing hits. The user\nrests next turn.</language>
+		<language name="English">A wrecking ball. Third\nswing hits. The user\nrests next turn.\n</language>
 	</row>
 	<row id="msg_0749_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tags the foe with a\ndirty spray-paint X.\nHigh crit ratio. May\npoison.</language>
+		<language name="English">Tags the foe with a\ndirty spray-paint X.\nHigh crit ratio. May\npoison.\n</language>
 	</row>
 	<row id="msg_0749_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The garbage truck\nunloads on the foe.\nMay poison.</language>
+		<language name="English">The garbage truck\nunloads on the foe.\nMay poison.\n</language>
 	</row>
 	<row id="msg_0749_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A steel core round.\nMay make the foe\nflinch.</language>
+		<language name="English">A steel core round.\nMay make the foe\nflinch.\n</language>
 	</row>
 	<row id="msg_0749_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant magnet drags\nthe foe in and the\nhubcaps pile on. Never\nmisses.</language>
+		<language name="English">A giant magnet drags\nthe foe in and the\nhubcaps pile on. Never\nmisses.\n</language>
 	</row>
 	<row id="msg_0749_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shades on, rocks up.\nHigh critical-hit\nratio.</language>
+		<language name="English">Shades on, rocks up.\nHigh critical-hit\nratio.\n</language>
 	</row>
 	<row id="msg_0749_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A smooth pickup line.\nSharply lowers Sp. Atk\nof the other gender.</language>
+		<language name="English">A smooth pickup line.\nSharply lowers Sp.\nAtk of the other\ngender.\n</language>
 	</row>
 	<row id="msg_0749_00446" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lays a spike strip on\nthe foe’s side. Hurts\nanybody who swaps in.</language>
+		<language name="English">Lays a spike strip on\nthe foe’s side. Hurts\nanybody who swaps in.\n</language>
 	</row>
 	<row id="msg_0749_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gets the foe laced.\nThe heavier they are,\nthe harder they fall.</language>
+		<language name="English">Gets the foe laced.\nThe heavier they are,\nthe harder they fall.\n</language>
 	</row>
 	<row id="msg_0749_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yaps nonstop till the\nfoe’s head spins. May\nconfuse.</language>
+		<language name="English">Yaps nonstop till the\nfoe’s head spins. May\nconfuse.\n</language>
 	</row>
 	<row id="msg_0749_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Court’s in session.\nThe gavel comes down.</language>
+		<language name="English">Court’s in session.\nThe gavel comes down.\n</language>
 	</row>
 	<row id="msg_0749_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bed bugs. If the foe’s\nholding a Berry, the\nuser eats it.</language>
+		<language name="English">Bed bugs. If the foe’s\nholding a Berry, the\nuser eats it.\n</language>
 	</row>
 	<row id="msg_0749_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charges the phone to\n100% and fires. May\nraise Sp. Atk.</language>
+		<language name="English">Charges the phone to\n100% and fires. May\nraise Sp. Atk.\n</language>
 	</row>
 	<row id="msg_0749_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Measures twice, then\njust swings the two-\nby-four. Big recoil.</language>
+		<language name="English">Measures twice, then\njust swings the\ntwo-by-four. Big\nrecoil.\n</language>
 	</row>
 	<row id="msg_0749_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jet ski to the face.\nAlways goes first.</language>
+		<language name="English">Jet ski to the face.\nAlways goes first.\n</language>
 	</row>
 	<row id="msg_0749_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Order placed. Every\ndelivery driver in the\ncity pulls up. High\ncrit ratio.</language>
+		<language name="English">Order placed. Every\ndelivery driver in the\ncity pulls up. High\ncrit ratio.\n</language>
 	</row>
 	<row id="msg_0749_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mall cops on segways\nsurround the user.\nRaises Defense and Sp.\nDef.</language>
+		<language name="English">Mall cops on segways\nsurround the user.\nRaises Defense and\nSp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honey in the tea.\nHeals half its max HP.</language>
+		<language name="English">Honey in the tea.\nHeals half its max HP.\n</language>
 	</row>
 	<row id="msg_0749_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Headbangs straight\ninto the foe. Huge\nrecoil.</language>
+		<language name="English">Headbangs straight\ninto the foe. Huge\nrecoil.\n</language>
 	</row>
 	<row id="msg_0749_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ding ding. Two quick\njabs.</language>
+		<language name="English">Ding ding. Two quick\njabs.\n</language>
 	</row>
 	<row id="msg_0749_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clocks out so hard\ntime stops. The user\nrests next turn.</language>
+		<language name="English">Clocks out so hard\ntime stops. The user\nrests next turn.\n</language>
 	</row>
 	<row id="msg_0749_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unzips space itself.\nLands critical hits\neasy.</language>
+		<language name="English">Unzips space itself.\nLands critical hits\neasy.\n</language>
 	</row>
 	<row id="msg_0749_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moonwalks off for\ngood. The one who\ncomes in next gets\nfully healed.</language>
+		<language name="English">Moonwalks off for\ngood. The one who\ncomes in next gets\nfully healed.\n</language>
 	</row>
 	<row id="msg_0749_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Into the trash\ncompactor. Stronger\nthe more HP the foe\nhas.</language>
+		<language name="English">Into the trash\ncompactor. Stronger\nthe more HP the foe\nhas.\n</language>
 	</row>
 	<row id="msg_0749_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flamin’ hot chips, the\nwhole bag. Traps the\nfoe for a few turns.</language>
+		<language name="English">Flamin’ hot chips, the\nwhole bag. Traps the\nfoe for a few turns.\n</language>
 	</row>
 	<row id="msg_0749_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The whole block’s\nlights go out. The\nfoes fall asleep in\nthe dark.</language>
+		<language name="English">The whole block’s\nlights go out. The\nfoes fall asleep in the\ndark.\n</language>
 	</row>
 	<row id="msg_0749_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pollen count: EXTREME.\nThe foe sneezes so\nhard it hurts. May\nsharply lower Sp. Def.</language>
+		<language name="English">Pollen count:\nEXTREME. Sneezes so\nhard it hurts. May\nsharply lower Sp. Def.\n</language>
 	</row>
 	<row id="msg_0749_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somebody let one go in\nthe elevator. May\nraise all the user’s\nstats.</language>
+		<language name="English">Somebody let one go in\nthe elevator. May\nraise all the user’s\nstats.\n</language>
 	</row>
 	<row id="msg_0749_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ghost rides the whip.\nVanishes, then hits\nnext turn.</language>
+		<language name="English">Ghost rides the whip.\nVanishes, then hits\nnext turn.\n</language>
 	</row>
 </body>

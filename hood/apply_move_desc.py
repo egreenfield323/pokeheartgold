@@ -21,18 +21,28 @@ def main():
     names = ah.head_rows("msg_0750")
     orig = ah.head_rows("msg_0749")
     index = {v: k for k, v in names.items()}
-    width = max(len(line) for t in orig.values() for line in t.split("\\n"))     # 21 in the original
+    import text_edits
+    px = lambda s: sum(text_edits.char_px(c) for c in s)
+    # wrap by real glyph pixels, not characters: the summary box is as wide as the original's widest line (120 px)
+    # and shows 4 lines (the original rows are 4 lines + a trailing \n) - wider lines and a 5th line get cut off
+    width = max(px(line) for t in orig.values() for line in t.split("\\n"))
+    max_lines = 4
     bank = ah.Bank.get("msg_0749")
     errors = []
     for name, text in desc.items():
         if name not in index:
             errors.append(f"{name}: no such move")
             continue
-        lines = textwrap.wrap(ah.fix_quotes(text), width - 1)
-        if len(lines) > 5:
-            errors.append(f"{name}: {len(lines)} lines (max 5): {text}")
+        lines = []
+        for word in ah.fix_quotes(text).split():
+            if lines and px(lines[-1] + " " + word) <= width:
+                lines[-1] += " " + word
+            else:
+                lines.append(word)
+        if len(lines) > max_lines or any(px(l) > width for l in lines):
+            errors.append(f"{name}: {len(lines)} lines (max {max_lines} at {width}px): {text}")
             continue
-        bank.set(index[name], "\\n".join(lines))
+        bank.set(index[name], "\\n".join(lines) + "\\n")
     if errors:
         sys.exit("\n".join(errors))
     import text_edits                          # hand edits from the drip editor's Text tab win
